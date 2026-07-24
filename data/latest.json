@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-24T20:41:17Z",
+ "collected_at": "2026-07-24T22:19:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8185,
-   "chg1d_pct": 0.2
+   "price": 0.8177,
+   "chg1d_pct": 0.1
   },
   "USDJPY": {
-   "price": 163.849,
-   "chg1d_pct": 0.01
+   "price": 163.791,
+   "chg1d_pct": -0.03
   },
   "GBPCAD": {
-   "price": 1.8772,
-   "chg1d_pct": 0.12
+   "price": 1.8777,
+   "chg1d_pct": 0.15
   },
   "AUDJPY": {
-   "price": 114.362,
-   "chg1d_pct": 0.19
+   "price": 114.373,
+   "chg1d_pct": 0.2
   },
   "EURUSD": {
-   "price": 1.137,
-   "chg1d_pct": -0.06
+   "price": 1.1375,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.0899,
-   "chg1d_pct": 0.23
+   "price": 1.0897,
+   "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 90.42,
-   "chg1d_pct": -1.92
+   "price": 90.47,
+   "chg1d_pct": -1.87
   },
   "BRENT": {
-   "price": 98.13,
-   "chg1d_pct": -2.54
+   "price": 98.38,
+   "chg1d_pct": -2.29
   },
   "GOLD": {
-   "price": 4055.9,
-   "chg1d_pct": 0.23
+   "price": 4055.7,
+   "chg1d_pct": 0.22
   },
   "SPX_FUT": {
-   "price": 7440.25,
-   "chg1d_pct": -0.06
+   "price": 7444.0,
+   "chg1d_pct": -0.01
   },
   "NAS_FUT": {
-   "price": 28289.0,
-   "chg1d_pct": -1.16
+   "price": 28306.5,
+   "chg1d_pct": -1.1
   }
  },
  "headlines": [
@@ -69,14 +69,24 @@
    "pub": "Fri, 24 Jul 2026 12:14:30 GMT"
   },
   {
-   "t": "Iran-Krieg: Vier Tote bei US-Angriffen gemeldet – Trump will Schäden an Schiffen mit iranischem Geld begleichen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUDVzWUhfUFVITWFtMzNWTzAxLUxoUWVXdllTbWZRZzU3RHJ4Y0F1TWVCUkVITmtyekVyN3JhQlBVeTdFT0J5MTlzczRvSDY5VmlFcVM5V1piSHRBOWpBXzJCbW1CQnpRcXluT3Ryd0t5dEtYdy1KSHhHb1Zzc25sSWFkU2RxSUFMZjMzNjlsRnY0ck9zbnhxdlN6OVhSNWsxektuS0dCVktXOW8tam40QXFyek9Ld3l1NVkyLVVOOWpKTC1TTWJSZTlJM3BhMnJTd0pBNnZYTXltUUZKSjZpVWZndzQtQS1rbUpVeVFBbXVLSVVGam1YYm1kMkhKaklhYW9nRktxZkJUTHY3cGFZ?oc=5",
-   "pub": "Fri, 24 Jul 2026 04:59:47 GMT"
+   "t": "Iran-Krieg aktuell: Saudischer Tanker beschossen – Luftangriffe im Jemen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGJKSE83M1JMakJUUzFPNmVFb2Z4YXlOY1lMM19mZU5LcXBCREc3Y0JtMWs4Rm1VY1JSOXB2OFRNMDRya0FycVpSUzY4N0tPeDZDM1IzQUNaRjFuakFZZ1UwNkJkZHhXU3lqcmZSQlAtZ0FiWFNJVFU1ck4wakZ3dEh3X3lJeVFzQ1NkUXlIZXBQUDhXT3VjMjZKNHVEZ1c5N25kclZSc29QWTlQZDdJbE11cEQ?oc=5",
+   "pub": "Fri, 24 Jul 2026 21:47:00 GMT"
+  },
+  {
+   "t": "Irankrieg: Jetzt droht wirklich der Ölschock - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZVFkQWpMczZvZzFHWXpzWDFvVUo5TDVueldid2FOMThCcTlqcDR0eVNFWkxYekFNZkJWUGhtelZQUHdrRU95M1VCa1BwcnB2M2haanJhdHFpdnZ0Q0NQQ0dvOXpnUi13UDBPMHUyTGI3NGVobTI2aHBSUkxQZUxiRmNXaER0cFkwOERVR0F3?oc=5",
+   "pub": "Fri, 24 Jul 2026 05:32:52 GMT"
   },
   {
    "t": "Der Yen: Mehr als eine Zinsgeschichte - DWS Asset Management",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGJSODFmTHBSOVhCNUZDeEhKdWxJbEN6a28xZlZwZmU0aFhiR0MzSG5DXzItTkV5VTVNRWI4X0NYYjdjQWtQRW5aNE1OSTk2ZUd1TzJFVk4xcjVEendvUUVsQkNuZHpXdFBpVWU1elFXVnZaSFN5YlUyaHNvQWNrR0N6Q1JVY25ZYUJpRmlGbGI2elVkWlloUElhYnY5VFc3S3BWU25mYw?oc=5",
    "pub": "Fri, 24 Jul 2026 08:01:58 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Vier Tote bei US-Angriffen gemeldet – Trump will Schäden an Schiffen mit iranischem Geld begleichen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUDVzWUhfUFVITWFtMzNWTzAxLUxoUWVXdllTbWZRZzU3RHJ4Y0F1TWVCUkVITmtyekVyN3JhQlBVeTdFT0J5MTlzczRvSDY5VmlFcVM5V1piSHRBOWpBXzJCbW1CQnpRcXluT3Ryd0t5dEtYdy1KSHhHb1Zzc25sSWFkU2RxSUFMZjMzNjlsRnY0ck9zbnhxdlN6OVhSNWsxektuS0dCVktXOW8tam40QXFyek9Ld3l1NVkyLVVOOWpKTC1TTWJSZTlJM3BhMnJTd0pBNnZYTXltUUZKSjZpVWZndzQtQS1rbUpVeVFBbXVLSVVGam1YYm1kMkhKaklhYW9nRktxZkJUTHY3cGFZ?oc=5",
+   "pub": "Fri, 24 Jul 2026 04:59:47 GMT"
   },
   {
    "t": "Iran lehnt offenbar neuen Vorschlag ab: Trump erwägt „massiven Angriff, größer als je zuvor“ - Berliner Zeitung",
@@ -92,16 +102,6 @@
    "t": "Seefracht: Trump will Iran für Schäden an Schiffen und Ladung zahlen lassen - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1UtaXpibGVUcVhPaGZhVGxuRDVyTHVUZ1E5alBad0RxaUY4b1ZtTFZQcXNqbjRpMWFkdzdCX1R5ZlJlb1RKU1J4WEU1WWRWeFhLY2lNZGV3d2xKNW1LQWI1UklCTGlUT0dyc1JkNC1TVjZWV2VKeGpjUnRpbU5FOVBWWkdQNlVHWFoxT05jOTJqejNkQWRpQnd2aDRuSDdXOGM2WEx5azRLZ3BOXzlnNEN1TTFyVmM?oc=5",
    "pub": "Fri, 24 Jul 2026 08:30:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg aktuell: Araghtschi reagiert auf Trump-Ankündigung - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnQ5eFlzNU5ydEpkNklTZ1N4THNYYnZQZkp1RG80Rk4yck10ZW5YUVlpREdmZUhSdmlMWTYwS1pDSk5GOXFzWFFRbjhHTDFfVlVWS3U2RHdEdFhsbHNacENuMVhpbkdvODY1b1RBbGFoMTQwWEJSVlJkemVXZzBBNmpSZnJlMEVPUVVSQ2ItZUh5RF9RTXN6Q1BDaktldnlrY3UwalhISU1SYndoYnpsdGZVQVEyTmQ2Q0doQWRn?oc=5",
-   "pub": "Fri, 24 Jul 2026 09:39:00 GMT"
-  },
-  {
-   "t": "Wegen Iran-Krieg - Malaysia Ersatzkandidat für Formel-1-Kalender - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkROSFFOZk9vcHZZMW1Zb0tWbFd3NXhLRjFTXzcwMEc2RERpZi0xN2gzTnRTWGc0bUo3TEpqcHplYmJuY0czVG5xX2FFSldhaHVHWTFoTEtpcVcwam5WZXhTTGtFOFZXZjhSXzZWZ2JxOTEtNFVoWkNnUzdEUmVjUmI1Z2RMMWhNTmVvY19OMA?oc=5",
-   "pub": "Fri, 24 Jul 2026 14:30:13 GMT"
   },
   {
    "t": "Trump: Iran soll Reparatur der Schäden an Frachtern bezahlen - DW.com",
