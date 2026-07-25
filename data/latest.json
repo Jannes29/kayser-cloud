@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-25T22:11:12Z",
+ "collected_at": "2026-07-25T23:14:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,19 +54,14 @@
    "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
   },
   {
-   "t": "Nato-Gipfel in der Türkei: Anschlagsgefahr durch Iran-Verbündete soll Trump zu Flugzeugwechsel gezwungen haben - WELT",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOemluMmx0aTQ2STYyU2JsRU5KdUpxQmZjdlZ0aVdtU2w2MEtRQnN5VkNtaWphOWNtUWw2cEJEQS1feENsU01MWmNSTGJpbUV5Nlc2OHYwd3RwWkhpTmxGTkM1bmdDekdWbVhsdTNIMUJaMXAzUFVqSE50MEdvTDdVSkRDdzdxZU5Iemo0UXB1VnhBLUtUTnRKUENQNjU0VTY5Y0Y5NF9QQ0F0cHRGaVVBa1c3MFdjNEIxeWxsMGtiZHd2dFk3NVFMNVM0WWhYNndjcDNMQ3ZoRW5VblBndzh5ZklfUC10dFV0OERKT1FwRnZZa0FxT1A3Yk1BeFNLT3dYeHF4UTBkYTlEbFBmUV9PWkZR?oc=5",
-   "pub": "Sat, 25 Jul 2026 14:34:36 GMT"
-  },
-  {
    "t": "»China will auf keinen Fall, dass der Iran diesen Krieg verliert« - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDg3LTUxNWdTaW1OUm83akJULTVYdGcxLWtwS05BMGNxaFZjc3gtVTVpei0wa3VPMk9WTWo3RmU5S0VPcjZSbXNUOFowZ01nY3I0ZE9LdWJlWDBnRkpHV3RtaUV0Y0JPZ1pwQ0c4U1kwNXBRd0tfOEVyOUR1ZDVER0FNZVNQVmZXYzVIY3BKNGlFQkhyWWZfX29qanZJWHVx?oc=5",
    "pub": "Sat, 25 Jul 2026 18:32:05 GMT"
   },
   {
-   "t": "Iran: Neue Atomanlage unter dem Pickaxe Mountain? - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObU9YUGprUzd6MFMwZ3IzR0lIRmllN0owUUJjTmdQRkxHWks3MUhUS205MUxfcUJZWmFFbV82NHVIMDI4UTRTTVNiMVB5eFVBYmZqYU1sXzF4TUhvT3VuaDF5VHdUQ1ZZSS1EOXRva1dBWEdOOXdKMGR6TmdyLXgyQlVIR0ppQ2fSAYcBQVVfeXFMT2NSbnFvRklmLWRidGllQVcwVU05dWkzMHlUcWk3T3BaSHFFU29Id1pzSmRTNkhaWFB2Qk9wMUI3cXhuNF9HS1JJaFdGYUUyTk5iM2c2dm0wLWVBd01KZzM4dDJtMXR0N3NNaDN4QTdrNHUtWElkcFJjVXJDQWtHcEJPeEFxNm8w?oc=5",
-   "pub": "Sat, 25 Jul 2026 03:36:09 GMT"
+   "t": "Nato-Gipfel in der Türkei: Anschlagsgefahr durch Iran-Verbündete soll Trump zu Flugzeugwechsel gezwungen haben - WELT",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOemluMmx0aTQ2STYyU2JsRU5KdUpxQmZjdlZ0aVdtU2w2MEtRQnN5VkNtaWphOWNtUWw2cEJEQS1feENsU01MWmNSTGJpbUV5Nlc2OHYwd3RwWkhpTmxGTkM1bmdDekdWbVhsdTNIMUJaMXAzUFVqSE50MEdvTDdVSkRDdzdxZU5Iemo0UXB1VnhBLUtUTnRKUENQNjU0VTY5Y0Y5NF9QQ0F0cHRGaVVBa1c3MFdjNEIxeWxsMGtiZHd2dFk3NVFMNVM0WWhYNndjcDNMQ3ZoRW5VblBndzh5ZklfUC10dFV0OERKT1FwRnZZa0FxT1A3Yk1BeFNLT3dYeHF4UTBkYTlEbFBmUV9PWkZR?oc=5",
+   "pub": "Sat, 25 Jul 2026 14:34:36 GMT"
   },
   {
    "t": "Iran-Krieg aktuell: Iran ruft zu Dialog im Jemen-Konflikt auf - T-Online",
@@ -74,14 +69,14 @@
    "pub": "Sat, 25 Jul 2026 13:01:00 GMT"
   },
   {
+   "t": "Iran: Neue Atomanlage unter dem Pickaxe Mountain? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObU9YUGprUzd6MFMwZ3IzR0lIRmllN0owUUJjTmdQRkxHWks3MUhUS205MUxfcUJZWmFFbV82NHVIMDI4UTRTTVNiMVB5eFVBYmZqYU1sXzF4TUhvT3VuaDF5VHdUQ1ZZSS1EOXRva1dBWEdOOXdKMGR6TmdyLXgyQlVIR0ppQ2fSAYcBQVVfeXFMT2NSbnFvRklmLWRidGllQVcwVU05dWkzMHlUcWk3T3BaSHFFU29Id1pzSmRTNkhaWFB2Qk9wMUI3cXhuNF9HS1JJaFdGYUUyTk5iM2c2dm0wLWVBd01KZzM4dDJtMXR0N3NNaDN4QTdrNHUtWElkcFJjVXJDQWtHcEJPeEFxNm8w?oc=5",
+   "pub": "Sat, 25 Jul 2026 03:36:09 GMT"
+  },
+  {
    "t": "USA und Saudi-Arabien: Droht jetzt ein atomares Wettrüsten im Nahen Osten? - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXB0QXJjMGU0aVdRVzdJMTNyYkZQQzVfc1VzMS1RX0xpX2k1Rm93Umc3RUlZZHRGZUplcEtWbnR0VG8tQkI4WFliMzVUMXZGUm5LelVDMWNGclNOZmQtR0xCSFQtX2FnLVlpMnhTZU14TEtNdXg3Tl9SYVJkVl9iZC1OSHNEdWotTzhTTXYwd2pRNkZOWVYycWdB?oc=5",
    "pub": "Sat, 25 Jul 2026 13:28:00 GMT"
-  },
-  {
-   "t": "\"Trump will den Iran wirtschaftlich strangulieren\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHdyTjZNN0I1MHlNZjNLcHZybWhVYlhQUUwycDZSdW04VjVkNHNGT3RaUlB4NkRBUk53dU5uZzlJSlAxUF9GTHlqVDFqSkpOejBiYVVIc19yUVl6WktTTTg2cmlHWDZwRzFDUy0wSG10V0toX0dfX1B6WHFnWmpQMlBDUmFoeHpwSDBfbXlJMlRKc0JxWEpPd2R6YmVMZXpwVmR4VEl1cFc1cE5rYnc?oc=5",
-   "pub": "Sat, 25 Jul 2026 17:16:28 GMT"
   },
   {
    "t": "Nahost-Konflikt: Iran verurteilt Angriff der Ukraine - TAG24",
@@ -99,9 +94,14 @@
    "pub": "Sat, 25 Jul 2026 12:37:00 GMT"
   },
   {
-   "t": "Sorge vor Eskalation: Saudi-Koalition greift im Jemen an - dw.com",
+   "t": "Sorge vor Eskalation: Saudi-Koalition greift im Jemen an - DW.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOG1OWTV5X0JraU9PVFZTUkxHcWxJbkZSS2dvZjVJM2RpbGNIY2FyU0djUjRla3FHRjJUYVBPNkFVU2VqVXE3WU1BRU9wVFVYZjhveS1yOUQwRHZwUkRHaEpyRE90VTR0Zkh1TFRVUWE1WGFaaER5eVBvUGlLOGZMa1pxSTlNdUk0a1RHMHRvV2xTcmJSWXdTVW5tYkdQLWZyQjhRSUo4blpPQ2gyT1BrMG01dlhFT0VCU2Nib2JxU2k4d9IBwgFBVV95cUxPTVV4WlI1WUhVenZraHVkZXR4MzZ2U2liWmk4MnRETjZCNVZySC1uLUxJZ1BHYmVyR3RYNFlfcE5ad3hHYWZuZ195eHRDVUpSUjlISlJYWTF0QkstWTJaOVk5VmlkQ0NVS2I5OFVjYzNYLTBkZE1jV1hsdEgwcmFRTkJwanh5TXZycUMyX0xtb08yYkNRb3A5VkY5MmptTG0zTmlBUnVNenJFSHZteXcwaXNqTWg4X3k4R0NIVWNwS0lQdw?oc=5",
    "pub": "Sat, 25 Jul 2026 10:50:39 GMT"
+  },
+  {
+   "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXVRNHFJR3dJak14OENzLVRPbno0SUNQb2RWNTBQdURQSDlqNFVyaFp4ZFN3MTAzZW9ZSWFLTjFKbUUwRlh1YmpiYUd5aS03RTVDREY4TS1tU25uTThRSGNtNzFRT0ZmcFNsQjIteVotVFZxSTBicXgzRHZsb1Q0UF9SUVdaTUVzNkNfeDNtOGdZNnFGZWJHalYtVXR1M1VNUjJYQzFKWXZkVjhRUi12SFpoV0RUNmZCU1F0eGtGNmoyOUhxUUNJT1VtU1RjVWVSckhWYkkzZGZ3UjhYbVJVR2NqSlk5XzRYeEZUTDN3NFB4QmM?oc=5",
+   "pub": "Sat, 25 Jul 2026 22:32:00 GMT"
   },
   {
    "t": "„Wir bezahlen den Preis“ – Jetzt gerät ein neues Land ins Visier des Iran - WELT",
