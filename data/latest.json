@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-25T03:42:53Z",
+ "collected_at": "2026-07-25T06:29:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -27,27 +27,32 @@
    "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 90.47,
-   "chg1d_pct": -1.87
+   "price": 89.31,
+   "chg1d_pct": -3.12
   },
   "BRENT": {
-   "price": 98.38,
-   "chg1d_pct": -2.29
+   "price": 96.78,
+   "chg1d_pct": -3.88
   },
   "GOLD": {
-   "price": 4055.7,
-   "chg1d_pct": 0.22
+   "price": 4070.8,
+   "chg1d_pct": 0.6
   },
   "SPX_FUT": {
-   "price": 7444.0,
-   "chg1d_pct": -0.01
+   "price": 7447.5,
+   "chg1d_pct": 0.03
   },
   "NAS_FUT": {
-   "price": 28306.5,
-   "chg1d_pct": -1.1
+   "price": 28282.25,
+   "chg1d_pct": -1.18
   }
  },
  "headlines": [
+  {
+   "t": "Energiewende: Unbezahlbare Windkraft, Gas-Engpass – der Iran-Krieg trifft Deutschland mit voller Wucht - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMl9YRVNyNVI1TXdVZ1hSMmNzdGRVQ1pXV3hyYi1iX2dUTWo4bGNaMk9Nc29NZElKVDJDaDRZOHhyS19zY0l5Q3JVdEgwVmh5RkpTbmFuSU9BTjVZazlGeURaLWc3UUFTTTlDN2drRDZFakZLZ1Nzd1E5eDZ3UDdINjZhdnI3ejVIckhaa2ZDRV9mQUtER2ZFQlNfOC1RQXBBelZmS0tFaHVLN0pLdTIyWTRzS3FvcEJoWWY3R2U4cmVTMWRLYjg3WmVoVHhtTXBHUnpoRThaQ1dyLXkyV2xXNFRrZVFsVmliNGhMMGJfWEVOd2VtNGc?oc=5",
+   "pub": "Sat, 25 Jul 2026 05:26:07 GMT"
+  },
   {
    "t": "Iran nimmt US-Verbündete Jordanien und Bahrain ins Visier - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVNZUTVCZElRak5zaS1iVFVVMG1hb1ZQTFBDUnlDYS1GRHZvOVZRNWI4bnBLTDB2NERiejFOb1pWVnBaUHFSYlNYWTQwZnBqRVR3dEdUeXhNSGtSWHR1U1UybGYwSmFuWkMtYlFWSElMejdoUW4zb3JsdWNWX1VBNTFqRXFpWEpzRWpiRVdwYUJwYTNIVk5zZGQwYWlGaEJkc1cxQktOUVRkTHJCMXlkdlVzYlpReTE4TFU5cUppOWEzRk5rYXI0?oc=5",
@@ -74,9 +79,19 @@
    "pub": "Fri, 24 Jul 2026 18:03:26 GMT"
   },
   {
+   "t": "Japan erwägt weiteren Eingriff am Devisenmarkt gegen den Kursverfall des Yen - Sumikai",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmpnZEF2S2x6VmdLQ2dDN2FrLTJhT3g2LUFDbkMtNkpYbGpFUV94dnhSQkdqTXhXczNTcFVxeG4zNF9hcERWXy00WFFfcHp6c2s4cVJ6Mk5YN3dieHhlVjV0SVlYLXlxcVRrYTUzMlFoLWJzT0trMmpoLWtfYkFSZHFfWHlSSmFycV9uZnNLOHFkaGpab3FlWnA2U3V2RklDMlJub0t2TnZtU01MRjJQelozX2NaeTFIUEdsZU1JMFhxQlB4TTdpMlhDVHQtQnVyNmNrNA?oc=5",
+   "pub": "Sat, 25 Jul 2026 05:00:00 GMT"
+  },
+  {
    "t": "Iran-Krieg aktuell: Araghtschi reagiert auf Trump-Ankündigung - T-Online",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnQ5eFlzNU5ydEpkNklTZ1N4THNYYnZQZkp1RG80Rk4yck10ZW5YUVlpREdmZUhSdmlMWTYwS1pDSk5GOXFzWFFRbjhHTDFfVlVWS3U2RHdEdFhsbHNacENuMVhpbkdvODY1b1RBbGFoMTQwWEJSVlJkemVXZzBBNmpSZnJlMEVPUVVSQ2ItZUh5RF9RTXN6Q1BDaktldnlrY3UwalhISU1SYndoYnpsdGZVQVEyTmQ2Q0doQWRn?oc=5",
    "pub": "Fri, 24 Jul 2026 20:12:00 GMT"
+  },
+  {
+   "t": "Trump: Iran soll Reparatur der Schäden an Frachtern bezahlen - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYnMzM0xDbmE0cUh2NWVJTC1jbGloRzRrdm45cG5MTDRmZnpiNXlKa0t4SDl6NXJDbnpyVzVsaS12ZUE5MElaTEplWUlCSTllMjVpUk9CRnB0WW92RlpyakE0aW1yV0ZET3FwODBKYlQ2QjNFelZ0SFVhX0F1LThWYUlKUDlBMndLbXVIbXZ1YzBSckR1NUw0azU4ZUJ4UFgtbktTdmNaT3RGZzNTVXZ5UVliUWlIRlEtZVY4RVN2RmZiWjNDZm9uajhKaExKV3NwMUdv0gHTAUFVX3lxTE5YbzY1NjgwdmNwNWRyMkNXV1drb3VvR19BamlSazAxMFBFTjlFdkdPQ2VIclFpSGZKQjRGX2FpRzRNdkdVdU9WTmlnb3BVWFQ0SjdhT3pQaHdHd1ZEWHVZU0w5cHNVX1Z4cVlWLTlDN0hRMjVPbk1kNkotNkxtVTQyTWlPRDJCNDBBOGxuMXFIZlZsRW9Yeml3bWRfWFRPZ05DZWZqdlFtLVcwNHZ5Nm5uZW5aTXlaR0k2N1JaZW1tRG5ZcGFNRWgyUTlvdlBuUDNQUUU?oc=5",
+   "pub": "Fri, 24 Jul 2026 13:04:08 GMT"
   },
   {
    "t": "Schiff versuchte viermal, US-Blockade zu umgehen – USA attackieren Tanker auf dem Weg in den Iran - WELT",
@@ -84,29 +99,14 @@
    "pub": "Sat, 25 Jul 2026 01:07:04 GMT"
   },
   {
-   "t": "Iran lehnt offenbar neuen Vorschlag ab: Trump erwägt „massiven Angriff, größer als je zuvor“ - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1l2cW5famRxV2FFczRzY1pZaFZsUGtQTmVvd0FjRVhVZEZ5UDZxNUh0NjVORm8wLTJySFlsOFk2RW9KV2ZRWDE1WE5rdnpuWDVMRk1PU09DYkVjT0tmQVVBUmt4Y25hSWdYV05penR6cVNCUHNhUGVaMEVIcS00S0NhbHhBYVlRd2N6akFDZGRwaEhQRUctUDlad2RXaS00VzJ3SmdVWjcwM253X2J4bno2cnBOeTRlQldXTzh6YjZNY1pNOVJKNEp1bUwxTDlBWmhXUjNRRQ?oc=5",
-   "pub": "Fri, 24 Jul 2026 12:35:18 GMT"
+   "t": "Iran: Neue Atomanlage unter dem Pickaxe Mountain? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObU9YUGprUzd6MFMwZ3IzR0lIRmllN0owUUJjTmdQRkxHWks3MUhUS205MUxfcUJZWmFFbV82NHVIMDI4UTRTTVNiMVB5eFVBYmZqYU1sXzF4TUhvT3VuaDF5VHdUQ1ZZSS1EOXRva1dBWEdOOXdKMGR6TmdyLXgyQlVIR0ppQ2fSAYcBQVVfeXFMT2NSbnFvRklmLWRidGllQVcwVU05dWkzMHlUcWk3T3BaSHFFU29Id1pzSmRTNkhaWFB2Qk9wMUI3cXhuNF9HS1JJaFdGYUUyTk5iM2c2dm0wLWVBd01KZzM4dDJtMXR0N3NNaDN4QTdrNHUtWElkcFJjVXJDQWtHcEJPeEFxNm8w?oc=5",
+   "pub": "Fri, 24 Jul 2026 21:04:08 GMT"
   },
   {
-   "t": "Der Yen: Mehr als eine Zinsgeschichte - DWS Asset Management",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGJSODFmTHBSOVhCNUZDeEhKdWxJbEN6a28xZlZwZmU0aFhiR0MzSG5DXzItTkV5VTVNRWI4X0NYYjdjQWtQRW5aNE1OSTk2ZUd1TzJFVk4xcjVEendvUUVsQkNuZHpXdFBpVWU1elFXVnZaSFN5YlUyaHNvQWNrR0N6Q1JVY25ZYUJpRmlGbGI2elVkWlloUElhYnY5VFc3S3BWU25mYw?oc=5",
-   "pub": "Fri, 24 Jul 2026 08:01:58 GMT"
-  },
-  {
-   "t": "Iran: Council sanctions an additional six individuals over serious human rights violations - consilium.europa.eu",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZXVtcWZtZWgxVGZsTGQyeTZDeko2LTgxU25HZEhiaGl0UDN4VkVna0ppVDJULXdqSW54MnpvTDQ1QV9XbWZ2QVdHby05T0taa2pIU0FrdjFlbXFXNEVFSC1SX2VrM0hNUldiWXhKaTZTeUg1NG5CRXE2OGFmSTZkT0ozSXFjOHdvSm9wdHFKOUlBdTgzN1FfTzZCMERpT3YzODRUZGdERklNOHRRbkczSE04NVFXcmR0bkxjTE4tb3pFS2NRbW1DbnBvZnVsWWN4amtqaDkzRnQ5Ri1kQ1VWOFpTQUxDRmw5LTIwQWRB?oc=5",
-   "pub": "Fri, 24 Jul 2026 12:30:30 GMT"
-  },
-  {
-   "t": "phoenix vor ort - Iran: 'Alles viel schlimmer als vor Beginn des Krieges' - hier anschauen - ARD Mediathek",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRGloNFU4M0FhbjdiS0kyeU1rZGxCVWRKZFBtaFdtSVhBaVZMVlB0Nl9nVXBfUGhERFpFdlVrWTRSNTZmZmkxQ2wwX3V4eTJZUTQ0cWRNZEY3SmxmMmlUNXdfLXVibjk4aEhlY0l6cThQYmhpSmdYVWhXVTZRTHVrOEM4SFJJdFBrRFIzSUxtbGRJUzFvRTlqM0VPMGdQYjVzSEd3NjZlYWEyR0N2b3J5LXVoQkd6NHY0czlaUHdibkVLajlfT19MUzBQTXVvR0xPWnN5bk1OSVUwV0syT3c?oc=5",
-   "pub": "Thu, 23 Jul 2026 14:10:57 GMT"
-  },
-  {
-   "t": "Trump: Iran soll Reparatur der Schäden an Frachtern bezahlen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYnMzM0xDbmE0cUh2NWVJTC1jbGloRzRrdm45cG5MTDRmZnpiNXlKa0t4SDl6NXJDbnpyVzVsaS12ZUE5MElaTEplWUlCSTllMjVpUk9CRnB0WW92RlpyakE0aW1yV0ZET3FwODBKYlQ2QjNFelZ0SFVhX0F1LThWYUlKUDlBMndLbXVIbXZ1YzBSckR1NUw0azU4ZUJ4UFgtbktTdmNaT3RGZzNTVXZ5UVliUWlIRlEtZVY4RVN2RmZiWjNDZm9uajhKaExKV3NwMUdv0gHTAUFVX3lxTE5YbzY1NjgwdmNwNWRyMkNXV1drb3VvR19BamlSazAxMFBFTjlFdkdPQ2VIclFpSGZKQjRGX2FpRzRNdkdVdU9WTmlnb3BVWFQ0SjdhT3pQaHdHd1ZEWHVZU0w5cHNVX1Z4cVlWLTlDN0hRMjVPbk1kNkotNkxtVTQyTWlPRDJCNDBBOGxuMXFIZlZsRW9Yeml3bWRfWFRPZ05DZWZqdlFtLVcwNHZ5Nm5uZW5aTXlaR0k2N1JaZW1tRG5ZcGFNRWgyUTlvdlBuUDNQUUU?oc=5",
-   "pub": "Fri, 24 Jul 2026 10:04:08 GMT"
+   "t": "Iran-Krieg der USA: Ist eine Eskalation nun der letzte Ausweg? - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakVkeS1zamV0cHdpcEhzT1Rfc09ZMy1IMWZJNDIxdWxfdEI0YkxELTNCYjhfV0NwNS1fMVhYQlZqckludlJ6RHZnLWp5azhscTFRbjVPSld0OEh1T3hOaFVVQk9FTTF1S3ZCQm9PSUcwdlZJNEZqb0xxMHJlUVg3ZzE5RE1Pa0NZZ2ZYZnRwMXZyRlFfZVdCV2QwYy1FTlhOOG5qMDJyYVQ1SmFvVlROZkRHTQ?oc=5",
+   "pub": "Fri, 24 Jul 2026 10:18:00 GMT"
   }
  ]
 }
