@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-26T15:31:27Z",
+ "collected_at": "2026-07-26T17:16:30Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,6 +54,11 @@
    "pub": "Sun, 26 Jul 2026 10:00:00 GMT"
   },
   {
+   "t": "Sorge um Waffenbestände?: USA setzen Iran-Angriffe zwei Nächte in Folge aus - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1Z1UFRyVHc1R1pfbzZsQ0JJb3RqdktoX1d5UWxleFAtbnplcWswTFBxUnlHS1cxZ3gwVGVjU0VvS1dWVHRlXzJTcU10YVl6czFweTU2eXRYYjlaYWtoRFNhVEh4SFNQb3J3TWpZQjJiWlNDQVZ6cGh2bmN5cUlqMmV6ZjVlRENpSy0wV2V6N1FTOHYzWjB5Y3F3?oc=5",
+   "pub": "Sun, 26 Jul 2026 15:18:51 GMT"
+  },
+  {
    "t": "Kollektive Hoffnungslosigkeit - Iran zwischen Wirtschaftskrise und Krieg - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VFF1ajVVTnVIZV96Q3BnN0ZBN09OV0VPXzRwSlhzZ2xqRmFpWVV6Uzd1d1N5c2t0SEdYLTIwSlFpZFdfdUZEaFBNQTJ3bTB3dzA1MDBuWExzTVhDYVFrSW1CVURKMUNZQzJsN1N3?oc=5",
    "pub": "Sun, 26 Jul 2026 11:04:00 GMT"
@@ -79,19 +84,14 @@
    "pub": "Sun, 26 Jul 2026 09:47:00 GMT"
   },
   {
+   "t": "Iran und USA setzen Angriffe aus: Trump wolle „Diplomatie Chance geben“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
+   "pub": "Sun, 26 Jul 2026 16:15:01 GMT"
+  },
+  {
    "t": "Iranische Medien: Öltanker explodiert in der Straße von Hormus - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPemk1MXB0TnB1SEx4cTNFakVqM015VGM3WHV4OEl2ZXJtSEk2TTdzeE5hd1VURnVEeFBPa1FEYTlWMGU4blNCejFqXzctT09TbUtOODNYRjNSQjluYTFBNUFMcWliNThWWjNYQ2dVSkUwbFFtdDZKUG1kc1N6Rks0b0tIZVNRWmpFRllUVjFLTGxVeWNWWlNibzZlWDlNOHYxVHVvOWVSVDFLVFFLcjRDUndGRjJCUzFIQ3dsTDZiNFMyWHVoN1RjUFZ6SnpGRUZNV0FwYw?oc=5",
    "pub": "Sun, 26 Jul 2026 13:11:00 GMT"
-  },
-  {
-   "t": "Liveticker zum Iran-Krieg: Öltanker explodiert in der Straße von Hormus - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU0ZOVC1tNl9RRTNWNUpPdGxoVVJzWC1Ic2xRcmhFM0hhOURrdTI4VTM1WC1GU3pOT3ltdFZMOTcwWHFkb1pHdnFfYkxuRDl0aFRQRHpDbHNpbWZmMFFQNXdYYkpmX0VwMUl0dzhpeVg0bGdGRlZaamI0WWRCRDBPQVRtaUdPYUM1X3pjSTBQQVBVVFZ2WHB0VzFGNDlNWnk4M1UybWNtbEVhLTZDdFJub3BQMFVwZ1l1ZHJqaGRvdnFLYVQ3R1ZyYzBDWQ?oc=5",
-   "pub": "Sun, 26 Jul 2026 13:41:54 GMT"
-  },
-  {
-   "t": "Iran stoppt Handelsschiffe und droht mit Ausweitung des Konflikts - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
-   "pub": "Sun, 26 Jul 2026 15:10:17 GMT"
   },
   {
    "t": "Iran verurteilt ukrainischen Angriff auf Schiff im Kaspischen Meer - Berliner Zeitung",
@@ -99,14 +99,14 @@
    "pub": "Sun, 26 Jul 2026 06:00:32 GMT"
   },
   {
-   "t": "Zwei Nächte in Folge keine US-Angriffe im Iran: Teheran stoppt seine Attacken - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1RVd1Q5YzN2SVNDdlJQRW9QR1JlNFJGeElsWGNnOW5YeHRsRVVhbkRqbjZSV1NFUGtSRkNmanNHbEVxVWdvOVZwanNVWkR0Q2NDelFxX0QzN0ZkdXhheDh0eHhCSFh3WDd0UlFRLVphXzdCbGtMVXBmU0VIQmdJWnFQZENna3RhZTI3ZkhZdU80VExHQjd1SHloYUZ5dG9CYUtVY0dybWEwb3BXbC1RUlptSnBWN0dOX1E?oc=5",
-   "pub": "Sun, 26 Jul 2026 13:39:21 GMT"
+   "t": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein - Tanker beschädigt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RuczBMS05MUlNtUWstZ3ZTU2o0LUhUUFdwTFJJLTV2QVdlYm1mMC1kd2JqcERHal9mWHRQT1QtZUtaNXczcDJqNmYxRTB6NE45TnFYdGNtSHZ4Y0ZPUGcyQko3Z0stdzZYTF9iQXBhdFJxZ1VtX092SG55YkJSdTFYcTFWNklWaG05MGx6UDJqamw3b3RnbkVZMF9CeVAwdlB2cFFtODBvSWpBb04wclFlbjBtcHo1NW9iam5Idw?oc=5",
+   "pub": "Sun, 26 Jul 2026 17:05:03 GMT"
   },
   {
-   "t": "Iran-Krieg: Lektionen aus der Sueskrise 1956 - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAtVWdsVjFrdDlFT0EzMTBMekxTQ19LaFBkWkU4U2t1NTdFc1ZmLTdRRjRSUVYtUXRRZmJrNXF3ZUpWb1BSb2c?oc=5",
-   "pub": "Sun, 26 Jul 2026 05:42:23 GMT"
+   "t": "(S+) Meinung: USA: Neuer Fed-Chef ringt mit schleichender Rückkehr der Inflation - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOG4zS05XdDJLdzJUXzBSSkRUZVpBVHRfQWNiM2RqTktkaktqSVJPWXAxdVNycWVEakZqTDJRSEpGVGdOQW82Y2ZKMHlpRHBfRVVDYmh5SzdSZVctUEpxY0hhSF9tTWZhVFk0WXJsT3lHUm1ycFhPUDRxcUFUTG5tNlltckF1anVuQ29rVHQxMDNpZTNfWWZQM0JPempvV1ZrV3lhcHQ4VEdkTUNoMl9TWFJBSDYzcXBXMGxWUXdUUUtqaEVuQkJ6QzhPeUxKbElyZTZFTzlLYTcyR0UxQnRDN2F0ZWhtUQ?oc=5",
+   "pub": "Sun, 26 Jul 2026 15:07:00 GMT"
   }
  ]
 }
