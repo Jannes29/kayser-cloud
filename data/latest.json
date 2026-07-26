@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-07-26T22:14:00Z",
+ "collected_at": "2026-07-26T23:14:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8162,
-   "chg1d_pct": -0.08
+   "price": 0.8167,
+   "chg1d_pct": -0.02
   },
   "USDJPY": {
-   "price": 163.648,
-   "chg1d_pct": -0.11
+   "price": 163.686,
+   "chg1d_pct": -0.09
   },
   "GBPCAD": {
    "price": 1.8798,
    "chg1d_pct": 0.26
   },
   "AUDJPY": {
-   "price": 114.538,
-   "chg1d_pct": 0.35
+   "price": 114.455,
+   "chg1d_pct": 0.27
   },
   "EURUSD": {
-   "price": 1.1396,
-   "chg1d_pct": 0.17
+   "price": 1.1392,
+   "chg1d_pct": 0.13
   },
   "GBPCHF": {
-   "price": 1.0894,
-   "chg1d_pct": 0.19
+   "price": 1.0898,
+   "chg1d_pct": 0.23
   },
   "WTI": {
-   "price": 89.31,
-   "chg1d_pct": 0.0
+   "price": 84.97,
+   "chg1d_pct": -4.86
   },
   "BRENT": {
-   "price": 96.78,
-   "chg1d_pct": 0.0
+   "price": 92.1,
+   "chg1d_pct": -4.84
   },
   "GOLD": {
-   "price": 4070.8,
-   "chg1d_pct": 0.08
+   "price": 4089.8,
+   "chg1d_pct": 0.55
   },
   "SPX_FUT": {
-   "price": 7447.5,
-   "chg1d_pct": 0.0
+   "price": 7493.5,
+   "chg1d_pct": 0.62
   },
   "NAS_FUT": {
-   "price": 28282.25,
-   "chg1d_pct": 0.0
+   "price": 28601.0,
+   "chg1d_pct": 1.13
   }
  },
  "headlines": [
   {
    "t": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein - Tanker beschädigt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RuczBMS05MUlNtUWstZ3ZTU2o0LUhUUFdwTFJJLTV2QVdlYm1mMC1kd2JqcERHal9mWHRQT1QtZUtaNXczcDJqNmYxRTB6NE45TnFYdGNtSHZ4Y0ZPUGcyQko3Z0stdzZYTF9iQXBhdFJxZ1VtX092SG55YkJSdTFYcTFWNklWaG05MGx6UDJqamw3b3RnbkVZMF9CeVAwdlB2cFFtODBvSWpBb04wclFlbjBtcHo1NW9iam5Idw?oc=5",
-   "pub": "Sun, 26 Jul 2026 19:47:30 GMT"
+   "pub": "Sun, 26 Jul 2026 20:28:47 GMT"
   },
   {
    "t": "Iran droht Ukraine nach Angriff auf Frachtschiff im Kaspischen Meer - Spiegel",
@@ -64,14 +64,14 @@
    "pub": "Sun, 26 Jul 2026 14:45:28 GMT"
   },
   {
-   "t": "Sorge um Waffenbestände?: USA setzen Iran-Angriffe zwei Nächte in Folge aus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1Z1UFRyVHc1R1pfbzZsQ0JJb3RqdktoX1d5UWxleFAtbnplcWswTFBxUnlHS1cxZ3gwVGVjU0VvS1dWVHRlXzJTcU10YVl6czFweTU2eXRYYjlaYWtoRFNhVEh4SFNQb3J3TWpZQjJiWlNDQVZ6cGh2bmN5cUlqMmV6ZjVlRENpSy0wV2V6N1FTOHYzWjB5Y3F3?oc=5",
-   "pub": "Sun, 26 Jul 2026 15:18:51 GMT"
-  },
-  {
    "t": "Kollektive Hoffnungslosigkeit - Iran zwischen Wirtschaftskrise und Krieg - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VFF1ajVVTnVIZV96Q3BnN0ZBN09OV0VPXzRwSlhzZ2xqRmFpWVV6Uzd1d1N5c2t0SEdYLTIwSlFpZFdfdUZEaFBNQTJ3bTB3dzA1MDBuWExzTVhDYVFrSW1CVURKMUNZQzJsN1N3?oc=5",
    "pub": "Sun, 26 Jul 2026 11:04:00 GMT"
+  },
+  {
+   "t": "Sorge um Waffenbestände?: USA setzen Iran-Angriffe zwei Nächte in Folge aus - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1Z1UFRyVHc1R1pfbzZsQ0JJb3RqdktoX1d5UWxleFAtbnplcWswTFBxUnlHS1cxZ3gwVGVjU0VvS1dWVHRlXzJTcU10YVl6czFweTU2eXRYYjlaYWtoRFNhVEh4SFNQb3J3TWpZQjJiWlNDQVZ6cGh2bmN5cUlqMmV6ZjVlRENpSy0wV2V6N1FTOHYzWjB5Y3F3?oc=5",
+   "pub": "Sun, 26 Jul 2026 15:18:51 GMT"
   },
   {
    "t": "Neue Front im Iran-Krieg: Huthi-Miliz intensiviert Angriffe auf Saudi-Arabien - Frankfurter Rundschau",
@@ -99,14 +99,14 @@
    "pub": "Sun, 26 Jul 2026 15:07:00 GMT"
   },
   {
+   "t": "Iran und USA setzen Angriffe aus: Trump wolle „Diplomatie Chance geben“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
+   "pub": "Sun, 26 Jul 2026 21:15:59 GMT"
+  },
+  {
    "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
    "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
-  },
-  {
-   "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXVRNHFJR3dJak14OENzLVRPbno0SUNQb2RWNTBQdURQSDlqNFVyaFp4ZFN3MTAzZW9ZSWFLTjFKbUUwRlh1YmpiYUd5aS03RTVDREY4TS1tU25uTThRSGNtNzFRT0ZmcFNsQjIteVotVFZxSTBicXgzRHZsb1Q0UF9SUVdaTUVzNkNfeDNtOGdZNnFGZWJHalYtVXR1M1VNUjJYQzFKWXZkVjhRUi12SFpoV0RUNmZCU1F0eGtGNmoyOUhxUUNJT1VtU1RjVWVSckhWYkkzZGZ3UjhYbVJVR2NqSlk5XzRYeEZUTDN3NFB4QmM?oc=5",
-   "pub": "Sat, 25 Jul 2026 22:32:00 GMT"
   }
  ]
 }
