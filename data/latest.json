@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-26T21:12:31Z",
+ "collected_at": "2026-07-26T22:14:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8155,
-   "chg1d_pct": -0.17
+   "price": 0.8162,
+   "chg1d_pct": -0.08
   },
   "USDJPY": {
-   "price": 163.578,
-   "chg1d_pct": -0.16
+   "price": 163.648,
+   "chg1d_pct": -0.11
   },
   "GBPCAD": {
-   "price": 1.8766,
-   "chg1d_pct": 0.09
-  },
-  "AUDJPY": {
-   "price": 114.444,
+   "price": 1.8798,
    "chg1d_pct": 0.26
   },
+  "AUDJPY": {
+   "price": 114.538,
+   "chg1d_pct": 0.35
+  },
   "EURUSD": {
-   "price": 1.1397,
-   "chg1d_pct": 0.18
+   "price": 1.1396,
+   "chg1d_pct": 0.17
   },
   "GBPCHF": {
-   "price": 1.0875,
-   "chg1d_pct": 0.01
+   "price": 1.0894,
+   "chg1d_pct": 0.19
   },
   "WTI": {
    "price": 89.31,
-   "chg1d_pct": -3.12
+   "chg1d_pct": 0.0
   },
   "BRENT": {
    "price": 96.78,
-   "chg1d_pct": -3.88
+   "chg1d_pct": 0.0
   },
   "GOLD": {
    "price": 4070.8,
-   "chg1d_pct": 0.6
+   "chg1d_pct": 0.08
   },
   "SPX_FUT": {
    "price": 7447.5,
-   "chg1d_pct": 0.03
+   "chg1d_pct": 0.0
   },
   "NAS_FUT": {
    "price": 28282.25,
-   "chg1d_pct": -1.18
+   "chg1d_pct": 0.0
   }
  },
  "headlines": [
@@ -84,11 +84,6 @@
    "pub": "Sun, 26 Jul 2026 19:09:00 GMT"
   },
   {
-   "t": "Iran und USA setzen Angriffe aus: Trump wolle „Diplomatie Chance geben“ - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
-   "pub": "Sun, 26 Jul 2026 20:45:01 GMT"
-  },
-  {
    "t": "Japan gerät durch den Iran-Krieg in ein politisches und wirtschaftliches Dilemma - Sumikai",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkpTcXV2NDFMT09QekxHYi1iUnNSTll3aEFRYTVNd0c2VER4S0ZwWE9henYwUWdkTnBtSExFWTdTeUJDYXVic1pGTFN4ei03VGt2UzZWN1c1VE5POS1KZ0NLb3ZWZXpvdEo1cEF4czFvcGdkTHptUTdvLVVsLVNmeENEUzRacDRuTGdCQktDOWFQbkFYcVVlLTBJSWRsWEdtTzdmcmFOSlBhbVFzejk2R0w4bXF4dUxPN1lRZ3NhNUF1QzdqRklKYzA1SWE2dGFjSi1iZ2ZR?oc=5",
    "pub": "Sun, 26 Jul 2026 09:47:00 GMT"
@@ -102,6 +97,11 @@
    "t": "(S+) Meinung: USA: Neuer Fed-Chef Kevin Warsh ringt mit schleichender Rückkehr der Inflation - Kolumne - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOG4zS05XdDJLdzJUXzBSSkRUZVpBVHRfQWNiM2RqTktkaktqSVJPWXAxdVNycWVEakZqTDJRSEpGVGdOQW82Y2ZKMHlpRHBfRVVDYmh5SzdSZVctUEpxY0hhSF9tTWZhVFk0WXJsT3lHUm1ycFhPUDRxcUFUTG5tNlltckF1anVuQ29rVHQxMDNpZTNfWWZQM0JPempvV1ZrV3lhcHQ4VEdkTUNoMl9TWFJBSDYzcXBXMGxWUXdUUUtqaEVuQkJ6QzhPeUxKbElyZTZFTzlLYTcyR0UxQnRDN2F0ZWhtUQ?oc=5",
    "pub": "Sun, 26 Jul 2026 15:07:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
+   "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
   },
   {
    "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
