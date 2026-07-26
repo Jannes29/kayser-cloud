@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-07-26T18:15:06Z",
+ "collected_at": "2026-07-26T19:38:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8177,
-   "chg1d_pct": 0.1
+   "price": 0.8167,
+   "chg1d_pct": -0.02
   },
   "USDJPY": {
-   "price": 163.791,
-   "chg1d_pct": -0.03
+   "price": 163.7,
+   "chg1d_pct": -0.08
   },
   "GBPCAD": {
-   "price": 1.8777,
-   "chg1d_pct": 0.15
+   "price": 1.8766,
+   "chg1d_pct": 0.09
   },
   "AUDJPY": {
-   "price": 114.373,
-   "chg1d_pct": 0.2
+   "price": 114.62,
+   "chg1d_pct": 0.42
   },
   "EURUSD": {
    "price": 1.1375,
    "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.0897,
-   "chg1d_pct": 0.22
+   "price": 1.0879,
+   "chg1d_pct": 0.05
   },
   "WTI": {
    "price": 89.31,
@@ -49,7 +49,64 @@
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "Teheran - Iran meldet Fortschritte bei Gesprächen über Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzZjYUZzR3c0aXVvZnNUYTdUaDh0ZldGLVNpR2plQmdlXzFPanVpd05qTVZOZjJIbDY2b3Nyd0pJb2tSbnNreXJlQVJDdHRZZmtrbFYwNWZfUTBQQnk0Wjk0Z1RNUjgwWF9hNjdhRTgwUmRGcXdYZW5ra2FyTXc1bUhwTHljalIydXEwYkVYTjUyN1ExOTRYR0hJM3BMZ0xtX1Y5SGNleVU?oc=5",
+   "pub": "Sun, 26 Jul 2026 10:00:00 GMT"
+  },
+  {
+   "t": "Krieg bekommt neue Dimension: Ukraine attackiert Iran-Nachschub - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGN4d3U2eUtLNzRIWmRXU1RZd1c1eEZTZ2hyc0hlenN4akZ1U3haaXlkS2NZZko1aXVhT3lUU0N2d3ZVTlFfYkJraTY2SWNYNExncks4M1dxZmRqZFZHa1VXZDBhNjR2SVNyNHlrdlpwdDM3d2thdWVOTVBuWVdkY2dxaXV5RmhLV1VsenV1TXA4U1BtNk1IOUJjOGJQdw?oc=5",
+   "pub": "Sun, 26 Jul 2026 14:45:28 GMT"
+  },
+  {
+   "t": "Sorge um Waffenbestände?: USA setzen Iran-Angriffe zwei Nächte in Folge aus - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1Z1UFRyVHc1R1pfbzZsQ0JJb3RqdktoX1d5UWxleFAtbnplcWswTFBxUnlHS1cxZ3gwVGVjU0VvS1dWVHRlXzJTcU10YVl6czFweTU2eXRYYjlaYWtoRFNhVEh4SFNQb3J3TWpZQjJiWlNDQVZ6cGh2bmN5cUlqMmV6ZjVlRENpSy0wV2V6N1FTOHYzWjB5Y3F3?oc=5",
+   "pub": "Sun, 26 Jul 2026 15:18:51 GMT"
+  },
+  {
+   "t": "Kollektive Hoffnungslosigkeit - Iran zwischen Wirtschaftskrise und Krieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VFF1ajVVTnVIZV96Q3BnN0ZBN09OV0VPXzRwSlhzZ2xqRmFpWVV6Uzd1d1N5c2t0SEdYLTIwSlFpZFdfdUZEaFBNQTJ3bTB3dzA1MDBuWExzTVhDYVFrSW1CVURKMUNZQzJsN1N3?oc=5",
+   "pub": "Sun, 26 Jul 2026 11:04:00 GMT"
+  },
+  {
+   "t": "Neue Front im Iran-Krieg: Huthi-Miliz intensiviert Angriffe auf Saudi-Arabien - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTdSTlQwMlU4bUpLTC03YnZ0SHllcVFBTmZybWZtOHgxdEdnbWpKQkMzWmFOZDNqaTBpR1o4MjZGNmZBRHIycmxveW04RWVzZVZ0LUh0cTRZUzlZdExHWnpzTlBKdDRGNWlFSHZyZ2hRQi1ib19fX1p3Yi01bXdsVTBsTmxhc2NhNXdYaGg1UlA4bVZVLXpXZGU0SkZlYTZPdHQ4RHE5QTByZE91WUZGY1BYNzRXZ29hc3NUQw?oc=5",
+   "pub": "Sun, 26 Jul 2026 11:01:19 GMT"
+  },
+  {
+   "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXVRNHFJR3dJak14OENzLVRPbno0SUNQb2RWNTBQdURQSDlqNFVyaFp4ZFN3MTAzZW9ZSWFLTjFKbUUwRlh1YmpiYUd5aS03RTVDREY4TS1tU25uTThRSGNtNzFRT0ZmcFNsQjIteVotVFZxSTBicXgzRHZsb1Q0UF9SUVdaTUVzNkNfeDNtOGdZNnFGZWJHalYtVXR1M1VNUjJYQzFKWXZkVjhRUi12SFpoV0RUNmZCU1F0eGtGNmoyOUhxUUNJT1VtU1RjVWVSckhWYkkzZGZ3UjhYbVJVR2NqSlk5XzRYeEZUTDN3NFB4QmM?oc=5",
+   "pub": "Sat, 25 Jul 2026 22:32:00 GMT"
+  },
+  {
+   "t": "Iranische Medien: Öltanker explodiert in der Straße von Hormus - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPemk1MXB0TnB1SEx4cTNFakVqM015VGM3WHV4OEl2ZXJtSEk2TTdzeE5hd1VURnVEeFBPa1FEYTlWMGU4blNCejFqXzctT09TbUtOODNYRjNSQjluYTFBNUFMcWliNThWWjNYQ2dVSkUwbFFtdDZKUG1kc1N6Rks0b0tIZVNRWmpFRllUVjFLTGxVeWNWWlNibzZlWDlNOHYxVHVvOWVSVDFLVFFLcjRDUndGRjJCUzFIQ3dsTDZiNFMyWHVoN1RjUFZ6SnpGRUZNV0FwYw?oc=5",
+   "pub": "Sun, 26 Jul 2026 19:06:00 GMT"
+  },
+  {
+   "t": "Iran und USA setzen Angriffe aus: Trump wolle „Diplomatie Chance geben“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
+   "pub": "Sun, 26 Jul 2026 19:15:01 GMT"
+  },
+  {
+   "t": "Japan gerät durch den Iran-Krieg in ein politisches und wirtschaftliches Dilemma - Sumikai",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkpTcXV2NDFMT09QekxHYi1iUnNSTll3aEFRYTVNd0c2VER4S0ZwWE9henYwUWdkTnBtSExFWTdTeUJDYXVic1pGTFN4ei03VGt2UzZWN1c1VE5POS1KZ0NLb3ZWZXpvdEo1cEF4czFvcGdkTHptUTdvLVVsLVNmeENEUzRacDRuTGdCQktDOWFQbkFYcVVlLTBJSWRsWEdtTzdmcmFOSlBhbVFzejk2R0w4bXF4dUxPN1lRZ3NhNUF1QzdqRklKYzA1SWE2dGFjSi1iZ2ZR?oc=5",
+   "pub": "Sun, 26 Jul 2026 09:47:00 GMT"
+  },
+  {
+   "t": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein - Tanker beschädigt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RuczBMS05MUlNtUWstZ3ZTU2o0LUhUUFdwTFJJLTV2QVdlYm1mMC1kd2JqcERHal9mWHRQT1QtZUtaNXczcDJqNmYxRTB6NE45TnFYdGNtSHZ4Y0ZPUGcyQko3Z0stdzZYTF9iQXBhdFJxZ1VtX092SG55YkJSdTFYcTFWNklWaG05MGx6UDJqamw3b3RnbkVZMF9CeVAwdlB2cFFtODBvSWpBb04wclFlbjBtcHo1NW9iam5Idw?oc=5",
+   "pub": "Sun, 26 Jul 2026 17:05:03 GMT"
+  },
+  {
+   "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
+   "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
+  },
+  {
+   "t": "Umfragen zeigen Desaster: Trump verliert Unterstützung bei Republikanern vor Midterms - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEtaSkwtWVRPTjdyMUNQQ1JYZFdONEpqMzZyaWlHZkwzbVZRYVl0LXhVOERQbHZHZTVmc1RWRTlqM3FrMVN3dDA4LWc0VXlObW1xUk9BZkZfdExBX2ZuQk9yTngwLW9CYUVpMXVHNDlhS2dBTmdCbUpzR2tKOXZGM2FQN1R1SWZNNXFlT3p0TmlCRlE3V0xST3gyRDdma29rU0xqZWFWTXFOVE1HR0Q1UXI1NHNCeFhjcDFZNQ?oc=5",
+   "pub": "Sun, 26 Jul 2026 04:34:18 GMT"
   }
  ]
 }
