@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-25T23:14:28Z",
+ "collected_at": "2026-07-26T00:15:51Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,19 @@
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
-   "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
+   "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXVRNHFJR3dJak14OENzLVRPbno0SUNQb2RWNTBQdURQSDlqNFVyaFp4ZFN3MTAzZW9ZSWFLTjFKbUUwRlh1YmpiYUd5aS03RTVDREY4TS1tU25uTThRSGNtNzFRT0ZmcFNsQjIteVotVFZxSTBicXgzRHZsb1Q0UF9SUVdaTUVzNkNfeDNtOGdZNnFGZWJHalYtVXR1M1VNUjJYQzFKWXZkVjhRUi12SFpoV0RUNmZCU1F0eGtGNmoyOUhxUUNJT1VtU1RjVWVSckhWYkkzZGZ3UjhYbVJVR2NqSlk5XzRYeEZUTDN3NFB4QmM?oc=5",
+   "pub": "Sat, 25 Jul 2026 22:32:00 GMT"
   },
   {
    "t": "»China will auf keinen Fall, dass der Iran diesen Krieg verliert« - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDg3LTUxNWdTaW1OUm83akJULTVYdGcxLWtwS05BMGNxaFZjc3gtVTVpei0wa3VPMk9WTWo3RmU5S0VPcjZSbXNUOFowZ01nY3I0ZE9LdWJlWDBnRkpHV3RtaUV0Y0JPZ1pwQ0c4U1kwNXBRd0tfOEVyOUR1ZDVER0FNZVNQVmZXYzVIY3BKNGlFQkhyWWZfX29qanZJWHVx?oc=5",
    "pub": "Sat, 25 Jul 2026 18:32:05 GMT"
+  },
+  {
+   "t": "Iran-Krieg - US-Militär schießt ‌einen Tanker im Golf ​von Oman manövrierunfähig - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbjJVY2VpSTlBQ3JpNmd6dXBzWS1YbjY4eWVUdGM4RU4wRGF0R0toM1dFbXFLcFU1eXBvbEtsY2lQWWxMVW5nS3o3M2ZiVUVFRm9ZLWdSZGY1b1NZaGc1VEVIcWFmMjVSSDgyeE5IYUxlWFhOWV9GQzlEc2xJLXpZNnl0YzZhLWYzejhQV1JGa3hPVlVpT1RwLXllelo0NHVjLTI5UFpnYzYzbUMxUGc?oc=5",
+   "pub": "Sat, 25 Jul 2026 21:49:49 GMT"
   },
   {
    "t": "Nato-Gipfel in der Türkei: Anschlagsgefahr durch Iran-Verbündete soll Trump zu Flugzeugwechsel gezwungen haben - WELT",
@@ -74,19 +79,14 @@
    "pub": "Sat, 25 Jul 2026 03:36:09 GMT"
   },
   {
-   "t": "USA und Saudi-Arabien: Droht jetzt ein atomares Wettrüsten im Nahen Osten? - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXB0QXJjMGU0aVdRVzdJMTNyYkZQQzVfc1VzMS1RX0xpX2k1Rm93Umc3RUlZZHRGZUplcEtWbnR0VG8tQkI4WFliMzVUMXZGUm5LelVDMWNGclNOZmQtR0xCSFQtX2FnLVlpMnhTZU14TEtNdXg3Tl9SYVJkVl9iZC1OSHNEdWotTzhTTXYwd2pRNkZOWVYycWdB?oc=5",
-   "pub": "Sat, 25 Jul 2026 13:28:00 GMT"
-  },
-  {
    "t": "Nahost-Konflikt: Iran verurteilt Angriff der Ukraine - TAG24",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRk1nR3JZWWJIMkYtUU9Rc3BvM2FadlJ2UTFFbHFVdjdLd3Y0VDZLb2M3TVd5Y3RldWF1WDk0OXhOWjk4V3V5ZnFBTDdwTjUwdkdhcVk5NDltV09sNFp3TkcxTjFxMWRpZkNGYTNpYmJtVUxuMVRWZEdHbzBReF81Mm5lQk1ReE9xaG4tNGJxRU5hY01pRm5HWURjSWdEY2wwdDNYcmZ2TGxhd9IBrwFBVV95cUxNZGVZMTJVM2xTaWc2Tjl0dU11OVJhcU5OeHV1Ylo2WWwxUTlyQzFJSm00UHdJSUtVMVRNLVRkVF9MdHRpWG9HZTF6OXF1MVlTQXhuOXJnaFdsN0c3VmJDTzJtZjh3eGg3S3AtajFSWlFubDdFem9saEZZb1VFRDI4TzR5ZHlKU3ZkTUZoWWJjTjQ0X0txdDlsdW1Pd2pZaUlOY0l6NFcyLVUtWnJoSFpn?oc=5",
    "pub": "Sat, 25 Jul 2026 20:24:55 GMT"
   },
   {
-   "t": "Donald Trump in Gefahr? Iran-Verbündete sollen Angriff auf neue »Air Force One« geplant haben - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNnVsSjVjMzhhZU90X0FiQUF2bUxQUVliSG12NFRzeFU1R2NqeDBtdEZoVUZhQ1FMU19NbmNMXzVuX3NPSlZOY3h3WEVUZGluTEtkTWFPT182aXpYN1dydUxjMEFqZmpkOUw5QmltMWktY29SV1JkTnBjQnJTUXotTVJmVFZnM2JqZ1NWRTlUdW5MUDYtcnFheU9Jc3ZWSFl6b3FNVHo0WEhCRzVRY1k4SXVnTDBsODNxd3VHQXctYXQ0Y2k4a0tPRm5NeFdzcjBNbnBZYm9JYlBJYVpYWHYyLVZseDVlZE1vRXVleWw2UlFud1E?oc=5",
-   "pub": "Sat, 25 Jul 2026 09:46:00 GMT"
+   "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
+   "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
   },
   {
    "t": "Krieg gegen den Iran: Wenn die USA siegen wollen, bleibt jetzt eine gewalttätige Option - WELT",
@@ -99,14 +99,14 @@
    "pub": "Sat, 25 Jul 2026 10:50:39 GMT"
   },
   {
-   "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXVRNHFJR3dJak14OENzLVRPbno0SUNQb2RWNTBQdURQSDlqNFVyaFp4ZFN3MTAzZW9ZSWFLTjFKbUUwRlh1YmpiYUd5aS03RTVDREY4TS1tU25uTThRSGNtNzFRT0ZmcFNsQjIteVotVFZxSTBicXgzRHZsb1Q0UF9SUVdaTUVzNkNfeDNtOGdZNnFGZWJHalYtVXR1M1VNUjJYQzFKWXZkVjhRUi12SFpoV0RUNmZCU1F0eGtGNmoyOUhxUUNJT1VtU1RjVWVSckhWYkkzZGZ3UjhYbVJVR2NqSlk5XzRYeEZUTDN3NFB4QmM?oc=5",
-   "pub": "Sat, 25 Jul 2026 22:32:00 GMT"
+   "t": "USA und Saudi-Arabien: Droht jetzt ein atomares Wettrüsten im Nahen Osten? - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXB0QXJjMGU0aVdRVzdJMTNyYkZQQzVfc1VzMS1RX0xpX2k1Rm93Umc3RUlZZHRGZUplcEtWbnR0VG8tQkI4WFliMzVUMXZGUm5LelVDMWNGclNOZmQtR0xCSFQtX2FnLVlpMnhTZU14TEtNdXg3Tl9SYVJkVl9iZC1OSHNEdWotTzhTTXYwd2pRNkZOWVYycWdB?oc=5",
+   "pub": "Sat, 25 Jul 2026 13:28:00 GMT"
   },
   {
-   "t": "„Wir bezahlen den Preis“ – Jetzt gerät ein neues Land ins Visier des Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQU96eFRDenhCdXVraXlaUXV1RW10Zld2b0g4Q3FsZEI1dTliT2FtTlZ5a3c1VmZidzBxa3pQaElYMmtnaGdLN3gzYnBub0Q3UnZNcy1RYWpOblhRcjU5TlFDUjIzUlJySHNrdmdfaXVJc3RyNnZpTnVkUFN1QkV4M0VnUTNNT0RXRFZWTDRWdUtBSDctWTRQVGwzR1BvSzBtUUN0UVFOR3BReUw1UmhfYm5OY1VSS1FKMFRaSVRtWTFZczdaQXhjTFlBYk9JUUhOanRTemxKd3ZIT1QzUmdwMnhmbmg5S0UyTmJUaA?oc=5",
-   "pub": "Sat, 25 Jul 2026 07:10:28 GMT"
+   "t": "Donald Trump in Gefahr? Iran-Verbündete sollen Angriff auf neue »Air Force One« geplant haben - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNnVsSjVjMzhhZU90X0FiQUF2bUxQUVliSG12NFRzeFU1R2NqeDBtdEZoVUZhQ1FMU19NbmNMXzVuX3NPSlZOY3h3WEVUZGluTEtkTWFPT182aXpYN1dydUxjMEFqZmpkOUw5QmltMWktY29SV1JkTnBjQnJTUXotTVJmVFZnM2JqZ1NWRTlUdW5MUDYtcnFheU9Jc3ZWSFl6b3FNVHo0WEhCRzVRY1k4SXVnTDBsODNxd3VHQXctYXQ0Y2k4a0tPRm5NeFdzcjBNbnBZYm9JYlBJYVpYWHYyLVZseDVlZE1vRXVleWw2UlFud1E?oc=5",
+   "pub": "Sat, 25 Jul 2026 09:46:00 GMT"
   }
  ]
 }
