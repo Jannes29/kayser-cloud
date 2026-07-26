@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-26T09:24:57Z",
+ "collected_at": "2026-07-26T11:37:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,24 @@
  },
  "headlines": [
   {
+   "t": "Teheran - Iran meldet Fortschritte bei Gesprächen über Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzZjYUZzR3c0aXVvZnNUYTdUaDh0ZldGLVNpR2plQmdlXzFPanVpd05qTVZOZjJIbDY2b3Nyd0pJb2tSbnNreXJlQVJDdHRZZmtrbFYwNWZfUTBQQnk0Wjk0Z1RNUjgwWF9hNjdhRTgwUmRGcXdYZW5ra2FyTXc1bUhwTHljalIydXEwYkVYTjUyN1ExOTRYR0hJM3BMZ0xtX1Y5SGNleVU?oc=5",
+   "pub": "Sun, 26 Jul 2026 10:00:00 GMT"
+  },
+  {
    "t": "Russland-Ukraine-Krieg: Iran verurteilt ukrainischen Angriff auf Frachter im kaspischen Meer - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcXVRNHFJR3dJak14OENzLVRPbno0SUNQb2RWNTBQdURQSDlqNFVyaFp4ZFN3MTAzZW9ZSWFLTjFKbUUwRlh1YmpiYUd5aS03RTVDREY4TS1tU25uTThRSGNtNzFRT0ZmcFNsQjIteVotVFZxSTBicXgzRHZsb1Q0UF9SUVdaTUVzNkNfeDNtOGdZNnFGZWJHalYtVXR1M1VNUjJYQzFKWXZkVjhRUi12SFpoV0RUNmZCU1F0eGtGNmoyOUhxUUNJT1VtU1RjVWVSckhWYkkzZGZ3UjhYbVJVR2NqSlk5XzRYeEZUTDN3NFB4QmM?oc=5",
    "pub": "Sat, 25 Jul 2026 22:32:00 GMT"
   },
   {
-   "t": "Umfragen zeigen Desaster: Trump verliert Unterstützung bei Republikanern vor Midterms - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEtaSkwtWVRPTjdyMUNQQ1JYZFdONEpqMzZyaWlHZkwzbVZRYVl0LXhVOERQbHZHZTVmc1RWRTlqM3FrMVN3dDA4LWc0VXlObW1xUk9BZkZfdExBX2ZuQk9yTngwLW9CYUVpMXVHNDlhS2dBTmdCbUpzR2tKOXZGM2FQN1R1SWZNNXFlT3p0TmlCRlE3V0xST3gyRDdma29rU0xqZWFWTXFOVE1HR0Q1UXI1NHNCeFhjcDFZNQ?oc=5",
-   "pub": "Sun, 26 Jul 2026 04:34:18 GMT"
+   "t": "Neue Front im Iran-Krieg: Huthi-Miliz intensiviert Angriffe auf Saudi-Arabien - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTdSTlQwMlU4bUpLTC03YnZ0SHllcVFBTmZybWZtOHgxdEdnbWpKQkMzWmFOZDNqaTBpR1o4MjZGNmZBRHIycmxveW04RWVzZVZ0LUh0cTRZUzlZdExHWnpzTlBKdDRGNWlFSHZyZ2hRQi1ib19fX1p3Yi01bXdsVTBsTmxhc2NhNXdYaGg1UlA4bVZVLXpXZGU0SkZlYTZPdHQ4RHE5QTByZE91WUZGY1BYNzRXZ29hc3NUQw?oc=5",
+   "pub": "Sun, 26 Jul 2026 11:01:19 GMT"
+  },
+  {
+   "t": "Iran verurteilt ukrainischen Angriff auf Schiff im Kaspischen Meer - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlYzSDRvNDVaRGI2Vy1Iem01LXRZWFN2MmpCSDhoaHItTlpCT3VIZDR3WTl1R0Z3RTUySENwN05YOHNvNVlNVVg5RXgyQ0V6YnAtWWdNenoyQUYtSDhiVFo2TjlZekRKNU9BNWRIZjdMamo1aG5HaTl4ZW5LVWVoSmtwYVdON2dLNFlpek9Ia2xVamhuZlhzNG9OTUcxb29oRVJiVmhjd0FNbUZVX280SkUwZF9uQQ?oc=5",
+   "pub": "Sun, 26 Jul 2026 06:00:32 GMT"
   },
   {
    "t": "Iran-Krieg: Lektionen aus der Sueskrise 1956 - ORF",
@@ -69,24 +79,14 @@
    "pub": "Sun, 26 Jul 2026 08:29:00 GMT"
   },
   {
-   "t": "Iran verurteilt ukrainischen Angriff auf Schiff im Kaspischen Meer - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlYzSDRvNDVaRGI2Vy1Iem01LXRZWFN2MmpCSDhoaHItTlpCT3VIZDR3WTl1R0Z3RTUySENwN05YOHNvNVlNVVg5RXgyQ0V6YnAtWWdNenoyQUYtSDhiVFo2TjlZekRKNU9BNWRIZjdMamo1aG5HaTl4ZW5LVWVoSmtwYVdON2dLNFlpek9Ia2xVamhuZlhzNG9OTUcxb29oRVJiVmhjd0FNbUZVX280SkUwZF9uQQ?oc=5",
-   "pub": "Sun, 26 Jul 2026 06:00:32 GMT"
+   "t": "Japan gerät durch den Iran-Krieg in ein politisches und wirtschaftliches Dilemma - Sumikai",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkpTcXV2NDFMT09QekxHYi1iUnNSTll3aEFRYTVNd0c2VER4S0ZwWE9henYwUWdkTnBtSExFWTdTeUJDYXVic1pGTFN4ei03VGt2UzZWN1c1VE5POS1KZ0NLb3ZWZXpvdEo1cEF4czFvcGdkTHptUTdvLVVsLVNmeENEUzRacDRuTGdCQktDOWFQbkFYcVVlLTBJSWRsWEdtTzdmcmFOSlBhbVFzejk2R0w4bXF4dUxPN1lRZ3NhNUF1QzdqRklKYzA1SWE2dGFjSi1iZ2ZR?oc=5",
+   "pub": "Sun, 26 Jul 2026 09:47:00 GMT"
   },
   {
-   "t": "Iran-Krieg - US-Militär schießt ‌einen Tanker im Golf ​von Oman manövrierunfähig - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbjJVY2VpSTlBQ3JpNmd6dXBzWS1YbjY4eWVUdGM4RU4wRGF0R0toM1dFbXFLcFU1eXBvbEtsY2lQWWxMVW5nS3o3M2ZiVUVFRm9ZLWdSZGY1b1NZaGc1VEVIcWFmMjVSSDgyeE5IYUxlWFhOWV9GQzlEc2xJLXpZNnl0YzZhLWYzejhQV1JGa3hPVlVpT1RwLXllelo0NHVjLTI5UFpnYzYzbUMxUGc?oc=5",
-   "pub": "Sat, 25 Jul 2026 21:49:49 GMT"
-  },
-  {
-   "t": "Nato-Gipfel in der Türkei: Anschlagsgefahr durch Iran-Verbündete soll Trump zu Flugzeugwechsel gezwungen haben - WELT",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOemluMmx0aTQ2STYyU2JsRU5KdUpxQmZjdlZ0aVdtU2w2MEtRQnN5VkNtaWphOWNtUWw2cEJEQS1feENsU01MWmNSTGJpbUV5Nlc2OHYwd3RwWkhpTmxGTkM1bmdDekdWbVhsdTNIMUJaMXAzUFVqSE50MEdvTDdVSkRDdzdxZU5Iemo0UXB1VnhBLUtUTnRKUENQNjU0VTY5Y0Y5NF9QQ0F0cHRGaVVBa1c3MFdjNEIxeWxsMGtiZHd2dFk3NVFMNVM0WWhYNndjcDNMQ3ZoRW5VblBndzh5ZklfUC10dFV0OERKT1FwRnZZa0FxT1A3Yk1BeFNLT3dYeHF4UTBkYTlEbFBmUV9PWkZR?oc=5",
-   "pub": "Sat, 25 Jul 2026 14:34:36 GMT"
-  },
-  {
-   "t": "Trump: Iran soll Reparatur der Schäden an Frachtern bezahlen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYnMzM0xDbmE0cUh2NWVJTC1jbGloRzRrdm45cG5MTDRmZnpiNXlKa0t4SDl6NXJDbnpyVzVsaS12ZUE5MElaTEplWUlCSTllMjVpUk9CRnB0WW92RlpyakE0aW1yV0ZET3FwODBKYlQ2QjNFelZ0SFVhX0F1LThWYUlKUDlBMndLbXVIbXZ1YzBSckR1NUw0azU4ZUJ4UFgtbktTdmNaT3RGZzNTVXZ5UVliUWlIRlEtZVY4RVN2RmZiWjNDZm9uajhKaExKV3NwMUdv0gHTAUFVX3lxTE5YbzY1NjgwdmNwNWRyMkNXV1drb3VvR19BamlSazAxMFBFTjlFdkdPQ2VIclFpSGZKQjRGX2FpRzRNdkdVdU9WTmlnb3BVWFQ0SjdhT3pQaHdHd1ZEWHVZU0w5cHNVX1Z4cVlWLTlDN0hRMjVPbk1kNkotNkxtVTQyTWlPRDJCNDBBOGxuMXFIZlZsRW9Yeml3bWRfWFRPZ05DZWZqdlFtLVcwNHZ5Nm5uZW5aTXlaR0k2N1JaZW1tRG5ZcGFNRWgyUTlvdlBuUDNQUUU?oc=5",
-   "pub": "Fri, 24 Jul 2026 13:04:08 GMT"
+   "t": "Kollektive Hoffnungslosigkeit - Iran zwischen Wirtschaftskrise und Krieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VFF1ajVVTnVIZV96Q3BnN0ZBN09OV0VPXzRwSlhzZ2xqRmFpWVV6Uzd1d1N5c2t0SEdYLTIwSlFpZFdfdUZEaFBNQTJ3bTB3dzA1MDBuWExzTVhDYVFrSW1CVURKMUNZQzJsN1N3?oc=5",
+   "pub": "Sun, 26 Jul 2026 11:04:00 GMT"
   },
   {
    "t": "»China will auf keinen Fall, dass der Iran diesen Krieg verliert« - DIE ZEIT",
@@ -94,19 +94,19 @@
    "pub": "Sat, 25 Jul 2026 18:32:05 GMT"
   },
   {
-   "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
-   "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
+   "t": "Trump: Iran soll Reparatur der Schäden an Frachtern bezahlen - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYnMzM0xDbmE0cUh2NWVJTC1jbGloRzRrdm45cG5MTDRmZnpiNXlKa0t4SDl6NXJDbnpyVzVsaS12ZUE5MElaTEplWUlCSTllMjVpUk9CRnB0WW92RlpyakE0aW1yV0ZET3FwODBKYlQ2QjNFelZ0SFVhX0F1LThWYUlKUDlBMndLbXVIbXZ1YzBSckR1NUw0azU4ZUJ4UFgtbktTdmNaT3RGZzNTVXZ5UVliUWlIRlEtZVY4RVN2RmZiWjNDZm9uajhKaExKV3NwMUdv0gHTAUFVX3lxTE5YbzY1NjgwdmNwNWRyMkNXV1drb3VvR19BamlSazAxMFBFTjlFdkdPQ2VIclFpSGZKQjRGX2FpRzRNdkdVdU9WTmlnb3BVWFQ0SjdhT3pQaHdHd1ZEWHVZU0w5cHNVX1Z4cVlWLTlDN0hRMjVPbk1kNkotNkxtVTQyTWlPRDJCNDBBOGxuMXFIZlZsRW9Yeml3bWRfWFRPZ05DZWZqdlFtLVcwNHZ5Nm5uZW5aTXlaR0k2N1JaZW1tRG5ZcGFNRWgyUTlvdlBuUDNQUUU?oc=5",
+   "pub": "Fri, 24 Jul 2026 13:04:08 GMT"
+  },
+  {
+   "t": "Umfragen zeigen Desaster: Trump verliert Unterstützung bei Republikanern vor Midterms - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEtaSkwtWVRPTjdyMUNQQ1JYZFdONEpqMzZyaWlHZkwzbVZRYVl0LXhVOERQbHZHZTVmc1RWRTlqM3FrMVN3dDA4LWc0VXlObW1xUk9BZkZfdExBX2ZuQk9yTngwLW9CYUVpMXVHNDlhS2dBTmdCbUpzR2tKOXZGM2FQN1R1SWZNNXFlT3p0TmlCRlE3V0xST3gyRDdma29rU0xqZWFWTXFOVE1HR0Q1UXI1NHNCeFhjcDFZNQ?oc=5",
+   "pub": "Sun, 26 Jul 2026 04:34:18 GMT"
   },
   {
    "t": "Iran-Krieg: Iran droht USA mit Ausweitung des Konflikts - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnNvTEZtSV9zVF9VdmdVVGY3MENuQjVUX2YwX0E4S0s0Q0F1bk8tQ0VJZTlQaTZ3Q3Y4anR3RjJNV0tIdldkRVF2SFQwOW8tRFJZbTBMQjJDQTJ5dmU5UGhVN0ZiYThxOERGakhPSVdjTmd2Z0ZHM092VHVtRnBhdXppclRGOE0wVmtRUi1DUFNPSjVsSC12VHlYUElVVS02SHV2WnRfdTktN2laZlpmTjNn?oc=5",
    "pub": "Sun, 26 Jul 2026 09:01:08 GMT"
-  },
-  {
-   "t": "Krieg gegen den Iran: Wenn die USA siegen wollen, bleibt jetzt eine gewalttätige Option - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVkR5RlRuTGg0QmRiX3lHV1l1b1JEUS1PSmVITnFNeklhRngzMTZjMTZCdUdaM245WUU4QnlUUmhIV3AxYWthLXliSm0yUU5mdlAxbTF2ZWp5aF9kODF5OHNVNWdjZXRlc0pkRUpwRlpqS1BFZUh3VGh3Zm0tVFhCLVJUT1AzNGt4LWRIempweVZ3QTZuRzJwRU44UzNiblhFZU55UXhHY28xYlpJWmo2eUQ4NHhHNF9MUDhKa3NmWWtuQVI2S3dzbElTYi1idXR6X2FuM29KcFVqV3FFVE1UY2g5ZllUV0tELVJadA?oc=5",
-   "pub": "Sat, 25 Jul 2026 12:37:00 GMT"
   }
  ]
 }
