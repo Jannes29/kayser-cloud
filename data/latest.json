@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-26T23:14:31Z",
+ "collected_at": "2026-07-27T00:15:06Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8167,
-   "chg1d_pct": -0.02
+   "price": 0.8149,
+   "chg1d_pct": -0.24
   },
   "USDJPY": {
-   "price": 163.686,
-   "chg1d_pct": -0.09
+   "price": 163.536,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8798,
-   "chg1d_pct": 0.26
-  },
-  "AUDJPY": {
-   "price": 114.455,
+   "price": 1.8799,
    "chg1d_pct": 0.27
   },
+  "AUDJPY": {
+   "price": 114.478,
+   "chg1d_pct": 0.29
+  },
   "EURUSD": {
-   "price": 1.1392,
-   "chg1d_pct": 0.13
+   "price": 1.1405,
+   "chg1d_pct": 0.25
   },
   "GBPCHF": {
-   "price": 1.0898,
-   "chg1d_pct": 0.23
+   "price": 1.0885,
+   "chg1d_pct": 0.11
   },
   "WTI": {
-   "price": 84.97,
-   "chg1d_pct": -4.86
+   "price": 84.7,
+   "chg1d_pct": -5.16
   },
   "BRENT": {
-   "price": 92.1,
-   "chg1d_pct": -4.84
+   "price": 92.03,
+   "chg1d_pct": -4.91
   },
   "GOLD": {
-   "price": 4089.8,
-   "chg1d_pct": 0.55
+   "price": 4104.5,
+   "chg1d_pct": 0.91
   },
   "SPX_FUT": {
-   "price": 7493.5,
-   "chg1d_pct": 0.62
+   "price": 7502.0,
+   "chg1d_pct": 0.73
   },
   "NAS_FUT": {
-   "price": 28601.0,
-   "chg1d_pct": 1.13
+   "price": 28633.25,
+   "chg1d_pct": 1.24
   }
  },
  "headlines": [
@@ -74,19 +74,19 @@
    "pub": "Sun, 26 Jul 2026 15:18:51 GMT"
   },
   {
-   "t": "Neue Front im Iran-Krieg: Huthi-Miliz intensiviert Angriffe auf Saudi-Arabien - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTdSTlQwMlU4bUpLTC03YnZ0SHllcVFBTmZybWZtOHgxdEdnbWpKQkMzWmFOZDNqaTBpR1o4MjZGNmZBRHIycmxveW04RWVzZVZ0LUh0cTRZUzlZdExHWnpzTlBKdDRGNWlFSHZyZ2hRQi1ib19fX1p3Yi01bXdsVTBsTmxhc2NhNXdYaGg1UlA4bVZVLXpXZGU0SkZlYTZPdHQ4RHE5QTByZE91WUZGY1BYNzRXZ29hc3NUQw?oc=5",
-   "pub": "Sun, 26 Jul 2026 11:01:19 GMT"
-  },
-  {
    "t": "Iran-Krieg aktuell: Iran droht Ukraine nach Angriff auf Frachtschiff - T-Online",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGRMX2dNQ3d6SFJUN2JiTE5Rd0c3NTZxbFZNZ1RiX2N2T2V5LVpvTDQtTG9pSjAxUndDdEI2VUM0cHBuanVJcDJvTExKYU40V1dZSzU2VWtrcGdDUldDSGhKSWJXb1JXelhwb3FaYS1iZVJTUFJSMXNmb0dmazVtbFpscHBrdmlETGQxcENfS1pZNkZ5MmdMaHVmSHpQNG9HOFM2YVMyVGRqSDUyVVpuUlJSUmtPM0s2al95SkRIVUlzY0MwYlM5QWZhMnNEQQ?oc=5",
    "pub": "Sun, 26 Jul 2026 19:09:00 GMT"
   },
   {
-   "t": "Japan gerät durch den Iran-Krieg in ein politisches und wirtschaftliches Dilemma - Sumikai",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkpTcXV2NDFMT09QekxHYi1iUnNSTll3aEFRYTVNd0c2VER4S0ZwWE9henYwUWdkTnBtSExFWTdTeUJDYXVic1pGTFN4ei03VGt2UzZWN1c1VE5POS1KZ0NLb3ZWZXpvdEo1cEF4czFvcGdkTHptUTdvLVVsLVNmeENEUzRacDRuTGdCQktDOWFQbkFYcVVlLTBJSWRsWEdtTzdmcmFOSlBhbVFzejk2R0w4bXF4dUxPN1lRZ3NhNUF1QzdqRklKYzA1SWE2dGFjSi1iZ2ZR?oc=5",
-   "pub": "Sun, 26 Jul 2026 09:47:00 GMT"
+   "t": "Neue Front im Iran-Krieg: Huthi-Miliz intensiviert Angriffe auf Saudi-Arabien - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTdSTlQwMlU4bUpLTC03YnZ0SHllcVFBTmZybWZtOHgxdEdnbWpKQkMzWmFOZDNqaTBpR1o4MjZGNmZBRHIycmxveW04RWVzZVZ0LUh0cTRZUzlZdExHWnpzTlBKdDRGNWlFSHZyZ2hRQi1ib19fX1p3Yi01bXdsVTBsTmxhc2NhNXdYaGg1UlA4bVZVLXpXZGU0SkZlYTZPdHQ4RHE5QTByZE91WUZGY1BYNzRXZ29hc3NUQw?oc=5",
+   "pub": "Sun, 26 Jul 2026 11:01:19 GMT"
+  },
+  {
+   "t": "Iran und USA setzen Angriffe aus: Trump wolle „Diplomatie Chance geben“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
+   "pub": "Sun, 26 Jul 2026 22:15:02 GMT"
   },
   {
    "t": "Teheran - Iran meldet Fortschritte bei Gesprächen über Straße von Hormus - Deutschlandfunk",
@@ -99,14 +99,14 @@
    "pub": "Sun, 26 Jul 2026 15:07:00 GMT"
   },
   {
-   "t": "Iran und USA setzen Angriffe aus: Trump wolle „Diplomatie Chance geben“ - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejAzd0ZKd2NUNm0yeDBsNVhRUHNfVVNaN25FZnduMkoycmd4RXE3UWtYakpLUDJJckZMWnFKbGI0XzNjRGVwbHVZSWY5WlVYWnZPTHRNRmdCUktGMEhzeTk1R0s2UmxnZmttWW9ENHpMLUsxd2VlTkdFWmp5djVTWmhqaWxnb1dBazJ5dXZmV3hxbjdfdm9nUTN1OVktZ2JHV294NjFR?oc=5",
-   "pub": "Sun, 26 Jul 2026 21:15:59 GMT"
-  },
-  {
    "t": "Iran-Krieg: US-Militär stoppt Tanker auf dem Weg nach Iran offenbar mit Schüssen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZWFyTXJvT2EycGtna3dzVkJqZHpXU1JLOFg2NzlBMWUwaXlaZkpYNnFkUVFxdWx5Sll5M2JzUzRkbXBkLURqV1dJWV9KMlVvRXhPdzJabnhlQWZMS0NpMjBVdF96SGVLeGgwV1R6SjJ5RkhpSkhNWm1DRFRkRnl3aG5FNmh1eTV0VGZDeGdmNlJ4TmhjdjNOYUVUTlM0ZXlJRXJyZ19sc2VXTjMzb1N2NnhIRTZfa2FmZE9sOXZxYXR3dlFweGI4TVZlN08ySGUtcnVLSTEtbC02MFF4N05OZWlxLWs?oc=5",
    "pub": "Sat, 25 Jul 2026 07:32:00 GMT"
+  },
+  {
+   "t": "Japan gerät durch den Iran-Krieg in ein politisches und wirtschaftliches Dilemma - Sumikai",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbkpTcXV2NDFMT09QekxHYi1iUnNSTll3aEFRYTVNd0c2VER4S0ZwWE9henYwUWdkTnBtSExFWTdTeUJDYXVic1pGTFN4ei03VGt2UzZWN1c1VE5POS1KZ0NLb3ZWZXpvdEo1cEF4czFvcGdkTHptUTdvLVVsLVNmeENEUzRacDRuTGdCQktDOWFQbkFYcVVlLTBJSWRsWEdtTzdmcmFOSlBhbVFzejk2R0w4bXF4dUxPN1lRZ3NhNUF1QzdqRklKYzA1SWE2dGFjSi1iZ2ZR?oc=5",
+   "pub": "Sun, 26 Jul 2026 09:47:00 GMT"
   }
  ]
 }
