@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-27T07:53:07Z",
+ "collected_at": "2026-07-27T11:41:10Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,106 +7,49 @@
    "chg1d_pct": -0.24
   },
   "USDJPY": {
-   "price": 163.454,
-   "chg1d_pct": -0.23
+   "price": 163.599,
+   "chg1d_pct": -0.14
   },
   "GBPCAD": {
-   "price": 1.8803,
-   "chg1d_pct": 0.29
+   "price": 1.8775,
+   "chg1d_pct": 0.14
   },
   "AUDJPY": {
-   "price": 114.471,
-   "chg1d_pct": 0.29
+   "price": 114.557,
+   "chg1d_pct": 0.36
   },
   "EURUSD": {
-   "price": 1.1404,
-   "chg1d_pct": 0.24
+   "price": 1.1396,
+   "chg1d_pct": 0.17
   },
   "GBPCHF": {
-   "price": 1.0872,
-   "chg1d_pct": -0.01
+   "price": 1.085,
+   "chg1d_pct": -0.22
   },
   "WTI": {
-   "price": 84.2,
-   "chg1d_pct": -5.72
+   "price": 83.34,
+   "chg1d_pct": -6.68
   },
   "BRENT": {
-   "price": 90.93,
-   "chg1d_pct": -6.04
+   "price": 89.43,
+   "chg1d_pct": -7.59
   },
   "GOLD": {
-   "price": 4098.3,
-   "chg1d_pct": 0.75
+   "price": 4101.2,
+   "chg1d_pct": 0.83
   },
   "SPX_FUT": {
-   "price": 7510.0,
-   "chg1d_pct": 0.84
+   "price": 7513.0,
+   "chg1d_pct": 0.88
   },
   "NAS_FUT": {
-   "price": 28684.75,
-   "chg1d_pct": 1.42
+   "price": 28675.75,
+   "chg1d_pct": 1.39
   }
  },
  "headlines": [
   {
-   "t": "Iran droht Ukraine nach Angriff auf Frachtschiff im Kaspischen Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMGw4MHFYMUJQc1YyYmdzekpMWnR3U1o3UUhxZlgxU2V4ZnFOaDZ4OGJCTVdJcFozNUp4RG9QVzVvQ0N1eEFHQzBINmlTZGJqU0RuM01ESUZKZjRSMkROdUNBZjZrREdMMnRKS2Y1VlNkZDdvNG5EOHFCZTJzMnJCanZXTmhfdVQ1a0JiSlJaNGdWYjBWaFJleWNha0RQWldIOVltZkwzcmlZLUU2bVpGQS03WXpQdkZ6R09uVjV3cmRiRlpVNGd2ZzM2SHpQY1ItQXNV?oc=5",
-   "pub": "Mon, 27 Jul 2026 06:10:00 GMT"
-  },
-  {
-   "t": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein - Tanker beschädigt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RuczBMS05MUlNtUWstZ3ZTU2o0LUhUUFdwTFJJLTV2QVdlYm1mMC1kd2JqcERHal9mWHRQT1QtZUtaNXczcDJqNmYxRTB6NE45TnFYdGNtSHZ4Y0ZPUGcyQko3Z0stdzZYTF9iQXBhdFJxZ1VtX092SG55YkJSdTFYcTFWNklWaG05MGx6UDJqamw3b3RnbkVZMF9CeVAwdlB2cFFtODBvSWpBb04wclFlbjBtcHo1NW9iam5Idw?oc=5",
-   "pub": "Sun, 26 Jul 2026 20:28:47 GMT"
-  },
-  {
-   "t": "Trump und der Iran: Warum der Krieg jetzt völlig außer Kontrolle geraten könnte - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLURmSTgxVmt0NGNTNVFxYWhZTlYwejVKcGlCck1raGxrdGFZckduS0N4Y1I0aG54LUs4amZ1X0tBZEpIZWZlZDJBWURUMWRlQktIQnlGa0F0NUk5WjhmM0F2c21Od2ZVaGNRYzRXdDRMeG9pODdMdFBtMHhGT3B3dmlxOFllbjVzUzR5X3hpQjhncXRVSDJEUktCX0ItTXZaUUxtN0RVLVE2WTBvakQwQnVkMTY2MklLT3dfc0VfelZ2ZVhRYWtLUjB2LTZLUQ?oc=5",
-   "pub": "Mon, 27 Jul 2026 04:52:53 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3VaZ3U1ZFVqWHppRVRiaXEyUkg4VzdGXzI4aDUyY0VpNGRnRF9oc1ZIVTY2RnhWZ21BaVhIYVZiVm1lR2hNNXV4VjBtUm1FMkFMZ2UtZ09IcmJpTUl2QjFGTVU5WlRmdmVVRzlGRU1QZDFQaHFwSE9FS2lQN0lhNm5qUzM0WVo3bUtyRjJ6Yk1BMzBLQzV1N0tEbmZ3bjBFZEdlY0RIWWl4VkdCUk9FMTJYRWFFa3hOM2QzT1c5VGlRNjFsb2xUMGwzUnRaSEE?oc=5",
-   "pub": "Mon, 27 Jul 2026 04:15:52 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump pausiert US-Angriffe – Sorge um Munitionsvorräte - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVVCaFBQQmZmclFvbW1vX0NoUUN5SGRVaFpUQXN0RUpXWnZhQVhZelVLbzZLdHFYemI5NVR5LU5hbk1laUdCZGtFS1Bjc2RvZkJXY2xzckhwaWRwVzRqQ0QzLU01QUtwWXo3SG9oNzloSFZXTWRfSUZycmVDLTFScUhtRjlBV01VYUZZRk96WjhVNlVLNW5xdGxXVVdUZnNod3dOamQ4QQ?oc=5",
-   "pub": "Mon, 27 Jul 2026 05:52:28 GMT"
-  },
-  {
-   "t": "Ölpreis fällt nach US-Angriffspause im Iran deutlich - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORV9YSlo0TUxLTWJYOUU1bFhmeGxRNElRR0w0Z1JrVTNaQ0l4a3lFLTFXdy1ua3JNVDlueUlsdzl3LTdiWlZsQkdTYlVtaDYzcTZPb3NoSmNYSHVtckVuOEJ4bUx0dHVsVGFXd3dkTWVQN2lfZHFma1VrVHlKdm5uQQ?oc=5",
-   "pub": "Mon, 27 Jul 2026 07:36:00 GMT"
-  },
-  {
-   "t": "Trump wechselte nach iranischer Drohung Flugzeug bei Rückkehr vom Nato-Gipfel - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVVRFV0UzMlB0ZUkzbkhaOFk3bkhEVnNfQXQtSTVUT0xodFhEdTkyeG5yR2NNNkFVMFIxa052Q05KbDJEZURnSThod1EyQ2lBWUNjX0xiMjhJb2xuRHB3bVJqVzVZMFBVbGhqU1dwXzZBOUZ2OTh5V1drTVZCcV9JVmVST29vUWdScURwMG9OdThNNnoyRlVaYWt5OU9STHNLOXFNcnlfYTQ3WXpReVk1QUNDemZ5WFp0SG9xWmpISmxMSFQ3eHdjS0gwVjN6S1NMVU1ycGVUZmZxQUU0b1dLM2RSZ2RLRUp3MFF5YWpB?oc=5",
-   "pub": "Mon, 27 Jul 2026 06:01:35 GMT"
-  },
-  {
-   "t": "USA setzen Angriffe auf Iran vorerst aus – Raum für neue Verhandlungen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFdMeDFkem9ZenNPNzducldtOFl0QkdpM1VLMkVoOEN0cGtXbVBUVTh1TjVaNXBhY01PakRqRmlyTV9HVEZiME5WWENtYWY2OEQyd2xITGhiRlVJVXNESWFWQUlsaVlQekQ0QnBrX0FfVGx4blFsSDRDekQ0Vmdic3hQeHVWZ3F1eGZ3b292ZkswVWRMOWtFT2pHbWUzYVFHalNuN0l3eFZvM2tFRjFTZndrRQ?oc=5",
-   "pub": "Mon, 27 Jul 2026 07:20:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Iran droht USA mit Ausweitung des Konflikts - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0lfRTFudFhYd0NjX1dySzNfYWZONHlVSWFLMmhpM1Z4TmIxNHBtWDFheGdHZ004bmRhSk9HU0xTSHVIcXhpWXdOaldiWEpXV2hya0dRM09JUVhlcVNocjRBSzUwVWNGcnhZMU8tSVRZQlhXSVY4eWhPMjNCdjYzY2Q3RkN0QQ?oc=5",
-   "pub": "Sun, 26 Jul 2026 09:00:32 GMT"
-  },
-  {
-   "t": "Krieg bekommt neue Dimension: Ukraine attackiert Iran-Nachschub - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGN4d3U2eUtLNzRIWmRXU1RZd1c1eEZTZ2hyc0hlenN4akZ1U3haaXlkS2NZZko1aXVhT3lUU0N2d3ZVTlFfYkJraTY2SWNYNExncks4M1dxZmRqZFZHa1VXZDBhNjR2SVNyNHlrdlpwdDM3d2thdWVOTVBuWVdkY2dxaXV5RmhLV1VsenV1TXA4U1BtNk1IOUJjOGJQdw?oc=5",
-   "pub": "Sun, 26 Jul 2026 14:45:28 GMT"
-  },
-  {
-   "t": "Iran: Ölpreis fällt nach US-Angriffspause zeitweise auf unter 90 Dollar - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcmVXRWJTRHN6V3M2N0hFZDFaYWhjWmFzWHlvRzFpTEdJeFBlLUxYSWVvVnBkczIyWExFVUxuWThOdzNBYUthd1RDTU5DZWpxbVdlOUQ1Y3lBeUh1OVpzLW9vQkFSTVVmeHlqcU1wSnd5ZzBfVktab1hGSjJBdWxYOVpqLXJPeVBTZnRUNk01OVNRd25mUVFPOWVVcmh1YzZTMkpwdmZmeUJidTZuYndtSkZ4a0JEQlFBVVpPLVdWOENWWDRqRk9jVC1GeEp4aHZCWWxjbUE0WGg?oc=5",
-   "pub": "Mon, 27 Jul 2026 05:33:00 GMT"
-  },
-  {
-   "t": "Teheran - Iran meldet Fortschritte bei Gesprächen über Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzZjYUZzR3c0aXVvZnNUYTdUaDh0ZldGLVNpR2plQmdlXzFPanVpd05qTVZOZjJIbDY2b3Nyd0pJb2tSbnNreXJlQVJDdHRZZmtrbFYwNWZfUTBQQnk0Wjk0Z1RNUjgwWF9hNjdhRTgwUmRGcXdYZW5ra2FyTXc1bUhwTHljalIydXEwYkVYTjUyN1ExOTRYR0hJM3BMZ0xtX1Y5SGNleVU?oc=5",
-   "pub": "Sun, 26 Jul 2026 10:00:00 GMT"
+   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
   }
  ]
 }
