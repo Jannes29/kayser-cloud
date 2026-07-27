@@ -1,72 +1,72 @@
 {
- "collected_at": "2026-07-27T17:12:28Z",
+ "collected_at": "2026-07-27T18:48:53Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8185,
-   "chg1d_pct": 0.2
+   "price": 0.819,
+   "chg1d_pct": 0.26
   },
   "USDJPY": {
-   "price": 163.688,
-   "chg1d_pct": -0.09
+   "price": 163.736,
+   "chg1d_pct": -0.06
   },
   "GBPCAD": {
-   "price": 1.8764,
-   "chg1d_pct": 0.08
+   "price": 1.877,
+   "chg1d_pct": 0.11
   },
   "AUDJPY": {
-   "price": 114.417,
-   "chg1d_pct": 0.24
+   "price": 114.407,
+   "chg1d_pct": 0.23
   },
   "EURUSD": {
-   "price": 1.1379,
-   "chg1d_pct": 0.02
+   "price": 1.1373,
+   "chg1d_pct": -0.03
   },
   "GBPCHF": {
-   "price": 1.0881,
-   "chg1d_pct": 0.07
+   "price": 1.0884,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 82.86,
-   "chg1d_pct": -7.22
+   "price": 82.84,
+   "chg1d_pct": -7.24
   },
   "BRENT": {
-   "price": 89.26,
-   "chg1d_pct": -7.77
+   "price": 88.63,
+   "chg1d_pct": -8.42
   },
   "GOLD": {
-   "price": 4080.7,
-   "chg1d_pct": 0.32
+   "price": 4075.8,
+   "chg1d_pct": 0.2
   },
   "SPX_FUT": {
-   "price": 7423.75,
-   "chg1d_pct": -0.32
+   "price": 7426.5,
+   "chg1d_pct": -0.28
   },
   "NAS_FUT": {
-   "price": 28022.25,
-   "chg1d_pct": -0.92
+   "price": 28037.25,
+   "chg1d_pct": -0.87
   }
  },
  "headlines": [
+  {
+   "t": "Was hinter der plötzlichen Kampfpause im Irankrieg stecken könnte - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTN6WVN0WDVsUmhtb19wUFZVSTYyeV9rdG50WWUteXRLREdGdDN3QkcwbUJ6bEs2c1g3WWM4QXQ1YXlCb2owV2FYSnJZZGZCU3pmdExXcGppbVIzejBUNTJvT2l0UkVHQXE1VmZEYkFXMHZiRjRsZHhwSWRwQ05zaVA0NWhhVndMTllzQm0tRnJKOUtMdlJNX295cDRGSWE2UFZxd1RPekJabnhlRkZmUjd4VFRBaFlDVktLbkFZZUdtYng0Y3I0QkE2SS13LTNG?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:58:00 GMT"
+  },
   {
    "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0VRUi02d1lqaENQeEluM0NmU2h5M0szYmEwT3RYN0JCUkJJeDdEalhJbGRfcmhwOTNOeVZ1cF9QTzJOMzlGNV9ESmtrYWl4LUtHbTVFekUzWm94MHNPV2xPUlNsTW5HQ1ZKZjlTMEsxOE5va3c1LWlNaXA2V2J6bjJqc0U2THBtZ2xSQUtFVTVIelJTWDhzUTNnTUE?oc=5",
    "pub": "Mon, 27 Jul 2026 14:02:04 GMT"
   },
   {
-   "t": "Iran-Krieg: Was hinter der plötzlichen Kampfpause stecken könnte - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTN6WVN0WDVsUmhtb19wUFZVSTYyeV9rdG50WWUteXRLREdGdDN3QkcwbUJ6bEs2c1g3WWM4QXQ1YXlCb2owV2FYSnJZZGZCU3pmdExXcGppbVIzejBUNTJvT2l0UkVHQXE1VmZEYkFXMHZiRjRsZHhwSWRwQ05zaVA0NWhhVndMTllzQm0tRnJKOUtMdlJNX295cDRGSWE2UFZxd1RPekJabnhlRkZmUjd4VFRBaFlDVktLbkFZZUdtYng0Y3I0QkE2SS13LTNG?oc=5",
-   "pub": "Mon, 27 Jul 2026 13:58:00 GMT"
+   "t": "Fed-Zinsentscheid am Mittwoch: Experte warnt vor ungewöhnlichem Risiko - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUJOWW95NFhZQUpwaEFSTGljRzVYVUw0LUNSb0ZlQmlFZXIxQ0VUVERtTXZiQXAtODM0ZWtKU2I4UmRfbTBaOUJpWmozS25UT2UxRjVScUUyVmZoVl9adUdUQ09mOU02dVU5WWJrOUhSdGlGd3lWYWZKdTQ0UWZsOW01M09kOHRDbTRuY1lONGszdlZMVzVTZkJEdUhwTjBDVHpZZ0U4WVc0YWZiVXZMblVVMS1VdVhiRGpGTVR3c1RqV1lHX2Q1bkp3?oc=5",
+   "pub": "Mon, 27 Jul 2026 14:38:00 GMT"
   },
   {
    "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDNhMlRBWnRnZGhnZFhLRGpiZmphTEl2c1I2aHVDcGdCV1lXdlRGZDRkTHNUOXA2ZVNJSHhwYThvX1pYb01sTlJDNVVrT1ItYXpjNnc3a0RYTVItUlozRU01N0xPejBYWWl2MjY4eW9fTV9lMnV1ZG1MSVdnMkVPYmdrOHNLTWRSeHdFTGp0NEE0eEVEQjAzRHlBR3ZRLW9UUVNB?oc=5",
    "pub": "Mon, 27 Jul 2026 13:01:07 GMT"
-  },
-  {
-   "t": "Fed-Zinsentscheid am Mittwoch: Experte warnt vor ungewöhnlichem Risiko - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUJOWW95NFhZQUpwaEFSTGljRzVYVUw0LUNSb0ZlQmlFZXIxQ0VUVERtTXZiQXAtODM0ZWtKU2I4UmRfbTBaOUJpWmozS25UT2UxRjVScUUyVmZoVl9adUdUQ09mOU02dVU5WWJrOUhSdGlGd3lWYWZKdTQ0UWZsOW01M09kOHRDbTRuY1lONGszdlZMVzVTZkJEdUhwTjBDVHpZZ0U4WVc0YWZiVXZMblVVMS1VdVhiRGpGTVR3c1RqV1lHX2Q1bkp3?oc=5",
-   "pub": "Mon, 27 Jul 2026 14:38:00 GMT"
   },
   {
    "t": "Waffenruhe auf Zeit: USA und Iran geben Diplomatie noch eine Chance - Euronews.com",
@@ -89,6 +89,11 @@
    "pub": "Mon, 27 Jul 2026 12:38:00 GMT"
   },
   {
+   "t": "Iran-Krieg: Trump: Angriffspause im Iran für Verhandlungen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3F6MkNyenNKV1hQTkRkcHpQUmVYeGNhRWR6VUFYdGJCQnpya2pZQ09fZC1TeWN5aFg5aVNkdFdGc3Fnb0ZNcDI5Rk5CM1RfbTF0QXdJYlNPajkzeWVGQ2l4M3dUaVV2eTUxNTU1OW1wXzM1TTZveVJzSU1iR1ZDZ01aeFdwd1AtWEJ4Y3ZuUDRLbDhReXRZYVBJT1FqSk15a252LVpRUk41alNicGdZ?oc=5",
+   "pub": "Mon, 27 Jul 2026 17:18:00 GMT"
+  },
+  {
    "t": "News zum Krieg in Nahost: Geheimdienst sieht Anzeichen für US-Bodenoffensive im Iran - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUGVISkxGSjUwOTZ2VExFOTZGOE4yWVZPRWs2aklXQ3c5UHNiMlBldWNmYVZWMl9MbHVJamRoNlpNWE1oY0Y3ZzRWSVh0ZlRZR3cxMVY1TkN0OTBwbU0zQlFxZG1pVHpxQlljcTFtWHNxbWlUQ0FfMDRHNXhnNHJiVGRTQzRGSTl4cGlRT3ljdlp2SlFtbFFtMUl5ZU8zaTBjT2JVZTV2MzY4ZnViRFRLMUhhSjhMRV9LMVNKLTFMQWQ1RDB5dzY5Nm9lalUzX0N3WGFQYzBB?oc=5",
    "pub": "Mon, 27 Jul 2026 14:10:00 GMT"
@@ -102,11 +107,6 @@
    "t": "Angriff „kann nicht unbeantwortet bleiben“ Iran droht Ukraine nach Beschuss von Schiff im Kaspischen Meer - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdlBhaGphRzVVVWZfbWVCY0RvdVJGV1M2STVoc0Q2QUw5WndscXF4dDZ3QjVPaDhZbnc4eXFCRTJua0xfRWl0UTNtVTVQRFlNLTFoWHQxVHA3NEN2OFM4a1FmUEtibDU4OVlYYXJ4N2dzNGJIcU8yeXhUZ3RacTJFbEFZVUxsN2FWdUZrbUhLU2FQLU1HY2U1Wksxa0VwZmNmQjI0MjhBMHZVRTEzRVNUUUg2UzdEWVUtc0RTcVhNVjRxSUZWZjI2em5Gc3VXbHpxRXdUOEx0b3g1OUd5TExWd2ZTRU9GVUVNcVZIRFR1U0prRG8?oc=5",
    "pub": "Mon, 27 Jul 2026 13:25:56 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Pentagon ändert Erfassung von Opferzahlen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelNpREp1ZmppZWxRZUVaYzAwaXk4ZUFGbDY3YWVKWGUzRkJLTl9vVWRnTElZOWx4TDJFdkJJWU9IcVN4UklYcm5yRkxUc1k0MkxEbGZYQ3dNa2daUXVLWEtNZE5EX0pnZ1YwQ2xVMS1yRDhPQUNCV2ZZUFktRnNFb3hPalhLTnVMM1B5Nk9mbmVDZ3YxTGtIbEI4VnBqNFRhMzJkUy03MzZMcXZVSW55SHQxVzFiemQzOWNLSkVPZ2dpTW5VRTIxTg?oc=5",
-   "pub": "Mon, 27 Jul 2026 09:19:00 GMT"
   }
  ]
 }
