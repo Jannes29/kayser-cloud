@@ -1,62 +1,62 @@
 {
- "collected_at": "2026-07-27T18:48:53Z",
+ "collected_at": "2026-07-27T20:44:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.819,
-   "chg1d_pct": 0.26
+   "price": 0.8193,
+   "chg1d_pct": 0.37
   },
   "USDJPY": {
-   "price": 163.736,
-   "chg1d_pct": -0.06
+   "price": 163.758,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.877,
-   "chg1d_pct": 0.11
+   "price": 1.8766,
+   "chg1d_pct": -0.2
   },
   "AUDJPY": {
-   "price": 114.407,
-   "chg1d_pct": 0.23
+   "price": 114.449,
+   "chg1d_pct": 0.02
   },
   "EURUSD": {
-   "price": 1.1373,
-   "chg1d_pct": -0.03
+   "price": 1.1371,
+   "chg1d_pct": -0.21
   },
   "GBPCHF": {
-   "price": 1.0884,
-   "chg1d_pct": 0.1
+   "price": 1.0886,
+   "chg1d_pct": -0.1
   },
   "WTI": {
-   "price": 82.84,
-   "chg1d_pct": -7.24
+   "price": 81.93,
+   "chg1d_pct": -8.26
   },
   "BRENT": {
-   "price": 88.63,
-   "chg1d_pct": -8.42
+   "price": 87.67,
+   "chg1d_pct": -9.41
   },
   "GOLD": {
-   "price": 4075.8,
-   "chg1d_pct": 0.2
+   "price": 4080.4,
+   "chg1d_pct": 0.31
   },
   "SPX_FUT": {
-   "price": 7426.5,
-   "chg1d_pct": -0.28
+   "price": 7450.5,
+   "chg1d_pct": 0.04
   },
   "NAS_FUT": {
-   "price": 28037.25,
-   "chg1d_pct": -0.87
+   "price": 28201.0,
+   "chg1d_pct": -0.29
   }
  },
  "headlines": [
   {
-   "t": "Was hinter der plötzlichen Kampfpause im Irankrieg stecken könnte - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTN6WVN0WDVsUmhtb19wUFZVSTYyeV9rdG50WWUteXRLREdGdDN3QkcwbUJ6bEs2c1g3WWM4QXQ1YXlCb2owV2FYSnJZZGZCU3pmdExXcGppbVIzejBUNTJvT2l0UkVHQXE1VmZEYkFXMHZiRjRsZHhwSWRwQ05zaVA0NWhhVndMTllzQm0tRnJKOUtMdlJNX295cDRGSWE2UFZxd1RPekJabnhlRkZmUjd4VFRBaFlDVktLbkFZZUdtYng0Y3I0QkE2SS13LTNG?oc=5",
-   "pub": "Mon, 27 Jul 2026 13:58:00 GMT"
-  },
-  {
    "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0VRUi02d1lqaENQeEluM0NmU2h5M0szYmEwT3RYN0JCUkJJeDdEalhJbGRfcmhwOTNOeVZ1cF9QTzJOMzlGNV9ESmtrYWl4LUtHbTVFekUzWm94MHNPV2xPUlNsTW5HQ1ZKZjlTMEsxOE5va3c1LWlNaXA2V2J6bjJqc0U2THBtZ2xSQUtFVTVIelJTWDhzUTNnTUE?oc=5",
-   "pub": "Mon, 27 Jul 2026 14:02:04 GMT"
+   "pub": "Mon, 27 Jul 2026 18:08:27 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Was hinter der plötzlichen Kampfpause stecken könnte - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTN6WVN0WDVsUmhtb19wUFZVSTYyeV9rdG50WWUteXRLREdGdDN3QkcwbUJ6bEs2c1g3WWM4QXQ1YXlCb2owV2FYSnJZZGZCU3pmdExXcGppbVIzejBUNTJvT2l0UkVHQXE1VmZEYkFXMHZiRjRsZHhwSWRwQ05zaVA0NWhhVndMTllzQm0tRnJKOUtMdlJNX295cDRGSWE2UFZxd1RPekJabnhlRkZmUjd4VFRBaFlDVktLbkFZZUdtYng0Y3I0QkE2SS13LTNG?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:58:00 GMT"
   },
   {
    "t": "Fed-Zinsentscheid am Mittwoch: Experte warnt vor ungewöhnlichem Risiko - Berliner Morgenpost",
@@ -74,6 +74,11 @@
    "pub": "Mon, 27 Jul 2026 09:37:43 GMT"
   },
   {
+   "t": "Aktuelle Lage in Nahost: Anzeichen für US-Bodenoffensive im Iran – doch Trump sieht „gute“ Verhandlungschancen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmI1anpsOGM5X2R0S1N3RXZ1R01pZVVKWjJWVDZnUHVsYVBuSmRXVXJpeURNY2ZVWDl0X1ZabDBqSzRLcHVZYjdTTUVNbllpSDdGaWQ3bTBJMUtqUmd1N29TM2Z1RmwyWVhMWlZHLVFfaU5IVTlDMEdVak04YVUtQVQtLW42LUhJYlhqZFJicVhKWDlOVjZlVGlFS3pkbmxwNXJXZExfT3g5ZlE?oc=5",
+   "pub": "Mon, 27 Jul 2026 18:40:00 GMT"
+  },
+  {
    "t": "Trotz Warnung durch Militär: Trump erwägt offenbar US-Bodenoffensive im Iran - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEU2UFVNNVBUcHVhOHFfbWJ4dURsQWRVZE9GSGxXX2ZUalllekt4LTVXVjBKaGNzaE02WDRtRFJBUDNIYWVPWjB3WkFPdG5nbkM3Y2hZZDdJRW1DU3hwUGlzNzR1anBWLVBHWTZ5eUFNajZFZjNRbUxMSmQ4YThyQ0tTVW5mZ21kVjN0dTRQeXhmeGdlRGxR?oc=5",
    "pub": "Mon, 27 Jul 2026 13:47:31 GMT"
@@ -82,16 +87,6 @@
    "t": "Ölpreise: Hoffnung auf Gespräche zwischen USA und Iran lässt Ölpreis sinken - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHk5dGM5aldLeGR1cXBlRnNQRTg0Zk04bHdzWUo2UW4tcm5JWUh1LUFabVZpblNoMHJLVTBRRzYzR1hZZElwVEIzdHlPakNqUnNCV2lub2gzZTJUNlJqWEFlVjVOa09XVlI3bUFJMHFYVHhiQlUxRXk5c3hmUzNDd1hNdnktajc4?oc=5",
    "pub": "Mon, 27 Jul 2026 13:13:43 GMT"
-  },
-  {
-   "t": "Aktuelle Lage in Nahost: Anzeichen für US-Bodenoffensive im Iran - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmI1anpsOGM5X2R0S1N3RXZ1R01pZVVKWjJWVDZnUHVsYVBuSmRXVXJpeURNY2ZVWDl0X1ZabDBqSzRLcHVZYjdTTUVNbllpSDdGaWQ3bTBJMUtqUmd1N29TM2Z1RmwyWVhMWlZHLVFfaU5IVTlDMEdVak04YVUtQVQtLW42LUhJYlhqZFJicVhKWDlOVjZlVGlFS3pkbmxwNXJXZExfT3g5ZlE?oc=5",
-   "pub": "Mon, 27 Jul 2026 12:38:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump: Angriffspause im Iran für Verhandlungen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3F6MkNyenNKV1hQTkRkcHpQUmVYeGNhRWR6VUFYdGJCQnpya2pZQ09fZC1TeWN5aFg5aVNkdFdGc3Fnb0ZNcDI5Rk5CM1RfbTF0QXdJYlNPajkzeWVGQ2l4M3dUaVV2eTUxNTU1OW1wXzM1TTZveVJzSU1iR1ZDZ01aeFdwd1AtWEJ4Y3ZuUDRLbDhReXRZYVBJT1FqSk15a252LVpRUk41alNicGdZ?oc=5",
-   "pub": "Mon, 27 Jul 2026 17:18:00 GMT"
   },
   {
    "t": "News zum Krieg in Nahost: Geheimdienst sieht Anzeichen für US-Bodenoffensive im Iran - T-Online",
@@ -104,9 +99,14 @@
    "pub": "Mon, 27 Jul 2026 08:53:38 GMT"
   },
   {
-   "t": "Angriff „kann nicht unbeantwortet bleiben“ Iran droht Ukraine nach Beschuss von Schiff im Kaspischen Meer - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdlBhaGphRzVVVWZfbWVCY0RvdVJGV1M2STVoc0Q2QUw5WndscXF4dDZ3QjVPaDhZbnc4eXFCRTJua0xfRWl0UTNtVTVQRFlNLTFoWHQxVHA3NEN2OFM4a1FmUEtibDU4OVlYYXJ4N2dzNGJIcU8yeXhUZ3RacTJFbEFZVUxsN2FWdUZrbUhLU2FQLU1HY2U1Wksxa0VwZmNmQjI0MjhBMHZVRTEzRVNUUUg2UzdEWVUtc0RTcVhNVjRxSUZWZjI2em5Gc3VXbHpxRXdUOEx0b3g1OUd5TExWd2ZTRU9GVUVNcVZIRFR1U0prRG8?oc=5",
-   "pub": "Mon, 27 Jul 2026 13:25:56 GMT"
+   "t": "Iran-Krieg: Saudi-Arabien meldet Drohnenattacken - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21KOUdZSjAwZ3MwOURTeDNlcHUteUpDVTJSYjFhYnB4NW84S1RNZEh3MEpjQ3BxeHBCUkVmZF9vLUtCTU9pTVpDcmdHbHV3dDR0UUZDWHY3YjRPdGxWUjUzY1VPcVVjWTFVeklfTGtTQkpCWmNmM3VPVzg0c1pTX3hsWWlpYkVmNE54QklpZVhtYlZVUXA2NzYxZTFLWUVyVG9qazktTzB5UzJDMV85ZVVPTjQxelNk?oc=5",
+   "pub": "Mon, 27 Jul 2026 14:17:00 GMT"
+  },
+  {
+   "t": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein - Tanker beschädigt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RuczBMS05MUlNtUWstZ3ZTU2o0LUhUUFdwTFJJLTV2QVdlYm1mMC1kd2JqcERHal9mWHRQT1QtZUtaNXczcDJqNmYxRTB6NE45TnFYdGNtSHZ4Y0ZPUGcyQko3Z0stdzZYTF9iQXBhdFJxZ1VtX092SG55YkJSdTFYcTFWNklWaG05MGx6UDJqamw3b3RnbkVZMF9CeVAwdlB2cFFtODBvSWpBb04wclFlbjBtcHo1NW9iam5Idw?oc=5",
+   "pub": "Sun, 26 Jul 2026 20:28:47 GMT"
   }
  ]
 }
