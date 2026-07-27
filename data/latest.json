@@ -1,55 +1,112 @@
 {
- "collected_at": "2026-07-27T11:41:10Z",
+ "collected_at": "2026-07-27T15:15:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8149,
-   "chg1d_pct": -0.24
+   "price": 0.8187,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 163.599,
-   "chg1d_pct": -0.14
+   "price": 163.703,
+   "chg1d_pct": -0.08
   },
   "GBPCAD": {
-   "price": 1.8775,
-   "chg1d_pct": 0.14
+   "price": 1.8771,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 114.557,
-   "chg1d_pct": 0.36
+   "price": 114.467,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.1396,
-   "chg1d_pct": 0.17
+   "price": 1.1374,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.085,
-   "chg1d_pct": -0.22
+   "price": 1.0891,
+   "chg1d_pct": 0.16
   },
   "WTI": {
-   "price": 83.34,
-   "chg1d_pct": -6.68
+   "price": 83.48,
+   "chg1d_pct": -6.53
   },
   "BRENT": {
-   "price": 89.43,
-   "chg1d_pct": -7.59
+   "price": 89.77,
+   "chg1d_pct": -7.24
   },
   "GOLD": {
-   "price": 4101.2,
-   "chg1d_pct": 0.83
+   "price": 4076.6,
+   "chg1d_pct": 0.22
   },
   "SPX_FUT": {
-   "price": 7513.0,
-   "chg1d_pct": 0.88
+   "price": 7456.5,
+   "chg1d_pct": 0.12
   },
   "NAS_FUT": {
-   "price": 28675.75,
-   "chg1d_pct": 1.39
+   "price": 28164.5,
+   "chg1d_pct": -0.42
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "(S+) Iran-Krieg: Was hinter der plötzlichen Kampfpause stecken könnte - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSTN6WVN0WDVsUmhtb19wUFZVSTYyeV9rdG50WWUteXRLREdGdDN3QkcwbUJ6bEs2c1g3WWM4QXQ1YXlCb2owV2FYSnJZZGZCU3pmdExXcGppbVIzejBUNTJvT2l0UkVHQXE1VmZEYkFXMHZiRjRsZHhwSWRwQ05zaVA0NWhhVndMTllzQm0tRnJKOUtMdlJNX295cDRGSWE2UFZxd1RPekJabnhlRkZmUjd4VFRBaFlDVktLbkFZZUdtYng0Y3I0QkE2SS13LTNG?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:58:00 GMT"
+  },
+  {
+   "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0VRUi02d1lqaENQeEluM0NmU2h5M0szYmEwT3RYN0JCUkJJeDdEalhJbGRfcmhwOTNOeVZ1cF9QTzJOMzlGNV9ESmtrYWl4LUtHbTVFekUzWm94MHNPV2xPUlNsTW5HQ1ZKZjlTMEsxOE5va3c1LWlNaXA2V2J6bjJqc0U2THBtZ2xSQUtFVTVIelJTWDhzUTNnTUE?oc=5",
+   "pub": "Mon, 27 Jul 2026 14:02:04 GMT"
+  },
+  {
+   "t": "Krieg gegen den Iran: Wenn die USA siegen wollen, bleibt jetzt eine gewalttätige Option - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVkR5RlRuTGg0QmRiX3lHV1l1b1JEUS1PSmVITnFNeklhRngzMTZjMTZCdUdaM245WUU4QnlUUmhIV3AxYWthLXliSm0yUU5mdlAxbTF2ZWp5aF9kODF5OHNVNWdjZXRlc0pkRUpwRlpqS1BFZUh3VGh3Zm0tVFhCLVJUT1AzNGt4LWRIempweVZ3QTZuRzJwRU44UzNiblhFZU55UXhHY28xYlpJWmo2eUQ4NHhHNF9MUDhKa3NmWWtuQVI2S3dzbElTYi1idXR6X2FuM29KcFVqV3FFVE1UY2g5ZllUV0tELVJadA?oc=5",
+   "pub": "Mon, 27 Jul 2026 14:07:18 GMT"
+  },
+  {
+   "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDNhMlRBWnRnZGhnZFhLRGpiZmphTEl2c1I2aHVDcGdCV1lXdlRGZDRkTHNUOXA2ZVNJSHhwYThvX1pYb01sTlJDNVVrT1ItYXpjNnc3a0RYTVItUlozRU01N0xPejBYWWl2MjY4eW9fTV9lMnV1ZG1MSVdnMkVPYmdrOHNLTWRSeHdFTGp0NEE0eEVEQjAzRHlBR3ZRLW9UUVNB?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:01:07 GMT"
+  },
+  {
+   "t": "Waffenruhe auf Zeit: USA und Iran geben Diplomatie noch eine Chance - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VQmxlbTdqeEU1WWVZVXZxMGRnMHhOOTVZdWxlZ0RSZWludHdoa3FrUmpEWGlWU0dCOURjbzZfTl9ZRVVJb2FYVUhvQVk3dk54U3djM001OTZhTEdBMl9ycUFBNkFCa2lVeVlPN1hVbHI5TkZ0Y1IxTkZmOA?oc=5",
+   "pub": "Mon, 27 Jul 2026 09:37:43 GMT"
+  },
+  {
+   "t": "Trotz Warnung durch Militär: Trump erwägt offenbar US-Bodenoffensive im Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEU2UFVNNVBUcHVhOHFfbWJ4dURsQWRVZE9GSGxXX2ZUalllekt4LTVXVjBKaGNzaE02WDRtRFJBUDNIYWVPWjB3WkFPdG5nbkM3Y2hZZDdJRW1DU3hwUGlzNzR1anBWLVBHWTZ5eUFNajZFZjNRbUxMSmQ4YThyQ0tTVW5mZ21kVjN0dTRQeXhmeGdlRGxR?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:47:31 GMT"
+  },
+  {
+   "t": "News zum Krieg in Nahost: Geheimdienst sieht Anzeichen für US-Bodenoffensive im Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUGVISkxGSjUwOTZ2VExFOTZGOE4yWVZPRWs2aklXQ3c5UHNiMlBldWNmYVZWMl9MbHVJamRoNlpNWE1oY0Y3ZzRWSVh0ZlRZR3cxMVY1TkN0OTBwbU0zQlFxZG1pVHpxQlljcTFtWHNxbWlUQ0FfMDRHNXhnNHJiVGRTQzRGSTl4cGlRT3ljdlp2SlFtbFFtMUl5ZU8zaTBjT2JVZTV2MzY4ZnViRFRLMUhhSjhMRV9LMVNKLTFMQWQ1RDB5dzY5Nm9lalUzX0N3WGFQYzBB?oc=5",
+   "pub": "Mon, 27 Jul 2026 14:10:00 GMT"
+  },
+  {
+   "t": "Ölpreise: Hoffnung auf Gespräche zwischen USA und Iran lässt Ölpreis sinken - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHk5dGM5aldLeGR1cXBlRnNQRTg0Zk04bHdzWUo2UW4tcm5JWUh1LUFabVZpblNoMHJLVTBRRzYzR1hZZElwVEIzdHlPakNqUnNCV2lub2gzZTJUNlJqWEFlVjVOa09XVlI3bUFJMHFYVHhiQlUxRXk5c3hmUzNDd1hNdnktajc4?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:13:43 GMT"
+  },
+  {
+   "t": "Angriff „kann nicht unbeantwortet bleiben“ Iran droht Ukraine nach Beschuss von Schiff im Kaspischen Meer - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdlBhaGphRzVVVWZfbWVCY0RvdVJGV1M2STVoc0Q2QUw5WndscXF4dDZ3QjVPaDhZbnc4eXFCRTJua0xfRWl0UTNtVTVQRFlNLTFoWHQxVHA3NEN2OFM4a1FmUEtibDU4OVlYYXJ4N2dzNGJIcU8yeXhUZ3RacTJFbEFZVUxsN2FWdUZrbUhLU2FQLU1HY2U1Wksxa0VwZmNmQjI0MjhBMHZVRTEzRVNUUUg2UzdEWVUtc0RTcVhNVjRxSUZWZjI2em5Gc3VXbHpxRXdUOEx0b3g1OUd5TExWd2ZTRU9GVUVNcVZIRFR1U0prRG8?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:25:56 GMT"
+  },
+  {
+   "t": "Aktuelle Lage in Nahost: Anzeichen für US-Bodenoffensive im Iran - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmI1anpsOGM5X2R0S1N3RXZ1R01pZVVKWjJWVDZnUHVsYVBuSmRXVXJpeURNY2ZVWDl0X1ZabDBqSzRLcHVZYjdTTUVNbllpSDdGaWQ3bTBJMUtqUmd1N29TM2Z1RmwyWVhMWlZHLVFfaU5IVTlDMEdVak04YVUtQVQtLW42LUhJYlhqZFJicVhKWDlOVjZlVGlFS3pkbmxwNXJXZExfT3g5ZlE?oc=5",
+   "pub": "Mon, 27 Jul 2026 12:38:00 GMT"
+  },
+  {
+   "t": "Trump und der Iran: Warum der Krieg jetzt völlig außer Kontrolle geraten könnte - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLURmSTgxVmt0NGNTNVFxYWhZTlYwejVKcGlCck1raGxrdGFZckduS0N4Y1I0aG54LUs4amZ1X0tBZEpIZWZlZDJBWURUMWRlQktIQnlGa0F0NUk5WjhmM0F2c21Od2ZVaGNRYzRXdDRMeG9pODdMdFBtMHhGT3B3dmlxOFllbjVzUzR5X3hpQjhncXRVSDJEUktCX0ItTXZaUUxtN0RVLVE2WTBvakQwQnVkMTY2MklLT3dfc0VfelZ2ZVhRYWtLUjB2LTZLUQ?oc=5",
+   "pub": "Mon, 27 Jul 2026 04:52:53 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Pentagon ändert Erfassung von Opferzahlen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelNpREp1ZmppZWxRZUVaYzAwaXk4ZUFGbDY3YWVKWGUzRkJLTl9vVWRnTElZOWx4TDJFdkJJWU9IcVN4UklYcm5yRkxUc1k0MkxEbGZYQ3dNa2daUXVLWEtNZE5EX0pnZ1YwQ2xVMS1yRDhPQUNCV2ZZUFktRnNFb3hPalhLTnVMM1B5Nk9mbmVDZ3YxTGtIbEI4VnBqNFRhMzJkUy03MzZMcXZVSW55SHQxVzFiemQzOWNLSkVPZ2dpTW5VRTIxTg?oc=5",
+   "pub": "Mon, 27 Jul 2026 09:19:00 GMT"
   }
  ]
 }
