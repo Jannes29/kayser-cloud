@@ -1,62 +1,62 @@
 {
- "collected_at": "2026-07-28T00:11:28Z",
+ "collected_at": "2026-07-28T03:37:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8195,
-   "chg1d_pct": 0.4
+   "price": 0.8187,
+   "chg1d_pct": 0.3
   },
   "USDJPY": {
-   "price": 163.812,
-   "chg1d_pct": 0.12
+   "price": 163.733,
+   "chg1d_pct": 0.07
   },
   "GBPCAD": {
-   "price": 1.8772,
-   "chg1d_pct": -0.17
+   "price": 1.8773,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 114.371,
-   "chg1d_pct": -0.05
+   "price": 114.336,
+   "chg1d_pct": -0.08
   },
   "EURUSD": {
-   "price": 1.1371,
-   "chg1d_pct": -0.21
+   "price": 1.138,
+   "chg1d_pct": -0.13
   },
   "GBPCHF": {
    "price": 1.0887,
    "chg1d_pct": -0.09
   },
   "WTI": {
-   "price": 81.86,
-   "chg1d_pct": -8.34
+   "price": 81.3,
+   "chg1d_pct": -1.59
   },
   "BRENT": {
-   "price": 87.62,
-   "chg1d_pct": -9.46
+   "price": 86.87,
+   "chg1d_pct": -1.69
   },
   "GOLD": {
-   "price": 4072.8,
-   "chg1d_pct": 0.13
+   "price": 4048.0,
+   "chg1d_pct": -0.65
   },
   "SPX_FUT": {
-   "price": 7447.0,
-   "chg1d_pct": -0.01
+   "price": 7432.0,
+   "chg1d_pct": -0.22
   },
   "NAS_FUT": {
-   "price": 28159.0,
-   "chg1d_pct": -0.44
+   "price": 28008.0,
+   "chg1d_pct": -0.65
   }
  },
  "headlines": [
   {
-   "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDNhMlRBWnRnZGhnZFhLRGpiZmphTEl2c1I2aHVDcGdCV1lXdlRGZDRkTHNUOXA2ZVNJSHhwYThvX1pYb01sTlJDNVVrT1ItYXpjNnc3a0RYTVItUlozRU01N0xPejBYWWl2MjY4eW9fTV9lMnV1ZG1MSVdnMkVPYmdrOHNLTWRSeHdFTGp0NEE0eEVEQjAzRHlBR3ZRLW9UUVNB?oc=5",
-   "pub": "Mon, 27 Jul 2026 13:01:07 GMT"
+   "t": "Krieg gegen den Iran: Wenn die USA siegen wollen, bleibt jetzt eine gewalttätige Option - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVkR5RlRuTGg0QmRiX3lHV1l1b1JEUS1PSmVITnFNeklhRngzMTZjMTZCdUdaM245WUU4QnlUUmhIV3AxYWthLXliSm0yUU5mdlAxbTF2ZWp5aF9kODF5OHNVNWdjZXRlc0pkRUpwRlpqS1BFZUh3VGh3Zm0tVFhCLVJUT1AzNGt4LWRIempweVZ3QTZuRzJwRU44UzNiblhFZU55UXhHY28xYlpJWmo2eUQ4NHhHNF9MUDhKa3NmWWtuQVI2S3dzbElTYi1idXR6X2FuM29KcFVqV3FFVE1UY2g5ZllUV0tELVJadA?oc=5",
+   "pub": "Tue, 28 Jul 2026 03:37:18 GMT"
   },
   {
-   "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ0VRUi02d1lqaENQeEluM0NmU2h5M0szYmEwT3RYN0JCUkJJeDdEalhJbGRfcmhwOTNOeVZ1cF9QTzJOMzlGNV9ESmtrYWl4LUtHbTVFekUzWm94MHNPV2xPUlNsTW5HQ1ZKZjlTMEsxOE5va3c1LWlNaXA2V2J6bjJqc0U2THBtZ2xSQUtFVTVIelJTWDhzUTNnTUE?oc=5",
-   "pub": "Mon, 27 Jul 2026 18:08:27 GMT"
+   "t": "Iran-Krieg aktuell: Rückhalt für Trumps Krieg schwindet in den USA - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejNjYV9qVHlJbzRjcl9ueEVlbXhnMEk2cDl5MjJuZWRfUENjS0RaVHNWWWZSellYLXBHbUN2eDNTR19CRUROU3Rfc29hTk5mTk9MX1JlaDhVM0hPWDc0X01ZWkhmWUgzM1Z1bmxrb3BkSDlJX3I1dnczMWFUYnhJSV9DYkpOaG45VGc0bHYyRTE1VTRfMFYzY1J5OEcyZzZlU01qVXFVY2FWaUdTeklBRk1Pc29iMHB4Yjd0dWhfOURKWjFjRTJNRmtJam9NQVZYQXc?oc=5",
+   "pub": "Tue, 28 Jul 2026 02:05:00 GMT"
   },
   {
    "t": "Iran-Krieg: Was hinter der plötzlichen Kampfpause stecken könnte - Spiegel",
@@ -64,14 +64,14 @@
    "pub": "Mon, 27 Jul 2026 13:58:00 GMT"
   },
   {
-   "t": "Iran-Krieg aktuell: Rückhalt für Trumps Krieg schwindet in den USA - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejNjYV9qVHlJbzRjcl9ueEVlbXhnMEk2cDl5MjJuZWRfUENjS0RaVHNWWWZSellYLXBHbUN2eDNTR19CRUROU3Rfc29hTk5mTk9MX1JlaDhVM0hPWDc0X01ZWkhmWUgzM1Z1bmxrb3BkSDlJX3I1dnczMWFUYnhJSV9DYkpOaG45VGc0bHYyRTE1VTRfMFYzY1J5OEcyZzZlU01qVXFVY2FWaUdTeklBRk1Pc29iMHB4Yjd0dWhfOURKWjFjRTJNRmtJam9NQVZYQXc?oc=5",
-   "pub": "Mon, 27 Jul 2026 22:10:00 GMT"
+   "t": "Iran-Krieg: Besuch bei «Freund» Trump - was sich Netanjahu erhofft - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMkV1SzBLcUFRZWtIaWp2NEFncS15QjFVUTVpbll2ejY0LTVlakxHY2pybkQ1WE12X1dJRHdvcFl3a2xSekxZalZldThnd081WEF3aGdzblFpVDBLUXplT1pYczVlQURGWlZ4bjFSSWl0RjEyODVLRFBkVlM4UWRDa2JtcVJodndNUzZXbnlIWQ?oc=5",
+   "pub": "Mon, 27 Jul 2026 13:51:54 GMT"
   },
   {
-   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
-   "pub": "Mon, 27 Jul 2026 14:29:21 GMT"
+   "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEIxV3R6bERWSG5HUnp6d1h0ZlY1WUFYTWVJdl9pOE1LTnAySmFyOE5TNDQ2TV9va3FlZW1WcUpCcU45SWgwcVliUXRNTGlUbzVLSVFZalRNOFY3X29LM0g1UllDSkxzclZWcmVUZjVnWUdTRjBZUW13akdleWxYdXFYQnlRcUJZZ0t5YVNnMGU4T0RPdy10S3BVcHg?oc=5",
+   "pub": "Tue, 28 Jul 2026 01:45:29 GMT"
   },
   {
    "t": "Fed-Zinsentscheid am Mittwoch: Experte warnt vor ungewöhnlichem Risiko - Berliner Morgenpost",
@@ -84,6 +84,11 @@
    "pub": "Mon, 27 Jul 2026 13:47:31 GMT"
   },
   {
+   "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1Z4SmstQlRUM2VwNzVodnE2S2lWREdDSWlnQjJGTi0yNHYxeFE1THR6UGhpelc0S1FBNS1WMW1FdUNXZE9POG45Z3RaQUlGNENkeDFjbnpMZGVSajdFdzFZNUR0c3d4aVY4V0pNSm0xZ0czRU92bjVUMHl0YTBLVUZtQm5yVS1XTEpleEtvSUJWZWZ2eGEzbFdsVlQ3emZSZ25V?oc=5",
+   "pub": "Tue, 28 Jul 2026 01:44:57 GMT"
+  },
+  {
    "t": "Aktuelle Lage in Nahost: Anzeichen für US-Bodenoffensive im Iran – doch Trump sieht „gute“ Verhandlungschancen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTmI1anpsOGM5X2R0S1N3RXZ1R01pZVVKWjJWVDZnUHVsYVBuSmRXVXJpeURNY2ZVWDl0X1ZabDBqSzRLcHVZYjdTTUVNbllpSDdGaWQ3bTBJMUtqUmd1N29TM2Z1RmwyWVhMWlZHLVFfaU5IVTlDMEdVak04YVUtQVQtLW42LUhJYlhqZFJicVhKWDlOVjZlVGlFS3pkbmxwNXJXZExfT3g5ZlE?oc=5",
    "pub": "Mon, 27 Jul 2026 18:40:00 GMT"
@@ -94,19 +99,14 @@
    "pub": "Mon, 27 Jul 2026 09:37:43 GMT"
   },
   {
-   "t": "Ölpreise: Hoffnung auf Gespräche zwischen USA und Iran lässt Ölpreis sinken - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHk5dGM5aldLeGR1cXBlRnNQRTg0Zk04bHdzWUo2UW4tcm5JWUh1LUFabVZpblNoMHJLVTBRRzYzR1hZZElwVEIzdHlPakNqUnNCV2lub2gzZTJUNlJqWEFlVjVOa09XVlI3bUFJMHFYVHhiQlUxRXk5c3hmUzNDd1hNdnktajc4?oc=5",
-   "pub": "Mon, 27 Jul 2026 13:13:43 GMT"
-  },
-  {
    "t": "Iran-Krieg: Saudi-Arabien meldet Drohnenattacken - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU21KOUdZSjAwZ3MwOURTeDNlcHUteUpDVTJSYjFhYnB4NW84S1RNZEh3MEpjQ3BxeHBCUkVmZF9vLUtCTU9pTVpDcmdHbHV3dDR0UUZDWHY3YjRPdGxWUjUzY1VPcVVjWTFVeklfTGtTQkpCWmNmM3VPVzg0c1pTX3hsWWlpYkVmNE54QklpZVhtYlZVUXA2NzYxZTFLWUVyVG9qazktTzB5UzJDMV85ZVVPTjQxelNk?oc=5",
    "pub": "Mon, 27 Jul 2026 14:17:00 GMT"
   },
   {
-   "t": "Krieg am Persischen Golf - Zweite Nacht ohne US-Angriff - Iran stellt Attacken ebenfalls ein - Tanker beschädigt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1RuczBMS05MUlNtUWstZ3ZTU2o0LUhUUFdwTFJJLTV2QVdlYm1mMC1kd2JqcERHal9mWHRQT1QtZUtaNXczcDJqNmYxRTB6NE45TnFYdGNtSHZ4Y0ZPUGcyQko3Z0stdzZYTF9iQXBhdFJxZ1VtX092SG55YkJSdTFYcTFWNklWaG05MGx6UDJqamw3b3RnbkVZMF9CeVAwdlB2cFFtODBvSWpBb04wclFlbjBtcHo1NW9iam5Idw?oc=5",
-   "pub": "Sun, 26 Jul 2026 20:28:47 GMT"
+   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
+   "pub": "Mon, 27 Jul 2026 14:29:21 GMT"
   }
  ]
 }
