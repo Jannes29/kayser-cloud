@@ -1,55 +1,60 @@
 {
- "collected_at": "2026-07-28T09:48:56Z",
+ "collected_at": "2026-07-28T12:14:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.82,
-   "chg1d_pct": 0.46
+   "price": 0.8199,
+   "chg1d_pct": 0.45
   },
   "USDJPY": {
-   "price": 163.841,
-   "chg1d_pct": 0.14
+   "price": 163.917,
+   "chg1d_pct": 0.19
   },
   "GBPCAD": {
-   "price": 1.875,
-   "chg1d_pct": -0.29
+   "price": 1.8744,
+   "chg1d_pct": -0.32
   },
   "AUDJPY": {
-   "price": 114.203,
-   "chg1d_pct": -0.2
+   "price": 114.208,
+   "chg1d_pct": -0.19
   },
   "EURUSD": {
-   "price": 1.1365,
-   "chg1d_pct": -0.26
+   "price": 1.1369,
+   "chg1d_pct": -0.23
   },
   "GBPCHF": {
-   "price": 1.0895,
-   "chg1d_pct": -0.02
+   "price": 1.0892,
+   "chg1d_pct": -0.05
   },
   "WTI": {
-   "price": 80.8,
-   "chg1d_pct": -2.19
+   "price": 81.48,
+   "chg1d_pct": -1.37
   },
   "BRENT": {
-   "price": 85.86,
-   "chg1d_pct": -2.83
+   "price": 86.87,
+   "chg1d_pct": -1.69
   },
   "GOLD": {
-   "price": 4031.9,
-   "chg1d_pct": -1.05
+   "price": 4026.0,
+   "chg1d_pct": -1.19
   },
   "SPX_FUT": {
-   "price": 7442.75,
-   "chg1d_pct": -0.07
+   "price": 7452.75,
+   "chg1d_pct": 0.06
   },
   "NAS_FUT": {
-   "price": 27974.0,
-   "chg1d_pct": -0.77
+   "price": 27983.5,
+   "chg1d_pct": -0.73
   }
  },
  "headlines": [
   {
-   "t": "In den USA schwindet der Rückhalt für den Irankrieg - Spiegel",
+   "t": "Fed Zinsentscheid morgen: Uhrzeit, Ablaufplan und Prognose - LBBW",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjZIcTdRYUZRTm54U3NqaVhTYVdGcloza1haN1gxQWVoc3YwcEltRThnSEVIUVg4WmluSkc1blloSU82Q0NUQ0d3RlNTanA4VzV5NG8xcFBPWFNhMGJwbkxLM3hfZl9jNTM3NHZIVF9uX3kzZ2lmOHFkMzV2dmUwTWlhSTkzMnBYZVBkZ0hDZ2pXN0lVdkkzTjB1X1JwSnpFWUJia2lhMWM5UmNpYkdzLQ?oc=5",
+   "pub": "Tue, 28 Jul 2026 08:30:07 GMT"
+  },
+  {
+   "t": "Iran-Krieg: In den USA schwindet der Rückhalt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpKek1CMGotd3RkUU4zeGRMeTV4bDZLU09Ec3l6NjN0UHJDUE1KU3hPSUtVYXp2bDVKOXFuMmI5T2RkMC00V2d4V1hXSGYwU1FhRmRpYzRrYzR2Z191RUUtUVViTVN2STlmVmsxN2ctODBEUjM5N1g5TXBhdGdPMDhXbjc2NnJ2bldFYjZSbFRYZS1DbE4zNXZiYkRub1RILU0tWlY0a3ZNU2FkSGJlZDlpbk9kZ0d0TnVaaU5WZzk?oc=5",
    "pub": "Tue, 28 Jul 2026 00:34:00 GMT"
   },
@@ -59,29 +64,34 @@
    "pub": "Tue, 28 Jul 2026 06:29:45 GMT"
   },
   {
+   "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1Z4SmstQlRUM2VwNzVodnE2S2lWREdDSWlnQjJGTi0yNHYxeFE1THR6UGhpelc0S1FBNS1WMW1FdUNXZE9POG45Z3RaQUlGNENkeDFjbnpMZGVSajdFdzFZNUR0c3d4aVY4V0pNSm0xZ0czRU92bjVUMHl0YTBLVUZtQm5yVS1XTEpleEtvSUJWZWZ2eGEzbFdsVlQ3emZSZ25V?oc=5",
+   "pub": "Tue, 28 Jul 2026 07:43:08 GMT"
+  },
+  {
+   "t": "Im Iran-Krieg stößt Trump an ungeahnte Grenzen seiner Macht - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ050Rmlmc2NYdGhFMmZnVEJwdGwwTTdOUElmUlVfZlhLZTdRS0JIZHUxdnJyUHFnYVJGY1BqcFpIUHJTNUo0d3JfSHJYd0xta0VlSWFFQlptT0wwOHZHM09xR0VkV0t1eGhPQm44WkQ0ZGt4UU8yVWEweWlzbTdBTDRhdkJSTkYtSERRc1llb1pnM3plSXFfTVFEdmUxRm5qMHZUQ0JsQUtNaE5NWGF3ajVMUlVoY2NtWUwza0pFZFpKZ01GN04wdDU3Y3pPN295c1JaZ0x0ZWg?oc=5",
+   "pub": "Tue, 28 Jul 2026 09:25:00 GMT"
+  },
+  {
+   "t": "Fed-Schock am Mittwoch? Citadel sieht Leitzinserhöhung kommen - aus diesen Gründen - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdDhOREs2VGhFdW9Qa0FDOFZDYkF6cUhlaGIxNWNOS0MxVjNDTkVzRmgtRXZEd3kwVXdtYnJkWDEyN1dpN0ZPSGdFbmxwUzJSMnpDNjkzVC1SekFmYUVvX0RNUHRiYVNhVWc3eFg2REJVaUJ2akRQSGxfcDc4RFRHYXdUX3ZaNGVPTEtVcy15ZFQzMW1RRXM0czF0WlZ1bDVLcFhlbklXMkxOYnRGSFVFR2VSM1lBeGttVXhoZDlQNTg0cG53Rm56TUpLaG5RV1A3ODNUcVJ5c3ZiSnBmT2ZtSQ?oc=5",
+   "pub": "Tue, 28 Jul 2026 09:26:00 GMT"
+  },
+  {
+   "t": "Ukraine-Krieg weitet sich auf den Iran aus: Trump trifft heute Selenskyj und Netanjahu - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVotdTh5UGh1aWYxVkUzQ1NVV2FqZGpsMXZQeEtKcllnUmRYaERiNFhaeHY4MUhERW5CWU01ZGxiaTVlZGd1R3JjMnN2WHZNWk5EV0FHWkFPOGRZa1RwR1JzXzVIVTVOVThhR3hjcENtYWRrNFlKbFR1Rmc5WWNPSU9HamY2Q21jRGtIMkoyVXNuaWZxbU5jTlZmSGlhbTNyZ2cyTzR2R21aSUUzNWNOWGVZaVo1UGRzNXRWMGRySko3R19XOHJOUDZXbGRweXM?oc=5",
+   "pub": "Tue, 28 Jul 2026 09:46:37 GMT"
+  },
+  {
+   "t": "Nach Massenprotesten: Iran richtet zwei junge Männer öffentlich hin - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RTXFkajJZSFRXR0xnMm9XczVCenJ4VW1JU2NIQ3dIM2JCaGYybWpLWWFla1YyNWFhTEw4cUo2QXJJeHZqRXhYRzNWZ3lDUVNQTHhmN25ucWIyUE1YQWZsTGpNVGJQODhoYy1ubWIzR01CVnpT?oc=5",
+   "pub": "Tue, 28 Jul 2026 10:26:36 GMT"
+  },
+  {
    "t": "Krieg in Nahost aktuell: Neue Umfrage-Klatsche kommt für Trump zur Unzeit - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQejdZYklHZjh4WjJzRHpMSkIxc0dwclEwSVg1Vko1QUN6WUJ1cTdHaVgxQ19LUFgyaTRMaHN5b2duTVFxZkVlLTRUNmRncFpMUHhpTC1rNWlhdXV0enRzWE5tNFM0SWFSbzVDNTJsQ0t4ZVE3ZEdnbzBlQmRBVG0ySDgyTFNJQndkVmVWbzlaLVdpZ0xjQjJsSC1aU19xWS03dmpYTUtrd2Q0MV8yYlNqSm1NdzByWk1vcDN1bTEtbHhVOTU2b0hUaVcxam14N0dXM0ZDeG9NMEU?oc=5",
    "pub": "Tue, 28 Jul 2026 07:39:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg aktuell: USA pausieren Militärschläge – Trump zitiert Regime: „Bitte hört auf“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObTZSTTlVN2VHWjFZSTE1QVItTnoxb0hncGZSeWo0RUNaTDhyNEpBTGVvYi0yRkxnSjg4VExTejJlNjhfdzZ3VGxaYm1IcXExenl6b2tmd2FOSy1oWVB4WmxDcW14czVGQkU5ZEZ6RnZDZHZvMFozNHhBdkk1SmhhdGY3b1MtdmZrRlFNSmlhSVBnOXpJQ29uejV2WXU5Z0piUy1DUzVPSjVUR3c?oc=5",
-   "pub": "Tue, 28 Jul 2026 04:30:00 GMT"
-  },
-  {
-   "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1Z4SmstQlRUM2VwNzVodnE2S2lWREdDSWlnQjJGTi0yNHYxeFE1THR6UGhpelc0S1FBNS1WMW1FdUNXZE9POG45Z3RaQUlGNENkeDFjbnpMZGVSajdFdzFZNUR0c3d4aVY4V0pNSm0xZ0czRU92bjVUMHl0YTBLVUZtQm5yVS1XTEpleEtvSUJWZWZ2eGEzbFdsVlQ3emZSZ25V?oc=5",
-   "pub": "Tue, 28 Jul 2026 01:44:57 GMT"
-  },
-  {
-   "t": "Trump sieht \"gute Chance\" auf Einigung mit dem Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2V0TmF5dk1qc2ZpNk1CbVVlaWdhTWpqdHVuZXhuU0lNRlgzdkhoOEg2VmgxWktZaU9DcWhLM2dqY2Y5Mm1FYUhXR1ZfbXRwRGowYmp6YTY3YkRTWWZ4NlExQmZnaE9pY0laTXJ6SFlpTldCeU01RFZVNDZRbjVVT3lDTHpjR3pyVjJfVWRHbjRFWGJFOXFN?oc=5",
-   "pub": "Mon, 27 Jul 2026 20:54:43 GMT"
-  },
-  {
-   "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEIxV3R6bERWSG5HUnp6d1h0ZlY1WUFYTWVJdl9pOE1LTnAySmFyOE5TNDQ2TV9va3FlZW1WcUpCcU45SWgwcVliUXRNTGlUbzVLSVFZalRNOFY3X29LM0g1UllDSkxzclZWcmVUZjVnWUdTRjBZUW13akdleWxYdXFYQnlRcUJZZ0t5YVNnMGU4T0RPdy10S3BVcHg?oc=5",
-   "pub": "Tue, 28 Jul 2026 04:26:19 GMT"
   },
   {
    "t": "FED: Keine Zinsänderungen in den nächsten 12 Monaten - e-fundresearch.com",
@@ -89,24 +99,14 @@
    "pub": "Tue, 28 Jul 2026 08:12:00 GMT"
   },
   {
-   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
-   "pub": "Mon, 27 Jul 2026 14:29:21 GMT"
+   "t": "Iran-Krieg aktuell: USA pausieren Militärschläge – Trump zitiert Regime: „Bitte hört auf“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObTZSTTlVN2VHWjFZSTE1QVItTnoxb0hncGZSeWo0RUNaTDhyNEpBTGVvYi0yRkxnSjg4VExTejJlNjhfdzZ3VGxaYm1IcXExenl6b2tmd2FOSy1oWVB4WmxDcW14czVGQkU5ZEZ6RnZDZHZvMFozNHhBdkk1SmhhdGY3b1MtdmZrRlFNSmlhSVBnOXpJQ29uejV2WXU5Z0piUy1DUzVPSjVUR3c?oc=5",
+   "pub": "Tue, 28 Jul 2026 04:30:00 GMT"
   },
   {
-   "t": "Iran: Zwei weitere Hinrichtungen nach Massenprotesten im Januar - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHNzY0F5RkZUb0ZZZ2ZHV1RpYXJ5Y0VvdGFaSFRZbUdEWjNQY2pvSE4zdGU0N1BDZk80MDNCQlNvNndETE5lM3MzQ09GUmo1c0dMUzV2cHZQY1dNbnJoaGRPM0ZGVkZnaG5tLTB3dFlpR1ZkbE1zRFVZWEVsZnp4QXBtM09WemxWaWRKdVg5SUdfRkZ0T2pHbzZNb2tsbWFGcWFpQnZOcWV2TXN1WVVHblVyUEVRUDhGZDM5OHhxU0dRNVRBWHRVV1dhUHg?oc=5",
-   "pub": "Tue, 28 Jul 2026 07:50:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg aktuell: Rückhalt für Trumps Krieg schwindet in den USA - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejNjYV9qVHlJbzRjcl9ueEVlbXhnMEk2cDl5MjJuZWRfUENjS0RaVHNWWWZSellYLXBHbUN2eDNTR19CRUROU3Rfc29hTk5mTk9MX1JlaDhVM0hPWDc0X01ZWkhmWUgzM1Z1bmxrb3BkSDlJX3I1dnczMWFUYnhJSV9DYkpOaG45VGc0bHYyRTE1VTRfMFYzY1J5OEcyZzZlU01qVXFVY2FWaUdTeklBRk1Pc29iMHB4Yjd0dWhfOURKWjFjRTJNRmtJam9NQVZYQXc?oc=5",
-   "pub": "Tue, 28 Jul 2026 02:05:00 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlJfSkFpb25VVVAwYzllM1drWDFfZVNCTzUzbXJPZW1wRWZka29ySE50UG9CT2tlZWVqa0RrWGE0NzBYV08yMW9uSnp5NmkxTW5QYkdXQmpvNEw5d1JZQy1JdC15cnpqN2sxbTVkRExCYWRHSFVMd0JFU29KUHc2eWNVeUZ0QXJxTTlIWk5vVktRTHg3YkJlQWFQSGJyakFBSk9KblZ0eHZmRS12Yy1QNGpuQ2piNHVkYVJFRnZlUjBKNHk2eWZVOWdWNlhoYWM?oc=5",
-   "pub": "Tue, 28 Jul 2026 04:13:00 GMT"
+   "t": "Trump sieht \"gute Chance\" auf Einigung mit dem Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2V0TmF5dk1qc2ZpNk1CbVVlaWdhTWpqdHVuZXhuU0lNRlgzdkhoOEg2VmgxWktZaU9DcWhLM2dqY2Y5Mm1FYUhXR1ZfbXRwRGowYmp6YTY3YkRTWWZ4NlExQmZnaE9pY0laTXJ6SFlpTldCeU01RFZVNDZRbjVVT3lDTHpjR3pyVjJfVWRHbjRFWGJFOXFN?oc=5",
+   "pub": "Mon, 27 Jul 2026 20:54:43 GMT"
   }
  ]
 }
