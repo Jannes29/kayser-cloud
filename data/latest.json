@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-28T18:47:08Z",
+ "collected_at": "2026-07-28T20:35:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8189,
-   "chg1d_pct": 0.32
+   "price": 0.8192,
+   "chg1d_pct": -0.01
   },
   "USDJPY": {
-   "price": 163.829,
-   "chg1d_pct": 0.13
+   "price": 163.861,
+   "chg1d_pct": 0.05
   },
   "GBPCAD": {
-   "price": 1.874,
-   "chg1d_pct": -0.34
+   "price": 1.8745,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 114.274,
-   "chg1d_pct": -0.14
+   "price": 114.285,
+   "chg1d_pct": -0.12
   },
   "EURUSD": {
-   "price": 1.1391,
-   "chg1d_pct": -0.03
+   "price": 1.139,
+   "chg1d_pct": 0.18
   },
   "GBPCHF": {
-   "price": 1.0883,
-   "chg1d_pct": -0.13
+   "price": 1.0885,
+   "chg1d_pct": -0.03
   },
   "WTI": {
-   "price": 79.3,
-   "chg1d_pct": -4.01
+   "price": 79.18,
+   "chg1d_pct": -4.15
   },
   "BRENT": {
-   "price": 84.03,
-   "chg1d_pct": -4.9
+   "price": 83.93,
+   "chg1d_pct": -5.01
   },
   "GOLD": {
-   "price": 4023.6,
-   "chg1d_pct": -1.25
+   "price": 4025.9,
+   "chg1d_pct": -1.19
   },
   "SPX_FUT": {
-   "price": 7466.75,
-   "chg1d_pct": 0.25
+   "price": 7468.0,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 27945.25,
-   "chg1d_pct": -0.87
+   "price": 27958.75,
+   "chg1d_pct": -0.82
   }
  },
  "headlines": [
@@ -59,14 +59,19 @@
    "pub": "Tue, 28 Jul 2026 12:13:20 GMT"
   },
   {
+   "t": "Iran: Hinrichtungswelle gegen Protestierende muss sofort gestoppt werden - amnesty.ch",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXR1cEpxYmlsMTVDdnh4cTNkTVpFTEtDdm9vbVU2OTktRkgyWXBYWkZUWXItcnMzVjNvWDJjdWdjZmJqaUE1N1lzYkZRaXVDRkhfMDR6VUZSRjJvWnl0MGd6YXFFbEdYcG9wMHNoMEJvT2R3ZTY0NElxRDRILVJIX2Z1VVh3bUM3blphOENsTGUxUnBXMTZwZ1gzRlg1TVBibFdBamx3NDE?oc=5",
+   "pub": "Tue, 28 Jul 2026 15:58:05 GMT"
+  },
+  {
    "t": "Im Iran-Krieg stößt Trump an ungeahnte Grenzen seiner Macht - FOCUS online",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ050Rmlmc2NYdGhFMmZnVEJwdGwwTTdOUElmUlVfZlhLZTdRS0JIZHUxdnJyUHFnYVJGY1BqcFpIUHJTNUo0d3JfSHJYd0xta0VlSWFFQlptT0wwOHZHM09xR0VkV0t1eGhPQm44WkQ0ZGt4UU8yVWEweWlzbTdBTDRhdkJSTkYtSERRc1llb1pnM3plSXFfTVFEdmUxRm5qMHZUQ0JsQUtNaE5NWGF3ajVMUlVoY2NtWUwza0pFZFpKZ01GN04wdDU3Y3pPN295c1JaZ0x0ZWg?oc=5",
    "pub": "Tue, 28 Jul 2026 17:39:00 GMT"
   },
   {
-   "t": "Iran: Hinrichtungswelle gegen Protestierende muss sofort gestoppt werden - amnesty.ch",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXR1cEpxYmlsMTVDdnh4cTNkTVpFTEtDdm9vbVU2OTktRkgyWXBYWkZUWXItcnMzVjNvWDJjdWdjZmJqaUE1N1lzYkZRaXVDRkhfMDR6VUZSRjJvWnl0MGd6YXFFbEdYcG9wMHNoMEJvT2R3ZTY0NElxRDRILVJIX2Z1VVh3bUM3blphOENsTGUxUnBXMTZwZ1gzRlg1TVBibFdBamx3NDE?oc=5",
-   "pub": "Tue, 28 Jul 2026 14:37:34 GMT"
+   "t": "Fed-Chef: Kevin Warshs zweiter Zinsentscheid – Zinspause erwartet - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTFBV0tBRzZISnhtNWk3Nk9Jck9CUHRkb2JjNFR3QVlyd0tNTFlnWjJXSndUd2NMU05tVUlfWW9oQkxXanJ3djFRMmJHMEJmaVo4eURfLVN3MWhCdjFGT3drM2VZdDJ4NDJyLWRka1ZXMncxcFV6cFRvbVg1RzNCRkpPbHgwbzBfU3V1dVdLUHdhc2xYLXhLNGNMVTVmV0U1SFRuLUZNYTRKM292MzZ0anJZc1IySVE?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:33:59 GMT"
   },
   {
    "t": "Iran-Konflikt: Netanjahus riskanter Besuch bei Trump – und der hohe Preis, den er womöglich dafür zahlen muss - WELT",
@@ -74,14 +79,19 @@
    "pub": "Tue, 28 Jul 2026 11:38:44 GMT"
   },
   {
-   "t": "In den USA schwindet der Rückhalt für den Irankrieg - Spiegel",
+   "t": "Todesstrafe im Iran: Amnesty warnt Iran vor mehr Vollzügen der Todesstrafe - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1FNeUFYU3RlNmNneUowdzdLdmIxWGNoQWx2OTRlZTBoR2VvbkVnaDNaUjFkdXNJdGdqd0JLMUZyVHI4bGs4R1lZdUlXQVNOWHVlNlNMYjBnd3o5NGZiTzRNbWFxbGgwdG52T2lfVDNVdTAtbkhuYll2X2VEQjlPRF82a1g1R3ZrcWl6WEZiYzNYSS15R2dCd1JlSTh4LUtCeEJhdTdrRnE?oc=5",
+   "pub": "Tue, 28 Jul 2026 19:37:25 GMT"
+  },
+  {
+   "t": "Iran-Krieg: In den USA schwindet der Rückhalt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpKek1CMGotd3RkUU4zeGRMeTV4bDZLU09Ec3l6NjN0UHJDUE1KU3hPSUtVYXp2bDVKOXFuMmI5T2RkMC00V2d4V1hXSGYwU1FhRmRpYzRrYzR2Z191RUUtUVViTVN2STlmVmsxN2ctODBEUjM5N1g5TXBhdGdPMDhXbjc2NnJ2bldFYjZSbFRYZS1DbE4zNXZiYkRub1RILU0tWlY0a3ZNU2FkSGJlZDlpbk9kZ0d0TnVaaU5WZzk?oc=5",
    "pub": "Tue, 28 Jul 2026 00:34:00 GMT"
   },
   {
    "t": "Kommt der Paukenschlag der Fed? Experten erwarten überraschende Leitzinserhöhung - Finanzen.net",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdDhOREs2VGhFdW9Qa0FDOFZDYkF6cUhlaGIxNWNOS0MxVjNDTkVzRmgtRXZEd3kwVXdtYnJkWDEyN1dpN0ZPSGdFbmxwUzJSMnpDNjkzVC1SekFmYUVvX0RNUHRiYVNhVWc3eFg2REJVaUJ2akRQSGxfcDc4RFRHYXdUX3ZaNGVPTEtVcy15ZFQzMW1RRXM0czF0WlZ1bDVLcFhlbklXMkxOYnRGSFVFR2VSM1lBeGttVXhoZDlQNTg0cG53Rm56TUpLaG5RV1A3ODNUcVJ5c3ZiSnBmT2ZtSdIBzwFBVV95cUxOTnRrVnpjZEJQbFF2YVdSSkxVZWhDNU1sMzdvNTZ6UzA5ZDlyRXo0R3JmWVQyRXlxckRmdWQ0MndNc2cyOWZ3aG1xRnNfZzJKZndBTGJ2b2c1ZTRRQ0YxRURnT0k2azd1TFdjUnl4bFVZSmFSUC1fLXB0RVp2M1d3UnltX2VaZ0RIRnJPSGJ2WENfUkI4S0NpRWwwQjA2eENxWnd6cDY1SXhVb21RS1l1WlotWkp5cXozWG1XeEhqVW5ZcWl2ZEFWZzRBUmUwNWc?oc=5",
-   "pub": "Tue, 28 Jul 2026 15:13:00 GMT"
+   "pub": "Tue, 28 Jul 2026 17:59:00 GMT"
   },
   {
    "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
@@ -89,24 +99,14 @@
    "pub": "Tue, 28 Jul 2026 07:43:08 GMT"
   },
   {
-   "t": "Iran- und Ukraine-Krieg: Trump empfängt Selenskyj und Netanjahu im Weißen Haus - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0pyUHZqclZPcTdHRFlGaVR6cWw3V0xoN3AxU0U2OXI3SFdHYlo1M0xVY3F2VmlVd2g3NkFCaGpKc3VvazVwU3hINkdQQjVZdjgwWW55UkZnd0FlSVQtWlltV19hNmt4cjRELUZjbHlMYW0wVzM2SWI2Q0RHc3JhZWNuS1h4bkY5eVRXNXljTERnb2xUTFJ4U1UzNmJHRkRvMnZ1bUtlU1d6bm9LMTZyemNTV08xRTVVeU03RkhOeUE1Z1E?oc=5",
-   "pub": "Tue, 28 Jul 2026 17:14:00 GMT"
+   "t": "Pakistans Drahtseilakt zwischen Saudi-Arabien und dem Iran - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDlwaE9RTHB2dTR2VjBrWmswRkVvcklIRlVyQ3NZWWE3ZVVUWTQ2NEd1cFk2RUJrd3dmYzFRaU1oQm1GWGNKQlFSQVhpZE8xc3BqZEEtNEtqUmNra3JFT182ejJ1Ylp3M2NhT3RJYmo1RzBBU0pjOWZSYmtfbGM5LUVLbkdLMHdDcDBTaC1iQXRDMDFVU2fSAZYBQVVfeXFMTkJOUnpTa3lwckxibDI0YXFQTzJuWUFnT3B5US15Z0wtOGVLZzhDQXNaUWw3NHJfcTE5RVhYbEpxNnR4TmtwU254dTZjaUdUQ0RfM05PUWs2VXZDVDVCaFhPNGEySkRUYjFHb2pmbjVkelhraEdSSV8zdmpRWlJtS3VxYmc1LWVmcmlSSGhIMWU5QWc4eW53?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:15:50 GMT"
   },
   {
-   "t": "Ukraine-Krieg weitet sich auf den Iran aus: Trump trifft heute Selenskyj und Netanjahu - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVotdTh5UGh1aWYxVkUzQ1NVV2FqZGpsMXZQeEtKcllnUmRYaERiNFhaeHY4MUhERW5CWU01ZGxiaTVlZGd1R3JjMnN2WHZNWk5EV0FHWkFPOGRZa1RwR1JzXzVIVTVOVThhR3hjcENtYWRrNFlKbFR1Rmc5WWNPSU9HamY2Q21jRGtIMkoyVXNuaWZxbU5jTlZmSGlhbTNyZ2cyTzR2R21aSUUzNWNOWGVZaVo1UGRzNXRWMGRySko3R19XOHJOUDZXbGRweXM?oc=5",
-   "pub": "Tue, 28 Jul 2026 09:46:37 GMT"
-  },
-  {
-   "t": "\"Das ist erst der Anfang\": Jetzt droht Iran Melania und Barron Trump - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVThsRkJsNDM2eDdjdzlPcmlqNnc1RWhOVkRkSUNQT2VyaFJPcWlwVUpTRkZrT0VYYVhOaHZzcmVNNDY2dFN6TEtoY2hJS0o4ZDJ2VUxfWU5COUFQcWFyemhaZzk3MzJERzZiYXloRWc0MGZITlpMTEtQbXpHdGVGbFZqalpNYmF4U3ZxcTFrWVdCeUxoeEU0MHI2Z1UtcnBJTHRVYWdZTldoT1dnSkxjY1RITmhWNTl4UzgwYm5DYTE5S0N4LUpuM3JReDFFVm5yZEo0YUVsMDAxQldPQXY0Mlo5S1lWam0xdEZXamtqVQ?oc=5",
-   "pub": "Tue, 28 Jul 2026 14:33:51 GMT"
-  },
-  {
-   "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEIxV3R6bERWSG5HUnp6d1h0ZlY1WUFYTWVJdl9pOE1LTnAySmFyOE5TNDQ2TV9va3FlZW1WcUpCcU45SWgwcVliUXRNTGlUbzVLSVFZalRNOFY3X29LM0g1UllDSkxzclZWcmVUZjVnWUdTRjBZUW13akdleWxYdXFYQnlRcUJZZ0t5YVNnMGU4T0RPdy10S3BVcHg?oc=5",
-   "pub": "Tue, 28 Jul 2026 12:50:53 GMT"
+   "t": "(S+) Iran-Krieg: Satellitenbilder zeigen Ausmaß der Ölverschmutzung in der Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUnhiVi0tOXZYZHlSR0ZGV1YzQzlfazYyUzBiQWltdF9mNnI2WTJQamFrTU5CUktEWTNacEwybGZIQ2tDdnZvbzRTb2ZGdHo1WDVCaFZKVGZ3bS1seHJLS1dpbTlnOVJNT0pjSk5ZSzZBOTNLejZZRmZzaEVVQldaTTJyd3JZUkhIVElVVXNTUGhGUVhXaDVkc2Y4YVVyOFlYSnNiMjBBYzNoaS00UVdQMmI5b2Zab0Y4bERlSWIydV9qWkxLTldsUHktRzVnbzRvaHI1VUhfa2tNQTNMekV5ZzczUWhkaFlPdGN2LTlNTmwySWUtakFJ?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:32:00 GMT"
   }
  ]
 }
