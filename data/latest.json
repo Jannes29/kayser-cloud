@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-28T16:51:26Z",
+ "collected_at": "2026-07-28T18:47:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8177,
-   "chg1d_pct": 0.18
+   "price": 0.8189,
+   "chg1d_pct": 0.32
   },
   "USDJPY": {
-   "price": 163.731,
-   "chg1d_pct": 0.07
+   "price": 163.829,
+   "chg1d_pct": 0.13
   },
   "GBPCAD": {
-   "price": 1.8739,
+   "price": 1.874,
    "chg1d_pct": -0.34
   },
   "AUDJPY": {
-   "price": 114.332,
-   "chg1d_pct": -0.09
+   "price": 114.274,
+   "chg1d_pct": -0.14
   },
   "EURUSD": {
-   "price": 1.1401,
-   "chg1d_pct": 0.05
+   "price": 1.1391,
+   "chg1d_pct": -0.03
   },
   "GBPCHF": {
-   "price": 1.0876,
-   "chg1d_pct": -0.19
+   "price": 1.0883,
+   "chg1d_pct": -0.13
   },
   "WTI": {
-   "price": 77.88,
-   "chg1d_pct": -5.73
+   "price": 79.3,
+   "chg1d_pct": -4.01
   },
   "BRENT": {
-   "price": 82.61,
-   "chg1d_pct": -6.51
+   "price": 84.03,
+   "chg1d_pct": -4.9
   },
   "GOLD": {
-   "price": 4041.4,
-   "chg1d_pct": -0.81
+   "price": 4023.6,
+   "chg1d_pct": -1.25
   },
   "SPX_FUT": {
-   "price": 7475.25,
-   "chg1d_pct": 0.36
+   "price": 7466.75,
+   "chg1d_pct": 0.25
   },
   "NAS_FUT": {
-   "price": 28021.75,
-   "chg1d_pct": -0.6
+   "price": 27945.25,
+   "chg1d_pct": -0.87
   }
  },
  "headlines": [
@@ -59,6 +59,11 @@
    "pub": "Tue, 28 Jul 2026 12:13:20 GMT"
   },
   {
+   "t": "Im Iran-Krieg stößt Trump an ungeahnte Grenzen seiner Macht - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ050Rmlmc2NYdGhFMmZnVEJwdGwwTTdOUElmUlVfZlhLZTdRS0JIZHUxdnJyUHFnYVJGY1BqcFpIUHJTNUo0d3JfSHJYd0xta0VlSWFFQlptT0wwOHZHM09xR0VkV0t1eGhPQm44WkQ0ZGt4UU8yVWEweWlzbTdBTDRhdkJSTkYtSERRc1llb1pnM3plSXFfTVFEdmUxRm5qMHZUQ0JsQUtNaE5NWGF3ajVMUlVoY2NtWUwza0pFZFpKZ01GN04wdDU3Y3pPN295c1JaZ0x0ZWg?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:39:00 GMT"
+  },
+  {
    "t": "Iran: Hinrichtungswelle gegen Protestierende muss sofort gestoppt werden - amnesty.ch",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXR1cEpxYmlsMTVDdnh4cTNkTVpFTEtDdm9vbVU2OTktRkgyWXBYWkZUWXItcnMzVjNvWDJjdWdjZmJqaUE1N1lzYkZRaXVDRkhfMDR6VUZSRjJvWnl0MGd6YXFFbEdYcG9wMHNoMEJvT2R3ZTY0NElxRDRILVJIX2Z1VVh3bUM3blphOENsTGUxUnBXMTZwZ1gzRlg1TVBibFdBamx3NDE?oc=5",
    "pub": "Tue, 28 Jul 2026 14:37:34 GMT"
@@ -69,19 +74,29 @@
    "pub": "Tue, 28 Jul 2026 11:38:44 GMT"
   },
   {
-   "t": "Iran-Krieg: In den USA schwindet der Rückhalt - Spiegel",
+   "t": "In den USA schwindet der Rückhalt für den Irankrieg - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpKek1CMGotd3RkUU4zeGRMeTV4bDZLU09Ec3l6NjN0UHJDUE1KU3hPSUtVYXp2bDVKOXFuMmI5T2RkMC00V2d4V1hXSGYwU1FhRmRpYzRrYzR2Z191RUUtUVViTVN2STlmVmsxN2ctODBEUjM5N1g5TXBhdGdPMDhXbjc2NnJ2bldFYjZSbFRYZS1DbE4zNXZiYkRub1RILU0tWlY0a3ZNU2FkSGJlZDlpbk9kZ0d0TnVaaU5WZzk?oc=5",
    "pub": "Tue, 28 Jul 2026 00:34:00 GMT"
-  },
-  {
-   "t": "Im Iran-Krieg stößt Trump an ungeahnte Grenzen seiner Macht - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ050Rmlmc2NYdGhFMmZnVEJwdGwwTTdOUElmUlVfZlhLZTdRS0JIZHUxdnJyUHFnYVJGY1BqcFpIUHJTNUo0d3JfSHJYd0xta0VlSWFFQlptT0wwOHZHM09xR0VkV0t1eGhPQm44WkQ0ZGt4UU8yVWEweWlzbTdBTDRhdkJSTkYtSERRc1llb1pnM3plSXFfTVFEdmUxRm5qMHZUQ0JsQUtNaE5NWGF3ajVMUlVoY2NtWUwza0pFZFpKZ01GN04wdDU3Y3pPN295c1JaZ0x0ZWg?oc=5",
-   "pub": "Tue, 28 Jul 2026 09:25:00 GMT"
   },
   {
    "t": "Kommt der Paukenschlag der Fed? Experten erwarten überraschende Leitzinserhöhung - Finanzen.net",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdDhOREs2VGhFdW9Qa0FDOFZDYkF6cUhlaGIxNWNOS0MxVjNDTkVzRmgtRXZEd3kwVXdtYnJkWDEyN1dpN0ZPSGdFbmxwUzJSMnpDNjkzVC1SekFmYUVvX0RNUHRiYVNhVWc3eFg2REJVaUJ2akRQSGxfcDc4RFRHYXdUX3ZaNGVPTEtVcy15ZFQzMW1RRXM0czF0WlZ1bDVLcFhlbklXMkxOYnRGSFVFR2VSM1lBeGttVXhoZDlQNTg0cG53Rm56TUpLaG5RV1A3ODNUcVJ5c3ZiSnBmT2ZtSdIBzwFBVV95cUxOTnRrVnpjZEJQbFF2YVdSSkxVZWhDNU1sMzdvNTZ6UzA5ZDlyRXo0R3JmWVQyRXlxckRmdWQ0MndNc2cyOWZ3aG1xRnNfZzJKZndBTGJ2b2c1ZTRRQ0YxRURnT0k2azd1TFdjUnl4bFVZSmFSUC1fLXB0RVp2M1d3UnltX2VaZ0RIRnJPSGJ2WENfUkI4S0NpRWwwQjA2eENxWnd6cDY1SXhVb21RS1l1WlotWkp5cXozWG1XeEhqVW5ZcWl2ZEFWZzRBUmUwNWc?oc=5",
    "pub": "Tue, 28 Jul 2026 15:13:00 GMT"
+  },
+  {
+   "t": "Iran - Filmstar Pejman Dschamschidi zu 99 Peitschenhieben verurteilt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1Z4SmstQlRUM2VwNzVodnE2S2lWREdDSWlnQjJGTi0yNHYxeFE1THR6UGhpelc0S1FBNS1WMW1FdUNXZE9POG45Z3RaQUlGNENkeDFjbnpMZGVSajdFdzFZNUR0c3d4aVY4V0pNSm0xZ0czRU92bjVUMHl0YTBLVUZtQm5yVS1XTEpleEtvSUJWZWZ2eGEzbFdsVlQ3emZSZ25V?oc=5",
+   "pub": "Tue, 28 Jul 2026 07:43:08 GMT"
+  },
+  {
+   "t": "Iran- und Ukraine-Krieg: Trump empfängt Selenskyj und Netanjahu im Weißen Haus - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0pyUHZqclZPcTdHRFlGaVR6cWw3V0xoN3AxU0U2OXI3SFdHYlo1M0xVY3F2VmlVd2g3NkFCaGpKc3VvazVwU3hINkdQQjVZdjgwWW55UkZnd0FlSVQtWlltV19hNmt4cjRELUZjbHlMYW0wVzM2SWI2Q0RHc3JhZWNuS1h4bkY5eVRXNXljTERnb2xUTFJ4U1UzNmJHRkRvMnZ1bUtlU1d6bm9LMTZyemNTV08xRTVVeU03RkhOeUE1Z1E?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:14:00 GMT"
+  },
+  {
+   "t": "Ukraine-Krieg weitet sich auf den Iran aus: Trump trifft heute Selenskyj und Netanjahu - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVotdTh5UGh1aWYxVkUzQ1NVV2FqZGpsMXZQeEtKcllnUmRYaERiNFhaeHY4MUhERW5CWU01ZGxiaTVlZGd1R3JjMnN2WHZNWk5EV0FHWkFPOGRZa1RwR1JzXzVIVTVOVThhR3hjcENtYWRrNFlKbFR1Rmc5WWNPSU9HamY2Q21jRGtIMkoyVXNuaWZxbU5jTlZmSGlhbTNyZ2cyTzR2R21aSUUzNWNOWGVZaVo1UGRzNXRWMGRySko3R19XOHJOUDZXbGRweXM?oc=5",
+   "pub": "Tue, 28 Jul 2026 09:46:37 GMT"
   },
   {
    "t": "\"Das ist erst der Anfang\": Jetzt droht Iran Melania und Barron Trump - T-Online",
@@ -92,21 +107,6 @@
    "t": "MeToo-Fall im Iran: 99 Peitschenhiebe für Filmstar - Deutschlandfunk Kultur",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEIxV3R6bERWSG5HUnp6d1h0ZlY1WUFYTWVJdl9pOE1LTnAySmFyOE5TNDQ2TV9va3FlZW1WcUpCcU45SWgwcVliUXRNTGlUbzVLSVFZalRNOFY3X29LM0g1UllDSkxzclZWcmVUZjVnWUdTRjBZUW13akdleWxYdXFYQnlRcUJZZ0t5YVNnMGU4T0RPdy10S3BVcHg?oc=5",
    "pub": "Tue, 28 Jul 2026 12:50:53 GMT"
-  },
-  {
-   "t": "Ukraine-Krieg weitet sich auf den Iran aus: Trump trifft heute Selenskyj und Netanjahu - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVotdTh5UGh1aWYxVkUzQ1NVV2FqZGpsMXZQeEtKcllnUmRYaERiNFhaeHY4MUhERW5CWU01ZGxiaTVlZGd1R3JjMnN2WHZNWk5EV0FHWkFPOGRZa1RwR1JzXzVIVTVOVThhR3hjcENtYWRrNFlKbFR1Rmc5WWNPSU9HamY2Q21jRGtIMkoyVXNuaWZxbU5jTlZmSGlhbTNyZ2cyTzR2R21aSUUzNWNOWGVZaVo1UGRzNXRWMGRySko3R19XOHJOUDZXbGRweXM?oc=5",
-   "pub": "Tue, 28 Jul 2026 09:46:37 GMT"
-  },
-  {
-   "t": "Ukraine gegen Iran: Eine Botschaft an Donald Trump - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGM3NkJQYWJSN2szcTlFM3VPa1k3LUs0UWRiSVRkOVdjcU1ReXk3dmxhbjllTDhpS2syT3Zwd1NGdkE1U2JwOE9DMndxZnZrRHBiS3huOG9feGVsaHo4TzBoQlk3Wm1LeERXUE1SSXhicEUyenNvZ1VETjAtLWVqODNyN05RSzZUUm1IcFlIMnRENUhESlFqVUtZSk5xVG9vYWUzQmEyY2xEeDNl?oc=5",
-   "pub": "Tue, 28 Jul 2026 06:29:45 GMT"
-  },
-  {
-   "t": "Iran: Zwei weitere Hinrichtungen nach Massenprotesten im Januar - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHNzY0F5RkZUb0ZZZ2ZHV1RpYXJ5Y0VvdGFaSFRZbUdEWjNQY2pvSE4zdGU0N1BDZk80MDNCQlNvNndETE5lM3MzQ09GUmo1c0dMUzV2cHZQY1dNbnJoaGRPM0ZGVkZnaG5tLTB3dFlpR1ZkbE1zRFVZWEVsZnp4QXBtM09WemxWaWRKdVg5SUdfRkZ0T2pHbzZNb2tsbWFGcWFpQnZOcWV2TXN1WVVHblVyUEVRUDhGZDM5OHhxU0dRNVRBWHRVV1dhUHg?oc=5",
-   "pub": "Tue, 28 Jul 2026 07:50:00 GMT"
   }
  ]
 }
