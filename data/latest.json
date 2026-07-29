@@ -1,67 +1,67 @@
 {
- "collected_at": "2026-07-29T00:10:27Z",
+ "collected_at": "2026-07-29T03:42:09Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8197,
-   "chg1d_pct": 0.05
+   "price": 0.8178,
+   "chg1d_pct": -0.18
   },
   "USDJPY": {
-   "price": 163.878,
-   "chg1d_pct": 0.07
+   "price": 163.644,
+   "chg1d_pct": -0.08
   },
   "GBPCAD": {
-   "price": 1.8744,
-   "chg1d_pct": -0.13
+   "price": 1.8737,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 114.26,
-   "chg1d_pct": -0.14
+   "price": 113.701,
+   "chg1d_pct": -0.63
   },
   "EURUSD": {
-   "price": 1.1387,
-   "chg1d_pct": 0.15
+   "price": 1.1403,
+   "chg1d_pct": 0.3
   },
   "GBPCHF": {
-   "price": 1.0889,
-   "chg1d_pct": 0.0
+   "price": 1.0874,
+   "chg1d_pct": -0.14
   },
   "WTI": {
-   "price": 81.93,
-   "chg1d_pct": -0.82
+   "price": 82.52,
+   "chg1d_pct": 4.11
   },
   "BRENT": {
-   "price": 86.77,
-   "chg1d_pct": -1.8
+   "price": 87.61,
+   "chg1d_pct": 4.19
   },
   "GOLD": {
-   "price": 4020.4,
-   "chg1d_pct": -1.33
+   "price": 4024.0,
+   "chg1d_pct": -0.3
   },
   "SPX_FUT": {
-   "price": 7490.75,
-   "chg1d_pct": 0.57
+   "price": 7453.5,
+   "chg1d_pct": -0.16
   },
   "NAS_FUT": {
-   "price": 28080.0,
-   "chg1d_pct": -0.39
+   "price": 27760.75,
+   "chg1d_pct": -0.58
   }
  },
  "headlines": [
+  {
+   "t": "Konflikt im Nahen Osten: USA melden »Überraschungsangriff« aus Iran – und attackieren selbst Ziele im Irak - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE5fa2FIeE1qLWdmbHdPSnNRc2VIb1pXWkpwSF93cElOLVp3aDM2OFFHMUUzRHRmMUJWZkw5bTcxVm5CYXh2TkFHLVpmS2x2dHMyalhKNnl1REJIdy1OOVpNeHVveENneXV2NnQtR2UxMl9oRmJjZ0JHcFVVZ3BYWERjZ2NrYS1YYkx1VWZiOW1tRFN1S0tobEtFU1BxZWVGV0RBMGtjZ1dzSXpfLV93X3RiYUFPQU90eXA2ZDEySlYzOEdDWVRFbU5faWZxR25JeWc?oc=5",
+   "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
+  },
   {
    "t": "Fed Zinsentscheid morgen: Uhrzeit, Ablaufplan und Prognose - LBBW",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcjZIcTdRYUZRTm54U3NqaVhTYVdGcloza1haN1gxQWVoc3YwcEltRThnSEVIUVg4WmluSkc1blloSU82Q0NUQ0d3RlNTanA4VzV5NG8xcFBPWFNhMGJwbkxLM3hfZl9jNTM3NHZIVF9uX3kzZ2lmOHFkMzV2dmUwTWlhSTkzMnBYZVBkZ0hDZ2pXN0lVdkkzTjB1X1JwSnpFWUJia2lhMWM5UmNpYkdzLQ?oc=5",
    "pub": "Tue, 28 Jul 2026 08:30:07 GMT"
   },
   {
-   "t": "Iran an USA: Krieg und Frieden nicht Eure Entscheidung - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MeTdkUWJEVEkxejRJeWtmNi1uZ3BIcndPSEJ5UExCNzh6c0cxZlZra0hsVjBsWEJFNkR5cERzYVZoRDRvMFlGU3lqVzBtZ0dDbVVqQkx3b3ZRUXZhSnMxOGdoRHNGQQ?oc=5",
-   "pub": "Tue, 28 Jul 2026 12:13:20 GMT"
-  },
-  {
-   "t": "Iran: Hinrichtungswelle gegen Protestierende muss sofort gestoppt werden - amnesty.ch",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXR1cEpxYmlsMTVDdnh4cTNkTVpFTEtDdm9vbVU2OTktRkgyWXBYWkZUWXItcnMzVjNvWDJjdWdjZmJqaUE1N1lzYkZRaXVDRkhfMDR6VUZSRjJvWnl0MGd6YXFFbEdYcG9wMHNoMEJvT2R3ZTY0NElxRDRILVJIX2Z1VVh3bUM3blphOENsTGUxUnBXMTZwZ1gzRlg1TVBibFdBamx3NDE?oc=5",
-   "pub": "Tue, 28 Jul 2026 15:58:05 GMT"
+   "t": "Iranüberblick: USA greifen proiranische Milizen im Irak an, Iran beschießt US-Militär - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHZKOERxUk1wUTIwWld2cHRib05FYnMyeDByZmNFRWJRd0hfYjNkRE03SDVNSW5QSlRlQUFFTnljWWlKWGRIU1hFT0p3WElqZzRhQUZEeVR0UUZBOExheW5mUEVhS21BVk94NU5vRXNLdTNfU3RtZzhrWFkwMk0zQ01JZnFJeDkzU05PcURBQQ?oc=5",
+   "pub": "Wed, 29 Jul 2026 02:53:03 GMT"
   },
   {
    "t": "Im Iran-Krieg stößt Trump an ungeahnte Grenzen seiner Macht - FOCUS online",
@@ -69,19 +69,14 @@
    "pub": "Tue, 28 Jul 2026 17:39:00 GMT"
   },
   {
-   "t": "USA stoppen Angriffe auf den Iran vorerst: Trump hält sich an Vorschlag von Generalstabschef - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2FXWENZeW03aFk0SF9yOVdlVk14WmljbnpOQkpVdWdybnlJbUxTS2FzV2Yza0U2MEdQVkVYUDdxRk4yTEJIOXNnMHI0VVB3bldGVzJJRW5SdHZONjQzQm1WSmtGSy05TFFPWlFxMWhvdnFsbmxoTHdlX2xBcGF5UHYwRldaZTBMZnpvM0c3YWhxbGhqYVRCYXd3X2p1c2p4dWc?oc=5",
-   "pub": "Tue, 28 Jul 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Todesstrafe im Iran: Amnesty wirft Iran mehr Vollzüge der Todesstrafe vor - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1FNeUFYU3RlNmNneUowdzdLdmIxWGNoQWx2OTRlZTBoR2VvbkVnaDNaUjFkdXNJdGdqd0JLMUZyVHI4bGs4R1lZdUlXQVNOWHVlNlNMYjBnd3o5NGZiTzRNbWFxbGgwdG52T2lfVDNVdTAtbkhuYll2X2VEQjlPRF82a1g1R3ZrcWl6WEZiYzNYSS15R2dCd1JlSTh4LUtCeEJhdTdrRnE?oc=5",
-   "pub": "Tue, 28 Jul 2026 19:37:25 GMT"
-  },
-  {
    "t": "Fed-Chef: Kevin Warshs zweiter Zinsentscheid – Zinspause erwartet - WiWo",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTFBV0tBRzZISnhtNWk3Nk9Jck9CUHRkb2JjNFR3QVlyd0tNTFlnWjJXSndUd2NMU05tVUlfWW9oQkxXanJ3djFRMmJHMEJmaVo4eURfLVN3MWhCdjFGT3drM2VZdDJ4NDJyLWRka1ZXMncxcFV6cFRvbVg1RzNCRkpPbHgwbzBfU3V1dVdLUHdhc2xYLXhLNGNMVTVmV0U1SFRuLUZNYTRKM292MzZ0anJZc1IySVE?oc=5",
    "pub": "Tue, 28 Jul 2026 17:33:59 GMT"
+  },
+  {
+   "t": "Iran an USA: Krieg und Frieden nicht Eure Entscheidung - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MeTdkUWJEVEkxejRJeWtmNi1uZ3BIcndPSEJ5UExCNzh6c0cxZlZra0hsVjBsWEJFNkR5cERzYVZoRDRvMFlGU3lqVzBtZ0dDbVVqQkx3b3ZRUXZhSnMxOGdoRHNGQQ?oc=5",
+   "pub": "Tue, 28 Jul 2026 12:13:20 GMT"
   },
   {
    "t": "Iran-Konflikt: Netanjahus riskanter Besuch bei Trump – und der hohe Preis, den er womöglich dafür zahlen muss - WELT",
@@ -99,14 +94,19 @@
    "pub": "Tue, 28 Jul 2026 23:53:00 GMT"
   },
   {
-   "t": "Nach Massenprotesten: Iran richtet zwei junge Männer öffentlich hin - Euronews.com",
+   "t": "Todesstrafe im Iran: Amnesty wirft Iran mehr Vollzüge der Todesstrafe vor - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1FNeUFYU3RlNmNneUowdzdLdmIxWGNoQWx2OTRlZTBoR2VvbkVnaDNaUjFkdXNJdGdqd0JLMUZyVHI4bGs4R1lZdUlXQVNOWHVlNlNMYjBnd3o5NGZiTzRNbWFxbGgwdG52T2lfVDNVdTAtbkhuYll2X2VEQjlPRF82a1g1R3ZrcWl6WEZiYzNYSS15R2dCd1JlSTh4LUtCeEJhdTdrRnE?oc=5",
+   "pub": "Tue, 28 Jul 2026 19:37:25 GMT"
+  },
+  {
+   "t": "Nach Massenprotesten: Iran richtet zwei junge Männer öffentlich hin - Euronews",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RTXFkajJZSFRXR0xnMm9XczVCenJ4VW1JU2NIQ3dIM2JCaGYybWpLWWFla1YyNWFhTEw4cUo2QXJJeHZqRXhYRzNWZ3lDUVNQTHhmN25ucWIyUE1YQWZsTGpNVGJQODhoYy1ubWIzR01CVnpT?oc=5",
    "pub": "Tue, 28 Jul 2026 10:26:36 GMT"
   },
   {
-   "t": "(S+) Iran-Krieg: Satellitenbilder zeigen Ausmaß der Ölverschmutzung in der Straße von Hormus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUnhiVi0tOXZYZHlSR0ZGV1YzQzlfazYyUzBiQWltdF9mNnI2WTJQamFrTU5CUktEWTNacEwybGZIQ2tDdnZvbzRTb2ZGdHo1WDVCaFZKVGZ3bS1seHJLS1dpbTlnOVJNT0pjSk5ZSzZBOTNLejZZRmZzaEVVQldaTTJyd3JZUkhIVElVVXNTUGhGUVhXaDVkc2Y4YVVyOFlYSnNiMjBBYzNoaS00UVdQMmI5b2Zab0Y4bERlSWIydV9qWkxLTldsUHktRzVnbzRvaHI1VUhfa2tNQTNMekV5ZzczUWhkaFlPdGN2LTlNTmwySWUtakFJ?oc=5",
-   "pub": "Tue, 28 Jul 2026 17:32:00 GMT"
+   "t": "Die Lage im Überblick: Erstmals nach US-Angriffsstopp neue iranische Attacken - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHNuR3phYWI4ZVBEM2lEVTIyanFUR3NrZ3lldE5sTGZneVlfZ2ItTkFkdFpHWTJOcUdIS2hrbG5JbV9henJPY21Lb0xHZU12OFpoRlJ5VkhyWVQxN2FQZU03eElld1BWcjJBMmhMeTNsZUVHdkR4Y3pQdVBLX2d0VkZQVXVfOGJ4Y0hmX3lGdw?oc=5",
+   "pub": "Wed, 29 Jul 2026 03:19:02 GMT"
   }
  ]
 }
