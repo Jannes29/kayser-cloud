@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-29T09:58:04Z",
+ "collected_at": "2026-07-29T12:21:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8198,
-   "chg1d_pct": 0.06
+   "price": 0.8202,
+   "chg1d_pct": 0.11
   },
   "USDJPY": {
-   "price": 163.598,
-   "chg1d_pct": -0.11
+   "price": 163.735,
+   "chg1d_pct": -0.02
   },
   "GBPCAD": {
-   "price": 1.8749,
-   "chg1d_pct": -0.1
+   "price": 1.8728,
+   "chg1d_pct": -0.21
   },
   "AUDJPY": {
-   "price": 113.585,
-   "chg1d_pct": -0.73
+   "price": 113.619,
+   "chg1d_pct": -0.7
   },
   "EURUSD": {
-   "price": 1.1397,
-   "chg1d_pct": 0.24
+   "price": 1.1382,
+   "chg1d_pct": 0.11
   },
   "GBPCHF": {
-   "price": 1.09,
-   "chg1d_pct": 0.1
+   "price": 1.0896,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 82.01,
-   "chg1d_pct": 3.47
+   "price": 83.07,
+   "chg1d_pct": 4.81
   },
   "BRENT": {
-   "price": 87.37,
-   "chg1d_pct": 3.9
+   "price": 88.2,
+   "chg1d_pct": 4.89
   },
   "GOLD": {
-   "price": 4094.2,
-   "chg1d_pct": 1.43
+   "price": 4088.2,
+   "chg1d_pct": 1.29
   },
   "SPX_FUT": {
-   "price": 7485.25,
-   "chg1d_pct": 0.27
+   "price": 7476.0,
+   "chg1d_pct": 0.14
   },
   "NAS_FUT": {
-   "price": 28019.75,
-   "chg1d_pct": 0.35
+   "price": 27969.75,
+   "chg1d_pct": 0.17
   }
  },
  "headlines": [
@@ -64,14 +64,19 @@
    "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
   },
   {
+   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
+   "pub": "Wed, 29 Jul 2026 11:29:27 GMT"
+  },
+  {
    "t": "US-Militär greift mit Saudi-Arabien Ziele im Irak an - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORE9Tc1VLbFpBam1SOU8wQldKR3FZNUpwZTdIeEY4N1Ayd3h5UmtGWTY1SXV2U0pZWGV6Y1g1eHg5cVZ6ZVdHclQ0aFIxQ1ZQYnUzOFhwenR2SkZIa2l4RGNIXzBpVEtlQ2RiOUhpQldfTHg2aEY1WDJrQXRXNHFsMWZOLWVIT2dNWmN4U1FmbHpTUUs5V2ZVTVBXRExVSzhKTDA2VHRlc1c0eENYcW55dFdZQ0RPY2NrbmVxUtIBvAFBVV95cUxQdXhFZFFWSFJIZFpLXzBWMmJQbFVEVkRXdGVRNC1FSndHNHRzUnB0TVZieC1KdTRLZ05FTWpTUjd3MXJVWVFKeE9LWmpDZHJKR29wUVVvVFlnU1lSaF9IZDItRHRYSXdNZHppVHNIcURkVW81bml5eF9tczczYUVOQldub0w5bm8xR1U1UmlOSGJnV2JXVEhuX3pobzhSV2dNeWxOSlJMVHAxY1laODM0S1lRODNBUUV1SGJicg?oc=5",
    "pub": "Wed, 29 Jul 2026 08:29:08 GMT"
   },
   {
-   "t": "USA wehren „Überraschungsangriff“ des Iran ab – und schlagen gemeinsam mit Saudi-Arabien zurück - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQblhOTTBYNDdBazJUUndxSkM4Q05sR1BiYW9rUXRQdGpNSHZaYWdPZVFXMVpLNW8wU1ExaDlHUkMwQjlfRmFIMEptaE9ydVQxcTNlXzRaZ1dsVlB3dkg5d0xRM0dlQ19JdXNISW9vQXBjNW41ZThaVDhTUEs2dFlyd1owN0U0cmM4SjcyaGxncGNtZGwxY2Y2cWFQcDVDdnZ6aUZKRzgzOFkxN1ItRDJOSUxoVUFKcmZyUlFYU1hhLTMzdkpQMzc0QVVLTThlRFRSN25ZS2xlSExuVGhHU01yQk52M0g1THR2eEk0OTZ0WlRCdW1qSFQ3TUVn?oc=5",
-   "pub": "Wed, 29 Jul 2026 05:02:16 GMT"
+   "t": "KI-Krieg zwischen USA und Iran: Trump droht mit Fake-Bildern – Teheran kontert mit Lego-Satire - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaDNvZlo5MWtNNXZFQlFNQWxWbGxDWXM5MWJ4eTJQMkFwZGRRdEdDbFNCU09jLXNSMnIweEtGNjZTejdlVk5kb0syNnlUckE4SVJSa1c3WllNYnZKLXBiWW1QWmhEd0lVZUdXYkoxdVFZSjlXMXh2UEpOTmNoYkIycC0wTEhVRnd2TVFmYTVmOGEySEhFSkw4b0drQS1KalpnT0ROVkc1dE5UQm5zZzVRU1pIakNGRm4xa1E?oc=5",
+   "pub": "Wed, 29 Jul 2026 09:07:07 GMT"
   },
   {
    "t": "Fed-Zinsentscheid heute: Wann live? Prognose und Uhrzeit im Überblick - Berliner Morgenpost",
@@ -89,24 +94,19 @@
    "pub": "Wed, 29 Jul 2026 08:59:06 GMT"
   },
   {
-   "t": "US-Truppen erleben „Überraschungsangriff“ aus dem Iran – Washington schlägt hart zurück - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2YydHVOczJWRXkwdDY2VE91T2hOUHFIYnZlTkJPZHp1OWlQcDNaVGdQcnBCRFItNGZFMFVhOVJvNjFZMVlXZ01IUUZXZ2FpZ1F4WHg5Y3NwZF9sZWYyU2J1YzR6T1ByWVF4bmt0bUhxeWx0bFJ2QjJyWlFTMmd3bm5CMHFnSmFkQ0pBdF9uQ1IzTW5pVUQ0eS1VbFdueTFLcHI0cHFvY3VieEhoNDhQbHp1eTIxX3MzS1hKMjlxejgxeF9JMHY3RA?oc=5",
-   "pub": "Wed, 29 Jul 2026 04:21:04 GMT"
+   "t": "Zinsentscheid der Fed : Diese Blackbox-Strategie des US-Notenbankchefs verunsichert die Märkte - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFpvXzQxZktUQWdfdU1ScmtrN0hJbUM5VGE4ZzVCc0JwcnNXUXIyY1JHemh3UzBUUDBFNTJWRjZiRUN2M1NCT2pZMDJjZS13NlRtUEN4Z3YwcWptUUxQMjl6NGpyVFUtQUc4M216LV9MY25ZLXJLVzZVNXR0dHU4NlRVMmFyWGNOTmc?oc=5",
+   "pub": "Wed, 29 Jul 2026 11:56:58 GMT"
+  },
+  {
+   "t": "USA und Saudi-Arabien greifen Iran-Milizen im Irak an - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NThaRVJwUjRzLUtId1gtMjN5SXFUZXVtejVON1RnaTNIVWlTbFVhb3B6b1BVT0RzNzV5LTlIaHE5b0w3YzJQYXcyRUt5Y0JyN1FaT0lDN1FWQlZDVGVodDVld2dqRkttanI3U29KSHBMZUVMRHNfSklR?oc=5",
+   "pub": "Wed, 29 Jul 2026 10:16:23 GMT"
   },
   {
    "t": "Nach Angriff auf Tanker: Ukraine will keine Eskalation mit dem Iran - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDFDTkNqbUpuMUNqeExsV3FGU3VKWkxYWl9KSnYtT2tJVnVfMmdIaldIUFJyNEJTd1drN29vMXpLNW1BdVJqa2VEOU9ZaG1lMmNzSllDZHBjRGp0OWdSd3dKVzFVUDJ6Rm5iWUNvREVPRkZ2TGd2UjBoWnFUQ1RCbkl3dVVndEp6ejJiUjl4TQ?oc=5",
    "pub": "Wed, 29 Jul 2026 05:26:33 GMT"
-  },
-  {
-   "t": "Iran-Krieg aktuell | Iran startet \"Überraschungsangriff\" auf US-Truppen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV0VWVlYwVHdCRF93WGp5N08tMFRNQTJNVFE1N3g2ZkZQcHY5ZVhEQkowRUczMDltV0RqandZZVYxWGN3NG0xdUFiQ2RfV3VfU3ZnSlBsUVNvSzQ4MTdZaXdZbkNITkpfcFpNM0hYQmdOczI5dDVPWUhnUVh6TUVMdFF0VXVXeHJhZGxBRnJsSk55eEJfUkhlU1FDM25ETkhhbV82V1VqTDF1aUZkT2Y1bHJLX2RZZER3dldqQQ?oc=5",
-   "pub": "Wed, 29 Jul 2026 04:36:00 GMT"
-  },
-  {
-   "t": "USA und Saudi-Arabien greifen Iran-Milizen im Irak an - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NThaRVJwUjRzLUtId1gtMjN5SXFUZXVtejVON1RnaTNIVWlTbFVhb3B6b1BVT0RzNzV5LTlIaHE5b0w3YzJQYXcyRUt5Y0JyN1FaT0lDN1FWQlZDVGVodDVld2dqRkttanI3U29KSHBMZUVMRHNfSklR?oc=5",
-   "pub": "Wed, 29 Jul 2026 06:47:17 GMT"
   }
  ]
 }
