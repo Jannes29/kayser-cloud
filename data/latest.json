@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-29T21:13:05Z",
+ "collected_at": "2026-07-29T22:14:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.814,
-   "chg1d_pct": -0.67
+   "price": 0.8137,
+   "chg1d_pct": -0.7
   },
   "USDJPY": {
-   "price": 163.377,
-   "chg1d_pct": -0.3
+   "price": 163.392,
+   "chg1d_pct": -0.29
   },
   "GBPCAD": {
-   "price": 1.8757,
-   "chg1d_pct": 0.09
+   "price": 1.876,
+   "chg1d_pct": 0.11
   },
   "AUDJPY": {
-   "price": 113.504,
-   "chg1d_pct": -0.68
+   "price": 113.653,
+   "chg1d_pct": -0.55
   },
   "EURUSD": {
-   "price": 1.1464,
-   "chg1d_pct": 0.68
+   "price": 1.1472,
+   "chg1d_pct": 0.75
   },
   "GBPCHF": {
-   "price": 1.087,
-   "chg1d_pct": -0.16
+   "price": 1.0877,
+   "chg1d_pct": -0.09
   },
   "WTI": {
-   "price": 84.6,
-   "chg1d_pct": 6.74
+   "price": 84.36,
+   "chg1d_pct": 6.43
   },
   "BRENT": {
-   "price": 90.54,
-   "chg1d_pct": 7.67
+   "price": 90.4,
+   "chg1d_pct": 7.5
   },
   "GOLD": {
-   "price": 4126.0,
-   "chg1d_pct": 2.22
+   "price": 4131.7,
+   "chg1d_pct": 2.36
   },
   "SPX_FUT": {
-   "price": 7335.25,
-   "chg1d_pct": -1.74
+   "price": 7352.75,
+   "chg1d_pct": -1.51
   },
   "NAS_FUT": {
-   "price": 27259.25,
-   "chg1d_pct": -2.37
+   "price": 27354.5,
+   "chg1d_pct": -2.03
   }
  },
  "headlines": [
@@ -61,7 +61,7 @@
   {
    "t": "Fed lässt unter neuem Chef Leitzins unverändert - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2RjMUNoRS1SSkRFYW5xekpXejF1MGhLZ2VIcHQtVUdBQ0hBekVkWDB3OFdaYTR1aXJxSmxPNk9PRHhYYV9nbWxtbmdwcnBoOXlsS0JLQmFTMHZneDlyUlBaRzdvRHFXN3Y0c3FOV001T2I3VXlILTdiZnZNeHdiQnBHQm5IcHV3UTVmdFRrT2NsRFdNT1JwQzZpYXpKWk5oM1U0NWhpSVJCNDlz?oc=5",
-   "pub": "Wed, 29 Jul 2026 19:59:12 GMT"
+   "pub": "Wed, 29 Jul 2026 18:05:12 GMT"
   },
   {
    "t": "Fed-Entscheid: Erneute Zinspause bei US-Notenbank Federal Reserve - WiWo",
@@ -69,9 +69,9 @@
    "pub": "Wed, 29 Jul 2026 18:05:00 GMT"
   },
   {
-   "t": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
-   "pub": "Wed, 29 Jul 2026 14:44:00 GMT"
+   "t": "Ukrainischer Angriff im Kaspischen Meer: Warum die Ukraine einen iranischen Frachter angriff - zeit.de",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaldNLXFBOEdWblhBUU5FUWc2NmZnV3M3OWdMYUVYSUU2QlU3ZnVoV1NzOTJoTHJqaExIaTl4ZTVJRHM0bEUxYmJwTGxXWW96dlg5RzM0ek0wblpsN1hMd2tiVnhOeVUxYU9RTDhLSkpVYUEtUm5KQnBKOVM0LUNZQkxYdHRiZllhelU1WGNpeFU?oc=5",
+   "pub": "Wed, 29 Jul 2026 17:48:59 GMT"
   },
   {
    "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
@@ -79,12 +79,17 @@
    "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
   },
   {
+   "t": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
+   "pub": "Wed, 29 Jul 2026 14:44:00 GMT"
+  },
+  {
    "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
    "pub": "Wed, 29 Jul 2026 17:30:09 GMT"
   },
   {
-   "t": "Fed-Entscheidung gefallen: Drei Mitglieder wollten die Zinsen erhöhen – sie wurden überstimmt - fr.de",
+   "t": "Fed-Entscheidung gefallen: Drei Mitglieder wollten die Zinsen erhöhen – sie wurden überstimmt - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbng1bDBNUG5PR04zRExuQkNXQ01xenl6eVJSX3M2Z09EWEg3aTQ2ZDc3S2s4T21aZjNhWXV6dlhCWUhRR1N2NTZ6cHZ5WEY3NHpCcHp1d3BSclBBQk5Xc3R2V0dsbC00aV9XWjk1QlEtbTBiY2hPN0RoUGxOaUpVN1Z2RnVWSXNscm5OLUpYQmFaQ3dqX3BoeVpDY0NaVE5PQnFRTlBFNFphaWxLTTA0RlVKd1NfdS0yVElPNThXamFTOXhUMFFsVw?oc=5",
    "pub": "Wed, 29 Jul 2026 18:44:00 GMT"
   },
@@ -94,19 +99,14 @@
    "pub": "Wed, 29 Jul 2026 03:35:23 GMT"
   },
   {
-   "t": "Fed: US-Notenbank lässt Leitzins erneut unverändert - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHVLX0Y2ZjlsTVRqQVFybHk4cmJoR01rTmxBMElBSnc3NWFZU3BBTEJhMnpFSl9ZWThYX3JsRV9LTWpKVlN2QzBwNDBsYmRWaERWRUoxWWdfTm42NmNUUzJuX25QMS1lamlZbWw2ZFE5MHhzaURUYlhRZzlWMkRhbHpoZWhMdTFxRDNiU0U3T1hZSFdENUE?oc=5",
-   "pub": "Wed, 29 Jul 2026 18:23:01 GMT"
+   "t": "Fed-Entscheidung live: Hält die Notenbank still – oder kommt der nächste Zinsschock? - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeU1DRHdCeFBrRTNZdThCeHQ0ck14eEFlUi13NEF2YkhxUnZGTU5xa2xpaHBRcURSdjRCWmNTVlNITzFKZ3I1VlN5eW02Q3A1TTliU1RvVGRlSGNPdUlyNlVOek45OXBlQURFYzMydG93REJBZTYzSlg4bzlGS3J2RW9mcld0WktxRERKVTZ4Tjc1aDBIZmZpRG4xLW0xU0NkSWd0dFlNUFh2dw?oc=5",
+   "pub": "Wed, 29 Jul 2026 17:50:00 GMT"
   },
   {
    "t": "Iran will erneut Benzinpreis erhöhen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWxtSjlHem5KVlNma1paN2dFZnFPakFkQmNyM0xTelc0czJDOVZybkIyU2V6Si02SW9JQ3RQRmNhS0pVOTRVSHB3NW5HdHVTWXhVbDhwdFVTNFhvS1RFUDZBNG84d1hTZGNiRm1Nb2h3R0YtdXRQWnBlMkd1eGNXU0RVYXpLTDZTRkotVk1qRkp5WHlrN0xF0gGXAUFVX3lxTE5EQ2ZfQzdEal9EYkh5eHRGUkJ6bWx4OXJIZEg3Z3VOYVdIQzNzdHNGbkhROXZldjAzNmJPa01LNUhpekNLandldi16a01feUd5cGl0bGZjU2dQd21mOG5oNExjeEpTamcxRTlSZElzQVY0MXFCZnFNQXltdkxKZlBpZHNsMmYtb01yUGtZbl9OLVR6Rm9DdUk?oc=5",
    "pub": "Wed, 29 Jul 2026 18:13:59 GMT"
-  },
-  {
-   "t": "Konflikt im Nahen Osten: USA melden »Überraschungsangriff« aus Iran – und attackieren selbst Ziele im Irak - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE5fa2FIeE1qLWdmbHdPSnNRc2VIb1pXWkpwSF93cElOLVp3aDM2OFFHMUUzRHRmMUJWZkw5bTcxVm5CYXh2TkFHLVpmS2x2dHMyalhKNnl1REJIdy1OOVpNeHVveENneXV2NnQtR2UxMl9oRmJjZ0JHcFVVZ3BYWERjZ2NrYS1YYkx1VWZiOW1tRFN1S0tobEtFU1BxZWVGV0RBMGtjZ1dzSXpfLV93X3RiYUFPQU90eXA2ZDEySlYzOEdDWVRFbU5faWZxR25JeWc?oc=5",
-   "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
   }
  ]
 }
