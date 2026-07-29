@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-29T22:14:52Z",
+ "collected_at": "2026-07-29T23:16:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8137,
-   "chg1d_pct": -0.7
+   "price": 0.8138,
+   "chg1d_pct": -0.69
   },
   "USDJPY": {
-   "price": 163.392,
-   "chg1d_pct": -0.29
+   "price": 163.358,
+   "chg1d_pct": -0.31
   },
   "GBPCAD": {
-   "price": 1.876,
-   "chg1d_pct": 0.11
+   "price": 1.8764,
+   "chg1d_pct": 0.13
   },
   "AUDJPY": {
-   "price": 113.653,
-   "chg1d_pct": -0.55
+   "price": 113.669,
+   "chg1d_pct": -0.54
   },
   "EURUSD": {
    "price": 1.1472,
    "chg1d_pct": 0.75
   },
   "GBPCHF": {
-   "price": 1.0877,
-   "chg1d_pct": -0.09
+   "price": 1.0879,
+   "chg1d_pct": -0.07
   },
   "WTI": {
-   "price": 84.36,
-   "chg1d_pct": 6.43
+   "price": 84.41,
+   "chg1d_pct": 6.5
   },
   "BRENT": {
    "price": 90.4,
    "chg1d_pct": 7.5
   },
   "GOLD": {
-   "price": 4131.7,
-   "chg1d_pct": 2.36
+   "price": 4152.5,
+   "chg1d_pct": 2.88
   },
   "SPX_FUT": {
-   "price": 7352.75,
-   "chg1d_pct": -1.51
+   "price": 7373.25,
+   "chg1d_pct": -1.23
   },
   "NAS_FUT": {
-   "price": 27354.5,
-   "chg1d_pct": -2.03
+   "price": 27473.5,
+   "chg1d_pct": -1.61
   }
  },
  "headlines": [
@@ -59,17 +59,17 @@
    "pub": "Wed, 29 Jul 2026 15:48:15 GMT"
   },
   {
+   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
+   "pub": "Wed, 29 Jul 2026 20:30:36 GMT"
+  },
+  {
    "t": "Fed lässt unter neuem Chef Leitzins unverändert - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2RjMUNoRS1SSkRFYW5xekpXejF1MGhLZ2VIcHQtVUdBQ0hBekVkWDB3OFdaYTR1aXJxSmxPNk9PRHhYYV9nbWxtbmdwcnBoOXlsS0JLQmFTMHZneDlyUlBaRzdvRHFXN3Y0c3FOV001T2I3VXlILTdiZnZNeHdiQnBHQm5IcHV3UTVmdFRrT2NsRFdNT1JwQzZpYXpKWk5oM1U0NWhpSVJCNDlz?oc=5",
    "pub": "Wed, 29 Jul 2026 18:05:12 GMT"
   },
   {
-   "t": "Fed-Entscheid: Erneute Zinspause bei US-Notenbank Federal Reserve - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTERNSi1yNzM2Vy03UGRBaXNZbHFNY2VvMUliaFIyNDJmYWlaV090ZWlpeVNwOW00dHJuSFFQRFpoUlg4NjkyQ2ZHc09QOHBXeVp0RkNnejliWU9IMDZZdWI5c3FVVmlIVV9UUkJCZVpva2ZRYW9SU2RTTmk3UVVBU24yTDkzLXVka3Q3bTBuSWFTdEdjelJma3FmSGIyUXdpMmhaS29QZDFxQjI4QXZDMDBBa01qWWtzQ2c?oc=5",
-   "pub": "Wed, 29 Jul 2026 18:05:00 GMT"
-  },
-  {
-   "t": "Ukrainischer Angriff im Kaspischen Meer: Warum die Ukraine einen iranischen Frachter angriff - zeit.de",
+   "t": "Ukrainischer Angriff im Kaspischen Meer: Warum die Ukraine einen iranischen Frachter angriff - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaldNLXFBOEdWblhBUU5FUWc2NmZnV3M3OWdMYUVYSUU2QlU3ZnVoV1NzOTJoTHJqaExIaTl4ZTVJRHM0bEUxYmJwTGxXWW96dlg5RzM0ek0wblpsN1hMd2tiVnhOeVUxYU9RTDhLSkpVYUEtUm5KQnBKOVM0LUNZQkxYdHRiZllhelU1WGNpeFU?oc=5",
    "pub": "Wed, 29 Jul 2026 17:48:59 GMT"
   },
@@ -84,9 +84,9 @@
    "pub": "Wed, 29 Jul 2026 14:44:00 GMT"
   },
   {
-   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
-   "pub": "Wed, 29 Jul 2026 17:30:09 GMT"
+   "t": "Iran greift US-Stützpunkt an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfNzRVZXljaVJRdjBWQThzR1FmZHJwSmVPM0wzTnNlRlJYY29pbVB1anVEQ3owbk0yUkYzTnhaVmpRUXgxTDg5WTZTcWFKUllBSjZGVm01c3V5UTJBSjEw?oc=5",
+   "pub": "Wed, 29 Jul 2026 03:35:23 GMT"
   },
   {
    "t": "Fed-Entscheidung gefallen: Drei Mitglieder wollten die Zinsen erhöhen – sie wurden überstimmt - Frankfurter Rundschau",
@@ -94,14 +94,14 @@
    "pub": "Wed, 29 Jul 2026 18:44:00 GMT"
   },
   {
-   "t": "Iran greift US-Stützpunkt an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfNzRVZXljaVJRdjBWQThzR1FmZHJwSmVPM0wzTnNlRlJYY29pbVB1anVEQ3owbk0yUkYzTnhaVmpRUXgxTDg5WTZTcWFKUllBSjZGVm01c3V5UTJBSjEw?oc=5",
-   "pub": "Wed, 29 Jul 2026 03:35:23 GMT"
-  },
-  {
    "t": "Fed-Entscheidung live: Hält die Notenbank still – oder kommt der nächste Zinsschock? - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeU1DRHdCeFBrRTNZdThCeHQ0ck14eEFlUi13NEF2YkhxUnZGTU5xa2xpaHBRcURSdjRCWmNTVlNITzFKZ3I1VlN5eW02Q3A1TTliU1RvVGRlSGNPdUlyNlVOek45OXBlQURFYzMydG93REJBZTYzSlg4bzlGS3J2RW9mcld0WktxRERKVTZ4Tjc1aDBIZmZpRG4xLW0xU0NkSWd0dFlNUFh2dw?oc=5",
    "pub": "Wed, 29 Jul 2026 17:50:00 GMT"
+  },
+  {
+   "t": "Der US-Leitzins verändert sich nicht: Fed-Chef Kevin Warsh schiebt eine Zinserhöhung weiter hinaus - NZZ – Neue Zürcher Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW10R0x4MzBVd2UxZGkzRDNRTi1RR0Vza193Z3JhaVZxR2tJaTJuUldoZE9WWkJsRzU2eUo0OFpfbWxSbUNfcVFSc3Jsa0tFbmY4OEx1dlRPZDFyXzZSd0lmWFBZQllobHBYMk9raGsyOERKUWJzdDVUWF93UER0QUJzeldycTd3bExCdVIyQUtQdGYwNjlUdVN4eEVmcEVVazJfWG9abzRVSDYzOE5MZEhVQQ?oc=5",
+   "pub": "Wed, 29 Jul 2026 22:25:27 GMT"
   },
   {
    "t": "Iran will erneut Benzinpreis erhöhen - DW.com",
