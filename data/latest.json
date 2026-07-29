@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-28T22:17:30Z",
+ "collected_at": "2026-07-29T00:10:27Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8193,
-   "chg1d_pct": 0.0
-  },
-  "USDJPY": {
-   "price": 163.849,
+   "price": 0.8197,
    "chg1d_pct": 0.05
   },
-  "GBPCAD": {
-   "price": 1.8738,
-   "chg1d_pct": -0.16
+  "USDJPY": {
+   "price": 163.878,
+   "chg1d_pct": 0.07
   },
-  "AUDJPY": {
-   "price": 114.27,
+  "GBPCAD": {
+   "price": 1.8744,
    "chg1d_pct": -0.13
   },
+  "AUDJPY": {
+   "price": 114.26,
+   "chg1d_pct": -0.14
+  },
   "EURUSD": {
-   "price": 1.1391,
-   "chg1d_pct": 0.19
+   "price": 1.1387,
+   "chg1d_pct": 0.15
   },
   "GBPCHF": {
-   "price": 1.0886,
-   "chg1d_pct": -0.03
+   "price": 1.0889,
+   "chg1d_pct": 0.0
   },
   "WTI": {
-   "price": 81.06,
-   "chg1d_pct": -1.88
+   "price": 81.93,
+   "chg1d_pct": -0.82
   },
   "BRENT": {
-   "price": 85.78,
-   "chg1d_pct": -2.92
+   "price": 86.77,
+   "chg1d_pct": -1.8
   },
   "GOLD": {
-   "price": 4026.3,
-   "chg1d_pct": -1.18
+   "price": 4020.4,
+   "chg1d_pct": -1.33
   },
   "SPX_FUT": {
-   "price": 7472.25,
-   "chg1d_pct": 0.32
+   "price": 7490.75,
+   "chg1d_pct": 0.57
   },
   "NAS_FUT": {
-   "price": 28004.75,
-   "chg1d_pct": -0.66
+   "price": 28080.0,
+   "chg1d_pct": -0.39
   }
  },
  "headlines": [
@@ -64,24 +64,24 @@
    "pub": "Tue, 28 Jul 2026 15:58:05 GMT"
   },
   {
-   "t": "USA stoppen Angriffe auf den Iran vorerst: Trump hält sich an Vorschlag von Generalstabschef - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2FXWENZeW03aFk0SF9yOVdlVk14WmljbnpOQkpVdWdybnlJbUxTS2FzV2Yza0U2MEdQVkVYUDdxRk4yTEJIOXNnMHI0VVB3bldGVzJJRW5SdHZONjQzQm1WSmtGSy05TFFPWlFxMWhvdnFsbmxoTHdlX2xBcGF5UHYwRldaZTBMZnpvM0c3YWhxbGhqYVRCYXd3X2p1c2p4dWc?oc=5",
-   "pub": "Tue, 28 Jul 2026 17:00:00 GMT"
-  },
-  {
    "t": "Im Iran-Krieg stößt Trump an ungeahnte Grenzen seiner Macht - FOCUS online",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ050Rmlmc2NYdGhFMmZnVEJwdGwwTTdOUElmUlVfZlhLZTdRS0JIZHUxdnJyUHFnYVJGY1BqcFpIUHJTNUo0d3JfSHJYd0xta0VlSWFFQlptT0wwOHZHM09xR0VkV0t1eGhPQm44WkQ0ZGt4UU8yVWEweWlzbTdBTDRhdkJSTkYtSERRc1llb1pnM3plSXFfTVFEdmUxRm5qMHZUQ0JsQUtNaE5NWGF3ajVMUlVoY2NtWUwza0pFZFpKZ01GN04wdDU3Y3pPN295c1JaZ0x0ZWg?oc=5",
    "pub": "Tue, 28 Jul 2026 17:39:00 GMT"
   },
   {
-   "t": "Fed-Chef: Kevin Warshs zweiter Zinsentscheid – Zinspause erwartet - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTFBV0tBRzZISnhtNWk3Nk9Jck9CUHRkb2JjNFR3QVlyd0tNTFlnWjJXSndUd2NMU05tVUlfWW9oQkxXanJ3djFRMmJHMEJmaVo4eURfLVN3MWhCdjFGT3drM2VZdDJ4NDJyLWRka1ZXMncxcFV6cFRvbVg1RzNCRkpPbHgwbzBfU3V1dVdLUHdhc2xYLXhLNGNMVTVmV0U1SFRuLUZNYTRKM292MzZ0anJZc1IySVE?oc=5",
-   "pub": "Tue, 28 Jul 2026 17:33:59 GMT"
+   "t": "USA stoppen Angriffe auf den Iran vorerst: Trump hält sich an Vorschlag von Generalstabschef - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2FXWENZeW03aFk0SF9yOVdlVk14WmljbnpOQkpVdWdybnlJbUxTS2FzV2Yza0U2MEdQVkVYUDdxRk4yTEJIOXNnMHI0VVB3bldGVzJJRW5SdHZONjQzQm1WSmtGSy05TFFPWlFxMWhvdnFsbmxoTHdlX2xBcGF5UHYwRldaZTBMZnpvM0c3YWhxbGhqYVRCYXd3X2p1c2p4dWc?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:00:00 GMT"
   },
   {
    "t": "Todesstrafe im Iran: Amnesty wirft Iran mehr Vollzüge der Todesstrafe vor - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1FNeUFYU3RlNmNneUowdzdLdmIxWGNoQWx2OTRlZTBoR2VvbkVnaDNaUjFkdXNJdGdqd0JLMUZyVHI4bGs4R1lZdUlXQVNOWHVlNlNMYjBnd3o5NGZiTzRNbWFxbGgwdG52T2lfVDNVdTAtbkhuYll2X2VEQjlPRF82a1g1R3ZrcWl6WEZiYzNYSS15R2dCd1JlSTh4LUtCeEJhdTdrRnE?oc=5",
    "pub": "Tue, 28 Jul 2026 19:37:25 GMT"
+  },
+  {
+   "t": "Fed-Chef: Kevin Warshs zweiter Zinsentscheid – Zinspause erwartet - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTFBV0tBRzZISnhtNWk3Nk9Jck9CUHRkb2JjNFR3QVlyd0tNTFlnWjJXSndUd2NMU05tVUlfWW9oQkxXanJ3djFRMmJHMEJmaVo4eURfLVN3MWhCdjFGT3drM2VZdDJ4NDJyLWRka1ZXMncxcFV6cFRvbVg1RzNCRkpPbHgwbzBfU3V1dVdLUHdhc2xYLXhLNGNMVTVmV0U1SFRuLUZNYTRKM292MzZ0anJZc1IySVE?oc=5",
+   "pub": "Tue, 28 Jul 2026 17:33:59 GMT"
   },
   {
    "t": "Iran-Konflikt: Netanjahus riskanter Besuch bei Trump – und der hohe Preis, den er womöglich dafür zahlen muss - WELT",
@@ -94,9 +94,9 @@
    "pub": "Tue, 28 Jul 2026 19:59:00 GMT"
   },
   {
-   "t": "Iran-Krieg: In den USA schwindet der Rückhalt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkpKek1CMGotd3RkUU4zeGRMeTV4bDZLU09Ec3l6NjN0UHJDUE1KU3hPSUtVYXp2bDVKOXFuMmI5T2RkMC00V2d4V1hXSGYwU1FhRmRpYzRrYzR2Z191RUUtUVViTVN2STlmVmsxN2ctODBEUjM5N1g5TXBhdGdPMDhXbjc2NnJ2bldFYjZSbFRYZS1DbE4zNXZiYkRub1RILU0tWlY0a3ZNU2FkSGJlZDlpbk9kZ0d0TnVaaU5WZzk?oc=5",
-   "pub": "Tue, 28 Jul 2026 00:34:00 GMT"
+   "t": "Videos aus Gefängnissen in Iran: Häftlinge im Hungerstreik nähen ihre Lippen zu - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRjRUR3JVc2s4dGpiUmo3UldlbEM1eFh3SDNzN0FaX29GOUlZVUxzQ1ZfMlluRnpFNnhHUWo2bm5KUnIwNld2Rmk5SWNldHd4TjRRSFRMLU9VaVVSWS12VzU1SDlCckV0b0V1ZUpnNzM3Tmc0YmJEX2cycXlnb1JLQ0FaQmYzWXIyQ2lLQ2VScl8xNHpaSGllT2VTT3Awc1gtUzJwd29qTzhSRkl3Nl9tWU9pN0lxb0lRenFBSDBTOVpSOENmYlJGakdaOFdiNUJDZWJyazhhYTRYMmZuNDFnZ1FBY3ludw?oc=5",
+   "pub": "Tue, 28 Jul 2026 23:53:00 GMT"
   },
   {
    "t": "Nach Massenprotesten: Iran richtet zwei junge Männer öffentlich hin - Euronews.com",
