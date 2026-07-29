@@ -1,57 +1,77 @@
 {
- "collected_at": "2026-07-29T15:19:54Z",
+ "collected_at": "2026-07-29T17:39:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8199,
-   "chg1d_pct": 0.08
+   "price": 0.8202,
+   "chg1d_pct": 0.11
   },
   "USDJPY": {
-   "price": 163.866,
-   "chg1d_pct": 0.06
+   "price": 163.849,
+   "chg1d_pct": 0.05
   },
   "GBPCAD": {
-   "price": 1.8719,
-   "chg1d_pct": -0.26
+   "price": 1.8743,
+   "chg1d_pct": -0.13
   },
   "AUDJPY": {
-   "price": 113.501,
-   "chg1d_pct": -0.81
+   "price": 113.575,
+   "chg1d_pct": -0.74
   },
   "EURUSD": {
-   "price": 1.1386,
-   "chg1d_pct": 0.15
+   "price": 1.1395,
+   "chg1d_pct": 0.22
   },
   "GBPCHF": {
-   "price": 1.0893,
-   "chg1d_pct": 0.04
+   "price": 1.0908,
+   "chg1d_pct": 0.18
   },
   "WTI": {
-   "price": 85.19,
-   "chg1d_pct": 7.48
+   "price": 84.54,
+   "chg1d_pct": 6.66
   },
   "BRENT": {
-   "price": 90.67,
-   "chg1d_pct": 7.82
+   "price": 90.38,
+   "chg1d_pct": 7.48
   },
   "GOLD": {
-   "price": 4068.1,
-   "chg1d_pct": 0.79
+   "price": 4095.5,
+   "chg1d_pct": 1.47
   },
   "SPX_FUT": {
-   "price": 7411.25,
-   "chg1d_pct": -0.72
+   "price": 7417.0,
+   "chg1d_pct": -0.65
   },
   "NAS_FUT": {
-   "price": 27638.5,
-   "chg1d_pct": -1.02
+   "price": 27668.0,
+   "chg1d_pct": -0.91
   }
  },
  "headlines": [
   {
+   "t": "Iran lehnt Hormuz-Abkommen ab und greift US-Truppen in Jordanien an - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLcUc2YXE2ZVM1cUpQVFN2WDdTUHZ6X1B2bXJUMXc1VnBrMk9tRG9aSVdBdzVZOVJCYkR1eG4tLW9NdEhzSk9HU3BHZ1ZOUTkya3BjS2oyR1B6Y2pJSkhqa1pXNWEwcDQ?oc=5",
+   "pub": "Wed, 29 Jul 2026 15:48:15 GMT"
+  },
+  {
+   "t": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
+   "pub": "Wed, 29 Jul 2026 14:44:00 GMT"
+  },
+  {
    "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
    "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
+  },
+  {
+   "t": "Iran will erneut Benzinpreis erhöhen - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jV29fWHNURk9QNkRMT242S2Z2eldISVRDUlJfYzhVM2RTcFVwMkRKQVgwVjlkYWhDZTg3ZnJBb2FOX1dlTmFVTDk2bThvMGpaTjVNZFVlaWh2OXl6Q2g2NkE2a0Z4Rk9fVlE5cFdRclVfMzdIQWlxYWhVandMMkHSAX9BVV95cUxNQ1JaM2h3Z2p3dHRlT1BEbzFPZHNOclpWVEo4b3pBSzgyMXhxajZXZTIyZUhtaTVMOTdXV2luSGJPSEpQNWhHaEs4N09ZdTE0dzFWNU00S1VGNHBrQ0JOdVBDNEJKVmVpV2Ffa04wQ0U1M2luejBrMXQ2S00tdXY4?oc=5",
+   "pub": "Wed, 29 Jul 2026 16:39:18 GMT"
+  },
+  {
+   "t": "„USA werden sie ordentlich verprügeln“ – Trump kündigt Vergeltung gegen Iran an - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSFctZzZaanRCMnR1SDN6b3Rpd2FYRVJpdGRQYkJtaEFiSTZoSzd5S1I0UkVtSVptR1VNMlZURGxTdjBkcmlYTkhYakFwZnBWQWZhM1RzU0ZUclF2cjVIQmlBT3dxMHU5MEVDdHRLYmNSd2taQmNZcFBCdkZkRUVMTi15ZXBab1o3MktIX3BrVDlQQUtuMTU4WUw0NHFMb1ZqVFhVOVBRQXFuVDFLdFFOTXJreTlrS1JmSmc2Z0Y2VUxqSW54WmxidTBqRWhCRWEtbWF2UVF2amYyS21taWVWQms3TWdCZmNSSTdvcGhsQm02VkZxNkFEN21FQmlJZw?oc=5",
+   "pub": "Wed, 29 Jul 2026 14:35:23 GMT"
   },
   {
    "t": "Iran greift US-Stützpunkt an - tagesschau.de",
@@ -59,24 +79,14 @@
    "pub": "Wed, 29 Jul 2026 03:35:23 GMT"
   },
   {
-   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
-   "pub": "Wed, 29 Jul 2026 12:59:27 GMT"
-  },
-  {
    "t": "Konflikt im Nahen Osten: USA melden »Überraschungsangriff« aus Iran – und attackieren selbst Ziele im Irak - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE5fa2FIeE1qLWdmbHdPSnNRc2VIb1pXWkpwSF93cElOLVp3aDM2OFFHMUUzRHRmMUJWZkw5bTcxVm5CYXh2TkFHLVpmS2x2dHMyalhKNnl1REJIdy1OOVpNeHVveENneXV2NnQtR2UxMl9oRmJjZ0JHcFVVZ3BYWERjZ2NrYS1YYkx1VWZiOW1tRFN1S0tobEtFU1BxZWVGV0RBMGtjZ1dzSXpfLV93X3RiYUFPQU90eXA2ZDEySlYzOEdDWVRFbU5faWZxR25JeWc?oc=5",
    "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
   },
   {
-   "t": "US-Militär greift mit Saudi-Arabien Ziele im Irak an - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORE9Tc1VLbFpBam1SOU8wQldKR3FZNUpwZTdIeEY4N1Ayd3h5UmtGWTY1SXV2U0pZWGV6Y1g1eHg5cVZ6ZVdHclQ0aFIxQ1ZQYnUzOFhwenR2SkZIa2l4RGNIXzBpVEtlQ2RiOUhpQldfTHg2aEY1WDJrQXRXNHFsMWZOLWVIT2dNWmN4U1FmbHpTUUs5V2ZVTVBXRExVSzhKTDA2VHRlc1c0eENYcW55dFdZQ0RPY2NrbmVxUtIBvAFBVV95cUxQdXhFZFFWSFJIZFpLXzBWMmJQbFVEVkRXdGVRNC1FSndHNHRzUnB0TVZieC1KdTRLZ05FTWpTUjd3MXJVWVFKeE9LWmpDZHJKR29wUVVvVFlnU1lSaF9IZDItRHRYSXdNZHppVHNIcURkVW81bml5eF9tczczYUVOQldub0w5bm8xR1U1UmlOSGJnV2JXVEhuX3pobzhSV2dNeWxOSlJMVHAxY1laODM0S1lRODNBUUV1SGJicg?oc=5",
-   "pub": "Wed, 29 Jul 2026 08:29:08 GMT"
-  },
-  {
-   "t": "Fed-Zinsentscheid heute: Wann live? Prognose und Uhrzeit im Überblick - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemlkTDJrREMwMWI2XzNQTUdLSGJCSDY0QWgxcXAtdXZzcHZYdkRubGtRVEpnU1FVc3o0djFkenZPYmhMUDNxZG5jY09XOWotdGEyaUwxbnN1ak4tN1hLTGdySHhfLU1jdWJQcVNxazFMTXF1a3ktaUVJd3hscHlJdDhZdGN1bk1keGZMZVQ4cUMzVGxTbEZLTF9pZlRYa0VGXzV6ZFBhMW50cUo1T2ptZnQ1QTJyQlZSS3lEMjZWbWlaUQ?oc=5",
-   "pub": "Wed, 29 Jul 2026 07:50:00 GMT"
+   "t": "US-Basen im Visier Teherans: Trump will Iran nach Angriffen in Jordanien \"windelweich prügeln\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd09VdGxPRWE3WmNycFVQcDBzVzY4Ym05anN0WTZzMFhXbENfM1FsOENTN05ETTJobnpzelZxY21CX3BWaGRwUVM4VlNGMkdpQ3p3clhYRS1jV0hBZHpFX2ZQSWpPLUFzQlJRNlVNMDY5Slg4Rjg1aUVkX1FFM0lCdGtSanRvd2k2S1VtV1RoMDVfWF9WSWl0U1E3RV9uWm85b2xvdmltZ0lYTmNi?oc=5",
+   "pub": "Wed, 29 Jul 2026 13:59:09 GMT"
   },
   {
    "t": "Ukraine- und Iran-Krieg wachsen zur gemeinsamen Krise: Das sind Trumps Probleme im Kaspischen Meer - Frankfurter Rundschau",
@@ -84,29 +94,19 @@
    "pub": "Wed, 29 Jul 2026 10:37:10 GMT"
   },
   {
-   "t": "Fed-Schock voraus? Citadel sieht Leitzinserhöhung kommen - aus diesen Gründen - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEIyYlFueEFwSXhSaGtTbDlEWV9pT0xaX3JNaktyLTZYNjhCSkN4OFRYN0JITE1seW1wcjFnM3hNZEdsSWNqZWlEZDJ4QnVlaG9wR3FkOFF5WUdGenlBT3lCT2RmdW1Db2tCLTRNM2lIMWp2WUhOS2xra1ZLVGpsSlM1NHpMNy1jR1JiTkZ0dzlOdnBPX2gxSDFqSFVQZUNib2xPN0V6S05hYTZ0UnFGbGxaRENuT0k5MHFLNjhJbDIzM2JaaVBZeEVlSDdSS3ZrMHMwelBhcjJ4UdIByAFBVV95cUxPN3JwMnBTWThQSWkxek5Hd1ZfMTdHeW9TT0llUTFvcEQyYXMwcThmWWZ5eFF6LVY4WXZ3WHh2dGt0blJ3bUQ1N254emt6Smp1djNsQzFBTXlETmNuek95cy1BU1ljVHdhVURoTTRQOHN5S2dhZ0tMYVdnamRzLTd3R1lLWkhadmZEYlFaY1VLN3gwb0xjdWRORnVrcGQ4VmJHMGdraTl6NlItZUxHanE5UDktREh5Qkh2blJzM1ROUFlQNzFyd3dYLQ?oc=5",
-   "pub": "Wed, 29 Jul 2026 12:30:00 GMT"
+   "t": "Fed-Zinsentscheid heute: Wann live? Prognose und Uhrzeit im Überblick - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemlkTDJrREMwMWI2XzNQTUdLSGJCSDY0QWgxcXAtdXZzcHZYdkRubGtRVEpnU1FVc3o0djFkenZPYmhMUDNxZG5jY09XOWotdGEyaUwxbnN1ak4tN1hLTGdySHhfLU1jdWJQcVNxazFMTXF1a3ktaUVJd3hscHlJdDhZdGN1bk1keGZMZVQ4cUMzVGxTbEZLTF9pZlRYa0VGXzV6ZFBhMW50cUo1T2ptZnQ1QTJyQlZSS3lEMjZWbWlaUQ?oc=5",
+   "pub": "Wed, 29 Jul 2026 07:50:00 GMT"
   },
   {
-   "t": "Erhöht Warsh die Zinsen?: Selbst Trump weiß nicht, was die Fed als Nächstes tut - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGw4My1kWmRhQURyZWh5dTNHSVZPUV8zQnJNREZGal9lYUI2ZnMtYjl2NkVTeGFGOG5LUm96SEJ2ZWVYMEhnSWRCSE91VDRZVklvekpkWXRKRkJaT3J3QThPOXp3ZENwNGViM0VCdFJMel9LWXZpQ2RxbW1LbGFVZGU3TnVyQUc3NksyN2JkVnZQbWVXREJCaXRWdm9zc2MwQ3dZ?oc=5",
-   "pub": "Wed, 29 Jul 2026 12:06:14 GMT"
+   "t": "Fed-Schock voraus? Citadel sieht Leitzinserhöhung kommen - aus diesen Gründen - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEIyYlFueEFwSXhSaGtTbDlEWV9pT0xaX3JNaktyLTZYNjhCSkN4OFRYN0JITE1seW1wcjFnM3hNZEdsSWNqZWlEZDJ4QnVlaG9wR3FkOFF5WUdGenlBT3lCT2RmdW1Db2tCLTRNM2lIMWp2WUhOS2xra1ZLVGpsSlM1NHpMNy1jR1JiTkZ0dzlOdnBPX2gxSDFqSFVQZUNib2xPN0V6S05hYTZ0UnFGbGxaRENuT0k5MHFLNjhJbDIzM2JaaVBZeEVlSDdSS3ZrMHMwelBhcjJ4UdIByAFBVV95cUxPN3JwMnBTWThQSWkxek5Hd1ZfMTdHeW9TT0llUTFvcEQyYXMwcThmWWZ5eFF6LVY4WXZ3WHh2dGt0blJ3bUQ1N254emt6Smp1djNsQzFBTXlETmNuek95cy1BU1ljVHdhVURoTTRQOHN5S2dhZ0tMYVdnamRzLTd3R1lLWkhadmZEYlFaY1VLN3gwb0xjdWRORnVrcGQ4VmJHMGdraTl6NlItZUxHanE5UDktREh5Qkh2blJzM1ROUFlQNzFyd3dYLQ?oc=5",
+   "pub": "Wed, 29 Jul 2026 14:40:00 GMT"
   },
   {
    "t": "Krieg im Nahen Osten USA wehren „Überraschungsangriff“ des Iran ab – und greifen parallel Ziele im Irak an - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQenhJSUQyVDR2Qy1HQ3pXS05BMkhqcHZncTVpT0d4dDY5RXFqcDhxaGxEaTlSdlF0R3lJVVJxWVFEajd3MEpjVVBGZWg0Vk1zNFRFVHZUV2c3bGh5WHJKc3JTdHJuWnIzaGlZN1BvYmxoSE5FNUZCUnpfQU5ZbEotT1p3QjZ0Rzl0MHRTUHRSS1Qyb0k5c1hKOFg5QUJmb3U3NzdCM0thbW5Db3h4N2E0c1dJWHBxamFZMEJYSFJ1ZU5oVW1VUmhiYU4xbTQ1YmNyQlNWMEJBMUNpWnRlaC1VU29TUUZDaVg4T3NRcFdFWS1LR2M?oc=5",
    "pub": "Wed, 29 Jul 2026 03:26:00 GMT"
-  },
-  {
-   "t": "Iran greift US-Stützpunkt in Jordanien an – Washington reagiert mit Luftschlägen im Irak - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZDE5OHo5QkM4cXBtR1lxYVFhQ1h1UU5WLWdycUhkdVJLOWJlcHIzcGxXdm4wZ2hNcTNKRTh6eldEeGhKcmVRSnBYNG9Jd3ZZYjFIelZ1QWxLVmFzM3loQkUxNl9FUTdjbXFHRTJaS3ZNaHJaMHB5U2g3Q0xyTTRONHpWdVk4X3JKcm9zRmdJcWRoNFRlUDk2ajBKenVjUlRiVVd3VUZUMHk3SXdsLTlSd0VZVEs1NTdZaV9GNnRnc2FxMGcxMS1HemFGRUd2UQ?oc=5",
-   "pub": "Wed, 29 Jul 2026 08:12:00 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVV9GaUY4SVdqX3ZYR3dxTUVYTjJYYTlPU0loaVpGbnNPTl9zUW9zTlVvbE5qYXFBenNVOWJvUlQxazJKVDJRekJ6NzlvLTYtWVFNa2hFUGRiXzlwQ25sVF9ZelF4cWc0Z0Z2Vnp0UHlMbm1pby1vLWdYR0JHY0JrandNZU1wN0cyUmpmT2lpaTZ1aUE4SVNlVlVXVTFxT0lmdm52RGpmTFJkMXg2dFlzSVpPNld5TGVBdVFFMm9sQnJoeXEzb1JKbWhlR3VpeUU?oc=5",
-   "pub": "Wed, 29 Jul 2026 04:12:17 GMT"
   }
  ]
 }
