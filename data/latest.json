@@ -1,62 +1,72 @@
 {
- "collected_at": "2026-07-30T03:33:27Z",
+ "collected_at": "2026-07-30T06:42:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8153,
-   "chg1d_pct": -0.51
+   "price": 0.8158,
+   "chg1d_pct": -0.45
   },
   "USDJPY": {
-   "price": 163.524,
-   "chg1d_pct": -0.21
+   "price": 163.574,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8744,
-   "chg1d_pct": 0.02
+   "price": 1.8745,
+   "chg1d_pct": 0.03
   },
   "AUDJPY": {
-   "price": 113.7,
-   "chg1d_pct": -0.51
+   "price": 113.679,
+   "chg1d_pct": -0.53
   },
   "EURUSD": {
-   "price": 1.1455,
-   "chg1d_pct": 0.6
+   "price": 1.145,
+   "chg1d_pct": 0.56
   },
   "GBPCHF": {
-   "price": 1.088,
-   "chg1d_pct": -0.07
+   "price": 1.0882,
+   "chg1d_pct": -0.05
   },
   "WTI": {
-   "price": 83.44,
-   "chg1d_pct": -1.21
+   "price": 85.8,
+   "chg1d_pct": 1.59
   },
   "BRENT": {
-   "price": 89.24,
-   "chg1d_pct": -1.65
+   "price": 92.78,
+   "chg1d_pct": 2.25
   },
   "GOLD": {
-   "price": 4113.7,
-   "chg1d_pct": 1.96
+   "price": 4092.8,
+   "chg1d_pct": 1.44
   },
   "SPX_FUT": {
-   "price": 7371.0,
-   "chg1d_pct": 0.27
+   "price": 7362.25,
+   "chg1d_pct": 0.15
   },
   "NAS_FUT": {
-   "price": 27477.75,
-   "chg1d_pct": 0.5
+   "price": 27466.0,
+   "chg1d_pct": 0.45
   }
  },
  "headlines": [
   {
-   "t": "Fed: US-Notenbank lässt Leitzins trotz Irankrieg und hoher Inflation unverändert - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEhKSHBoX3dSYUY5TENkemVkampHbkg3WXEzUTBZSm5oOEF3YXRYRDE2eE4ydHRDYWF3aExEbFJldjhJLVBDQ0Q5Q2lYVERfcEJfS25DUTNFUk1WNGRVeXgzbTEyVW4tbVdQcDRSMUR6SlE5SkFxNC1TWnNCaWRRbklGT05LTml0blhfSDlFem5meGJkbVJVOWREaEpuWVZzdEtNX0dIbUU?oc=5",
-   "pub": "Wed, 29 Jul 2026 18:06:00 GMT"
+   "t": "USA und Iran starten neue Angriffe – Saudi-Arabien plant Allianz für Rotes Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUZiMkh6RmctSy0zVU5PVVZvbWJLeXJobTk3c05kNk5YMWRfZDUyM0I2S2d1Si1PMHZMR1F4V0NJUWVJVV9UR1N5eEQ0c0pVdjRDcVluZ3B0YVVqQ3l0eXcyaVZzc1V3b1VBM1dseGJmN1Nmb0FxUU8yRGx2MmhGOVhlR0ljNVpHUE5uM3Nqb2tVd3JsNU9oZ21teldvSTNYUFBCa2xzbzBZRDlBcnI4TC16Y05IQktEVzFRdHZvVGxGcEpkcnU2UXVSTUdLT3VWYTNDRXBPUl9ubVVrcUJ6cEFB?oc=5",
+   "pub": "Thu, 30 Jul 2026 02:42:00 GMT"
   },
   {
-   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
-   "pub": "Thu, 30 Jul 2026 01:00:38 GMT"
+   "t": "USA bombardieren den Iran – zwei Erdgas-Schiffe in Ägypten brennen nach Drohnenangriff - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWTJKV2VvdWhZTzBLd1Y1UDhoSW9GWGhRMl9jY2FwQW14U3F2d3ZScmwtZG5QLXZSQ2NEclRmYWFQS1Y2b1ZmdlYxY2tENHlZaG5EWEF2elpBcUNsMUllYmNhWXFTRjVFb2QxX2tjczc1ZUFuT3RQNDNWR0ZlZWg4Z3N6VjdvbnNNWmhkTFRnMWdUQXRSdW1rT0J3MDFfd1ctNUswM1RaWkJ4aHVpQm1TMGpjelVtcThybWVlRzNDTEtkdzZkNjl1enJRY0FyZnZINUpyd0ZHQ1hrTW51Qnp2YXJmOHN2WnZYaWFKbzhXOA?oc=5",
+   "pub": "Thu, 30 Jul 2026 05:10:28 GMT"
+  },
+  {
+   "t": "US-Zinsentscheid: Die Fed hält still – und redet um die Gründe herum - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekVUT3FrU0FSWENiLWVDM1YyR2dGWl9QSlVlcUZzQlJDWXdoV2FzeUhiTWxTQTJHd3kxMmpmRDJNNi1FWFRfZWhQZjNMQjNKVGRacWpnQUxCUzB4TWtISHBCR19zZ1JrUElfcGZ1alpQOXptTEc3RmIwWVNiaXVsNDJsaVE3VUJOSGVQXy1LYnNDV2VvU3NLcjg1V0gyQTJmZjVLTkRBbmhmVDJLbE84d0xaSVBwN043Smc?oc=5",
+   "pub": "Thu, 30 Jul 2026 04:05:59 GMT"
+  },
+  {
+   "t": "Neue US-Angriffe auf Ziele in Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SbjRabC0weC1icG5KVmJ5VTVRUWduUWdZck5xMWlQeG5YZEpXdnNpdWRKMDdfbEF1RmZyQnRmNkwwRHFPdG1Vb21BNG56VGNnVkFtbHpYUUxIODlqTmhr?oc=5",
+   "pub": "Thu, 30 Jul 2026 03:43:21 GMT"
   },
   {
    "t": "Iran lehnt Hormuz-Abkommen ab und greift US-Truppen in Jordanien an - Euronews.com",
@@ -64,19 +74,19 @@
    "pub": "Wed, 29 Jul 2026 15:48:15 GMT"
   },
   {
+   "t": "Der Iran-Krieg erreicht erstmals das Mittelmeer: Vier Tabus sind gefallen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzFFbUVNMjRaS1VwMWxBdFkwcFdETEFiQTAwYlVXVGNQRzllUEVOcFR3Q21fRjZfLXItb2NmU2pSczFELWVFRzRBNGg1OXZUSEtLQmx2aDdCejdnaE5HWmNIWFJ0T3AzX3pJVGduYXZSanZyd3VQUnpVSEZjMWkwdzZqWl9UT2FnU1k2REkzZWZvUnZPcW9DVzZVZVRBVDVpbEc4a2QzVzdhNFk3S0gwODJFSTlBelNBYTBjZWt3?oc=5",
+   "pub": "Thu, 30 Jul 2026 04:00:47 GMT"
+  },
+  {
    "t": "Fed lässt unter neuem Chef Leitzins unverändert - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2RjMUNoRS1SSkRFYW5xekpXejF1MGhLZ2VIcHQtVUdBQ0hBekVkWDB3OFdaYTR1aXJxSmxPNk9PRHhYYV9nbWxtbmdwcnBoOXlsS0JLQmFTMHZneDlyUlBaRzdvRHFXN3Y0c3FOV001T2I3VXlILTdiZnZNeHdiQnBHQm5IcHV3UTVmdFRrT2NsRFdNT1JwQzZpYXpKWk5oM1U0NWhpSVJCNDlz?oc=5",
    "pub": "Wed, 29 Jul 2026 18:05:12 GMT"
   },
   {
-   "t": "Börse aktuell: Fed-Zinsentscheid und Goldpreis Prognose - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalA0YnRuZTNOQ2hGOXF2Wnkxd2VVNTJ4SFQ0dmVOZjJDTTU3T1Bhc3NUMHBfVm1HQWNCaHhZQWktNXl0X0NGVm9hSXhSbDBaUXlfQV9yTWxPTVlKcnlCNHBWbDQxMWV1TDFGLTE5Szlwd3ExMHE1Q21lUDdnN21weXVBZnFXNHc?oc=5",
-   "pub": "Wed, 29 Jul 2026 14:44:00 GMT"
-  },
-  {
-   "t": "Fed-Entscheid: Erneute Zinspause bei US-Notenbank Federal Reserve - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTERNSi1yNzM2Vy03UGRBaXNZbHFNY2VvMUliaFIyNDJmYWlaV090ZWlpeVNwOW00dHJuSFFQRFpoUlg4NjkyQ2ZHc09QOHBXeVp0RkNnejliWU9IMDZZdWI5c3FVVmlIVV9UUkJCZVpva2ZRYW9SU2RTTmk3UVVBU24yTDkzLXVka3Q3bTBuSWFTdEdjelJma3FmSGIyUXdpMmhaS29QZDFxQjI4QXZDMDBBa01qWWtzQ2c?oc=5",
-   "pub": "Wed, 29 Jul 2026 18:05:00 GMT"
+   "t": "„Im Iran wird viel passieren“: Exil-Iranerin nennt Pahlavi „Witzfigur“ und sieht neuen „abgedrehten“ Iran - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUNldmVWVUM3N192RzFmbFJidzVyclBZX2F0d0w1WnNXVGZiQlJTY0tEZkNmWk1NSHhldzhGS3FjdUZQdm41WjNsZllzbjBhaTBiRnlRaDNkRllxSkFMZDB4YlVxVHF5X2hPa0NCV0VDLXNucGoxOC1iRHl1emtKT3YxaDlEWmljTkc5UDVyU0JJQ0w2dEpSV3pzc3RFZTJKSEVjellMSGN3RUYydG9sclczVmlDbzAwQ3U2Z2tiRjhhdzNsNzdSN0dCYjh1MmkzRE1JeER5Zk0?oc=5",
+   "pub": "Thu, 30 Jul 2026 04:19:28 GMT"
   },
   {
    "t": "Ukrainischer Angriff im Kaspischen Meer: Warum die Ukraine einen iranischen Frachter angriff - DIE ZEIT",
@@ -84,29 +94,19 @@
    "pub": "Wed, 29 Jul 2026 17:48:59 GMT"
   },
   {
-   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
-   "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
+   "t": "+++ Nachrichten im Iran-Krieg +++: US-Militär startet neue Angriffe auf Iran - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3UkI1TjRmdGV6T1ZtQVNYVXkyRW9ITG9tREg2NzQ3bDg3dlJqVGZZQThpUW9pNlc4YTFvb0hVR1pkVmdlSFg3ODhfZGJtZk1RWVYyOXVsMVFTYm5VRTVSWHln?oc=5",
+   "pub": "Thu, 30 Jul 2026 06:14:27 GMT"
   },
   {
-   "t": "Fed-Entscheidung gefallen: Drei Mitglieder wollten die Zinsen erhöhen – sie wurden überstimmt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbng1bDBNUG5PR04zRExuQkNXQ01xenl6eVJSX3M2Z09EWEg3aTQ2ZDc3S2s4T21aZjNhWXV6dlhCWUhRR1N2NTZ6cHZ5WEY3NHpCcHp1d3BSclBBQk5Xc3R2V0dsbC00aV9XWjk1QlEtbTBiY2hPN0RoUGxOaUpVN1Z2RnVWSXNscm5OLUpYQmFaQ3dqX3BoeVpDY0NaVE5PQnFRTlBFNFphaWxLTTA0RlVKd1NfdS0yVElPNThXamFTOXhUMFFsVw?oc=5",
-   "pub": "Wed, 29 Jul 2026 18:44:00 GMT"
+   "t": "Naher Osten: Rückzieher oder Taktik? Trumps Kalkül hinter der Angriffspause im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOFRQQTNDcG1GZkoxd0gzV0NTMDY3REdWN3ptbHViZXJCVkptU3JsVS1PbzVCbkxIN2JfY052N3VIZFZxVS0wVW93c2VPdVYzbUoyNHhRN2hKYjBXcV9hQ2lkRkhMOFg4MFpkZTBnRlIxenNhUkdvUnBsaFN4XzYxcU9DQ0Z0SmQxYzloSmdrZm9kaVFpSGMyMjFkbzhBbVVZSzFtM2c0Njc3eFNzOUU5LTZuMkd6M0xfSENiRnpQUERBd0JHa3JXbURpYWZjS1hYUGd6VjIwN2QtQWE4R2NJbzI0bm1YWFBZ?oc=5",
+   "pub": "Thu, 30 Jul 2026 05:30:38 GMT"
   },
   {
-   "t": "Leitzins, Iran-Krieg, KI-Sorgen: Dow Jones fällt so stark wie zuletzt im April 2025 - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGVTOUZCeE9ZSFUwbWhscW9FdllzMlNJYUtNd09YLVQ3Q1NlSTNaSkVXcHNoNC1QV0oybl9VWTFjcTZQRl8wS3M1UW9sWVc4ZWRxNzRwTUhEckdlU29zUDdFUGd2cDFsSFBvaTE1SjY0dGhWVnVnSm5yOHhqX1J5V3V4aTZwbGNvWXRERlplcVNEeVR5YVhkYkFISTAwb2c?oc=5",
-   "pub": "Wed, 29 Jul 2026 20:58:12 GMT"
-  },
-  {
-   "t": "USA und Iran starten neue Angriffe – Saudi-Arabien plant Allianz für Rotes Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUZiMkh6RmctSy0zVU5PVVZvbWJLeXJobTk3c05kNk5YMWRfZDUyM0I2S2d1Si1PMHZMR1F4V0NJUWVJVV9UR1N5eEQ0c0pVdjRDcVluZ3B0YVVqQ3l0eXcyaVZzc1V3b1VBM1dseGJmN1Nmb0FxUU8yRGx2MmhGOVhlR0ljNVpHUE5uM3Nqb2tVd3JsNU9oZ21teldvSTNYUFBCa2xzbzBZRDlBcnI4TC16Y05IQktEVzFRdHZvVGxGcEpkcnU2UXVSTUdLT3VWYTNDRXBPUl9ubVVrcUJ6cEFB?oc=5",
-   "pub": "Thu, 30 Jul 2026 02:42:00 GMT"
-  },
-  {
-   "t": "Fed: US-Notenbank lässt Leitzins erneut unverändert - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHVLX0Y2ZjlsTVRqQVFybHk4cmJoR01rTmxBMElBSnc3NWFZU3BBTEJhMnpFSl9ZWThYX3JsRV9LTWpKVlN2QzBwNDBsYmRWaERWRUoxWWdfTm42NmNUUzJuX25QMS1lamlZbWw2ZFE5MHhzaURUYlhRZzlWMkRhbHpoZWhMdTFxRDNiU0U3T1hZSFdENUE?oc=5",
-   "pub": "Wed, 29 Jul 2026 18:23:01 GMT"
+   "t": "Fed: US-Notenbank lässt Leitzins trotz Irankrieg und hoher Inflation unverändert - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVEhKSHBoX3dSYUY5TENkemVkampHbkg3WXEzUTBZSm5oOEF3YXRYRDE2eE4ydHRDYWF3aExEbFJldjhJLVBDQ0Q5Q2lYVERfcEJfS25DUTNFUk1WNGRVeXgzbTEyVW4tbVdQcDRSMUR6SlE5SkFxNC1TWnNCaWRRbklGT05LTml0blhfSDlFem5meGJkbVJVOWREaEpuWVZzdEtNX0dIbUU?oc=5",
+   "pub": "Wed, 29 Jul 2026 18:06:00 GMT"
   }
  ]
 }
