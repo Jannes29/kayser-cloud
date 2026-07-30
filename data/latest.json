@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-29T23:16:38Z",
+ "collected_at": "2026-07-30T00:14:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8138,
-   "chg1d_pct": -0.69
+   "price": 0.8137,
+   "chg1d_pct": -0.7
   },
   "USDJPY": {
-   "price": 163.358,
-   "chg1d_pct": -0.31
+   "price": 163.255,
+   "chg1d_pct": -0.37
   },
   "GBPCAD": {
-   "price": 1.8764,
-   "chg1d_pct": 0.13
+   "price": 1.8749,
+   "chg1d_pct": 0.05
   },
   "AUDJPY": {
-   "price": 113.669,
-   "chg1d_pct": -0.54
+   "price": 113.688,
+   "chg1d_pct": -0.52
   },
   "EURUSD": {
-   "price": 1.1472,
-   "chg1d_pct": 0.75
+   "price": 1.1471,
+   "chg1d_pct": 0.74
   },
   "GBPCHF": {
-   "price": 1.0879,
-   "chg1d_pct": -0.07
+   "price": 1.0875,
+   "chg1d_pct": -0.11
   },
   "WTI": {
-   "price": 84.41,
-   "chg1d_pct": 6.5
+   "price": 84.26,
+   "chg1d_pct": 6.31
   },
   "BRENT": {
-   "price": 90.4,
-   "chg1d_pct": 7.5
+   "price": 89.94,
+   "chg1d_pct": 6.96
   },
   "GOLD": {
-   "price": 4152.5,
-   "chg1d_pct": 2.88
+   "price": 4138.3,
+   "chg1d_pct": 2.53
   },
   "SPX_FUT": {
-   "price": 7373.25,
+   "price": 7373.5,
    "chg1d_pct": -1.23
   },
   "NAS_FUT": {
-   "price": 27473.5,
-   "chg1d_pct": -1.61
+   "price": 27481.75,
+   "chg1d_pct": -1.58
   }
  },
  "headlines": [
@@ -54,7 +54,7 @@
    "pub": "Wed, 29 Jul 2026 18:06:00 GMT"
   },
   {
-   "t": "Iran lehnt Hormuz-Abkommen ab und greift US-Truppen in Jordanien an - Euronews.com",
+   "t": "Iran lehnt Hormuz-Abkommen ab und greift US-Truppen in Jordanien an - de.euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLcUc2YXE2ZVM1cUpQVFN2WDdTUHZ6X1B2bXJUMXc1VnBrMk9tRG9aSVdBdzVZOVJCYkR1eG4tLW9NdEhzSk9HU3BHZ1ZOUTkya3BjS2oyR1B6Y2pJSkhqa1pXNWEwcDQ?oc=5",
    "pub": "Wed, 29 Jul 2026 15:48:15 GMT"
   },
@@ -99,14 +99,14 @@
    "pub": "Wed, 29 Jul 2026 17:50:00 GMT"
   },
   {
-   "t": "Der US-Leitzins verändert sich nicht: Fed-Chef Kevin Warsh schiebt eine Zinserhöhung weiter hinaus - NZZ – Neue Zürcher Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW10R0x4MzBVd2UxZGkzRDNRTi1RR0Vza193Z3JhaVZxR2tJaTJuUldoZE9WWkJsRzU2eUo0OFpfbWxSbUNfcVFSc3Jsa0tFbmY4OEx1dlRPZDFyXzZSd0lmWFBZQllobHBYMk9raGsyOERKUWJzdDVUWF93UER0QUJzeldycTd3bExCdVIyQUtQdGYwNjlUdVN4eEVmcEVVazJfWG9abzRVSDYzOE5MZEhVQQ?oc=5",
-   "pub": "Wed, 29 Jul 2026 22:25:27 GMT"
-  },
-  {
    "t": "Iran will erneut Benzinpreis erhöhen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWxtSjlHem5KVlNma1paN2dFZnFPakFkQmNyM0xTelc0czJDOVZybkIyU2V6Si02SW9JQ3RQRmNhS0pVOTRVSHB3NW5HdHVTWXhVbDhwdFVTNFhvS1RFUDZBNG84d1hTZGNiRm1Nb2h3R0YtdXRQWnBlMkd1eGNXU0RVYXpLTDZTRkotVk1qRkp5WHlrN0xF0gGXAUFVX3lxTE5EQ2ZfQzdEal9EYkh5eHRGUkJ6bWx4OXJIZEg3Z3VOYVdIQzNzdHNGbkhROXZldjAzNmJPa01LNUhpekNLandldi16a01feUd5cGl0bGZjU2dQd21mOG5oNExjeEpTamcxRTlSZElzQVY0MXFCZnFNQXltdkxKZlBpZHNsMmYtb01yUGtZbl9OLVR6Rm9DdUk?oc=5",
    "pub": "Wed, 29 Jul 2026 18:13:59 GMT"
+  },
+  {
+   "t": "Leitzins, Iran-Krieg, KI-Sorgen: Dow Jones fällt so stark wie zuletzt im April 2025 - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVGVTOUZCeE9ZSFUwbWhscW9FdllzMlNJYUtNd09YLVQ3Q1NlSTNaSkVXcHNoNC1QV0oybl9VWTFjcTZQRl8wS3M1UW9sWVc4ZWRxNzRwTUhEckdlU29zUDdFUGd2cDFsSFBvaTE1SjY0dGhWVnVnSm5yOHhqX1J5V3V4aTZwbGNvWXRERlplcVNEeVR5YVhkYkFISTAwb2c?oc=5",
+   "pub": "Wed, 29 Jul 2026 20:58:12 GMT"
   }
  ]
 }
