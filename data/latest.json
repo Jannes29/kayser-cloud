@@ -1,62 +1,62 @@
 {
- "collected_at": "2026-07-30T16:50:35Z",
+ "collected_at": "2026-07-30T18:47:30Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.805,
-   "chg1d_pct": -1.76
+   "price": 0.8045,
+   "chg1d_pct": -1.83
   },
   "USDJPY": {
-   "price": 159.588,
-   "chg1d_pct": -2.61
+   "price": 159.008,
+   "chg1d_pct": -2.96
   },
   "GBPCAD": {
-   "price": 1.8843,
-   "chg1d_pct": 0.55
+   "price": 1.8853,
+   "chg1d_pct": 0.6
   },
   "AUDJPY": {
-   "price": 112.08,
-   "chg1d_pct": -1.93
+   "price": 111.744,
+   "chg1d_pct": -2.22
   },
   "EURUSD": {
-   "price": 1.1527,
-   "chg1d_pct": 1.23
+   "price": 1.1535,
+   "chg1d_pct": 1.3
   },
   "GBPCHF": {
-   "price": 1.0836,
-   "chg1d_pct": -0.47
+   "price": 1.0838,
+   "chg1d_pct": -0.45
   },
   "WTI": {
-   "price": 83.86,
-   "chg1d_pct": -0.71
+   "price": 83.59,
+   "chg1d_pct": -1.03
   },
   "BRENT": {
-   "price": 89.54,
-   "chg1d_pct": -1.32
+   "price": 88.99,
+   "chg1d_pct": -1.93
   },
   "GOLD": {
-   "price": 4169.0,
-   "chg1d_pct": 3.33
+   "price": 4164.8,
+   "chg1d_pct": 3.22
   },
   "SPX_FUT": {
-   "price": 7434.75,
-   "chg1d_pct": 1.14
+   "price": 7456.5,
+   "chg1d_pct": 1.43
   },
   "NAS_FUT": {
-   "price": 28086.5,
-   "chg1d_pct": 2.72
+   "price": 28169.0,
+   "chg1d_pct": 3.02
   }
  },
  "headlines": [
   {
-   "t": "Iran- und Ukraine-Krieg: Ufert die Krise aus? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUldRbE9pQkh1WUIxemZTQURyM2NVT2EydHExdXhBUERUNk5Gam5nalQ1NXF2WXVKWGpMYkVQQk1FRXhVclFmTkJtYlhkY3ZpeThpNVJLVG1HX2hubkZEdWVUR21mVmdINE90NTFIYndmWXp5eHZrc2NLMzJkNzFmetIBgAFBVV95cUxPUm1ZNU84VWN2a2FJNWg1TnZfWHBRVVhlS3l1TXVDa01TY2o1SFN5b2lPSmIzRDZuLWp6T1JUdkw1SDZiV2padVkyejk1bG14VThzMWVYZ285bVJmUnZ4OTNpd2VObEg4SlkzWllONzlKZnhmUU5NN0RSUnlCUGc1UQ?oc=5",
-   "pub": "Thu, 30 Jul 2026 15:15:43 GMT"
-  },
-  {
-   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - Spiegel",
+   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2Vkellqb2hQOTVLSDg0YWNVQzFYY295ZHFRUXFFX21pRVBhODVrRnVGSTktVm5oN3VhZHJiU1B5OWNuZ29Wdkg0UjMwTl9EcVlWaEdsTmVtWFN6YUVTdEFZWjNQcHBpVldCX3NUdWthQThuZFpCMUVrRDlNUWNmTHlRNmp6UWs4Z1cta2VYSUw2UUJoaDhCdzNJYmstcU1FRWpFeWJFSDBUNFoxejAxVi1aTVRycEJMeXo4WEFhU1ZxWDhNQ0pkRTM5MmdyU1Rr?oc=5",
    "pub": "Thu, 30 Jul 2026 15:59:00 GMT"
+  },
+  {
+   "t": "Iran- und Ukraine-Krieg: Ufert die Krise aus? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUldRbE9pQkh1WUIxemZTQURyM2NVT2EydHExdXhBUERUNk5Gam5nalQ1NXF2WXVKWGpMYkVQQk1FRXhVclFmTkJtYlhkY3ZpeThpNVJLVG1HX2hubkZEdWVUR21mVmdINE90NTFIYndmWXp5eHZrc2NLMzJkNzFmetIBgAFBVV95cUxPUm1ZNU84VWN2a2FJNWg1TnZfWHBRVVhlS3l1TXVDa01TY2o1SFN5b2lPSmIzRDZuLWp6T1JUdkw1SDZiV2padVkyejk1bG14VThzMWVYZ285bVJmUnZ4OTNpd2VObEg4SlkzWllONzlKZnhmUU5NN0RSUnlCUGc1UQ?oc=5",
+   "pub": "Thu, 30 Jul 2026 15:59:51 GMT"
   },
   {
    "t": "Iran-Krieg - Hohe Öl- und Gaspreise treiben Shell-Gewinn in die Höhe - Deutschlandfunk",
@@ -64,14 +64,19 @@
    "pub": "Thu, 30 Jul 2026 15:26:18 GMT"
   },
   {
+   "t": "Ukraine- und Iran-Krieg plötzlich dicht beinander: Schlag schien möglich – was dahintersteckt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWZGeDlpcDh3NmN4alU1WEhwZ3RFbVVyalBMZ2dKbVRfWWhJbjROQ0JFdGc2dVJiT3BpLVREUzBfa2N3Zmw0RmVveW40NjV6bkRLZ1R3dGRsalRQcTZVdUhnN3E0dEczZk5DUk1tdzBJSDBubURqQmxLcWpILW5LSTdWOHZvS3V1N3I3LUItZnVkQ1FaUFVncnR0cG13ZmczUnRETFBtOUVxU0py?oc=5",
+   "pub": "Thu, 30 Jul 2026 17:00:00 GMT"
+  },
+  {
    "t": "+++ Nachrichten im Irankrieg +++: US-Militär startet neue Angriffe auf Iran - taz.de",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3UkI1TjRmdGV6T1ZtQVNYVXkyRW9ITG9tREg2NzQ3bDg3dlJqVGZZQThpUW9pNlc4YTFvb0hVR1pkVmdlSFg3ODhfZGJtZk1RWVYyOXVsMVFTYm5VRTVSWHln?oc=5",
    "pub": "Thu, 30 Jul 2026 06:14:29 GMT"
   },
   {
-   "t": "Ukraine- und Iran-Krieg plötzlich dicht beinander: Schlag schien möglich – was dahintersteckt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1BXRGtzOUdaNnBybmpjb1FmQWctT21WSzBreTJDS3ZSWVNIeEhYdUV0U0JMUlVOOE0yN1ZQUXZqSlFlYm5OUVhFVHRCQ3lidF96Mk1lRHdnOHVhQk5XZkc0eFVlYmNxT0M2SnFnMEdMRGdudlFYVUQ4cUU5WXFWRmNzYno5bEZGX2N1NjNYeENoREJIUlJRQWlpcjltSDdzcUpQZHlraVZBdzhR?oc=5",
-   "pub": "Thu, 30 Jul 2026 12:08:40 GMT"
+   "t": "BoJ Intervention: Greift Japan erneut am Devisenmarkt ein? Chancen und Risiken im Forex Trading - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNFBscklWX2xmS29ZM2kzcm43LUpPMmpEQTd1RlZnYXBOQ0RTNmVycEVfVXlXcmtPUC1PTm42djZ2OTVMandqdVBlUkNVUUFCVXpXR241TTZNNzdvZHJ3WktZY09PMUE5YlRweU1CQzNPQVM5R182LXpYcHcxUFhBbGU4R1hIcFQwcXdoelotQkFla2lqcTlSZDhEVmRuaG1lc1pBSktvcmllSkxNU2tBTmVZdVluVEJCU09RRHVDd2lOZ2JJQ1RnLUtWTy11NUNKN3RELV95TVJ5alU?oc=5",
+   "pub": "Thu, 30 Jul 2026 18:14:00 GMT"
   },
   {
    "t": "USA attackieren Iran mit massiver Angriffswelle - tagesschau.de",
@@ -79,34 +84,29 @@
    "pub": "Thu, 30 Jul 2026 06:34:08 GMT"
   },
   {
+   "t": "Deutsche Wirtschaft wächst trotz Iran-Krieg minimal - springerprofessional.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFdzTWZIWlZCUGFVTTVnajlDU25MVGEzaTU3VjFBSmZXbGkwNnVfMnByQ1ZjLTEzdXowNDZfVjFOd1VxbFVLTUxNRDQ0ck01aFRFaFVLT3RZbE5zNkxVdkN5SW5LV1p2ZTJ1dFRjNXdFTlhKTjJ0TGtQa2UxUVNLME5OT09QdHZWVzJWcHBUOEhUaHM0WDF3S3ZFLW1rLV9tMElneFJqMnpVZWFtZWJuS0UwT1lMR3lFVTFyQUpvaw?oc=5",
+   "pub": "Thu, 30 Jul 2026 10:41:34 GMT"
+  },
+  {
    "t": "„Kraftvolle“ Antwort – USA melden neue Angriffe auf den Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVdSbi1OSkk2eWFJMjJTMG40N2hvZERNckhGbER6MzNTZXdTaHNkb2JkNVZodU50SVE0Sk12OHVWMG8wWjdEQnJEcHVNY3dGUGZHR0tzenlvU3N3eVJMVUZBSVVYZE9CZF9DcGxOUlI2WmluVXRZS29SVlA4MHpjU0o4RFRGaFdpWE5QNjRYYjg3aWltTThLMlZlNl95VndDQURRSmpaRFVnNzF2MkVPZlFldGNteGxZMlhqREoxR25JUDM0RzNueFZqcUtHdVlpTDR0UDZaejZNaUZnYmxVQXNiTQ?oc=5",
    "pub": "Thu, 30 Jul 2026 03:53:35 GMT"
   },
   {
-   "t": "Die Eurozone wächst trotz der Auswirkungen des Iran-Kriegs um 0,4 % - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVJtSW9WQTFSN3J3dzZkQTdEUzNlZXI4X1lfQzFqblpjWi1WQy1hNWFST3RIdnpxZjFOaGlGV2lLVTAzRHRIOTVYRlpUaGdOZVpyaDI2WHB3MVp5Z1JCU1pSRkROUm9aY1hfSHduQzJHS2lQdXJWTFZEQXc3Ti1BSU9lbE44TERSUDNCdWhXUlIwS2g0RExkbF95QQ?oc=5",
-   "pub": "Thu, 30 Jul 2026 10:56:00 GMT"
+   "t": "(S+) Saudi-Arabien greift Ziele im Irak an – der Irankrieg wird zunehmend zum Flächenbrand - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzJpQUowbzRzQ1ZYeUZaYzREWC02QWJSZDR2WmJGWGdYaDFoalpKS3NJTkNZTFFwckV6Y0lpMVYtZGFvNnNEVzRtUDJVZWx4b184RDliaF9XTzJPbU5DU2xfRHVqVEt5WEkyYy1mQ0o3MjE0OG9xSGNSUzBDTU9PaDNUaFZqSXk2YmhBWGh2T2NYNEdwdkFmbkZiS2s2UmVBQ0Q1SU1hVmJtR0ZuZncwc0tKUDB1X0RMa1ZvMGFnbWY4ajlYaFI4QmtMVlR3UmxFNDAwb1JWRHN4c0VrOUh2eEx4RXE?oc=5",
+   "pub": "Thu, 30 Jul 2026 16:56:00 GMT"
   },
   {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
+   "t": "News kompakt: USA attackieren nach Pause wieder den Iran - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnlMalFEUGQ4QTJjZ0twbVU1ZW9Felo1ZVVaZGVHN0t5TnlXek9veHExM0dBU1VBYURwTGdaZVM1ekFjNTdHOWl5R1VOQzRmcm9VM1RuOTBDZUJCZjVpQ0VGZWItWW8yNXJoYTRMbGdmY1lWWHgyRVpGSVdVSmlIamF3X094dEFMSk9XSTlOTEhMU0xVWjBBbHdKdlg2YWlFRTktakZsZHhfXzBfTXF2Wkc3SDBXcVNKYmsxdXEweEtkVFHSAcMBQVVfeXFMT2Q2ZjVUSmJrSmpyNGRWaDkxUXlfUmxfelFrdTJwS3VMZ05pMmFLNDRLYVlESHNmQUkwTklCQTNEZ1dReWU0TGxRc0tWMllBQms4NV9IRmRfUlc5Rk4zMnJpelVaTGFZRDhHU2JkNGRsa1U3QTB1bDV5akVVOXFTNWJVY0h3MWVtaGhucEhEUjRLSk1Kb1poR21OeEp4MGMtTnNBZDhpTkFQaVVOOTZmc1l2ZVRFOVlxMmNSaUlheWU0Q2NZ?oc=5",
+   "pub": "Thu, 30 Jul 2026 07:04:32 GMT"
   },
   {
-   "t": "Mut zur Lücke - IPG Journal",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmdtSUtfUDE0ZUhZUmlyZVdpemNoWHhNS0duSnhHdWRiU2dVR2NFTW5fQktTODZHaEhDZ3JsbF9iRHFmNUNWRnk5bUhvWi1yVG9FZ2NROEFqSGZDMUFIT29Qa1otWFpkRlgzMV85Znltekh4cTM4blpxYXRoMXJSWTEwdjFZMUlBSWlMYVdObjdlY2tnckZVV2N3?oc=5",
-   "pub": "Thu, 30 Jul 2026 08:55:00 GMT"
-  },
-  {
-   "t": "Trumps Reserven neigen sich: Iran-Krieg zehrt US-Abfangraketen auf - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTDNpNzR1U05HNkZJT1RpWjBaMV9ZTlFOUVZ4ZDgwVjZnYW9nRzRJc1lkdmYwdExMaTdHX1dONjIxX3RoaG1HREFXYkxaZ0tqUUdLTWJtZ2FRdEo2SVRLLUU1Qlg5X2wyWWVzMklpY1V4Yk8wYTZvS1l5dVBraTM4elZ3YUgwN3BXTlBGUW9WOS1YUWE4WWZObzY2OFQtZ3hzRFIxcm93U19LcU9tRXI0ZmpkdUpQbV9vR2xLYXRKel8yUFFQQVVqM1dhSEJWYWt3V1Zn?oc=5",
-   "pub": "Thu, 30 Jul 2026 11:30:11 GMT"
-  },
-  {
-   "t": "Anzeichen einer restriktiven Haltung inmitten eines durchwachsenen Auftritts von Fed-Vorsitzendem Warsh - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbDZmSFFsOVBjQnRONm5EZ1hEcUFQYXROMm5FblBycE1pYkRGUktUSS1yNFlrMkxMcDdLbkwwS2N5WE40ZldxeU5Beko1djJwd3N2V0xyOEsyTmxTU2p5TXJYX1psVVo4alpZRDNQSE9Wcy0tZzNfaWVZQmdicTlSOUJVQncxcE1acTFKY3pOM3RDT1V3azA1WWhsTURQMmtka3NGSlZaa1hWUVZ3akxlb0xnX050bGU3OWVaODdpT3JBeDZxaHhFQWdOeGNnbEUyVUpvS3I5WjdxMVFaWE84T1JvaE5pNm0wMmJXZ2VrMzhFUGtaVkdN?oc=5",
-   "pub": "Thu, 30 Jul 2026 10:32:00 GMT"
+   "t": "Brisanter Rüstungsdeal enthüllt: China plant, Irans Luftabwehr mit Hunderten Raketen aufzurüsten - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDRTWmZfNnpOdUZTZDl4QjN4MkxLUUxraVJYOV9VZ0VMSXlrMmI3bWZYdjU4bjVMNVFZdVRTVkdrTGFKT1dCaEhqdnNNcWd5TEJINUhxSTVhcGZsZ3ZTRkoxQ2hHY09tOGQtTHZlaWVOaFV3LVlBdG1NX2lVQ292MkxsQjRfeE1hOEFLVlBZNlpJdlJTVU5uVENHbzNZUGNuSTRXVGtIVEZQbXAwTU5tUDRmTVBZQXNC?oc=5",
+   "pub": "Thu, 30 Jul 2026 11:26:55 GMT"
   }
  ]
 }
