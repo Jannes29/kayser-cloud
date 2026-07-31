@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-07-30T22:19:35Z",
+ "collected_at": "2026-07-31T00:15:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8053,
-   "chg1d_pct": -0.99
+   "price": 0.8058,
+   "chg1d_pct": -0.93
   },
   "USDJPY": {
-   "price": 159.74,
-   "chg1d_pct": -2.18
+   "price": 160.299,
+   "chg1d_pct": -1.84
   },
   "GBPCAD": {
-   "price": 1.8857,
-   "chg1d_pct": 0.54
+   "price": 1.886,
+   "chg1d_pct": 0.55
   },
   "AUDJPY": {
-   "price": 112.265,
-   "chg1d_pct": -1.2
+   "price": 112.652,
+   "chg1d_pct": -0.86
   },
   "EURUSD": {
-   "price": 1.1531,
-   "chg1d_pct": 0.56
+   "price": 1.1526,
+   "chg1d_pct": 0.51
   },
   "GBPCHF": {
-   "price": 1.0844,
-   "chg1d_pct": -0.25
+   "price": 1.0847,
+   "chg1d_pct": -0.23
   },
   "WTI": {
    "price": 84.1,
    "chg1d_pct": -0.43
   },
   "BRENT": {
-   "price": 89.45,
-   "chg1d_pct": -1.42
+   "price": 89.73,
+   "chg1d_pct": -1.11
   },
   "GOLD": {
-   "price": 4163.9,
-   "chg1d_pct": 3.2
+   "price": 4162.6,
+   "chg1d_pct": 3.17
   },
   "SPX_FUT": {
-   "price": 7478.75,
-   "chg1d_pct": 1.73
+   "price": 7489.5,
+   "chg1d_pct": 1.88
   },
   "NAS_FUT": {
-   "price": 28395.75,
-   "chg1d_pct": 3.85
+   "price": 28432.75,
+   "chg1d_pct": 3.99
   }
  },
  "headlines": [
   {
-   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2Vkellqb2hQOTVLSDg0YWNVQzFYY295ZHFRUXFFX21pRVBhODVrRnVGSTktVm5oN3VhZHJiU1B5OWNuZ29Wdkg0UjMwTl9EcVlWaEdsTmVtWFN6YUVTdEFZWjNQcHBpVldCX3NUdWthQThuZFpCMUVrRDlNUWNmTHlRNmp6UWs4Z1cta2VYSUw2UUJoaDhCdzNJYmstcU1FRWpFeWJFSDBUNFoxejAxVi1aTVRycEJMeXo4WEFhU1ZxWDhNQ0pkRTM5MmdyU1Rr?oc=5",
-   "pub": "Thu, 30 Jul 2026 15:59:00 GMT"
+   "t": "(S+) Saudi-Arabien greift Ziele im Irak an – der Irankrieg wird zunehmend zum Flächenbrand - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzJpQUowbzRzQ1ZYeUZaYzREWC02QWJSZDR2WmJGWGdYaDFoalpKS3NJTkNZTFFwckV6Y0lpMVYtZGFvNnNEVzRtUDJVZWx4b184RDliaF9XTzJPbU5DU2xfRHVqVEt5WEkyYy1mQ0o3MjE0OG9xSGNSUzBDTU9PaDNUaFZqSXk2YmhBWGh2T2NYNEdwdkFmbkZiS2s2UmVBQ0Q1SU1hVmJtR0ZuZncwc0tKUDB1X0RMa1ZvMGFnbWY4ajlYaFI4QmtMVlR3UmxFNDAwb1JWRHN4c0VrOUh2eEx4RXE?oc=5",
+   "pub": "Thu, 30 Jul 2026 16:56:00 GMT"
   },
   {
    "t": "Iran- und Ukraine-Krieg: Ufert die Krise aus? - DW.com",
@@ -64,7 +64,7 @@
    "pub": "Thu, 30 Jul 2026 20:05:42 GMT"
   },
   {
-   "t": "Iran-Krieg - Hohe Öl- und Gaspreise treiben Shell-Gewinn in die Höhe - deutschlandfunk.de",
+   "t": "Iran-Krieg - Hohe Öl- und Gaspreise treiben Shell-Gewinn in die Höhe - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2M3RVo1bUdFUlN5T2dIOC1qME0xdGNPRVJ5MzhkekpmN0N1T01tSmpJRS1KM2RFQ3dFYkl0VWVNal9scnBWNnVuOUl0MVRzaEcxelNTSnF6c2t4RlhMVm9KVEpRaGJqS2VVR2JzdF9yc3Z5bXhFOUdIZEpFU2otQmd0enN1TVJURHAwbjNyb3RHeEtyNl9fVHYydS0?oc=5",
    "pub": "Thu, 30 Jul 2026 20:50:15 GMT"
   },
@@ -74,19 +74,14 @@
    "pub": "Thu, 30 Jul 2026 06:14:29 GMT"
   },
   {
+   "t": "14 Länder dabei: Huthi-Gegner schmieden Allianz - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc2c1aFhuajNDVE1MUzJ5ODRkcUJTYy15dDZ6TlBDeXRuSmhsYjFLUHBFWjFTY2NpZWJKLTJ6eEpYUWFjbFVVVzNhUXZhUWtNOG9WLTZSOVVUa0JJT0ZpMzRVRWx6N0YwdTVJZkpkbTRiNzlWQWljQnV3M1Y4eFJsTnVqMk90bHpRZlVlYmRGM29KQVdYRENyLTRzNDR4dDI1TFpPb0NVYkVwU1FsNnI3V1FUVWtzVjVaSjVvU1lwTnlOeWJ4eVhTVkcyMWEzaVRIc3hMbzVTSEU?oc=5",
+   "pub": "Thu, 30 Jul 2026 23:14:22 GMT"
+  },
+  {
    "t": "BoJ Intervention: Greift Japan erneut am Devisenmarkt ein? Chancen und Risiken im Forex Trading - XTB.com",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNFBscklWX2xmS29ZM2kzcm43LUpPMmpEQTd1RlZnYXBOQ0RTNmVycEVfVXlXcmtPUC1PTm42djZ2OTVMandqdVBlUkNVUUFCVXpXR241TTZNNzdvZHJ3WktZY09PMUE5YlRweU1CQzNPQVM5R182LXpYcHcxUFhBbGU4R1hIcFQwcXdoelotQkFla2lqcTlSZDhEVmRuaG1lc1pBSktvcmllSkxNU2tBTmVZdVluVEJCU09RRHVDd2lOZ2JJQ1RnLUtWTy11NUNKN3RELV95TVJ5alU?oc=5",
    "pub": "Thu, 30 Jul 2026 18:14:00 GMT"
-  },
-  {
-   "t": "\"Immer mehr Länder werden in Trumps Krieg gegen den Iran hineingezogen\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemJzZVBPWXRMRlZIN1hqQi1uRVc5ZXdIYkRzLTU3RHltLUttV2tac3MxN2k0aG5ad0cxZ29Gb0lCU2VNcHV1VWozbDA0UWFBRFVsNzg3U25KRnRXbFd4dmFMdmlOc0FSZ0RmMFhHaW1DT2UtMWFvZHNtTE9uSGRpYk4xVHJ0eUhMOEsyQjZZdHdIZC0zUk1ma3NrVXJGT0dFNXNjT0VDMnJUa0pveWJJNzVRcmg?oc=5",
-   "pub": "Thu, 30 Jul 2026 17:36:00 GMT"
-  },
-  {
-   "t": "USA attackieren Iran mit massiver Angriffswelle - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vYXBHZ0M3RUxJRmc4OWh4ajZjMU02VmRPSmlKWTZ0QlJzRE9KZUlLc1Q1YXhFRkZMTnZSdXQ0b0tiQ3kwejhUNVlZV0NTMV8zSlVCZDFOZ1hlbnl2d1Vz?oc=5",
-   "pub": "Thu, 30 Jul 2026 06:34:08 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -94,19 +89,24 @@
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "Deutsche Wirtschaft wächst trotz Iran-Krieg minimal - springerprofessional.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFdzTWZIWlZCUGFVTTVnajlDU25MVGEzaTU3VjFBSmZXbGkwNnVfMnByQ1ZjLTEzdXowNDZfVjFOd1VxbFVLTUxNRDQ0ck01aFRFaFVLT3RZbE5zNkxVdkN5SW5LV1p2ZTJ1dFRjNXdFTlhKTjJ0TGtQa2UxUVNLME5OT09QdHZWVzJWcHBUOEhUaHM0WDF3S3ZFLW1rLV9tMElneFJqMnpVZWFtZWJuS0UwT1lMR3lFVTFyQUpvaw?oc=5",
-   "pub": "Thu, 30 Jul 2026 10:41:34 GMT"
+   "t": "\"Immer mehr Länder werden in Trumps Krieg gegen den Iran hineingezogen\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemJzZVBPWXRMRlZIN1hqQi1uRVc5ZXdIYkRzLTU3RHltLUttV2tac3MxN2k0aG5ad0cxZ29Gb0lCU2VNcHV1VWozbDA0UWFBRFVsNzg3U25KRnRXbFd4dmFMdmlOc0FSZ0RmMFhHaW1DT2UtMWFvZHNtTE9uSGRpYk4xVHJ0eUhMOEsyQjZZdHdIZC0zUk1ma3NrVXJGT0dFNXNjT0VDMnJUa0pveWJJNzVRcmg?oc=5",
+   "pub": "Thu, 30 Jul 2026 17:36:00 GMT"
   },
   {
-   "t": "Ukraine- und Iran-Krieg plötzlich dicht beinander: Schlag schien möglich – was dahintersteckt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1BXRGtzOUdaNnBybmpjb1FmQWctT21WSzBreTJDS3ZSWVNIeEhYdUV0U0JMUlVOOE0yN1ZQUXZqSlFlYm5OUVhFVHRCQ3lidF96Mk1lRHdnOHVhQk5XZkc0eFVlYmNxT0M2SnFnMEdMRGdudlFYVUQ4cUU5WXFWRmNzYno5bEZGX2N1NjNYeENoREJIUlJRQWlpcjltSDdzcUpQZHlraVZBdzhR?oc=5",
-   "pub": "Thu, 30 Jul 2026 12:08:40 GMT"
+   "t": "Die Eurozone wächst trotz der Auswirkungen des Iran-Kriegs um 0,4 % - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVJtSW9WQTFSN3J3dzZkQTdEUzNlZXI4X1lfQzFqblpjWi1WQy1hNWFST3RIdnpxZjFOaGlGV2lLVTAzRHRIOTVYRlpUaGdOZVpyaDI2WHB3MVp5Z1JCU1pSRkROUm9aY1hfSHduQzJHS2lQdXJWTFZEQXc3Ti1BSU9lbE44TERSUDNCdWhXUlIwS2g0RExkbF95QQ?oc=5",
+   "pub": "Thu, 30 Jul 2026 10:56:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Saudi-Arabien greift Ziele im Irak an - Konflikt wird zum Flächenbrand - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzJpQUowbzRzQ1ZYeUZaYzREWC02QWJSZDR2WmJGWGdYaDFoalpKS3NJTkNZTFFwckV6Y0lpMVYtZGFvNnNEVzRtUDJVZWx4b184RDliaF9XTzJPbU5DU2xfRHVqVEt5WEkyYy1mQ0o3MjE0OG9xSGNSUzBDTU9PaDNUaFZqSXk2YmhBWGh2T2NYNEdwdkFmbkZiS2s2UmVBQ0Q1SU1hVmJtR0ZuZncwc0tKUDB1X0RMa1ZvMGFnbWY4ajlYaFI4QmtMVlR3UmxFNDAwb1JWRHN4c0VrOUh2eEx4RXE?oc=5",
-   "pub": "Thu, 30 Jul 2026 16:56:00 GMT"
+   "t": "USA attackieren Iran mit massiver Angriffswelle - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vYXBHZ0M3RUxJRmc4OWh4ajZjMU02VmRPSmlKWTZ0QlJzRE9KZUlLc1Q1YXhFRkZMTnZSdXQ0b0tiQ3kwejhUNVlZV0NTMV8zSlVCZDFOZ1hlbnl2d1Vz?oc=5",
+   "pub": "Thu, 30 Jul 2026 06:34:08 GMT"
+  },
+  {
+   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2Vkellqb2hQOTVLSDg0YWNVQzFYY295ZHFRUXFFX21pRVBhODVrRnVGSTktVm5oN3VhZHJiU1B5OWNuZ29Wdkg0UjMwTl9EcVlWaEdsTmVtWFN6YUVTdEFZWjNQcHBpVldCX3NUdWthQThuZFpCMUVrRDlNUWNmTHlRNmp6UWs4Z1cta2VYSUw2UUJoaDhCdzNJYmstcU1FRWpFeWJFSDBUNFoxejAxVi1aTVRycEJMeXo4WEFhU1ZxWDhNQ0pkRTM5MmdyU1Rr?oc=5",
+   "pub": "Thu, 30 Jul 2026 15:59:00 GMT"
   }
  ]
 }
