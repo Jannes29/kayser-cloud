@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-07-31T07:15:15Z",
+ "collected_at": "2026-07-31T10:00:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8064,
-   "chg1d_pct": -0.86
+   "price": 0.8084,
+   "chg1d_pct": -0.61
   },
   "USDJPY": {
-   "price": 160.353,
-   "chg1d_pct": -1.8
+   "price": 160.018,
+   "chg1d_pct": -2.01
   },
   "GBPCAD": {
-   "price": 1.8856,
-   "chg1d_pct": 0.53
+   "price": 1.8846,
+   "chg1d_pct": 0.48
   },
   "AUDJPY": {
-   "price": 112.757,
-   "chg1d_pct": -0.77
+   "price": 112.538,
+   "chg1d_pct": -0.96
   },
   "EURUSD": {
-   "price": 1.1521,
-   "chg1d_pct": 0.47
+   "price": 1.1507,
+   "chg1d_pct": 0.35
   },
   "GBPCHF": {
-   "price": 1.0849,
-   "chg1d_pct": -0.21
+   "price": 1.0871,
+   "chg1d_pct": -0.01
   },
   "WTI": {
-   "price": 82.33,
-   "chg1d_pct": -1.51
+   "price": 83.61,
+   "chg1d_pct": 0.02
   },
   "BRENT": {
-   "price": 87.58,
-   "chg1d_pct": -1.63
+   "price": 89.53,
+   "chg1d_pct": 0.56
   },
   "GOLD": {
-   "price": 4135.2,
-   "chg1d_pct": 0.86
+   "price": 4112.8,
+   "chg1d_pct": 0.31
   },
   "SPX_FUT": {
-   "price": 7497.5,
-   "chg1d_pct": 0.33
+   "price": 7507.75,
+   "chg1d_pct": 0.47
   },
   "NAS_FUT": {
-   "price": 28486.25,
-   "chg1d_pct": 0.88
+   "price": 28569.0,
+   "chg1d_pct": 1.17
   }
  },
  "headlines": [
@@ -59,14 +59,9 @@
    "pub": "Thu, 30 Jul 2026 15:15:53 GMT"
   },
   {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - augsburger-allgemeine.de",
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUnpQSlJINTBqOGhnQnNFZUl4M3NRSGFadkpWX1FEVXVGLVEzdzVab1FFU0NZQWJONVM3LS03bWhMTV9ubzhTWEQtdUo0VDIxajQ0QmNrb2VIbU1mWFBoMHlwWnV6bF9DYWM2WWdzcU5ZeWRxVE5McEJnbnEzMDRkTmRjZUxVaTJSdXBDa1pJcE5HeC1lWnh0bU9wTGM1LWJfb2RGZ1B3ZHNuVW4yRHczUGpOT0VjZ1Fyb2kzN3hCcWs4aUFSQjhpMG1iZ19CVFk?oc=5",
    "pub": "Fri, 31 Jul 2026 04:12:15 GMT"
-  },
-  {
-   "t": "Krieg in Nahost aktuell: Saudi-Arabien bereitet sich wohl auf Bodenoffensive vor - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOck9aWFdDeV91NTBqQVNUZlU4LXpBWmNwZzZ5NUtDZm1YQ3laQXUtOEQ1YmQ2VTlJMzNXTnBGTTdpcnhwMGVreVNxUU5jeHAyamluSENVT0Nyak5CSDgzVmxycjhDelRYc1NNcVc4Y2x1LXBURmVtNkVQUV8zS3lpSF9NTVUtSmdNT3dlVGRfVzFKbjNQWjVHRXR2VHRxa28tbUNmNGlQRGlWbVVBR1dwMHdzYlJraUxRZXRlajNCVXdLNzJWdmFzQnBUZUdxYi1iY3FNWUR5Yw?oc=5",
-   "pub": "Fri, 31 Jul 2026 06:12:37 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -74,9 +69,14 @@
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "\"Immer mehr Länder werden in Trumps Krieg gegen den Iran hineingezogen\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemJzZVBPWXRMRlZIN1hqQi1uRVc5ZXdIYkRzLTU3RHltLUttV2tac3MxN2k0aG5ad0cxZ29Gb0lCU2VNcHV1VWozbDA0UWFBRFVsNzg3U25KRnRXbFd4dmFMdmlOc0FSZ0RmMFhHaW1DT2UtMWFvZHNtTE9uSGRpYk4xVHJ0eUhMOEsyQjZZdHdIZC0zUk1ma3NrVXJGT0dFNXNjT0VDMnJUa0pveWJJNzVRcmg?oc=5",
-   "pub": "Thu, 30 Jul 2026 17:36:00 GMT"
+   "t": "Mut zur Lücke - IPG Journal",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmdtSUtfUDE0ZUhZUmlyZVdpemNoWHhNS0duSnhHdWRiU2dVR2NFTW5fQktTODZHaEhDZ3JsbF9iRHFmNUNWRnk5bUhvWi1yVG9FZ2NROEFqSGZDMUFIT29Qa1otWFpkRlgzMV85Znltekh4cTM4blpxYXRoMXJSWTEwdjFZMUlBSWlMYVdObjdlY2tnckZVV2N3?oc=5",
+   "pub": "Thu, 30 Jul 2026 08:55:00 GMT"
+  },
+  {
+   "t": "Krieg in Nahost aktuell: Saudi-Arabien bereitet sich wohl auf Bodenoffensive vor - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOck9aWFdDeV91NTBqQVNUZlU4LXpBWmNwZzZ5NUtDZm1YQ3laQXUtOEQ1YmQ2VTlJMzNXTnBGTTdpcnhwMGVreVNxUU5jeHAyamluSENVT0Nyak5CSDgzVmxycjhDelRYc1NNcVc4Y2x1LXBURmVtNkVQUV8zS3lpSF9NTVUtSmdNT3dlVGRfVzFKbjNQWjVHRXR2VHRxa28tbUNmNGlQRGlWbVVBR1dwMHdzYlJraUxRZXRlajNCVXdLNzJWdmFzQnBUZUdxYi1iY3FNWUR5Yw?oc=5",
+   "pub": "Fri, 31 Jul 2026 04:36:45 GMT"
   },
   {
    "t": "Fed Zinsentscheid morgen: Uhrzeit, Ablaufplan und Prognose - LBBW",
@@ -84,14 +84,14 @@
    "pub": "Tue, 28 Jul 2026 08:30:07 GMT"
   },
   {
-   "t": "BoJ Intervention: Greift Japan erneut am Devisenmarkt ein? Chancen und Risiken im Forex Trading - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNFBscklWX2xmS29ZM2kzcm43LUpPMmpEQTd1RlZnYXBOQ0RTNmVycEVfVXlXcmtPUC1PTm42djZ2OTVMandqdVBlUkNVUUFCVXpXR241TTZNNzdvZHJ3WktZY09PMUE5YlRweU1CQzNPQVM5R182LXpYcHcxUFhBbGU4R1hIcFQwcXdoelotQkFla2lqcTlSZDhEVmRuaG1lc1pBSktvcmllSkxNU2tBTmVZdVluVEJCU09RRHVDd2lOZ2JJQ1RnLUtWTy11NUNKN3RELV95TVJ5alU?oc=5",
-   "pub": "Thu, 30 Jul 2026 18:14:00 GMT"
+   "t": "Chart des Tages: EURUSD Prognose - Fed bremst Zinserwartungen, Eurozone-VPI im Fokus - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0g1YzY5eGlyYkhIMVhGZFFVRHhwMWd1RjhTM3dTSE9ZNFBkVTZST0w2R1lCYnhsckhtUm9pVFREVEUyN3RPbFNla2JoZzU4d0tyUmFUN0RMejNUX3UwZjJhRURHZlBLTUxnek4zQVlUY1o0Z3VmNFJMRGFGc1hUaHM3VlRTYnlYay01NnhBN2pTSkFrMGhjWFFWdUhYZWpjM0Mwb2V4RlI5Sk5pXzNoWEVnSGpTTkUtT3ZuSWcyWVdVQVE2YXEyQnhWYmZCZVR5dnF2dlFWV1otbEZPaHlaVWdLTWt1WVRTYWllbm9pMWsxZw?oc=5",
+   "pub": "Fri, 31 Jul 2026 09:43:00 GMT"
   },
   {
-   "t": "USA greifen Iran erneut an + Saudi-Arabien plant Militärkoalition - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnF6NjF2ZC1UZ2lHMlhWWFB1R2lHMXJUNHh4SzdqQUZRb055bFBSQ3ZaQ3E4Z21kckpMd1ZFSnRNaWFtUjFCLTZFWk9aaTUwS1Ewc0JmTHBBM2ZVSjdhOGdNZ1pDckF1MUNKd1pVZnZHRG1OTGJUMkRuSzNxbGdjaUpFSlRieVpVb3RyYTQ4X2xsT05OaUluQ0N6bUhLZzVVajdoWG1B?oc=5",
-   "pub": "Fri, 31 Jul 2026 04:11:19 GMT"
+   "t": "\"Immer mehr Länder werden in Trumps Krieg gegen den Iran hineingezogen\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemJzZVBPWXRMRlZIN1hqQi1uRVc5ZXdIYkRzLTU3RHltLUttV2tac3MxN2k0aG5ad0cxZ29Gb0lCU2VNcHV1VWozbDA0UWFBRFVsNzg3U25KRnRXbFd4dmFMdmlOc0FSZ0RmMFhHaW1DT2UtMWFvZHNtTE9uSGRpYk4xVHJ0eUhMOEsyQjZZdHdIZC0zUk1ma3NrVXJGT0dFNXNjT0VDMnJUa0pveWJJNzVRcmg?oc=5",
+   "pub": "Thu, 30 Jul 2026 17:36:00 GMT"
   },
   {
    "t": "(S+) Saudi-Arabien greift Ziele im Irak an – der Irankrieg wird zunehmend zum Flächenbrand - Spiegel",
