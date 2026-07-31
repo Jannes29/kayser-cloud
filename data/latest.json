@@ -1,58 +1,53 @@
 {
- "collected_at": "2026-07-31T12:18:18Z",
+ "collected_at": "2026-07-31T15:29:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8102,
-   "chg1d_pct": -0.39
+   "price": 0.8092,
+   "chg1d_pct": -0.52
   },
   "USDJPY": {
-   "price": 160.297,
-   "chg1d_pct": -1.84
+   "price": 159.349,
+   "chg1d_pct": -2.42
   },
   "GBPCAD": {
-   "price": 1.8841,
-   "chg1d_pct": 0.45
+   "price": 1.8883,
+   "chg1d_pct": 0.68
   },
   "AUDJPY": {
-   "price": 112.464,
-   "chg1d_pct": -1.03
+   "price": 111.833,
+   "chg1d_pct": -1.58
   },
   "EURUSD": {
-   "price": 1.149,
-   "chg1d_pct": 0.2
+   "price": 1.1506,
+   "chg1d_pct": 0.34
   },
   "GBPCHF": {
-   "price": 1.0873,
-   "chg1d_pct": 0.01
+   "price": 1.0891,
+   "chg1d_pct": 0.18
   },
   "WTI": {
-   "price": 85.32,
-   "chg1d_pct": 2.07
+   "price": 85.76,
+   "chg1d_pct": 2.6
   },
   "BRENT": {
-   "price": 90.37,
-   "chg1d_pct": 1.51
+   "price": 90.08,
+   "chg1d_pct": 1.18
   },
   "GOLD": {
-   "price": 4115.0,
-   "chg1d_pct": 0.36
+   "price": 4101.1,
+   "chg1d_pct": 0.02
   },
   "SPX_FUT": {
-   "price": 7493.5,
-   "chg1d_pct": 0.28
+   "price": 7470.25,
+   "chg1d_pct": -0.03
   },
   "NAS_FUT": {
-   "price": 28513.0,
-   "chg1d_pct": 0.97
+   "price": 28265.5,
+   "chg1d_pct": 0.1
   }
  },
  "headlines": [
-  {
-   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2Vkellqb2hQOTVLSDg0YWNVQzFYY295ZHFRUXFFX21pRVBhODVrRnVGSTktVm5oN3VhZHJiU1B5OWNuZ29Wdkg0UjMwTl9EcVlWaEdsTmVtWFN6YUVTdEFZWjNQcHBpVldCX3NUdWthQThuZFpCMUVrRDlNUWNmTHlRNmp6UWs4Z1cta2VYSUw2UUJoaDhCdzNJYmstcU1FRWpFeWJFSDBUNFoxejAxVi1aTVRycEJMeXo4WEFhU1ZxWDhNQ0pkRTM5MmdyU1Rr?oc=5",
-   "pub": "Thu, 30 Jul 2026 15:59:00 GMT"
-  },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
@@ -64,9 +59,9 @@
    "pub": "Thu, 30 Jul 2026 08:55:00 GMT"
   },
   {
-   "t": "Iran- und Ukraine-Krieg: Ufert die Krise aus? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUldRbE9pQkh1WUIxemZTQURyM2NVT2EydHExdXhBUERUNk5Gam5nalQ1NXF2WXVKWGpMYkVQQk1FRXhVclFmTkJtYlhkY3ZpeThpNVJLVG1HX2hubkZEdWVUR21mVmdINE90NTFIYndmWXp5eHZrc2NLMzJkNzFmetIBgAFBVV95cUxPUm1ZNU84VWN2a2FJNWg1TnZfWHBRVVhlS3l1TXVDa01TY2o1SFN5b2lPSmIzRDZuLWp6T1JUdkw1SDZiV2padVkyejk1bG14VThzMWVYZ285bVJmUnZ4OTNpd2VObEg4SlkzWllONzlKZnhmUU5NN0RSUnlCUGc1UQ?oc=5",
-   "pub": "Thu, 30 Jul 2026 15:15:53 GMT"
+   "t": "Iran: Neuer Geheimplan von Donald Trump soll Mullahs in die Knie zwingen - bild.de",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm9WX1k5YjE3Ulk3MUtGM0R5Nk41SERxeUZnS1ZiOHQxbElWRklJOHRjeU93VzdNN09DWEVwa1lvRnczYUtneGF5ZG45MU1tLTBjWjZ2Q3J3andORDdtRW1haUNWQnFxWHU3SWhwcS1CaXF4Wm5PdmVEbExSN3NfLVA2RFpJR0ZmNkxnQ3M0RVBuNE1fZUgxX3FWVnExbmhTMzJkTkNya253MjJLc3FBU0hCZjluX2IzM0Ftb1lYcUZ1WFEzU09wdjFKbnhPVFUzd01FejAzcG5YZEs1bzVQbUs5RjM5X0k?oc=5",
+   "pub": "Fri, 31 Jul 2026 09:22:10 GMT"
   },
   {
    "t": "Fed Zinsentscheid morgen: Uhrzeit, Ablaufplan und Prognose - LBBW",
@@ -74,9 +69,24 @@
    "pub": "Tue, 28 Jul 2026 08:30:07 GMT"
   },
   {
+   "t": "(S+) Saudi-Arabien greift Ziele im Irak an – der Irankrieg wird zunehmend zum Flächenbrand - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzJpQUowbzRzQ1ZYeUZaYzREWC02QWJSZDR2WmJGWGdYaDFoalpKS3NJTkNZTFFwckV6Y0lpMVYtZGFvNnNEVzRtUDJVZWx4b184RDliaF9XTzJPbU5DU2xfRHVqVEt5WEkyYy1mQ0o3MjE0OG9xSGNSUzBDTU9PaDNUaFZqSXk2YmhBWGh2T2NYNEdwdkFmbkZiS2s2UmVBQ0Q1SU1hVmJtR0ZuZncwc0tKUDB1X0RMa1ZvMGFnbWY4ajlYaFI4QmtMVlR3UmxFNDAwb1JWRHN4c0VrOUh2eEx4RXE?oc=5",
+   "pub": "Thu, 30 Jul 2026 16:56:00 GMT"
+  },
+  {
    "t": "Chart des Tages: EURUSD Prognose - Fed bremst Zinserwartungen, Eurozone-VPI im Fokus - XTB.com",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN0g1YzY5eGlyYkhIMVhGZFFVRHhwMWd1RjhTM3dTSE9ZNFBkVTZST0w2R1lCYnhsckhtUm9pVFREVEUyN3RPbFNla2JoZzU4d0tyUmFUN0RMejNUX3UwZjJhRURHZlBLTUxnek4zQVlUY1o0Z3VmNFJMRGFGc1hUaHM3VlRTYnlYay01NnhBN2pTSkFrMGhjWFFWdUhYZWpjM0Mwb2V4RlI5Sk5pXzNoWEVnSGpTTkUtT3ZuSWcyWVdVQVE2YXEyQnhWYmZCZVR5dnF2dlFWV1otbEZPaHlaVWdLTWt1WVRTYWllbm9pMWsxZw?oc=5",
    "pub": "Fri, 31 Jul 2026 09:43:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg - Hohe Öl- und Gaspreise treiben Shell-Gewinn in die Höhe - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2M3RVo1bUdFUlN5T2dIOC1qME0xdGNPRVJ5MzhkekpmN0N1T01tSmpJRS1KM2RFQ3dFYkl0VWVNal9scnBWNnVuOUl0MVRzaEcxelNTSnF6c2t4RlhMVm9KVEpRaGJqS2VVR2JzdF9yc3Z5bXhFOUdIZEpFU2otQmd0enN1TVJURHAwbjNyb3RHeEtyNl9fVHYydS0?oc=5",
+   "pub": "Thu, 30 Jul 2026 20:50:15 GMT"
+  },
+  {
+   "t": "Iran- und Ukraine-Krieg: Ufert die Krise aus? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUldRbE9pQkh1WUIxemZTQURyM2NVT2EydHExdXhBUERUNk5Gam5nalQ1NXF2WXVKWGpMYkVQQk1FRXhVclFmTkJtYlhkY3ZpeThpNVJLVG1HX2hubkZEdWVUR21mVmdINE90NTFIYndmWXp5eHZrc2NLMzJkNzFmetIBgAFBVV95cUxPUm1ZNU84VWN2a2FJNWg1TnZfWHBRVVhlS3l1TXVDa01TY2o1SFN5b2lPSmIzRDZuLWp6T1JUdkw1SDZiV2padVkyejk1bG14VThzMWVYZ285bVJmUnZ4OTNpd2VObEg4SlkzWllONzlKZnhmUU5NN0RSUnlCUGc1UQ?oc=5",
+   "pub": "Thu, 30 Jul 2026 15:15:53 GMT"
   },
   {
    "t": "Krieg in Nahost aktuell: Saudi-Arabien bereitet sich wohl auf Bodenoffensive vor - T-Online",
@@ -84,19 +94,9 @@
    "pub": "Fri, 31 Jul 2026 04:36:45 GMT"
   },
   {
-   "t": "(S+) Saudi-Arabien greift Ziele im Irak an – der Irankrieg wird zunehmend zum Flächenbrand - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzJpQUowbzRzQ1ZYeUZaYzREWC02QWJSZDR2WmJGWGdYaDFoalpKS3NJTkNZTFFwckV6Y0lpMVYtZGFvNnNEVzRtUDJVZWx4b184RDliaF9XTzJPbU5DU2xfRHVqVEt5WEkyYy1mQ0o3MjE0OG9xSGNSUzBDTU9PaDNUaFZqSXk2YmhBWGh2T2NYNEdwdkFmbkZiS2s2UmVBQ0Q1SU1hVmJtR0ZuZncwc0tKUDB1X0RMa1ZvMGFnbWY4ajlYaFI4QmtMVlR3UmxFNDAwb1JWRHN4c0VrOUh2eEx4RXE?oc=5",
-   "pub": "Thu, 30 Jul 2026 16:56:00 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUnpQSlJINTBqOGhnQnNFZUl4M3NRSGFadkpWX1FEVXVGLVEzdzVab1FFU0NZQWJONVM3LS03bWhMTV9ubzhTWEQtdUo0VDIxajQ0QmNrb2VIbU1mWFBoMHlwWnV6bF9DYWM2WWdzcU5ZeWRxVE5McEJnbnEzMDRkTmRjZUxVaTJSdXBDa1pJcE5HeC1lWnh0bU9wTGM1LWJfb2RGZ1B3ZHNuVW4yRHczUGpOT0VjZ1Fyb2kzN3hCcWs4aUFSQjhpMG1iZ19CVFk?oc=5",
-   "pub": "Fri, 31 Jul 2026 04:12:15 GMT"
-  },
-  {
-   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
-   "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
+   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2Vkellqb2hQOTVLSDg0YWNVQzFYY295ZHFRUXFFX21pRVBhODVrRnVGSTktVm5oN3VhZHJiU1B5OWNuZ29Wdkg0UjMwTl9EcVlWaEdsTmVtWFN6YUVTdEFZWjNQcHBpVldCX3NUdWthQThuZFpCMUVrRDlNUWNmTHlRNmp6UWs4Z1cta2VYSUw2UUJoaDhCdzNJYmstcU1FRWpFeWJFSDBUNFoxejAxVi1aTVRycEJMeXo4WEFhU1ZxWDhNQ0pkRTM5MmdyU1Rr?oc=5",
+   "pub": "Thu, 30 Jul 2026 15:59:00 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: USA melden »Überraschungsangriff« aus Iran – und attackieren selbst Ziele im Irak - Spiegel",
@@ -104,9 +104,9 @@
    "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
   },
   {
-   "t": "Iran: Häftlinge im Hungerstreik nähen ihre Lippen zu - Videos aus Gefängnissen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3pkNEN0MlNwUm1wSXlNVzkxWWZnSklhNkc0SFpJRS1nNXFDbU1vRnJFNENOQ3R5cUFFeU14UWhhX3VFM2trRTZGUTVLeUdvYzBkMlFaQjMyYXFpbXczUmVBaTJaQjRmTFpBUElyYXVJM0F3aDF2LU9MQzRSVUFreHBMNm9LQVZULWp2TjVhTFVnbVRaR0ItVXd4YjZpV0k4XzNwbzZiejRXRDhfcXljbkd4dVlCM2xxczY3Q0dCNEZIR2hxam1lbkM4OUlnQXZSak8yZkNvejcwdTZqdV81Wnpn?oc=5",
-   "pub": "Tue, 28 Jul 2026 23:53:00 GMT"
+   "t": "USA und Iran starten neue Angriffe – Saudi-Arabien plant Allianz für Rotes Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUZiMkh6RmctSy0zVU5PVVZvbWJLeXJobTk3c05kNk5YMWRfZDUyM0I2S2d1Si1PMHZMR1F4V0NJUWVJVV9UR1N5eEQ0c0pVdjRDcVluZ3B0YVVqQ3l0eXcyaVZzc1V3b1VBM1dseGJmN1Nmb0FxUU8yRGx2MmhGOVhlR0ljNVpHUE5uM3Nqb2tVd3JsNU9oZ21teldvSTNYUFBCa2xzbzBZRDlBcnI4TC16Y05IQktEVzFRdHZvVGxGcEpkcnU2UXVSTUdLT3VWYTNDRXBPUl9ubVVrcUJ6cEFB?oc=5",
+   "pub": "Thu, 30 Jul 2026 02:42:00 GMT"
   }
  ]
 }
