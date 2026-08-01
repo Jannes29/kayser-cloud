@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-07-31T23:16:17Z",
+ "collected_at": "2026-08-01T00:13:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "USA: Iran soll hinter Cyberangriffen auf Trinkwasserversorgung in Minnesota stecken - spiegel.de",
+   "t": "USA: Iran soll hinter Cyberangriffen auf Trinkwasserversorgung in Minnesota stecken - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1JOdkEwYzhicVFNc2UxUktLd3g2c2RvRG9yYll3ZXRUR0Z0TFM3Wi1UWTlud1pZY0t4ZHlVcmo2WjhrX3RGQ05NWWNYUGhVQWVxS05oaE1mVzVGcVVLd1JOSWlyT3BPY1lvTnZrdTRTSlUzekxKVnVrT1gtcFZQLUZyNk8ydzhhQjdCUlJhbmZBQzRJN1RkWEdZaTJVREVKRW1wVDhpLUdESTN4Y3VEa3hJM2FuM3g4RGV1Tll1dklpVXpqa2dnSkJkeW9CaWJ5THA5dThoSUZFanRIM19KaHZ4WUlzc2M?oc=5",
    "pub": "Fri, 31 Jul 2026 18:30:00 GMT"
   },
@@ -74,29 +74,14 @@
    "pub": "Fri, 31 Jul 2026 18:30:21 GMT"
   },
   {
-   "t": "Iran: Neuer Geheimplan von Donald Trump soll Mullahs in die Knie zwingen - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm9WX1k5YjE3Ulk3MUtGM0R5Nk41SERxeUZnS1ZiOHQxbElWRklJOHRjeU93VzdNN09DWEVwa1lvRnczYUtneGF5ZG45MU1tLTBjWjZ2Q3J3andORDdtRW1haUNWQnFxWHU3SWhwcS1CaXF4Wm5PdmVEbExSN3NfLVA2RFpJR0ZmNkxnQ3M0RVBuNE1fZUgxX3FWVnExbmhTMzJkTkNya253MjJLc3FBU0hCZjluX2IzM0Ftb1lYcUZ1WFEzU09wdjFKbnhPVFUzd01FejAzcG5YZEs1bzVQbUs5RjM5X0k?oc=5",
-   "pub": "Fri, 31 Jul 2026 09:22:10 GMT"
-  },
-  {
    "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
    "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
   },
   {
-   "t": "News kompakt: USA attackieren nach Pause wieder den Iran - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnlMalFEUGQ4QTJjZ0twbVU1ZW9Felo1ZVVaZGVHN0t5TnlXek9veHExM0dBU1VBYURwTGdaZVM1ekFjNTdHOWl5R1VOQzRmcm9VM1RuOTBDZUJCZjVpQ0VGZWItWW8yNXJoYTRMbGdmY1lWWHgyRVpGSVdVSmlIamF3X094dEFMSk9XSTlOTEhMU0xVWjBBbHdKdlg2YWlFRTktakZsZHhfXzBfTXF2Wkc3SDBXcVNKYmsxdXEweEtkVFHSAcMBQVVfeXFMT2Q2ZjVUSmJrSmpyNGRWaDkxUXlfUmxfelFrdTJwS3VMZ05pMmFLNDRLYVlESHNmQUkwTklCQTNEZ1dReWU0TGxRc0tWMllBQms4NV9IRmRfUlc5Rk4zMnJpelVaTGFZRDhHU2JkNGRsa1U3QTB1bDV5akVVOXFTNWJVY0h3MWVtaGhucEhEUjRLSk1Kb1poR21OeEp4MGMtTnNBZDhpTkFQaVVOOTZmc1l2ZVRFOVlxMmNSaUlheWU0Q2NZ?oc=5",
-   "pub": "Thu, 30 Jul 2026 14:35:58 GMT"
-  },
-  {
-   "t": "Krieg in Nahost aktuell: Trump kündigt weitere Angriffe auf Iran an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUlFQnpWOV90WEc3ZXFGQlYxMzFVVksyWnVMUWUxQVJWcTFEcWVCa0Y0cG14eG1RSUxKSDF1OEdqN0U4cXFyR1dpQTFsUndjT3A5VzZydTR5Z3o1WENYS2VGdmdyMngwM19EQ08ydjlFVzRsRGJCN3prMDgxeG41aUZsaVV4aUlJSHZ2anlER3RiSWFCSE81MFF5azlmSmR6RGllTTVYV2VaMzZlbG1VbmlNN3FRczBQeURGRjAxcXZTbFdCcEFqcWlRblNFZw?oc=5",
-   "pub": "Fri, 31 Jul 2026 18:49:40 GMT"
-  },
-  {
-   "t": "Konflikt im Nahen Osten: USA melden »Überraschungsangriff« aus Iran – und attackieren selbst Ziele im Irak - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE5fa2FIeE1qLWdmbHdPSnNRc2VIb1pXWkpwSF93cElOLVp3aDM2OFFHMUUzRHRmMUJWZkw5bTcxVm5CYXh2TkFHLVpmS2x2dHMyalhKNnl1REJIdy1OOVpNeHVveENneXV2NnQtR2UxMl9oRmJjZ0JHcFVVZ3BYWERjZ2NrYS1YYkx1VWZiOW1tRFN1S0tobEtFU1BxZWVGV0RBMGtjZ1dzSXpfLV93X3RiYUFPQU90eXA2ZDEySlYzOEdDWVRFbU5faWZxR25JeWc?oc=5",
-   "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
+   "t": "Iran: Neuer Geheimplan von Donald Trump soll Mullahs in die Knie zwingen - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm9WX1k5YjE3Ulk3MUtGM0R5Nk41SERxeUZnS1ZiOHQxbElWRklJOHRjeU93VzdNN09DWEVwa1lvRnczYUtneGF5ZG45MU1tLTBjWjZ2Q3J3andORDdtRW1haUNWQnFxWHU3SWhwcS1CaXF4Wm5PdmVEbExSN3NfLVA2RFpJR0ZmNkxnQ3M0RVBuNE1fZUgxX3FWVnExbmhTMzJkTkNya253MjJLc3FBU0hCZjluX2IzM0Ftb1lYcUZ1WFEzU09wdjFKbnhPVFUzd01FejAzcG5YZEs1bzVQbUs5RjM5X0k?oc=5",
+   "pub": "Fri, 31 Jul 2026 09:22:10 GMT"
   },
   {
    "t": "Iran- und Ukraine-Krieg: Ufert die Krise aus? - DW.com",
@@ -104,9 +89,24 @@
    "pub": "Thu, 30 Jul 2026 15:15:53 GMT"
   },
   {
-   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - spiegel.de",
+   "t": "Konflikt im Nahen Osten: USA melden »Überraschungsangriff« aus Iran – und attackieren selbst Ziele im Irak - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVE5fa2FIeE1qLWdmbHdPSnNRc2VIb1pXWkpwSF93cElOLVp3aDM2OFFHMUUzRHRmMUJWZkw5bTcxVm5CYXh2TkFHLVpmS2x2dHMyalhKNnl1REJIdy1OOVpNeHVveENneXV2NnQtR2UxMl9oRmJjZ0JHcFVVZ3BYWERjZ2NrYS1YYkx1VWZiOW1tRFN1S0tobEtFU1BxZWVGV0RBMGtjZ1dzSXpfLV93X3RiYUFPQU90eXA2ZDEySlYzOEdDWVRFbU5faWZxR25JeWc?oc=5",
+   "pub": "Wed, 29 Jul 2026 00:59:00 GMT"
+  },
+  {
+   "t": "Krieg in Nahost aktuell: Trump kündigt weitere Angriffe auf Iran an - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUlFQnpWOV90WEc3ZXFGQlYxMzFVVksyWnVMUWUxQVJWcTFEcWVCa0Y0cG14eG1RSUxKSDF1OEdqN0U4cXFyR1dpQTFsUndjT3A5VzZydTR5Z3o1WENYS2VGdmdyMngwM19EQ08ydjlFVzRsRGJCN3prMDgxeG41aUZsaVV4aUlJSHZ2anlER3RiSWFCSE81MFF5azlmSmR6RGllTTVYV2VaMzZlbG1VbmlNN3FRczBQeURGRjAxcXZTbFdCcEFqcWlRblNFZw?oc=5",
+   "pub": "Fri, 31 Jul 2026 18:49:40 GMT"
+  },
+  {
+   "t": "Meinung: News des Tages: Anschlag auf den CSD, Hitze, Wetter, Iran - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd2Vkellqb2hQOTVLSDg0YWNVQzFYY295ZHFRUXFFX21pRVBhODVrRnVGSTktVm5oN3VhZHJiU1B5OWNuZ29Wdkg0UjMwTl9EcVlWaEdsTmVtWFN6YUVTdEFZWjNQcHBpVldCX3NUdWthQThuZFpCMUVrRDlNUWNmTHlRNmp6UWs4Z1cta2VYSUw2UUJoaDhCdzNJYmstcU1FRWpFeWJFSDBUNFoxejAxVi1aTVRycEJMeXo4WEFhU1ZxWDhNQ0pkRTM5MmdyU1Rr?oc=5",
    "pub": "Thu, 30 Jul 2026 15:59:00 GMT"
+  },
+  {
+   "t": "(S+) Saudi-Arabien greift Ziele im Irak an – der Irankrieg wird zunehmend zum Flächenbrand - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSzJpQUowbzRzQ1ZYeUZaYzREWC02QWJSZDR2WmJGWGdYaDFoalpKS3NJTkNZTFFwckV6Y0lpMVYtZGFvNnNEVzRtUDJVZWx4b184RDliaF9XTzJPbU5DU2xfRHVqVEt5WEkyYy1mQ0o3MjE0OG9xSGNSUzBDTU9PaDNUaFZqSXk2YmhBWGh2T2NYNEdwdkFmbkZiS2s2UmVBQ0Q1SU1hVmJtR0ZuZncwc0tKUDB1X0RMa1ZvMGFnbWY4ajlYaFI4QmtMVlR3UmxFNDAwb1JWRHN4c0VrOUh2eEx4RXE?oc=5",
+   "pub": "Thu, 30 Jul 2026 16:56:00 GMT"
   }
  ]
 }
