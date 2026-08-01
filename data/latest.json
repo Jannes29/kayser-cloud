@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-01T13:56:22Z",
+ "collected_at": "2026-08-01T15:27:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -69,24 +69,9 @@
    "pub": "Sat, 01 Aug 2026 03:42:00 GMT"
   },
   {
-   "t": "Krieg in Nahost aktuell: Iran greift Regierungsgebäude in Kuwait an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT05kN1ZLTlp4YVE5Y0RDa1ZvcFFTUlF0RnZ1eHhzV1JnYmdlRUpRR2FUdjljMEZLdE9hdHZEUzhId0s1cnhXZUVQNzFQb0RoRTNxLTREWWJMVnhpeVhTLVVOd3pnOE0zOWlKOEhBZVdYV2l5ckhDcGVLcGtvNmEzOUx4b0Q4WHFZZkhRZFI1MjJURTlLd1N5QlVYQzI2T1lBc3FVVnFkNHBOc18xX1dUeHBfcHRBQnlSaEFUTWs5dkJqWEFvek8wcGdnV2pxQQ?oc=5",
-   "pub": "Sat, 01 Aug 2026 13:01:30 GMT"
-  },
-  {
    "t": "Donald Trump droht, Iran „sehr hart“ zu treffen - euractiv.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FdndLQ1paUm5Pc1FCTkFZVGM5cnVZUEg1U3NfYlFNNWxuYV9pRE5pOUhhZFJCOWhPWjh6cC1hWXZkVlYxMUhZR3M1VHUxVVNoUE1XNG5scjJ1OG01VmZPUUhFdGNvTFlINVZiWkd1M0UzRVZIUnFPckMyYw?oc=5",
    "pub": "Sat, 01 Aug 2026 10:14:00 GMT"
-  },
-  {
-   "t": "USA offenbar kurz vor heftiger Angriffswelle auf Iran – Israel könnte wieder in Krieg einsteigen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcFlscE5tNDN2OHd4X3FYU2d0eHpwQmI3RDJsV2lsdFUwLUlvdFZaSHFiNFE2Nm9Zc2lsQUstdVd0dDFVZTJ2N1Y5bFRLVW5yWlhSOFFqczRBaDZSQ3pZWDFGNGdKb3htSi1qSThIdDhRZVg2dnZmMkJ6cnZRQTI1eURGTUZIZDU5Um8xLXl4THRiLWJVQnB4OXEzNVphYWtMb2o5RUZDYXIydWhiYkp6aVo1eGMxMzdZMkNVenRjTHJ3RVZPN3ZZZXRhdk0xdC1XM2VqaENZb2tpQ2RheUJBSlIwemFuMTVXRm1RT28xQ3RqSWIyamhjVXhmVU4?oc=5",
-   "pub": "Sat, 01 Aug 2026 03:41:33 GMT"
-  },
-  {
-   "t": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzdpc0dUTTU5ZVg3MUVSN0FnTnVJQnpiOE5qdmcwRENiZl9tR0dJRHNuSm5QZG1RMDhIUGdwMEFPTEhJRG9uTkp0Z3dEdkNIWHpNQlZZU0pBR0FEUFpPQl9iUF9EdENPOGhLcGM3QmRWYThfcVBqOFQwRUpKMFdkeG9Wa1NlbnNUNjlWTkx0WjEyd2F3bnd0cUU5V09nRzlBc2JwTUFaM3ViUFNTVUxaNk52emNFcl9WOTluOU1OZkdhX0VyRVpLM1ZqNWlqTEdaam1J?oc=5",
-   "pub": "Sat, 01 Aug 2026 04:03:11 GMT"
   },
   {
    "t": "Iran: Neuer Geheimplan von Donald Trump soll Mullahs in die Knie zwingen - BILD",
@@ -94,19 +79,34 @@
    "pub": "Sat, 01 Aug 2026 09:38:15 GMT"
   },
   {
+   "t": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzdpc0dUTTU5ZVg3MUVSN0FnTnVJQnpiOE5qdmcwRENiZl9tR0dJRHNuSm5QZG1RMDhIUGdwMEFPTEhJRG9uTkp0Z3dEdkNIWHpNQlZZU0pBR0FEUFpPQl9iUF9EdENPOGhLcGM3QmRWYThfcVBqOFQwRUpKMFdkeG9Wa1NlbnNUNjlWTkx0WjEyd2F3bnd0cUU5V09nRzlBc2JwTUFaM3ViUFNTVUxaNk52emNFcl9WOTluOU1OZkdhX0VyRVpLM1ZqNWlqTEdaam1J?oc=5",
+   "pub": "Sat, 01 Aug 2026 04:03:11 GMT"
+  },
+  {
+   "t": "USA offenbar kurz vor heftiger Angriffswelle auf Iran – Israel könnte wieder in Krieg einsteigen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcFlscE5tNDN2OHd4X3FYU2d0eHpwQmI3RDJsV2lsdFUwLUlvdFZaSHFiNFE2Nm9Zc2lsQUstdVd0dDFVZTJ2N1Y5bFRLVW5yWlhSOFFqczRBaDZSQ3pZWDFGNGdKb3htSi1qSThIdDhRZVg2dnZmMkJ6cnZRQTI1eURGTUZIZDU5Um8xLXl4THRiLWJVQnB4OXEzNVphYWtMb2o5RUZDYXIydWhiYkp6aVo1eGMxMzdZMkNVenRjTHJ3RVZPN3ZZZXRhdk0xdC1XM2VqaENZb2tpQ2RheUJBSlIwemFuMTVXRm1RT28xQ3RqSWIyamhjVXhmVU4?oc=5",
+   "pub": "Sat, 01 Aug 2026 03:41:33 GMT"
+  },
+  {
+   "t": "Nahost-Krieg aktuell: Iran greift Regierungsgebäude in Kuwait an - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT05kN1ZLTlp4YVE5Y0RDa1ZvcFFTUlF0RnZ1eHhzV1JnYmdlRUpRR2FUdjljMEZLdE9hdHZEUzhId0s1cnhXZUVQNzFQb0RoRTNxLTREWWJMVnhpeVhTLVVOd3pnOE0zOWlKOEhBZVdYV2l5ckhDcGVLcGtvNmEzOUx4b0Q4WHFZZkhRZFI1MjJURTlLd1N5QlVYQzI2T1lBc3FVVnFkNHBOc18xX1dUeHBfcHRBQnlSaEFUTWs5dkJqWEFvek8wcGdnV2pxQQ?oc=5",
+   "pub": "Sat, 01 Aug 2026 13:01:30 GMT"
+  },
+  {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "Amerika durchbricht 28-jährige Regel: Yen gerettet, Bitcoin-Kurs reagiert zuerst - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQVjZQeWtkdkQxNDlodGVmeThSRjV0d0dlZFhDTGxONEpPaEljUGZFTzBJR0d5aXdYdmNMZER0cVdfb3U3QmhKeDk1VXctU0R1LTNsOFN6cDNYa0twR1BGVFJaVVQtektpRXFZVnNDUjZ5MkxQdzVr?oc=5",
-   "pub": "Sat, 01 Aug 2026 09:51:00 GMT"
+   "t": "Trump droht Iran mit neuen heftigen Angriffen - Teheran warnt US-Verbündete - stern.de",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhXWjFjZnlNM0h4NVBoS1B1TXdvMjYwQ2I3MXM4ZGhnSzhnaVZjMWx2V2w3SUVFOHh5S1BaSEcwaGtlWjZyU1M1WlhIY3dXTFhKU2ZrenRuakpPSTI1TWl6bmpMWkVJQ2VldUpoeDVOODVxOEJhUjF1ck9hOWlCcDE5SmNlYy14RGZ2OU9VMXp4X0RrTUI0TVdwck1yZ2J6VFJyUUZCY1FUd3pFbm9Dc18zQXE2VGM?oc=5",
+   "pub": "Sat, 01 Aug 2026 14:08:01 GMT"
   },
   {
-   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
-   "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
+   "t": "Deutsche Wirtschaft wächst trotz Iran-Krieg - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3lfSlF6WExCYW5TRXQ1TUYxMHBEcFNGMUNkb2hENS1pMUhwaXBkVW96N1F5R0FyZTUzdHFRM2tNRDBic3dfbjh5MHpWb3lVWTlJTTk2SnR1N2JjNVNsLTJ1UVdwZ3FTV0lNeDdILWdSSUJWcm81T1A3RzNVV3lnWno1dE0yaXJGa2dfTm1EZzJQN01QbUVZblh3S1I2SnhaUURUbEV5b3VTYVQyZGlNUU5R?oc=5",
+   "pub": "Sat, 01 Aug 2026 13:44:17 GMT"
   }
  ]
 }
