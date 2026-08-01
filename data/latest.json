@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-01T09:21:54Z",
+ "collected_at": "2026-08-01T11:35:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,9 +49,14 @@
  },
  "headlines": [
   {
-   "t": "Trump erwägt offenbar neue Angriffe – Iran droht mit Gegenschlägen - Spiegel",
+   "t": "Doanld Trump erwägt offenbar neue Angriffe, Iran droht mit Gegenschlägen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFd2aE9vbEp2YTNtNlBsZktHQ3ZrY3NONnBoWnN4UmtEYUxyaFdjeEpiYlp6Q0ZSMVBpX2FaQ1doNEt5OUpPLVlZZTMwZEZDTnJQM0xITmhYTm9wSmNiQVJnb0p3Mmdab2c0NUh3d00yRmdjM3V5V1RJUmp4OVFqdU00d1dFdERuRWRDOFVSbGFwcEhyd09BSmpPTGc0TnJkU3VGc2JWLWRheWUwb0R0ZGp1QldhczdqR21JOEhpd3dEMnA4TDg1cHZ0c3hKMDRqSUE?oc=5",
    "pub": "Sat, 01 Aug 2026 03:42:00 GMT"
+  },
+  {
+   "t": "Iran warnt drei EU-Hauptstädte: „Jede Beteiligung an Angriff hat Folgen“ - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xMG5ta2hadUJQbFRBVVc5a0xwR1Z2a3BRWmZ5bDk1UkROR0pnOGhjVmlRdnJXanNreXp6bWhDd3hFbC1TVlZ4SEltbDVFcnBJT09LaGRLYkxzWVlfMUxZd0pybElCbWlqODFoVHVETGVjUVU?oc=5",
+   "pub": "Sat, 01 Aug 2026 11:02:42 GMT"
   },
   {
    "t": "USA offenbar kurz vor heftiger Angriffswelle auf Iran – Israel könnte wieder in Krieg einsteigen - WELT",
@@ -59,14 +64,29 @@
    "pub": "Sat, 01 Aug 2026 03:41:33 GMT"
   },
   {
+   "t": "Donald Trump droht, Iran „sehr hart“ zu treffen - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FdndLQ1paUm5Pc1FCTkFZVGM5cnVZUEg1U3NfYlFNNWxuYV9pRE5pOUhhZFJCOWhPWjh6cC1hWXZkVlYxMUhZR3M1VHUxVVNoUE1XNG5scjJ1OG01VmZPUUhFdGNvTFlINVZiWkd1M0UzRVZIUnFPckMyYw?oc=5",
+   "pub": "Sat, 01 Aug 2026 10:14:00 GMT"
+  },
+  {
    "t": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzdpc0dUTTU5ZVg3MUVSN0FnTnVJQnpiOE5qdmcwRENiZl9tR0dJRHNuSm5QZG1RMDhIUGdwMEFPTEhJRG9uTkp0Z3dEdkNIWHpNQlZZU0pBR0FEUFpPQl9iUF9EdENPOGhLcGM3QmRWYThfcVBqOFQwRUpKMFdkeG9Wa1NlbnNUNjlWTkx0WjEyd2F3bnd0cUU5V09nRzlBc2JwTUFaM3ViUFNTVUxaNk52emNFcl9WOTluOU1OZkdhX0VyRVpLM1ZqNWlqTEdaam1J?oc=5",
    "pub": "Sat, 01 Aug 2026 04:03:11 GMT"
   },
   {
+   "t": "Iran: Neuer Geheimplan von Donald Trump soll Mullahs in die Knie zwingen - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm9WX1k5YjE3Ulk3MUtGM0R5Nk41SERxeUZnS1ZiOHQxbElWRklJOHRjeU93VzdNN09DWEVwa1lvRnczYUtneGF5ZG45MU1tLTBjWjZ2Q3J3andORDdtRW1haUNWQnFxWHU3SWhwcS1CaXF4Wm5PdmVEbExSN3NfLVA2RFpJR0ZmNkxnQ3M0RVBuNE1fZUgxX3FWVnExbmhTMzJkTkNya253MjJLc3FBU0hCZjluX2IzM0Ftb1lYcUZ1WFEzU09wdjFKbnhPVFUzd01FejAzcG5YZEs1bzVQbUs5RjM5X0k?oc=5",
+   "pub": "Sat, 01 Aug 2026 09:38:15 GMT"
+  },
+  {
    "t": "Krieg in Nahost aktuell: Iran droht mit Angriffen auf Infrastruktur in Golfstaaten - T-Online",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbnltLVl1THhFcks4eHp1Q0ZtcTBHSThqZVB5YXA2UHV3QnlRS1N5VkM2TDFCY3VFWmp3a3BZN3ZROXNIWHZHMTluZXlROTFVRWx2Y3phN0FXUUdJd2RGRmktUEVXaGFOMExhWUFXTERRcjZWSVRLY3I0TU5Mckt1S3FsM3YxbFR4aGVLRnRVOXo1SVhkcTVvYzVQNFduUDVnMVBya09wU0RjU0Qzazlad25zWW40dy1BeXdRTUp4cFJnMXNYZHFMMnZIV1M?oc=5",
-   "pub": "Sat, 01 Aug 2026 02:36:45 GMT"
+   "pub": "Sat, 01 Aug 2026 10:06:45 GMT"
+  },
+  {
+   "t": "Trump droht Iran mit massiven Angriffen - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6U0djb3NMZzlwWHpEM2QzYndxREUyQUw3ckhRYXFvZmF0ZzBFbEVHa3hGNXl2NFFUUW02WjZaM190U1lwSE05UHRsUHNkUy1BVVRnMTJzdHJRcUdHZ19V?oc=5",
+   "pub": "Sat, 01 Aug 2026 11:20:55 GMT"
   },
   {
    "t": "Mut zur Lücke - IPG Journal",
@@ -79,34 +99,14 @@
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
-   "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
+   "t": "Iran-Krieg - Tanker in Straße von Hormus angegriffen - Trump droht mit neuen Angriffen - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazFIdnVFUFM5akdmTDRtUVBzTmQycXJoUmR1eVhGX0ZnVWlrbEtiSXFkbjR6aTJEQ29WN0RrQkZMWVZzOWNJcHdFdVN6amZQdXVCOFV3aFhZTkV3WkJlRjBmRXExRW5tU0tHRmgtWVRtLWRJNzBrU0lSaU1PelBvMlIwcmV6NXVNYjdkOHV6RllXejY3M01ueEdfS2hzeGg0VWRLZzdCQzM5UV9WX3dRU193?oc=5",
+   "pub": "Sat, 01 Aug 2026 11:00:00 GMT"
   },
   {
-   "t": "Neuer Angriff auf Kiew, Iran droht: Huss: \"Russland führt diesen Krieg in eine Koalition\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFJySUxrdGc5TlV0LWlBbkt4Z1VoSzR1eFNWdDdpbFc5MksxVnprbDlIZWs1Z0RTZWNyVW9NYkNBTEVMSzRZbzJUME55RmgxUmRGVi1rVGZucUl4UjJBSFp3bFdJZXJ1WE9mMXI1THE1bkwyV29PVEJmNFdlMlpWX1NwMjVxV3NxSVFGU0hCQUZ4dVhnakc4cnJDRGtNbm5aaUZIUlgtM2xCcS1QZjVWMnJR?oc=5",
-   "pub": "Sat, 01 Aug 2026 09:09:11 GMT"
-  },
-  {
-   "t": "USA: Iran soll hinter Cyberangriffen auf Trinkwasserversorgung in Minnesota stecken - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS1JOdkEwYzhicVFNc2UxUktLd3g2c2RvRG9yYll3ZXRUR0Z0TFM3Wi1UWTlud1pZY0t4ZHlVcmo2WjhrX3RGQ05NWWNYUGhVQWVxS05oaE1mVzVGcVVLd1JOSWlyT3BPY1lvTnZrdTRTSlUzekxKVnVrT1gtcFZQLUZyNk8ydzhhQjdCUlJhbmZBQzRJN1RkWEdZaTJVREVKRW1wVDhpLUdESTN4Y3VEa3hJM2FuM3g4RGV1Tll1dklpVXpqa2dnSkJkeW9CaWJ5THA5dThoSUZFanRIM19KaHZ4WUlzc2M?oc=5",
-   "pub": "Fri, 31 Jul 2026 18:30:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg vor neuer Eskalation: Trump plant große Angriffswelle – Teheran droht mit Gegenschlägen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGJGY3VwYzEyNnBJaFBJdTlvSGNqYnQxY0kxeDVHaGVPOURNaENMYU56T19OcXJURkVGbk9pTFRaR0JCRkt5d3ZKc0ZQMjQ0MzVkVnhYZDE1V3k1YWQ3WVBSOFRhd1FJVTdCV1NiZFhrdzhlblZVUWU1Yy1MdVZSblVrb1hhSHRqaDdoUWw0blVOOHZSUEpyVXBNU2w?oc=5",
-   "pub": "Sat, 01 Aug 2026 05:21:06 GMT"
-  },
-  {
-   "t": "Iran soll hinter Attacke auf Wasserversorgung stecken | USA-News - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGdyNVhzNTNEbEFDOThtQ2RZUllJdzlDdks4bFg5ZENweWs4NXBmTV9tdFhJYXUydi1kWU5abkdWV1liRi1YTlpGeDhnc0ZveEQ5eVhPdmxpN2N5NDBCaktla21Pc1lhSGxTSlFsR21KNEtsdzdWUkNrNF9lcnpoQnFwd0hRNDlYb0MzU19sdzJqOUJaYmd5Z18xOHFoZVRyTHE0YjkxbTJXNmJ2ajg3Nm9mOG9Gcnpwc0F4dGUzamc?oc=5",
-   "pub": "Fri, 31 Jul 2026 18:44:00 GMT"
-  },
-  {
-   "t": "Trump droht Iran mit heftigen Angriffen - US-Medien: Attacken am Wochenende möglich - stern.de",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSU5oQi1QQ3dYSUJXTWc3eE4zQVZvYXVfSVZBdDM1MGxnTFhFZFpOM3pBc04xS185YU4zWDAtaW95ai1ZVklPcW51R0t3NGxZSmJfSkpyc21aWHNOOHhDbGs5UnVaUnJWalhfS1c3OUVvZ25KMTBLanhiQnJadWFOeUkwSXJQMHYtMnJJb1p6SnNycEpWY0hxMml0NWNoUXRVTnNwbUJRRWFiTWI5eDc2c2gwVmFHcEFQWTRRaWRPZnZpUQ?oc=5",
-   "pub": "Sat, 01 Aug 2026 03:46:09 GMT"
+   "t": "Amerika durchbricht 28-jährige Regel: Yen gerettet, Bitcoin-Kurs reagiert zuerst - BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQVjZQeWtkdkQxNDlodGVmeThSRjV0d0dlZFhDTGxONEpPaEljUGZFTzBJR0d5aXdYdmNMZER0cVdfb3U3QmhKeDk1VXctU0R1LTNsOFN6cDNYa0twR1BGVFJaVVQtektpRXFZVnNDUjZ5MkxQdzVr?oc=5",
+   "pub": "Sat, 01 Aug 2026 09:51:00 GMT"
   }
  ]
 }
