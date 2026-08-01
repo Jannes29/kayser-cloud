@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-01T19:36:49Z",
+ "collected_at": "2026-08-01T21:10:13Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -64,7 +64,7 @@
    "pub": "Sat, 01 Aug 2026 11:02:42 GMT"
   },
   {
-   "t": "Doanld Trump erwägt offenbar neue Angriffe, Iran droht mit Gegenschlägen - Spiegel",
+   "t": "Doanld Trump erwägt offenbar neue Angriffe, Iran droht mit Gegenschlägen - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFd2aE9vbEp2YTNtNlBsZktHQ3ZrY3NONnBoWnN4UmtEYUxyaFdjeEpiYlp6Q0ZSMVBpX2FaQ1doNEt5OUpPLVlZZTMwZEZDTnJQM0xITmhYTm9wSmNiQVJnb0p3Mmdab2c0NUh3d00yRmdjM3V5V1RJUmp4OVFqdU00d1dFdERuRWRDOFVSbGFwcEhyd09BSmpPTGc0TnJkU3VGc2JWLWRheWUwb0R0ZGp1QldhczdqR21JOEhpd3dEMnA4TDg1cHZ0c3hKMDRqSUE?oc=5",
    "pub": "Sat, 01 Aug 2026 03:42:00 GMT"
   },
@@ -79,11 +79,6 @@
    "pub": "Sat, 01 Aug 2026 03:41:33 GMT"
   },
   {
-   "t": "Nahost-Krieg aktuell: Iran greift Regierungsgebäude in Kuwait an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT05kN1ZLTlp4YVE5Y0RDa1ZvcFFTUlF0RnZ1eHhzV1JnYmdlRUpRR2FUdjljMEZLdE9hdHZEUzhId0s1cnhXZUVQNzFQb0RoRTNxLTREWWJMVnhpeVhTLVVOd3pnOE0zOWlKOEhBZVdYV2l5ckhDcGVLcGtvNmEzOUx4b0Q4WHFZZkhRZFI1MjJURTlLd1N5QlVYQzI2T1lBc3FVVnFkNHBOc18xX1dUeHBfcHRBQnlSaEFUTWs5dkJqWEFvek8wcGdnV2pxQQ?oc=5",
-   "pub": "Sat, 01 Aug 2026 13:01:30 GMT"
-  },
-  {
    "t": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzdpc0dUTTU5ZVg3MUVSN0FnTnVJQnpiOE5qdmcwRENiZl9tR0dJRHNuSm5QZG1RMDhIUGdwMEFPTEhJRG9uTkp0Z3dEdkNIWHpNQlZZU0pBR0FEUFpPQl9iUF9EdENPOGhLcGM3QmRWYThfcVBqOFQwRUpKMFdkeG9Wa1NlbnNUNjlWTkx0WjEyd2F3bnd0cUU5V09nRzlBc2JwTUFaM3ViUFNTVUxaNk52emNFcl9WOTluOU1OZkdhX0VyRVpLM1ZqNWlqTEdaam1J?oc=5",
    "pub": "Sat, 01 Aug 2026 04:03:11 GMT"
@@ -94,19 +89,24 @@
    "pub": "Sat, 01 Aug 2026 09:38:15 GMT"
   },
   {
+   "t": "Nahost-Krieg aktuell: Iran greift Regierungsgebäude in Kuwait an - t-online.de",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT05kN1ZLTlp4YVE5Y0RDa1ZvcFFTUlF0RnZ1eHhzV1JnYmdlRUpRR2FUdjljMEZLdE9hdHZEUzhId0s1cnhXZUVQNzFQb0RoRTNxLTREWWJMVnhpeVhTLVVOd3pnOE0zOWlKOEhBZVdYV2l5ckhDcGVLcGtvNmEzOUx4b0Q4WHFZZkhRZFI1MjJURTlLd1N5QlVYQzI2T1lBc3FVVnFkNHBOc18xX1dUeHBfcHRBQnlSaEFUTWs5dkJqWEFvek8wcGdnV2pxQQ?oc=5",
+   "pub": "Sat, 01 Aug 2026 13:01:30 GMT"
+  },
+  {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "Trump droht Iran mit neuen heftigen Angriffen - Teheran warnt US-Verbündete - STERN.de",
+   "t": "Trump droht Iran mit neuen heftigen Angriffen - Teheran warnt US-Verbündete - stern.de",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhXWjFjZnlNM0h4NVBoS1B1TXdvMjYwQ2I3MXM4ZGhnSzhnaVZjMWx2V2w3SUVFOHh5S1BaSEcwaGtlWjZyU1M1WlhIY3dXTFhKU2ZrenRuakpPSTI1TWl6bmpMWkVJQ2VldUpoeDVOODVxOEJhUjF1ck9hOWlCcDE5SmNlYy14RGZ2OU9VMXp4X0RrTUI0TVdwck1yZ2J6VFJyUUZCY1FUd3pFbm9Dc18zQXE2VGM?oc=5",
    "pub": "Sat, 01 Aug 2026 14:08:01 GMT"
   },
   {
-   "t": "Deutsche Wirtschaft wächst trotz Iran-Krieg - nd-aktuell.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3lfSlF6WExCYW5TRXQ1TUYxMHBEcFNGMUNkb2hENS1pMUhwaXBkVW96N1F5R0FyZTUzdHFRM2tNRDBic3dfbjh5MHpWb3lVWTlJTTk2SnR1N2JjNVNsLTJ1UVdwZ3FTV0lNeDdILWdSSUJWcm81T1A3RzNVV3lnWno1dE0yaXJGa2dfTm1EZzJQN01QbUVZblh3S1I2SnhaUURUbEV5b3VTYVQyZGlNUU5R?oc=5",
-   "pub": "Sat, 01 Aug 2026 13:44:17 GMT"
+   "t": "Iran-Krieg - Regierungsgebäude in Kuwait angegriffen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUl93aEJMaFFSbldzUG1CbkJKZHpjdjA5S3Z3TEExaGxFcUVYc3hzS2hyc1ZVamtXMVNDejVYYVphV1NsamtxQnBsTTRjbGpmeldfeG80R3NvcjYwa0ItZnN1Z2xDNWN5OUZFM2FhQnhacXZrSmY0ZnBmUFBiU1JxckZyanprOWs?oc=5",
+   "pub": "Sat, 01 Aug 2026 16:00:00 GMT"
   }
  ]
 }
