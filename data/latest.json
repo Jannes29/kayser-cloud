@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-08-02T18:14:16Z",
+ "collected_at": "2026-08-02T19:37:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8074,
-   "chg1d_pct": 0.2
+   "price": 0.8057,
+   "chg1d_pct": -0.01
   },
   "USDJPY": {
-   "price": 157.4,
-   "chg1d_pct": -1.74
+   "price": 157.229,
+   "chg1d_pct": -1.84
   },
   "GBPCAD": {
-   "price": 1.8898,
-   "chg1d_pct": 0.21
+   "price": 1.8888,
+   "chg1d_pct": 0.16
   },
   "AUDJPY": {
-   "price": 110.563,
-   "chg1d_pct": -1.73
+   "price": 110.896,
+   "chg1d_pct": -1.43
   },
   "EURUSD": {
-   "price": 1.1527,
-   "chg1d_pct": 0.03
+   "price": 1.1546,
+   "chg1d_pct": 0.2
   },
   "GBPCHF": {
-   "price": 1.0884,
-   "chg1d_pct": 0.36
+   "price": 1.0869,
+   "chg1d_pct": 0.22
   },
   "WTI": {
    "price": 84.67,
@@ -59,7 +59,7 @@
    "pub": "Sun, 02 Aug 2026 08:03:07 GMT"
   },
   {
-   "t": "Ölversorgung trotz Iran-Krieg: Warum blieb die Krise aus - FAZ",
+   "t": "Ölversorgung trotz Iran-Krieg: Warum blieb die Krise aus - faz.net",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFQyclhMalpkZmRVRHh2RkhWSXFuQXY0YVlOXzh4N25xd2pOUy1pdFZUTkplbmxMb21nZGVEVVFBdkJGV2I4cEJXbVdPck5FTHc2RTVtNWN3VUVSS1pSY3U0aHBDOUg3X1BzWDZuMEZ4QlJONk55a3hMS0dKbTExOEllUUk2RWM1bU5SdW5FZUJuTV9qd2ZseTVidWRxTWxhVGdNZDVBaXhZVXdOdzBDT05xM0lRVjNEUDRuRQ?oc=5",
    "pub": "Sun, 02 Aug 2026 17:04:24 GMT"
   },
@@ -79,14 +79,19 @@
    "pub": "Sun, 02 Aug 2026 09:53:39 GMT"
   },
   {
+   "t": "Iran-Krieg: „Wirtschaftliche Notlage“ möglich – Miersch erwägt neue Staatshilfen - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZllPU0h2YVVRR05YckZaMGxjY1A4UEZRTVJQWEV3RDJ1YWduSGhNTE1vY0l3TlRjUEhMRmZiY2oxbnRWNEYtakVOdFJ0QmNVbktydHJNLVpkZjFxRkZyTk1IaXdtbXViY2pXalRkOXVtR3FMVU5WaUN3eER0MjNfTU9CTGQ3MXk4bTBlVlZLcjNMUml4TXhtTzA4RkNsU28tWmQ5YkxNbkFEZ0I2ZVZTNkxiOEVKZEhSa0t1YVo5d1FoVlBqR0J6eUp5cjNobXNMekE?oc=5",
+   "pub": "Sun, 02 Aug 2026 19:00:00 GMT"
+  },
+  {
    "t": "Verräterischer Notizblock: Bericht: USA und Japan stoppen gemeinsam Yen-Absturz - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQellZTEVaZzNKN1cyUWRUbUllLWRSbllURTJ6bmJRSGRwR3dKMG8tZ0N5OEpBTHpSUk9veTR2MXVJV3BJd1NtM1drd24xSXNEZTIzZzV2SjFIeWtJNFdnWFRTdENXa0FJcElNMl84MUxkbEFjaFAwNjJjOW1xVzZ5YjVaakRiY1llOXgxVGw3cERSajVBZVo5anJPN1VrcHM?oc=5",
    "pub": "Sun, 02 Aug 2026 05:59:00 GMT"
   },
   {
-   "t": "US-Plan enthüllt: Ein Notizblock verrät eine Milliardenaktion – nun geht es um den Yen-Absturz - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWJIQktRSU10Z3hlU2xWUVhKY3dPVnY4TGhaNU90S3U2VnI4SjBOUlI4SGU4c0Q2cWoyMWJ1MHB2cW4wR2l3WUp2TFFHQ2JKcjJLbzBtc0drT3VEbGZIbnFBRi1MeG9haWRMZFA1TzN2TlhSU3FPaDFubVBCMjhXLXpvc0M3NTRxejg0ak9YaWRpWEU?oc=5",
-   "pub": "Sun, 02 Aug 2026 09:16:29 GMT"
+   "t": "Ukraine- und Iran-Krieg plötzlich dicht beinander: Schlag schien möglich – was dahintersteckt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemdDVHdpd0RCX3lJSVpWa0M0UW90SmlVd015a0ltaFJWRWNFVmRBS2YwcmRkOHJpMmFFS2dTQWVKUVI5NGZlYzhQbWRCenR4Tkg1N1h2elRBMVItUVRyLUV0TE92YkgyQVpZdmdNRG9Mbnl5RWNER1luMjJWV1lkQjhic01MUEpzZXRLX0FIaXlUeExRMVdwT0VndHVHYVdqZHBxQTlQWWJEUGs5?oc=5",
+   "pub": "Sun, 02 Aug 2026 17:00:00 GMT"
   },
   {
    "t": "Trump sagt, die USA und Israel würden mit Angriffen auf den Iran noch warten - euractiv.com",
@@ -102,11 +107,6 @@
    "t": "Yen: Japan und USA intervenieren gemeinsam gegen Währungsschwäche - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRERlU2ZPNTh2VF9UZUlvRldqR0dHekFfZ2R3X2t1SGhGcFNoUkJkeW5BMm5QMTk5TGRqMm11YnJPWDNCWW9wWnNCN0pvLTI4dkRrX2lZSGxZVnNOSUNQRkF4ajhsemlqZEZ4ODNld2xVcGNkQXUzdUJEWl9KY3dnazRDU1Q1UlZSazl1MGhZd1E2THlEbVZyNWlVaWtzaUNkYzhqYVl5dXlBTS1VaGM4bFRGRTVobkxRd2NnSGd0NTFmLWV3T0pncGZFX1RlQnNCQVJsRllDRjQ2bHlydzlRMEJOV3VUelE?oc=5",
    "pub": "Sun, 02 Aug 2026 10:03:00 GMT"
-  },
-  {
-   "t": "Nach Kriegsdrohungen: USA sagen neue Attacken auf den Iran ab - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkpxRzBFV3VNOUpIMU5ndG9jV3gtTy1DUU5qaFM1NHY2SVVQaThYd3B6UmdGbDhuSTd6NlQ0b2tnZml3dVZlQXNmQ09laks4RVV3dXUxUS1aZW1sNG5EMHA3dmxWdmljUjdUbExGWURRVHhkcW9FRkFuVHNOU0tVNmRmV3ByTVRpaWFpTEZhY2YzLXM?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:38:50 GMT"
   }
  ]
 }
