@@ -1,58 +1,53 @@
 {
- "collected_at": "2026-08-02T22:10:47Z",
+ "collected_at": "2026-08-02T23:13:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8058,
-   "chg1d_pct": 0.0
+   "price": 0.8072,
+   "chg1d_pct": 0.18
   },
   "USDJPY": {
-   "price": 157.028,
-   "chg1d_pct": -1.97
-  },
-  "GBPCAD": {
-   "price": 1.8908,
-   "chg1d_pct": 0.26
-  },
-  "AUDJPY": {
-   "price": 110.636,
+   "price": 157.518,
    "chg1d_pct": -1.66
   },
+  "GBPCAD": {
+   "price": 1.8905,
+   "chg1d_pct": 0.25
+  },
+  "AUDJPY": {
+   "price": 110.944,
+   "chg1d_pct": -1.39
+  },
   "EURUSD": {
-   "price": 1.1557,
-   "chg1d_pct": 0.29
+   "price": 1.1547,
+   "chg1d_pct": 0.2
   },
   "GBPCHF": {
-   "price": 1.0877,
-   "chg1d_pct": 0.3
+   "price": 1.0889,
+   "chg1d_pct": 0.41
   },
   "WTI": {
-   "price": 84.67,
-   "chg1d_pct": 0.0
+   "price": 81.26,
+   "chg1d_pct": -4.03
   },
   "BRENT": {
    "price": 90.12,
    "chg1d_pct": 1.22
   },
   "GOLD": {
-   "price": 4107.0,
-   "chg1d_pct": 1.43
+   "price": 4119.9,
+   "chg1d_pct": 1.75
   },
   "SPX_FUT": {
-   "price": 7519.25,
-   "chg1d_pct": 0.0
+   "price": 7549.5,
+   "chg1d_pct": 0.4
   },
   "NAS_FUT": {
-   "price": 28404.25,
-   "chg1d_pct": 0.0
+   "price": 28588.75,
+   "chg1d_pct": 0.65
   }
  },
  "headlines": [
-  {
-   "t": "Iran-Krieg - Regierungsgebäude in Kuwait angegriffen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmpVUVFvTXlrSnp6Z0haR0l6cEsybzJyR05xenZHQkNDeFBlUlVLVFlxVEVlRFZPVnFhbmI1UUY3WFl3MFZZVl9tYkVITnFqdmdlblZ4THFkdmJIR0Y2ODdOZFVaYU5UaThhVDY1U0FWX09TRjQxYTk4MjFUYnlqUmZxUkg1WE0?oc=5",
-   "pub": "Sun, 02 Aug 2026 14:46:55 GMT"
-  },
   {
    "t": "Iran-Krieg: „Wirtschaftliche Notlage“ möglich – Miersch erwägt neue Staatshilfen - Berliner Morgenpost",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZllPU0h2YVVRR05YckZaMGxjY1A4UEZRTVJQWEV3RDJ1YWduSGhNTE1vY0l3TlRjUEhMRmZiY2oxbnRWNEYtakVOdFJ0QmNVbktydHJNLVpkZjFxRkZyTk1IaXdtbXViY2pXalRkOXVtR3FMVU5WaUN3eER0MjNfTU9CTGQ3MXk4bTBlVlZLcjNMUml4TXhtTzA4RkNsU28tWmQ5YkxNbkFEZ0I2ZVZTNkxiOEVKZEhSa0t1YVo5d1FoVlBqR0J6eUp5cjNobXNMekE?oc=5",
@@ -64,9 +59,9 @@
    "pub": "Sun, 02 Aug 2026 08:03:07 GMT"
   },
   {
-   "t": "Ölversorgung trotz Iran-Krieg: Warum blieb die Krise aus - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFQyclhMalpkZmRVRHh2RkhWSXFuQXY0YVlOXzh4N25xd2pOUy1pdFZUTkplbmxMb21nZGVEVVFBdkJGV2I4cEJXbVdPck5FTHc2RTVtNWN3VUVSS1pSY3U0aHBDOUg3X1BzWDZuMEZ4QlJONk55a3hMS0dKbTExOEllUUk2RWM1bU5SdW5FZUJuTV9qd2ZseTVidWRxTWxhVGdNZDVBaXhZVXdOdzBDT05xM0lRVjNEUDRuRQ?oc=5",
-   "pub": "Sun, 02 Aug 2026 17:04:24 GMT"
+   "t": "Trump stoppt Angriffe für Rahmenabkommen, Iran widerspricht - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjNQVklzUGxlVjNqS09CaTBoaHVLNk9saTNTUjlialA4enpRUXNDdlpXVDBqeE1VMU8wcEFwUWdVVnczXzluckhxSVo2NXFhT2FqYmlSSUtiM1FrWndpdzAtNWJ1dkdPWVR4MVQzRkNzV3hMWnJzWE5mY3RHUFFxa256Ri1oSTRFNUJ6VnpiZkVRQk0?oc=5",
+   "pub": "Sun, 02 Aug 2026 09:53:39 GMT"
   },
   {
    "t": "14-Punkte-Abkommen wiederbeleben: Iran bestätigt Wiederaufnahme der Gespräche mit den USA - n-tv.de",
@@ -74,9 +69,9 @@
    "pub": "Sun, 02 Aug 2026 19:43:26 GMT"
   },
   {
-   "t": "Trump stoppt Angriffe für Rahmenabkommen, Iran widerspricht - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjNQVklzUGxlVjNqS09CaTBoaHVLNk9saTNTUjlialA4enpRUXNDdlpXVDBqeE1VMU8wcEFwUWdVVnczXzluckhxSVo2NXFhT2FqYmlSSUtiM1FrWndpdzAtNWJ1dkdPWVR4MVQzRkNzV3hMWnJzWE5mY3RHUFFxa256Ri1oSTRFNUJ6VnpiZkVRQk0?oc=5",
-   "pub": "Sun, 02 Aug 2026 09:53:39 GMT"
+   "t": "\"Umrisse einer Einigung\" - Trump sagt Angriffe auf Iran ab - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0U3dWhsMlM0ZjFSSHFiNFRhZEdISEcwb1Z4aURCdm1XQ1drM3JUbGM0VEV4SVlLdTJHOUtxU0taQXoyOWJUUm5OTWVtOTkwM2lDeEtRVXliTEgzVXE3ejlMSFVwRERycm0wXzlLOVFfbVo1eHFobXIxMHBMY25pNkpyRVMyMjFLUVpCZmFMc2haYVF0bFZ6U0ZiMnU4c1lwY3gyNWlGQUtTZVnSAasBQVVfeXFMUElqYXp2Vm1aMjBVVkxoTnRHNGNOT0ZvYk9tWXhJTGhZQ0p1alJsYUFKc2I1LV9Ba3dmaFVIYTRFR0drYzM5V2xZRGJsa0x5MVNPcHMxSUpzNWoxVV93VlFwOUk0WUZhczRsaG56ZEtUM25VMjFXZ0M4NThVMVpkZ2tQME44enQwZmNTS2l3SVV4VmtSYktVTHJsejA3eWh4M2lNem5rZFFkUmI4?oc=5",
+   "pub": "Sun, 02 Aug 2026 05:57:56 GMT"
   },
   {
    "t": "Irankrieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
@@ -89,9 +84,9 @@
    "pub": "Sun, 02 Aug 2026 18:55:00 GMT"
   },
   {
-   "t": "\"Umrisse einer Einigung\" - Trump sagt Angriffe auf Iran ab - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0U3dWhsMlM0ZjFSSHFiNFRhZEdISEcwb1Z4aURCdm1XQ1drM3JUbGM0VEV4SVlLdTJHOUtxU0taQXoyOWJUUm5OTWVtOTkwM2lDeEtRVXliTEgzVXE3ejlMSFVwRERycm0wXzlLOVFfbVo1eHFobXIxMHBMY25pNkpyRVMyMjFLUVpCZmFMc2haYVF0bFZ6U0ZiMnU4c1lwY3gyNWlGQUtTZVnSAasBQVVfeXFMUElqYXp2Vm1aMjBVVkxoTnRHNGNOT0ZvYk9tWXhJTGhZQ0p1alJsYUFKc2I1LV9Ba3dmaFVIYTRFR0drYzM5V2xZRGJsa0x5MVNPcHMxSUpzNWoxVV93VlFwOUk0WUZhczRsaG56ZEtUM25VMjFXZ0M4NThVMVpkZ2tQME44enQwZmNTS2l3SVV4VmtSYktVTHJsejA3eWh4M2lNem5rZFFkUmI4?oc=5",
-   "pub": "Sun, 02 Aug 2026 05:57:56 GMT"
+   "t": "„Sie sahen, wie sich der Angriff zusammenbraute“ – Trump kündigt neue Gespräche mit dem Iran an - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUDlnbE9OeTVqODdfb2xrOE4yYUM1VkRzRWt4YmZET3cxMHlKUEpRd0dfYk1KamtJQ0ZjUTMySHBDWWdDa0RVcXNFa1RjWlI0blRzcVY2ZDYtZjMtTEpxemNQaUstNDNRcjU1YXQtbEUzT2VaNS1Wb1VBd3V0Qlh5OWwxM3d2X1NROUcySzBrVi1jUnBUWFhZNmRtY2d2TU80eWhraXVGRFRIZDhiQzg2YmZUbG9EcUxieGhGVFlJQk5ZMkJiWE1HMXBGNVFNTzFTSkJGOEUxbjFIRU1EYlhwVE1GOU5HSGFrckhqTzNoVWVBR3pYMlBaZUpBNTg?oc=5",
+   "pub": "Sun, 02 Aug 2026 22:32:25 GMT"
   },
   {
    "t": "Trump sagt, die USA und Israel würden mit Angriffen auf den Iran noch warten - euractiv.com",
@@ -99,9 +94,14 @@
    "pub": "Sun, 02 Aug 2026 13:58:00 GMT"
   },
   {
-   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:13:12 GMT"
+   "t": "Yen: Japan und USA intervenieren gemeinsam gegen Währungsschwäche - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRERlU2ZPNTh2VF9UZUlvRldqR0dHekFfZ2R3X2t1SGhGcFNoUkJkeW5BMm5QMTk5TGRqMm11YnJPWDNCWW9wWnNCN0pvLTI4dkRrX2lZSGxZVnNOSUNQRkF4ajhsemlqZEZ4ODNld2xVcGNkQXUzdUJEWl9KY3dnazRDU1Q1UlZSazl1MGhZd1E2THlEbVZyNWlVaWtzaUNkYzhqYVl5dXlBTS1VaGM4bFRGRTVobkxRd2NnSGd0NTFmLWV3T0pncGZFX1RlQnNCQVJsRllDRjQ2bHlydzlRMEJOV3VUelE?oc=5",
+   "pub": "Sun, 02 Aug 2026 10:03:00 GMT"
+  },
+  {
+   "t": "Ölversorgung trotz Iran-Krieg: Warum blieb die Krise aus - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFQyclhMalpkZmRVRHh2RkhWSXFuQXY0YVlOXzh4N25xd2pOUy1pdFZUTkplbmxMb21nZGVEVVFBdkJGV2I4cEJXbVdPck5FTHc2RTVtNWN3VUVSS1pSY3U0aHBDOUg3X1BzWDZuMEZ4QlJONk55a3hMS0dKbTExOEllUUk2RWM1bU5SdW5FZUJuTV9qd2ZseTVidWRxTWxhVGdNZDVBaXhZVXdOdzBDT05xM0lRVjNEUDRuRQ?oc=5",
+   "pub": "Sun, 02 Aug 2026 17:04:24 GMT"
   },
   {
    "t": "Ukraine- und Iran-Krieg plötzlich dicht beinander: Schlag schien möglich – was dahintersteckt - Frankfurter Rundschau",
