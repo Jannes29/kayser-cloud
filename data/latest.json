@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-02T11:34:48Z",
+ "collected_at": "2026-08-02T13:56:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,64 @@
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "US-Präsident Trump stoppt vorübergehend Angriffe auf Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oX2tHeGZJWDB6XzFvZ1V2cGF5RnBXbko5VDhaRzdNRGJfQ3ZyWkI2bzRUdll6LVBKamhON1hSdkNhLVVpV0I1X1pKelhWQTlGVy1mMzBGNHAyVHR1WkdR?oc=5",
+   "pub": "Sun, 02 Aug 2026 08:03:07 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGQ2N0w2NlhoVXA4SUJJRy1pZkhwQ1NHVkFHWUx5UWxMZVZqVXk3NFFQRWFNRmRhUV9VcjM3YnpyY0JBbnVVWHpTTllRRXR3N3RnS2VMc0hOX0pqRjhZWF9MZWV6cWc3Zy1DSk1icFRmWTlVa1VwOXdBVmJsWU5OQmtkSFpDeFZ2SXdEQXg0QXRrUDZkdjhGZzZnbHJERmhtNkw0NVNmcGREUzhULVVKcVA5TGxYdWQ1V0tKTTVpMEQ1Si1hLTBxLWV5NnFtSnZ2c2JYZDVqSHZoUUpyRmdNRUxpcHBMbHlRS2Z6eFln?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:33:00 GMT"
+  },
+  {
+   "t": "Verräterischer Notizblock: Bericht: USA und Japan stoppen gemeinsam Yen-Absturz - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQellZTEVaZzNKN1cyUWRUbUllLWRSbllURTJ6bmJRSGRwR3dKMG8tZ0N5OEpBTHpSUk9veTR2MXVJV3BJd1NtM1drd24xSXNEZTIzZzV2SjFIeWtJNFdnWFRTdENXa0FJcElNMl84MUxkbEFjaFAwNjJjOW1xVzZ5YjVaakRiY1llOXgxVGw3cERSajVBZVo5anJPN1VrcHM?oc=5",
+   "pub": "Sun, 02 Aug 2026 05:59:00 GMT"
+  },
+  {
+   "t": "Trump stoppt Angriffe für Rahmenabkommen, Iran widerspricht - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjNQVklzUGxlVjNqS09CaTBoaHVLNk9saTNTUjlialA4enpRUXNDdlpXVDBqeE1VMU8wcEFwUWdVVnczXzluckhxSVo2NXFhT2FqYmlSSUtiM1FrWndpdzAtNWJ1dkdPWVR4MVQzRkNzV3hMWnJzWE5mY3RHUFFxa256Ri1oSTRFNUJ6VnpiZkVRQk0?oc=5",
+   "pub": "Sun, 02 Aug 2026 09:53:39 GMT"
+  },
+  {
+   "t": "US-Plan enthüllt: Ein Notizblock verrät eine Milliardenaktion – nun geht es um den Yen-Absturz - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWJIQktRSU10Z3hlU2xWUVhKY3dPVnY4TGhaNU90S3U2VnI4SjBOUlI4SGU4c0Q2cWoyMWJ1MHB2cW4wR2l3WUp2TFFHQ2JKcjJLbzBtc0drT3VEbGZIbnFBRi1MeG9haWRMZFA1TzN2TlhSU3FPaDFubVBCMjhXLXpvc0M3NTRxejg0ak9YaWRpWEU?oc=5",
+   "pub": "Sun, 02 Aug 2026 09:16:29 GMT"
+  },
+  {
+   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:13:12 GMT"
+  },
+  {
+   "t": "Nahost - Trump erklärt vorläufigen Verzicht auf Angriffe im Iran - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREdyV1hzbjBPX0VZYnAxdkJkaGoyR1Zib28xRG9OYVhDN0lYa0NITFlkZnhZZl9IcVR3MnBLMkdib0d3amZaM0Y4bkVwVjEtLUVybjh1U2o3aF9veV9tamxYTUZjSm5jMWhPamltUjZIV2lZLVJmMHR4U0FmUF96OTVFaE9zRl9welY0dFlLNTdMT29LREJvMHJqX21Kdw?oc=5",
+   "pub": "Sun, 02 Aug 2026 08:00:00 GMT"
+  },
+  {
+   "t": "\"Umrisse einer Einigung\" - Trump sagt Angriffe auf Iran ab - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0U3dWhsMlM0ZjFSSHFiNFRhZEdISEcwb1Z4aURCdm1XQ1drM3JUbGM0VEV4SVlLdTJHOUtxU0taQXoyOWJUUm5OTWVtOTkwM2lDeEtRVXliTEgzVXE3ejlMSFVwRERycm0wXzlLOVFfbVo1eHFobXIxMHBMY25pNkpyRVMyMjFLUVpCZmFMc2haYVF0bFZ6U0ZiMnU4c1lwY3gyNWlGQUtTZVnSAasBQVVfeXFMUElqYXp2Vm1aMjBVVkxoTnRHNGNOT0ZvYk9tWXhJTGhZQ0p1alJsYUFKc2I1LV9Ba3dmaFVIYTRFR0drYzM5V2xZRGJsa0x5MVNPcHMxSUpzNWoxVV93VlFwOUk0WUZhczRsaG56ZEtUM25VMjFXZ0M4NThVMVpkZ2tQME44enQwZmNTS2l3SVV4VmtSYktVTHJsejA3eWh4M2lNem5rZFFkUmI4?oc=5",
+   "pub": "Sun, 02 Aug 2026 06:35:07 GMT"
+  },
+  {
+   "t": "Iran: Neuer Geheimplan von Donald Trump soll Mullahs in die Knie zwingen - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWm9WX1k5YjE3Ulk3MUtGM0R5Nk41SERxeUZnS1ZiOHQxbElWRklJOHRjeU93VzdNN09DWEVwa1lvRnczYUtneGF5ZG45MU1tLTBjWjZ2Q3J3andORDdtRW1haUNWQnFxWHU3SWhwcS1CaXF4Wm5PdmVEbExSN3NfLVA2RFpJR0ZmNkxnQ3M0RVBuNE1fZUgxX3FWVnExbmhTMzJkTkNya253MjJLc3FBU0hCZjluX2IzM0Ftb1lYcUZ1WFEzU09wdjFKbnhPVFUzd01FejAzcG5YZEs1bzVQbUs5RjM5X0k?oc=5",
+   "pub": "Sun, 02 Aug 2026 07:03:39 GMT"
+  },
+  {
+   "t": "Nach Kriegsdrohungen: USA sagen neue Attacken auf den Iran ab - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkpxRzBFV3VNOUpIMU5ndG9jV3gtTy1DUU5qaFM1NHY2SVVQaThYd3B6UmdGbDhuSTd6NlQ0b2tnZml3dVZlQXNmQ09laks4RVV3dXUxUS1aZW1sNG5EMHA3dmxWdmljUjdUbExGWURRVHhkcW9FRkFuVHNOU0tVNmRmV3ByTVRpaWFpTEZhY2YzLXM?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:38:50 GMT"
+  },
+  {
+   "t": "\"Nichts als eine neue Lüge\": Iran widerspricht Trump bei angeblicher Bitte um Angriffspause - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODdkY0hLMnloRGhDWFN0cEdqWTFwZGJGeVM4V1pTejU1NkRLNm1jQUhnYURGWFF1ZEVRWXVZbFpqQnZXcnhWNVJrcmdCdzdoUmw1OXUxOU1aOWJBMFlQUmlGSnFkaU1hdzVXbTRRczA0U2s1LVNYWGdpVGw4NXVsSTBWYllrVy1aT3RDYm5sdlB6cGxHZzlLLUFBNG15R2NLSHYzdVkyN3BxQQ?oc=5",
+   "pub": "Sun, 02 Aug 2026 12:29:51 GMT"
+  },
+  {
+   "t": "Trump-Wende im Iran-Krieg: USA verzichten vorerst auf neue Angriffe – „Umrisse einer Einigung“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWg3cXFaTGtSbmwtSWpqcmIwa0U1Yi0wQl91Z3B3bmUwS3c3aC04RnY3bTl3VERmV0FmaVdOelplQjJrQTJ0ODZTYzdINUgyOWVBaEZ6TkJYR19JclR6dG5GYUJzdGMzeXBWaGEydlZXOURfV0FKWWw0RTZFSkV2MjVlc1ctT1ozWnpBYVVHdThrblF4UXVVTEZEZFM?oc=5",
+   "pub": "Sun, 02 Aug 2026 08:48:00 GMT"
   }
  ]
 }
