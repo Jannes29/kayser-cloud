@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-02T09:22:46Z",
+ "collected_at": "2026-08-02T11:34:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,64 +49,7 @@
  },
  "headlines": [
   {
-   "t": "US-Präsident Trump stoppt vorübergehend Angriffe auf Iran - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oX2tHeGZJWDB6XzFvZ1V2cGF5RnBXbko5VDhaRzdNRGJfQ3ZyWkI2bzRUdll6LVBKamhON1hSdkNhLVVpV0I1X1pKelhWQTlGVy1mMzBGNHAyVHR1WkdR?oc=5",
-   "pub": "Sun, 02 Aug 2026 08:03:07 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGQ2N0w2NlhoVXA4SUJJRy1pZkhwQ1NHVkFHWUx5UWxMZVZqVXk3NFFQRWFNRmRhUV9VcjM3YnpyY0JBbnVVWHpTTllRRXR3N3RnS2VMc0hOX0pqRjhZWF9MZWV6cWc3Zy1DSk1icFRmWTlVa1VwOXdBVmJsWU5OQmtkSFpDeFZ2SXdEQXg0QXRrUDZkdjhGZzZnbHJERmhtNkw0NVNmcGREUzhULVVKcVA5TGxYdWQ1V0tKTTVpMEQ1Si1hLTBxLWV5NnFtSnZ2c2JYZDVqSHZoUUpyRmdNRUxpcHBMbHlRS2Z6eFln?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:33:00 GMT"
-  },
-  {
-   "t": "Verräterischer Notizblock: Bericht: USA und Japan stoppen gemeinsam Yen-Absturz - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQellZTEVaZzNKN1cyUWRUbUllLWRSbllURTJ6bmJRSGRwR3dKMG8tZ0N5OEpBTHpSUk9veTR2MXVJV3BJd1NtM1drd24xSXNEZTIzZzV2SjFIeWtJNFdnWFRTdENXa0FJcElNMl84MUxkbEFjaFAwNjJjOW1xVzZ5YjVaakRiY1llOXgxVGw3cERSajVBZVo5anJPN1VrcHM?oc=5",
-   "pub": "Sun, 02 Aug 2026 05:59:00 GMT"
-  },
-  {
-   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:13:12 GMT"
-  },
-  {
-   "t": "Iran-Krieg - Regierungsgebäude in Kuwait angegriffen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmpVUVFvTXlrSnp6Z0haR0l6cEsybzJyR05xenZHQkNDeFBlUlVLVFlxVEVlRFZPVnFhbmI1UUY3WFl3MFZZVl9tYkVITnFqdmdlblZ4THFkdmJIR0Y2ODdOZFVaYU5UaThhVDY1U0FWX09TRjQxYTk4MjFUYnlqUmZxUkg1WE0?oc=5",
-   "pub": "Sun, 02 Aug 2026 03:45:03 GMT"
-  },
-  {
-   "t": "Trump sagt neue Angriffswelle ab - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZV9ibkNZNDI1SnhyYWFiYnRPY1E5M2xOdWVUbGRxQnhTOE9hS0VZMUNndFBLOGdzbW1RTmpiVTZUckhjdm41Y0ZuaUJjcmdCTE5xQXVFX3FIWmhYREVKNllxVG5kaVFzc2pRUmlxdkRmSDFiNi1qcFpTV0FKSXBlbm9TZw?oc=5",
-   "pub": "Sun, 02 Aug 2026 06:23:16 GMT"
-  },
-  {
-   "t": "Trump: USA und Israel setzen neue Angriffe auf den Iran aus - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblNuOGxHQjJPUHlDNHZnMXJEUjhnMVg0SG1BcW9JM1RBRTdqTk1seGNDa2pnUjFaVXZqakhVSGlQajZfSG5ULWJJWGl5NDJfTm51UDlQdm44MzdRMHlTenV3UUlxOW5mcEJBcURWSHVta3J4Vml3YkpNQWVGMHhiVFlLa2FNZGFtc2UzRllMelMtanJBVGlHRnloR1FscklF?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:46:57 GMT"
-  },
-  {
-   "t": "Iran warnt drei EU-Hauptstädte: „Jede Beteiligung an Angriff hat Folgen“ - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xMG5ta2hadUJQbFRBVVc5a0xwR1Z2a3BRWmZ5bDk1UkROR0pnOGhjVmlRdnJXanNreXp6bWhDd3hFbC1TVlZ4SEltbDVFcnBJT09LaGRLYkxzWVlfMUxZd0pybElCbWlqODFoVHVETGVjUVU?oc=5",
-   "pub": "Sat, 01 Aug 2026 11:02:42 GMT"
-  },
-  {
-   "t": "Iran-Krieg vor neuer Eskalation: Trump plant große Angriffswelle – Teheran droht mit Gegenschlägen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR2xrM1NQcE4tTXI1eDdaeVlQYUJiQmNkQm9xUzRXVnhmeTlDMC1md0t2dWlXdUZxMENCVmc0c1VkWmpIaEpVMzhnTTZPOTZyU21SU0FvWFBjM0VMU1QyYUR1OXY0ekI0VDF4YThIWnM4bUh0ckM1N25JRENTZE9EUWFDMkl0WXhlZVNhVmlBWmF0Y1lXVmtSZktCc3M?oc=5",
-   "pub": "Sat, 01 Aug 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
-  },
-  {
-   "t": "Nach Kriegsdrohungen: Trump sagt neue Attacken auf den Iran ab - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2haNXdmYXFkcEVpRnRxMUpYdmZTNjVhVkdReC1TRWdwc0dNSTJOT1hwdVRZb0JROWZvQTBTdWh3X3hGekhhQ1EwSlJqWi1SYVVtaG15dUpxMXRUU2hEN2dRUFF1ZDd5c1JUajZoemRBc0JLSzUzazdZc09RQ3oxNnhsSXVCZ1FBM0JjTmNzd0pvVERmdEE?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:38:50 GMT"
-  },
-  {
-   "t": "Nahost - Trump erklärt vorläufigen Verzicht auf Angriffe im Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREdyV1hzbjBPX0VZYnAxdkJkaGoyR1Zib28xRG9OYVhDN0lYa0NITFlkZnhZZl9IcVR3MnBLMkdib0d3amZaM0Y4bkVwVjEtLUVybjh1U2o3aF9veV9tamxYTUZjSm5jMWhPamltUjZIV2lZLVJmMHR4U0FmUF96OTVFaE9zRl9welY0dFlLNTdMT29LREJvMHJqX21Kdw?oc=5",
-   "pub": "Sun, 02 Aug 2026 08:00:00 GMT"
+   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
   }
  ]
 }
