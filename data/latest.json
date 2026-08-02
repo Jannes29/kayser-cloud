@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-02T03:55:35Z",
+ "collected_at": "2026-08-02T06:45:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,34 @@
  },
  "headlines": [
   {
-   "t": "Trump droht Iran mit massiven Angriffen - Tagesschau.de",
+   "t": "Iran-Krieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGQ2N0w2NlhoVXA4SUJJRy1pZkhwQ1NHVkFHWUx5UWxMZVZqVXk3NFFQRWFNRmRhUV9VcjM3YnpyY0JBbnVVWHpTTllRRXR3N3RnS2VMc0hOX0pqRjhZWF9MZWV6cWc3Zy1DSk1icFRmWTlVa1VwOXdBVmJsWU5OQmtkSFpDeFZ2SXdEQXg0QXRrUDZkdjhGZzZnbHJERmhtNkw0NVNmcGREUzhULVVKcVA5TGxYdWQ1V0tKTTVpMEQ1Si1hLTBxLWV5NnFtSnZ2c2JYZDVqSHZoUUpyRmdNRUxpcHBMbHlRS2Z6eFln?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:33:00 GMT"
+  },
+  {
+   "t": "Nach Kriegsdrohungen: USA sagen neue Attacken auf den Iran ab - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkpxRzBFV3VNOUpIMU5ndG9jV3gtTy1DUU5qaFM1NHY2SVVQaThYd3B6UmdGbDhuSTd6NlQ0b2tnZml3dVZlQXNmQ09laks4RVV3dXUxUS1aZW1sNG5EMHA3dmxWdmljUjdUbExGWURRVHhkcW9FRkFuVHNOU0tVNmRmV3ByTVRpaWFpTEZhY2YzLXM?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:38:50 GMT"
+  },
+  {
+   "t": "Iran-Krieg - Regierungsgebäude in Kuwait angegriffen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmpVUVFvTXlrSnp6Z0haR0l6cEsybzJyR05xenZHQkNDeFBlUlVLVFlxVEVlRFZPVnFhbmI1UUY3WFl3MFZZVl9tYkVITnFqdmdlblZ4THFkdmJIR0Y2ODdOZFVaYU5UaThhVDY1U0FWX09TRjQxYTk4MjFUYnlqUmZxUkg1WE0?oc=5",
+   "pub": "Sun, 02 Aug 2026 03:45:03 GMT"
+  },
+  {
+   "t": "Trump droht Iran mit massiven Angriffen - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6U0djb3NMZzlwWHpEM2QzYndxREUyQUw3ckhRYXFvZmF0ZzBFbEVHa3hGNXl2NFFUUW02WjZaM190U1lwSE05UHRsUHNkUy1BVVRnMTJzdHJRcUdHZ19V?oc=5",
    "pub": "Sat, 01 Aug 2026 11:20:55 GMT"
   },
   {
-   "t": "Nahost - Trump erklärt vorläufigen Verzicht auf Angriffe im Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOHNqaUo3bGc1MzFaeHRDSHdwb2FPZkZvRXRaWlZDZ1hiQTFIYlFOc1ExX0hIWW1KNXZGT2Q1UDY4a2VybXlZcDZzQVNLbWdzcVhhWE4tWHBXYVlvbHpSSE5zWExiUVdEUDhkMmJJVXRTNldNX1RXbTZVUC1WSjdXeEdCZ3NWb09VLVNteEwwVUMwd3BVYzU5LWV0LVZaUQ?oc=5",
-   "pub": "Sun, 02 Aug 2026 02:59:31 GMT"
+   "t": "Trump: USA und Israel setzen neue Angriffe auf den Iran aus - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblNuOGxHQjJPUHlDNHZnMXJEUjhnMVg0SG1BcW9JM1RBRTdqTk1seGNDa2pnUjFaVXZqakhVSGlQajZfSG5ULWJJWGl5NDJfTm51UDlQdm44MzdRMHlTenV3UUlxOW5mcEJBcURWSHVta3J4Vml3YkpNQWVGMHhiVFlLa2FNZGFtc2UzRllMelMtanJBVGlHRnloR1FscklF?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:46:57 GMT"
+  },
+  {
+   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:13:12 GMT"
   },
   {
    "t": "Iran warnt drei EU-Hauptstädte: „Jede Beteiligung an Angriff hat Folgen“ - Euronews.com",
@@ -64,9 +84,9 @@
    "pub": "Sat, 01 Aug 2026 11:02:42 GMT"
   },
   {
-   "t": "Trump: USA und Israel verzichten vorerst auf neue Angriffe auf den Iran - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUtHcnpmTjRZUzkxMkZXdU5DOG42ZF9KbU9UTXhwSndsTzg5NEh1QXJLUHFuX0p2NVRUakRPekRSakpVa3Q1NlU3YTc3ZDBNLXd6VGM5aHh6aFFnUEpocDNTN2hKbTRVNlVydjlkRXh2OGZaV3RCZXNPeWRZdkVUeHdIbUpvU3JwTm40Y1ZJUDREaW14TGtyRjBFV1J3WHRqR0ctX3hubDYxY3NJeERsaA?oc=5",
-   "pub": "Sun, 02 Aug 2026 02:43:00 GMT"
+   "t": "Trump sagt neue Angriffswelle ab - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZV9ibkNZNDI1SnhyYWFiYnRPY1E5M2xOdWVUbGRxQnhTOE9hS0VZMUNndFBLOGdzbW1RTmpiVTZUckhjdm41Y0ZuaUJjcmdCTE5xQXVFX3FIWmhYREVKNllxVG5kaVFzc2pRUmlxdkRmSDFiNi1qcFpTV0FKSXBlbm9TZw?oc=5",
+   "pub": "Sun, 02 Aug 2026 06:23:16 GMT"
   },
   {
    "t": "Iran-Krieg vor neuer Eskalation: Trump plant große Angriffswelle – Teheran droht mit Gegenschlägen - Frankfurter Rundschau",
@@ -74,39 +94,19 @@
    "pub": "Sat, 01 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "Donald Trump droht, Iran „sehr hart“ zu treffen - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FdndLQ1paUm5Pc1FCTkFZVGM5cnVZUEg1U3NfYlFNNWxuYV9pRE5pOUhhZFJCOWhPWjh6cC1hWXZkVlYxMUhZR3M1VHUxVVNoUE1XNG5scjJ1OG01VmZPUUhFdGNvTFlINVZiWkd1M0UzRVZIUnFPckMyYw?oc=5",
-   "pub": "Sat, 01 Aug 2026 10:14:00 GMT"
-  },
-  {
-   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
-   "pub": "Sun, 02 Aug 2026 02:58:17 GMT"
-  },
-  {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "Doanld Trump erwägt offenbar neue Angriffe, Iran droht mit Gegenschlägen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdFd2aE9vbEp2YTNtNlBsZktHQ3ZrY3NONnBoWnN4UmtEYUxyaFdjeEpiYlp6Q0ZSMVBpX2FaQ1doNEt5OUpPLVlZZTMwZEZDTnJQM0xITmhYTm9wSmNiQVJnb0p3Mmdab2c0NUh3d00yRmdjM3V5V1RJUmp4OVFqdU00d1dFdERuRWRDOFVSbGFwcEhyd09BSmpPTGc0TnJkU3VGc2JWLWRheWUwb0R0ZGp1QldhczdqR21JOEhpd3dEMnA4TDg1cHZ0c3hKMDRqSUE?oc=5",
-   "pub": "Sat, 01 Aug 2026 03:42:00 GMT"
+   "t": "Donald Trump droht, Iran „sehr hart“ zu treffen - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FdndLQ1paUm5Pc1FCTkFZVGM5cnVZUEg1U3NfYlFNNWxuYV9pRE5pOUhhZFJCOWhPWjh6cC1hWXZkVlYxMUhZR3M1VHUxVVNoUE1XNG5scjJ1OG01VmZPUUhFdGNvTFlINVZiWkd1M0UzRVZIUnFPckMyYw?oc=5",
+   "pub": "Sat, 01 Aug 2026 10:14:00 GMT"
   },
   {
-   "t": "Krieg in Nahost aktuell: Trump macht bei Angriffen auf den Iran Rückzieher - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDREbVQxaXgtWWxfa3J0UEtGUHRfczhDelRad3FxY3VSODJwYi1hYkhoMFRuTGlGSHRGZXpzWWoweGFoc3pmeFBIbVE3V3RvcG4wbDhZN0doNkRlRlBpU0tTVFh5ZWNEYUQ2YlhSQkE3TE9WaDFlTUV3WXBkTHlsSU1fYVZwM1dmX0R6TUEyNGR5a3B1R3BIZ18ybS1ITzg4SE82RkVLLXlQcGZlSWdnTmlxX0IwQ3hCR0c2amsyLWN0eVMtSFZ4V0lBZw?oc=5",
-   "pub": "Sun, 02 Aug 2026 02:34:59 GMT"
-  },
-  {
-   "t": "Trump: Angriffe auf Iran abgesagt - „Umrisse einer Einigung“ - GN-Online",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEg3Qm1BTzRJcklualpPcGNvTXQxcW1MMDVrcVQ3aGszRS0xcmV0SWVuWHpyNkluc1BVdnlmMjVmQU13LVEzNzlUYTd6MmcyZHJST0tZX0U0ajJkVUQ1OVJaVll3REY2RkV2b0o2ZjR6LTR2N2VJdlJ0N3ozTmZ5VEZTdDNQQTYxaGpvNnkyVVZpa2FQNzBxMTNEaUlVdDBSU0ZDSG9LQVNYNEdEMFNXYlVwWQ?oc=5",
-   "pub": "Sun, 02 Aug 2026 02:47:00 GMT"
-  },
-  {
-   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnRvaUx0SXFkMjByay04TzhlYkVvTDdyVVM0b1J5TU5wQTd2SGFTTnUwYks1SXV2Z1Fmc3d3VUllQ1NGZWl6NmtHMEdMSlNFbEhqQVlSX2xLZmV3bHRhdzZQUG84b3Z3ckltdGdxT3pPeHJXQ1U2V3k3Nnp4bTQ4Q213ZjVPV2NmaXpScDdETllxNldfcjBRaEMtanNOcEZNbDZQaUhXVWZiV0taM1lPNU9YNzF1MmVG?oc=5",
-   "pub": "Wed, 29 Jul 2026 07:02:09 GMT"
+   "t": "Nahost - Trump erklärt vorläufigen Verzicht auf Angriffe im Iran - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGQwUHluZHBjZmNxRUN0R0x2dDFtdWtnYzFZRkRFU1BveWNCSm9YYmNUbkE1ODYxWDN6TnY2c2x1dUFUX0YtbXVydzg2dDlXRUFqQkxLOXpsazVUTXZ3cXNEUHdCRTA1VjFFUlVrZW5uSXNIWWh0MmtsSEwwUkVRTmt3Ul9Od1RDbzhiYlpyVjV6aHJsNTY0WFNtX2Ntdw?oc=5",
+   "pub": "Sun, 02 Aug 2026 05:00:00 GMT"
   }
  ]
 }
