@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-01T23:12:28Z",
+ "collected_at": "2026-08-02T00:13:29Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -79,7 +79,7 @@
    "pub": "Tue, 28 Jul 2026 10:00:00 GMT"
   },
   {
-   "t": "Nahost-Krieg aktuell: Iran greift Regierungsgebäude in Kuwait an - T-Online",
+   "t": "Nahost-Krieg aktuell: Iran greift Regierungsgebäude in Kuwait an - t-online.de",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT05kN1ZLTlp4YVE5Y0RDa1ZvcFFTUlF0RnZ1eHhzV1JnYmdlRUpRR2FUdjljMEZLdE9hdHZEUzhId0s1cnhXZUVQNzFQb0RoRTNxLTREWWJMVnhpeVhTLVVOd3pnOE0zOWlKOEhBZVdYV2l5ckhDcGVLcGtvNmEzOUx4b0Q4WHFZZkhRZFI1MjJURTlLd1N5QlVYQzI2T1lBc3FVVnFkNHBOc18xX1dUeHBfcHRBQnlSaEFUTWs5dkJqWEFvek8wcGdnV2pxQQ?oc=5",
    "pub": "Sat, 01 Aug 2026 13:01:30 GMT"
   },
@@ -94,14 +94,14 @@
    "pub": "Sat, 01 Aug 2026 03:41:33 GMT"
   },
   {
-   "t": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzdpc0dUTTU5ZVg3MUVSN0FnTnVJQnpiOE5qdmcwRENiZl9tR0dJRHNuSm5QZG1RMDhIUGdwMEFPTEhJRG9uTkp0Z3dEdkNIWHpNQlZZU0pBR0FEUFpPQl9iUF9EdENPOGhLcGM3QmRWYThfcVBqOFQwRUpKMFdkeG9Wa1NlbnNUNjlWTkx0WjEyd2F3bnd0cUU5V09nRzlBc2JwTUFaM3ViUFNTVUxaNk52emNFcl9WOTluOU1OZkdhX0VyRVpLM1ZqNWlqTEdaam1J?oc=5",
-   "pub": "Sat, 01 Aug 2026 04:03:11 GMT"
-  },
-  {
    "t": "Deutsche Wirtschaft wächst trotz Iran-Krieg - nd-aktuell.de",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3lfSlF6WExCYW5TRXQ1TUYxMHBEcFNGMUNkb2hENS1pMUhwaXBkVW96N1F5R0FyZTUzdHFRM2tNRDBic3dfbjh5MHpWb3lVWTlJTTk2SnR1N2JjNVNsLTJ1UVdwZ3FTV0lNeDdILWdSSUJWcm81T1A3RzNVV3lnWno1dE0yaXJGa2dfTm1EZzJQN01QbUVZblh3S1I2SnhaUURUbEV5b3VTYVQyZGlNUU5R?oc=5",
    "pub": "Sat, 01 Aug 2026 13:44:17 GMT"
+  },
+  {
+   "t": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzdpc0dUTTU5ZVg3MUVSN0FnTnVJQnpiOE5qdmcwRENiZl9tR0dJRHNuSm5QZG1RMDhIUGdwMEFPTEhJRG9uTkp0Z3dEdkNIWHpNQlZZU0pBR0FEUFpPQl9iUF9EdENPOGhLcGM3QmRWYThfcVBqOFQwRUpKMFdkeG9Wa1NlbnNUNjlWTkx0WjEyd2F3bnd0cUU5V09nRzlBc2JwTUFaM3ViUFNTVUxaNk52emNFcl9WOTluOU1OZkdhX0VyRVpLM1ZqNWlqTEdaam1J?oc=5",
+   "pub": "Sat, 01 Aug 2026 04:03:11 GMT"
   },
   {
    "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
