@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-02T17:16:43Z",
+ "collected_at": "2026-08-02T18:14:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -51,7 +51,7 @@
   {
    "t": "Iran-Krieg - Regierungsgebäude in Kuwait angegriffen - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmpVUVFvTXlrSnp6Z0haR0l6cEsybzJyR05xenZHQkNDeFBlUlVLVFlxVEVlRFZPVnFhbmI1UUY3WFl3MFZZVl9tYkVITnFqdmdlblZ4THFkdmJIR0Y2ODdOZFVaYU5UaThhVDY1U0FWX09TRjQxYTk4MjFUYnlqUmZxUkg1WE0?oc=5",
-   "pub": "Sun, 02 Aug 2026 09:37:11 GMT"
+   "pub": "Sun, 02 Aug 2026 14:46:55 GMT"
   },
   {
    "t": "US-Präsident Trump stoppt vorübergehend Angriffe auf Iran - tagesschau.de",
@@ -59,19 +59,24 @@
    "pub": "Sun, 02 Aug 2026 08:03:07 GMT"
   },
   {
+   "t": "Ölversorgung trotz Iran-Krieg: Warum blieb die Krise aus - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFQyclhMalpkZmRVRHh2RkhWSXFuQXY0YVlOXzh4N25xd2pOUy1pdFZUTkplbmxMb21nZGVEVVFBdkJGV2I4cEJXbVdPck5FTHc2RTVtNWN3VUVSS1pSY3U0aHBDOUg3X1BzWDZuMEZ4QlJONk55a3hMS0dKbTExOEllUUk2RWM1bU5SdW5FZUJuTV9qd2ZseTVidWRxTWxhVGdNZDVBaXhZVXdOdzBDT05xM0lRVjNEUDRuRQ?oc=5",
+   "pub": "Sun, 02 Aug 2026 17:04:24 GMT"
+  },
+  {
    "t": "Iran-Krieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGQ2N0w2NlhoVXA4SUJJRy1pZkhwQ1NHVkFHWUx5UWxMZVZqVXk3NFFQRWFNRmRhUV9VcjM3YnpyY0JBbnVVWHpTTllRRXR3N3RnS2VMc0hOX0pqRjhZWF9MZWV6cWc3Zy1DSk1icFRmWTlVa1VwOXdBVmJsWU5OQmtkSFpDeFZ2SXdEQXg0QXRrUDZkdjhGZzZnbHJERmhtNkw0NVNmcGREUzhULVVKcVA5TGxYdWQ1V0tKTTVpMEQ1Si1hLTBxLWV5NnFtSnZ2c2JYZDVqSHZoUUpyRmdNRUxpcHBMbHlRS2Z6eFln?oc=5",
    "pub": "Sun, 02 Aug 2026 04:33:00 GMT"
   },
   {
-   "t": "Trump stoppt Angriffe für Rahmenabkommen, Iran widerspricht - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjNQVklzUGxlVjNqS09CaTBoaHVLNk9saTNTUjlialA4enpRUXNDdlpXVDBqeE1VMU8wcEFwUWdVVnczXzluckhxSVo2NXFhT2FqYmlSSUtiM1FrWndpdzAtNWJ1dkdPWVR4MVQzRkNzV3hMWnJzWE5mY3RHUFFxa256Ri1oSTRFNUJ6VnpiZkVRQk0?oc=5",
-   "pub": "Sun, 02 Aug 2026 09:53:39 GMT"
-  },
-  {
    "t": "\"Umrisse einer Einigung\" - Trump sagt Angriffe auf Iran ab - dw.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0U3dWhsMlM0ZjFSSHFiNFRhZEdISEcwb1Z4aURCdm1XQ1drM3JUbGM0VEV4SVlLdTJHOUtxU0taQXoyOWJUUm5OTWVtOTkwM2lDeEtRVXliTEgzVXE3ejlMSFVwRERycm0wXzlLOVFfbVo1eHFobXIxMHBMY25pNkpyRVMyMjFLUVpCZmFMc2haYVF0bFZ6U0ZiMnU4c1lwY3gyNWlGQUtTZVnSAasBQVVfeXFMUElqYXp2Vm1aMjBVVkxoTnRHNGNOT0ZvYk9tWXhJTGhZQ0p1alJsYUFKc2I1LV9Ba3dmaFVIYTRFR0drYzM5V2xZRGJsa0x5MVNPcHMxSUpzNWoxVV93VlFwOUk0WUZhczRsaG56ZEtUM25VMjFXZ0M4NThVMVpkZ2tQME44enQwZmNTS2l3SVV4VmtSYktVTHJsejA3eWh4M2lNem5rZFFkUmI4?oc=5",
    "pub": "Sun, 02 Aug 2026 05:57:56 GMT"
+  },
+  {
+   "t": "Trump stoppt Angriffe für Rahmenabkommen, Iran widerspricht - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjNQVklzUGxlVjNqS09CaTBoaHVLNk9saTNTUjlialA4enpRUXNDdlpXVDBqeE1VMU8wcEFwUWdVVnczXzluckhxSVo2NXFhT2FqYmlSSUtiM1FrWndpdzAtNWJ1dkdPWVR4MVQzRkNzV3hMWnJzWE5mY3RHUFFxa256Ri1oSTRFNUJ6VnpiZkVRQk0?oc=5",
+   "pub": "Sun, 02 Aug 2026 09:53:39 GMT"
   },
   {
    "t": "Verräterischer Notizblock: Bericht: USA und Japan stoppen gemeinsam Yen-Absturz - n-tv.de",
@@ -84,14 +89,14 @@
    "pub": "Sun, 02 Aug 2026 09:16:29 GMT"
   },
   {
-   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:13:12 GMT"
-  },
-  {
    "t": "Trump sagt, die USA und Israel würden mit Angriffen auf den Iran noch warten - euractiv.com",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVVNlSXE5Rm5EdjNoei0zSnE2NUJhNzNFeC1jN3IyTnRVQ1NMNjA1ZEQ0NkFvRlFzSFcteEgwODRXWW96cDdyZnAxbmRJSENnRUtTWkFPa1ExWUp5bkNFZ1dEcV9BMnJDVjk4dWxYTDRtZ2Rra1dzcFZ6WThHWnJ4VjFsZ2NlUDQ4eUg4SDNnQzUxdUZ2VnlWX3VrcUp6YVNkeW80Mk5ZM1Y?oc=5",
    "pub": "Sun, 02 Aug 2026 13:58:00 GMT"
+  },
+  {
+   "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:13:12 GMT"
   },
   {
    "t": "Yen: Japan und USA intervenieren gemeinsam gegen Währungsschwäche - Manager Magazin",
@@ -99,14 +104,9 @@
    "pub": "Sun, 02 Aug 2026 10:03:00 GMT"
   },
   {
-   "t": "\"Nichts als eine neue Lüge\": Iran widerspricht Trump bei angeblicher Bitte um Angriffspause - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODdkY0hLMnloRGhDWFN0cEdqWTFwZGJGeVM4V1pTejU1NkRLNm1jQUhnYURGWFF1ZEVRWXVZbFpqQnZXcnhWNVJrcmdCdzdoUmw1OXUxOU1aOWJBMFlQUmlGSnFkaU1hdzVXbTRRczA0U2s1LVNYWGdpVGw4NXVsSTBWYllrVy1aT3RDYm5sdlB6cGxHZzlLLUFBNG15R2NLSHYzdVkyN3BxQQ?oc=5",
-   "pub": "Sun, 02 Aug 2026 12:29:51 GMT"
-  },
-  {
-   "t": "Nahost - Trump erklärt vorläufigen Verzicht auf Angriffe im Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREdyV1hzbjBPX0VZYnAxdkJkaGoyR1Zib28xRG9OYVhDN0lYa0NITFlkZnhZZl9IcVR3MnBLMkdib0d3amZaM0Y4bkVwVjEtLUVybjh1U2o3aF9veV9tamxYTUZjSm5jMWhPamltUjZIV2lZLVJmMHR4U0FmUF96OTVFaE9zRl9welY0dFlLNTdMT29LREJvMHJqX21Kdw?oc=5",
-   "pub": "Sun, 02 Aug 2026 08:00:00 GMT"
+   "t": "Nach Kriegsdrohungen: USA sagen neue Attacken auf den Iran ab - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkpxRzBFV3VNOUpIMU5ndG9jV3gtTy1DUU5qaFM1NHY2SVVQaThYd3B6UmdGbDhuSTd6NlQ0b2tnZml3dVZlQXNmQ09laks4RVV3dXUxUS1aZW1sNG5EMHA3dmxWdmljUjdUbExGWURRVHhkcW9FRkFuVHNOU0tVNmRmV3ByTVRpaWFpTEZhY2YzLXM?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:38:50 GMT"
   }
  ]
 }
