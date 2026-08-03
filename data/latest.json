@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-03T15:20:54Z",
+ "collected_at": "2026-08-03T18:07:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8109,
-   "chg1d_pct": 0.64
+   "price": 0.8112,
+   "chg1d_pct": 0.67
   },
   "USDJPY": {
-   "price": 156.793,
-   "chg1d_pct": -2.12
+   "price": 157.01,
+   "chg1d_pct": -1.98
   },
   "GBPCAD": {
-   "price": 1.8854,
-   "chg1d_pct": -0.02
+   "price": 1.8856,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 109.722,
-   "chg1d_pct": -2.48
+   "price": 109.785,
+   "chg1d_pct": -2.42
   },
   "EURUSD": {
-   "price": 1.1509,
-   "chg1d_pct": -0.13
+   "price": 1.1506,
+   "chg1d_pct": -0.15
   },
   "GBPCHF": {
-   "price": 1.0888,
-   "chg1d_pct": 0.4
+   "price": 1.0884,
+   "chg1d_pct": 0.36
   },
   "WTI": {
-   "price": 79.52,
-   "chg1d_pct": -6.08
+   "price": 80.24,
+   "chg1d_pct": -5.23
   },
   "BRENT": {
-   "price": 83.75,
-   "chg1d_pct": -7.07
+   "price": 83.85,
+   "chg1d_pct": -6.96
   },
   "GOLD": {
-   "price": 4089.8,
-   "chg1d_pct": 1.01
+   "price": 4086.8,
+   "chg1d_pct": 0.93
   },
   "SPX_FUT": {
-   "price": 7601.5,
-   "chg1d_pct": 1.09
+   "price": 7628.0,
+   "chg1d_pct": 1.45
   },
   "NAS_FUT": {
-   "price": 28765.25,
-   "chg1d_pct": 1.27
+   "price": 28913.0,
+   "chg1d_pct": 1.79
   }
  },
  "headlines": [
+  {
+   "t": "Trump kündigt neue Gespräche mit Iran an - Teheran dementiert - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejBTeW1hOE1ycndBX1ctazN5cnM4UmdaNlZ4c2haTkNsQ3NkOEVDN1pfTU1rNkw3UHlHUmMta3N6S281RXRsbFM1a0VHSnRLaWNJSi1NcU1VOVJRZkZjcVVyUWdMQTFhYWo0X01uY0JCdFBUU0EyOGdIa2tTWVhkb2F3?oc=5",
+   "pub": "Mon, 03 Aug 2026 16:55:00 GMT"
+  },
   {
    "t": "Kevin Poweska, ARD-aktuell, zu Gesprächen zwischen USA und Iran - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oV3JxYUVBZDNtVndtS1kydHJaUWI5VTlzdzNCSFdkYjI3cjdpZ2VhUTBWaC1IczBuWkNpbFZaZUNjYlpVMHBIWGRuRjNpOUhXY1MtMENObFpUWTdvaXJj?oc=5",
@@ -56,12 +61,7 @@
   {
    "t": "Donald Trump setzt Angriffe auf den Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
-   "pub": "Mon, 03 Aug 2026 13:24:46 GMT"
-  },
-  {
-   "t": "(S+) Cyberattacken gegen US-Wasserversorgung: Trumps Krieg gegen Iran erreicht die Heimatfront - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT3Y3WlU3RFVsUm1lQkNhazhjc2J1Z1czbmZWQ1NrRzY1WDJ1VGlKSnJrelYtUVhKWHpHYTY0eDZ3YnVIWnVrVWZVRnlxZWNzMUhEa0NaNmpPT3AtQXJrZXVHdnVIekIxdl9MZXoyc29YUDFuWEF1WGRlYUhCcXJaUUtDRFQyX2NZUkNVSDZmcDFYS1Jka3dEU1FQbXozanZmSlRWeGtiYU9kbXdOcmxtczhwMHZkU3RBaEhMMmM3NmlPYS1ZcHN0Mi14dGs1eEpEdXdtUUoxa0JyX1Jld2V4OFFMdTdGdw?oc=5",
-   "pub": "Mon, 03 Aug 2026 03:51:00 GMT"
+   "pub": "Mon, 03 Aug 2026 16:24:46 GMT"
   },
   {
    "t": "Donald Trump: Ölpreis fällt nach Ankündigung neuer Gespräche zwischen USA und Iran - DIE ZEIT",
@@ -69,9 +69,9 @@
    "pub": "Mon, 03 Aug 2026 05:36:23 GMT"
   },
   {
-   "t": "Trump kündigt Gespräche mit Iran an - Teheran widerspricht - zdfheute.de",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejBTeW1hOE1ycndBX1ctazN5cnM4UmdaNlZ4c2haTkNsQ3NkOEVDN1pfTU1rNkw3UHlHUmMta3N6S281RXRsbFM1a0VHSnRLaWNJSi1NcU1VOVJRZkZjcVVyUWdMQTFhYWo0X01uY0JCdFBUU0EyOGdIa2tTWVhkb2F3?oc=5",
-   "pub": "Mon, 03 Aug 2026 08:19:00 GMT"
+   "t": "(S+) Cyberattacken gegen US-Wasserversorgung: Trumps Krieg gegen Iran erreicht die Heimatfront - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT3Y3WlU3RFVsUm1lQkNhazhjc2J1Z1czbmZWQ1NrRzY1WDJ1VGlKSnJrelYtUVhKWHpHYTY0eDZ3YnVIWnVrVWZVRnlxZWNzMUhEa0NaNmpPT3AtQXJrZXVHdnVIekIxdl9MZXoyc29YUDFuWEF1WGRlYUhCcXJaUUtDRFQyX2NZUkNVSDZmcDFYS1Jka3dEU1FQbXozanZmSlRWeGtiYU9kbXdOcmxtczhwMHZkU3RBaEhMMmM3NmlPYS1ZcHN0Mi14dGs1eEpEdXdtUUoxa0JyX1Jld2V4OFFMdTdGdw?oc=5",
+   "pub": "Mon, 03 Aug 2026 03:51:00 GMT"
   },
   {
    "t": "Trump-Behauptung zurückgewiesen: Der Iran verhandelt ... aber nicht mit den USA - n-tv.de",
@@ -79,34 +79,34 @@
    "pub": "Mon, 03 Aug 2026 10:04:39 GMT"
   },
   {
+   "t": "Verzweiflung im Iran-Krieg? US-Armee bittet Soldaten um \"kreative Vorschläge\" - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZzFBR1VOM0pKN0VHVF9xVldGLVdPT3NuX01iLVNMNmc0a3c5ZXdlckhOUG9salhsYXlVTHpLSFdqRnhQWThKemZkTGwyYi1Lbkp3UmR6VEtieUp4S0hLdG16TzFqVFo2Z2FWWk4xUWV4Y05GZGMyRFI4LUNER25zWmNtRklSNHo2Nkh2LWRmTGJldkUzT1FFdmF5cnN2STFVek1VejBJdGgxUzcwcTR4VUxROUNoTmk5a2lFa0EwdXlBVXFDT0QzMVNWaVFhVFNMRTQ3M2Q0UjhDMGdoLXc?oc=5",
+   "pub": "Mon, 03 Aug 2026 14:41:13 GMT"
+  },
+  {
+   "t": "Japanische Währung: All in beim Yen - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekgwVlotWUw1WVF0TllENXNYRVZ1eDhjd0ZKbmJkZUREN09qbFNTVl95TVpyTEp0aHZmU0pFM3lEczZXUVZVUWxLQkp0UlgyT25fNE5xaWp3RDlIRU1vcV9ja3cxY2F0eUNkS3k3VHRaaG5TZ280S2E5RVNXeVBNSENzM1BLWl9odk5JazlTWQ?oc=5",
+   "pub": "Mon, 03 Aug 2026 17:17:24 GMT"
+  },
+  {
+   "t": "Kriege in der Ukraine und im Iran: Ein neuer Weltkrieg? - SRF",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWRUV1N3UHFycy1XMzNBSW5tYXQyaDJ5MF84SEdQYU5aMnpRYUVpbEl1UXR6dVpzaHpsN2ozQ0J1RC1jQktTaktkLXI4aU9qR2RuSEcyeXZkc0l1Zm93eV9tRFhHT0lNbl92TjNNb05RUHBpYWZ5NUlBVl95Y2lhRUFBZ0xUOExLdzBuLW1GT1YzZlVkeEN3dU5GTXQ2bkNqV29EWDhQLU9QS3ZwZXVrQ3NRdnEydw?oc=5",
+   "pub": "Mon, 03 Aug 2026 17:10:02 GMT"
+  },
+  {
    "t": "Yen: Japan und USA intervenieren gemeinsam gegen Währungsschwäche - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRERlU2ZPNTh2VF9UZUlvRldqR0dHekFfZ2R3X2t1SGhGcFNoUkJkeW5BMm5QMTk5TGRqMm11YnJPWDNCWW9wWnNCN0pvLTI4dkRrX2lZSGxZVnNOSUNQRkF4ajhsemlqZEZ4ODNld2xVcGNkQXUzdUJEWl9KY3dnazRDU1Q1UlZSazl1MGhZd1E2THlEbVZyNWlVaWtzaUNkYzhqYVl5dXlBTS1VaGM4bFRGRTVobkxRd2NnSGd0NTFmLWV3T0pncGZFX1RlQnNCQVJsRllDRjQ2bHlydzlRMEJOV3VUelE?oc=5",
    "pub": "Mon, 03 Aug 2026 06:35:00 GMT"
   },
   {
-   "t": "USDJPY Prognose: Historische Intervention stärkt den Yen - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2NTU0lBTG9vaFp3eHI0RUVLZzNIYjBOUHM1dWNsMzhJbVR0UlNDdV8yVVBWNEFEcTdNQVJKTXZtWlBpYnB6YTJoLS10eWxvZzRpOHRjQjZyWnNXSEQ2Nnp6anJSMXg3QjZuVmxBbVJzd3FjVkQ0M1RsMllacV9XNDV3dUdidl83MTJKQUJ5c0pyaC05ZmVSMURudU1HZzZGRDdyVGUySHVubHZIeVZvYkxZck5ZYm9mT1hQMHFYSkhJNU5jZWxzVXdGd2VFMm5tQ0E?oc=5",
-   "pub": "Mon, 03 Aug 2026 12:20:00 GMT"
-  },
-  {
-   "t": "Trump-Kehrtwende: Ölpreise fallen deutlich – und der Dax steigt auf ein neues Rekordhoch - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLWctTWpGZUtnd3JOcVhZa1dJbmJuVTNIR0JaNWxJa3g2SGxIT1NUVHU4ZHEzWF8xSXF0SlB3V09kU2Z4VlVCbkxlN2pVVzh2MkJwVEMyY2czVUw2cW9hQUQ5bldqRmE1UUJpejZzYzVROHpOQzF5blRaOW9QcERNZXhzTzVEUGt0ek1zbTZBWmhWai1lYVA5OHN3?oc=5",
-   "pub": "Mon, 03 Aug 2026 08:14:27 GMT"
-  },
-  {
-   "t": "Verzweiflung im Iran-Krieg? US-Armee bittet Soldaten um \"kreative Vorschläge\" - t-online.de",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZzFBR1VOM0pKN0VHVF9xVldGLVdPT3NuX01iLVNMNmc0a3c5ZXdlckhOUG9salhsYXlVTHpLSFdqRnhQWThKemZkTGwyYi1Lbkp3UmR6VEtieUp4S0hLdG16TzFqVFo2Z2FWWk4xUWV4Y05GZGMyRFI4LUNER25zWmNtRklSNHo2Nkh2LWRmTGJldkUzT1FFdmF5cnN2STFVek1VejBJdGgxUzcwcTR4VUxROUNoTmk5a2lFa0EwdXlBVXFDT0QzMVNWaVFhVFNMRTQ3M2Q0UjhDMGdoLXc?oc=5",
-   "pub": "Mon, 03 Aug 2026 14:41:13 GMT"
-  },
-  {
-   "t": "Aussicht auf neue Iran-Gespräche: Kurse in Europa steigen - Dax auf Rekordhoch - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFJvSHNrSkZxSk1BOFhNNll6SjhPQzNWQ1cta1ZqRjFVRFkxekV0RU80M2ZyOURXbUZGS0p5VUVqYWEwaElKSGJXRk1CZXNJR2Q3WW5naXFGbGowVEZxdWlRT21xVXhEWkdhNUdzZjBPRmtGYW4zczV3MGtSWnlZTk1VRWpmSkQ3OUp0eG82UEVwbHFXN0J6LWRVanVfbnI3VV91cDZyRzBvLVF2OS14eFUtS1cxVWU3dG84?oc=5",
-   "pub": "Mon, 03 Aug 2026 12:56:58 GMT"
-  },
-  {
    "t": "Yen auf 40-Jahres-Tief: Japan und USA stützen Währung - FAZ",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzdjeFNqNnFVTW9meVpxNkFvOE9aQ3ZhU2ZXS241MU9yWmFtRU5pVDM3UEt5SHV4Nnl5emd5LXZwWkQ1cDktLUFUYjZTTE8tLUNHUlh0a0VWMUNhcGFTSTZhVHFzT2VWYXNJOU9KRVZrUjZZak1VUUpfdEdlYjlVc1JDeTJlbzJfVWtGa2d5eWpjRmJGV1JjSEdURWIyTk5QdlY2S1RCd3FRU1ozUWZ1V1lJU1g5YWVnVUswYThEcU5FTVB2WDhTdQ?oc=5",
    "pub": "Mon, 03 Aug 2026 04:11:51 GMT"
+  },
+  {
+   "t": "Staatliche Währungsinterventionen: USA helfen Japan bei schwächelndem Yen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFpEYXlFNVBBN3Q2Q0lpbzI0R0RVS1Nud3F5OEVKSHdQcTVqeDU5THA4X2Z2andMZVFZUHY2Q0pTbFdtMUc0N2hmNElpRHhTOEFyY0p5ZG95MFdkR0VlMnh1N2M5ZFo3d2FyZ0ZMUmdDSGZDRjd5YW1WSjd1Y1dWdUFKZk5Xc0k2RlA3SDBrMVFkSFY1SUNZdVFkMFZRZ19BRFNrS0NrSHdKdm1LZ1poWVpCclNGUmpKNW1RQmVhaWdLcVBJN1R6bXZkLXRfTnN5b2c?oc=5",
+   "pub": "Mon, 03 Aug 2026 02:37:00 GMT"
   }
  ]
 }
