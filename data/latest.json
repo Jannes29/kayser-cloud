@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-02T23:13:16Z",
+ "collected_at": "2026-08-03T00:14:06Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8072,
-   "chg1d_pct": 0.18
+   "price": 0.8073,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 157.518,
-   "chg1d_pct": -1.66
+   "price": 157.834,
+   "chg1d_pct": -1.47
   },
   "GBPCAD": {
-   "price": 1.8905,
-   "chg1d_pct": 0.25
-  },
-  "AUDJPY": {
-   "price": 110.944,
-   "chg1d_pct": -1.39
-  },
-  "EURUSD": {
-   "price": 1.1547,
+   "price": 1.8896,
    "chg1d_pct": 0.2
   },
+  "AUDJPY": {
+   "price": 111.13,
+   "chg1d_pct": -1.23
+  },
+  "EURUSD": {
+   "price": 1.1541,
+   "chg1d_pct": 0.15
+  },
   "GBPCHF": {
-   "price": 1.0889,
-   "chg1d_pct": 0.41
+   "price": 1.0885,
+   "chg1d_pct": 0.37
   },
   "WTI": {
-   "price": 81.26,
-   "chg1d_pct": -4.03
+   "price": 80.92,
+   "chg1d_pct": -4.43
   },
   "BRENT": {
    "price": 90.12,
    "chg1d_pct": 1.22
   },
   "GOLD": {
-   "price": 4119.9,
-   "chg1d_pct": 1.75
+   "price": 4132.9,
+   "chg1d_pct": 2.07
   },
   "SPX_FUT": {
-   "price": 7549.5,
-   "chg1d_pct": 0.4
+   "price": 7547.5,
+   "chg1d_pct": 0.38
   },
   "NAS_FUT": {
-   "price": 28588.75,
-   "chg1d_pct": 0.65
+   "price": 28564.75,
+   "chg1d_pct": 0.57
   }
  },
  "headlines": [
@@ -57,6 +57,11 @@
    "t": "US-Präsident Trump stoppt vorübergehend Angriffe auf Iran - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oX2tHeGZJWDB6XzFvZ1V2cGF5RnBXbko5VDhaRzdNRGJfQ3ZyWkI2bzRUdll6LVBKamhON1hSdkNhLVVpV0I1X1pKelhWQTlGVy1mMzBGNHAyVHR1WkdR?oc=5",
    "pub": "Sun, 02 Aug 2026 08:03:07 GMT"
+  },
+  {
+   "t": "„Sie sahen, wie sich der Angriff zusammenbraute“ – Trump kündigt neue Gespräche mit dem Iran an - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUDlnbE9OeTVqODdfb2xrOE4yYUM1VkRzRWt4YmZET3cxMHlKUEpRd0dfYk1KamtJQ0ZjUTMySHBDWWdDa0RVcXNFa1RjWlI0blRzcVY2ZDYtZjMtTEpxemNQaUstNDNRcjU1YXQtbEUzT2VaNS1Wb1VBd3V0Qlh5OWwxM3d2X1NROUcySzBrVi1jUnBUWFhZNmRtY2d2TU80eWhraXVGRFRIZDhiQzg2YmZUbG9EcUxieGhGVFlJQk5ZMkJiWE1HMXBGNVFNTzFTSkJGOEUxbjFIRU1EYlhwVE1GOU5HSGFrckhqTzNoVWVBR3pYMlBaZUpBNTg?oc=5",
+   "pub": "Sun, 02 Aug 2026 23:52:29 GMT"
   },
   {
    "t": "Trump stoppt Angriffe für Rahmenabkommen, Iran widerspricht - Euronews.com",
@@ -74,19 +79,14 @@
    "pub": "Sun, 02 Aug 2026 05:57:56 GMT"
   },
   {
-   "t": "Irankrieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGQ2N0w2NlhoVXA4SUJJRy1pZkhwQ1NHVkFHWUx5UWxMZVZqVXk3NFFQRWFNRmRhUV9VcjM3YnpyY0JBbnVVWHpTTllRRXR3N3RnS2VMc0hOX0pqRjhZWF9MZWV6cWc3Zy1DSk1icFRmWTlVa1VwOXdBVmJsWU5OQmtkSFpDeFZ2SXdEQXg0QXRrUDZkdjhGZzZnbHJERmhtNkw0NVNmcGREUzhULVVKcVA5TGxYdWQ1V0tKTTVpMEQ1Si1hLTBxLWV5NnFtSnZ2c2JYZDVqSHZoUUpyRmdNRUxpcHBMbHlRS2Z6eFln?oc=5",
-   "pub": "Sun, 02 Aug 2026 04:33:00 GMT"
-  },
-  {
    "t": "Trump-Wende im Iran-Krieg: USA verzichten vorerst auf neue Angriffe – „Umrisse einer Einigung“ - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWg3cXFaTGtSbmwtSWpqcmIwa0U1Yi0wQl91Z3B3bmUwS3c3aC04RnY3bTl3VERmV0FmaVdOelplQjJrQTJ0ODZTYzdINUgyOWVBaEZ6TkJYR19JclR6dG5GYUJzdGMzeXBWaGEydlZXOURfV0FKWWw0RTZFSkV2MjVlc1ctT1ozWnpBYVVHdThrblF4UXVVTEZEZFM?oc=5",
    "pub": "Sun, 02 Aug 2026 18:55:00 GMT"
   },
   {
-   "t": "„Sie sahen, wie sich der Angriff zusammenbraute“ – Trump kündigt neue Gespräche mit dem Iran an - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUDlnbE9OeTVqODdfb2xrOE4yYUM1VkRzRWt4YmZET3cxMHlKUEpRd0dfYk1KamtJQ0ZjUTMySHBDWWdDa0RVcXNFa1RjWlI0blRzcVY2ZDYtZjMtTEpxemNQaUstNDNRcjU1YXQtbEUzT2VaNS1Wb1VBd3V0Qlh5OWwxM3d2X1NROUcySzBrVi1jUnBUWFhZNmRtY2d2TU80eWhraXVGRFRIZDhiQzg2YmZUbG9EcUxieGhGVFlJQk5ZMkJiWE1HMXBGNVFNTzFTSkJGOEUxbjFIRU1EYlhwVE1GOU5HSGFrckhqTzNoVWVBR3pYMlBaZUpBNTg?oc=5",
-   "pub": "Sun, 02 Aug 2026 22:32:25 GMT"
+   "t": "Irankrieg: Donald Trump spricht vom »Umriss einer Einigung« mit Iran und sagt Angriffe ab - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeGQ2N0w2NlhoVXA4SUJJRy1pZkhwQ1NHVkFHWUx5UWxMZVZqVXk3NFFQRWFNRmRhUV9VcjM3YnpyY0JBbnVVWHpTTllRRXR3N3RnS2VMc0hOX0pqRjhZWF9MZWV6cWc3Zy1DSk1icFRmWTlVa1VwOXdBVmJsWU5OQmtkSFpDeFZ2SXdEQXg0QXRrUDZkdjhGZzZnbHJERmhtNkw0NVNmcGREUzhULVVKcVA5TGxYdWQ1V0tKTTVpMEQ1Si1hLTBxLWV5NnFtSnZ2c2JYZDVqSHZoUUpyRmdNRUxpcHBMbHlRS2Z6eFln?oc=5",
+   "pub": "Sun, 02 Aug 2026 04:33:00 GMT"
   },
   {
    "t": "Trump sagt, die USA und Israel würden mit Angriffen auf den Iran noch warten - euractiv.com",
@@ -104,9 +104,9 @@
    "pub": "Sun, 02 Aug 2026 17:04:24 GMT"
   },
   {
-   "t": "Ukraine- und Iran-Krieg plötzlich dicht beinander: Schlag schien möglich – was dahintersteckt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemdDVHdpd0RCX3lJSVpWa0M0UW90SmlVd015a0ltaFJWRWNFVmRBS2YwcmRkOHJpMmFFS2dTQWVKUVI5NGZlYzhQbWRCenR4Tkg1N1h2elRBMVItUVRyLUV0TE92YkgyQVpZdmdNRG9Mbnl5RWNER1luMjJWV1lkQjhic01MUEpzZXRLX0FIaXlUeExRMVdwT0VndHVHYVdqZHBxQTlQWWJEUGs5?oc=5",
-   "pub": "Sun, 02 Aug 2026 17:00:00 GMT"
+   "t": "US-Plan enthüllt: Ein Notizblock verrät eine Milliardenaktion – nun geht es um den Yen-Absturz - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWJIQktRSU10Z3hlU2xWUVhKY3dPVnY4TGhaNU90S3U2VnI4SjBOUlI4SGU4c0Q2cWoyMWJ1MHB2cW4wR2l3WUp2TFFHQ2JKcjJLbzBtc0drT3VEbGZIbnFBRi1MeG9haWRMZFA1TzN2TlhSU3FPaDFubVBCMjhXLXpvc0M3NTRxejg0ak9YaWRpWEU?oc=5",
+   "pub": "Sun, 02 Aug 2026 09:16:29 GMT"
   }
  ]
 }
