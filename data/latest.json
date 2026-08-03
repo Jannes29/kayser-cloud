@@ -1,67 +1,62 @@
 {
- "collected_at": "2026-08-03T19:59:11Z",
+ "collected_at": "2026-08-03T21:30:46Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8102,
-   "chg1d_pct": 0.55
+   "price": 0.8091,
+   "chg1d_pct": 0.26
   },
   "USDJPY": {
-   "price": 156.949,
-   "chg1d_pct": -2.02
+   "price": 157.163,
+   "chg1d_pct": -0.27
   },
   "GBPCAD": {
-   "price": 1.8863,
-   "chg1d_pct": 0.03
+   "price": 1.8854,
+   "chg1d_pct": -0.25
   },
   "AUDJPY": {
-   "price": 109.86,
-   "chg1d_pct": -2.35
+   "price": 109.969,
+   "chg1d_pct": -0.94
   },
   "EURUSD": {
    "price": 1.1513,
-   "chg1d_pct": -0.09
+   "chg1d_pct": -0.27
   },
   "GBPCHF": {
-   "price": 1.0881,
-   "chg1d_pct": 0.33
+   "price": 1.0865,
+   "chg1d_pct": -0.2
   },
   "WTI": {
-   "price": 80.28,
-   "chg1d_pct": -5.18
+   "price": 80.06,
+   "chg1d_pct": -5.44
   },
   "BRENT": {
-   "price": 83.81,
-   "chg1d_pct": -7.0
+   "price": 83.51,
+   "chg1d_pct": -7.33
   },
   "GOLD": {
-   "price": 4110.6,
-   "chg1d_pct": 1.52
+   "price": 4110.9,
+   "chg1d_pct": 1.53
   },
   "SPX_FUT": {
-   "price": 7633.0,
-   "chg1d_pct": 1.51
+   "price": 7631.25,
+   "chg1d_pct": 1.49
   },
   "NAS_FUT": {
-   "price": 28914.0,
-   "chg1d_pct": 1.79
+   "price": 28929.25,
+   "chg1d_pct": 1.85
   }
  },
  "headlines": [
   {
-   "t": "Trump kündigt neue Gespräche mit Iran an - Teheran dementiert - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejBTeW1hOE1ycndBX1ctazN5cnM4UmdaNlZ4c2haTkNsQ3NkOEVDN1pfTU1rNkw3UHlHUmMta3N6S281RXRsbFM1a0VHSnRLaWNJSi1NcU1VOVJRZkZjcVVyUWdMQTFhYWo0X01uY0JCdFBUU0EyOGdIa2tTWVhkb2F3?oc=5",
-   "pub": "Mon, 03 Aug 2026 16:55:00 GMT"
-  },
-  {
-   "t": "US-Verhandlungen mit Iran: Trump sagt, es wird wieder geredet - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41aTlCVkpqcmNkSXFrTzRLUVowVzhEZW9kdXhuZkJoQW8wYmwtVGQzM3pQSVNQalpsUUdPb2dpVVZxck9YOG4tbWlJTHoxRjRJUmxJNWM4OXFIQkNISFRGT2FkLUJDUXI5cklHaXQ3eFZlMXpTb19vcW9Sc2U?oc=5",
-   "pub": "Mon, 03 Aug 2026 19:43:00 GMT"
+   "t": "US-Präsident Trump kündigt Verhandlungen mit Iran an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xckZTNFBSM19vV0VzQ0IyV0l1QkdxWkN5bEVZUUJxWE5NTUFCOF94TVQ3RzFaejJSWW9QQnp4OXgtclEzaWk3N2RQY2dCazRiZVNMd3ptWTd1VmxPMHo4?oc=5",
+   "pub": "Mon, 03 Aug 2026 18:34:02 GMT"
   },
   {
    "t": "Trump setzt US-Angriffe auf Iran aus – „Grundzüge einer Vereinbarung getroffen“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWVCb0JPOEZ3ZFNqaWxubjRNSGFERE1DeGtPVFNERlUwdVVaeC1IcTViN2lLbjlKZjBDRER5V19ia1M5eHFsRHhoVnNHcFVtREtlMU81dXp0Z0JHNmVwcFNiWk9EMll0Tzg2WTJheWV5ajFxenVqVmhlQWVBRlFOR2VJSnZVdGdLcm15R1FyWWJRZEU4ZkV0RTBKSGZlX2pyQUphcUtnMVVNNElibHQ2SUEzalh1RnNWSUMtVDFxczF0dHBpbDhKV3F2clltUFFoZDVVQjM4RUFYTm5BNURDMl91WjE2bFcwTV9GV3h3?oc=5",
-   "pub": "Mon, 03 Aug 2026 18:34:54 GMT"
+   "pub": "Mon, 03 Aug 2026 19:24:46 GMT"
   },
   {
    "t": "Donald Trump: Ölpreis fällt nach Ankündigung neuer Gespräche zwischen USA und Iran - DIE ZEIT",
@@ -84,19 +79,9 @@
    "pub": "Mon, 03 Aug 2026 10:04:39 GMT"
   },
   {
-   "t": "Kriege in der Ukraine und im Iran: Ein neuer Weltkrieg? - SRF",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWRUV1N3UHFycy1XMzNBSW5tYXQyaDJ5MF84SEdQYU5aMnpRYUVpbEl1UXR6dVpzaHpsN2ozQ0J1RC1jQktTaktkLXI4aU9qR2RuSEcyeXZkc0l1Zm93eV9tRFhHT0lNbl92TjNNb05RUHBpYWZ5NUlBVl95Y2lhRUFBZ0xUOExLdzBuLW1GT1YzZlVkeEN3dU5GTXQ2bkNqV29EWDhQLU9QS3ZwZXVrQ3NRdnEydw?oc=5",
-   "pub": "Mon, 03 Aug 2026 17:10:02 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump über Iran-Gespräche: „letzte Chance“ für Teheran - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0xnY2p2bVNlY3UxN0xDWWRPVnBLTEFhbzg1RUpOQjBtMnRBT1haRll1SktYMWpteHoya2tyMEppVXREVkZkQXVSWkF5QXpTdl80eGJYb2FvSU1xMkJoSGJEcGF4b0FzNVVvdW93OTRhSmY0M3JpTWloaXJXaldvRmpicVNoQmlKMENPWHJYaTd3WlhvMTlCaWQ5eGdPc0FnbzJaZEF6R016aTVxeGRmTmJNejNPTGw2UGgxMw?oc=5",
-   "pub": "Mon, 03 Aug 2026 19:02:31 GMT"
-  },
-  {
-   "t": "Verzweiflung im Iran-Krieg? US-Armee bittet Soldaten um \"kreative Vorschläge\" - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZzFBR1VOM0pKN0VHVF9xVldGLVdPT3NuX01iLVNMNmc0a3c5ZXdlckhOUG9salhsYXlVTHpLSFdqRnhQWThKemZkTGwyYi1Lbkp3UmR6VEtieUp4S0hLdG16TzFqVFo2Z2FWWk4xUWV4Y05GZGMyRFI4LUNER25zWmNtRklSNHo2Nkh2LWRmTGJldkUzT1FFdmF5cnN2STFVek1VejBJdGgxUzcwcTR4VUxROUNoTmk5a2lFa0EwdXlBVXFDT0QzMVNWaVFhVFNMRTQ3M2Q0UjhDMGdoLXc?oc=5",
-   "pub": "Mon, 03 Aug 2026 14:41:13 GMT"
+   "t": "Trump meldet Gespräche mit Iran: \"Letzte Chance\" für Teheran - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPejBTeW1hOE1ycndBX1ctazN5cnM4UmdaNlZ4c2haTkNsQ3NkOEVDN1pfTU1rNkw3UHlHUmMta3N6S281RXRsbFM1a0VHSnRLaWNJSi1NcU1VOVJRZkZjcVVyUWdMQTFhYWo0X01uY0JCdFBUU0EyOGdIa2tTWVhkb2F3?oc=5",
+   "pub": "Mon, 03 Aug 2026 19:55:00 GMT"
   },
   {
    "t": "Kevin Poweska, ARD-aktuell, zu Gesprächen zwischen USA und Iran - tagesschau.de",
@@ -104,9 +89,24 @@
    "pub": "Mon, 03 Aug 2026 07:54:47 GMT"
   },
   {
+   "t": "Börsen: Hoffnung auf Iran-Gespräche treibt Dax über 26.000 Punkte - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbVhBRlQ3N0VWX2luZDdPV2o4VGQtVzdCLUZOWS1jWmtGWW50Mk0xa1Jyak9uZGgwLUs2ckNjOHdlRGs0M3lJVkxILVhFVGx1TlB4cDV2U1BJaFhnSjB6TTFVQVVMLWR1a2c4SVVsbW5OejBYVk1KSC1XLU0zTXJwSFB3YjVSOWNpRFRDYWt1dURFZlQ1NzNz?oc=5",
+   "pub": "Mon, 03 Aug 2026 16:08:20 GMT"
+  },
+  {
    "t": "Yen auf 40-Jahres-Tief: Japan und USA stützen Währung - FAZ",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzdjeFNqNnFVTW9meVpxNkFvOE9aQ3ZhU2ZXS241MU9yWmFtRU5pVDM3UEt5SHV4Nnl5emd5LXZwWkQ1cDktLUFUYjZTTE8tLUNHUlh0a0VWMUNhcGFTSTZhVHFzT2VWYXNJOU9KRVZrUjZZak1VUUpfdEdlYjlVc1JDeTJlbzJfVWtGa2d5eWpjRmJGV1JjSEdURWIyTk5QdlY2S1RCd3FRU1ozUWZ1V1lJU1g5YWVnVUswYThEcU5FTVB2WDhTdQ?oc=5",
    "pub": "Mon, 03 Aug 2026 04:11:51 GMT"
+  },
+  {
+   "t": "Kriege in der Ukraine und im Iran: Ein neuer Weltkrieg? - SRF",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWRUV1N3UHFycy1XMzNBSW5tYXQyaDJ5MF84SEdQYU5aMnpRYUVpbEl1UXR6dVpzaHpsN2ozQ0J1RC1jQktTaktkLXI4aU9qR2RuSEcyeXZkc0l1Zm93eV9tRFhHT0lNbl92TjNNb05RUHBpYWZ5NUlBVl95Y2lhRUFBZ0xUOExLdzBuLW1GT1YzZlVkeEN3dU5GTXQ2bkNqV29EWDhQLU9QS3ZwZXVrQ3NRdnEydw?oc=5",
+   "pub": "Mon, 03 Aug 2026 17:10:02 GMT"
+  },
+  {
+   "t": "Verzweiflung im Iran-Krieg? US-Armee bittet Soldaten um \"kreative Vorschläge\" - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZzFBR1VOM0pKN0VHVF9xVldGLVdPT3NuX01iLVNMNmc0a3c5ZXdlckhOUG9salhsYXlVTHpLSFdqRnhQWThKemZkTGwyYi1Lbkp3UmR6VEtieUp4S0hLdG16TzFqVFo2Z2FWWk4xUWV4Y05GZGMyRFI4LUNER25zWmNtRklSNHo2Nkh2LWRmTGJldkUzT1FFdmF5cnN2STFVek1VejBJdGgxUzcwcTR4VUxROUNoTmk5a2lFa0EwdXlBVXFDT0QzMVNWaVFhVFNMRTQ3M2Q0UjhDMGdoLXc?oc=5",
+   "pub": "Mon, 03 Aug 2026 14:41:13 GMT"
   }
  ]
 }
