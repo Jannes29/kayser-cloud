@@ -1,67 +1,72 @@
 {
- "collected_at": "2026-08-04T18:04:00Z",
+ "collected_at": "2026-08-04T19:57:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8101,
-   "chg1d_pct": 0.38
+   "price": 0.8094,
+   "chg1d_pct": 0.3
   },
   "USDJPY": {
-   "price": 157.629,
-   "chg1d_pct": 0.03
+   "price": 157.772,
+   "chg1d_pct": 0.12
   },
   "GBPCAD": {
    "price": 1.8918,
    "chg1d_pct": 0.08
   },
   "AUDJPY": {
-   "price": 110.959,
-   "chg1d_pct": -0.05
+   "price": 111.17,
+   "chg1d_pct": 0.14
   },
   "EURUSD": {
-   "price": 1.1527,
-   "chg1d_pct": -0.15
+   "price": 1.1533,
+   "chg1d_pct": -0.1
   },
   "GBPCHF": {
-   "price": 1.0889,
-   "chg1d_pct": 0.02
+   "price": 1.0886,
+   "chg1d_pct": -0.0
   },
   "WTI": {
-   "price": 75.81,
-   "chg1d_pct": -5.64
+   "price": 75.84,
+   "chg1d_pct": -5.6
   },
   "BRENT": {
-   "price": 79.35,
-   "chg1d_pct": -5.28
+   "price": 79.36,
+   "chg1d_pct": -5.26
   },
   "GOLD": {
-   "price": 4147.2,
-   "chg1d_pct": 2.81
+   "price": 4137.9,
+   "chg1d_pct": 2.58
   },
   "SPX_FUT": {
-   "price": 7773.75,
-   "chg1d_pct": 1.91
+   "price": 7781.5,
+   "chg1d_pct": 2.01
   },
   "NAS_FUT": {
-   "price": 29857.25,
-   "chg1d_pct": 3.34
+   "price": 29928.75,
+   "chg1d_pct": 3.59
   }
  },
  "headlines": [
-  {
-   "t": "„Das Problem: Iran führt einen Krieg, der nahe am totalen Krieg ist, und wird nicht aufgeben“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdlZqcER2d3FJUVdYS0I1SlB3VlE2MGRSNDBKdGdpNFRTTXhCd2hkMTMwMHU5b25iNUp6c2VkSGtUTXNSeWpyLVlfZVRCb2lzOHhVOENNX3JqaHZHUUh2Qk5kUEZBRGxtRkVaeFVsOHJwa1VUU0ZqYmFMM0tJTHJZOXB4c0VpTTlsb21WWUp2eDNhZDNNbC1vNzUzQm4wSnViM0txa0YweVBzQ0pFYWZhamk1RDd0SmtrUFRYa2ZjOFRqTUREdGZJOTZCZ3lucTc2d1lWNl9FRm83ZTQyakFTWHUxejlYNFVFLWtvaDVhY2NlNVprOVdOSGhn?oc=5",
-   "pub": "Tue, 04 Aug 2026 14:34:10 GMT"
-  },
   {
    "t": "Iran-Krieg: US-Militär soll per Mail nach »unkonventionellen« Ideen herumgefragt haben - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM2YyNEhhd010OWF3R29aNU5aa1dtR1hoVF9OenRIaXZaR3J2eUZjNE5pdmw4UVVRbFF6RS14aVVjemlrYmxYQUxJYm1ITGxmRXd1YktPeW04YUt4eHJEX1ZZYTRxdzVud2FaX3NQaVZoRTVuZHpEWXJJZWREbnVFNVR6MVVZWmZQdWVLaDkySzBMdTI2VHVUSUZqeGFsenlVYVN0ZTZibHQ4QUhJeFdRczUzV2ZjdmJlWWZJTGJuVWxmQmtGczlva2g1TkpoM3l6cDd4Z21fRUZUNU9wZmxLNG1MMkJuWnZneGc?oc=5",
    "pub": "Tue, 04 Aug 2026 05:48:00 GMT"
   },
   {
+   "t": "„Das Problem: Iran führt einen Krieg, der nahe am totalen Krieg ist, und wird nicht aufgeben“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdlZqcER2d3FJUVdYS0I1SlB3VlE2MGRSNDBKdGdpNFRTTXhCd2hkMTMwMHU5b25iNUp6c2VkSGtUTXNSeWpyLVlfZVRCb2lzOHhVOENNX3JqaHZHUUh2Qk5kUEZBRGxtRkVaeFVsOHJwa1VUU0ZqYmFMM0tJTHJZOXB4c0VpTTlsb21WWUp2eDNhZDNNbC1vNzUzQm4wSnViM0txa0YweVBzQ0pFYWZhamk1RDd0SmtrUFRYa2ZjOFRqTUREdGZJOTZCZ3lucTc2d1lWNl9FRm83ZTQyakFTWHUxejlYNFVFLWtvaDVhY2NlNVprOVdOSGhn?oc=5",
+   "pub": "Tue, 04 Aug 2026 14:34:10 GMT"
+  },
+  {
    "t": "Nur genehmigte Route: Iran droht US-Kriegsschiffen in der Straße von Hormus - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWtIanJuT05ZdDU5SXJFdUIwN2dNNnlLdkp4Q0xMblJuSXFNQXg3REstZHFKTVk1b1ZseFFwbGpKRm9LT1k4dDNsV1lzRmxKYTNoaEljOWluNGlnaURIV1lzblFZQVhPRUhIS3hwVFVxQU1lbF9MRUJlaGs5Y1ZPcTVoSk52QjBX?oc=5",
    "pub": "Tue, 04 Aug 2026 05:13:00 GMT"
+  },
+  {
+   "t": "Nahost: Iran-Krieg: Neue Lösung für Straße von Hormus in Sicht? - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTNCU0t1QWZMNTY3NUJyeFBmSDFRLTFIWFJWNUtFNlVZdkM3U21FZm9uMTR5QXhZSy1ISjMxNW4zZi1Qa1RhQVpMN3V5OTRkSzFQa0hoV2U4SWlEcTJkcDJKaksxNGtpRFZJQXk5TEhsdFFVcl9oNHlhMHRVcEhJYUhOUExoRHpJRWc?oc=5",
+   "pub": "Tue, 04 Aug 2026 15:50:38 GMT"
   },
   {
    "t": "US-Raketen offenbar „so gut wie alle“ aufgebraucht – während China den Iran aufrüstet - Berliner Zeitung",
@@ -74,29 +79,24 @@
    "pub": "Tue, 04 Aug 2026 08:32:53 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran und Oman verhandeln über neuen Schifffahrtskorridor - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21pMV8wcTlONFdkZHZDREE3QlF1TFNxZ3kwamdNVDhpemUtNEE1SVpaT2d0Vy1Db3JkYlVkVk1rZXhtTUVXaElDTGpHSV9jZXNYLW10cUhXZVpRZ2wxZDJPR2RVcmxPcGtKdUFQOGJYMG53aUhidXhFWUFXTHdSLUVMeFgxN01ubTY2QzFrV1RHSzBsZHhYOXVEMjBVTEhseDZkR050UEwxS0wzZmt6Zy1nUnp6NWVNVWJN?oc=5",
-   "pub": "Tue, 04 Aug 2026 10:57:00 GMT"
-  },
-  {
-   "t": "Krieg in Nahost aktuell: Der US-Armee gehen wohl nicht nur die Abfangraketen aus - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMnBialg4TFFXYlBUZVMzYnNtdzNqRlAtSUl1RlMwcmlBNFRfZWJTWDdZWC15YXRtNkQ5Y2ZXZHhIdGZEblJwRFJ5eEpFV3d2NEVIUm53UzFMY2szWEtOT19JNjBVbXczTnRlTmh6bzltWWNkREdYc1kzb3dwaENxODNwMlRuWnl1U2xvQkNDMWF0Q05paS1sTGZHVF96N3JCWEtxV0Q4UVh6dXJweU43ZUE4X2lNU19NMU1VQ0YtdzdyMUlvbnlhQWRR?oc=5",
-   "pub": "Tue, 04 Aug 2026 17:27:32 GMT"
-  },
-  {
    "t": "Vermittler Katar meldet Fortschritte bei indirekten Verhandlungen zwischen den USA und dem Iran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeEtWZXY3ZXU1d054ckI3T3JJZDdyZ01EWlJJTFhqUFBCTFVxMWhzSFlTaHVBdjY2TElvb2k3OC1kMWVBWVhrcVFNdWVzYXNEM2JMQjlrXzFHSkFETXZEU1FFS1E4eldHd0gydjVEaVBvSnFkem5SOEdrZjBocldTLXBtUUhJWGpPT0pLS3lYYXAwbW5aMkFNTlV1ODVvdWV6MndacXctQkx2V2JZQXluS1RDUDV6dWxNR1QzNzNDTUpPWndpVm5ucFRZX21QbHhf?oc=5",
    "pub": "Tue, 04 Aug 2026 17:00:00 GMT"
   },
   {
+   "t": "Straße von Hormus: Iran und Oman verhandeln über neuen Schifffahrtskorridor - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY21pMV8wcTlONFdkZHZDREE3QlF1TFNxZ3kwamdNVDhpemUtNEE1SVpaT2d0Vy1Db3JkYlVkVk1rZXhtTUVXaElDTGpHSV9jZXNYLW10cUhXZVpRZ2wxZDJPR2RVcmxPcGtKdUFQOGJYMG53aUhidXhFWUFXTHdSLUVMeFgxN01ubTY2QzFrV1RHSzBsZHhYOXVEMjBVTEhseDZkR050UEwxS0wzZmt6Zy1nUnp6NWVNVWJN?oc=5",
+   "pub": "Tue, 04 Aug 2026 10:57:00 GMT"
+  },
+  {
+   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
+   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
+  },
+  {
    "t": "Krieg in Nahost: Trump setzt Iran neues Ultimatum - Video - WELT",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVBtZEVpYUpoTDRGcC1FcEJRVk94OFRXc0xueEFNWDY4ZlNDaWhfVFV5aEhUQ3UzbUtxTnc3OWxyakdVU1RXTkYzd2Z1cXJrTDliZXRQMHJNeVRmOGZuanFuZDhLMDJHV2xnQVZkOUhqVE16RGtMOFo1SzlJU1RuNlZsaENNZzV1Wkh5XzVkejd2U2JOUFlyQURFQjR2VC0yTlRIQVpfdXFUaV9DeDJ2R216bzg3dU9iUVVj?oc=5",
    "pub": "Tue, 04 Aug 2026 12:00:44 GMT"
-  },
-  {
-   "t": "Iran: Donald Trump droht Teheran mit »letzter Chance« – wieder einmal - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVWtzM1lMN2xIdmpvcGpJc0U3Z0NvSHlsVDFZaE5tRXp2UXVHMnZzdW5zN3hRVmNtSF9USHV1WDBKdmlYczAwRDNmUTJaYWZTRjYxT3kwU1RQWXYwcnRZaWhkQjNvV2xNZTAyM2FtV2t4aHRRTmprSnpEblBtbU5OUk54emQ0Zk1LSVphVTNZZzRkRXRKNjdBSnBuN3hOWTlueGVRQWcxbThGeDJpOXByZVpLOS05RkNMdktLYW9FazNFM1g4dFJGS1lpU1BhWXNuaGdBdkt3?oc=5",
-   "pub": "Mon, 03 Aug 2026 19:54:00 GMT"
   },
   {
    "t": "US-Militär bittet um „kreative“ Ideen für Iran-Krieg – Trump droht Teheran mit „Enthauptung“ - WELT",
