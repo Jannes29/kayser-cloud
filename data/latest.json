@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-05T03:33:54Z",
+ "collected_at": "2026-08-05T06:42:33Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8076,
-   "chg1d_pct": -0.34
+   "price": 0.8082,
+   "chg1d_pct": -0.27
   },
   "USDJPY": {
-   "price": 157.466,
-   "chg1d_pct": -0.04
+   "price": 157.589,
+   "chg1d_pct": 0.04
   },
   "GBPCAD": {
-   "price": 1.8928,
-   "chg1d_pct": 0.36
+   "price": 1.8944,
+   "chg1d_pct": 0.45
   },
   "AUDJPY": {
-   "price": 111.003,
-   "chg1d_pct": 0.7
+   "price": 111.069,
+   "chg1d_pct": 0.76
   },
   "EURUSD": {
-   "price": 1.1541,
-   "chg1d_pct": 0.29
+   "price": 1.1543,
+   "chg1d_pct": 0.31
   },
   "GBPCHF": {
-   "price": 1.0867,
-   "chg1d_pct": -0.12
+   "price": 1.0879,
+   "chg1d_pct": -0.01
   },
   "WTI": {
-   "price": 74.58,
-   "chg1d_pct": -7.17
+   "price": 75.34,
+   "chg1d_pct": -0.57
   },
   "BRENT": {
-   "price": 78.37,
-   "chg1d_pct": -6.45
+   "price": 79.21,
+   "chg1d_pct": -0.19
   },
   "GOLD": {
-   "price": 4189.3,
-   "chg1d_pct": 3.86
+   "price": 4229.5,
+   "chg1d_pct": 3.27
   },
   "SPX_FUT": {
-   "price": 7790.0,
-   "chg1d_pct": 2.12
+   "price": 7794.25,
+   "chg1d_pct": 0.37
   },
   "NAS_FUT": {
-   "price": 29881.0,
-   "chg1d_pct": 3.42
+   "price": 29950.25,
+   "chg1d_pct": 0.29
   }
  },
  "headlines": [
@@ -54,9 +54,19 @@
    "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
-   "t": "Krieg in Nahost aktuell: Schiff sinkt nach Beschuss nahe Jemen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejd5OVRfSWdNQXEzV3FJMnFTLTFhQThRUHliYmtnT2tsNWJwVXc3Z1Z3YUczZlBsd3Nsd1J2ZDJRWGoySVM1ODZVX3l1eXdmN2JWRnVmcC1LQ0F3eklrNWxEbHdKVVhRVHFDdGFfQUdWV3hrMGluNGhTbGhmc1FEZTU1ZzhjYWxmdk8yel9saXppWGhsbDNfa0FrS0d0aHpHb2NWQm9DZWJ5dE8zZ2w3UG1WQ3BWOC13bTg5MS1MNXdPcm8?oc=5",
-   "pub": "Wed, 05 Aug 2026 00:23:36 GMT"
+   "t": "Iran und Oman verhandeln Abkommen für Straße von Hormus - ohne USA - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53Ri1NV3BGR016U0xpTmpKc0lLY2VHanRnUVZ2T2Q3TEYwT1F0SjFFV0dnb2d6bDk5TkN5VFk3d2RCVzlubmJWdld6cEx3amlUN2JkUGZCYlZyVnhIQ3ZFZjFjSVRUa0RCa1hHNVNfVnV5ZTk5OExuTkdjaDY?oc=5",
+   "pub": "Wed, 05 Aug 2026 04:23:54 GMT"
+  },
+  {
+   "t": "Deal ohne Schiffsgebühren?: USA und Iran sollen kurz vor Einigung für Straße von Hormus stehen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDVvSERlRHpWbGF3azdOdjRleGU4M2FBWE90aHlzNGVfUXBWbmZMcWY5Mm9RdmpsZTZUbl9KNFZraHJSWDk2UGlSRTVxem5nbUt2UlVNVnIwSF9GNlJoUTFuYjdHNW50Y0pQaGxmSnhzSWI5RnVQUVZHbjQ1UWZJVzF4YVBldWFyYVp1MXAyTS1NQWRCRzJUeXpKQklNaXJYMkJEM3YwRmdyQ0k0aUF5dGR3?oc=5",
+   "pub": "Wed, 05 Aug 2026 05:03:55 GMT"
+  },
+  {
+   "t": "News zum Krieg in Nahost: USA und Iran wohl vor Übergangsdeal - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUpyNGJBdW9CRUVnclgxSU82ZXc0M1NyNXE5X2szdUg1NG5LbmdVWXBGZXFtLVJsTmZncERLVWZrZHhSSU5EWHhqR3hOUXdJdjJGUDFyNHRRZFR2RlQxa0V0ckQ5cmUwS3VqNTR2VDQzV0JmWW9iRFhpbFBzbUJlOV8zaGpXek81enVaVGU5VHA2MnhCWDR3Y1dGWlpDYU5leHJvVGsxTlZCMEIzVmduVU1NcEVXZWVHX1hpVGluRE9hd2ta?oc=5",
+   "pub": "Wed, 05 Aug 2026 06:40:35 GMT"
   },
   {
    "t": "„Das Problem: Iran führt einen Krieg, der nahe am totalen Krieg ist, und wird nicht aufgeben“ - WELT",
@@ -65,28 +75,18 @@
   },
   {
    "t": "Vermittler Katar meldet Fortschritte bei indirekten Verhandlungen zwischen den USA und dem Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcC1seVVYSFNtcUhuYTVVSlRKWEdqNjRwTERBUW5GN1Etd0E1bF9TbEhxSF9YUWpEMXhxdmpza1B3WkVOeFNVWUNLUjNRZGRSczByQVhVZHoyR0RyOUxPNkc2QTNpTE9RUVEtTlE5YVdIeG0yRHJ0bERMQ1RNbWRGX3JVWDFfYmZmQkdXMEhmTkJGQ0Zta0FzV2lSblM5SmFpVk5zeEYtM1ZDTElLWXJoS3pueUh5SExaSEVhcjJQZTVXYlZJeUh0YnhpaENTMWt0?oc=5",
-   "pub": "Tue, 04 Aug 2026 21:36:10 GMT"
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnhxVFgtcEJkdGE4bW9Kb1FySVVBNG9uLVdHaVZWbFpicHdoN1VTWVJyNEY3c2E1dW1Sa2dUenlIM24za2hKTUYwVGtsaDYtQlRITWIwazZfMGkwMzU3WERuZXJKN3BzME91NEpvMmQ3dVBRR0pSLUZ5VVhIYlBsT0xSWHBBR2tnOWU2Y2s1Y3dGNXg1bEx0NXdycTZ2cFlELXlxNEZmcGYxWmZhVC1jOGdFM1g4QWRPYVMxU1dTUmYwVk1tekYxcnRmU0RkVzVo?oc=5",
+   "pub": "Tue, 04 Aug 2026 23:00:00 GMT"
   },
   {
-   "t": "Nur genehmigte Route: Iran droht US-Kriegsschiffen in der Straße von Hormus - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWtIanJuT05ZdDU5SXJFdUIwN2dNNnlLdkp4Q0xMblJuSXFNQXg3REstZHFKTVk1b1ZseFFwbGpKRm9LT1k4dDNsV1lzRmxKYTNoaEljOWluNGlnaURIV1lzblFZQVhPRUhIS3hwVFVxQU1lbF9MRUJlaGs5Y1ZPcTVoSk52QjBX?oc=5",
-   "pub": "Tue, 04 Aug 2026 05:13:00 GMT"
+   "t": "Trump: Iran muss Hormus-Straße „sehr bald“ öffnen oder wird „sehr hart getroffen“ - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbi1vYkt0WXNpa19wNjFmQ0FxTVlBd1lGSUxGdVl5Z0k4LVpSSllBMGFBWS1rdC1WbFJpV2NqZkY1ajJpb0g0QVhDSVd1VWZUYnpRTlZiUkNicHNNc2JQeXhTUWQ1UHI5cU9PRlNHeG9WQnBaMGpJTFcxdzZhaUFsYkk1SkdZVHhnN2FHc1RiZGpkWm4zMkpWSGJ2a1dKOWpsVWVTTmJBQWxKelRfbXFrQWdXOG5STktia2llckJxSEc?oc=5",
+   "pub": "Wed, 05 Aug 2026 03:54:16 GMT"
   },
   {
-   "t": "Nahost: Iran-Krieg: Neue Lösung für Straße von Hormus in Sicht? - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTNCU0t1QWZMNTY3NUJyeFBmSDFRLTFIWFJWNUtFNlVZdkM3U21FZm9uMTR5QXhZSy1ISjMxNW4zZi1Qa1RhQVpMN3V5OTRkSzFQa0hoV2U4SWlEcTJkcDJKaksxNGtpRFZJQXk5TEhsdFFVcl9oNHlhMHRVcEhJYUhOUExoRHpJRWc?oc=5",
-   "pub": "Tue, 04 Aug 2026 15:50:38 GMT"
-  },
-  {
-   "t": "US-Raketen offenbar „so gut wie alle“ aufgebraucht – während China den Iran aufrüstet - berliner-zeitung.de",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa1dRazBvQ25sTGxQWmNyNDVQX1c5WUd4ZmN2bmlONjZaMFFXWHJBRHl2WnBKZ2FuR3NYcEExSHQxTE9VdjN4ZGF4M0N6a2JXT3BKOFdzQkR6MzN2blFMSWZ6bWRLdnd1QjRuN01aUHFRcmY1NDNhWm9aX0pvZWVVU0pnQldWQ1dCNHdRaDNHSVp5dkNNU2hkVEhUOWdZMnhpNXE4b253U05oS1lNdkt1UHhJU2Z4RVVnOWdvZW1uU0tNRVc5TVdpWmFEUGpZMndIc3ltSXZKc2c?oc=5",
-   "pub": "Tue, 04 Aug 2026 12:32:23 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump klingt wieder gefährlich - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanVxTk1tLTR3UnJaRlZnOVVlbzhYU0tNenJFVkJ4YlFZX2JjNVF0NGJlb3ZWZVdDR2NveE9jR2J0NGdUSUFUS2lvMjA0SmlNZV9YNnhXdy0yVElNZHlxMDYxWUd1aXZYUXZmdnhURl9vbnk4RjNvVzlHaTRLQld1T3NVVl9tOG5TZ1NXVGY1UkpYSjTSAZMBQVVfeXFMUEpjQ084YkRMSUNWV2poMWFEQko1NXl4UmJJQlJ3aTZSNzQwd3NBblZIbWF2QV8yMTY2X3VUY1daU1I2eHN0TnExTXU0QTZ6Yzc1NjRRNHRSaUpiLWNaWTdBN1M0dHpHSl9meDhzQ0UxQ1Y1YW5razZKYllva0RYT2FVMmdabjJ4SXktQzF2Q2hXc3Uw?oc=5",
-   "pub": "Tue, 04 Aug 2026 09:58:31 GMT"
+   "t": "BÖRSE AKTUELL: Iran-Verhandlungen bewegen Öl und Gold (05.08.2026) - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHRpbm5oSzl3ZjdDR2IzamdiQk9ET2I2bE9abnQ2VUVvY0FNd0FmLXdVT1FLOV9HLWVEN3dIUmRmMjN1OEhFcEZucHh0X2F6aUo2dXZsalFJREFpZnBQaFM3MDJMa2tERy1FWWtfSGUydkdJRkVtUk5NcklOME95TEZZS21fdGdKdmFGeWw5UTQtUFN5VHFLNjE5Y20zRUE1TFJtVnV5NEwtaFNqZE9NcGdfT0JpUQ?oc=5",
+   "pub": "Wed, 05 Aug 2026 06:30:00 GMT"
   },
   {
    "t": "Iran-Krieg: US-Militär soll per Mail nach »unkonventionellen« Ideen herumgefragt haben - Spiegel",
@@ -99,14 +99,14 @@
    "pub": "Tue, 04 Aug 2026 12:00:44 GMT"
   },
   {
-   "t": "\"Schämt euch\": US-Minister dementiert Munitionsmangel - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjg3T2ZSVEFXZ1pzUmwwRkotaHR0RjhGc3c2ZTB4VjByb3dFeU5VTVFpYmtTNW01V0Y5TktfYXJZZVRNb29aaVoxbUdfRjR1WjFiek1qb0NCc1pmbWVXWFdrMENmTkFJSW52MC16TDBoeG5LYXY4ZXhkN3dyMk1hMG9sckpGNTd0?oc=5",
-   "pub": "Wed, 05 Aug 2026 00:47:25 GMT"
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDI3cmx2Zi0wRGN5YkdsN2xmaXl3V0FuZHRRcTZrZ3BMdnZ4d3JkMU40UFMzNl8xeFJrcTJyNlR4MFVYb1pzOUwzcXhJYlgtTHZUNmt4MVdiUng3bVR2VF80LUFscjV6UDNQTXVBb2NMU0x3NXhZSll4cXFLMnRFVTVybkI3d3NQVXVKSTJBbkQ0djhvYW5JLXdQV2gydG9YX2k0?oc=5",
+   "pub": "Wed, 05 Aug 2026 06:33:00 GMT"
   },
   {
-   "t": "US-Militär bittet um „kreative“ Ideen für Iran-Krieg – Trump droht Teheran mit „Enthauptung“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMmgxaHRlSGtER1E2YzlkeGlzRVpLR01VbWJIMUpKeE8waXNPaE1CbjFuemgzNnB6SERaY2ppZVk4dm40bktkTFpzNUFqdUdBSVNjTHBpeV96Nk12dmFodVBGaXBPYkxOQVlkWGd5V21Sak5jSU1JOW1ITlhVOFZYR0FxR3BGSWVKME03S0ptN0J6M1hoUGFwRlVHNWU3ajJ3M2hQU21QRDBWc0JlaWJPczQ0eHFmRDYzR3lDNUFUZlJKNkZyOTVzVEtzRnBEcFJIbVpIdjRWRE9GVkYxdzVRR3VkNmtCZEFFZWJDdU5JazE5TXc?oc=5",
-   "pub": "Tue, 04 Aug 2026 05:55:43 GMT"
+   "t": "Nur genehmigte Route: Iran droht US-Kriegsschiffen in der Straße von Hormus - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTWtIanJuT05ZdDU5SXJFdUIwN2dNNnlLdkp4Q0xMblJuSXFNQXg3REstZHFKTVk1b1ZseFFwbGpKRm9LT1k4dDNsV1lzRmxKYTNoaEljOWluNGlnaURIV1lzblFZQVhPRUhIS3hwVFVxQU1lbF9MRUJlaGs5Y1ZPcTVoSk52QjBX?oc=5",
+   "pub": "Tue, 04 Aug 2026 05:13:00 GMT"
   }
  ]
 }
