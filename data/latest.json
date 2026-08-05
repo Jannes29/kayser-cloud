@@ -1,67 +1,67 @@
 {
- "collected_at": "2026-08-05T19:56:03Z",
+ "collected_at": "2026-08-05T21:33:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8073,
-   "chg1d_pct": -0.22
+   "price": 0.8068,
+   "chg1d_pct": -0.29
   },
   "USDJPY": {
-   "price": 157.709,
-   "chg1d_pct": 0.01
+   "price": 157.725,
+   "chg1d_pct": 0.02
   },
   "GBPCAD": {
-   "price": 1.8866,
-   "chg1d_pct": -0.27
+   "price": 1.886,
+   "chg1d_pct": -0.3
   },
   "AUDJPY": {
-   "price": 111.296,
-   "chg1d_pct": 0.16
+   "price": 111.256,
+   "chg1d_pct": 0.12
   },
   "EURUSD": {
    "price": 1.1555,
    "chg1d_pct": 0.2
   },
   "GBPCHF": {
-   "price": 1.0869,
-   "chg1d_pct": -0.12
+   "price": 1.086,
+   "chg1d_pct": -0.2
   },
   "WTI": {
-   "price": 75.14,
-   "chg1d_pct": -0.83
+   "price": 75.08,
+   "chg1d_pct": -0.91
   },
   "BRENT": {
-   "price": 79.41,
-   "chg1d_pct": 0.06
+   "price": 79.4,
+   "chg1d_pct": 0.05
   },
   "GOLD": {
-   "price": 4313.1,
-   "chg1d_pct": 5.32
+   "price": 4308.0,
+   "chg1d_pct": 5.19
   },
   "SPX_FUT": {
-   "price": 7766.25,
-   "chg1d_pct": 0.01
+   "price": 7758.75,
+   "chg1d_pct": -0.09
   },
   "NAS_FUT": {
-   "price": 29704.75,
-   "chg1d_pct": -0.53
+   "price": 29600.25,
+   "chg1d_pct": -0.88
   }
  },
  "headlines": [
   {
-   "t": "Eilmeldung. - Iran und Oman einigen sich auf Schiffsroute in Straße von Hormus - Euronews",
+   "t": "Iran und Oman einigen sich auf Schiffsroute in Straße von Hormus - Euronews",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3dLODZCRV9LOENHY044aDlMc1I0T1IyamFKcEhpZjVEeGNmY0FvNGhtbFJnczRkZVJMNzJ6bk52VVZELUkwQUI3SG4yT0VNRzlwZXZoUmZfQTVaLVBCZ1lON2FFYzllakJtay01YUg2dlY1VUk2empZT1ZJdXVpQ3ZyR3F0aGp6bU0wd1VESXBqaWNLX18taGZ5UDVReEJURnc?oc=5",
    "pub": "Wed, 05 Aug 2026 16:42:17 GMT"
   },
   {
-   "t": "News zum Krieg in Nahost: USA und Iran wohl vor Übergangsdeal - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUpyNGJBdW9CRUVnclgxSU82ZXc0M1NyNXE5X2szdUg1NG5LbmdVWXBGZXFtLVJsTmZncERLVWZrZHhSSU5EWHhqR3hOUXdJdjJGUDFyNHRRZFR2RlQxa0V0ckQ5cmUwS3VqNTR2VDQzV0JmWW9iRFhpbFBzbUJlOV8zaGpXek81enVaVGU5VHA2MnhCWDR3Y1dGWlpDYU5leHJvVGsxTlZCMEIzVmduVU1NcEVXZWVHX1hpVGluRE9hd2ta?oc=5",
-   "pub": "Wed, 05 Aug 2026 19:55:36 GMT"
+   "t": "Hoffnung auf Öffnung der Straße von Hormus: Oman und Iran einigen sich - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92a3dmaTFMX2tfU1RPNVA3eXJHWUthUDZDSkNSWmlvcHBBNm5DQWZ3ZlVjbkhOQ25kbEQ5clRjbHN0VFRrTnpRcVdURlFoYlU5aHR5ZzhibDNVbGtlSDl3blh5Q1dZSGM?oc=5",
+   "pub": "Wed, 05 Aug 2026 20:59:06 GMT"
   },
   {
-   "t": "Ölpreis aktuell: Zweifel über schnelle Öffnung der Straße von Hormus - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLVotYTBVU0dUa3BTZUxkWF9hdGlHVFZOQUZiTGxBODRFeE01cG4xWXFkRFBCdndydGdXRWo5NlhRbnc4el9mR2w1empSTVNtT0hMSnV5VmxERXUzV0ZBa2l1V0NqUXZ1S3hHamY2Sm4tY3ltbFR3Y0QyUTFMRXRDSG9JV2tHUmc5eGlHVnBFN1BhaFNuMFRQRG92RFBQZDBlMkVKS2ZnT1R5UkYzMURsVzJ4V2NvZw?oc=5",
-   "pub": "Wed, 05 Aug 2026 17:33:04 GMT"
+   "t": "Mögliche Öffnung - Iran und Oman einigen sich auf neue Route durch Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlVRC12MmRGeGJseEJsa0JmUndyLUlMVDhyZURub0dnWWhJVFh5UlRESEc2UFVSSzFkLWdNQkxxUUlRSlZqM1Q4aWpBMXdxcENWZm02VEJTVU1UNzBwYzllT29NNWhOWVBQYTQ4V0JRZnBIZV9nZEdpWkdFd0l2WVlzSWxHMDBSUzZXSTVRMG83SVBHMEtjS2d4NW1mWGhBRXpkWW14V1liZw?oc=5",
+   "pub": "Wed, 05 Aug 2026 19:00:00 GMT"
   },
   {
    "t": "Krieg in Nahost: Trump setzt Iran neues Ultimatum - Video - WELT",
@@ -69,9 +69,9 @@
    "pub": "Wed, 05 Aug 2026 12:56:54 GMT"
   },
   {
-   "t": "Mögliche Öffnung - Iran und Oman einigen sich auf neue Route durch Straße von Hormus - deutschlandfunk.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlVRC12MmRGeGJseEJsa0JmUndyLUlMVDhyZURub0dnWWhJVFh5UlRESEc2UFVSSzFkLWdNQkxxUUlRSlZqM1Q4aWpBMXdxcENWZm02VEJTVU1UNzBwYzllT29NNWhOWVBQYTQ4V0JRZnBIZV9nZEdpWkdFd0l2WVlzSWxHMDBSUzZXSTVRMG83SVBHMEtjS2d4NW1mWGhBRXpkWW14V1liZw?oc=5",
-   "pub": "Wed, 05 Aug 2026 19:00:00 GMT"
+   "t": "Krieg in Nahost aktuell: Bericht: USA und Iran vor Übergangsdeal - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0JWcDBhTGNmRlRZemZUbnRNRkJ1Z21lRUkxU2hUWmoyTWxaNlNfTGhTYk5QRHZ6WXI3NEo0ZWhLZk16eVlhdl90SThKYXY2RWVXcXBkaXJ0a3BjMEJMSkpNUnEtOTNmOElJZ1pHa3JzYkl5dTQxYXJCbHFqSVhUMW1Kcmd6bmhtRjFaZTNzTVhySDA5N0F6YTViWWNUcEViMjF1cC1rSHpPUXYxalc3Q0tidDlWWm9vX3hKWDN3?oc=5",
+   "pub": "Wed, 05 Aug 2026 05:13:47 GMT"
   },
   {
    "t": "Deal ohne Schiffsgebühren?: USA und Iran sollen kurz vor Einigung für Straße von Hormus stehen - n-tv.de",
@@ -79,17 +79,12 @@
    "pub": "Wed, 05 Aug 2026 05:03:55 GMT"
   },
   {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDI3cmx2Zi0wRGN5YkdsN2xmaXl3V0FuZHRRcTZrZ3BMdnZ4d3JkMU40UFMzNl8xeFJrcTJyNlR4MFVYb1pzOUwzcXhJYlgtTHZUNmt4MVdiUng3bVR2VF80LUFscjV6UDNQTXVBb2NMU0x3NXhZSll4cXFLMnRFVTVybkI3d3NQVXVKSTJBbkQ0djhvYW5JLXdQV2gydG9YX2k0?oc=5",
-   "pub": "Wed, 05 Aug 2026 06:33:00 GMT"
-  },
-  {
    "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
    "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran offenbar zu Übergangslösung bereit - zdfheute.de",
+   "t": "Straße von Hormus: Iran offenbar zu Übergangslösung bereit - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1BpMGFFRmNyc3VPWk10S3Vqc2pDWGFad2RUNGdObGtCRWdhTGJBbVBWM0ZtYVBkVnd5SFl6VHdFbXc1QVJzcWxhRjk5T3NIb3kzaDZPN1dYRTJpcXVubkRkQWxXc25RZGNWdC05Y3h3Y3RBMlpEY1p5Njg1WmFrQ1VXQi1oczZh?oc=5",
    "pub": "Wed, 05 Aug 2026 08:49:30 GMT"
   },
@@ -99,14 +94,19 @@
    "pub": "Wed, 05 Aug 2026 04:23:54 GMT"
   },
   {
+   "t": "Iran-Krieg: US-Militär soll per Mail nach »unkonventionellen« Ideen herumgefragt haben - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM2YyNEhhd010OWF3R29aNU5aa1dtR1hoVF9OenRIaXZaR3J2eUZjNE5pdmw4UVVRbFF6RS14aVVjemlrYmxYQUxJYm1ITGxmRXd1YktPeW04YUt4eHJEX1ZZYTRxdzVud2FaX3NQaVZoRTVuZHpEWXJJZWREbnVFNVR6MVVZWmZQdWVLaDkySzBMdTI2VHVUSUZqeGFsenlVYVN0ZTZibHQ4QUhJeFdRczUzV2ZjdmJlWWZJTGJuVWxmQmtGczlva2g1TkpoM3l6cDd4Z21fRUZUNU9wZmxLNG1MMkJuWnZneGc?oc=5",
+   "pub": "Tue, 04 Aug 2026 05:48:00 GMT"
+  },
+  {
    "t": "Teheran: Iran und Oman einigen sich auf neue Route durch Straße von Hormus - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0dJNGE5akFtVW04ejZLYzVVcHp3WGp3WllEWC1kODFjYjl2RVR4WVZxZlBIcEJ0OGhKeENkQmYyTVRFcEJFa3FfYzNnaDBCcVJmTHlmcjFZYXg1NFRzTlhoYlBTd2szSFdLc0ZqS19ZSFdiMHNEOG1fUDVWRnNzazBwTF92NmY3bDBzR0xSOTRudmpmZlRyb0pQLU5VNWVtZTV6MVpjRmkyNy03elViX3hEZWZmdw?oc=5",
    "pub": "Wed, 05 Aug 2026 15:48:47 GMT"
   },
   {
-   "t": "Iran überlistet die US-Luftverteidigung: Neue Taktiken - faz.net",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFSQ0VpVGRHVTFEeHZRLU1sYkxJbW42czdwc2swUnZac2tWdWFZOUpaLW93cEVlbVA2RHQ0RVVleDRrcHhHTHBNS21PUGVRTk84OHN6YW84QTJvM0loUHlIU05lNFo3d1BkQlF1cmtYckFNYmRhMEotdGtmREJHWEVTZHdTUWc3OWk4T2syYjBjeXVRR2lBam90bFdZWmFhaGxnQ0k5T3k1T21scDFkOHd6OA?oc=5",
-   "pub": "Wed, 05 Aug 2026 17:46:52 GMT"
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDI3cmx2Zi0wRGN5YkdsN2xmaXl3V0FuZHRRcTZrZ3BMdnZ4d3JkMU40UFMzNl8xeFJrcTJyNlR4MFVYb1pzOUwzcXhJYlgtTHZUNmt4MVdiUng3bVR2VF80LUFscjV6UDNQTXVBb2NMU0x3NXhZSll4cXFLMnRFVTVybkI3d3NQVXVKSTJBbkQ0djhvYW5JLXdQV2gydG9YX2k0?oc=5",
+   "pub": "Wed, 05 Aug 2026 06:33:00 GMT"
   }
  ]
 }
