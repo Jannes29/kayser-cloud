@@ -1,112 +1,55 @@
 {
- "collected_at": "2026-08-06T03:39:53Z",
+ "collected_at": "2026-08-06T06:46:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.807,
-   "chg1d_pct": -0.26
+   "price": 0.8081,
+   "chg1d_pct": -0.13
   },
   "USDJPY": {
-   "price": 157.718,
-   "chg1d_pct": 0.02
+   "price": 157.81,
+   "chg1d_pct": 0.07
   },
   "GBPCAD": {
-   "price": 1.8859,
+   "price": 1.8858,
    "chg1d_pct": -0.31
   },
   "AUDJPY": {
-   "price": 111.165,
-   "chg1d_pct": 0.04
+   "price": 111.137,
+   "chg1d_pct": 0.01
   },
   "EURUSD": {
-   "price": 1.1553,
-   "chg1d_pct": 0.18
+   "price": 1.155,
+   "chg1d_pct": 0.15
   },
   "GBPCHF": {
-   "price": 1.0862,
-   "chg1d_pct": -0.19
+   "price": 1.0877,
+   "chg1d_pct": -0.05
   },
   "WTI": {
-   "price": 75.24,
-   "chg1d_pct": -0.7
+   "price": 75.41,
+   "chg1d_pct": 0.25
   },
   "BRENT": {
-   "price": 79.55,
-   "chg1d_pct": 0.24
+   "price": 79.67,
+   "chg1d_pct": 0.28
   },
   "GOLD": {
-   "price": 4325.1,
-   "chg1d_pct": 5.61
+   "price": 4312.3,
+   "chg1d_pct": 1.57
   },
   "SPX_FUT": {
-   "price": 7760.5,
-   "chg1d_pct": -0.06
+   "price": 7758.5,
+   "chg1d_pct": 0.12
   },
   "NAS_FUT": {
-   "price": 29539.0,
-   "chg1d_pct": -1.09
+   "price": 29520.0,
+   "chg1d_pct": -0.32
   }
  },
  "headlines": [
   {
-   "t": "Hoffnung auf Öffnung der Straße von Hormus: Oman und Iran einigen sich - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92a3dmaTFMX2tfU1RPNVA3eXJHWUthUDZDSkNSWmlvcHBBNm5DQWZ3ZlVjbkhOQ25kbEQ5clRjbHN0VFRrTnpRcVdURlFoYlU5aHR5ZzhibDNVbGtlSDl3blh5Q1dZSGM?oc=5",
-   "pub": "Wed, 05 Aug 2026 20:59:06 GMT"
-  },
-  {
-   "t": "Bericht: Iran pocht in Straße von Hormus auf hohe Mautgebühr - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlZ0YXR4R19PTzhJOXhkNnFHdVNzTVNMaEhDNDNJOU0zdzd5SVhiNUNucF9YN0t4b1owTWFVVjVQY25LU2ZqRHY0SW1VaFhsQXBRaFVLMVRkbVNOQkNvcXc0ZXl3Q0RXRmpVd0J2NTFmZ1ZMUGlUZ0ZxVGVVUkxsV1h1bGJMaXpQVG4zX1VBMHVTeU1YWWdDTE5LR3I3dkNxZG94Tkhn?oc=5",
-   "pub": "Thu, 06 Aug 2026 03:15:00 GMT"
-  },
-  {
-   "t": "News zum Krieg in Nahost: USA und Iran wohl vor Übergangsdeal - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUpyNGJBdW9CRUVnclgxSU82ZXc0M1NyNXE5X2szdUg1NG5LbmdVWXBGZXFtLVJsTmZncERLVWZrZHhSSU5EWHhqR3hOUXdJdjJGUDFyNHRRZFR2RlQxa0V0ckQ5cmUwS3VqNTR2VDQzV0JmWW9iRFhpbFBzbUJlOV8zaGpXek81enVaVGU5VHA2MnhCWDR3Y1dGWlpDYU5leHJvVGsxTlZCMEIzVmduVU1NcEVXZWVHX1hpVGluRE9hd2ta?oc=5",
-   "pub": "Thu, 06 Aug 2026 02:58:28 GMT"
-  },
-  {
-   "t": "Iran und Oman einigen sich auf Schiffsroute in Straße von Hormus - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3dLODZCRV9LOENHY044aDlMc1I0T1IyamFKcEhpZjVEeGNmY0FvNGhtbFJnczRkZVJMNzJ6bk52VVZELUkwQUI3SG4yT0VNRzlwZXZoUmZfQTVaLVBCZ1lON2FFYzllakJtay01YUg2dlY1VUk2empZT1ZJdXVpQ3ZyR3F0aGp6bU0wd1VESXBqaWNLX18taGZ5UDVReEJURnc?oc=5",
-   "pub": "Wed, 05 Aug 2026 16:42:17 GMT"
-  },
-  {
-   "t": "Mögliche Öffnung - Iran und Oman einigen sich auf neue Route durch Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHlVRC12MmRGeGJseEJsa0JmUndyLUlMVDhyZURub0dnWWhJVFh5UlRESEc2UFVSSzFkLWdNQkxxUUlRSlZqM1Q4aWpBMXdxcENWZm02VEJTVU1UNzBwYzllT29NNWhOWVBQYTQ4V0JRZnBIZV9nZEdpWkdFd0l2WVlzSWxHMDBSUzZXSTVRMG83SVBHMEtjS2d4NW1mWGhBRXpkWW14V1liZw?oc=5",
-   "pub": "Wed, 05 Aug 2026 19:00:00 GMT"
-  },
-  {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDI3cmx2Zi0wRGN5YkdsN2xmaXl3V0FuZHRRcTZrZ3BMdnZ4d3JkMU40UFMzNl8xeFJrcTJyNlR4MFVYb1pzOUwzcXhJYlgtTHZUNmt4MVdiUng3bVR2VF80LUFscjV6UDNQTXVBb2NMU0x3NXhZSll4cXFLMnRFVTVybkI3d3NQVXVKSTJBbkQ0djhvYW5JLXdQV2gydG9YX2k0?oc=5",
-   "pub": "Wed, 05 Aug 2026 18:58:00 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Trump setzt Iran neues Ultimatum - Video - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVBtZEVpYUpoTDRGcC1FcEJRVk94OFRXc0xueEFNWDY4ZlNDaWhfVFV5aEhUQ3UzbUtxTnc3OWxyakdVU1RXTkYzd2Z1cXJrTDliZXRQMHJNeVRmOGZuanFuZDhLMDJHV2xnQVZkOUhqVE16RGtMOFo1SzlJU1RuNlZsaENNZzV1Wkh5XzVkejd2U2JOUFlyQURFQjR2VC0yTlRIQVpfdXFUaV9DeDJ2R216bzg3dU9iUVVj?oc=5",
-   "pub": "Wed, 05 Aug 2026 12:56:54 GMT"
-  },
-  {
-   "t": "Iran überlistet die US-Luftverteidigung: Neue Taktiken - faz.net",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFSQ0VpVGRHVTFEeHZRLU1sYkxJbW42czdwc2swUnZac2tWdWFZOUpaLW93cEVlbVA2RHQ0RVVleDRrcHhHTHBNS21PUGVRTk84OHN6YW84QTJvM0loUHlIU05lNFo3d1BkQlF1cmtYckFNYmRhMEotdGtmREJHWEVTZHdTUWc3OWk4T2syYjBjeXVRR2lBam90bFdZWmFhaGxnQ0k5T3k1T21scDFkOHd6OA?oc=5",
-   "pub": "Wed, 05 Aug 2026 17:46:52 GMT"
-  },
-  {
-   "t": "Mögliche Öffnung - Iran und Oman einigen sich auf neue Route durch Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVJLSDNHSTBkN3FCSDlvenM2Q25haHNMUGxiVkQ5dGJPcThNanNadWZlSHdfVzRoRWRKRTk4eVJpZ1Q2RUVwWHJVUzFNSTRGdENwMlExbmJzWU1xbS1vWDV6Q25PQVA3c0cxYjRIMkxWempJankzSlA0MktDWjVqTUFObk9UcG5FMVNqSnN4QnNDU2xmalhPS1djMzFqanJ4VzhRTkY5X0Z5UQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 01:00:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran offenbar zu Übergangslösung bereit - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1BpMGFFRmNyc3VPWk10S3Vqc2pDWGFad2RUNGdObGtCRWdhTGJBbVBWM0ZtYVBkVnd5SFl6VHdFbXc1QVJzcWxhRjk5T3NIb3kzaDZPN1dYRTJpcXVubkRkQWxXc25RZGNWdC05Y3h3Y3RBMlpEY1p5Njg1WmFrQ1VXQi1oczZh?oc=5",
-   "pub": "Wed, 05 Aug 2026 08:49:30 GMT"
-  },
-  {
-   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
-   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: US-Militär soll per Mail nach »unkonventionellen« Ideen herumgefragt haben - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM2YyNEhhd010OWF3R29aNU5aa1dtR1hoVF9OenRIaXZaR3J2eUZjNE5pdmw4UVVRbFF6RS14aVVjemlrYmxYQUxJYm1ITGxmRXd1YktPeW04YUt4eHJEX1ZZYTRxdzVud2FaX3NQaVZoRTVuZHpEWXJJZWREbnVFNVR6MVVZWmZQdWVLaDkySzBMdTI2VHVUSUZqeGFsenlVYVN0ZTZibHQ4QUhJeFdRczUzV2ZjdmJlWWZJTGJuVWxmQmtGczlva2g1TkpoM3l6cDd4Z21fRUZUNU9wZmxLNG1MMkJuWnZneGc?oc=5",
-   "pub": "Tue, 04 Aug 2026 05:48:00 GMT"
+   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
   }
  ]
 }
