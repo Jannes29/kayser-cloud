@@ -1,55 +1,112 @@
 {
- "collected_at": "2026-08-06T06:46:52Z",
+ "collected_at": "2026-08-06T09:59:33Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8081,
-   "chg1d_pct": -0.13
+   "price": 0.8094,
+   "chg1d_pct": 0.03
   },
   "USDJPY": {
-   "price": 157.81,
-   "chg1d_pct": 0.07
+   "price": 157.864,
+   "chg1d_pct": 0.11
   },
   "GBPCAD": {
-   "price": 1.8858,
-   "chg1d_pct": -0.31
+   "price": 1.8849,
+   "chg1d_pct": -0.36
   },
   "AUDJPY": {
-   "price": 111.137,
-   "chg1d_pct": 0.01
+   "price": 111.169,
+   "chg1d_pct": 0.04
   },
   "EURUSD": {
-   "price": 1.155,
-   "chg1d_pct": 0.15
+   "price": 1.1542,
+   "chg1d_pct": 0.08
   },
   "GBPCHF": {
-   "price": 1.0877,
-   "chg1d_pct": -0.05
+   "price": 1.0891,
+   "chg1d_pct": 0.08
   },
   "WTI": {
-   "price": 75.41,
-   "chg1d_pct": 0.25
+   "price": 75.37,
+   "chg1d_pct": 0.2
   },
   "BRENT": {
-   "price": 79.67,
-   "chg1d_pct": 0.28
+   "price": 79.7,
+   "chg1d_pct": 0.31
   },
   "GOLD": {
-   "price": 4312.3,
-   "chg1d_pct": 1.57
+   "price": 4334.6,
+   "chg1d_pct": 2.09
   },
   "SPX_FUT": {
-   "price": 7758.5,
-   "chg1d_pct": 0.12
+   "price": 7764.25,
+   "chg1d_pct": 0.19
   },
   "NAS_FUT": {
-   "price": 29520.0,
-   "chg1d_pct": -0.32
+   "price": 29505.0,
+   "chg1d_pct": -0.37
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "Hoffnung auf Öffnung der Straße von Hormus: Oman und Iran einigen sich - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92a3dmaTFMX2tfU1RPNVA3eXJHWUthUDZDSkNSWmlvcHBBNm5DQWZ3ZlVjbkhOQ25kbEQ5clRjbHN0VFRrTnpRcVdURlFoYlU5aHR5ZzhibDNVbGtlSDl3blh5Q1dZSGM?oc=5",
+   "pub": "Wed, 05 Aug 2026 20:59:06 GMT"
+  },
+  {
+   "t": "„Zeigt ihnen, wie man die USA besiegen kann“ – Amerikas bedenklicher Raketenmangel - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbERmYmt0QmJmNWpiRFRHbWJ3THM1ek44Rk9VN0RGa3ZrN1J1NE5keFhxM1hFQVVaQVJUMGIwYzl2aktPVUdMNG81amN4cElnZGtDM1lhVnhaR0JnZFFrZEVCT0NZZmZIdDh1alNrTlJhLUt5VHVoTDh2WGM1aHBpWlVEbl8tZ1VIUnBvZnlWb1Y2UERicFJ1Mi1jUG1KRWwzcnZGR2RuS0RXcGE0RDA4VGtkV2ZadU9qd3VkVWlpeHRGV3d6VTkyZWNMT1Jqa21lbVcxdTdGM09kNElPMjN0cGkzRkpibENPUWZvWVNPMA?oc=5",
+   "pub": "Thu, 06 Aug 2026 04:54:31 GMT"
+  },
+  {
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
+   "pub": "Thu, 06 Aug 2026 07:55:00 GMT"
+  },
+  {
+   "t": "Bericht: Iran pocht in Straße von Hormus auf hohe Mautgebühr - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlZ0YXR4R19PTzhJOXhkNnFHdVNzTVNMaEhDNDNJOU0zdzd5SVhiNUNucF9YN0t4b1owTWFVVjVQY25LU2ZqRHY0SW1VaFhsQXBRaFVLMVRkbVNOQkNvcXc0ZXl3Q0RXRmpVd0J2NTFmZ1ZMUGlUZ0ZxVGVVUkxsV1h1bGJMaXpQVG4zX1VBMHVTeU1YWWdDTE5LR3I3dkNxZG94Tkhn?oc=5",
+   "pub": "Thu, 06 Aug 2026 03:15:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Tanker in der Straße von Hormus meldet Explosionen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeU80LVVfeHo1c2c3aUdiR2czRm1PNk1zYnhJTnBlVXFwaC1ELXdvdGJPblI1cUV5MEw0TWZnSjU4RFR2bDc5UXpUSmtFT0JIYUxJdW1DQmw2bGJmcTBSMEFtdzczU1lsQVRaeDYtVmx3cVI3WUJGQ3lQVnVIaVI0RUdfOFBIdDU1c2swSWtRTk85eWpuN1QyS1R1MjFRdkwza0xaZ3FiUnhCVmxIQW0tcFF6UUlUU0cwbmRfUFduTFc1OWgwUnllVlcwMG8?oc=5",
+   "pub": "Thu, 06 Aug 2026 04:52:00 GMT"
+  },
+  {
+   "t": "Iran erklärt, ein Abkommen mit Oman über Hormus stehe kurz bevor, doch die Wiedereröffnung hänge von den USA ab - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdUN2VllVY1hkR0M5RVRFWjVCNWhBZGNMSkRPV005T0lFckRaLWs4SHphMUFzR3hBMldjMjk3R2UxV3kxQXJnTlpTaEhaNXNkcHZYWEd3NDg0Q3JKS0o2b2NvLWJDV3FMdkRKc3RRY0dDbXZZNXo2d042VlQ3SkFPWTduOW9DWGEyd19WaTdwOXZaR1BTd2hiVTlPYzd1YW9jWk83aFl4SDVuTlp4S3dKYlhSX3NESUx3a2xHLWJta0xLSTVfeW1OWll4ZlVJWjNubHJvZUdPOS1iUmZVRFFzb1h4YlYyWUhqTWpLSHgyUWFSbUlz?oc=5",
+   "pub": "Thu, 06 Aug 2026 07:33:00 GMT"
+  },
+  {
+   "t": "Camp-David-Bericht bringt Pentagon in Erklärungsnot: Trump und Hegseth im Clinch? - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMEQzMTZFdmNSTTJnRXpNdnRsZThHd0hJWHpmQ2RIdlVzTFBXUnlpbjV5NnZKVnBQRzZRbzNxZ3BGVEFQQ0RZOFVuT25DejhtMUJESzBMTXE0aHRXbkVqbFlCMl9hQWg3dURlXzFXZXE3dWtZNTRoQTZER1MtNG1QWFZkb1VRaXh4ZWNfZnZhSHNyYzYzUUFnb3g4VTdzbktnX01UU3M3Q1RLUWdyYzFreFZHemxvUndTcVpySy1WVkRfN0s2OFViT3FlUTFqQQ?oc=5",
+   "pub": "Thu, 06 Aug 2026 06:39:24 GMT"
+  },
+  {
+   "t": "Mögliche Öffnung - Iran und Oman einigen sich auf neue Route durch Straße von Hormus - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemFWT3NtWWhZQjl5TTlIVzdGVmdnWmlJV1hXYUZnQ3FuQ2JWTzA4MmJVVEg3ekNEUTAyOGxGamR4VW1pWHRLT3lITnBOVFRjbEtmbWhpanYxV2hxb2w2NW9Dd2NMN0hZLWUwMEpjZWE5bHlZR3JIQVNpRjg3aURSc3E1WTJVU3RSX1BFWEFNNEZEYkt3WjNUOHJGdDhYVFB2S0MxM1RFSXllZw?oc=5",
+   "pub": "Thu, 06 Aug 2026 06:00:00 GMT"
+  },
+  {
+   "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
+   "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
+  },
+  {
+   "t": "Iran überlistet die US-Luftverteidigung: Neue Taktiken - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHFSQ0VpVGRHVTFEeHZRLU1sYkxJbW42czdwc2swUnZac2tWdWFZOUpaLW93cEVlbVA2RHQ0RVVleDRrcHhHTHBNS21PUGVRTk84OHN6YW84QTJvM0loUHlIU05lNFo3d1BkQlF1cmtYckFNYmRhMEotdGtmREJHWEVTZHdTUWc3OWk4T2syYjBjeXVRR2lBam90bFdZWmFhaGxnQ0k5T3k1T21scDFkOHd6OA?oc=5",
+   "pub": "Wed, 05 Aug 2026 17:46:52 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Abkommen fast fertig – Iran will offenbar hohe Transit-Gebühren - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSnBmdUlfYmZ1WExrektveW13NHpGNVZ3UWJfbExSMlkyY0lVMWszNERPcVhuNDNNeTBfYTV6MGFGTWNMNW5ZMkh5eGl4Q1NyUGM2RGI1ZDN4UnpZMmtHdHZtcTEyc25zd21NSW1aVVNQMUVNcjlfRFFnQU1UZVlHdXh4dEtBbHlHck5FdG1mOWNGOUZtLXdsUld2XzVLclZOTktrTmxVNzJHRDhQeHB1dUotelk4SkduUG1RalI5TGxUQ3RrUTl5TUN3eGU2ZnMwMmVIUktLZkJQaWRaRGpmMm5hdTdCcVM1RVE?oc=5",
+   "pub": "Thu, 06 Aug 2026 06:04:55 GMT"
+  },
+  {
+   "t": "Iran: Einigung mit Oman zu Straße von Hormus steht kurz bevor - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWUp6d1Y0WjhHZmk3X25pN2F3RFh1OXAwN3c0QlI1c2gzUjBmbVhud0c5aTNUUWJPeDRWdV8xT1F5SVN4TTdSVFhKblBrUDU1WktSXzY3YmVMaTQ2LVBiT3VSS255VHFtQk5BTzQyeVJXY2plUHZYYnhTaFl4dFlMVmk0MW9EUG5BZWR5QUMtbw?oc=5",
+   "pub": "Thu, 06 Aug 2026 06:54:00 GMT"
   }
  ]
 }
