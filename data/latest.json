@@ -1,53 +1,63 @@
 {
- "collected_at": "2026-08-07T11:09:37Z",
+ "collected_at": "2026-08-07T11:58:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.81,
-   "chg1d_pct": 0.41
+   "price": 0.8103,
+   "chg1d_pct": 0.45
   },
   "USDJPY": {
-   "price": 158.279,
-   "chg1d_pct": 0.43
+   "price": 158.332,
+   "chg1d_pct": 0.46
   },
   "GBPCAD": {
-   "price": 1.8843,
+   "price": 1.8842,
    "chg1d_pct": -0.13
   },
   "AUDJPY": {
-   "price": 111.405,
-   "chg1d_pct": 0.17
-  },
-  "EURUSD": {
-   "price": 1.1531,
-   "chg1d_pct": -0.23
-  },
-  "GBPCHF": {
-   "price": 1.0888,
+   "price": 111.47,
    "chg1d_pct": 0.22
   },
+  "EURUSD": {
+   "price": 1.1535,
+   "chg1d_pct": -0.19
+  },
+  "GBPCHF": {
+   "price": 1.0897,
+   "chg1d_pct": 0.3
+  },
   "WTI": {
-   "price": 76.8,
-   "chg1d_pct": -0.63
+   "price": 76.61,
+   "chg1d_pct": -0.88
   },
   "BRENT": {
-   "price": 81.87,
-   "chg1d_pct": -0.75
+   "price": 81.7,
+   "chg1d_pct": -0.96
   },
   "GOLD": {
-   "price": 4376.8,
-   "chg1d_pct": 3.18
+   "price": 4383.5,
+   "chg1d_pct": 3.34
   },
   "SPX_FUT": {
-   "price": 7746.25,
-   "chg1d_pct": 0.15
+   "price": 7755.0,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 29607.0,
-   "chg1d_pct": 0.4
+   "price": 29662.0,
+   "chg1d_pct": 0.59
   }
  },
  "headlines": [
+  {
+   "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHN6NDJMWlhneDBZcEhrWF91d0ZmOWMyNjhJM21qNGVya3RET2JQVHRRU3dWT0J2dUE3VFpKUzVfSUJFeEQ2ZE4wR0pwVUhiUWpfTW4yUnhBR2tzSmdCdHRoU3U2bzhhZFBwZ3Z2TmR4Uy01TFVKOFg4RjZrVnJtR2tVcmh5RmU2N0hYckw1V0tvWkdxd2dJOThLeWoxdllXVlpzdklLY1pYM25YdzdTdjNhN09WLTY0bkE?oc=5",
+   "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
+  },
+  {
+   "t": "Yen: USA informierte EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
+   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
+  },
   {
    "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
@@ -57,11 +67,6 @@
    "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
    "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
-  },
-  {
-   "t": "Yen: USA informierte EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
    "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
@@ -74,19 +79,24 @@
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Iran: Irritationen über Öffnung der Straße von Hormus - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTl5RkxxVDhXYW5IREpCeGMycDZFMHZFNWpHZDMtQUVOVDRsQTJldVAtd2liYlNTWHhrUGdncVoxUVBudlVMbkRwb0dldkdfemtIcHhzMTN6eUFHWGFXMWhOdDRtdWxxQ2gwbDNfRXdHZ3hzdy1rbFo4NEJWbG45ZDZDNUxIOXVWMi1QRzNOOHRsbFNEVFNwNXVzck9hcDBYVVVVaXhvM3dhWEZPaEd6N1I1b2LSAbQBQVVfeXFMTkFvNGdSTGJuOE9ReHBmSjJOQUZsY2h0SEdQMWNIZ2JzSFo0cWFOTGZ2VkdhY1h0eVhnSGdFbjVya3JKU0xLZUdfYUlYWFRFczNWd3ZUb0ctTWRweUVTcDJHY1ZqYkV5TzhKeTg0cWFqQkhIQ0NaczM5dzhITVRXOHlzRUh1cllndFh1WEF6c0NuYVhxMVg4T1Jad1paYVlJSzFyTlM2dHB1QmZZMnA5Ql9jMVcy?oc=5",
-   "pub": "Fri, 07 Aug 2026 02:58:13 GMT"
-  },
-  {
    "t": "Jemen-Konflikt belastet Friedensverhandlungen mit Iran - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUctVkxoSFFVWDRYYkxFY29ZM1MydzB2QTJaOG1yS1pqcWxMVl9FVWRLek4wNlBvLU1JLVA4cU9GbDYteklpcDUzN3FGb2RfcFVLMUsxWTl1NXROVlI2QUtVTjVmWmxSb3NLa1RVaFhXbjRsM2syYlFXWDRmRDJXNjBRRmtWenh6d2JhX0llMUlmbzNONDR1NERHVjduNGV0VE9iVE5XUDVfUQ?oc=5",
    "pub": "Fri, 07 Aug 2026 10:18:00 GMT"
   },
   {
+   "t": "Iran: Irritationen über Öffnung der Straße von Hormus - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTl5RkxxVDhXYW5IREpCeGMycDZFMHZFNWpHZDMtQUVOVDRsQTJldVAtd2liYlNTWHhrUGdncVoxUVBudlVMbkRwb0dldkdfemtIcHhzMTN6eUFHWGFXMWhOdDRtdWxxQ2gwbDNfRXdHZ3hzdy1rbFo4NEJWbG45ZDZDNUxIOXVWMi1QRzNOOHRsbFNEVFNwNXVzck9hcDBYVVVVaXhvM3dhWEZPaEd6N1I1b2LSAbQBQVVfeXFMTkFvNGdSTGJuOE9ReHBmSjJOQUZsY2h0SEdQMWNIZ2JzSFo0cWFOTGZ2VkdhY1h0eVhnSGdFbjVya3JKU0xLZUdfYUlYWFRFczNWd3ZUb0ctTWRweUVTcDJHY1ZqYkV5TzhKeTg0cWFqQkhIQ0NaczM5dzhITVRXOHlzRUh1cllndFh1WEF6c0NuYVhxMVg4T1Jad1paYVlJSzFyTlM2dHB1QmZZMnA5Ql9jMVcy?oc=5",
+   "pub": "Fri, 07 Aug 2026 02:58:13 GMT"
+  },
+  {
    "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
    "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
+  },
+  {
+   "t": "Eine Woche nach der Yen-Intervention durch die USA: Der Westen kauft sich Zeit, die Schuldenfrage bleibt ungelöst - investrends.ch",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa0s1Umg0dUxLZkNkeGIzdDJSczRLLXVtcE1aZkpOODBTSm14RWRMOEYwT1FvMV94eFFXMDJqUmJfa2RpQ3R1ZjdEd0NaNzZTOVkwTWxPTlJieG9QelF2QjZBU0ZLVTl5LU5HZF84RE1aYVQtZzN1bVhpU0RTMUhvRnlQQ0J2Uld0dU5YZ2cwQkRNQkpEY09NNjBDMmR6RFJaVWEyejNGNVdMc2wzNGdOZXZSdkNOZUFxY3FpVWx4ZFpHbXJQMmNEZnpGTEhiNnRMT290OVF1TGw0c3hNOTRPOXlB?oc=5",
+   "pub": "Fri, 07 Aug 2026 07:07:21 GMT"
   },
   {
    "t": "Iran-USA: Schachspieler gegen Pokerspieler - Iran Journal",
@@ -97,16 +107,6 @@
    "t": "Straße von Hormus: Warten auf Einigung zwischen Iran und Oman - Kurier",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2p4aDFiMWNsMVN4QkdZSE9nZkhsX2xHX3FsMGxqVmE0M1BtVHd0OGEtbV9mSDIyaVR6UmRqMXVjejJ1UUZ4TnJTTlJEMktOU2lhQThMeDVSXzdpRGxEOUU2VnFLZFJwNk9ET3dHSm8yMkEyRnE4ZzBQUkRNNnRYRkdlVjVfcVV5Z0NXemF0SUJTMXpfZEQxSGFKNWxYT1ktUW9IRkt4dw?oc=5",
    "pub": "Fri, 07 Aug 2026 07:16:23 GMT"
-  },
-  {
-   "t": "Trump: Denke, dass der Krieg ziemlich bald endet +++ Saudi-Arabien befürchtet Angriffe der Huthi-Miliz - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUi1yLTR2ZlNVelhRSGdQUUtNaGFUSDFFTjN3dVBuZEJPX1JYejU5NThKRDhhdEw3NmRjRlFFZk02NEIyZXlTWWRKU2R0U0RaZ3JSbVNqYU1RSUw0U0U5Mkpocml4TXFRb3o1Mmh4SDVPLXR0QVJId3QzVGZ1RnRpZmtDQXdDZTd2V2lCS1pzU1JhSnZKWXkzaVRjVEJHY3gtSnZldVNXSTV4VUlXdVFic2tINmxDYWVzNnV5ZEctSnFya0RzeXcxY3Bhbw?oc=5",
-   "pub": "Fri, 07 Aug 2026 05:58:24 GMT"
-  },
-  {
-   "t": "Trotz Trumps Iran-Krieg: Deutsche Exporte lassen hoffen – Rekordwert im Juni - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaVd0aml4M3ZTX1MtTXhPc1FHVzVOSFRrV3VpWGFxZXpmbjJlc19qaDNRc1lsbXBMM1VDYkRpUGJ5MjM1eFlsWnVIMjJVbTI3b3BNb2RtZ0k5eHFRbHgyYkdNanYwQi1hb3NvMHR1MmdHM0FKdXExVll5ZTlqUEc5VG94cHUzbjctZ2xsUEU1eUM1S2tDZHRpU3lMaFhhZlpNd1N0UlR5dUUzSWhXY1dxZzlzdjBUeThsLVN4WkVxUWR5QlA5VHc?oc=5",
-   "pub": "Fri, 07 Aug 2026 06:33:20 GMT"
   }
  ]
 }
