@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T20:02:34Z",
+ "collected_at": "2026-08-07T20:59:49Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8075,
-   "chg1d_pct": -0.6
+   "price": 0.8077,
+   "chg1d_pct": -0.58
   },
   "USDJPY": {
-   "price": 157.545,
-   "chg1d_pct": -0.55
+   "price": 157.765,
+   "chg1d_pct": -0.41
   },
   "GBPCAD": {
-   "price": 1.8816,
-   "chg1d_pct": -0.2
+   "price": 1.8808,
+   "chg1d_pct": -0.24
   },
   "AUDJPY": {
-   "price": 111.366,
-   "chg1d_pct": -0.04
+   "price": 111.487,
+   "chg1d_pct": 0.07
   },
   "EURUSD": {
-   "price": 1.1565,
-   "chg1d_pct": 0.35
+   "price": 1.1562,
+   "chg1d_pct": 0.32
   },
   "GBPCHF": {
-   "price": 1.0898,
-   "chg1d_pct": -0.29
+   "price": 1.09,
+   "chg1d_pct": -0.27
   },
   "WTI": {
-   "price": 76.92,
-   "chg1d_pct": -0.48
+   "price": 77.32,
+   "chg1d_pct": 0.04
   },
   "BRENT": {
-   "price": 81.94,
-   "chg1d_pct": -0.67
+   "price": 82.47,
+   "chg1d_pct": -0.02
   },
   "GOLD": {
-   "price": 4407.4,
-   "chg1d_pct": 3.9
+   "price": 4399.2,
+   "chg1d_pct": 3.71
   },
   "SPX_FUT": {
-   "price": 7774.75,
-   "chg1d_pct": 0.52
+   "price": 7775.5,
+   "chg1d_pct": 0.53
   },
   "NAS_FUT": {
-   "price": 29810.0,
-   "chg1d_pct": 1.09
+   "price": 29814.5,
+   "chg1d_pct": 1.11
   }
  },
  "headlines": [
@@ -59,7 +59,7 @@
    "pub": "Fri, 07 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - T-Online",
+   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - t-online.de",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0Z3Z2NocDB3SlNWMnA5dzgtYkNic2xzamh5NEtWUnMzNmJ3dDNiT243UkxRMTFSanRLQklnSnVMVUIyeW15T2dnNmNZOUVZZXlWTW9vMkFLWGFLUDNTRG1sVWY5OWhmUXVnTy1UQkVlck4wY1lncXpxaFNSWWZHSXdUQzZ5M1NLVkJRRlpqa0NVRmFweTd1VWtlblh2WDFUZ1U2Z0IyNkREU1FiQ1VULV93WklPaDdjLU1pLQ?oc=5",
    "pub": "Fri, 07 Aug 2026 16:33:00 GMT"
   },
@@ -69,19 +69,19 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "US-Unternehmen streichen 23.000 Stellen unter Druck des Iran-Kriegs - Euronews.com",
+   "t": "US-Unternehmen streichen 23.000 Stellen unter Druck des Iran-Kriegs - de.euronews.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUZrdlRaT01GMTBvMzgyaG1yRmd5MkVtUnJ3WERlZzV0RnJ3cGF4S1AyUnBuMHVQalBsQlVubTJDSHpSM1V5VFNfZzBSeDBETnhITUhtTzdORnl0NVVuTExzS3FlaUZJQmdVcldLQ000aHByNEdBeWVFQ0I3MTE5SmNFNFJtUkt3SEZxZ1R0ZDExWUhLZV9SUEVPbzlBbTRWbmNEU0FHRm1FUWt1ZnRF?oc=5",
    "pub": "Fri, 07 Aug 2026 15:10:21 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
-   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
   },
   {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
+   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
   },
   {
    "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
@@ -104,9 +104,9 @@
    "pub": "Fri, 07 Aug 2026 16:09:42 GMT"
   },
   {
-   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
+   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
+   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   }
  ]
 }
