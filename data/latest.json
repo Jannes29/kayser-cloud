@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T15:10:04Z",
+ "collected_at": "2026-08-07T16:09:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.808,
-   "chg1d_pct": 0.16
+   "price": 0.8074,
+   "chg1d_pct": 0.09
   },
   "USDJPY": {
-   "price": 157.851,
-   "chg1d_pct": 0.16
+   "price": 157.508,
+   "chg1d_pct": -0.06
   },
   "GBPCAD": {
-   "price": 1.88,
-   "chg1d_pct": -0.36
+   "price": 1.8804,
+   "chg1d_pct": -0.33
   },
   "AUDJPY": {
-   "price": 111.448,
-   "chg1d_pct": 0.2
+   "price": 111.303,
+   "chg1d_pct": 0.07
   },
   "EURUSD": {
-   "price": 1.1559,
-   "chg1d_pct": 0.01
+   "price": 1.1566,
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.0899,
-   "chg1d_pct": 0.32
+   "price": 1.0898,
+   "chg1d_pct": 0.31
   },
   "WTI": {
-   "price": 78.11,
-   "chg1d_pct": 1.06
+   "price": 78.4,
+   "chg1d_pct": 1.44
   },
   "BRENT": {
-   "price": 83.13,
-   "chg1d_pct": 0.78
+   "price": 83.69,
+   "chg1d_pct": 1.45
   },
   "GOLD": {
-   "price": 4400.4,
-   "chg1d_pct": 3.73
+   "price": 4401.3,
+   "chg1d_pct": 3.76
   },
   "SPX_FUT": {
-   "price": 7776.5,
-   "chg1d_pct": 0.54
+   "price": 7777.5,
+   "chg1d_pct": 0.55
   },
   "NAS_FUT": {
-   "price": 29725.75,
-   "chg1d_pct": 0.81
+   "price": 29811.0,
+   "chg1d_pct": 1.09
   }
  },
  "headlines": [
@@ -59,19 +59,24 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
-   "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
+   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
+   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
   },
   {
-   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
+   "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
   },
   {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
+  },
+  {
+   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
+   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
    "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
@@ -89,24 +94,19 @@
    "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
   },
   {
-   "t": "Konjunktur: BDI: Iran-Krieg dämpft Wachstum weltweit - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObm1GUzlxLTdRQ0hYVDJ6QjQ3TFdoeDVLYkNLWE1MTDE1TmNOQ1hnX2pGbG4yeXhJOUlRTUthN0lvaGpJekR3dmxGaExjVUhNaFIyRkFFRFRlTnFmNmhPMGV2YWpBRU0xMzVfT056endpNHNWTDlGRHhnLXhiZ0w5X3YxRDcybllYaHdadnJkSE12eUN6bXRHaE0yRzN0Nk02NHlPV1RR?oc=5",
-   "pub": "Fri, 07 Aug 2026 11:01:44 GMT"
-  },
-  {
    "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
    "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
-   "t": "Japan braucht US-Hilfe für den Yen – Goldman Sachs sieht Dollar-Vormacht bestätigt - Business Insider Deutschland",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUdhVUQxRjBqWjhuVzU5MC1QSFhCXzVVeVdUbDRtUThTYTNmRUxBWTRNSFBvZ09JZUFpQnJOUlBUTzltamYxVkk1aUNQUVdSTHpscjB4TTV2Wl9fVmZJcE1kdDFLczlzNHhoSzR5WWNKWEl2V1ZBWkI4QzluMlNNZkpZc3dCSzFtVTVrNmxMNFdqNUM3c283am1tT0xfRnVMbkh5cnZDbEZMOHZ5a2RPdk95aXNqOXl1aVJB?oc=5",
-   "pub": "Fri, 07 Aug 2026 13:00:40 GMT"
+   "t": "Konjunktur: BDI: Iran-Krieg dämpft Wachstum weltweit - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObm1GUzlxLTdRQ0hYVDJ6QjQ3TFdoeDVLYkNLWE1MTDE1TmNOQ1hnX2pGbG4yeXhJOUlRTUthN0lvaGpJekR3dmxGaExjVUhNaFIyRkFFRFRlTnFmNmhPMGV2YWpBRU0xMzVfT056endpNHNWTDlGRHhnLXhiZ0w5X3YxRDcybllYaHdadnJkSE12eUN6bXRHaE0yRzN0Nk02NHlPV1RR?oc=5",
+   "pub": "Fri, 07 Aug 2026 11:01:44 GMT"
   },
   {
-   "t": "Iran-USA: Schachspieler gegen Pokerspieler - Iran Journal",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkpITWVDR0RIZVVCOHdiMllDY3pqLUQyX0oxNG1ZVWdjSFRKdFFnMHdFdEduWUtPdXFfeG5Va2xjV1RTZlczdTFZajd2TlBYdlFKMnVLMFJRRDY2RThHUUV4QWExdFhaaGd1TVp5S1hHT05rUXlsQ3o5MDJ1NHZ4SnJB?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:26:24 GMT"
+   "t": "Straße von Hormus: Trump wollte Stärke zeigen – und stärkt stattdessen Teheran - RP Online",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjgyd0gtZTQzSlhpamUxRmVOVzhnWVNwWm41dTE2WWNtRHN4enhrQUdwNlU1cXFNOThyZW1KeXhCbkJWTE1jX2ZadFQ0MGQyZ3RxQkJjYnRIZEI0WDQ2NjZwVWJhSnNxeGh0R1pMMWxpOXAyb29PM3pwSExKdmNQUkNCeVNIQXdjbUc5czZqODYyQ3d6eGE0bTFMMUs5SnU1?oc=5",
+   "pub": "Fri, 07 Aug 2026 15:18:16 GMT"
   }
  ]
 }
