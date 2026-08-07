@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T05:51:05Z",
+ "collected_at": "2026-08-07T07:42:29Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8124,
-   "chg1d_pct": 0.71
+   "price": 0.8119,
+   "chg1d_pct": 0.65
   },
   "USDJPY": {
-   "price": 158.335,
-   "chg1d_pct": 0.47
+   "price": 158.39,
+   "chg1d_pct": 0.5
   },
   "GBPCAD": {
-   "price": 1.8861,
-   "chg1d_pct": -0.03
+   "price": 1.8858,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 111.317,
-   "chg1d_pct": 0.09
+   "price": 111.409,
+   "chg1d_pct": 0.17
   },
   "EURUSD": {
-   "price": 1.1527,
-   "chg1d_pct": -0.26
+   "price": 1.1525,
+   "chg1d_pct": -0.28
   },
   "GBPCHF": {
-   "price": 1.093,
-   "chg1d_pct": 0.61
+   "price": 1.0916,
+   "chg1d_pct": 0.48
   },
   "WTI": {
-   "price": 78.26,
-   "chg1d_pct": 1.26
+   "price": 77.67,
+   "chg1d_pct": 0.49
   },
   "BRENT": {
-   "price": 83.72,
-   "chg1d_pct": 1.49
+   "price": 83.19,
+   "chg1d_pct": 0.85
   },
   "GOLD": {
-   "price": 4330.8,
-   "chg1d_pct": 2.09
+   "price": 4345.8,
+   "chg1d_pct": 2.45
   },
   "SPX_FUT": {
-   "price": 7732.25,
-   "chg1d_pct": -0.03
+   "price": 7740.0,
+   "chg1d_pct": 0.07
   },
   "NAS_FUT": {
-   "price": 29525.0,
-   "chg1d_pct": 0.12
+   "price": 29576.0,
+   "chg1d_pct": 0.3
   }
  },
  "headlines": [
@@ -59,14 +59,29 @@
    "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
   },
   {
+   "t": "Konjunktur: BDI: Iran-Krieg dämpft Wachstum weltweit - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY0VZYTJKUmNrMnVFb250LVNsbmhwSHhLU0RTQktsd2Zsd3YxTDVKVmhkcEpuQmF2LTBiMXIybHlGWnd3dFZSRWtFemc4R2xwLWVlSmJ4QnJRZncwcnJCWlFMcFp6Qk5QVERKeXNmNGYzZEFzWWFPUWhjc0NVYXNCX0VRNm5LZXR1SUJGTlNEQmNJTEtEQkdzbEVpbU9kQkRWZTBrTkpBSQ?oc=5",
+   "pub": "Fri, 07 Aug 2026 06:09:12 GMT"
+  },
+  {
+   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
+   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
+  },
+  {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran meldet Einigung mit Oman über neue Schifffahrtsroute - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHlFRkc5b0VPQTNkWnFqeDdQVDFMaEZ2OFV3TzNrdjQ5NGZMc1NiNWRJcmtnOE9zTXBFelllc2FtV25KSUJCU0VqREprNDlHSjdsYVY3WkJLLVVHdjVvcTJyanpiQUFyNWhaX3FoM1lTZkpLY01qd3hrdU13bERoX25TUEtwSW1PLXZsMVl0Wk1EMUE3N3lIU2RETDMyZUpHSnh3MXVlX3BHM2R1T1NUaTI4MEFocUxOaVA0WA?oc=5",
-   "pub": "Thu, 06 Aug 2026 12:25:00 GMT"
+   "t": "Iran: Irritationen über Öffnung der Straße von Hormus - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTl5RkxxVDhXYW5IREpCeGMycDZFMHZFNWpHZDMtQUVOVDRsQTJldVAtd2liYlNTWHhrUGdncVoxUVBudlVMbkRwb0dldkdfemtIcHhzMTN6eUFHWGFXMWhOdDRtdWxxQ2gwbDNfRXdHZ3hzdy1rbFo4NEJWbG45ZDZDNUxIOXVWMi1QRzNOOHRsbFNEVFNwNXVzck9hcDBYVVVVaXhvM3dhWEZPaEd6N1I1b2LSAbQBQVVfeXFMTkFvNGdSTGJuOE9ReHBmSjJOQUZsY2h0SEdQMWNIZ2JzSFo0cWFOTGZ2VkdhY1h0eVhnSGdFbjVya3JKU0xLZUdfYUlYWFRFczNWd3ZUb0ctTWRweUVTcDJHY1ZqYkV5TzhKeTg0cWFqQkhIQ0NaczM5dzhITVRXOHlzRUh1cllndFh1WEF6c0NuYVhxMVg4T1Jad1paYVlJSzFyTlM2dHB1QmZZMnA5Ql9jMVcy?oc=5",
+   "pub": "Thu, 06 Aug 2026 23:56:09 GMT"
+  },
+  {
+   "t": "Eine Woche nach der Yen-Intervention durch die USA: Der Westen kauft sich Zeit, die Schuldenfrage bleibt ungelöst - investrends.ch",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa0s1Umg0dUxLZkNkeGIzdDJSczRLLXVtcE1aZkpOODBTSm14RWRMOEYwT1FvMV94eFFXMDJqUmJfa2RpQ3R1ZjdEd0NaNzZTOVkwTWxPTlJieG9QelF2QjZBU0ZLVTl5LU5HZF84RE1aYVQtZzN1bVhpU0RTMUhvRnlQQ0J2Uld0dU5YZ2cwQkRNQkpEY09NNjBDMmR6RFJaVWEyejNGNVdMc2wzNGdOZXZSdkNOZUFxY3FpVWx4ZFpHbXJQMmNEZnpGTEhiNnRMT290OVF1TGw0c3hNOTRPOXlB?oc=5",
+   "pub": "Fri, 07 Aug 2026 04:54:00 GMT"
   },
   {
    "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
@@ -74,14 +89,14 @@
    "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
-   "t": "Saudi-Arabien drängte Trump: Iran-Drohung an Nahost-Staaten soll US-Angriffe gestoppt haben - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFphUXFVRVpjdVhnY2thZjVwem9BaTRvMG1tY2x6YlpOTjFIeHozX1JibHJHTkhnRE1wSjlMTGRsRlAwcnRvdS1oME9IZEdYN0RUU0pXZzdrR0VtTF9jc1BLSXpnLU92NzVwTGh0NUtZblFfQ0dNUGhFYk90VzJ2T0ZmZFp0SHg0a0R2OFBwU0tveTBxWGdGWXR5VmpuR3JSMDEydVpXYWt6UQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 11:44:24 GMT"
+   "t": "Straße von Hormus: Warten auf Einigung zwischen Iran und Oman - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2p4aDFiMWNsMVN4QkdZSE9nZkhsX2xHX3FsMGxqVmE0M1BtVHd0OGEtbV9mSDIyaVR6UmRqMXVjejJ1UUZ4TnJTTlJEMktOU2lhQThMeDVSXzdpRGxEOUU2VnFLZFJwNk9ET3dHSm8yMkEyRnE4ZzBQUkRNNnRYRkdlVjVfcVV5Z0NXemF0SUJTMXpfZEQxSGFKNWxYT1ktUW9IRkt4dw?oc=5",
+   "pub": "Fri, 07 Aug 2026 05:46:23 GMT"
   },
   {
-   "t": "Iran und Oman verhandeln Abkommen für Straße von Hormus - ohne USA - de.euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53Ri1NV3BGR016U0xpTmpKc0lLY2VHanRnUVZ2T2Q3TEYwT1F0SjFFV0dnb2d6bDk5TkN5VFk3d2RCVzlubmJWdld6cEx3amlUN2JkUGZCYlZyVnhIQ3ZFZjFjSVRUa0RCa1hHNVNfVnV5ZTk5OExuTkdjaDY?oc=5",
-   "pub": "Wed, 05 Aug 2026 04:23:54 GMT"
+   "t": "Trump: Denke, dass der Krieg ziemlich bald endet +++ Saudi-Arabien befürchtet Angriffe der Huthi-Miliz - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUi1yLTR2ZlNVelhRSGdQUUtNaGFUSDFFTjN3dVBuZEJPX1JYejU5NThKRDhhdEw3NmRjRlFFZk02NEIyZXlTWWRKU2R0U0RaZ3JSbVNqYU1RSUw0U0U5Mkpocml4TXFRb3o1Mmh4SDVPLXR0QVJId3QzVGZ1RnRpZmtDQXdDZTd2V2lCS1pzU1JhSnZKWXkzaVRjVEJHY3gtSnZldVNXSTV4VUlXdVFic2tINmxDYWVzNnV5ZEctSnFya0RzeXcxY3Bhbw?oc=5",
+   "pub": "Fri, 07 Aug 2026 05:58:24 GMT"
   },
   {
    "t": "Hoffnung auf Öffnung der Straße von Hormus: Oman und Iran einigen sich - tagesschau.de",
@@ -92,21 +107,6 @@
    "t": "Berichte über Munitionsmangel: Gehen den USA die Raketen aus? - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXNjLWp4a0sxR0JYa3UyMnRFOVJwU1o1eThTTkYxN0NoZVNfWElyaVFwYUsza3AyLWhWNFY2elVwYmpiM0tfemJBc2hnM3NlT2I1bXNlaF9GSWh0cjlPX0VUX2hMVkNnTlJDSWdTRGVxaUlKLUgwdTZjRGR3bkRSZzBRZnliUQ?oc=5",
    "pub": "Thu, 06 Aug 2026 11:25:13 GMT"
-  },
-  {
-   "t": "News zum Krieg in Iran droht Golfstaaten mit Vergeltung – Trump reagiert - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPblNZS2pZT1Vnc1VGOEJQUnpVRWIxd1VNSHFzZVh2cXBKWnZpbTlfXzNnUTlXSnNOV1dLNGlJZ2phSVl6aWFfNUpkX2k2MS1UYk14WWg3eWNlOWlBUlRYRnRRSzlTQXBPNzdmaElOamRZOWpNQzJsNngyYXM2VXYzRDR6UThxODVNZHNEZFRlb0FyTlRqSVVzQzdiM1hhV0llYmdMcjIwV0ZQam5mNjZqUWFrTDk4S28wREhtSC1CNGNFWXU4T1NWSTVpejc5dkIxbHpRaQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 15:55:00 GMT"
-  },
-  {
-   "t": "Europa mit Iran: Einschüchtern lassen oder handeln? - Behörden Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPenJjT2JtaWZ6NHpzcURkX3hyQUI5Y2x4V0lyUnF3V2ZmTkF3eGFzYTdyTHZmWTN1ZzhJQ0RLc3RvSU5lN3RPdGh3d3U2Z2JQUnhzTndSZ3ZSSl9hNURNZkxTS05PUHk5YlFVcnIzV2JQekJWUzNiSmtHalVRWEk2bVZpTGV0dXY0WjFpdTEwdWFBdE55dGJyTzJXZw?oc=5",
-   "pub": "Thu, 06 Aug 2026 11:45:07 GMT"
-  },
-  {
-   "t": "Lage im Überblick: Neue Hypothek für Iran-Gespräche: Jemen-Konflikt eskaliert - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1Z5ZE4wSUZsYkE5UUc4WUN6alBsWXc5TUJvYlY1ZENSMnAzRk9fU0laUTNxM2stYm45V00wNGUyUFpONWJwODF3dVBXMG1lZ24xNjZ0WERDb2VUa3VYTzhTZWlXQXZfTHlVS2tnVjF3bjZPOGJsQ2MyOUk1d0N0UngtVDB1VDkzbnhJaDFtUGxPNWFxVXY4S1hpRTRDNU5VTktURWU1V0JqVUY3MW9WSk9ZWGduVDV1YTBmdzBlRlJWdjhyLTZsV1pKbC1qQQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 03:57:24 GMT"
   }
  ]
 }
