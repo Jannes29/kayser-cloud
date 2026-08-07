@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T13:40:39Z",
+ "collected_at": "2026-08-07T15:10:04Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8075,
-   "chg1d_pct": 0.1
+   "price": 0.808,
+   "chg1d_pct": 0.16
   },
   "USDJPY": {
-   "price": 157.53,
-   "chg1d_pct": -0.04
+   "price": 157.851,
+   "chg1d_pct": 0.16
   },
   "GBPCAD": {
-   "price": 1.884,
-   "chg1d_pct": -0.14
+   "price": 1.88,
+   "chg1d_pct": -0.36
   },
   "AUDJPY": {
-   "price": 111.328,
-   "chg1d_pct": 0.1
+   "price": 111.448,
+   "chg1d_pct": 0.2
   },
   "EURUSD": {
-   "price": 1.1573,
-   "chg1d_pct": 0.14
+   "price": 1.1559,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0906,
-   "chg1d_pct": 0.39
+   "price": 1.0899,
+   "chg1d_pct": 0.32
   },
   "WTI": {
-   "price": 76.89,
-   "chg1d_pct": -0.52
+   "price": 78.11,
+   "chg1d_pct": 1.06
   },
   "BRENT": {
-   "price": 81.93,
-   "chg1d_pct": -0.68
+   "price": 83.13,
+   "chg1d_pct": 0.78
   },
   "GOLD": {
-   "price": 4414.4,
-   "chg1d_pct": 4.06
+   "price": 4400.4,
+   "chg1d_pct": 3.73
   },
   "SPX_FUT": {
-   "price": 7758.0,
-   "chg1d_pct": 0.3
+   "price": 7776.5,
+   "chg1d_pct": 0.54
   },
   "NAS_FUT": {
-   "price": 29730.25,
-   "chg1d_pct": 0.82
+   "price": 29725.75,
+   "chg1d_pct": 0.81
   }
  },
  "headlines": [
@@ -59,19 +59,14 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
-  },
-  {
    "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
    "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
   },
   {
-   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
+   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
+   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
@@ -79,9 +74,9 @@
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Jemen-Konflikt belastet Friedensverhandlungen mit Iran - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUctVkxoSFFVWDRYYkxFY29ZM1MydzB2QTJaOG1yS1pqcWxMVl9FVWRLek4wNlBvLU1JLVA4cU9GbDYteklpcDUzN3FGb2RfcFVLMUsxWTl1NXROVlI2QUtVTjVmWmxSb3NLa1RVaFhXbjRsM2syYlFXWDRmRDJXNjBRRmtWenh6d2JhX0llMUlmbzNONDR1NERHVjduNGV0VE9iVE5XUDVfUQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:18:00 GMT"
+   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
+   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
   },
   {
    "t": "Iran: Irritationen über Öffnung der Straße von Hormus - dw.com",
@@ -89,9 +84,14 @@
    "pub": "Fri, 07 Aug 2026 02:58:13 GMT"
   },
   {
-   "t": "Eine Woche nach der Yen-Intervention durch die USA: Der Westen kauft sich Zeit, die Schuldenfrage bleibt ungelöst - investrends.ch",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa0s1Umg0dUxLZkNkeGIzdDJSczRLLXVtcE1aZkpOODBTSm14RWRMOEYwT1FvMV94eFFXMDJqUmJfa2RpQ3R1ZjdEd0NaNzZTOVkwTWxPTlJieG9QelF2QjZBU0ZLVTl5LU5HZF84RE1aYVQtZzN1bVhpU0RTMUhvRnlQQ0J2Uld0dU5YZ2cwQkRNQkpEY09NNjBDMmR6RFJaVWEyejNGNVdMc2wzNGdOZXZSdkNOZUFxY3FpVWx4ZFpHbXJQMmNEZnpGTEhiNnRMT290OVF1TGw0c3hNOTRPOXlB?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:07:21 GMT"
+   "t": "Nach Huthi-Angriffen in Saudi-Arabien: Sorge vor Eskalation - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2VCUG85ZTlXZFp5MEVnUGpPX3J1VlNSZXdOSEdCdEZQSnZGdkVid0lfSk54eEYzUlFOencxYWxCVnJjOWJIMFc5TGZVZ3VJb2RBWDdOTklnSmxpQkZ0SGgxdG9RLXloblRXbXhUN0p4RWJkRjA5RWxuVWRMQkF0WTd4bEFMcGR1dS1TMmlicnV6U2w5Q2VkdzlsamcwbGhQQVE?oc=5",
+   "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
+  },
+  {
+   "t": "Konjunktur: BDI: Iran-Krieg dämpft Wachstum weltweit - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObm1GUzlxLTdRQ0hYVDJ6QjQ3TFdoeDVLYkNLWE1MTDE1TmNOQ1hnX2pGbG4yeXhJOUlRTUthN0lvaGpJekR3dmxGaExjVUhNaFIyRkFFRFRlTnFmNmhPMGV2YWpBRU0xMzVfT056endpNHNWTDlGRHhnLXhiZ0w5X3YxRDcybllYaHdadnJkSE12eUN6bXRHaE0yRzN0Nk02NHlPV1RR?oc=5",
+   "pub": "Fri, 07 Aug 2026 11:01:44 GMT"
   },
   {
    "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
@@ -99,14 +99,14 @@
    "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
+   "t": "Japan braucht US-Hilfe für den Yen – Goldman Sachs sieht Dollar-Vormacht bestätigt - Business Insider Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUdhVUQxRjBqWjhuVzU5MC1QSFhCXzVVeVdUbDRtUThTYTNmRUxBWTRNSFBvZ09JZUFpQnJOUlBUTzltamYxVkk1aUNQUVdSTHpscjB4TTV2Wl9fVmZJcE1kdDFLczlzNHhoSzR5WWNKWEl2V1ZBWkI4QzluMlNNZkpZc3dCSzFtVTVrNmxMNFdqNUM3c283am1tT0xfRnVMbkh5cnZDbEZMOHZ5a2RPdk95aXNqOXl1aVJB?oc=5",
+   "pub": "Fri, 07 Aug 2026 13:00:40 GMT"
+  },
+  {
    "t": "Iran-USA: Schachspieler gegen Pokerspieler - Iran Journal",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkpITWVDR0RIZVVCOHdiMllDY3pqLUQyX0oxNG1ZVWdjSFRKdFFnMHdFdEduWUtPdXFfeG5Va2xjV1RTZlczdTFZajd2TlBYdlFKMnVLMFJRRDY2RThHUUV4QWExdFhaaGd1TVp5S1hHT05rUXlsQ3o5MDJ1NHZ4SnJB?oc=5",
    "pub": "Fri, 07 Aug 2026 10:26:24 GMT"
-  },
-  {
-   "t": "„Die Revolutionsgarden sind mit Angriffen aus der Luft offensichtlich nicht zu verängstigen“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaW1Rai1zWFJ3MFc2aFhaS2dYbVY0M1I2Smk0a1VVWFJaWjVRemdRVS1nMllVUHdDSnhjc3hteFFEX1Boc3MyLW5wVUlwdmpIeFdGWktkOHFPczFvNVN6U21Wc1Z4eEY3VEJmT0NTTGUxeW5pY3FIanpkTExYd042dEdtMUsyTUY3TTdGLVI4UG1TY2lLTGtIaDBfWGZZaUtWdHF0RWRleFRNcUFOYUQ2QjZTSEFpTDVrZ1Q2ZlRRa2NNVDVSX3dMNTNjXzNfYlQ0QmJ1ZGJGcUZLSFpSTjlJM1JUTHlnR0pvSTdoV1A1a0Fsa1NLbW91SEVXNEgxTVVkNVVr?oc=5",
-   "pub": "Fri, 07 Aug 2026 12:13:27 GMT"
   }
  ]
 }
