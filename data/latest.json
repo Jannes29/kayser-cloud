@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T11:58:28Z",
+ "collected_at": "2026-08-07T13:40:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8103,
-   "chg1d_pct": 0.45
+   "price": 0.8075,
+   "chg1d_pct": 0.1
   },
   "USDJPY": {
-   "price": 158.332,
-   "chg1d_pct": 0.46
+   "price": 157.53,
+   "chg1d_pct": -0.04
   },
   "GBPCAD": {
-   "price": 1.8842,
-   "chg1d_pct": -0.13
+   "price": 1.884,
+   "chg1d_pct": -0.14
   },
   "AUDJPY": {
-   "price": 111.47,
-   "chg1d_pct": 0.22
+   "price": 111.328,
+   "chg1d_pct": 0.1
   },
   "EURUSD": {
-   "price": 1.1535,
-   "chg1d_pct": -0.19
+   "price": 1.1573,
+   "chg1d_pct": 0.14
   },
   "GBPCHF": {
-   "price": 1.0897,
-   "chg1d_pct": 0.3
+   "price": 1.0906,
+   "chg1d_pct": 0.39
   },
   "WTI": {
-   "price": 76.61,
-   "chg1d_pct": -0.88
+   "price": 76.89,
+   "chg1d_pct": -0.52
   },
   "BRENT": {
-   "price": 81.7,
-   "chg1d_pct": -0.96
+   "price": 81.93,
+   "chg1d_pct": -0.68
   },
   "GOLD": {
-   "price": 4383.5,
-   "chg1d_pct": 3.34
+   "price": 4414.4,
+   "chg1d_pct": 4.06
   },
   "SPX_FUT": {
-   "price": 7755.0,
-   "chg1d_pct": 0.26
+   "price": 7758.0,
+   "chg1d_pct": 0.3
   },
   "NAS_FUT": {
-   "price": 29662.0,
-   "chg1d_pct": 0.59
+   "price": 29730.25,
+   "chg1d_pct": 0.82
   }
  },
  "headlines": [
@@ -59,7 +59,7 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
+   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
@@ -89,14 +89,14 @@
    "pub": "Fri, 07 Aug 2026 02:58:13 GMT"
   },
   {
-   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
-   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
-  },
-  {
    "t": "Eine Woche nach der Yen-Intervention durch die USA: Der Westen kauft sich Zeit, die Schuldenfrage bleibt ungelöst - investrends.ch",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa0s1Umg0dUxLZkNkeGIzdDJSczRLLXVtcE1aZkpOODBTSm14RWRMOEYwT1FvMV94eFFXMDJqUmJfa2RpQ3R1ZjdEd0NaNzZTOVkwTWxPTlJieG9QelF2QjZBU0ZLVTl5LU5HZF84RE1aYVQtZzN1bVhpU0RTMUhvRnlQQ0J2Uld0dU5YZ2cwQkRNQkpEY09NNjBDMmR6RFJaVWEyejNGNVdMc2wzNGdOZXZSdkNOZUFxY3FpVWx4ZFpHbXJQMmNEZnpGTEhiNnRMT290OVF1TGw0c3hNOTRPOXlB?oc=5",
    "pub": "Fri, 07 Aug 2026 07:07:21 GMT"
+  },
+  {
+   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
+   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
    "t": "Iran-USA: Schachspieler gegen Pokerspieler - Iran Journal",
@@ -104,9 +104,9 @@
    "pub": "Fri, 07 Aug 2026 10:26:24 GMT"
   },
   {
-   "t": "Straße von Hormus: Warten auf Einigung zwischen Iran und Oman - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2p4aDFiMWNsMVN4QkdZSE9nZkhsX2xHX3FsMGxqVmE0M1BtVHd0OGEtbV9mSDIyaVR6UmRqMXVjejJ1UUZ4TnJTTlJEMktOU2lhQThMeDVSXzdpRGxEOUU2VnFLZFJwNk9ET3dHSm8yMkEyRnE4ZzBQUkRNNnRYRkdlVjVfcVV5Z0NXemF0SUJTMXpfZEQxSGFKNWxYT1ktUW9IRkt4dw?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:16:23 GMT"
+   "t": "„Die Revolutionsgarden sind mit Angriffen aus der Luft offensichtlich nicht zu verängstigen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaW1Rai1zWFJ3MFc2aFhaS2dYbVY0M1I2Smk0a1VVWFJaWjVRemdRVS1nMllVUHdDSnhjc3hteFFEX1Boc3MyLW5wVUlwdmpIeFdGWktkOHFPczFvNVN6U21Wc1Z4eEY3VEJmT0NTTGUxeW5pY3FIanpkTExYd042dEdtMUsyTUY3TTdGLVI4UG1TY2lLTGtIaDBfWGZZaUtWdHF0RWRleFRNcUFOYUQ2QjZTSEFpTDVrZ1Q2ZlRRa2NNVDVSX3dMNTNjXzNfYlQ0QmJ1ZGJGcUZLSFpSTjlJM1JUTHlnR0pvSTdoV1A1a0Fsa1NLbW91SEVXNEgxTVVkNVVr?oc=5",
+   "pub": "Fri, 07 Aug 2026 12:13:27 GMT"
   }
  ]
 }
