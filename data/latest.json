@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-07T21:56:23Z",
+ "collected_at": "2026-08-07T22:55:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,12 +54,7 @@
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
   },
   {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXZ4S3NTb254QUlLMTFBTGIwNldQLWtaUnVvc2pXNjBZTDM2RTM4dzFoZER4YTgzajB4OG1zUjVxTzdIR0ZpeDNnT1NnNDdTcmsyYTJVdUFuSzZ6czRtTXpJLVZSUmVhU0FhQzFnc2JDS3M3Ujh0d29YalFxcWpRSWRYaXRPZ2ZWRWtodlVrNTdwVmhweTdqbDNCRFFEMUd2Y2pB?oc=5",
-   "pub": "Fri, 07 Aug 2026 17:00:00 GMT"
-  },
-  {
-   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - t-online.de",
+   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - T-Online",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0Z3Z2NocDB3SlNWMnA5dzgtYkNic2xzamh5NEtWUnMzNmJ3dDNiT243UkxRMTFSanRLQklnSnVMVUIyeW15T2dnNmNZOUVZZXlWTW9vMkFLWGFLUDNTRG1sVWY5OWhmUXVnTy1UQkVlck4wY1lncXpxaFNSWWZHSXdUQzZ5M1NLVkJRRlpqa0NVRmFweTd1VWtlblh2WDFUZ1U2Z0IyNkREU1FiQ1VULV93WklPaDdjLU1pLQ?oc=5",
    "pub": "Fri, 07 Aug 2026 16:33:00 GMT"
   },
@@ -84,14 +79,14 @@
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
+   "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
+  },
+  {
    "t": "Nach Huthi-Angriffen in Saudi-Arabien: Sorge vor Eskalation - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2VCUG85ZTlXZFp5MEVnUGpPX3J1VlNSZXdOSEdCdEZQSnZGdkVid0lfSk54eEYzUlFOencxYWxCVnJjOWJIMFc5TGZVZ3VJb2RBWDdOTklnSmxpQkZ0SGgxdG9RLXloblRXbXhUN0p4RWJkRjA5RWxuVWRMQkF0WTd4bEFMcGR1dS1TMmlicnV6U2w5Q2VkdzlsamcwbGhQQVE?oc=5",
    "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
-  },
-  {
-   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
-   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
    "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - FAZ",
@@ -107,6 +102,11 @@
    "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
    "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
+  },
+  {
+   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
+   "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
   }
  ]
 }
