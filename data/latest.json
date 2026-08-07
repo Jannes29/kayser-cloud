@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T17:08:44Z",
+ "collected_at": "2026-08-07T18:02:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8076,
-   "chg1d_pct": 0.12
+   "price": 0.8079,
+   "chg1d_pct": 0.15
   },
   "USDJPY": {
-   "price": 157.472,
-   "chg1d_pct": -0.08
+   "price": 157.512,
+   "chg1d_pct": -0.06
   },
   "GBPCAD": {
-   "price": 1.8802,
-   "chg1d_pct": -0.34
+   "price": 1.8806,
+   "chg1d_pct": -0.32
   },
   "AUDJPY": {
-   "price": 111.281,
-   "chg1d_pct": 0.05
+   "price": 111.301,
+   "chg1d_pct": 0.07
   },
   "EURUSD": {
-   "price": 1.1563,
-   "chg1d_pct": 0.05
+   "price": 1.1562,
+   "chg1d_pct": 0.04
   },
   "GBPCHF": {
-   "price": 1.0898,
-   "chg1d_pct": 0.31
+   "price": 1.0899,
+   "chg1d_pct": 0.32
   },
   "WTI": {
-   "price": 78.37,
-   "chg1d_pct": 1.4
+   "price": 78.05,
+   "chg1d_pct": 0.98
   },
   "BRENT": {
-   "price": 83.59,
-   "chg1d_pct": 1.33
+   "price": 83.4,
+   "chg1d_pct": 1.1
   },
   "GOLD": {
-   "price": 4389.5,
-   "chg1d_pct": 3.48
+   "price": 4400.7,
+   "chg1d_pct": 3.74
   },
   "SPX_FUT": {
-   "price": 7768.75,
-   "chg1d_pct": 0.44
+   "price": 7768.25,
+   "chg1d_pct": 0.43
   },
   "NAS_FUT": {
-   "price": 29748.0,
-   "chg1d_pct": 0.88
+   "price": 29742.0,
+   "chg1d_pct": 0.86
   }
  },
  "headlines": [
@@ -54,14 +54,9 @@
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
   },
   {
-   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlTRXotQndQYVFMWmNwbnctNlFsdWFraUpCSlg4dkJyQVR5UmZOOXppUThLdC1PMEl1VU03M0lJendhUEp3bUNjVmFua2NSdTUyQy1ybmV6RGJaTkt5d1B0c2tOREoyWUdUbzhmTVdCQ1JteXdnVE1heVFvQ2ZBNkxnVlU3TXoxNW5pQ0lWQ1ZVQ2UyQ0FjRXZNamd2Q3ptMjVhZllXQ29vQ0tkSnU3eERDbTJmdw?oc=5",
-   "pub": "Fri, 07 Aug 2026 16:09:03 GMT"
-  },
-  {
-   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - t-online.de",
+   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - T-Online",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0Z3Z2NocDB3SlNWMnA5dzgtYkNic2xzamh5NEtWUnMzNmJ3dDNiT243UkxRMTFSanRLQklnSnVMVUIyeW15T2dnNmNZOUVZZXlWTW9vMkFLWGFLUDNTRG1sVWY5OWhmUXVnTy1UQkVlck4wY1lncXpxaFNSWWZHSXdUQzZ5M1NLVkJRRlpqa0NVRmFweTd1VWtlblh2WDFUZ1U2Z0IyNkREU1FiQ1VULV93WklPaDdjLU1pLQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 11:56:00 GMT"
+   "pub": "Fri, 07 Aug 2026 16:33:00 GMT"
   },
   {
    "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
@@ -79,14 +74,14 @@
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
-   "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
-  },
-  {
    "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
+  },
+  {
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmNkREtaVFJvRldobWxtdUZ6UlJFSGhfY05RR3JkWW5nQWRpWWFNWDNfSjBTbkV0WnRuVTgyZUw4TGRBbWFGcjQ0R3dUVkd4dGJHQ3NtUmV5bUtTMTlDaWRuODYxVkdhSHRXQ2lnanNPQkU3ZnNuTHpxYU9qMEl6UlVPaXV0UGJUUTJLR0N0RjZrdHAxMWVuRUZIdWMtekRmd1Jj?oc=5",
+   "pub": "Fri, 07 Aug 2026 04:17:00 GMT"
   },
   {
    "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
@@ -99,14 +94,19 @@
    "pub": "Fri, 07 Aug 2026 15:10:21 GMT"
   },
   {
-   "t": "Iran: Irritationen über Öffnung der Straße von Hormus - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTl5RkxxVDhXYW5IREpCeGMycDZFMHZFNWpHZDMtQUVOVDRsQTJldVAtd2liYlNTWHhrUGdncVoxUVBudlVMbkRwb0dldkdfemtIcHhzMTN6eUFHWGFXMWhOdDRtdWxxQ2gwbDNfRXdHZ3hzdy1rbFo4NEJWbG45ZDZDNUxIOXVWMi1QRzNOOHRsbFNEVFNwNXVzck9hcDBYVVVVaXhvM3dhWEZPaEd6N1I1b2LSAbQBQVVfeXFMTkFvNGdSTGJuOE9ReHBmSjJOQUZsY2h0SEdQMWNIZ2JzSFo0cWFOTGZ2VkdhY1h0eVhnSGdFbjVya3JKU0xLZUdfYUlYWFRFczNWd3ZUb0ctTWRweUVTcDJHY1ZqYkV5TzhKeTg0cWFqQkhIQ0NaczM5dzhITVRXOHlzRUh1cllndFh1WEF6c0NuYVhxMVg4T1Jad1paYVlJSzFyTlM2dHB1QmZZMnA5Ql9jMVcy?oc=5",
-   "pub": "Fri, 07 Aug 2026 02:58:13 GMT"
+   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlTRXotQndQYVFMWmNwbnctNlFsdWFraUpCSlg4dkJyQVR5UmZOOXppUThLdC1PMEl1VU03M0lJendhUEp3bUNjVmFua2NSdTUyQy1ybmV6RGJaTkt5d1B0c2tOREoyWUdUbzhmTVdCQ1JteXdnVE1heVFvQ2ZBNkxnVlU3TXoxNW5pQ0lWQ1ZVQ2UyQ0FjRXZNamd2Q3ptMjVhZllXQ29vQ0tkSnU3eERDbTJmdw?oc=5",
+   "pub": "Fri, 07 Aug 2026 16:09:03 GMT"
   },
   {
    "t": "Nach Huthi-Angriffen in Saudi-Arabien: Sorge vor Eskalation - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2VCUG85ZTlXZFp5MEVnUGpPX3J1VlNSZXdOSEdCdEZQSnZGdkVid0lfSk54eEYzUlFOencxYWxCVnJjOWJIMFc5TGZVZ3VJb2RBWDdOTklnSmxpQkZ0SGgxdG9RLXloblRXbXhUN0p4RWJkRjA5RWxuVWRMQkF0WTd4bEFMcGR1dS1TMmlicnV6U2w5Q2VkdzlsamcwbGhQQVE?oc=5",
    "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
+  },
+  {
+   "t": "Iran: Allianz von Saudi-Arabien Pakistan und Türkei - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEpsUUVWRWRGTDRIUTVLWFRyUWhzSU9MdkVNU29LRG43VmIyVGhyTUJHNmlxMUpNMU1mc1RFbXExZFBGQ3NtMjF5OHM2QnczTVFzanJYZGk4MDdCVzVTaTVHRGY4cUR5cmZLWmJhVnlmZFV5RDY5VWRqNnVXSTRENlBYMlNkQ1AtOUVuWHVnMmQyYU1kNnNpOWx2bWZldV85S0JaNDc4RmwtRjd0RVZV?oc=5",
+   "pub": "Fri, 07 Aug 2026 16:09:42 GMT"
   }
  ]
 }
