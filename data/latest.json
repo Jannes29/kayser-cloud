@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-07T00:16:30Z",
+ "collected_at": "2026-08-07T03:20:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8128,
-   "chg1d_pct": 0.76
+   "price": 0.8126,
+   "chg1d_pct": 0.74
   },
   "USDJPY": {
-   "price": 158.51,
-   "chg1d_pct": 0.58
+   "price": 158.409,
+   "chg1d_pct": 0.51
   },
   "GBPCAD": {
-   "price": 1.885,
-   "chg1d_pct": -0.09
+   "price": 1.8857,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 111.414,
-   "chg1d_pct": 0.17
+   "price": 111.244,
+   "chg1d_pct": 0.02
   },
   "EURUSD": {
-   "price": 1.1523,
-   "chg1d_pct": -0.3
+   "price": 1.1525,
+   "chg1d_pct": -0.28
   },
   "GBPCHF": {
-   "price": 1.0932,
-   "chg1d_pct": 0.63
+   "price": 1.0931,
+   "chg1d_pct": 0.62
   },
   "WTI": {
-   "price": 78.13,
-   "chg1d_pct": 3.87
+   "price": 78.09,
+   "chg1d_pct": 3.82
   },
   "BRENT": {
-   "price": 83.43,
+   "price": 83.5,
    "chg1d_pct": null
   },
   "GOLD": {
-   "price": 4309.2,
-   "chg1d_pct": 1.49
+   "price": 4315.9,
+   "chg1d_pct": 1.65
   },
   "SPX_FUT": {
-   "price": 7741.75,
-   "chg1d_pct": -0.1
+   "price": 7733.5,
+   "chg1d_pct": -0.21
   },
   "NAS_FUT": {
-   "price": 29608.0,
-   "chg1d_pct": -0.02
+   "price": 29543.25,
+   "chg1d_pct": -0.24
   }
  },
  "headlines": [
   {
-   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
+   "t": "Iran versteckt erste russische Su-35 in Bunkern - esut.de",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
@@ -64,14 +64,19 @@
    "pub": "Thu, 06 Aug 2026 19:28:00 GMT"
   },
   {
+   "t": "Saudi-Arabien drängte Trump: Iran-Drohung an Nahost-Staaten soll US-Angriffe gestoppt haben - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFphUXFVRVpjdVhnY2thZjVwem9BaTRvMG1tY2x6YlpOTjFIeHozX1JibHJHTkhnRE1wSjlMTGRsRlAwcnRvdS1oME9IZEdYN0RUU0pXZzdrR0VtTF9jc1BLSXpnLU92NzVwTGh0NUtZblFfQ0dNUGhFYk90VzJ2T0ZmZFp0SHg0a0R2OFBwU0tveTBxWGdGWXR5VmpuR3JSMDEydVpXYWt6UQ?oc=5",
+   "pub": "Thu, 06 Aug 2026 11:44:24 GMT"
+  },
+  {
    "t": "Straße von Hormus: Abkommen fast fertig – Iran will offenbar hohe Transit-Gebühren - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSnBmdUlfYmZ1WExrektveW13NHpGNVZ3UWJfbExSMlkyY0lVMWszNERPcVhuNDNNeTBfYTV6MGFGTWNMNW5ZMkh5eGl4Q1NyUGM2RGI1ZDN4UnpZMmtHdHZtcTEyc25zd21NSW1aVVNQMUVNcjlfRFFnQU1UZVlHdXh4dEtBbHlHck5FdG1mOWNGOUZtLXdsUld2XzVLclZOTktrTmxVNzJHRDhQeHB1dUotelk4SkduUG1RalI5TGxUQ3RrUTl5TUN3eGU2ZnMwMmVIUktLZkJQaWRaRGpmMm5hdTdCcVM1RVE?oc=5",
    "pub": "Thu, 06 Aug 2026 06:04:55 GMT"
   },
   {
-   "t": "Saudi-Arabien drängte Trump: Iran-Drohung an Nahost-Staaten soll US-Angriffe gestoppt haben - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFphUXFVRVpjdVhnY2thZjVwem9BaTRvMG1tY2x6YlpOTjFIeHozX1JibHJHTkhnRE1wSjlMTGRsRlAwcnRvdS1oME9IZEdYN0RUU0pXZzdrR0VtTF9jc1BLSXpnLU92NzVwTGh0NUtZblFfQ0dNUGhFYk90VzJ2T0ZmZFp0SHg0a0R2OFBwU0tveTBxWGdGWXR5VmpuR3JSMDEydVpXYWt6UQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 11:44:24 GMT"
+   "t": "Straße von Hormus: Iran meldet Einigung mit Oman über neue Schifffahrtsroute - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHlFRkc5b0VPQTNkWnFqeDdQVDFMaEZ2OFV3TzNrdjQ5NGZMc1NiNWRJcmtnOE9zTXBFelllc2FtV25KSUJCU0VqREprNDlHSjdsYVY3WkJLLVVHdjVvcTJyanpiQUFyNWhaX3FoM1lTZkpLY01qd3hrdU13bERoX25TUEtwSW1PLXZsMVl0Wk1EMUE3N3lIU2RETDMyZUpHSnh3MXVlX3BHM2R1T1NUaTI4MEFocUxOaVA0WA?oc=5",
+   "pub": "Thu, 06 Aug 2026 12:25:00 GMT"
   },
   {
    "t": "Europa mit Iran: Einschüchtern lassen oder handeln? - Behörden Spiegel",
@@ -79,9 +84,9 @@
    "pub": "Thu, 06 Aug 2026 11:45:07 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran meldet Einigung mit Oman über neue Schifffahrtsroute - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHlFRkc5b0VPQTNkWnFqeDdQVDFMaEZ2OFV3TzNrdjQ5NGZMc1NiNWRJcmtnOE9zTXBFelllc2FtV25KSUJCU0VqREprNDlHSjdsYVY3WkJLLVVHdjVvcTJyanpiQUFyNWhaX3FoM1lTZkpLY01qd3hrdU13bERoX25TUEtwSW1PLXZsMVl0Wk1EMUE3N3lIU2RETDMyZUpHSnh3MXVlX3BHM2R1T1NUaTI4MEFocUxOaVA0WA?oc=5",
-   "pub": "Thu, 06 Aug 2026 12:25:00 GMT"
+   "t": "(S+) Iran-Verhandlungen: Diktiert Teheran Donald Trump jetzt die Bedingungen? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUEpHWHg0WFU5VnNpQ25HN01rODA2Z1BCWEx1cHB5MEliSEs4TWFsem9hYl9SbDRKbDR3Q19MaEFZX19ZVXdtbkF5N0RGQjhVVzJ2eE9hTlJUaEwxa0NNQ0VXSkMxZ0FrdmFOU2tlbXFucDltbmhrOEQ0U3NvdFhKVEN3dVVqNkFuVGl2SW5qSFVEbUk3eC1pa2s1WFpVUlhhRGZjeVdndWgwdGpJdERuWm1kcEFBY2Z3UjBCUzBkSFJuTGNNcWdiUFVxWGpkcmkzUktVUC1xWQ?oc=5",
+   "pub": "Tue, 04 Aug 2026 19:20:00 GMT"
   },
   {
    "t": "News zum Krieg in Iran droht Golfstaaten mit Vergeltung – Trump reagiert - T-Online",
@@ -99,14 +104,9 @@
    "pub": "Thu, 06 Aug 2026 11:25:13 GMT"
   },
   {
-   "t": "Irans Milliarden-Deal demütigt Trump: Neue Maut für die Straße von Hormus - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUUVNUllLVEhIbEI2UGVaQmtrSVYzQ0pRMW9BQnp0Wl9fZG85dzVib182Wl9KTm9qR09iUGZaREdmd1NyOGZLcVY2UEdIcDZjYWhURHhBYmtfVFBheFBOaFBPWHR5WnJORklYZW1haV85UmxGSzZscDE2NDJtendVc0JfdGs1d29GNE5tMElvaHhXa1h5TUoyWTV6T3Iya1hUTi1SMUdhSQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 19:53:09 GMT"
-  },
-  {
-   "t": "Iran erklärt, ein Abkommen mit Oman über Hormus stehe kurz bevor, doch die Wiedereröffnung hänge von den USA ab - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdUN2VllVY1hkR0M5RVRFWjVCNWhBZGNMSkRPV005T0lFckRaLWs4SHphMUFzR3hBMldjMjk3R2UxV3kxQXJnTlpTaEhaNXNkcHZYWEd3NDg0Q3JKS0o2b2NvLWJDV3FMdkRKc3RRY0dDbXZZNXo2d042VlQ3SkFPWTduOW9DWGEyd19WaTdwOXZaR1BTd2hiVTlPYzd1YW9jWk83aFl4SDVuTlp4S3dKYlhSX3NESUx3a2xHLWJta0xLSTVfeW1OWll4ZlVJWjNubHJvZUdPOS1iUmZVRFFzb1h4YlYyWUhqTWpLSHgyUWFSbUlz?oc=5",
-   "pub": "Thu, 06 Aug 2026 07:33:00 GMT"
+   "t": "Iran und Oman verhandeln Abkommen für Straße von Hormus - ohne USA - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53Ri1NV3BGR016U0xpTmpKc0lLY2VHanRnUVZ2T2Q3TEYwT1F0SjFFV0dnb2d6bDk5TkN5VFk3d2RCVzlubmJWdld6cEx3amlUN2JkUGZCYlZyVnhIQ3ZFZjFjSVRUa0RCa1hHNVNfVnV5ZTk5OExuTkdjaDY?oc=5",
+   "pub": "Wed, 05 Aug 2026 04:23:54 GMT"
   }
  ]
 }
