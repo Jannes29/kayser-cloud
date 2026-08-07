@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-07T19:16:24Z",
+ "collected_at": "2026-08-07T20:02:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.8075,
-   "chg1d_pct": 0.1
+   "chg1d_pct": -0.6
   },
   "USDJPY": {
-   "price": 157.607,
-   "chg1d_pct": 0.0
+   "price": 157.545,
+   "chg1d_pct": -0.55
   },
   "GBPCAD": {
-   "price": 1.8814,
-   "chg1d_pct": -0.28
+   "price": 1.8816,
+   "chg1d_pct": -0.2
   },
   "AUDJPY": {
-   "price": 111.435,
-   "chg1d_pct": 0.19
+   "price": 111.366,
+   "chg1d_pct": -0.04
   },
   "EURUSD": {
-   "price": 1.1569,
-   "chg1d_pct": 0.1
+   "price": 1.1565,
+   "chg1d_pct": 0.35
   },
   "GBPCHF": {
-   "price": 1.09,
-   "chg1d_pct": 0.33
+   "price": 1.0898,
+   "chg1d_pct": -0.29
   },
   "WTI": {
-   "price": 77.61,
-   "chg1d_pct": 0.41
+   "price": 76.92,
+   "chg1d_pct": -0.48
   },
   "BRENT": {
-   "price": 82.96,
-   "chg1d_pct": 0.57
+   "price": 81.94,
+   "chg1d_pct": -0.67
   },
   "GOLD": {
-   "price": 4402.4,
-   "chg1d_pct": 3.78
+   "price": 4407.4,
+   "chg1d_pct": 3.9
   },
   "SPX_FUT": {
-   "price": 7772.25,
-   "chg1d_pct": 0.48
+   "price": 7774.75,
+   "chg1d_pct": 0.52
   },
   "NAS_FUT": {
-   "price": 29773.5,
-   "chg1d_pct": 0.97
+   "price": 29810.0,
+   "chg1d_pct": 1.09
   }
  },
  "headlines": [
@@ -59,7 +59,7 @@
    "pub": "Fri, 07 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - t-online.de",
+   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - T-Online",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0Z3Z2NocDB3SlNWMnA5dzgtYkNic2xzamh5NEtWUnMzNmJ3dDNiT243UkxRMTFSanRLQklnSnVMVUIyeW15T2dnNmNZOUVZZXlWTW9vMkFLWGFLUDNTRG1sVWY5OWhmUXVnTy1UQkVlck4wY1lncXpxaFNSWWZHSXdUQzZ5M1NLVkJRRlpqa0NVRmFweTd1VWtlblh2WDFUZ1U2Z0IyNkREU1FiQ1VULV93WklPaDdjLU1pLQ?oc=5",
    "pub": "Fri, 07 Aug 2026 16:33:00 GMT"
   },
@@ -67,6 +67,11 @@
    "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
+  },
+  {
+   "t": "US-Unternehmen streichen 23.000 Stellen unter Druck des Iran-Kriegs - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUZrdlRaT01GMTBvMzgyaG1yRmd5MkVtUnJ3WERlZzV0RnJ3cGF4S1AyUnBuMHVQalBsQlVubTJDSHpSM1V5VFNfZzBSeDBETnhITUhtTzdORnl0NVVuTExzS3FlaUZJQmdVcldLQ000aHByNEdBeWVFQ0I3MTE5SmNFNFJtUkt3SEZxZ1R0ZDExWUhLZV9SUEVPbzlBbTRWbmNEU0FHRm1FUWt1ZnRF?oc=5",
+   "pub": "Fri, 07 Aug 2026 15:10:21 GMT"
   },
   {
    "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
@@ -84,11 +89,6 @@
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
-   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
-  },
-  {
    "t": "Nach Huthi-Angriffen in Saudi-Arabien: Sorge vor Eskalation - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2VCUG85ZTlXZFp5MEVnUGpPX3J1VlNSZXdOSEdCdEZQSnZGdkVid0lfSk54eEYzUlFOencxYWxCVnJjOWJIMFc5TGZVZ3VJb2RBWDdOTklnSmxpQkZ0SGgxdG9RLXloblRXbXhUN0p4RWJkRjA5RWxuVWRMQkF0WTd4bEFMcGR1dS1TMmlicnV6U2w5Q2VkdzlsamcwbGhQQVE?oc=5",
    "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
@@ -99,14 +99,14 @@
    "pub": "Fri, 07 Aug 2026 16:09:03 GMT"
   },
   {
-   "t": "Saudi-Arabien, Pakistan, Türkei: Neues Bündnis gegen Iran? - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc21TRUNEeTFvY1I0TzRZZE9ZcWU5R29fWnRpTnNRUG1wZUp1TlMzcFcwejB5OHdNVWE4ek84NXA2RW1PeWU3dTNDS2d1OWdEZW83ZFNBRlJFMXA1SHgwRXpGU24wSmlOcnpoVG9KQk1aSC05a3RneDdLZVdwZ1JDWUMwalV2OHBSOFQ3S01zMzFoRnpD?oc=5",
-   "pub": "Fri, 07 Aug 2026 14:00:00 GMT"
-  },
-  {
    "t": "Iran: Allianz von Saudi-Arabien Pakistan und Türkei - FAZ",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEpsUUVWRWRGTDRIUTVLWFRyUWhzSU9MdkVNU29LRG43VmIyVGhyTUJHNmlxMUpNMU1mc1RFbXExZFBGQ3NtMjF5OHM2QnczTVFzanJYZGk4MDdCVzVTaTVHRGY4cUR5cmZLWmJhVnlmZFV5RDY5VWRqNnVXSTRENlBYMlNkQ1AtOUVuWHVnMmQyYU1kNnNpOWx2bWZldV85S0JaNDc4RmwtRjd0RVZV?oc=5",
    "pub": "Fri, 07 Aug 2026 16:09:42 GMT"
+  },
+  {
+   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
+   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
   }
  ]
 }
