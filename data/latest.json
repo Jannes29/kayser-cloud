@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T13:58:11Z",
+ "collected_at": "2026-08-08T14:50:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -74,14 +74,9 @@
    "pub": "Sat, 08 Aug 2026 06:18:23 GMT"
   },
   {
-   "t": "US-Medien: Trump erwägt erneut Entlassung von Fed-Vorständin - wiwo.de",
+   "t": "US-Medien: Trump erwägt erneut Entlassung von Fed-Vorständin - WiWo",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnZHSjZHVWxzZjdETkR1S3V5LTFaLWNCbEhXWEVnWjY0X1F2eERac1Rtc3MzQnRhaEY3WXhjbUswN1hFRWc2cDFOSkFuZHlwZzNsMmZNcHo2YjQwclhFekFXcVZFOGg0QmRZOEY5OWprY1RfN3ZfTm94N25LNGVhWjhRNlBxM1ZVMl9INWViblRaaXVIc1UxVzR5Y2NzTHZ0azdHZHFPd3FobFZ6dFhWd2pB?oc=5",
    "pub": "Sat, 08 Aug 2026 07:59:27 GMT"
-  },
-  {
-   "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
-   "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
    "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
@@ -89,9 +84,9 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "News zum Krieg im Iran: Iranischer Präsident äußert sich zu US-Gesprächen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUhTQTJGMWNMWjFQTGYwVVRkcGdhS2s0RHVvbklVcFJlczZjdk11RW4ta2EyT2pCaWdrT2lHbURpYmxQUmlkOE11U2huRGs1UWk3RnV6MnNfenNwdU5qZl9iYVY1YThCWnAtR3dJdVRNZ2g5RzlNWDNMS2dkRlBfU1JSQmhDZWZkWHVyS3lmQ09uSXdZQWtpcWI4VGpjOENmY3RrczZTOWR3aXBmSjFzOHRyMXBienZSNEZMa3BrOFVvMDBOUUxsWk9XNnVTWUFHYllTX2l3?oc=5",
-   "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
+   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
+   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
    "t": "CNN-Bericht: US-Generalstabschef Caine sucht angeblich Ausweg aus Trumps Irankrieg - Spiegel",
@@ -107,6 +102,11 @@
    "t": "Ölgesellschaft von Abu Dhabi meldet Raketenangriff auf Tanker in Straße von Hormus - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0tDQ1dfTWVxRzNMYUh0XzZMVUVvX2dDTm5YUUxQQVZCRmFySGc4SnNJTm5EMy1JN0pJa2RudXB1UnRra0JZLXdmTlRDWU1EVXk5bFBkejh1dC01Q1gxQ0MxYXZ2RmJla3I1UXJnbDB3QlphaVBseUhvYm81c0p6dHdmQnhpanpIMUFoZDRIWTE3d19JMm05UVd6RW9WUF9NaUNBbGdVb3ptbUJyZ21IRVMtQ21BZ0l2Q3NRX3YzbGN0WjUwb1Z6Z2RfMUZ0MkY0OVNEQlYzS2FhV1NDSjNmbnM2Ty1IWktUMlE?oc=5",
    "pub": "Sat, 08 Aug 2026 11:17:00 GMT"
+  },
+  {
+   "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHN6NDJMWlhneDBZcEhrWF91d0ZmOWMyNjhJM21qNGVya3RET2JQVHRRU3dWT0J2dUE3VFpKUzVfSUJFeEQ2ZE4wR0pwVUhiUWpfTW4yUnhBR2tzSmdCdHRoU3U2bzhhZFBwZ3Z2TmR4Uy01TFVKOFg4RjZrVnJtR2tVcmh5RmU2N0hYckw1V0tvWkdxd2dJOThLeWoxdllXVlpzdklLY1pYM25YdzdTdjNhN09WLTY0bkE?oc=5",
+   "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
   }
  ]
 }
