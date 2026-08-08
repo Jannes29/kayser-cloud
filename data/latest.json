@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T15:46:40Z",
+ "collected_at": "2026-08-08T16:52:47Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,14 +54,14 @@
    "pub": "Sat, 08 Aug 2026 09:48:00 GMT"
   },
   {
-   "t": "Schifffahrtsroute: Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXFJZXdZckNEaTVoYV80QXcxUzRWUXpmMWlpcGd1WURDQjVEUzhIR0xfMWVHRVdUUmtnbkhoX09pa01PUGRfZUJxSkhuRVd6NnJmRTdFenFqZ2RJOWl0UVE0V2EyNG5OUFo3S3l2TWhUM3FZM2Fra21RVEczenFENjhUV09sdG9NQ2x4NkkyNGZwSUVFNXIzc04xZ1dsLUloakVDSFFGb3ZWeW15T3Fya3R0V25xUWdEVHJPZjZubnRfVi1xLUhrMHBrNEdBMUZkY1V4SmdTZUdCc1BKX3haUEc1ckpjM01Td1M4?oc=5",
-   "pub": "Sat, 08 Aug 2026 13:35:24 GMT"
-  },
-  {
    "t": "Straße von Hormus: Ein Deal, der einen neuen Nahen Osten schafft - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczRselVZZENmdHQ5ejc4UWc4VV9Oa3BoWE1Kb244WkRybERtTGZxTGticXNwWm9peVpwV25jR3hYeUkxQXpWYW5XcVJudHJfYm5jUU1MYzZISHBCS1Q4MFdHY2EtWWdMeTlVMFpIX1lOa0ZHY0l4ZThtLWNzTVdRdTZvSVdyQQ?oc=5",
    "pub": "Sat, 08 Aug 2026 10:23:27 GMT"
+  },
+  {
+   "t": "Schifffahrtsroute: Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXFJZXdZckNEaTVoYV80QXcxUzRWUXpmMWlpcGd1WURDQjVEUzhIR0xfMWVHRVdUUmtnbkhoX09pa01PUGRfZUJxSkhuRVd6NnJmRTdFenFqZ2RJOWl0UVE0V2EyNG5OUFo3S3l2TWhUM3FZM2Fra21RVEczenFENjhUV09sdG9NQ2x4NkkyNGZwSUVFNXIzc04xZ1dsLUloakVDSFFGb3ZWeW15T3Fya3R0V25xUWdEVHJPZjZubnRfVi1xLUhrMHBrNEdBMUZkY1V4SmdTZUdCc1BKX3haUEc1ckpjM01Td1M4?oc=5",
+   "pub": "Sat, 08 Aug 2026 13:35:24 GMT"
   },
   {
    "t": "Trump soll sich \"raushalten\": Iran fordert Entschädigung von USA für Öffnung der Straße von Hormus - n-tv.de",
@@ -84,11 +84,6 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "News zum Iran-Krieg: Ölkonzern meldet Angriff auf Schiff in Straße von Hormus - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOckFTZ2ZBVXdjaENUU1dYRElscG9nbnpqVUt6VDNaSVNUMl94Vm5tanRoYm92SkxvNl9CQmlVRTM1d1FwcGh3aElOcTQzMUdJMXpVbVkxM1U1RWlxNlR0aThUMnBkRDJSeGV6VkQ1ZXIwVVFBNEtGUU41bXNCWUp4NFVnSzI5NmN6UWFlWDlQUjdSc05TaU5pV2RVcl9vVEk3MVhtcUNuanp6VjR4ZjgtWnQ2NGRESDgyOGFITjFyNUpSbXR0eXBpSWFnTWhia3JTUWUyVnFvZUl3WjNx?oc=5",
-   "pub": "Sat, 08 Aug 2026 12:11:35 GMT"
-  },
-  {
    "t": "US-Medien: Trump erwägt erneut Entlassung von Fed-Vorständin - WiWo",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnZHSjZHVWxzZjdETkR1S3V5LTFaLWNCbEhXWEVnWjY0X1F2eERac1Rtc3MzQnRhaEY3WXhjbUswN1hFRWc2cDFOSkFuZHlwZzNsMmZNcHo2YjQwclhFekFXcVZFOGg0QmRZOEY5OWprY1RfN3ZfTm94N25LNGVhWjhRNlBxM1ZVMl9INWViblRaaXVIc1UxVzR5Y2NzTHZ0azdHZHFPd3FobFZ6dFhWd2pB?oc=5",
    "pub": "Sat, 08 Aug 2026 07:59:27 GMT"
@@ -107,6 +102,11 @@
    "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHN6NDJMWlhneDBZcEhrWF91d0ZmOWMyNjhJM21qNGVya3RET2JQVHRRU3dWT0J2dUE3VFpKUzVfSUJFeEQ2ZE4wR0pwVUhiUWpfTW4yUnhBR2tzSmdCdHRoU3U2bzhhZFBwZ3Z2TmR4Uy01TFVKOFg4RjZrVnJtR2tVcmh5RmU2N0hYckw1V0tvWkdxd2dJOThLeWoxdllXVlpzdklLY1pYM25YdzdTdjNhN09WLTY0bkE?oc=5",
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
+  },
+  {
+   "t": "Ölgesellschaft von Abu Dhabi meldet Raketenangriff auf Tanker in Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0tDQ1dfTWVxRzNMYUh0XzZMVUVvX2dDTm5YUUxQQVZCRmFySGc4SnNJTm5EMy1JN0pJa2RudXB1UnRra0JZLXdmTlRDWU1EVXk5bFBkejh1dC01Q1gxQ0MxYXZ2RmJla3I1UXJnbDB3QlphaVBseUhvYm81c0p6dHdmQnhpanpIMUFoZDRIWTE3d19JMm05UVd6RW9WUF9NaUNBbGdVb3ptbUJyZ21IRVMtQ21BZ0l2Q3NRX3YzbGN0WjUwb1Z6Z2RfMUZ0MkY0OVNEQlYzS2FhV1NDSjNmbnM2Ty1IWktUMlE?oc=5",
+   "pub": "Sat, 08 Aug 2026 11:17:00 GMT"
   }
  ]
 }
