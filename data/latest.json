@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-07T23:48:56Z",
+ "collected_at": "2026-08-08T02:22:15Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,19 +54,9 @@
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
   },
   {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - fr.de",
+   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXZ4S3NTb254QUlLMTFBTGIwNldQLWtaUnVvc2pXNjBZTDM2RTM4dzFoZER4YTgzajB4OG1zUjVxTzdIR0ZpeDNnT1NnNDdTcmsyYTJVdUFuSzZ6czRtTXpJLVZSUmVhU0FhQzFnc2JDS3M3Ujh0d29YalFxcWpRSWRYaXRPZ2ZWRWtodlVrNTdwVmhweTdqbDNCRFFEMUd2Y2pB?oc=5",
    "pub": "Fri, 07 Aug 2026 17:00:00 GMT"
-  },
-  {
-   "t": "News zum Krieg im Iran: Huthi-Miliz greift im Jemen an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0Z3Z2NocDB3SlNWMnA5dzgtYkNic2xzamh5NEtWUnMzNmJ3dDNiT243UkxRMTFSanRLQklnSnVMVUIyeW15T2dnNmNZOUVZZXlWTW9vMkFLWGFLUDNTRG1sVWY5OWhmUXVnTy1UQkVlck4wY1lncXpxaFNSWWZHSXdUQzZ5M1NLVkJRRlpqa0NVRmFweTd1VWtlblh2WDFUZ1U2Z0IyNkREU1FiQ1VULV93WklPaDdjLU1pLQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 16:33:00 GMT"
-  },
-  {
-   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
@@ -74,9 +64,9 @@
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
-   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
+   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
+   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
    "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT - Europäische Sicherheit & Technik",
@@ -84,29 +74,39 @@
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
+   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
+   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
+  },
+  {
+   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
+   "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
+  },
+  {
    "t": "Nach Huthi-Angriffen in Saudi-Arabien: Sorge vor Eskalation - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2VCUG85ZTlXZFp5MEVnUGpPX3J1VlNSZXdOSEdCdEZQSnZGdkVid0lfSk54eEYzUlFOencxYWxCVnJjOWJIMFc5TGZVZ3VJb2RBWDdOTklnSmxpQkZ0SGgxdG9RLXloblRXbXhUN0p4RWJkRjA5RWxuVWRMQkF0WTd4bEFMcGR1dS1TMmlicnV6U2w5Q2VkdzlsamcwbGhQQVE?oc=5",
    "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
   },
   {
-   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - faz.net",
+   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - FAZ",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlTRXotQndQYVFMWmNwbnctNlFsdWFraUpCSlg4dkJyQVR5UmZOOXppUThLdC1PMEl1VU03M0lJendhUEp3bUNjVmFua2NSdTUyQy1ybmV6RGJaTkt5d1B0c2tOREoyWUdUbzhmTVdCQ1JteXdnVE1heVFvQ2ZBNkxnVlU3TXoxNW5pQ0lWQ1ZVQ2UyQ0FjRXZNamd2Q3ptMjVhZllXQ29vQ0tkSnU3eERDbTJmdw?oc=5",
    "pub": "Fri, 07 Aug 2026 16:09:03 GMT"
   },
   {
-   "t": "Iran: Allianz von Saudi-Arabien Pakistan und Türkei - faz.net",
+   "t": "Iran: Allianz von Saudi-Arabien Pakistan und Türkei - FAZ",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEpsUUVWRWRGTDRIUTVLWFRyUWhzSU9MdkVNU29LRG43VmIyVGhyTUJHNmlxMUpNMU1mc1RFbXExZFBGQ3NtMjF5OHM2QnczTVFzanJYZGk4MDdCVzVTaTVHRGY4cUR5cmZLWmJhVnlmZFV5RDY5VWRqNnVXSTRENlBYMlNkQ1AtOUVuWHVnMmQyYU1kNnNpOWx2bWZldV85S0JaNDc4RmwtRjd0RVZV?oc=5",
    "pub": "Fri, 07 Aug 2026 16:09:42 GMT"
   },
   {
-   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - swr.de",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
+   "t": "Iran-Krieg: Wie die Drohungen von US-Präsident Trump ins Leere laufen - SWR",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDByY2dCVjV1QkZOSU1TRXNrMERvNFVmVjNvY3RPcEdhaU1iREs2bUtHT25HX0dnMThPVWZBTnJNQWVvZVhoejV1SFByVGh5SHFmZWFaOFZqZnQ1cGRCcy0yZ2FkY29fUTM0cmFSaDV6LWZDYVZjUEdpaEtfOXR3VndTMWwzOUYyMFY5VA?oc=5",
    "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
   },
   {
-   "t": "Iran und Oman arbeiten an Hormus-Regelung – Teheran stellt Bedingungen an die USA - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEpBakczMWlUdUY2c0NqQ0FDUm5LVUdjbHJTUEhUSnZNQ29NOTB6bUFfZVRyR0Y3UzN1UElWdENPMFRxSzFLbGZvRU42aXpXY20wVGdjVTNjVGxDUVBVTndFcUF2dXllbkF1QnFGSEhBV0V4a1VyWW1mT3Jia18wY2ticUxCLU5lenRibUtVQ2lQelAycC0wc3ZFUjlVS1pMckpXWWxidW5Ka3NRamRUVWo4S1hDdzR6OEtsN0pweGxEUQ?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:22:00 GMT"
+   "t": "Saudi-Arabien, Pakistan, Türkei: Neues Bündnis gegen Iran? - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc21TRUNEeTFvY1I0TzRZZE9ZcWU5R29fWnRpTnNRUG1wZUp1TlMzcFcwejB5OHdNVWE4ek84NXA2RW1PeWU3dTNDS2d1OWdEZW83ZFNBRlJFMXA1SHgwRXpGU24wSmlOcnpoVG9KQk1aSC05a3RneDdLZVdwZ1JDWUMwalV2OHBSOFQ3S01zMzFoRnpD?oc=5",
+   "pub": "Fri, 07 Aug 2026 14:00:00 GMT"
   }
  ]
 }
