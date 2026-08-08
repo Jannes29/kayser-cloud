@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T08:03:30Z",
+ "collected_at": "2026-08-08T09:01:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,12 @@
  },
  "headlines": [
   {
-   "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - berliner-zeitung.de",
+   "t": "„Könnten sie absolut vernichten“: Aber Trumps Top-General ringt intern um Ausweg aus dem aktuellen Iran-Krieg - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGVNaFdQMm1IWFJmdTJta2VSMFpfdUdudktQU3ZUUnd0WjN4dEpOWjhGQmFITXh5WUdGaHNVMW41UF9zTGM3eVFHWnNZZ2RQMVZRcGdvWTZ0UVZDdGRBYlVRYjNjY0tOMDJsVl9seXlXZWROaEhhYm9nWGt5WllBMU5LS2xMQmVBWXFoNWdway1IU1VDNHJXSGxDZFRoZ09ldlFnZGI0Ym83TEZCcFpXZXFfeG9xSFppLVAw?oc=5",
+   "pub": "Sat, 08 Aug 2026 07:59:43 GMT"
+  },
+  {
+   "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjhERUowd0dkdlF1THExLUlvMnhFTS1YeC1kS3R3VTQ4Z3FLQy1WSHdRSzNrbV9WTFRTclljdk41THFRSnhyaFo4VGdQZ2pJcjlFZFU5TmRGRVJVLWtVMENmX01WaDJiM2RTVmdFZDlraHJaRWdQVjB3ZXNzZjJEV3pnWWc0bUtOblhtSS1fTFppbE4zOEI3aTd2ZzF2TnA4amdadWd3dFViRTlmUWxWU3YxX3VKTXFmYVpRUmc4QzZsbHdVdVQ2TUZpaW0xXzN0S0s4N003endmWnl0Q0xF?oc=5",
    "pub": "Sat, 08 Aug 2026 06:18:23 GMT"
   },
@@ -59,14 +64,14 @@
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
   },
   {
-   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
-  },
-  {
    "t": "News zum Krieg im Iran: Iranischer Präsident äußert sich zu US-Gesprächen - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUhTQTJGMWNMWjFQTGYwVVRkcGdhS2s0RHVvbklVcFJlczZjdk11RW4ta2EyT2pCaWdrT2lHbURpYmxQUmlkOE11U2huRGs1UWk3RnV6MnNfenNwdU5qZl9iYVY1YThCWnAtR3dJdVRNZ2g5RzlNWDNMS2dkRlBfU1JSQmhDZWZkWHVyS3lmQ09uSXdZQWtpcWI4VGpjOENmY3RrczZTOWR3aXBmSjFzOHRyMXBienZSNEZMa3BrOFVvMDBOUUxsWk9XNnVTWUFHYllTX2l3?oc=5",
    "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
+  },
+  {
+   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
+   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
    "t": "Ohne Absprache: USA stützten Yen mit Euro-Abverkauf - ORF",
@@ -84,9 +89,9 @@
    "pub": "Fri, 07 Aug 2026 12:13:27 GMT"
   },
   {
-   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
+   "t": "\"Economic Fury\": Krypto-Krieg gegen Iran: USA schlagen jetzt zu - BTC-ECHO",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3dNbDFReVFndy02c3dBblBXTU9VVThEenBCNXVER19HbHFpU05tUUcwdk9KRE56Q0p2UnBKNjFmQWhCblFoUHZWazRwNTd2dXBBREhrU1FxeTB0NWpkMExYLWhMem9XQUdBT3pjQ2ZzOTFqeHZZcEVsX2J1dXFISnNmR01nb0RocTZvd2lXdWprVTRIVFJIdERB?oc=5",
+   "pub": "Sat, 08 Aug 2026 08:32:00 GMT"
   },
   {
    "t": "US-Medien: Trump erwägt erneut Entlassung von Fed-Vorständin - WiWo",
@@ -99,14 +104,9 @@
    "pub": "Sat, 08 Aug 2026 07:44:00 GMT"
   },
   {
-   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - faz.net",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlTRXotQndQYVFMWmNwbnctNlFsdWFraUpCSlg4dkJyQVR5UmZOOXppUThLdC1PMEl1VU03M0lJendhUEp3bUNjVmFua2NSdTUyQy1ybmV6RGJaTkt5d1B0c2tOREoyWUdUbzhmTVdCQ1JteXdnVE1heVFvQ2ZBNkxnVlU3TXoxNW5pQ0lWQ1ZVQ2UyQ0FjRXZNamd2Q3ptMjVhZllXQ29vQ0tkSnU3eERDbTJmdw?oc=5",
-   "pub": "Fri, 07 Aug 2026 16:09:03 GMT"
-  },
-  {
-   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
-   "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
+   "t": "Saudi-Arabien: Uno-Sicherheitsrat verurteilt Huthi-Angriffe - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUNIM0lFTXFsRU9rTEItbmlhZmFId1V1aWxxQUMwS2dkN2hMSUZ4YXBNcHYxc1JidnJ1TW93bWtJT0VKY1ViMjJ1RWZPdUNpZzlFeW1ybXVCd0RQTU1Vd2g2M2ZQZGVUaUlwVmN5QmEyN1VCSnlId1JyMlhOYU9pVzZHWlBUWnNCd3FVanl5czRQSHRxVndrNDI4dUdnb196VHVpTTBGNkJPY2JIYU5aYm5PZmhVeFYtMWhwaXlGby1lZUhpRC03bnM4Z2swb0dqQ2IzM2NR?oc=5",
+   "pub": "Sat, 08 Aug 2026 05:30:00 GMT"
   }
  ]
 }
