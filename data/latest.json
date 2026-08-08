@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T10:51:47Z",
+ "collected_at": "2026-08-08T11:44:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,6 +54,11 @@
    "pub": "Sat, 08 Aug 2026 09:48:00 GMT"
   },
   {
+   "t": "Straße von Hormus: Ein Deal, der einen neuen Nahen Osten schafft - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczRselVZZENmdHQ5ejc4UWc4VV9Oa3BoWE1Kb244WkRybERtTGZxTGticXNwWm9peVpwV25jR3hYeUkxQXpWYW5XcVJudHJfYm5jUU1MYzZISHBCS1Q4MFdHY2EtWWdMeTlVMFpIX1lOa0ZHY0l4ZThtLWNzTVdRdTZvSVdyQQ?oc=5",
+   "pub": "Sat, 08 Aug 2026 10:23:27 GMT"
+  },
+  {
    "t": "„Ein Rahmenabkommen ist offenbar erzielt worden“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVhiX2stX3IxR1I2bE9seUU5R1VCX2NEQjNVUnZsTzNOT25fdmZjWnJxUllQSjR5cUtDU3FId3Y4aGRQYnc1emhzQ0M1SjlENU9uV2ExOHJXbUREU2l2WjAtYjBQX0dQRG9vYndZa2Q0U3I5cWxrWUtJZ2ZxbFBuZnpRT2plR1FKOHI0N2VKMi04alVWamdiRkR2bUozTzdBQ3c5V04yNDNOaDNJVWFpRDlzNnlNeXJYUzE3NnVON2RjM05kbGFVUzdsaXc4U1lWSGt4bQ?oc=5",
    "pub": "Sat, 08 Aug 2026 08:53:08 GMT"
@@ -64,7 +69,7 @@
    "pub": "Sat, 08 Aug 2026 07:59:43 GMT"
   },
   {
-   "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - Berliner Zeitung",
+   "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - berliner-zeitung.de",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjhERUowd0dkdlF1THExLUlvMnhFTS1YeC1kS3R3VTQ4Z3FLQy1WSHdRSzNrbV9WTFRTclljdk41THFRSnhyaFo4VGdQZ2pJcjlFZFU5TmRGRVJVLWtVMENmX01WaDJiM2RTVmdFZDlraHJaRWdQVjB3ZXNzZjJEV3pnWWc0bUtOblhtSS1fTFppbE4zOEI3aTd2ZzF2TnA4amdadWd3dFViRTlmUWxWU3YxX3VKTXFmYVpRUmc4QzZsbHdVdVQ2TUZpaW0xXzN0S0s4N003endmWnl0Q0xF?oc=5",
    "pub": "Sat, 08 Aug 2026 06:18:23 GMT"
   },
@@ -84,14 +89,14 @@
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
-   "t": "News zum Krieg im Iran: Iranischer Präsident äußert sich zu US-Gesprächen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUhTQTJGMWNMWjFQTGYwVVRkcGdhS2s0RHVvbklVcFJlczZjdk11RW4ta2EyT2pCaWdrT2lHbURpYmxQUmlkOE11U2huRGs1UWk3RnV6MnNfenNwdU5qZl9iYVY1YThCWnAtR3dJdVRNZ2g5RzlNWDNMS2dkRlBfU1JSQmhDZWZkWHVyS3lmQ09uSXdZQWtpcWI4VGpjOENmY3RrczZTOWR3aXBmSjFzOHRyMXBienZSNEZMa3BrOFVvMDBOUUxsWk9XNnVTWUFHYllTX2l3?oc=5",
-   "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
-  },
-  {
    "t": "Ohne Absprache: USA stützten Yen mit Euro-Abverkauf - ORF",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81RzZveEtIUm9VTE5hUUlXVXhzY195UE1tSkR3Mkd4WlJLSFphRDIzaF9fa0x5eUNJeEhvaUtKdk5hWmxrUWc?oc=5",
    "pub": "Fri, 07 Aug 2026 20:40:38 GMT"
+  },
+  {
+   "t": "News zum Krieg im Iran: Iranischer Präsident äußert sich zu US-Gesprächen - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUhTQTJGMWNMWjFQTGYwVVRkcGdhS2s0RHVvbklVcFJlczZjdk11RW4ta2EyT2pCaWdrT2lHbURpYmxQUmlkOE11U2huRGs1UWk3RnV6MnNfenNwdU5qZl9iYVY1YThCWnAtR3dJdVRNZ2g5RzlNWDNMS2dkRlBfU1JSQmhDZWZkWHVyS3lmQ09uSXdZQWtpcWI4VGpjOENmY3RrczZTOWR3aXBmSjFzOHRyMXBienZSNEZMa3BrOFVvMDBOUUxsWk9XNnVTWUFHYllTX2l3?oc=5",
+   "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
   },
   {
    "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - Spiegel",
@@ -102,11 +107,6 @@
    "t": "Saudi-Arabien: Uno-Sicherheitsrat verurteilt Huthi-Angriffe - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUNIM0lFTXFsRU9rTEItbmlhZmFId1V1aWxxQUMwS2dkN2hMSUZ4YXBNcHYxc1JidnJ1TW93bWtJT0VKY1ViMjJ1RWZPdUNpZzlFeW1ybXVCd0RQTU1Vd2g2M2ZQZGVUaUlwVmN5QmEyN1VCSnlId1JyMlhOYU9pVzZHWlBUWnNCd3FVanl5czRQSHRxVndrNDI4dUdnb196VHVpTTBGNkJPY2JIYU5aYm5PZmhVeFYtMWhwaXlGby1lZUhpRC03bnM4Z2swb0dqQ2IzM2NR?oc=5",
    "pub": "Sat, 08 Aug 2026 05:30:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Ein Deal, der einen neuen Nahen Osten schafft - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczRselVZZENmdHQ5ejc4UWc4VV9Oa3BoWE1Kb244WkRybERtTGZxTGticXNwWm9peVpwV25jR3hYeUkxQXpWYW5XcVJudHJfYm5jUU1MYzZISHBCS1Q4MFdHY2EtWWdMeTlVMFpIX1lOa0ZHY0l4ZThtLWNzTVdRdTZvSVdyQQ?oc=5",
-   "pub": "Sat, 08 Aug 2026 10:23:27 GMT"
   }
  ]
 }
