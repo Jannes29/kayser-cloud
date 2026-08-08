@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T04:29:18Z",
+ "collected_at": "2026-08-08T05:57:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -27,12 +27,12 @@
    "chg1d_pct": -0.3
   },
   "WTI": {
-   "price": 77.08,
-   "chg1d_pct": -0.27
+   "price": 78.18,
+   "chg1d_pct": 1.15
   },
   "BRENT": {
-   "price": 82.27,
-   "chg1d_pct": -0.27
+   "price": 83.55,
+   "chg1d_pct": 1.29
   },
   "GOLD": {
    "price": 4399.7,
@@ -49,9 +49,19 @@
  },
  "headlines": [
   {
-   "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - spiegel.de",
+   "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHN6NDJMWlhneDBZcEhrWF91d0ZmOWMyNjhJM21qNGVya3RET2JQVHRRU3dWT0J2dUE3VFpKUzVfSUJFeEQ2ZE4wR0pwVUhiUWpfTW4yUnhBR2tzSmdCdHRoU3U2bzhhZFBwZ3Z2TmR4Uy01TFVKOFg4RjZrVnJtR2tVcmh5RmU2N0hYckw1V0tvWkdxd2dJOThLeWoxdllXVlpzdklLY1pYM25YdzdTdjNhN09WLTY0bkE?oc=5",
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
+  },
+  {
+   "t": "News zum Krieg im Iran: Iranischer Präsident äußert sich zu US-Gesprächen - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUhTQTJGMWNMWjFQTGYwVVRkcGdhS2s0RHVvbklVcFJlczZjdk11RW4ta2EyT2pCaWdrT2lHbURpYmxQUmlkOE11U2huRGs1UWk3RnV6MnNfenNwdU5qZl9iYVY1YThCWnAtR3dJdVRNZ2g5RzlNWDNMS2dkRlBfU1JSQmhDZWZkWHVyS3lmQ09uSXdZQWtpcWI4VGpjOENmY3RrczZTOWR3aXBmSjFzOHRyMXBienZSNEZMa3BrOFVvMDBOUUxsWk9XNnVTWUFHYllTX2l3?oc=5",
+   "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
+  },
+  {
+   "t": "Ohne Absprache: USA stützten Yen mit Euro-Abverkauf - orf.at",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81RzZveEtIUm9VTE5hUUlXVXhzY195UE1tSkR3Mkd4WlJLSFphRDIzaF9fa0x5eUNJeEhvaUtKdk5hWmxrUWc?oc=5",
+   "pub": "Fri, 07 Aug 2026 20:40:38 GMT"
   },
   {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
@@ -59,9 +69,9 @@
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Iran rüstet auf, Ölkonzerne kassieren Rekordgewinne – und die Straße von Hormus soll plötzlich wieder öffnen - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVU1ZDlZTG5GdjVjWEZNQTRuVU01UkJHWF9sUzVmdzk2UkhpTzBLekNDVFNDV3pmcnlvZ3JZRzhHOENCZkVzVjZYSTFtNzYzUXJxdzBtSUl5dE5xdm02U2F3VXd5NnQ1V2E2b0RRMGRZVnJQMmNJRlFiSXlFWVFSekEybndSSkZMQzhhSDJsdHB1eXpVR3dwWXRSaTBsNld4dUM0?oc=5",
-   "pub": "Sat, 08 Aug 2026 02:46:00 GMT"
+   "t": "„Die Revolutionsgarden sind mit Angriffen aus der Luft offensichtlich nicht zu verängstigen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaW1Rai1zWFJ3MFc2aFhaS2dYbVY0M1I2Smk0a1VVWFJaWjVRemdRVS1nMllVUHdDSnhjc3hteFFEX1Boc3MyLW5wVUlwdmpIeFdGWktkOHFPczFvNVN6U21Wc1Z4eEY3VEJmT0NTTGUxeW5pY3FIanpkTExYd042dEdtMUsyTUY3TTdGLVI4UG1TY2lLTGtIaDBfWGZZaUtWdHF0RWRleFRNcUFOYUQ2QjZTSEFpTDVrZ1Q2ZlRRa2NNVDVSX3dMNTNjXzNfYlQ0QmJ1ZGJGcUZLSFpSTjlJM1JUTHlnR0pvSTdoV1A1a0Fsa1NLbW91SEVXNEgxTVVkNVVr?oc=5",
+   "pub": "Fri, 07 Aug 2026 12:13:27 GMT"
   },
   {
    "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT",
@@ -72,16 +82,6 @@
    "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
    "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
-  },
-  {
-   "t": "News zum Krieg im Iran: Iranischer Präsident äußert sich zu US-Gesprächen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUhTQTJGMWNMWjFQTGYwVVRkcGdhS2s0RHVvbklVcFJlczZjdk11RW4ta2EyT2pCaWdrT2lHbURpYmxQUmlkOE11U2huRGs1UWk3RnV6MnNfenNwdU5qZl9iYVY1YThCWnAtR3dJdVRNZ2g5RzlNWDNMS2dkRlBfU1JSQmhDZWZkWHVyS3lmQ09uSXdZQWtpcWI4VGpjOENmY3RrczZTOWR3aXBmSjFzOHRyMXBienZSNEZMa3BrOFVvMDBOUUxsWk9XNnVTWUFHYllTX2l3?oc=5",
-   "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
-   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
   },
   {
    "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
@@ -99,14 +99,14 @@
    "pub": "Fri, 07 Aug 2026 16:09:42 GMT"
   },
   {
+   "t": "Iran-Krieg: Trump räumt Engpässe bei Munition ein - Video - WELT",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjRoeFVKTlpGQlpmRWpncjJxSjlPazlES1VGVzNtT19oM3YxWk1qbUN1T082Q0VDWG1URURCNi1mRGExY2kxUjRKLU5aTWR3RnY0b1F4ek9WV3NVZlFNRHdkclo0bEtXZV9vaENlMTBTeTBVQWdydXp2RkhzRE5mMHFmeElTOEY5VmRtOENaZ2w1U1JGcXlrOWQyRWFrZmI0TWhqNUEwZVhpS0wtamdIbFFTZWV2RFpZTkI3c2x3?oc=5",
+   "pub": "Fri, 07 Aug 2026 09:15:09 GMT"
+  },
+  {
    "t": "Iran-Krieg: Wie die Drohungen von US-Präsident Trump ins Leere laufen - SWR",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDByY2dCVjV1QkZOSU1TRXNrMERvNFVmVjNvY3RPcEdhaU1iREs2bUtHT25HX0dnMThPVWZBTnJNQWVvZVhoejV1SFByVGh5SHFmZWFaOFZqZnQ1cGRCcy0yZ2FkY29fUTM0cmFSaDV6LWZDYVZjUEdpaEtfOXR3VndTMWwzOUYyMFY5VA?oc=5",
    "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
-  },
-  {
-   "t": "Nach Huthi-Angriffen in Saudi-Arabien: Sorge vor Eskalation - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2VCUG85ZTlXZFp5MEVnUGpPX3J1VlNSZXdOSEdCdEZQSnZGdkVid0lfSk54eEYzUlFOencxYWxCVnJjOWJIMFc5TGZVZ3VJb2RBWDdOTklnSmxpQkZ0SGgxdG9RLXloblRXbXhUN0p4RWJkRjA5RWxuVWRMQkF0WTd4bEFMcGR1dS1TMmlicnV6U2w5Q2VkdzlsamcwbGhQQVE?oc=5",
-   "pub": "Fri, 07 Aug 2026 07:02:00 GMT"
   }
  ]
 }
