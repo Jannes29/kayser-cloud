@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T19:45:11Z",
+ "collected_at": "2026-08-08T20:49:04Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA - spiegel.de",
+   "t": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
    "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
   },
@@ -74,14 +74,14 @@
    "pub": "Sat, 08 Aug 2026 07:59:43 GMT"
   },
   {
+   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - manager-magazin.de",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
+   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
+  },
+  {
    "t": "Iran: Hormus-Einigung mit Oman kurz vor Abschluss - dw.com",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYUZfR3BxMHNSR09DRDkzNnY1OEdJdXh2UDgzWmNpSW1UT3Z4Y2NvUHdEcTY3TFF3TlFuS1owN3JzWE9fV1hpTC1MTVVJNjVmWEpUSnJhNUltMC1oZUxfeF9ROFM3VVpFTGs2LUxVUzVwVWZ2bEJ6Zko4UnhRdzRGUVlDZm1ucDk5Tll6c3FsWnZjaTFLdmVaUjdoRF9RcXPSAZ8BQVVfeXFMT0M2aUs0cDY5UUlGU0RuWmNiclJhNjJGX29jRTZrWDBKSmpac0g2akhEaldJN3NmMnBpT2dnRF8ycHQ2WUFwNVNvQ3k4NWFFcVpyWWhXcjZ3MEZzVWhvX09zSnZ6X3huSXVORDFWNW5mbEplb2FMWlF5WDk4RmduenJZTTBqbXFYOHJXTVltOVVtMWtKbDZKQ0Z3UElMNEtj?oc=5",
    "pub": "Sat, 08 Aug 2026 06:42:02 GMT"
-  },
-  {
-   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
   },
   {
    "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - Berliner Zeitung",
@@ -89,12 +89,17 @@
    "pub": "Sat, 08 Aug 2026 06:18:23 GMT"
   },
   {
+   "t": "Nahost-Krieg aktuell: JD Vance äußert sich zum wichtigsten Kriegsziel von Trumps USA - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR19HSmVmekpCVUduRVgwVE44SUtpTWNwWkxPZTQtS1J3T29HYkpRQ2hUS1JBbEE0MVB6N3lvR01WSTJuRmtSMlhSdnJGZGpmbFc3TVIwdTdxV2FrbVlTa1BRNUNHbVJVTlVrRXBLWFJTNFI1OVJtbHVkenVJcHNPQWdSNDI0ZzhVcEVHX3dMWHA5T1F0Mnd5UDUxQ2ZaQ0xNaHZ6OFFMT1Q5SzhYZ2plbk14eUJRQWNILVNfQ1hDUk5kZ3pfTjBPeXctVDVVZDZrSkVIYTNwVlIzUQ?oc=5",
+   "pub": "Sat, 08 Aug 2026 16:27:44 GMT"
+  },
+  {
    "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Iran: Uno beobachtet Hinrichtungswelle im Schatten des Kriegs - spiegel.de",
+   "t": "Iran: Uno beobachtet Hinrichtungswelle im Schatten des Kriegs - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzl1cEtiVXlFNGthVHNiTFpiVEN6aE1hY193WkJmNGhUdjFsNHkwRXNqcWFLcE52SGhyaHRLQUo3MU1HU0ZKZ2o3NUZsdDMtVVljSlozUmQwcFJTZy1YQ2xrQ0xvY0l5WEluWTBQMXNsejl4SHkyT3VWZ1lnY3RrbE16VnBCOVVlWFBJbjNjS1R6akIzOV9LYzV4ZjFITGdObUlGa1ZKTkFXajVVTWNNd2lhT2FPTzhybjFPbmRoZElpV1I4Y1daOTBB?oc=5",
    "pub": "Sat, 08 Aug 2026 09:48:00 GMT"
   },
@@ -102,11 +107,6 @@
    "t": "„Ein Rahmenabkommen ist offenbar erzielt worden“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVhiX2stX3IxR1I2bE9seUU5R1VCX2NEQjNVUnZsTzNOT25fdmZjWnJxUllQSjR5cUtDU3FId3Y4aGRQYnc1emhzQ0M1SjlENU9uV2ExOHJXbUREU2l2WjAtYjBQX0dQRG9vYndZa2Q0U3I5cWxrWUtJZ2ZxbFBuZnpRT2plR1FKOHI0N2VKMi04alVWamdiRkR2bUozTzdBQ3c5V04yNDNOaDNJVWFpRDlzNnlNeXJYUzE3NnVON2RjM05kbGFVUzdsaXc4U1lWSGt4bQ?oc=5",
    "pub": "Sat, 08 Aug 2026 08:53:08 GMT"
-  },
-  {
-   "t": "CNN-Bericht: US-Generalstabschef Caine sucht angeblich Ausweg aus Trumps Irankrieg - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3hKV0NYaE9wVlZwbXh1NzF5ZXdKaWN6TmRoNEY0RmlEcVVjUElYV29McUNDQVVxd1BtNEhEZjI2bTN5d1BvMWE1OXJNaUlzeFhmRjdON1FkYXBFd0J2WlVrMWJOc1o3eFg4N3B2WnU0WUlDUkRLM3ZKOTVtWDBEVENXQUVHdzJ3eURUd3NSaFF6X1JKY1I4X09sRGZmRkdlMjlzcXYyaWRYRERteGVCSTJwSXJYOXpaa3BsTms5MGl0WC1nbjFnZVpwdWxjaUt3ZnR3?oc=5",
-   "pub": "Sat, 08 Aug 2026 09:03:00 GMT"
   }
  ]
 }
