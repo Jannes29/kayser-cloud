@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-08T07:16:34Z",
+ "collected_at": "2026-08-08T08:03:30Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,14 @@
  },
  "headlines": [
   {
+   "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - berliner-zeitung.de",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjhERUowd0dkdlF1THExLUlvMnhFTS1YeC1kS3R3VTQ4Z3FLQy1WSHdRSzNrbV9WTFRTclljdk41THFRSnhyaFo4VGdQZ2pJcjlFZFU5TmRGRVJVLWtVMENmX01WaDJiM2RTVmdFZDlraHJaRWdQVjB3ZXNzZjJEV3pnWWc0bUtOblhtSS1fTFppbE4zOEI3aTd2ZzF2TnA4amdadWd3dFViRTlmUWxWU3YxX3VKTXFmYVpRUmc4QzZsbHdVdVQ2TUZpaW0xXzN0S0s4N003endmWnl0Q0xF?oc=5",
+   "pub": "Sat, 08 Aug 2026 06:18:23 GMT"
+  },
+  {
    "t": "(S+) Raketenmangel durch Irankrieg: Trump hat ein Munitionsproblem - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHN6NDJMWlhneDBZcEhrWF91d0ZmOWMyNjhJM21qNGVya3RET2JQVHRRU3dWT0J2dUE3VFpKUzVfSUJFeEQ2ZE4wR0pwVUhiUWpfTW4yUnhBR2tzSmdCdHRoU3U2bzhhZFBwZ3Z2TmR4Uy01TFVKOFg4RjZrVnJtR2tVcmh5RmU2N0hYckw1V0tvWkdxd2dJOThLeWoxdllXVlpzdklLY1pYM25YdzdTdjNhN09WLTY0bkE?oc=5",
    "pub": "Fri, 07 Aug 2026 11:22:00 GMT"
-  },
-  {
-   "t": "Dilemma im Iran-Krieg: Trumps oberster General sucht offenbar nach Ausweg abseits von Luftangriffen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjhERUowd0dkdlF1THExLUlvMnhFTS1YeC1kS3R3VTQ4Z3FLQy1WSHdRSzNrbV9WTFRTclljdk41THFRSnhyaFo4VGdQZ2pJcjlFZFU5TmRGRVJVLWtVMENmX01WaDJiM2RTVmdFZDlraHJaRWdQVjB3ZXNzZjJEV3pnWWc0bUtOblhtSS1fTFppbE4zOEI3aTd2ZzF2TnA4amdadWd3dFViRTlmUWxWU3YxX3VKTXFmYVpRUmc4QzZsbHdVdVQ2TUZpaW0xXzN0S0s4N003endmWnl0Q0xF?oc=5",
-   "pub": "Sat, 08 Aug 2026 06:18:23 GMT"
   },
   {
    "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
@@ -69,7 +69,7 @@
    "pub": "Sat, 08 Aug 2026 02:07:25 GMT"
   },
   {
-   "t": "Ohne Absprache: USA stützten Yen mit Euro-Abverkauf - orf.at",
+   "t": "Ohne Absprache: USA stützten Yen mit Euro-Abverkauf - ORF",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81RzZveEtIUm9VTE5hUUlXVXhzY195UE1tSkR3Mkd4WlJLSFphRDIzaF9fa0x5eUNJeEhvaUtKdk5hWmxrUWc?oc=5",
    "pub": "Fri, 07 Aug 2026 20:40:38 GMT"
   },
@@ -89,23 +89,23 @@
    "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
   },
   {
-   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
-   "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
+   "t": "US-Medien: Trump erwägt erneut Entlassung von Fed-Vorständin - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnZHSjZHVWxzZjdETkR1S3V5LTFaLWNCbEhXWEVnWjY0X1F2eERac1Rtc3MzQnRhaEY3WXhjbUswN1hFRWc2cDFOSkFuZHlwZzNsMmZNcHo2YjQwclhFekFXcVZFOGg0QmRZOEY5OWprY1RfN3ZfTm94N25LNGVhWjhRNlBxM1ZVMl9INWViblRaaXVIc1UxVzR5Y2NzTHZ0azdHZHFPd3FobFZ6dFhWd2pB?oc=5",
+   "pub": "Sat, 08 Aug 2026 07:59:27 GMT"
   },
   {
-   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - FAZ",
+   "t": "USA werfen Kuba vor, als Operationsbasis für China, Russland und Iran zu dienen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObk1tdlF2TXJ3b1hXZ2hvSVQ2NGNxaXN3ZkZETWllYmlGR3FHOElkSFFSV1pEMjlSdXNuOTl6dWZObmV3cHdzaEdEQ2dYNDMxWXVhRHNVVk5lamJZb3A0T0JlZ2dYV1dwREltUERpVTQ5ek9ETUdUUGduelhib1Q0US1xRGNOV2JDSWN3LTA3bF85UXNaRUxlMVpSYWVZRFBtRE1iU1lpMnpUbzNSYm5wWE1ETE04MWJtMzZJTHlDbWVHMWQxa2J3dnhIZW1GcE1QMG5zM0FNVi1YT2R1SVF1U053?oc=5",
+   "pub": "Sat, 08 Aug 2026 07:44:00 GMT"
+  },
+  {
+   "t": "Iran diktiert den USA Bedingungen zur Straße von Hormus - faz.net",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVlTRXotQndQYVFMWmNwbnctNlFsdWFraUpCSlg4dkJyQVR5UmZOOXppUThLdC1PMEl1VU03M0lJendhUEp3bUNjVmFua2NSdTUyQy1ybmV6RGJaTkt5d1B0c2tOREoyWUdUbzhmTVdCQ1JteXdnVE1heVFvQ2ZBNkxnVlU3TXoxNW5pQ0lWQ1ZVQ2UyQ0FjRXZNamd2Q3ptMjVhZllXQ29vQ0tkSnU3eERDbTJmdw?oc=5",
    "pub": "Fri, 07 Aug 2026 16:09:03 GMT"
   },
   {
-   "t": "Iran: Allianz von Saudi-Arabien Pakistan und Türkei - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcEpsUUVWRWRGTDRIUTVLWFRyUWhzSU9MdkVNU29LRG43VmIyVGhyTUJHNmlxMUpNMU1mc1RFbXExZFBGQ3NtMjF5OHM2QnczTVFzanJYZGk4MDdCVzVTaTVHRGY4cUR5cmZLWmJhVnlmZFV5RDY5VWRqNnVXSTRENlBYMlNkQ1AtOUVuWHVnMmQyYU1kNnNpOWx2bWZldV85S0JaNDc4RmwtRjd0RVZV?oc=5",
-   "pub": "Fri, 07 Aug 2026 16:09:42 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Wie die Drohungen von US-Präsident Trump ins Leere laufen - SWR",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDByY2dCVjV1QkZOSU1TRXNrMERvNFVmVjNvY3RPcEdhaU1iREs2bUtHT25HX0dnMThPVWZBTnJNQWVvZVhoejV1SFByVGh5SHFmZWFaOFZqZnQ1cGRCcy0yZ2FkY29fUTM0cmFSaDV6LWZDYVZjUEdpaEtfOXR3VndTMWwzOUYyMFY5VA?oc=5",
+   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
    "pub": "Wed, 05 Aug 2026 22:00:00 GMT"
   }
  ]
