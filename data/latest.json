@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T19:01:35Z",
+ "collected_at": "2026-08-09T19:49:06Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,16 +7,16 @@
    "chg1d_pct": -0.58
   },
   "USDJPY": {
-   "price": 157.745,
-   "chg1d_pct": -0.42
+   "price": 157.784,
+   "chg1d_pct": -0.39
   },
   "GBPCAD": {
-   "price": 1.8807,
-   "chg1d_pct": -0.25
+   "price": 1.8816,
+   "chg1d_pct": -0.2
   },
   "AUDJPY": {
-   "price": 111.52,
-   "chg1d_pct": 0.1
+   "price": 111.422,
+   "chg1d_pct": 0.01
   },
   "EURUSD": {
    "price": 1.1562,
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
@@ -74,12 +74,12 @@
    "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
   },
   {
-   "t": "Machtkampf um Hormus - Iran stellt Bedingungen für Öffnung der Strasse von Hormus - srf.ch",
+   "t": "Machtkampf um Hormus - Iran stellt Bedingungen für Öffnung der Strasse von Hormus - SRF",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzhaUjBrVUxXbjlUYmctVFVVYWtzcE43a18ySnhvZHRvdXJYTUJBV0FtbHhaWWVhNjRpd1NmQnZUSWVwaUZCNFRxLUZRdGstdW93VGZKVV9TWkNlcUZBSEE2RG9xSkhQeHpXRXp5cm41VVpUNWNiYkV0dm9mMm11VzJSZTFxQzV4eGNxaThfcGJLU0JXM21FSDZMUWsyR3JmakhEYUFQcjA2NC1zSVlHU1JEVXlDRU40Z2RDaFVUZGtmSmFv?oc=5",
    "pub": "Sun, 09 Aug 2026 12:43:13 GMT"
   },
   {
-   "t": "Iran tauscht obersten Sicherheitsberater aus | Krieg in Nahost - T-Online",
+   "t": "Krieg in Nahost: Iran tauscht obersten Sicherheitsberater aus - T-Online",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjhxWjFxbDZJNTVaY0lESm1KaTVhdThzZUFnWnRKX2R5cGRGU3FQVXJ5S1czQXM1TEFmYS1TWDdkdnMwWGZCcWRjOUc2MlpSUEZheV9oRDc0cE02QnF5VkQyT2tCRTVxd0xhZjBFaFB4bjVWangzYWFwRFpzY0xUTktFT1VfOGZid0huTWZsVnNhRzBvOUFZczVwN1FCMGFoSkZlSzZnV19SQ2pVckhWbEhuZy1lQ181TVRoWGNFQklPLS1zUmtodw?oc=5",
    "pub": "Sun, 09 Aug 2026 17:52:47 GMT"
   },
@@ -94,19 +94,19 @@
    "pub": "Sun, 09 Aug 2026 03:54:29 GMT"
   },
   {
-   "t": "**Öl-Schock im Nahen Osten: Tanker-Havarie trifft auf Iran-Krieg** - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE9qd2xYN1NOLW5TT3N0T2h1a29xNGFnV2UwS2h2V1U3RWhJRVMxcmtGQmo4dm1aRUplOEt4Qkl3VFE5akxLRm1hTDFkTkxzckZ1ek5hVHkyX2s0X0hvMnFWRDZXamFNbi1aVnI0UWd3Tkd1YlBuNGhvdG9HeWVBMUxOZ0cwSF9NaHlDbC1lOXdLR3Q3VjJMZGxlYkJHUkxJeWdaNG8wX3hXRkk?oc=5",
-   "pub": "Sun, 09 Aug 2026 05:43:45 GMT"
-  },
-  {
    "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQndYSWY1UV84eTl4eXRnNVhpQlNPZ2U2X2lwSjRQakVaUGh3aHBOR2JFVUU0MkVuUkFNQkIydGNLbFA5MDhLcUo4b1hWb3VRMG9WbzBXQkFtUE93Sk9NUU1teFYyaVlZUmE4R0x3ZzN0b3gxWUlLZF9ONFZuVGVJR2tGaUJoTUl1QUt3T2ZMamhzdw?oc=5",
    "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Teheran stellt harte Bedingungen für Öffnung der Straße von Hormus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
-   "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
+   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1ZGb1hvX3RLX2wzVFZPMWMwNzFzVW9WOHJjUFhqd1QxZm5HTEFiVlJWRlhZcFhNaGs2ZG1jUkpwdW9CTWR1OGRUS2NaWnJIUGNieVBlY2x6Q0RVMkxma3VocnpheHp3VjZWbnZCNHl5bXlEVlpsV1BFR1M3ZDl2dmJrZmkyVy1GbEwzWA?oc=5",
+   "pub": "Sun, 09 Aug 2026 19:11:04 GMT"
+  },
+  {
+   "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: „Halten uns zurück“ - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRjZVaEczcjVKVU4waWhoeWFEUFdiVVJ3T3F5Y2JWSHdyZFNlZFhYdG44UFpCZXBCamZyemdSdzNRd1lsV2EwU1EyblpwbW5iNDFfbkdrbWFDNXR2aDM0ZlpwOTNGZkdndS1fRDZnbGt2R25kX1JoYzA4Ry1kRS1tbUgzQk1RQmhFeS0yWWgyRk04QUtubE1DMEticUpEb0FlOWlMX3M3MkFFc295VmY5Q0RnVzRCYU5R?oc=5",
+   "pub": "Sun, 09 Aug 2026 19:28:21 GMT"
   }
  ]
 }
