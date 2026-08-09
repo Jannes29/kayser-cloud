@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T05:58:39Z",
+ "collected_at": "2026-08-09T07:17:30Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,17 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA - spiegel.de",
+   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
+  },
+  {
+   "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3Y2TEh5VERGZHFHMFN6Zy1HM3VrNWhKdFFCbDJrUDFJQWFMY2ZIaGZqLWlXVGhqNTcyTG9Xb3Q4T2ZHOTROZl9tUTZQZ0VqS0U3TzBsaDRBT3hDVTNGNnRLbDQ5UGZDUG5MNmR2QXBMcWFRQkx4T1VEVGlfblFMZGZlcGtqOUlj0gGIAUFVX3lxTE93QzRlaGo1Y3FMZmxtRUxLakp2aUo2LV9ZRVVkVkNnQl9aaVlDeTktX205QnJVMGktVkc3dEVzQkQxSFJDNWRGUWwyQjJUY0xaUGw2WGU5dlNNbVREM2ptMGl2QVNnV2RYaVNfZ2FOdEM3dmZNUnhTX3I1aUZqN2VOOHZGVDF3RHM?oc=5",
+   "pub": "Sat, 08 Aug 2026 23:41:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
    "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
   },
@@ -59,9 +69,19 @@
    "pub": "Sun, 09 Aug 2026 03:54:29 GMT"
   },
   {
-   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
-   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
+   "t": "**Öl-Schock im Nahen Osten: Tanker-Havarie trifft auf Iran-Krieg** - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcE9qd2xYN1NOLW5TT3N0T2h1a29xNGFnV2UwS2h2V1U3RWhJRVMxcmtGQmo4dm1aRUplOEt4Qkl3VFE5akxLRm1hTDFkTkxzckZ1ek5hVHkyX2s0X0hvMnFWRDZXamFNbi1aVnI0UWd3Tkd1YlBuNGhvdG9HeWVBMUxOZ0cwSF9NaHlDbC1lOXdLR3Q3VjJMZGxlYkJHUkxJeWdaNG8wX3hXRkk?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:42:40 GMT"
+  },
+  {
+   "t": "Iran stellt neue Bedingungen an die USA für eine Freigabe der Seeroute in der Straße von Hormus - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGZTZXeWdiYVE2bmdMNzBlYlhwazFIeDh5TThWaVhlMkRNb2RHa2hXY2QteTBQTXlNQzZlVVZaTWpvRTRha3RjVHhNNW1VREdvNU16WEgxbk00Vm9kMUQw?oc=5",
+   "pub": "Sun, 09 Aug 2026 07:06:58 GMT"
+  },
+  {
+   "t": "(m+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX2ZjZmI1UVByaEMweXRuTzcxSkVCU0xBQ0d4MlhncW5kLW9Ibi14eW9IU1RKM3BVZDB0Um9TR1BzQWJ6RVRYeldBbTFBbFVfMkRPT2FKd2Y0bUx3SnFDVTFsU2diOFVzanZ3TFdoVFp5cnJYbUFFbTA5N2R2UFZJN3F1SXFjUmNaS2ZyeFh1YzJZSDZyRWczWXAxVWd3UEhfNHR4N21YOGxqYjF3bENmZXpUcW5GRDA1Q2ppdXVNRjVoeTJMNnBZV2dxN1pGT3J3QWJBN1RR?oc=5",
+   "pub": "Sun, 09 Aug 2026 07:00:00 GMT"
   },
   {
    "t": "Straße von Hormus: Ein Deal, der einen neuen Nahen Osten schafft - DIE ZEIT",
@@ -69,44 +89,24 @@
    "pub": "Sat, 08 Aug 2026 10:23:27 GMT"
   },
   {
-   "t": "Schifffahrtsroute: Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXFJZXdZckNEaTVoYV80QXcxUzRWUXpmMWlpcGd1WURDQjVEUzhIR0xfMWVHRVdUUmtnbkhoX09pa01PUGRfZUJxSkhuRVd6NnJmRTdFenFqZ2RJOWl0UVE0V2EyNG5OUFo3S3l2TWhUM3FZM2Fra21RVEczenFENjhUV09sdG9NQ2x4NkkyNGZwSUVFNXIzc04xZ1dsLUloakVDSFFGb3ZWeW15T3Fya3R0V25xUWdEVHJPZjZubnRfVi1xLUhrMHBrNEdBMUZkY1V4SmdTZUdCc1BKX3haUEc1ckpjM01Td1M4?oc=5",
-   "pub": "Sat, 08 Aug 2026 13:35:24 GMT"
-  },
-  {
-   "t": "Iran stellt den USA neue Forderungen, die Washington nicht gefallen dürften - WEB.DE",
+   "t": "Iran stellt den USA neue Forderungen, die Washington nicht gefallen dürften - web.de",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUcxTTRpWTF2UVE1aG8tOFMwV2JUVEZqSkkxcmRDU1Y0OXV0cVlOUUl4ZTZ4LWZhZzZEMzNzdWpGOWlyaEFMalRseFE4Q0FmWjRMbnJxSHB3azV1bHpGT1dVT2wxQTZSS2pQMGt1dWlPWTJ4bHNOX3VJczF4V1kwT21PYURLUHM0eWpva3JSdE9vMVl3aHVoX0FEbnZmZ2Jt?oc=5",
    "pub": "Sun, 09 Aug 2026 04:42:43 GMT"
   },
   {
-   "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3Y2TEh5VERGZHFHMFN6Zy1HM3VrNWhKdFFCbDJrUDFJQWFMY2ZIaGZqLWlXVGhqNTcyTG9Xb3Q4T2ZHOTROZl9tUTZQZ0VqS0U3TzBsaDRBT3hDVTNGNnRLbDQ5UGZDUG5MNmR2QXBMcWFRQkx4T1VEVGlfblFMZGZlcGtqOUlj0gGIAUFVX3lxTE93QzRlaGo1Y3FMZmxtRUxLakp2aUo2LV9ZRVVkVkNnQl9aaVlDeTktX205QnJVMGktVkc3dEVzQkQxSFJDNWRGUWwyQjJUY0xaUGw2WGU5dlNNbVREM2ptMGl2QVNnV2RYaVNfZ2FOdEM3dmZNUnhTX3I1aUZqN2VOOHZGVDF3RHM?oc=5",
-   "pub": "Sat, 08 Aug 2026 17:56:29 GMT"
+   "t": "Schifffahrtsroute: Neue Spannungen in Hormus – Emirate werfen Iran Tanker-Angriff vor - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXFJZXdZckNEaTVoYV80QXcxUzRWUXpmMWlpcGd1WURDQjVEUzhIR0xfMWVHRVdUUmtnbkhoX09pa01PUGRfZUJxSkhuRVd6NnJmRTdFenFqZ2RJOWl0UVE0V2EyNG5OUFo3S3l2TWhUM3FZM2Fra21RVEczenFENjhUV09sdG9NQ2x4NkkyNGZwSUVFNXIzc04xZ1dsLUloakVDSFFGb3ZWeW15T3Fya3R0V25xUWdEVHJPZjZubnRfVi1xLUhrMHBrNEdBMUZkY1V4SmdTZUdCc1BKX3haUEc1ckpjM01Td1M4?oc=5",
+   "pub": "Sat, 08 Aug 2026 13:35:24 GMT"
   },
   {
    "t": "Nahost-Krieg aktuell: USA blockieren laut Iran Lebensmitteltransporte - T-Online",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmhMRXZXcWwybkIydDBsbUJoRDVtS0RLSnVJTU5CdDF6cFlLMVlheW9NVExteUtseFVyTTlGcXpoUmpVTk5mQXpNQW9GQTVyczRsZlpuRHkwZUYxdHhfck4yc3hSeFY0S2ZEN0lsbVBNWmhSMHdObktRTHk1aVpKQ2pqZTkyZW1SWnZlQXp3OUVMNzYxY0dENlNIZFc4X25pbzZsYl9UbFJ3RWRBdXBhU0tFYlpwQ1JWX2ZmTjVCMmdad011Z0JCVg?oc=5",
-   "pub": "Sun, 09 Aug 2026 04:07:22 GMT"
+   "pub": "Sun, 09 Aug 2026 07:07:22 GMT"
   },
   {
-   "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHMtUFVqdl9ESUhlLWFoLVM1TGJFS0FRQkVhWlM3ZW9yZVpWUTRCTkh3aDdMZkIzeFVkRVBxeEpOcGFsVU5QQThOaHZDbXhVaDNzSi0tbzcyay14bG4yWEV0OHo3ZUVnWGdneFJMLWlKbkRYNnpTTld5aUF3VHdjbjBtbWlYNTlON0ZIOG1ETFNQRGdXSzNiWGZ6T1BuQkdjQ3hKZTYzTEZSemF5YXZ4NGJWbEdwc2duTXU3THVWLVVuTEVHdnp1ZTVSNlVLUldTNnRqTjM1eWg?oc=5",
-   "pub": "Fri, 07 Aug 2026 10:07:00 GMT"
-  },
-  {
-   "t": "Offenbar einigen sich Oman und Iran bei Hormus-Konflikt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ZjhkMEcyRDJrM2pMc0ItV0JhVXpuVm1leWlOaTE5YnNPcjNCQ2h4aHpyemdxQUdqRzlmUUtRMk5CQy1aenRnaXpVYzNfVXlCbmxUdFROczE4WVRaSUlz?oc=5",
-   "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
-  },
-  {
-   "t": "Iran: Uno beobachtet Hinrichtungswelle im Schatten des Kriegs - spiegel.de",
+   "t": "Iran: Uno beobachtet Hinrichtungswelle im Schatten des Kriegs - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzl1cEtiVXlFNGthVHNiTFpiVEN6aE1hY193WkJmNGhUdjFsNHkwRXNqcWFLcE52SGhyaHRLQUo3MU1HU0ZKZ2o3NUZsdDMtVVljSlozUmQwcFJTZy1YQ2xrQ0xvY0l5WEluWTBQMXNsejl4SHkyT3VWZ1lnY3RrbE16VnBCOVVlWFBJbjNjS1R6akIzOV9LYzV4ZjFITGdObUlGa1ZKTkFXajVVTWNNd2lhT2FPTzhybjFPbmRoZElpV1I4Y1daOTBB?oc=5",
    "pub": "Sat, 08 Aug 2026 09:48:00 GMT"
-  },
-  {
-   "t": "Trump soll sich \"raushalten\": Iran fordert Entschädigung von USA für Öffnung der Straße von Hormus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1BkUzZzanRnZjBnSU1RMF9oMVgyc19jRmo1cmZoVHotelRDYWdaSzZ2UDA1bHpVQjdoZWtQNDZOb2NUWjhrVTI1YVEydlVQUTJzTFYxZV9ESEJJOHBjOTZoODNLYkVObWFQeWptVjE0WFFXSmJBeGdZTEZOcDNmNGZjcUkxTWw3V3ZDQ2Y0eGdtektmMXMtOGV0bVIza003MThfZXBXMVpYd3ZCbVRXN21kWkFlMmM?oc=5",
-   "pub": "Sat, 08 Aug 2026 14:24:24 GMT"
   }
  ]
 }
