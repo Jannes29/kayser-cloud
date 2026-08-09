@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-09T21:49:00Z",
+ "collected_at": "2026-08-09T22:50:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8068,
-   "chg1d_pct": -0.69
+   "price": 0.8082,
+   "chg1d_pct": -0.52
   },
   "USDJPY": {
-   "price": 157.653,
-   "chg1d_pct": -0.48
+   "price": 157.921,
+   "chg1d_pct": -0.31
   },
   "GBPCAD": {
-   "price": 1.8811,
-   "chg1d_pct": -0.23
+   "price": 1.8807,
+   "chg1d_pct": -0.25
   },
   "AUDJPY": {
-   "price": 111.34,
-   "chg1d_pct": -0.06
+   "price": 111.58,
+   "chg1d_pct": 0.15
   },
   "EURUSD": {
-   "price": 1.1563,
-   "chg1d_pct": 0.33
+   "price": 1.1559,
+   "chg1d_pct": 0.3
   },
   "GBPCHF": {
-   "price": 1.0889,
-   "chg1d_pct": -0.37
+   "price": 1.0901,
+   "chg1d_pct": -0.26
   },
   "WTI": {
-   "price": 78.18,
-   "chg1d_pct": 1.15
+   "price": 78.73,
+   "chg1d_pct": 0.7
   },
   "BRENT": {
-   "price": 83.55,
-   "chg1d_pct": 1.29
+   "price": 84.33,
+   "chg1d_pct": 0.93
   },
   "GOLD": {
-   "price": 4399.7,
-   "chg1d_pct": 3.72
+   "price": 4401.3,
+   "chg1d_pct": 1.4
   },
   "SPX_FUT": {
-   "price": 7779.75,
-   "chg1d_pct": 0.58
+   "price": 7768.75,
+   "chg1d_pct": -0.14
   },
   "NAS_FUT": {
-   "price": 29834.75,
-   "chg1d_pct": 1.18
+   "price": 29841.75,
+   "chg1d_pct": 0.02
   }
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
@@ -64,34 +64,9 @@
    "pub": "Sun, 09 Aug 2026 07:06:58 GMT"
   },
   {
-   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
+   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
    "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
-  },
-  {
-   "t": "Iran: Mohsen Resai übernimmt Vorsitz im Nationalen Sicherheitsrat - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lLV2EwOEZyUUplM0I0eFB5T2JINnNEemFpT2c1eFI0RDAwVGtVR1BuSGF6MFItVHljbHMtcURlMW1pU21DdnNqX19qVW5uYVRvYnVDeDdSaF9Qc2pwemdJNTRqa1ptRmJ1UlhQNmNZYTEtejRSNnhRWVd4SXpfQXVTN3poR18xQ1lLdUxDMDlFMVdSTXJvVmRqVGttMGRxZFlPTno5WF9HM3R1WmdCVnZxOUg2aGxOQWdDX3k2V09tUFFtWFItdXVrbEJORGZP?oc=5",
-   "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
-  },
-  {
-   "t": "Machtkampf um Hormus - Iran stellt Bedingungen für Öffnung der Strasse von Hormus - SRF",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzhaUjBrVUxXbjlUYmctVFVVYWtzcE43a18ySnhvZHRvdXJYTUJBV0FtbHhaWWVhNjRpd1NmQnZUSWVwaUZCNFRxLUZRdGstdW93VGZKVV9TWkNlcUZBSEE2RG9xSkhQeHpXRXp5cm41VVpUNWNiYkV0dm9mMm11VzJSZTFxQzV4eGNxaThfcGJLU0JXM21FSDZMUWsyR3JmakhEYUFQcjA2NC1zSVlHU1JEVXlDRU40Z2RDaFVUZGtmSmFv?oc=5",
-   "pub": "Sun, 09 Aug 2026 12:43:13 GMT"
-  },
-  {
-   "t": "Diplomatie ohne Durchbruch: Trump gibt sich gelassen +++ Iran tauscht obersten Sicherheitsberater aus - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQk1NSEVFdW5uV1BCU1IzT213dW9NcXFpRUxNTTRGSmFCX2NscTk5VFhQYzBzcm1kTVM1SnQ1aktVemQ4OTllSmRIYkFobm1aeXlmUXRKOEMzUzh5dE1uaFRKWll1SGE0WmRvaGtheEtrSERVX2RYXzBza0xpMU5PZFRHY3FZVTlhRlZUWFdiMEZQNEFMdzVVOEpiRVdHZldjdmRWTEhXOEhWdkxrcEU3Tmw5aFNfdEFINjh0LVVScUdHcGNzeVNqa08xQk02dU1LVnc?oc=5",
-   "pub": "Sun, 09 Aug 2026 19:28:41 GMT"
-  },
-  {
-   "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: \"Halten uns zurück\" - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGlCZ0JZVDFQTmtMWUZoUlBmSUk4S21JU05xcV8wQmNYYkdyRllhSHhBVFpCcFlfYWU2eENUWjJsS0NTTm9rcC03RlhCb0pyVTJ1TXZmRkZKSVRZSkF1V3lHaTFXREd6MVNIQnQwTjY1dEhWYlR5Q05NbFlYb01sUGdVbW5kdG00bHU4LUowa2Q1aUdPcHRlWnpn?oc=5",
-   "pub": "Sun, 09 Aug 2026 20:24:36 GMT"
-  },
-  {
-   "t": "Iran tauscht obersten Sicherheitsberater aus | Krieg in Nahost - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjhxWjFxbDZJNTVaY0lESm1KaTVhdThzZUFnWnRKX2R5cGRGU3FQVXJ5S1czQXM1TEFmYS1TWDdkdnMwWGZCcWRjOUc2MlpSUEZheV9oRDc0cE02QnF5VkQyT2tCRTVxd0xhZjBFaFB4bjVWangzYWFwRFpzY0xUTktFT1VfOGZid0huTWZsVnNhRzBvOUFZczVwN1FCMGFoSkZlSzZnV19SQ2pVckhWbEhuZy1lQ181TVRoWGNFQklPLS1zUmtodw?oc=5",
-   "pub": "Sun, 09 Aug 2026 17:52:47 GMT"
   },
   {
    "t": "(S+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Spiegel",
@@ -99,14 +74,39 @@
    "pub": "Sun, 09 Aug 2026 18:01:00 GMT"
   },
   {
+   "t": "Machtkampf um Hormus - Iran stellt Bedingungen für Öffnung der Strasse von Hormus - SRF",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzhaUjBrVUxXbjlUYmctVFVVYWtzcE43a18ySnhvZHRvdXJYTUJBV0FtbHhaWWVhNjRpd1NmQnZUSWVwaUZCNFRxLUZRdGstdW93VGZKVV9TWkNlcUZBSEE2RG9xSkhQeHpXRXp5cm41VVpUNWNiYkV0dm9mMm11VzJSZTFxQzV4eGNxaThfcGJLU0JXM21FSDZMUWsyR3JmakhEYUFQcjA2NC1zSVlHU1JEVXlDRU40Z2RDaFVUZGtmSmFv?oc=5",
+   "pub": "Sun, 09 Aug 2026 12:43:13 GMT"
+  },
+  {
+   "t": "Das Abkommen von Mekka: Ein folgenreicher Schwur als Konsequenz des Iran-Kriegs - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnZPSHFQb0V4ek5jWUZTS3Y0NlVvWE1WcEU0eUw3Ylo2Uko1eGlsNFlzSTdWSjRkTVZDX2thWVpvTWh1Rkh5cTQxOHA5RkhvdkRnTkRINExGbk5maDlGQ1Blb1NNNWFKSTUwWkw1ajNDNE43RUwxcFZ1OUJPNGVxT0laT0hwd2I3Y1k1T3B3VjZjaVNWUWdObWFHLVFrQkZKRzI1YjdvVVRrbG4wa3NBUlN6d04telNhODJmQ1Zmd2p3QQ?oc=5",
+   "pub": "Sun, 09 Aug 2026 19:08:00 GMT"
+  },
+  {
+   "t": "„Wir verhandeln nur halb mit dem Iran“, gibt Trump zu – Teheran vollzieht wichtigen Personalwechsel - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZVVYOGNBNnh5cXhVZzZ1Sndtd1JnNzZkcHJIZmVWc0JGZ3YtV0JFdUQ4ME1aXzE4clZ6Nzh1bE5JeGN3VGlFSHpzUWxEZ2FlOGY3eUY4TC0tWGN5QW9wV3hhcUFNQVRsUDdZdkxsLUF3b1h3UEJIT21vZXZDMENwb2tDZURRZVZwYWFRMVotU1g4SGhEbC1HQXd0SVcyNFIza2tvekFJYzZrODNGREtwX3dHY3BUNDdjSlFTWm5mUEVNcUhJYktfVTdqdVdqTHc0Y3c5QzdTcFpiUjJVOWNsVjRB?oc=5",
+   "pub": "Sun, 09 Aug 2026 22:00:41 GMT"
+  },
+  {
+   "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: \"Halten uns zurück\" - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGlCZ0JZVDFQTmtMWUZoUlBmSUk4S21JU05xcV8wQmNYYkdyRllhSHhBVFpCcFlfYWU2eENUWjJsS0NTTm9rcC03RlhCb0pyVTJ1TXZmRkZKSVRZSkF1V3lHaTFXREd6MVNIQnQwTjY1dEhWYlR5Q05NbFlYb01sUGdVbW5kdG00bHU4LUowa2Q1aUdPcHRlWnpn?oc=5",
+   "pub": "Sun, 09 Aug 2026 20:24:36 GMT"
+  },
+  {
+   "t": "Iran: Mohsen Resai übernimmt Vorsitz im Nationalen Sicherheitsrat - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lLV2EwOEZyUUplM0I0eFB5T2JINnNEemFpT2c1eFI0RDAwVGtVR1BuSGF6MFItVHljbHMtcURlMW1pU21DdnNqX19qVW5uYVRvYnVDeDdSaF9Qc2pwemdJNTRqa1ptRmJ1UlhQNmNZYTEtejRSNnhRWVd4SXpfQXVTN3poR18xQ1lLdUxDMDlFMVdSTXJvVmRqVGttMGRxZFlPTno5WF9HM3R1WmdCVnZxOUg2aGxOQWdDX3k2V09tUFFtWFItdXVrbEJORGZP?oc=5",
+   "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
+  },
+  {
+   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
+   "pub": "Sun, 09 Aug 2026 22:04:13 GMT"
+  },
+  {
    "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQndYSWY1UV84eTl4eXRnNVhpQlNPZ2U2X2lwSjRQakVaUGh3aHBOR2JFVUU0MkVuUkFNQkIydGNLbFA5MDhLcUo4b1hWb3VRMG9WbzBXQkFtUE93Sk9NUU1teFYyaVlZUmE4R0x3ZzN0b3gxWUlLZF9ONFZuVGVJR2tGaUJoTUl1QUt3T2ZMamhzdw?oc=5",
    "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
-  },
-  {
-   "t": "Iran tauscht obersten Sicherheitsberater aus - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHVZdHQwaERxZk9ST1hvVWc1UzE5Qll3NDJ4UnkwcG9aUVRRNF9fa2M3ZE5rQUZQb0VfLU5PdEhDaG03eVk1cHRDUUphd1RFbnh4LXBfZEk5WjhIZFMzV1cxd0ZudzVqQ1J1WEFVenV1UjJfQmlYQVNiSEk1TXFFZnBLUTQ5UHk4d0U3d0RYdDdib0xELVNocmxzR1U?oc=5",
-   "pub": "Sun, 09 Aug 2026 19:46:27 GMT"
   }
  ]
 }
