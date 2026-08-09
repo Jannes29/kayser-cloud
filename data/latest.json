@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T04:37:45Z",
+ "collected_at": "2026-08-09T05:58:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,9 +49,19 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA - Spiegel",
+   "t": "Straße von Hormus: Iran veröffentlicht Forderungskatalog an die USA - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
    "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
+  },
+  {
+   "t": "Öffnung der Straße von Hormus: Iran hat neue Forderungen an die USA - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1OU2pQQldONnFHbHowNTV4TTNudGNsaUl6cFVBTk9XRXJpbjMtMzBqNndncDJ5VDZqN0NhZjBrRXpYMzRXNXMtc1lzX2lNblljcVZUcVZvT2gza3VXV3pQQ1FzWDZDOW5ZSlRDakVvUlgzMTdMNjVqdi1aV0N1bjNMTDdrTzg?oc=5",
+   "pub": "Sun, 09 Aug 2026 03:54:29 GMT"
+  },
+  {
+   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
   },
   {
    "t": "Straße von Hormus: Ein Deal, der einen neuen Nahen Osten schafft - DIE ZEIT",
@@ -64,14 +74,19 @@
    "pub": "Sat, 08 Aug 2026 13:35:24 GMT"
   },
   {
+   "t": "Iran stellt den USA neue Forderungen, die Washington nicht gefallen dürften - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUcxTTRpWTF2UVE1aG8tOFMwV2JUVEZqSkkxcmRDU1Y0OXV0cVlOUUl4ZTZ4LWZhZzZEMzNzdWpGOWlyaEFMalRseFE4Q0FmWjRMbnJxSHB3azV1bHpGT1dVT2wxQTZSS2pQMGt1dWlPWTJ4bHNOX3VJczF4V1kwT21PYURLUHM0eWpva3JSdE9vMVl3aHVoX0FEbnZmZ2Jt?oc=5",
+   "pub": "Sun, 09 Aug 2026 04:42:43 GMT"
+  },
+  {
    "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - DW.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3Y2TEh5VERGZHFHMFN6Zy1HM3VrNWhKdFFCbDJrUDFJQWFMY2ZIaGZqLWlXVGhqNTcyTG9Xb3Q4T2ZHOTROZl9tUTZQZ0VqS0U3TzBsaDRBT3hDVTNGNnRLbDQ5UGZDUG5MNmR2QXBMcWFRQkx4T1VEVGlfblFMZGZlcGtqOUlj0gGIAUFVX3lxTE93QzRlaGo1Y3FMZmxtRUxLakp2aUo2LV9ZRVVkVkNnQl9aaVlDeTktX205QnJVMGktVkc3dEVzQkQxSFJDNWRGUWwyQjJUY0xaUGw2WGU5dlNNbVREM2ptMGl2QVNnV2RYaVNfZ2FOdEM3dmZNUnhTX3I1aUZqN2VOOHZGVDF3RHM?oc=5",
    "pub": "Sat, 08 Aug 2026 17:56:29 GMT"
   },
   {
-   "t": "Trump soll sich \"raushalten\": Iran fordert Entschädigung von USA für Öffnung der Straße von Hormus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1BkUzZzanRnZjBnSU1RMF9oMVgyc19jRmo1cmZoVHotelRDYWdaSzZ2UDA1bHpVQjdoZWtQNDZOb2NUWjhrVTI1YVEydlVQUTJzTFYxZV9ESEJJOHBjOTZoODNLYkVObWFQeWptVjE0WFFXSmJBeGdZTEZOcDNmNGZjcUkxTWw3V3ZDQ2Y0eGdtektmMXMtOGV0bVIza003MThfZXBXMVpYd3ZCbVRXN21kWkFlMmM?oc=5",
-   "pub": "Sat, 08 Aug 2026 14:24:24 GMT"
+   "t": "Nahost-Krieg aktuell: USA blockieren laut Iran Lebensmitteltransporte - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmhMRXZXcWwybkIydDBsbUJoRDVtS0RLSnVJTU5CdDF6cFlLMVlheW9NVExteUtseFVyTTlGcXpoUmpVTk5mQXpNQW9GQTVyczRsZlpuRHkwZUYxdHhfck4yc3hSeFY0S2ZEN0lsbVBNWmhSMHdObktRTHk1aVpKQ2pqZTkyZW1SWnZlQXp3OUVMNzYxY0dENlNIZFc4X25pbzZsYl9UbFJ3RWRBdXBhU0tFYlpwQ1JWX2ZmTjVCMmdad011Z0JCVg?oc=5",
+   "pub": "Sun, 09 Aug 2026 04:07:22 GMT"
   },
   {
    "t": "Yen: USA informierten EZB erst nach Stützung über Euro-Verkauf - Manager Magazin",
@@ -84,29 +99,14 @@
    "pub": "Thu, 06 Aug 2026 08:40:11 GMT"
   },
   {
-   "t": "Iran-Krieg: Iran stellt neue Forderungen an USA zur Straße von Hormus - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWlyU3Y5cXZtTnlRb1g0WmFKMU01T05jNkJhQ09Da0lITUhHX3ZuX1dCUEhHc1pSZWZVaWNnTlpZMXhobi1FLUM2YldTT3AxdmxXZFVUV1N0VHVzNm5pZXliLURxYXJhaFNzWXo2cHlTMG9vMFV1SFM1UTgyRWZ0VFZzeVRTOXBHM09Rc1l4bXdod0c4bnhZaDlhSnE2ZVpqa0JDTDliWjdxVFMzRmpYRTBSMl83R0hmZzBROUhBbUl1N3hpUEE?oc=5",
-   "pub": "Sun, 09 Aug 2026 02:17:20 GMT"
-  },
-  {
-   "t": "Iran versteckt erste russische Su-35 in Bunkern - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5memJoNlk2UmM5akNpRFNIRmdHZlM5b3M2QjhjMzZNM2l5ZXZXblVYMEFnckdXQnZQbFZqSHJYck11bEF5N1NDNTg5Y0xoOHBiaFMtUjd2YjVCUUt3cVRvdjJwYXVsTExWMHZyYVp1bUNxTjNTUHNfRQ?oc=5",
-   "pub": "Thu, 06 Aug 2026 15:26:12 GMT"
-  },
-  {
-   "t": "Iran: Uno beobachtet Hinrichtungswelle im Schatten des Kriegs - Spiegel",
+   "t": "Iran: Uno beobachtet Hinrichtungswelle im Schatten des Kriegs - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzl1cEtiVXlFNGthVHNiTFpiVEN6aE1hY193WkJmNGhUdjFsNHkwRXNqcWFLcE52SGhyaHRLQUo3MU1HU0ZKZ2o3NUZsdDMtVVljSlozUmQwcFJTZy1YQ2xrQ0xvY0l5WEluWTBQMXNsejl4SHkyT3VWZ1lnY3RrbE16VnBCOVVlWFBJbjNjS1R6akIzOV9LYzV4ZjFITGdObUlGa1ZKTkFXajVVTWNNd2lhT2FPTzhybjFPbmRoZElpV1I4Y1daOTBB?oc=5",
    "pub": "Sat, 08 Aug 2026 09:48:00 GMT"
   },
   {
-   "t": "„Ein Rahmenabkommen ist offenbar erzielt worden“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVhiX2stX3IxR1I2bE9seUU5R1VCX2NEQjNVUnZsTzNOT25fdmZjWnJxUllQSjR5cUtDU3FId3Y4aGRQYnc1emhzQ0M1SjlENU9uV2ExOHJXbUREU2l2WjAtYjBQX0dQRG9vYndZa2Q0U3I5cWxrWUtJZ2ZxbFBuZnpRT2plR1FKOHI0N2VKMi04alVWamdiRkR2bUozTzdBQ3c5V04yNDNOaDNJVWFpRDlzNnlNeXJYUzE3NnVON2RjM05kbGFVUzdsaXc4U1lWSGt4bQ?oc=5",
-   "pub": "Sat, 08 Aug 2026 08:53:08 GMT"
-  },
-  {
-   "t": "CNN-Bericht: US-Generalstabschef Caine sucht angeblich Ausweg aus Trumps Irankrieg - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3hKV0NYaE9wVlZwbXh1NzF5ZXdKaWN6TmRoNEY0RmlEcVVjUElYV29McUNDQVVxd1BtNEhEZjI2bTN5d1BvMWE1OXJNaUlzeFhmRjdON1FkYXBFd0J2WlVrMWJOc1o3eFg4N3B2WnU0WUlDUkRLM3ZKOTVtWDBEVENXQUVHdzJ3eURUd3NSaFF6X1JKY1I4X09sRGZmRkdlMjlzcXYyaWRYRERteGVCSTJwSXJYOXpaa3BsTms5MGl0WC1nbjFnZVpwdWxjaUt3ZnR3?oc=5",
-   "pub": "Sat, 08 Aug 2026 09:03:00 GMT"
+   "t": "Trump soll sich \"raushalten\": Iran fordert Entschädigung von USA für Öffnung der Straße von Hormus - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1BkUzZzanRnZjBnSU1RMF9oMVgyc19jRmo1cmZoVHotelRDYWdaSzZ2UDA1bHpVQjdoZWtQNDZOb2NUWjhrVTI1YVEydlVQUTJzTFYxZV9ESEJJOHBjOTZoODNLYkVObWFQeWptVjE0WFFXSmJBeGdZTEZOcDNmNGZjcUkxTWw3V3ZDQ2Y0eGdtektmMXMtOGV0bVIza003MThfZXBXMVpYd3ZCbVRXN21kWkFlMmM?oc=5",
+   "pub": "Sat, 08 Aug 2026 14:24:24 GMT"
   }
  ]
 }
