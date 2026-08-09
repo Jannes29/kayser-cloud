@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-09T22:50:58Z",
+ "collected_at": "2026-08-09T23:47:46Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8082,
-   "chg1d_pct": -0.52
+   "price": 0.8081,
+   "chg1d_pct": -0.53
   },
   "USDJPY": {
-   "price": 157.921,
-   "chg1d_pct": -0.31
+   "price": 157.893,
+   "chg1d_pct": -0.33
   },
   "GBPCAD": {
-   "price": 1.8807,
-   "chg1d_pct": -0.25
+   "price": 1.8819,
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
-   "price": 111.58,
-   "chg1d_pct": 0.15
+   "price": 111.544,
+   "chg1d_pct": 0.12
   },
   "EURUSD": {
-   "price": 1.1559,
-   "chg1d_pct": 0.3
+   "price": 1.1561,
+   "chg1d_pct": 0.31
   },
   "GBPCHF": {
    "price": 1.0901,
    "chg1d_pct": -0.26
   },
   "WTI": {
-   "price": 78.73,
-   "chg1d_pct": 0.7
+   "price": 78.75,
+   "chg1d_pct": 0.73
   },
   "BRENT": {
-   "price": 84.33,
-   "chg1d_pct": 0.93
+   "price": 84.3,
+   "chg1d_pct": 0.9
   },
   "GOLD": {
-   "price": 4401.3,
-   "chg1d_pct": 1.4
+   "price": 4401.0,
+   "chg1d_pct": 1.39
   },
   "SPX_FUT": {
-   "price": 7768.75,
-   "chg1d_pct": -0.14
+   "price": 7769.5,
+   "chg1d_pct": -0.13
   },
   "NAS_FUT": {
-   "price": 29841.75,
-   "chg1d_pct": 0.02
+   "price": 29849.75,
+   "chg1d_pct": 0.05
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
+  },
+  {
+   "t": "„Wir verhandeln nur halb mit dem Iran“, gibt Trump zu – Teheran vollzieht wichtigen Personalwechsel - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZVVYOGNBNnh5cXhVZzZ1Sndtd1JnNzZkcHJIZmVWc0JGZ3YtV0JFdUQ4ME1aXzE4clZ6Nzh1bE5JeGN3VGlFSHpzUWxEZ2FlOGY3eUY4TC0tWGN5QW9wV3hhcUFNQVRsUDdZdkxsLUF3b1h3UEJIT21vZXZDMENwb2tDZURRZVZwYWFRMVotU1g4SGhEbC1HQXd0SVcyNFIza2tvekFJYzZrODNGREtwX3dHY3BUNDdjSlFTWm5mUEVNcUhJYktfVTdqdVdqTHc0Y3c5QzdTcFpiUjJVOWNsVjRB?oc=5",
+   "pub": "Sun, 09 Aug 2026 22:00:41 GMT"
   },
   {
    "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - dw.com",
@@ -84,9 +89,9 @@
    "pub": "Sun, 09 Aug 2026 19:08:00 GMT"
   },
   {
-   "t": "„Wir verhandeln nur halb mit dem Iran“, gibt Trump zu – Teheran vollzieht wichtigen Personalwechsel - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZVVYOGNBNnh5cXhVZzZ1Sndtd1JnNzZkcHJIZmVWc0JGZ3YtV0JFdUQ4ME1aXzE4clZ6Nzh1bE5JeGN3VGlFSHpzUWxEZ2FlOGY3eUY4TC0tWGN5QW9wV3hhcUFNQVRsUDdZdkxsLUF3b1h3UEJIT21vZXZDMENwb2tDZURRZVZwYWFRMVotU1g4SGhEbC1HQXd0SVcyNFIza2tvekFJYzZrODNGREtwX3dHY3BUNDdjSlFTWm5mUEVNcUhJYktfVTdqdVdqTHc0Y3c5QzdTcFpiUjJVOWNsVjRB?oc=5",
-   "pub": "Sun, 09 Aug 2026 22:00:41 GMT"
+   "t": "Krieg in Nahost: Iran tauscht obersten Sicherheitsberater aus - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjhxWjFxbDZJNTVaY0lESm1KaTVhdThzZUFnWnRKX2R5cGRGU3FQVXJ5S1czQXM1TEFmYS1TWDdkdnMwWGZCcWRjOUc2MlpSUEZheV9oRDc0cE02QnF5VkQyT2tCRTVxd0xhZjBFaFB4bjVWangzYWFwRFpzY0xUTktFT1VfOGZid0huTWZsVnNhRzBvOUFZczVwN1FCMGFoSkZlSzZnV19SQ2pVckhWbEhuZy1lQ181TVRoWGNFQklPLS1zUmtodw?oc=5",
+   "pub": "Sun, 09 Aug 2026 17:52:47 GMT"
   },
   {
    "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: \"Halten uns zurück\" - WEB.DE",
@@ -102,11 +107,6 @@
    "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
    "pub": "Sun, 09 Aug 2026 22:04:13 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQndYSWY1UV84eTl4eXRnNVhpQlNPZ2U2X2lwSjRQakVaUGh3aHBOR2JFVUU0MkVuUkFNQkIydGNLbFA5MDhLcUo4b1hWb3VRMG9WbzBXQkFtUE93Sk9NUU1teFYyaVlZUmE4R0x3ZzN0b3gxWUlLZF9ONFZuVGVJR2tGaUJoTUl1QUt3T2ZMamhzdw?oc=5",
-   "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
   }
  ]
 }
