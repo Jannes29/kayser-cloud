@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T14:53:08Z",
+ "collected_at": "2026-08-09T15:47:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
@@ -69,19 +69,19 @@
    "pub": "Sun, 09 Aug 2026 05:03:27 GMT"
   },
   {
-   "t": "Strasse von Hormus: Iran stellt Forderungen an die USA - srf.ch",
+   "t": "Strasse von Hormus: Iran stellt Forderungen an die USA - SRF",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzhaUjBrVUxXbjlUYmctVFVVYWtzcE43a18ySnhvZHRvdXJYTUJBV0FtbHhaWWVhNjRpd1NmQnZUSWVwaUZCNFRxLUZRdGstdW93VGZKVV9TWkNlcUZBSEE2RG9xSkhQeHpXRXp5cm41VVpUNWNiYkV0dm9mMm11VzJSZTFxQzV4eGNxaThfcGJLU0JXM21FSDZMUWsyR3JmakhEYUFQcjA2NC1zSVlHU1JEVXlDRU40Z2RDaFVUZGtmSmFv?oc=5",
    "pub": "Sun, 09 Aug 2026 12:43:13 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Teheran stellt harte Bedingungen für Öffnung der Straße von Hormus - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
-   "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
   },
   {
    "t": "Öffnung der Straße von Hormus: Iran hat neue Forderungen an die USA - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1OU2pQQldONnFHbHowNTV4TTNudGNsaUl6cFVBTk9XRXJpbjMtMzBqNndncDJ5VDZqN0NhZjBrRXpYMzRXNXMtc1lzX2lNblljcVZUcVZvT2gza3VXV3pQQ1FzWDZDOW5ZSlRDakVvUlgzMTdMNjVqdi1aV0N1bjNMTDdrTzg?oc=5",
    "pub": "Sun, 09 Aug 2026 03:54:29 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Teheran stellt harte Bedingungen für Öffnung der Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
+   "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
   },
   {
    "t": "(m+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Manager Magazin",
@@ -94,9 +94,9 @@
    "pub": "Sun, 09 Aug 2026 05:43:45 GMT"
   },
   {
-   "t": "„Die beste Route führt durch Israel“: Saudi-Arabien plant mit Irans Erzfeind ein Geheimprojekt in der Öl-Krise - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1lUeEoyTldLSEdudFZZM3ZlRzF0RmpaTXoxT3FtS2VoaG5VSkNYcG1pSHgwQmZ1eGZySDNxTWhBTU5HYkpDZFZKM28wU3pZbUJIUFdfOS05YVVhQWdXcnJXU1VKZWtVZENsQkZEb1I2bWE0eUJWVFhzNEdQeUlOb2xpby0xYWsySVdhelhHY21RQU42dnRPUzB3emtDNGNiZHd5V21IajhDdw?oc=5",
-   "pub": "Sun, 09 Aug 2026 04:32:22 GMT"
+   "t": "Gaza-Streifen: Netanjahu lehnt Trumps 15-Punkte-Plan ab - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDNpbTNqTWFRMmJGamVudVpCU2Q3WmJpYmVsaUFPb1hTa1lsVGFCbnhURTU4Q3h6MUdWal9MdUtMYkR1Z2RFcTE2TFRfZ2ZTWlNIanVPZVdvRndKb2h2dnE5dnNTRWJJMUVUczZMdVZXcnVOU0htelZySTVBUEo2elFPaHFfZ0Q0REV1MTRtcUxWVHJRSk82Q2FCaGg0LVdIV2h2YjBfMFBydGlXVjhITUlmdG41UWQ4UnNYc2NuRQ?oc=5",
+   "pub": "Sun, 09 Aug 2026 12:08:43 GMT"
   },
   {
    "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
@@ -105,7 +105,7 @@
   },
   {
    "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmc?oc=5",
    "pub": "Sun, 09 Aug 2026 09:22:09 GMT"
   }
  ]
