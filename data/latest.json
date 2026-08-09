@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T09:57:21Z",
+ "collected_at": "2026-08-09T10:53:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,14 +54,14 @@
    "pub": "Sun, 09 Aug 2026 07:06:58 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQndYSWY1UV84eTl4eXRnNVhpQlNPZ2U2X2lwSjRQakVaUGh3aHBOR2JFVUU0MkVuUkFNQkIydGNLbFA5MDhLcUo4b1hWb3VRMG9WbzBXQkFtUE93Sk9NUU1teFYyaVlZUmE4R0x3ZzN0b3gxWUlLZF9ONFZuVGVJR2tGaUJoTUl1QUt3T2ZMamhzdw?oc=5",
-   "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
+   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
   },
   {
    "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - DW.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3Y2TEh5VERGZHFHMFN6Zy1HM3VrNWhKdFFCbDJrUDFJQWFMY2ZIaGZqLWlXVGhqNTcyTG9Xb3Q4T2ZHOTROZl9tUTZQZ0VqS0U3TzBsaDRBT3hDVTNGNnRLbDQ5UGZDUG5MNmR2QXBMcWFRQkx4T1VEVGlfblFMZGZlcGtqOUlj0gGIAUFVX3lxTE93QzRlaGo1Y3FMZmxtRUxLakp2aUo2LV9ZRVVkVkNnQl9aaVlDeTktX205QnJVMGktVkc3dEVzQkQxSFJDNWRGUWwyQjJUY0xaUGw2WGU5dlNNbVREM2ptMGl2QVNnV2RYaVNfZ2FOdEM3dmZNUnhTX3I1aUZqN2VOOHZGVDF3RHM?oc=5",
-   "pub": "Sat, 08 Aug 2026 23:41:00 GMT"
+   "pub": "Sun, 09 Aug 2026 02:07:18 GMT"
   },
   {
    "t": "Iran-Krieg: Teheran stellt harte Bedingungen für Öffnung der Straße von Hormus - Spiegel",
@@ -79,11 +79,6 @@
    "pub": "Sun, 09 Aug 2026 05:43:45 GMT"
   },
   {
-   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
-   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
-  },
-  {
    "t": "(m+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX2ZjZmI1UVByaEMweXRuTzcxSkVCU0xBQ0d4MlhncW5kLW9Ibi14eW9IU1RKM3BVZDB0Um9TR1BzQWJ6RVRYeldBbTFBbFVfMkRPT2FKd2Y0bUx3SnFDVTFsU2diOFVzanZ3TFdoVFp5cnJYbUFFbTA5N2R2UFZJN3F1SXFjUmNaS2ZyeFh1YzJZSDZyRWczWXAxVWd3UEhfNHR4N21YOGxqYjF3bENmZXpUcW5GRDA1Q2ppdXVNRjVoeTJMNnBZV2dxN1pGT3J3QWJBN1RR?oc=5",
    "pub": "Sun, 09 Aug 2026 07:00:00 GMT"
@@ -96,17 +91,22 @@
   {
    "t": "Liveticker zum Iran-Krieg: Trump: Iran stellt neue Forderungen an USA zur Straße von Hormus - RND.de",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbG95c29KY3k2WE51d0Zxb3h5VURnLWs5bTI2WnFHSTNxTTZlVUlrNGlxSGVuNVE2cW5wT0ZZQjF4MHBHRFBMbXVYQVNzVHpuSkx0R1U1SXR4R1Myb2lBeFdLeFFnbXJ0N1IzRUs3SS1JRG1OcS1CMWRiWXF5OXEzbzFlTEVrVFFORFZydDl0SjNQMUh4eW5iSXJvNUMwaXNGQmVEc3hqNGtUTEF4XzRzSVZpQmYta2FJbjVia1hWTkk1Y0pqU3dMYVh0cFZILWxxOEhPN0Q5aDBnMmp2UVVwcU1TNA?oc=5",
-   "pub": "Sun, 09 Aug 2026 07:55:53 GMT"
+   "pub": "Sun, 09 Aug 2026 08:06:36 GMT"
   },
   {
-   "t": "Nahost-Krieg aktuell: USA blockieren laut Iran Lebensmitteltransporte - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmhMRXZXcWwybkIydDBsbUJoRDVtS0RLSnVJTU5CdDF6cFlLMVlheW9NVExteUtseFVyTTlGcXpoUmpVTk5mQXpNQW9GQTVyczRsZlpuRHkwZUYxdHhfck4yc3hSeFY0S2ZEN0lsbVBNWmhSMHdObktRTHk1aVpKQ2pqZTkyZW1SWnZlQXp3OUVMNzYxY0dENlNIZFc4X25pbzZsYl9UbFJ3RWRBdXBhU0tFYlpwQ1JWX2ZmTjVCMmdad011Z0JCVg?oc=5",
-   "pub": "Sun, 09 Aug 2026 04:07:22 GMT"
+   "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQndYSWY1UV84eTl4eXRnNVhpQlNPZ2U2X2lwSjRQakVaUGh3aHBOR2JFVUU0MkVuUkFNQkIydGNLbFA5MDhLcUo4b1hWb3VRMG9WbzBXQkFtUE93Sk9NUU1teFYyaVlZUmE4R0x3ZzN0b3gxWUlLZF9ONFZuVGVJR2tGaUJoTUl1QUt3T2ZMamhzdw?oc=5",
+   "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Ein Deal, der einen neuen Nahen Osten schafft - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczRselVZZENmdHQ5ejc4UWc4VV9Oa3BoWE1Kb244WkRybERtTGZxTGticXNwWm9peVpwV25jR3hYeUkxQXpWYW5XcVJudHJfYm5jUU1MYzZISHBCS1Q4MFdHY2EtWWdMeTlVMFpIX1lOa0ZHY0l4ZThtLWNzTVdRdTZvSVdyQQ?oc=5",
-   "pub": "Sat, 08 Aug 2026 10:23:27 GMT"
+   "t": "David Barnea: Ex-Mossad-Chef heuert bei einem Rüstungskonzern an - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUUhTaEhvMzZzSFpydVBrVG4yWmViRTZyRmJGZU04cWpXRGRDWmo4Y3RGS0xkbjlOWkNZdHVMYjlqb3dNZVZFV3kxNFd0aGVSTWV3RjJ2SGpkUm5pRjdKa1BoQXkzYy1qWm4zdXM4U0d6Zlo1RmRwTEFmR2FMLUNpOWprZzQtRktES3pkOS1vb0NTcXVRUDZoVVFPaXhUZS1WelpUR1JibW1NV21VNkdIVFZNWm9PYlB1UTJsajRHME1QZ04xZ3ctbVVWUS0wakppUFRiUEYzNG9iM0dFaHZHUDhjUVg3aVpsLTJjUG5Uc0c1NUR6QmtGS1ZVY3pFbEhPZ3lmd2dUdURNM2M5WG9jNGRQcw?oc=5",
+   "pub": "Sun, 09 Aug 2026 07:18:00 GMT"
+  },
+  {
+   "t": "Iran stellt harte Bedingungen für Öffnung der Straße von Hormus - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0hJcnJIaWgtTlU4bXlrSk13cktsR2xJaHpNcmN2a0NweV9fMHlZOW5LdVpqWDIyNzMtRkJQRXQ3RUpMdTFoTldlNFM4bE9lSTlzN3AxWkhHR29yVGxzblRKVHpSN3ZzQ1BrLWNVenBMRlFTaVgwT3RRMENOR1AzbzlQVGFfRTVreTdua0NzMWY4N1N0Yl9KV0t6aUV2b2hqM2xkYTRiWEo1QQ?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:43:54 GMT"
   }
  ]
 }
