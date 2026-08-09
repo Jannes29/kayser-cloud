@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T19:49:06Z",
+ "collected_at": "2026-08-09T20:52:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,16 +7,16 @@
    "chg1d_pct": -0.58
   },
   "USDJPY": {
-   "price": 157.784,
-   "chg1d_pct": -0.39
+   "price": 157.696,
+   "chg1d_pct": -0.45
   },
   "GBPCAD": {
-   "price": 1.8816,
-   "chg1d_pct": -0.2
+   "price": 1.8812,
+   "chg1d_pct": -0.22
   },
   "AUDJPY": {
-   "price": 111.422,
-   "chg1d_pct": 0.01
+   "price": 111.454,
+   "chg1d_pct": 0.04
   },
   "EURUSD": {
    "price": 1.1562,
@@ -69,9 +69,9 @@
    "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
   },
   {
-   "t": "Iran: Mohsen Resai übernimmt Vorsitz im Nationalen Sicherheitsrat - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lLV2EwOEZyUUplM0I0eFB5T2JINnNEemFpT2c1eFI0RDAwVGtVR1BuSGF6MFItVHljbHMtcURlMW1pU21DdnNqX19qVW5uYVRvYnVDeDdSaF9Qc2pwemdJNTRqa1ptRmJ1UlhQNmNZYTEtejRSNnhRWVd4SXpfQXVTN3poR18xQ1lLdUxDMDlFMVdSTXJvVmRqVGttMGRxZFlPTno5WF9HM3R1WmdCVnZxOUg2aGxOQWdDX3k2V09tUFFtWFItdXVrbEJORGZP?oc=5",
-   "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
+   "t": "(S+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTm1rUHdGTVh1a0VHRlh5a1lOUTlwMTdUSkNoM3pCYkpmN1Bmb3FsMlN3RkM2WUxqRGNKMk12STJUVTE4SF9RVUdacHJnR0Jjd085YlhJR1NsR3FjTVQtTG0xaGFlaElkTW5YV09yclVWZWJXcXRNU1BZdFJJN01VVEVUZXFOVmFvWlBiMFd5LWtld05SdXVod2thQkRSYUtDV0xaXzFHZzhiTFNhV085OU9KSktPWGRpT0thWnIxMFlPRTZWbXo1c0VDLWZ2LUFwaDA3aFlxak9RMDVNMVhCLUhoUWZHbHFLeVRv?oc=5",
+   "pub": "Sun, 09 Aug 2026 18:01:00 GMT"
   },
   {
    "t": "Machtkampf um Hormus - Iran stellt Bedingungen für Öffnung der Strasse von Hormus - SRF",
@@ -79,19 +79,24 @@
    "pub": "Sun, 09 Aug 2026 12:43:13 GMT"
   },
   {
-   "t": "Krieg in Nahost: Iran tauscht obersten Sicherheitsberater aus - T-Online",
+   "t": "Diplomatie ohne Durchbruch: Trump gibt sich gelassen +++ Iran tauscht obersten Sicherheitsberater aus - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQk1NSEVFdW5uV1BCU1IzT213dW9NcXFpRUxNTTRGSmFCX2NscTk5VFhQYzBzcm1kTVM1SnQ1aktVemQ4OTllSmRIYkFobm1aeXlmUXRKOEMzUzh5dE1uaFRKWll1SGE0WmRvaGtheEtrSERVX2RYXzBza0xpMU5PZFRHY3FZVTlhRlZUWFdiMEZQNEFMdzVVOEpiRVdHZldjdmRWTEhXOEhWdkxrcEU3Tmw5aFNfdEFINjh0LVVScUdHcGNzeVNqa08xQk02dU1LVnc?oc=5",
+   "pub": "Sun, 09 Aug 2026 19:28:41 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: Iran tauscht obersten Sicherheitsberater aus - t-online.de",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjhxWjFxbDZJNTVaY0lESm1KaTVhdThzZUFnWnRKX2R5cGRGU3FQVXJ5S1czQXM1TEFmYS1TWDdkdnMwWGZCcWRjOUc2MlpSUEZheV9oRDc0cE02QnF5VkQyT2tCRTVxd0xhZjBFaFB4bjVWangzYWFwRFpzY0xUTktFT1VfOGZid0huTWZsVnNhRzBvOUFZczVwN1FCMGFoSkZlSzZnV19SQ2pVckhWbEhuZy1lQ181TVRoWGNFQklPLS1zUmtodw?oc=5",
    "pub": "Sun, 09 Aug 2026 17:52:47 GMT"
   },
   {
-   "t": "(m+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX2ZjZmI1UVByaEMweXRuTzcxSkVCU0xBQ0d4MlhncW5kLW9Ibi14eW9IU1RKM3BVZDB0Um9TR1BzQWJ6RVRYeldBbTFBbFVfMkRPT2FKd2Y0bUx3SnFDVTFsU2diOFVzanZ3TFdoVFp5cnJYbUFFbTA5N2R2UFZJN3F1SXFjUmNaS2ZyeFh1YzJZSDZyRWczWXAxVWd3UEhfNHR4N21YOGxqYjF3bENmZXpUcW5GRDA1Q2ppdXVNRjVoeTJMNnBZV2dxN1pGT3J3QWJBN1RR?oc=5",
-   "pub": "Sun, 09 Aug 2026 07:00:00 GMT"
+   "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: \"Halten uns zurück\" - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGlCZ0JZVDFQTmtMWUZoUlBmSUk4S21JU05xcV8wQmNYYkdyRllhSHhBVFpCcFlfYWU2eENUWjJsS0NTTm9rcC03RlhCb0pyVTJ1TXZmRkZKSVRZSkF1V3lHaTFXREd6MVNIQnQwTjY1dEhWYlR5Q05NbFlYb01sUGdVbW5kdG00bHU4LUowa2Q1aUdPcHRlWnpn?oc=5",
+   "pub": "Sun, 09 Aug 2026 20:24:36 GMT"
   },
   {
-   "t": "Öffnung der Straße von Hormus: Iran hat neue Forderungen an die USA - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1OU2pQQldONnFHbHowNTV4TTNudGNsaUl6cFVBTk9XRXJpbjMtMzBqNndncDJ5VDZqN0NhZjBrRXpYMzRXNXMtc1lzX2lNblljcVZUcVZvT2gza3VXV3pQQ1FzWDZDOW5ZSlRDakVvUlgzMTdMNjVqdi1aV0N1bjNMTDdrTzg?oc=5",
-   "pub": "Sun, 09 Aug 2026 03:54:29 GMT"
+   "t": "Iran: Mohsen Resai übernimmt Vorsitz im Nationalen Sicherheitsrat - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lLV2EwOEZyUUplM0I0eFB5T2JINnNEemFpT2c1eFI0RDAwVGtVR1BuSGF6MFItVHljbHMtcURlMW1pU21DdnNqX19qVW5uYVRvYnVDeDdSaF9Qc2pwemdJNTRqa1ptRmJ1UlhQNmNZYTEtejRSNnhRWVd4SXpfQXVTN3poR18xQ1lLdUxDMDlFMVdSTXJvVmRqVGttMGRxZFlPTno5WF9HM3R1WmdCVnZxOUg2aGxOQWdDX3k2V09tUFFtWFItdXVrbEJORGZP?oc=5",
+   "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
@@ -99,14 +104,9 @@
    "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
   },
   {
-   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS1ZGb1hvX3RLX2wzVFZPMWMwNzFzVW9WOHJjUFhqd1QxZm5HTEFiVlJWRlhZcFhNaGs2ZG1jUkpwdW9CTWR1OGRUS2NaWnJIUGNieVBlY2x6Q0RVMkxma3VocnpheHp3VjZWbnZCNHl5bXlEVlpsV1BFR1M3ZDl2dmJrZmkyVy1GbEwzWA?oc=5",
-   "pub": "Sun, 09 Aug 2026 19:11:04 GMT"
-  },
-  {
-   "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: „Halten uns zurück“ - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRjZVaEczcjVKVU4waWhoeWFEUFdiVVJ3T3F5Y2JWSHdyZFNlZFhYdG44UFpCZXBCamZyemdSdzNRd1lsV2EwU1EyblpwbW5iNDFfbkdrbWFDNXR2aDM0ZlpwOTNGZkdndS1fRDZnbGt2R25kX1JoYzA4Ry1kRS1tbUgzQk1RQmhFeS0yWWgyRk04QUtubE1DMEticUpEb0FlOWlMX3M3MkFFc295VmY5Q0RnVzRCYU5R?oc=5",
-   "pub": "Sun, 09 Aug 2026 19:28:21 GMT"
+   "t": "Iran tauscht obersten Sicherheitsberater aus - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMHVZdHQwaERxZk9ST1hvVWc1UzE5Qll3NDJ4UnkwcG9aUVRRNF9fa2M3ZE5rQUZQb0VfLU5PdEhDaG03eVk1cHRDUUphd1RFbnh4LXBfZEk5WjhIZFMzV1cxd0ZudzVqQ1J1WEFVenV1UjJfQmlYQVNiSEk1TXFFZnBLUTQ5UHk4d0U3d0RYdDdib0xELVNocmxzR1U?oc=5",
+   "pub": "Sun, 09 Aug 2026 19:46:27 GMT"
   }
  ]
 }
