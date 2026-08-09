@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-09T17:47:42Z",
+ "collected_at": "2026-08-09T19:01:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,9 +49,14 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
+  },
+  {
+   "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3Y2TEh5VERGZHFHMFN6Zy1HM3VrNWhKdFFCbDJrUDFJQWFMY2ZIaGZqLWlXVGhqNTcyTG9Xb3Q4T2ZHOTROZl9tUTZQZ0VqS0U3TzBsaDRBT3hDVTNGNnRLbDQ5UGZDUG5MNmR2QXBMcWFRQkx4T1VEVGlfblFMZGZlcGtqOUlj0gGIAUFVX3lxTE93QzRlaGo1Y3FMZmxtRUxLakp2aUo2LV9ZRVVkVkNnQl9aaVlDeTktX205QnJVMGktVkc3dEVzQkQxSFJDNWRGUWwyQjJUY0xaUGw2WGU5dlNNbVREM2ptMGl2QVNnV2RYaVNfZ2FOdEM3dmZNUnhTX3I1aUZqN2VOOHZGVDF3RHM?oc=5",
+   "pub": "Sun, 09 Aug 2026 10:54:51 GMT"
   },
   {
    "t": "Iran stellt neue Bedingungen an die USA für eine Wiedereröffnung der Straße von Hormus - tagesschau.de",
@@ -64,22 +69,22 @@
    "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
   },
   {
-   "t": "Iran: Welchen Einfluss hat Kronprinz Reza Pahlavi? - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX3Y2TEh5VERGZHFHMFN6Zy1HM3VrNWhKdFFCbDJrUDFJQWFMY2ZIaGZqLWlXVGhqNTcyTG9Xb3Q4T2ZHOTROZl9tUTZQZ0VqS0U3TzBsaDRBT3hDVTNGNnRLbDQ5UGZDUG5MNmR2QXBMcWFRQkx4T1VEVGlfblFMZGZlcGtqOUlj0gGIAUFVX3lxTE93QzRlaGo1Y3FMZmxtRUxLakp2aUo2LV9ZRVVkVkNnQl9aaVlDeTktX205QnJVMGktVkc3dEVzQkQxSFJDNWRGUWwyQjJUY0xaUGw2WGU5dlNNbVREM2ptMGl2QVNnV2RYaVNfZ2FOdEM3dmZNUnhTX3I1aUZqN2VOOHZGVDF3RHM?oc=5",
-   "pub": "Sun, 09 Aug 2026 05:03:27 GMT"
+   "t": "Iran: Mohsen Resai übernimmt Vorsitz im Nationalen Sicherheitsrat - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lLV2EwOEZyUUplM0I0eFB5T2JINnNEemFpT2c1eFI0RDAwVGtVR1BuSGF6MFItVHljbHMtcURlMW1pU21DdnNqX19qVW5uYVRvYnVDeDdSaF9Qc2pwemdJNTRqa1ptRmJ1UlhQNmNZYTEtejRSNnhRWVd4SXpfQXVTN3poR18xQ1lLdUxDMDlFMVdSTXJvVmRqVGttMGRxZFlPTno5WF9HM3R1WmdCVnZxOUg2aGxOQWdDX3k2V09tUFFtWFItdXVrbEJORGZP?oc=5",
+   "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
   },
   {
-   "t": "Iran diktiert den Preis für Hormus: Jetzt muss Trump zahlen oder eskalieren - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmUxM1g5djV5LXRmek81Ukd1SnRZa2VxTk1IZW03cE1lVVRFZUJvam9XTE1xcHRsOXBNX3Q1MDV4WlYxZlhHMnVZbHRwZDNvUWhDYjlHUUZkdEFXZXFTakg5dVAxZDhTNlZLS25aS1k2UUt1MDRzMHpSNGlNaC1INTNIaUVvZjRQQTFCQy1VNGlsU1NUT0dFbUEtLUtIWmc5YXlsR3JaQlZKU045cVFSUWNuVEVyT1gyNDdIMXVwSlp6ekZ2eWhrZ0ZHWQ?oc=5",
-   "pub": "Sun, 09 Aug 2026 15:45:17 GMT"
-  },
-  {
-   "t": "Strasse von Hormus: Iran stellt Forderungen an die USA - SRF",
+   "t": "Machtkampf um Hormus - Iran stellt Bedingungen für Öffnung der Strasse von Hormus - srf.ch",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzhaUjBrVUxXbjlUYmctVFVVYWtzcE43a18ySnhvZHRvdXJYTUJBV0FtbHhaWWVhNjRpd1NmQnZUSWVwaUZCNFRxLUZRdGstdW93VGZKVV9TWkNlcUZBSEE2RG9xSkhQeHpXRXp5cm41VVpUNWNiYkV0dm9mMm11VzJSZTFxQzV4eGNxaThfcGJLU0JXM21FSDZMUWsyR3JmakhEYUFQcjA2NC1zSVlHU1JEVXlDRU40Z2RDaFVUZGtmSmFv?oc=5",
    "pub": "Sun, 09 Aug 2026 12:43:13 GMT"
   },
   {
-   "t": "(m+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - manager-magazin.de",
+   "t": "Iran tauscht obersten Sicherheitsberater aus | Krieg in Nahost - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjhxWjFxbDZJNTVaY0lESm1KaTVhdThzZUFnWnRKX2R5cGRGU3FQVXJ5S1czQXM1TEFmYS1TWDdkdnMwWGZCcWRjOUc2MlpSUEZheV9oRDc0cE02QnF5VkQyT2tCRTVxd0xhZjBFaFB4bjVWangzYWFwRFpzY0xUTktFT1VfOGZid0huTWZsVnNhRzBvOUFZczVwN1FCMGFoSkZlSzZnV19SQ2pVckhWbEhuZy1lQ181TVRoWGNFQklPLS1zUmtodw?oc=5",
+   "pub": "Sun, 09 Aug 2026 17:52:47 GMT"
+  },
+  {
+   "t": "(m+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX2ZjZmI1UVByaEMweXRuTzcxSkVCU0xBQ0d4MlhncW5kLW9Ibi14eW9IU1RKM3BVZDB0Um9TR1BzQWJ6RVRYeldBbTFBbFVfMkRPT2FKd2Y0bUx3SnFDVTFsU2diOFVzanZ3TFdoVFp5cnJYbUFFbTA5N2R2UFZJN3F1SXFjUmNaS2ZyeFh1YzJZSDZyRWczWXAxVWd3UEhfNHR4N21YOGxqYjF3bENmZXpUcW5GRDA1Q2ppdXVNRjVoeTJMNnBZV2dxN1pGT3J3QWJBN1RR?oc=5",
    "pub": "Sun, 09 Aug 2026 07:00:00 GMT"
   },
@@ -87,11 +92,6 @@
    "t": "Öffnung der Straße von Hormus: Iran hat neue Forderungen an die USA - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1OU2pQQldONnFHbHowNTV4TTNudGNsaUl6cFVBTk9XRXJpbjMtMzBqNndncDJ5VDZqN0NhZjBrRXpYMzRXNXMtc1lzX2lNblljcVZUcVZvT2gza3VXV3pQQ1FzWDZDOW5ZSlRDakVvUlgzMTdMNjVqdi1aV0N1bjNMTDdrTzg?oc=5",
    "pub": "Sun, 09 Aug 2026 03:54:29 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Teheran stellt harte Bedingungen für Öffnung der Straße von Hormus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
-   "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
   },
   {
    "t": "**Öl-Schock im Nahen Osten: Tanker-Havarie trifft auf Iran-Krieg** - Wallstreet Online",
@@ -104,9 +104,9 @@
    "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmc?oc=5",
-   "pub": "Sun, 09 Aug 2026 09:22:09 GMT"
+   "t": "Iran-Krieg: Teheran stellt harte Bedingungen für Öffnung der Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHNoZkZ4NXplZXZiZE9NME02YWZCcEs2RzNYclZUd243QVhuQmNVZm9fd3kxelc1QXlCUGdjVmtwZzJGRWN5aDRnaWwtOFhtSXVWcXdEdEQ0M2lmVWE3ZkFMU2ZiTDBPalIxTUlKaWxiRGxWcTdxMFdFdFd6ZUw4bmFSUWNmSXJ6TFNhZF9KLThCT294UGxpMnB2OE04c2loZUxEZzR3MThMWlJNX19STWdVYUJhQ096ZU1nVmpGdHlFdi1zdTN4WlB3LUdYT0hRVFFXMw?oc=5",
+   "pub": "Sat, 08 Aug 2026 16:53:00 GMT"
   }
  ]
 }
