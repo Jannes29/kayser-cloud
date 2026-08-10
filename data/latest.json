@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-10T21:59:00Z",
+ "collected_at": "2026-08-10T22:57:13Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8097,
-   "chg1d_pct": 0.19
+   "price": 0.8101,
+   "chg1d_pct": 0.24
   },
   "USDJPY": {
-   "price": 159.214,
-   "chg1d_pct": 0.84
+   "price": 159.249,
+   "chg1d_pct": 0.86
   },
   "GBPCAD": {
-   "price": 1.882,
-   "chg1d_pct": 0.01
+   "price": 1.8826,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 112.295,
-   "chg1d_pct": 0.7
+   "price": 112.362,
+   "chg1d_pct": 0.76
   },
   "EURUSD": {
-   "price": 1.1546,
-   "chg1d_pct": -0.09
+   "price": 1.1547,
+   "chg1d_pct": -0.08
   },
   "GBPCHF": {
-   "price": 1.0938,
-   "chg1d_pct": 0.33
+   "price": 1.0942,
+   "chg1d_pct": 0.37
   },
   "WTI": {
-   "price": 82.3,
-   "chg1d_pct": 5.27
+   "price": 82.14,
+   "chg1d_pct": 5.07
   },
   "BRENT": {
-   "price": 87.85,
-   "chg1d_pct": 5.15
+   "price": 87.68,
+   "chg1d_pct": 4.94
   },
   "GOLD": {
-   "price": 4448.6,
-   "chg1d_pct": 2.49
+   "price": 4457.2,
+   "chg1d_pct": 2.68
   },
   "SPX_FUT": {
-   "price": 7777.25,
-   "chg1d_pct": -0.03
+   "price": 7772.0,
+   "chg1d_pct": -0.1
   },
   "NAS_FUT": {
-   "price": 29764.25,
-   "chg1d_pct": -0.24
+   "price": 29727.25,
+   "chg1d_pct": -0.36
   }
  },
  "headlines": [
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - spiegel.de",
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
    "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   },
@@ -59,14 +59,19 @@
    "pub": "Mon, 10 Aug 2026 18:51:36 GMT"
   },
   {
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
+   "pub": "Mon, 10 Aug 2026 19:55:33 GMT"
+  },
+  {
    "t": "Von Schach- und Hängepartien – keine Lösung des USA-Iran-Konflikts in Sicht - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOVlhcllmS0U3dHpHSmVzbjhZVG9KY19IV1liYmsyMkdneTZRWWFYNVM0aFdIaTRxV3pyVXdBZ2Q4NVBTcnRTSi1aNUYzOTUwQ19KSkF3U2VOUldyc2U0SGxDZDNjWlhfRG9FblF3?oc=5",
    "pub": "Mon, 10 Aug 2026 15:39:00 GMT"
   },
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 13:54:03 GMT"
+   "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JDd3dLY2Zqb1NXX0V5QnBjYWtHa1dfMVZibnJvVmVuc0ExOHRMTElMTTlJODkxcy1IOFV4UHBiNHI5SmtJc3JjQ3BqQW14TDdmU0lyUGNkMmF5dGVrZVpVaEpjRFVFaFRZdnpBb09iaXdPdTNSTldWZFhTTWJKQTkzdzVtOUpkekF6dWtFNkE1bFBnbDZWMkxCLV83SVJidEEybkgxRWFBTXhSV2NOZDdnTE8?oc=5",
+   "pub": "Mon, 10 Aug 2026 11:20:52 GMT"
   },
   {
    "t": "Iran - Teheran benennt neue oberste Militärführung - Deutschlandfunk",
@@ -102,11 +107,6 @@
    "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - XTB.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NoS3M1UlBpeGtaLXFqcTVzTENHY1pES19yNTlaczdTNlRMMEpTRHFuZlVvRDdHVnlSNzBId0dpQ1R4ei1leVR0c01kR3Rib3ZidV8wTk5SVTE0TzRvUXZSeW94NE96c0h1djl4dnIweGdwdlBVM294Z0NvUllDSkhNNFJjUDhaQ0JEZTVQZ2RoeUtLTWE1bVp4T3I?oc=5",
    "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
-  },
-  {
-   "t": "Iran: Ist Modschtaba Chamenei noch am Leben? - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2hPYzlQY1E2eXpTTHEtUGktbjktNzliVldPTkxPZkExV2pUY0Uybks0MWlQbDJROHVoT0liMkt4bnZfRkU0TjdJRVdscmpGUVRTLUJnN3lycUV5MDVZRU9MQnh0Y2JYYmtzMEIxWVN3OF9sWXpwZ3QxOWpfMmZqMkJZSzdEZWZYWVVPRDg4a0EzSEx0SUw5U0JWQno?oc=5",
-   "pub": "Mon, 10 Aug 2026 10:37:46 GMT"
   }
  ]
 }
