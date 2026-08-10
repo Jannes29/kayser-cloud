@@ -1,67 +1,72 @@
 {
- "collected_at": "2026-08-10T15:17:23Z",
+ "collected_at": "2026-08-10T17:09:36Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8088,
-   "chg1d_pct": -0.44
+   "price": 0.8099,
+   "chg1d_pct": -0.31
   },
   "USDJPY": {
-   "price": 158.921,
-   "chg1d_pct": 0.32
+   "price": 159.15,
+   "chg1d_pct": 0.47
   },
   "GBPCAD": {
-   "price": 1.8842,
-   "chg1d_pct": -0.06
+   "price": 1.8833,
+   "chg1d_pct": -0.11
   },
   "AUDJPY": {
-   "price": 112.278,
-   "chg1d_pct": 0.78
+   "price": 112.328,
+   "chg1d_pct": 0.82
   },
   "EURUSD": {
-   "price": 1.1555,
-   "chg1d_pct": 0.26
+   "price": 1.1549,
+   "chg1d_pct": 0.21
   },
   "GBPCHF": {
-   "price": 1.0937,
-   "chg1d_pct": 0.07
+   "price": 1.0943,
+   "chg1d_pct": 0.12
   },
   "WTI": {
-   "price": 80.93,
-   "chg1d_pct": 3.52
+   "price": 81.42,
+   "chg1d_pct": 4.14
   },
   "BRENT": {
-   "price": 86.38,
-   "chg1d_pct": 3.39
+   "price": 87.04,
+   "chg1d_pct": 4.18
   },
   "GOLD": {
-   "price": 4411.4,
-   "chg1d_pct": 1.63
+   "price": 4415.6,
+   "chg1d_pct": 1.73
   },
   "SPX_FUT": {
-   "price": 7786.25,
-   "chg1d_pct": 0.08
+   "price": 7774.5,
+   "chg1d_pct": -0.07
   },
   "NAS_FUT": {
-   "price": 29818.0,
-   "chg1d_pct": -0.06
+   "price": 29771.25,
+   "chg1d_pct": -0.21
   }
  },
  "headlines": [
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "t": "Von Schach- und Hängepartien – keine Lösung des USA-Iran-Konflikts in Sicht - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOVlhcllmS0U3dHpHSmVzbjhZVG9KY19IV1liYmsyMkdneTZRWWFYNVM0aFdIaTRxV3pyVXdBZ2Q4NVBTcnRTSi1aNUYzOTUwQ19KSkF3U2VOUldyc2U0SGxDZDNjWlhfRG9FblF3?oc=5",
+   "pub": "Mon, 10 Aug 2026 15:39:00 GMT"
+  },
+  {
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
    "pub": "Mon, 10 Aug 2026 10:53:09 GMT"
+  },
+  {
+   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
+   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
   },
   {
    "t": "„Schachspieler“ Iran: Straße von Hormus bleibt zu, bis USA zahlen - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjQ0RTBlMGtLTDEtVWxfeXB0UkpzRGpjalZMVTBJbC16YVVpX3FPMjRURGszTG1XeDUzRUhoRFo2enFiUHRYa042M3c3cHB0dmtjYktLQnBmdWNicW0zVFRrTC1SbTdwSkpYSk96cEVtNlA1VV9leURlWk5KTUdIRzBlb3NObllpTkV2bnNIRnE3UlpBQTdhZnh0Y1BHZw?oc=5",
    "pub": "Mon, 10 Aug 2026 13:30:36 GMT"
-  },
-  {
-   "t": "„Ein Rahmenabkommen ist offenbar erzielt worden“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVhiX2stX3IxR1I2bE9seUU5R1VCX2NEQjNVUnZsTzNOT25fdmZjWnJxUllQSjR5cUtDU3FId3Y4aGRQYnc1emhzQ0M1SjlENU9uV2ExOHJXbUREU2l2WjAtYjBQX0dQRG9vYndZa2Q0U3I5cWxrWUtJZ2ZxbFBuZnpRT2plR1FKOHI0N2VKMi04alVWamdiRkR2bUozTzdBQ3c5V04yNDNOaDNJVWFpRDlzNnlNeXJYUzE3NnVON2RjM05kbGFVUzdsaXc4U1lWSGt4bQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 13:45:54 GMT"
   },
   {
    "t": "Gaza-Friedensplan und Iranverhandlungen: Für Trump hagelte es am Wochenende schlechte Nachrichten - Spiegel",
@@ -74,14 +79,19 @@
    "pub": "Mon, 10 Aug 2026 12:01:22 GMT"
   },
   {
-   "t": "Iran-Verhandlungen: Trump setzt vorerst auf wirtschaftlichen Druck - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tdmd0ckFBRVNBZG9iWktRdG5oa0wwelpSVkJsUEt6S0c4cUh2bDJPcEoxeVJjYVRMcUZNZndwWTdueW9aTnNSbTNBVXlVYW0yUGNneXlDMTh6TndPT1BiRmx0OFQyYzhvMHEwV2VB?oc=5",
-   "pub": "Mon, 10 Aug 2026 05:45:00 GMT"
+   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
+   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
   },
   {
-   "t": "„Risiko steigt erheblich“: Gasspeicher der EU füllen sich zu langsam – auch Deutschlands Versorguzng bedroht - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkFKRU9VdFdTODBMMjRNYzB0cTdmRjJLUl9pSzlmN2EwN2dpbzVEOV9yWjJpa2pvc1JvM0tMQkUyNDQ5eXRGaE84Qldkc0x2eWRVVkV3VTRzQm8zWUw1TlotdjlGQXZaVVdqZk4wbWVuWC1qZ1BSaDV1VktyQnZIN1E3UmdRb0hVU2lpRmNBZ2E4a1NSNXQ5TjlHa0FBQlhLVFhPajdVNFd3TEV1c0pZ?oc=5",
-   "pub": "Mon, 10 Aug 2026 10:08:01 GMT"
+   "t": "„Der Ölmarkt ist strukturell im Überangebot“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFqVndudHo5TkdPeFkta2lLZWtMdnRXZWVraDNQTGhVNkc5d2VoMWJITS10NE5haWNjMFFMNUs3a25zSUQ4NHhNS1d5T1cwRloyOHc1NEFSTnBjQV9jOWRHN05PVjdXcVBkQmx2OUxCbFNfbWdOcTExUFZ0TWdwcl9ZY1NadXZnbFlBMFF2cGNyWDhnSEIydmVyU3NTWExwWUFEaXFmYV9OY1R2XzRhaC1RWGdsblM0bndDTzZB?oc=5",
+   "pub": "Mon, 10 Aug 2026 11:19:38 GMT"
+  },
+  {
+   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGsyRlZSMDYwRy1jOEtxTmZkY2NxOWpabk1henJlMWNuMFZVZHFZUnBUdVVhdm4yNVZlSjRldmJmVVJEODJJZHpnTDA4N3RneEo4SXN5T044NWhpaDRFYm82MndEWmVMQmNxRmlnc0I4X3JSZ2FqNWdCUmZZRFE0aUNJVmowS3lkZGFFLWhHbEp2czNwVTZ6UGE2Nk4zRFo0YVU5SmgxNjNxbkxTa0Zkc0lwMVpxbXhpYzBj?oc=5",
+   "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
   },
   {
    "t": "Iran hat neue Forderungen an die USA - n-tv.de",
@@ -89,24 +99,14 @@
    "pub": "Mon, 10 Aug 2026 06:29:00 GMT"
   },
   {
-   "t": "Lieferketten: Iran verknüpft Öffnung von Hormus mit US-Zugeständnissen - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNndidXZ2MUoxS3RGTVE0akpYSlV4VTV5THVyU240LTdDaGlGN3pZQThPRjAwRks3d3pGTFBfZE9RS1k0NVNiOFB5RFlNVFRCSXdNSmIyT1I3QV8wOV9aWGZaTm1pRGdHWDNtY0dHWWFiWlZSOGNIc0I3SDZuOV90UnoxeWdDN1ZqNk9UcWVRWWlKT2o1VVBoalprbEl0aUxZSHcxcXNMZS04Zm5fcE5Fd0l2VF8zdw?oc=5",
-   "pub": "Mon, 10 Aug 2026 07:17:00 GMT"
-  },
-  {
-   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
-   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
-  },
-  {
    "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JDd3dLY2Zqb1NXX0V5QnBjYWtHa1dfMVZibnJvVmVuc0ExOHRMTElMTTlJODkxcy1IOFV4UHBiNHI5SmtJc3JjQ3BqQW14TDdmU0lyUGNkMmF5dGVrZVpVaEpjRFVFaFRZdnpBb09iaXdPdTNSTldWZFhTTWJKQTkzdzVtOUpkekF6dWtFNkE1bFBnbDZWMkxCLV83SVJidEEybkgxRWFBTXhSV2NOZDdnTE8?oc=5",
    "pub": "Mon, 10 Aug 2026 11:20:52 GMT"
   },
   {
-   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 09:53:35 GMT"
+   "t": "Iran-Verhandlungen: Trump setzt vorerst auf wirtschaftlichen Druck - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tdmd0ckFBRVNBZG9iWktRdG5oa0wwelpSVkJsUEt6S0c4cUh2bDJPcEoxeVJjYVRMcUZNZndwWTdueW9aTnNSbTNBVXlVYW0yUGNneXlDMTh6TndPT1BiRmx0OFQyYzhvMHEwV2VB?oc=5",
+   "pub": "Mon, 10 Aug 2026 05:45:00 GMT"
   }
  ]
 }
