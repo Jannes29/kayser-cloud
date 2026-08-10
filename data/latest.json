@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-10T21:02:50Z",
+ "collected_at": "2026-08-10T21:59:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8096,
-   "chg1d_pct": 0.18
+   "price": 0.8097,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 159.203,
-   "chg1d_pct": 0.83
+   "price": 159.214,
+   "chg1d_pct": 0.84
   },
   "GBPCAD": {
-   "price": 1.8819,
-   "chg1d_pct": 0.0
+   "price": 1.882,
+   "chg1d_pct": 0.01
   },
   "AUDJPY": {
-   "price": 112.269,
-   "chg1d_pct": 0.67
+   "price": 112.295,
+   "chg1d_pct": 0.7
   },
   "EURUSD": {
    "price": 1.1546,
    "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.093,
-   "chg1d_pct": 0.26
+   "price": 1.0938,
+   "chg1d_pct": 0.33
   },
   "WTI": {
-   "price": 82.32,
-   "chg1d_pct": 5.3
+   "price": 82.3,
+   "chg1d_pct": 5.27
   },
   "BRENT": {
-   "price": 87.82,
-   "chg1d_pct": 5.11
+   "price": 87.85,
+   "chg1d_pct": 5.15
   },
   "GOLD": {
-   "price": 4449.4,
-   "chg1d_pct": 2.5
+   "price": 4448.6,
+   "chg1d_pct": 2.49
   },
   "SPX_FUT": {
-   "price": 7778.0,
-   "chg1d_pct": -0.02
+   "price": 7777.25,
+   "chg1d_pct": -0.03
   },
   "NAS_FUT": {
-   "price": 29763.0,
+   "price": 29764.25,
    "chg1d_pct": -0.24
   }
  },
  "headlines": [
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
    "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+  },
+  {
+   "t": "Iran besetzt oberste Militärführung neu – und plant Gebühren für Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeXh0MlNuc0FpN051YXpQYXk0WE5kdFM4RVVGOGF0Zy1pOVlLejVBYUxGQUxOX3NNWW9iOHZfWm1PSWNFazdKUEhwWU83WGhNRDdOZnNmTGdFOS1zcG1wX19YZHJKV2UyT3FvcGotaXNXZXhGTjNlcG1YNWlpODBaRTlVc2dqYjZDbksxQVBjZ0p1RDRaWVFsaHVNRGlWWUFlaEE2dUt3V1pyWXo2VkpLUkpkRUlDb08tNm9vcDRRRlAzdWNzN1lPeEpZcGFQWFdjc28tMWJQY0lfbUNzSUJ1dXRPVFI1WnBKeXdXQVdKQQ?oc=5",
+   "pub": "Mon, 10 Aug 2026 18:51:36 GMT"
   },
   {
    "t": "Von Schach- und Hängepartien – keine Lösung des USA-Iran-Konflikts in Sicht - tagesschau.de",
@@ -74,19 +79,24 @@
    "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
-  },
-  {
-   "t": "Der Tag: Neue Trump-Forderung wird dem Iran nicht gefallen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2E1cldDZlFvM0hLVF9XTXFOZ0FSdTNkcWI5cGZFTnQ0aXBrcDFzcm9TNktRSEpNYXVsSWMwN3hOUmo5Z0IzV09nWUx4UjlCaG5Xcms3S2VaaGd4d0pudlF3cWk3TV8yY19jb3Vfb3NOT1NFclRUUWpOMXlTenF6Mm1IeVQ0ZmF6b1dWTnBGVlNnQXBGWEZEYw?oc=5",
-   "pub": "Mon, 10 Aug 2026 17:09:45 GMT"
   },
   {
    "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
    "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
+  },
+  {
+   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGsyRlZSMDYwRy1jOEtxTmZkY2NxOWpabk1henJlMWNuMFZVZHFZUnBUdVVhdm4yNVZlSjRldmJmVVJEODJJZHpnTDA4N3RneEo4SXN5T044NWhpaDRFYm82MndEWmVMQmNxRmlnc0I4X3JSZ2FqNWdCUmZZRFE0aUNJVmowS3lkZGFFLWhHbEp2czNwVTZ6UGE2Nk4zRFo0YVU5SmgxNjNxbkxTa0Zkc0lwMVpxbXhpYzBj?oc=5",
+   "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
+  },
+  {
+   "t": "Der Tag: Neue Trump-Forderung wird dem Iran nicht gefallen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2E1cldDZlFvM0hLVF9XTXFOZ0FSdTNkcWI5cGZFTnQ0aXBrcDFzcm9TNktRSEpNYXVsSWMwN3hOUmo5Z0IzV09nWUx4UjlCaG5Xcms3S2VaaGd4d0pudlF3cWk3TV8yY19jb3Vfb3NOT1NFclRUUWpOMXlTenF6Mm1IeVQ0ZmF6b1dWTnBGVlNnQXBGWEZEYw?oc=5",
+   "pub": "Mon, 10 Aug 2026 17:09:45 GMT"
   },
   {
    "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - XTB.com",
@@ -97,16 +107,6 @@
    "t": "Iran: Ist Modschtaba Chamenei noch am Leben? - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2hPYzlQY1E2eXpTTHEtUGktbjktNzliVldPTkxPZkExV2pUY0Uybks0MWlQbDJROHVoT0liMkt4bnZfRkU0TjdJRVdscmpGUVRTLUJnN3lycUV5MDVZRU9MQnh0Y2JYYmtzMEIxWVN3OF9sWXpwZ3QxOWpfMmZqMkJZSzdEZWZYWVVPRDg4a0EzSEx0SUw5U0JWQno?oc=5",
    "pub": "Mon, 10 Aug 2026 10:37:46 GMT"
-  },
-  {
-   "t": "Iran besetzt oberste Militärführung neu – und plant Gebühren für Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeXh0MlNuc0FpN051YXpQYXk0WE5kdFM4RVVGOGF0Zy1pOVlLejVBYUxGQUxOX3NNWW9iOHZfWm1PSWNFazdKUEhwWU83WGhNRDdOZnNmTGdFOS1zcG1wX19YZHJKV2UyT3FvcGotaXNXZXhGTjNlcG1YNWlpODBaRTlVc2dqYjZDbksxQVBjZ0p1RDRaWVFsaHVNRGlWWUFlaEE2dUt3V1pyWXo2VkpLUkpkRUlDb08tNm9vcDRRRlAzdWNzN1lPeEpZcGFQWFdjc28tMWJQY0lfbUNzSUJ1dXRPVFI1WnBKeXdXQVdKQQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 18:51:36 GMT"
-  },
-  {
-   "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JDd3dLY2Zqb1NXX0V5QnBjYWtHa1dfMVZibnJvVmVuc0ExOHRMTElMTTlJODkxcy1IOFV4UHBiNHI5SmtJc3JjQ3BqQW14TDdmU0lyUGNkMmF5dGVrZVpVaEpjRFVFaFRZdnpBb09iaXdPdTNSTldWZFhTTWJKQTkzdzVtOUpkekF6dWtFNkE1bFBnbDZWMkxCLV83SVJidEEybkgxRWFBTXhSV2NOZDdnTE8?oc=5",
-   "pub": "Mon, 10 Aug 2026 11:20:52 GMT"
   }
  ]
 }
