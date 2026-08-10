@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-10T18:04:22Z",
+ "collected_at": "2026-08-10T19:17:37Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.81,
-   "chg1d_pct": -0.3
+   "price": 0.8103,
+   "chg1d_pct": -0.26
   },
   "USDJPY": {
-   "price": 159.111,
-   "chg1d_pct": 0.44
+   "price": 159.252,
+   "chg1d_pct": 0.53
   },
   "GBPCAD": {
-   "price": 1.8834,
-   "chg1d_pct": -0.11
+   "price": 1.8831,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 112.253,
-   "chg1d_pct": 0.75
+   "price": 112.361,
+   "chg1d_pct": 0.85
   },
   "EURUSD": {
-   "price": 1.1547,
-   "chg1d_pct": 0.19
+   "price": 1.1545,
+   "chg1d_pct": 0.18
   },
   "GBPCHF": {
-   "price": 1.094,
-   "chg1d_pct": 0.1
+   "price": 1.0945,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 81.78,
-   "chg1d_pct": 4.6
+   "price": 81.75,
+   "chg1d_pct": 4.57
   },
   "BRENT": {
-   "price": 87.39,
-   "chg1d_pct": 4.6
+   "price": 87.22,
+   "chg1d_pct": 4.39
   },
   "GOLD": {
-   "price": 4418.6,
-   "chg1d_pct": 1.79
+   "price": 4441.5,
+   "chg1d_pct": 2.32
   },
   "SPX_FUT": {
-   "price": 7772.75,
-   "chg1d_pct": -0.09
+   "price": 7779.0,
+   "chg1d_pct": -0.01
   },
   "NAS_FUT": {
-   "price": 29752.75,
-   "chg1d_pct": -0.27
+   "price": 29780.75,
+   "chg1d_pct": -0.18
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Mon, 10 Aug 2026 15:39:00 GMT"
   },
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
    "pub": "Mon, 10 Aug 2026 13:54:03 GMT"
   },
   {
-   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
-   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
+   "t": "Teheran benennt neue oberste Militärführung – und fordert Einlenken der USA im Streit um Straße von Hormus - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONTZSNTFsdXM0R0szMk9jVmZoZ3YxNzFTVW5DQVprR3RocTZWRkxqenNWc3ByVTBwOFAxUHVUdFE4WFRLeFVLMHpoQmtPMlFkVVZSakdlSjZ2OWxzOWZCTkQtU1ZxNDVGWG5Vc2tTZ09aLWhjQmtpMFVVc09ScXNVNzBSRnF1akdxNkVNUDhKd3JPbC1hTWtxMTJsN0xOUWcyRm1XVEU4WHp2YWVzYmprTTA5RnRZOHAxMzFJOC1ib1ZRUVV2SmxZa3VR?oc=5",
+   "pub": "Mon, 10 Aug 2026 18:10:57 GMT"
   },
   {
    "t": "„Schachspieler“ Iran: Straße von Hormus bleibt zu, bis USA zahlen - Euronews.com",
@@ -69,29 +69,24 @@
    "pub": "Mon, 10 Aug 2026 13:30:36 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
-   "t": "Gaza-Friedensplan und Iranverhandlungen: Für Trump hagelte es am Wochenende schlechte Nachrichten - spiegel.de",
+   "t": "Gaza-Friedensplan und Iranverhandlungen: Für Trump hagelte es am Wochenende schlechte Nachrichten - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUTV5Z1Q1VGhyU1A5SHFTTi1EWTJFbHI0U1JzdG9kN3B5d0tOQkUzS1ZYbEUzNkNsS3dDR0hvT2hZU01JcmxSNmFxRzFtSENBUDZWZVFfT3pMaWY3REdKaFNuaExaV3MxZWZ6aVhWR0RlNlU1cXBUREl3UzR2amVwWXVxVVNsVUFLZ1ZvLTNNX1N5Y21PamxBYUhNcFNVMjNialZDME42Rk43b1dMcGIzOG5TVXo5TGhHLUVkcHk0aXc4Ylg2TGNJLTl5SEEwNm1PNnlHSmNQUDMxLXZVbGgzeXFpRmhZcm1MQ2VhM2dNYjRDcnRIMXRiWk5Fb1R5MEFP?oc=5",
    "pub": "Mon, 10 Aug 2026 02:56:00 GMT"
   },
   {
-   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGsyRlZSMDYwRy1jOEtxTmZkY2NxOWpabk1henJlMWNuMFZVZHFZUnBUdVVhdm4yNVZlSjRldmJmVVJEODJJZHpnTDA4N3RneEo4SXN5T044NWhpaDRFYm82MndEWmVMQmNxRmlnc0I4X3JSZ2FqNWdCUmZZRFE0aUNJVmowS3lkZGFFLWhHbEp2czNwVTZ6UGE2Nk4zRFo0YVU5SmgxNjNxbkxTa0Zkc0lwMVpxbXhpYzBj?oc=5",
-   "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
+   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
+   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
   },
   {
-   "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmptT0ZNZjVtWWpwM3h4LXVZRnFxNkxuWTc0cW1BWHpmX2Fab0lZaG1xTkFuNU9SOTBGR0hucmh4UGppeXgxOUlVUEhrQmhWRW5nZU5QWXlaZG81SjNsbUtUSV9Rei0xaXBnVkkxd1VJOUFhekllQ2VoRmtUb1hjVWI2ZkFJVzJZSDFiUkx0VEZMalpWLXJsX0tONUlSY2pH?oc=5",
-   "pub": "Mon, 10 Aug 2026 12:01:22 GMT"
-  },
-  {
-   "t": "„Der Ölmarkt ist strukturell im Überangebot“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFqVndudHo5TkdPeFkta2lLZWtMdnRXZWVraDNQTGhVNkc5d2VoMWJITS10NE5haWNjMFFMNUs3a25zSUQ4NHhNS1d5T1cwRloyOHc1NEFSTnBjQV9jOWRHN05PVjdXcVBkQmx2OUxCbFNfbWdOcTExUFZ0TWdwcl9ZY1NadXZnbFlBMFF2cGNyWDhnSEIydmVyU3NTWExwWUFEaXFmYV9OY1R2XzRhaC1RWGdsblM0bndDTzZB?oc=5",
-   "pub": "Mon, 10 Aug 2026 11:19:38 GMT"
+   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
+   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
   },
   {
    "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - xtb.com",
@@ -99,14 +94,19 @@
    "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
   },
   {
+   "t": "Iran: Ist Modschtaba Chamenei noch am Leben? - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2hPYzlQY1E2eXpTTHEtUGktbjktNzliVldPTkxPZkExV2pUY0Uybks0MWlQbDJROHVoT0liMkt4bnZfRkU0TjdJRVdscmpGUVRTLUJnN3lycUV5MDVZRU9MQnh0Y2JYYmtzMEIxWVN3OF9sWXpwZ3QxOWpfMmZqMkJZSzdEZWZYWVVPRDg4a0EzSEx0SUw5U0JWQno?oc=5",
+   "pub": "Mon, 10 Aug 2026 10:37:46 GMT"
+  },
+  {
+   "t": "Iran - Teheran benennt neue oberste Militärführung - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUVzQ5Rmc1Wjd0WGJTSFRnSHNSNHlIMmJkbUkzNXVmTkgtQ2xWQmtZOXc1bVFqYV8tMTU1c1g2aDhvaDloVlB6ODZ6MXY3cnVvbXRqcWNkbkZIdWhNbzNsVllheTRpWDBTenp0Umx3UnVXVjNDdlNFV3dXeEg?oc=5",
+   "pub": "Mon, 10 Aug 2026 18:04:01 GMT"
+  },
+  {
    "t": "Iran hat neue Forderungen an die USA - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXI2anZsYWExWDRZTHBTcmxzWU81bkoyZUpPNDFHeWY3dzNwLURBc2JaV21MNGh6Rjc4WHFtTTlNbjlSNWtmSnU5ZFhLZWVGWnNCMTJnVHY4MjMxeUN2RXlFWFlvUWZxQTkxLUl3LVNrTmVnNzFWNG16TE9aZ1lHT21FNzNhRlhuRFVvOVhSWWFaQllUUkZVbFlsbzNBMWpHMVFjeA?oc=5",
    "pub": "Mon, 10 Aug 2026 06:29:00 GMT"
-  },
-  {
-   "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JDd3dLY2Zqb1NXX0V5QnBjYWtHa1dfMVZibnJvVmVuc0ExOHRMTElMTTlJODkxcy1IOFV4UHBiNHI5SmtJc3JjQ3BqQW14TDdmU0lyUGNkMmF5dGVrZVpVaEpjRFVFaFRZdnpBb09iaXdPdTNSTldWZFhTTWJKQTkzdzVtOUpkekF6dWtFNkE1bFBnbDZWMkxCLV83SVJidEEybkgxRWFBTXhSV2NOZDdnTE8?oc=5",
-   "pub": "Mon, 10 Aug 2026 11:20:52 GMT"
   }
  ]
 }
