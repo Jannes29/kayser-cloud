@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-09T23:47:46Z",
+ "collected_at": "2026-08-10T02:35:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8081,
-   "chg1d_pct": -0.53
+   "price": 0.8088,
+   "chg1d_pct": -0.44
   },
   "USDJPY": {
-   "price": 157.893,
-   "chg1d_pct": -0.33
+   "price": 158.222,
+   "chg1d_pct": -0.12
   },
   "GBPCAD": {
-   "price": 1.8819,
-   "chg1d_pct": -0.19
+   "price": 1.8821,
+   "chg1d_pct": -0.17
   },
   "AUDJPY": {
-   "price": 111.544,
-   "chg1d_pct": 0.12
+   "price": 111.767,
+   "chg1d_pct": 0.32
   },
   "EURUSD": {
-   "price": 1.1561,
-   "chg1d_pct": 0.31
+   "price": 1.1558,
+   "chg1d_pct": 0.29
   },
   "GBPCHF": {
-   "price": 1.0901,
-   "chg1d_pct": -0.26
+   "price": 1.0909,
+   "chg1d_pct": -0.19
   },
   "WTI": {
    "price": 78.75,
    "chg1d_pct": 0.73
   },
   "BRENT": {
-   "price": 84.3,
-   "chg1d_pct": 0.9
+   "price": 84.35,
+   "chg1d_pct": 0.96
   },
   "GOLD": {
-   "price": 4401.0,
-   "chg1d_pct": 1.39
+   "price": 4387.4,
+   "chg1d_pct": 1.08
   },
   "SPX_FUT": {
-   "price": 7769.5,
-   "chg1d_pct": -0.13
+   "price": 7778.75,
+   "chg1d_pct": -0.01
   },
   "NAS_FUT": {
-   "price": 29849.75,
-   "chg1d_pct": 0.05
+   "price": 29859.5,
+   "chg1d_pct": 0.08
   }
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
@@ -69,9 +69,9 @@
    "pub": "Sun, 09 Aug 2026 07:06:58 GMT"
   },
   {
-   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - deutschlandfunk.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
-   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
+   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
+   "pub": "Sun, 09 Aug 2026 22:04:13 GMT"
   },
   {
    "t": "(S+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Spiegel",
@@ -89,24 +89,24 @@
    "pub": "Sun, 09 Aug 2026 19:08:00 GMT"
   },
   {
-   "t": "Krieg in Nahost: Iran tauscht obersten Sicherheitsberater aus - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTjhxWjFxbDZJNTVaY0lESm1KaTVhdThzZUFnWnRKX2R5cGRGU3FQVXJ5S1czQXM1TEFmYS1TWDdkdnMwWGZCcWRjOUc2MlpSUEZheV9oRDc0cE02QnF5VkQyT2tCRTVxd0xhZjBFaFB4bjVWangzYWFwRFpzY0xUTktFT1VfOGZid0huTWZsVnNhRzBvOUFZczVwN1FCMGFoSkZlSzZnV19SQ2pVckhWbEhuZy1lQ181TVRoWGNFQklPLS1zUmtodw?oc=5",
-   "pub": "Sun, 09 Aug 2026 17:52:47 GMT"
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
+   "pub": "Sun, 09 Aug 2026 09:22:09 GMT"
   },
   {
-   "t": "Trump verzichtet offenbar vorerst auf Angriffe auf Iran: \"Halten uns zurück\" - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONGlCZ0JZVDFQTmtMWUZoUlBmSUk4S21JU05xcV8wQmNYYkdyRllhSHhBVFpCcFlfYWU2eENUWjJsS0NTTm9rcC03RlhCb0pyVTJ1TXZmRkZKSVRZSkF1V3lHaTFXREd6MVNIQnQwTjY1dEhWYlR5Q05NbFlYb01sUGdVbW5kdG00bHU4LUowa2Q1aUdPcHRlWnpn?oc=5",
-   "pub": "Sun, 09 Aug 2026 20:24:36 GMT"
+   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran erweitert Forderungen an USA - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQndYSWY1UV84eTl4eXRnNVhpQlNPZ2U2X2lwSjRQakVaUGh3aHBOR2JFVUU0MkVuUkFNQkIydGNLbFA5MDhLcUo4b1hWb3VRMG9WbzBXQkFtUE93Sk9NUU1teFYyaVlZUmE4R0x3ZzN0b3gxWUlLZF9ONFZuVGVJR2tGaUJoTUl1QUt3T2ZMamhzdw?oc=5",
+   "pub": "Sun, 09 Aug 2026 07:49:00 GMT"
   },
   {
    "t": "Iran: Mohsen Resai übernimmt Vorsitz im Nationalen Sicherheitsrat - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX0lLV2EwOEZyUUplM0I0eFB5T2JINnNEemFpT2c1eFI0RDAwVGtVR1BuSGF6MFItVHljbHMtcURlMW1pU21DdnNqX19qVW5uYVRvYnVDeDdSaF9Qc2pwemdJNTRqa1ptRmJ1UlhQNmNZYTEtejRSNnhRWVd4SXpfQXVTN3poR18xQ1lLdUxDMDlFMVdSTXJvVmRqVGttMGRxZFlPTno5WF9HM3R1WmdCVnZxOUg2aGxOQWdDX3k2V09tUFFtWFItdXVrbEJORGZP?oc=5",
    "pub": "Sun, 09 Aug 2026 18:26:00 GMT"
-  },
-  {
-   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - deutschlandfunk.de",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
-   "pub": "Sun, 09 Aug 2026 22:04:13 GMT"
   }
  ]
 }
