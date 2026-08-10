@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-10T17:09:36Z",
+ "collected_at": "2026-08-10T18:04:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8099,
-   "chg1d_pct": -0.31
+   "price": 0.81,
+   "chg1d_pct": -0.3
   },
   "USDJPY": {
-   "price": 159.15,
-   "chg1d_pct": 0.47
+   "price": 159.111,
+   "chg1d_pct": 0.44
   },
   "GBPCAD": {
-   "price": 1.8833,
+   "price": 1.8834,
    "chg1d_pct": -0.11
   },
   "AUDJPY": {
-   "price": 112.328,
-   "chg1d_pct": 0.82
+   "price": 112.253,
+   "chg1d_pct": 0.75
   },
   "EURUSD": {
-   "price": 1.1549,
-   "chg1d_pct": 0.21
+   "price": 1.1547,
+   "chg1d_pct": 0.19
   },
   "GBPCHF": {
-   "price": 1.0943,
-   "chg1d_pct": 0.12
+   "price": 1.094,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 81.42,
-   "chg1d_pct": 4.14
+   "price": 81.78,
+   "chg1d_pct": 4.6
   },
   "BRENT": {
-   "price": 87.04,
-   "chg1d_pct": 4.18
+   "price": 87.39,
+   "chg1d_pct": 4.6
   },
   "GOLD": {
-   "price": 4415.6,
-   "chg1d_pct": 1.73
+   "price": 4418.6,
+   "chg1d_pct": 1.79
   },
   "SPX_FUT": {
-   "price": 7774.5,
-   "chg1d_pct": -0.07
+   "price": 7772.75,
+   "chg1d_pct": -0.09
   },
   "NAS_FUT": {
-   "price": 29771.25,
-   "chg1d_pct": -0.21
+   "price": 29752.75,
+   "chg1d_pct": -0.27
   }
  },
  "headlines": [
@@ -56,7 +56,7 @@
   {
    "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 10:53:09 GMT"
+   "pub": "Mon, 10 Aug 2026 13:54:03 GMT"
   },
   {
    "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
@@ -69,9 +69,19 @@
    "pub": "Mon, 10 Aug 2026 13:30:36 GMT"
   },
   {
-   "t": "Gaza-Friedensplan und Iranverhandlungen: Für Trump hagelte es am Wochenende schlechte Nachrichten - Spiegel",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
+   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
+  },
+  {
+   "t": "Gaza-Friedensplan und Iranverhandlungen: Für Trump hagelte es am Wochenende schlechte Nachrichten - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUTV5Z1Q1VGhyU1A5SHFTTi1EWTJFbHI0U1JzdG9kN3B5d0tOQkUzS1ZYbEUzNkNsS3dDR0hvT2hZU01JcmxSNmFxRzFtSENBUDZWZVFfT3pMaWY3REdKaFNuaExaV3MxZWZ6aVhWR0RlNlU1cXBUREl3UzR2amVwWXVxVVNsVUFLZ1ZvLTNNX1N5Y21PamxBYUhNcFNVMjNialZDME42Rk43b1dMcGIzOG5TVXo5TGhHLUVkcHk0aXc4Ylg2TGNJLTl5SEEwNm1PNnlHSmNQUDMxLXZVbGgzeXFpRmhZcm1MQ2VhM2dNYjRDcnRIMXRiWk5Fb1R5MEFP?oc=5",
    "pub": "Mon, 10 Aug 2026 02:56:00 GMT"
+  },
+  {
+   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGsyRlZSMDYwRy1jOEtxTmZkY2NxOWpabk1henJlMWNuMFZVZHFZUnBUdVVhdm4yNVZlSjRldmJmVVJEODJJZHpnTDA4N3RneEo4SXN5T044NWhpaDRFYm82MndEWmVMQmNxRmlnc0I4X3JSZ2FqNWdCUmZZRFE0aUNJVmowS3lkZGFFLWhHbEp2czNwVTZ6UGE2Nk4zRFo0YVU5SmgxNjNxbkxTa0Zkc0lwMVpxbXhpYzBj?oc=5",
+   "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
   },
   {
    "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk",
@@ -79,19 +89,14 @@
    "pub": "Mon, 10 Aug 2026 12:01:22 GMT"
   },
   {
-   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
-   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
-  },
-  {
    "t": "„Der Ölmarkt ist strukturell im Überangebot“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFqVndudHo5TkdPeFkta2lLZWtMdnRXZWVraDNQTGhVNkc5d2VoMWJITS10NE5haWNjMFFMNUs3a25zSUQ4NHhNS1d5T1cwRloyOHc1NEFSTnBjQV9jOWRHN05PVjdXcVBkQmx2OUxCbFNfbWdOcTExUFZ0TWdwcl9ZY1NadXZnbFlBMFF2cGNyWDhnSEIydmVyU3NTWExwWUFEaXFmYV9OY1R2XzRhaC1RWGdsblM0bndDTzZB?oc=5",
    "pub": "Mon, 10 Aug 2026 11:19:38 GMT"
   },
   {
-   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGsyRlZSMDYwRy1jOEtxTmZkY2NxOWpabk1henJlMWNuMFZVZHFZUnBUdVVhdm4yNVZlSjRldmJmVVJEODJJZHpnTDA4N3RneEo4SXN5T044NWhpaDRFYm82MndEWmVMQmNxRmlnc0I4X3JSZ2FqNWdCUmZZRFE0aUNJVmowS3lkZGFFLWhHbEp2czNwVTZ6UGE2Nk4zRFo0YVU5SmgxNjNxbkxTa0Zkc0lwMVpxbXhpYzBj?oc=5",
-   "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
+   "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - xtb.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NoS3M1UlBpeGtaLXFqcTVzTENHY1pES19yNTlaczdTNlRMMEpTRHFuZlVvRDdHVnlSNzBId0dpQ1R4ei1leVR0c01kR3Rib3ZidV8wTk5SVTE0TzRvUXZSeW94NE96c0h1djl4dnIweGdwdlBVM294Z0NvUllDSkhNNFJjUDhaQ0JEZTVQZ2RoeUtLTWE1bVp4T3I?oc=5",
+   "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
   },
   {
    "t": "Iran hat neue Forderungen an die USA - n-tv.de",
@@ -102,11 +107,6 @@
    "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JDd3dLY2Zqb1NXX0V5QnBjYWtHa1dfMVZibnJvVmVuc0ExOHRMTElMTTlJODkxcy1IOFV4UHBiNHI5SmtJc3JjQ3BqQW14TDdmU0lyUGNkMmF5dGVrZVpVaEpjRFVFaFRZdnpBb09iaXdPdTNSTldWZFhTTWJKQTkzdzVtOUpkekF6dWtFNkE1bFBnbDZWMkxCLV83SVJidEEybkgxRWFBTXhSV2NOZDdnTE8?oc=5",
    "pub": "Mon, 10 Aug 2026 11:20:52 GMT"
-  },
-  {
-   "t": "Iran-Verhandlungen: Trump setzt vorerst auf wirtschaftlichen Druck - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tdmd0ckFBRVNBZG9iWktRdG5oa0wwelpSVkJsUEt6S0c4cUh2bDJPcEoxeVJjYVRMcUZNZndwWTdueW9aTnNSbTNBVXlVYW0yUGNneXlDMTh6TndPT1BiRmx0OFQyYzhvMHEwV2VB?oc=5",
-   "pub": "Mon, 10 Aug 2026 05:45:00 GMT"
   }
  ]
 }
