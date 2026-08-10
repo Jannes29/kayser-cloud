@@ -1,55 +1,70 @@
 {
- "collected_at": "2026-08-10T13:45:25Z",
+ "collected_at": "2026-08-10T15:17:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8098,
-   "chg1d_pct": -0.32
+   "price": 0.8088,
+   "chg1d_pct": -0.44
   },
   "USDJPY": {
-   "price": 158.987,
-   "chg1d_pct": 0.36
+   "price": 158.921,
+   "chg1d_pct": 0.32
   },
   "GBPCAD": {
-   "price": 1.8839,
-   "chg1d_pct": -0.08
+   "price": 1.8842,
+   "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 112.169,
-   "chg1d_pct": 0.68
+   "price": 112.278,
+   "chg1d_pct": 0.78
   },
   "EURUSD": {
-   "price": 1.1551,
-   "chg1d_pct": 0.23
+   "price": 1.1555,
+   "chg1d_pct": 0.26
   },
   "GBPCHF": {
-   "price": 1.0934,
-   "chg1d_pct": 0.04
+   "price": 1.0937,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 79.86,
-   "chg1d_pct": 2.15
+   "price": 80.93,
+   "chg1d_pct": 3.52
   },
   "BRENT": {
-   "price": 85.38,
-   "chg1d_pct": 2.19
+   "price": 86.38,
+   "chg1d_pct": 3.39
   },
   "GOLD": {
-   "price": 4396.2,
-   "chg1d_pct": 1.28
+   "price": 4411.4,
+   "chg1d_pct": 1.63
   },
   "SPX_FUT": {
-   "price": 7773.75,
-   "chg1d_pct": -0.08
+   "price": 7786.25,
+   "chg1d_pct": 0.08
   },
   "NAS_FUT": {
-   "price": 29741.25,
-   "chg1d_pct": -0.31
+   "price": 29818.0,
+   "chg1d_pct": -0.06
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg und Israel-Hamas-Konflikt: Für Donald Trump hagelte es am Wochenende schlechte Nachrichten - Spiegel",
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
+   "pub": "Mon, 10 Aug 2026 10:53:09 GMT"
+  },
+  {
+   "t": "„Schachspieler“ Iran: Straße von Hormus bleibt zu, bis USA zahlen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjQ0RTBlMGtLTDEtVWxfeXB0UkpzRGpjalZMVTBJbC16YVVpX3FPMjRURGszTG1XeDUzRUhoRFo2enFiUHRYa042M3c3cHB0dmtjYktLQnBmdWNicW0zVFRrTC1SbTdwSkpYSk96cEVtNlA1VV9leURlWk5KTUdIRzBlb3NObllpTkV2bnNIRnE3UlpBQTdhZnh0Y1BHZw?oc=5",
+   "pub": "Mon, 10 Aug 2026 13:30:36 GMT"
+  },
+  {
+   "t": "„Ein Rahmenabkommen ist offenbar erzielt worden“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVVhiX2stX3IxR1I2bE9seUU5R1VCX2NEQjNVUnZsTzNOT25fdmZjWnJxUllQSjR5cUtDU3FId3Y4aGRQYnc1emhzQ0M1SjlENU9uV2ExOHJXbUREU2l2WjAtYjBQX0dQRG9vYndZa2Q0U3I5cWxrWUtJZ2ZxbFBuZnpRT2plR1FKOHI0N2VKMi04alVWamdiRkR2bUozTzdBQ3c5V04yNDNOaDNJVWFpRDlzNnlNeXJYUzE3NnVON2RjM05kbGFVUzdsaXc4U1lWSGt4bQ?oc=5",
+   "pub": "Mon, 10 Aug 2026 13:45:54 GMT"
+  },
+  {
+   "t": "Gaza-Friedensplan und Iranverhandlungen: Für Trump hagelte es am Wochenende schlechte Nachrichten - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUTV5Z1Q1VGhyU1A5SHFTTi1EWTJFbHI0U1JzdG9kN3B5d0tOQkUzS1ZYbEUzNkNsS3dDR0hvT2hZU01JcmxSNmFxRzFtSENBUDZWZVFfT3pMaWY3REdKaFNuaExaV3MxZWZ6aVhWR0RlNlU1cXBUREl3UzR2amVwWXVxVVNsVUFLZ1ZvLTNNX1N5Y21PamxBYUhNcFNVMjNialZDME42Rk43b1dMcGIzOG5TVXo5TGhHLUVkcHk0aXc4Ylg2TGNJLTl5SEEwNm1PNnlHSmNQUDMxLXZVbGgzeXFpRmhZcm1MQ2VhM2dNYjRDcnRIMXRiWk5Fb1R5MEFP?oc=5",
    "pub": "Mon, 10 Aug 2026 02:56:00 GMT"
   },
@@ -64,12 +79,7 @@
    "pub": "Mon, 10 Aug 2026 05:45:00 GMT"
   },
   {
-   "t": "„Der Ölmarkt ist strukturell im Überangebot“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGFqVndudHo5TkdPeFkta2lLZWtMdnRXZWVraDNQTGhVNkc5d2VoMWJITS10NE5haWNjMFFMNUs3a25zSUQ4NHhNS1d5T1cwRloyOHc1NEFSTnBjQV9jOWRHN05PVjdXcVBkQmx2OUxCbFNfbWdOcTExUFZ0TWdwcl9ZY1NadXZnbFlBMFF2cGNyWDhnSEIydmVyU3NTWExwWUFEaXFmYV9OY1R2XzRhaC1RWGdsblM0bndDTzZB?oc=5",
-   "pub": "Mon, 10 Aug 2026 11:19:38 GMT"
-  },
-  {
-   "t": "„Risiko steigt erheblich“: Gasspeicher der EU füllen sich zu langsam – auch Deutschlands Versorguzng bedroht - Frankfurter Rundschau",
+   "t": "„Risiko steigt erheblich“: Gasspeicher der EU füllen sich zu langsam – auch Deutschlands Versorguzng bedroht - fr.de",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkFKRU9VdFdTODBMMjRNYzB0cTdmRjJLUl9pSzlmN2EwN2dpbzVEOV9yWjJpa2pvc1JvM0tMQkUyNDQ5eXRGaE84Qldkc0x2eWRVVkV3VTRzQm8zWUw1TlotdjlGQXZaVVdqZk4wbWVuWC1qZ1BSaDV1VktyQnZIN1E3UmdRb0hVU2lpRmNBZ2E4a1NSNXQ5TjlHa0FBQlhLVFhPajdVNFd3TEV1c0pZ?oc=5",
    "pub": "Mon, 10 Aug 2026 10:08:01 GMT"
   },
@@ -79,12 +89,7 @@
    "pub": "Mon, 10 Aug 2026 06:29:00 GMT"
   },
   {
-   "t": "Trump in Iran-Zugzwang vor Schachmatt - und der Gold-Ausbruch! - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTVpWlhRQWdKX3dudGRxb0YzOWFEWmEwVnlrTWd3VzV2cXp6ZGFZeWQzdGxEQURLMFdTSmJpODRCV1dSZEVmN1VvcjNSMDRMTHhpMUJQZUxoNUpGN3lGMmo3bV9nMDdpeXdVNFVfSU03RlRrdUljMElFVTg5ZTFId2hfQ0hvenAtdG1lRzRJVk5SaUQyTTE4eTMxdGQ3aFZvS1ppdUZFdmJQQW1JZ2dJ?oc=5",
-   "pub": "Mon, 10 Aug 2026 07:43:05 GMT"
-  },
-  {
-   "t": "Lieferketten: Iran verknüpft Öffnung von Hormus mit US-Zugeständnissen - logistik-heute.de",
+   "t": "Lieferketten: Iran verknüpft Öffnung von Hormus mit US-Zugeständnissen - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNndidXZ2MUoxS3RGTVE0akpYSlV4VTV5THVyU240LTdDaGlGN3pZQThPRjAwRks3d3pGTFBfZE9RS1k0NVNiOFB5RFlNVFRCSXdNSmIyT1I3QV8wOV9aWGZaTm1pRGdHWDNtY0dHWWFiWlZSOGNIc0I3SDZuOV90UnoxeWdDN1ZqNk9UcWVRWWlKT2o1VVBoalprbEl0aUxZSHcxcXNMZS04Zm5fcE5Fd0l2VF8zdw?oc=5",
    "pub": "Mon, 10 Aug 2026 07:17:00 GMT"
   },
@@ -102,11 +107,6 @@
    "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
    "pub": "Mon, 10 Aug 2026 09:53:35 GMT"
-  },
-  {
-   "t": "„Regelt sich immer“: Trump gibt sich im Iran-Krieg gelassen – doch Teheran beharrt auf Maximalforderungen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlJCcG5wVGFoX2NRU2hqTDI0WjZVQURKektsSWRwRTI1bEZMSDZJQW1ra3JqcXhmMldlNVJVSExHYWJ4ZWFDVldKM0NkMzNHLVlhdjJqUjRRRm5OUTN1SHhLUWNLRVBCZlQ1YU5wWWFlSkNYcWIwQy0xbzdyZEN0R3NZaEFMcy1FeTNQQnJURWo5S2Vac2VjUlZ1TjhCY2hpZEtxa1NQUDNfdkJhWW0xZXFjLVd0Y3F1ZkJTSm13SGdEWDg4YzUtLQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 07:10:46 GMT"
   }
  ]
 }
