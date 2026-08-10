@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-10T08:51:52Z",
+ "collected_at": "2026-08-10T10:36:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8079,
-   "chg1d_pct": -0.56
+   "price": 0.8084,
+   "chg1d_pct": -0.49
   },
   "USDJPY": {
-   "price": 158.611,
-   "chg1d_pct": 0.13
+   "price": 158.79,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8817,
-   "chg1d_pct": -0.2
+   "price": 1.8823,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 112.152,
-   "chg1d_pct": 0.66
+   "price": 112.187,
+   "chg1d_pct": 0.7
   },
   "EURUSD": {
-   "price": 1.1565,
-   "chg1d_pct": 0.35
+   "price": 1.1559,
+   "chg1d_pct": 0.3
   },
   "GBPCHF": {
-   "price": 1.0908,
-   "chg1d_pct": -0.2
+   "price": 1.0912,
+   "chg1d_pct": -0.16
   },
   "WTI": {
-   "price": 78.95,
-   "chg1d_pct": 0.98
+   "price": 78.73,
+   "chg1d_pct": 0.7
   },
   "BRENT": {
-   "price": 84.47,
-   "chg1d_pct": 1.1
+   "price": 84.16,
+   "chg1d_pct": 0.73
   },
   "GOLD": {
-   "price": 4406.8,
-   "chg1d_pct": 1.52
+   "price": 4401.9,
+   "chg1d_pct": 1.41
   },
   "SPX_FUT": {
-   "price": 7792.0,
-   "chg1d_pct": 0.16
+   "price": 7790.25,
+   "chg1d_pct": 0.13
   },
   "NAS_FUT": {
-   "price": 29962.75,
-   "chg1d_pct": 0.43
+   "price": 29939.5,
+   "chg1d_pct": 0.35
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg und Israel-Hamas-Konflikt: Für Donald Trump hagelte es am Wochenende schlechte Nachrichten - Spiegel",
+   "t": "Gaza-Friedensplan und Iranverhandlungen – für Trump hagelt es schlechte Nachrichten - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUTV5Z1Q1VGhyU1A5SHFTTi1EWTJFbHI0U1JzdG9kN3B5d0tOQkUzS1ZYbEUzNkNsS3dDR0hvT2hZU01JcmxSNmFxRzFtSENBUDZWZVFfT3pMaWY3REdKaFNuaExaV3MxZWZ6aVhWR0RlNlU1cXBUREl3UzR2amVwWXVxVVNsVUFLZ1ZvLTNNX1N5Y21PamxBYUhNcFNVMjNialZDME42Rk43b1dMcGIzOG5TVXo5TGhHLUVkcHk0aXc4Ylg2TGNJLTl5SEEwNm1PNnlHSmNQUDMxLXZVbGgzeXFpRmhZcm1MQ2VhM2dNYjRDcnRIMXRiWk5Fb1R5MEFP?oc=5",
    "pub": "Mon, 10 Aug 2026 02:56:00 GMT"
+  },
+  {
+   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
+   "pub": "Mon, 10 Aug 2026 09:53:35 GMT"
   },
   {
    "t": "Iran-Verhandlungen: Trump setzt vorerst auf wirtschaftlichen Druck - tagesschau.de",
@@ -64,9 +69,9 @@
    "pub": "Mon, 10 Aug 2026 06:29:00 GMT"
   },
   {
-   "t": "Wechsel - Iran tauscht obersten Sicherheitsberater aus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFJSaHVyWjFFeFc1UmZsOXgyaFB3WmxTOHRGQk1CM0NUMENkWDBxbHVSVVY2MmtJYXVSX3hleTFWTHl3eG9MX2RjcGRZOXZtOWk0Q0EwMDJ3a2Zvcms0Znp1YWpYd0FzT0dTY0N4bzV0R19oSTJlbm1rcWpkdHVPMWgteXVwTkUybU0zMQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 03:21:30 GMT"
+   "t": "„Risiko steigt erheblich“: Gasspeicher der EU füllen sich zu langsam – auch Deutschlands Versorguzng bedroht - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQkFKRU9VdFdTODBMMjRNYzB0cTdmRjJLUl9pSzlmN2EwN2dpbzVEOV9yWjJpa2pvc1JvM0tMQkUyNDQ5eXRGaE84Qldkc0x2eWRVVkV3VTRzQm8zWUw1TlotdjlGQXZaVVdqZk4wbWVuWC1qZ1BSaDV1VktyQnZIN1E3UmdRb0hVU2lpRmNBZ2E4a1NSNXQ5TjlHa0FBQlhLVFhPajdVNFd3TEV1c0pZ?oc=5",
+   "pub": "Mon, 10 Aug 2026 10:08:01 GMT"
   },
   {
    "t": "Trump in Iran-Zugzwang vor Schachmatt - und der Gold-Ausbruch! - Wallstreet Online",
@@ -74,7 +79,7 @@
    "pub": "Mon, 10 Aug 2026 07:43:05 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
@@ -84,19 +89,9 @@
    "pub": "Mon, 10 Aug 2026 05:15:34 GMT"
   },
   {
-   "t": "„Regelt sich immer“: Trump gibt sich im Iran-Krieg gelassen – doch Teheran beharrt auf Maximalforderungen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlJCcG5wVGFoX2NRU2hqTDI0WjZVQURKektsSWRwRTI1bEZMSDZJQW1ra3JqcXhmMldlNVJVSExHYWJ4ZWFDVldKM0NkMzNHLVlhdjJqUjRRRm5OUTN1SHhLUWNLRVBCZlQ1YU5wWWFlSkNYcWIwQy0xbzdyZEN0R3NZaEFMcy1FeTNQQnJURWo5S2Vac2VjUlZ1TjhCY2hpZEtxa1NQUDNfdkJhWW0xZXFjLVd0Y3F1ZkJTSm13SGdEWDg4YzUtLQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 07:10:00 GMT"
-  },
-  {
    "t": "„Wir verhandeln nur halb mit dem Iran“, gibt Trump zu – Teheran vollzieht wichtigen Personalwechsel - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZVVYOGNBNnh5cXhVZzZ1Sndtd1JnNzZkcHJIZmVWc0JGZ3YtV0JFdUQ4ME1aXzE4clZ6Nzh1bE5JeGN3VGlFSHpzUWxEZ2FlOGY3eUY4TC0tWGN5QW9wV3hhcUFNQVRsUDdZdkxsLUF3b1h3UEJIT21vZXZDMENwb2tDZURRZVZwYWFRMVotU1g4SGhEbC1HQXd0SVcyNFIza2tvekFJYzZrODNGREtwX3dHY3BUNDdjSlFTWm5mUEVNcUhJYktfVTdqdVdqTHc0Y3c5QzdTcFpiUjJVOWNsVjRB?oc=5",
    "pub": "Sun, 09 Aug 2026 22:00:41 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
-   "pub": "Sun, 09 Aug 2026 12:51:21 GMT"
   },
   {
    "t": "(S+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Spiegel",
@@ -104,7 +99,12 @@
    "pub": "Sun, 09 Aug 2026 18:01:00 GMT"
   },
   {
-   "t": "Lage im Überblick: Trump zu Iran-Diplomatie: «Es ist wie eine Schachpartie» - DIE ZEIT",
+   "t": "„Regelt sich immer“: Trump gibt sich im Iran-Krieg gelassen – doch Teheran beharrt auf Maximalforderungen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlJCcG5wVGFoX2NRU2hqTDI0WjZVQURKektsSWRwRTI1bEZMSDZJQW1ra3JqcXhmMldlNVJVSExHYWJ4ZWFDVldKM0NkMzNHLVlhdjJqUjRRRm5OUTN1SHhLUWNLRVBCZlQ1YU5wWWFlSkNYcWIwQy0xbzdyZEN0R3NZaEFMcy1FeTNQQnJURWo5S2Vac2VjUlZ1TjhCY2hpZEtxa1NQUDNfdkJhWW0xZXFjLVd0Y3F1ZkJTSm13SGdEWDg4YzUtLQ?oc=5",
+   "pub": "Mon, 10 Aug 2026 07:10:46 GMT"
+  },
+  {
+   "t": "Lage im Überblick: Trump zu Iran-Diplomatie: «Es ist wie eine Schachpartie» - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWmxFZFF6N2I0OVQ1M2Vaa3ZNOW5PNVRZdG9VcnBwM3ZaZ2d6ZjZIRzBvWjc3d3JNa1JuaWJ0eFhBWmNrMGN5akpxNHo0THRwWTFRZHRyR09fTHJJRnVsM2hrV0lpT1JZN2VRYVRRMXo5SzJfZ0hiODVrMjFFc3RvZ0w3SVNaU2pwV0xCbUg0SXJLUHM?oc=5",
    "pub": "Mon, 10 Aug 2026 03:10:06 GMT"
   }
