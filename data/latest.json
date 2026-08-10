@@ -1,22 +1,22 @@
 {
- "collected_at": "2026-08-10T22:57:13Z",
+ "collected_at": "2026-08-10T23:51:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8101,
-   "chg1d_pct": 0.24
+   "price": 0.81,
+   "chg1d_pct": 0.23
   },
   "USDJPY": {
-   "price": 159.249,
-   "chg1d_pct": 0.86
+   "price": 159.196,
+   "chg1d_pct": 0.83
   },
   "GBPCAD": {
    "price": 1.8826,
    "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 112.362,
-   "chg1d_pct": 0.76
+   "price": 112.318,
+   "chg1d_pct": 0.72
   },
   "EURUSD": {
    "price": 1.1547,
@@ -27,24 +27,24 @@
    "chg1d_pct": 0.37
   },
   "WTI": {
-   "price": 82.14,
-   "chg1d_pct": 5.07
+   "price": 82.15,
+   "chg1d_pct": 5.08
   },
   "BRENT": {
-   "price": 87.68,
-   "chg1d_pct": 4.94
+   "price": 87.65,
+   "chg1d_pct": 4.91
   },
   "GOLD": {
-   "price": 4457.2,
-   "chg1d_pct": 2.68
+   "price": 4457.4,
+   "chg1d_pct": 2.69
   },
   "SPX_FUT": {
-   "price": 7772.0,
-   "chg1d_pct": -0.1
+   "price": 7770.75,
+   "chg1d_pct": -0.12
   },
   "NAS_FUT": {
-   "price": 29727.25,
-   "chg1d_pct": -0.36
+   "price": 29709.5,
+   "chg1d_pct": -0.42
   }
  },
  "headlines": [
@@ -79,14 +79,14 @@
    "pub": "Mon, 10 Aug 2026 18:04:01 GMT"
   },
   {
-   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
-   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
+   "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - XTB",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NoS3M1UlBpeGtaLXFqcTVzTENHY1pES19yNTlaczdTNlRMMEpTRHFuZlVvRDdHVnlSNzBId0dpQ1R4ei1leVR0c01kR3Rib3ZidV8wTk5SVTE0TzRvUXZSeW94NE96c0h1djl4dnIweGdwdlBVM294Z0NvUllDSkhNNFJjUDhaQ0JEZTVQZ2RoeUtLTWE1bVp4T3I?oc=5",
+   "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
-   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
+   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - srf.ch",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
+   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
   },
   {
    "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
@@ -99,14 +99,14 @@
    "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
   },
   {
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
+   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
+  },
+  {
    "t": "Der Tag: Neue Trump-Forderung wird dem Iran nicht gefallen - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU2E1cldDZlFvM0hLVF9XTXFOZ0FSdTNkcWI5cGZFTnQ0aXBrcDFzcm9TNktRSEpNYXVsSWMwN3hOUmo5Z0IzV09nWUx4UjlCaG5Xcms3S2VaaGd4d0pudlF3cWk3TV8yY19jb3Vfb3NOT1NFclRUUWpOMXlTenF6Mm1IeVQ0ZmF6b1dWTnBGVlNnQXBGWEZEYw?oc=5",
    "pub": "Mon, 10 Aug 2026 17:09:45 GMT"
-  },
-  {
-   "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NoS3M1UlBpeGtaLXFqcTVzTENHY1pES19yNTlaczdTNlRMMEpTRHFuZlVvRDdHVnlSNzBId0dpQ1R4ei1leVR0c01kR3Rib3ZidV8wTk5SVTE0TzRvUXZSeW94NE96c0h1djl4dnIweGdwdlBVM294Z0NvUllDSkhNNFJjUDhaQ0JEZTVQZ2RoeUtLTWE1bVp4T3I?oc=5",
-   "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
   }
  ]
 }
