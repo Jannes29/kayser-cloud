@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-11T18:08:49Z",
+ "collected_at": "2026-08-11T19:26:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8119,
-   "chg1d_pct": 0.46
+   "price": 0.8112,
+   "chg1d_pct": 0.37
   },
   "USDJPY": {
-   "price": 159.315,
-   "chg1d_pct": 0.9
+   "price": 159.289,
+   "chg1d_pct": 0.89
   },
   "GBPCAD": {
-   "price": 1.8791,
-   "chg1d_pct": -0.15
+   "price": 1.8799,
+   "chg1d_pct": -0.1
   },
   "AUDJPY": {
-   "price": 112.438,
-   "chg1d_pct": 0.82
+   "price": 112.461,
+   "chg1d_pct": 0.84
   },
   "EURUSD": {
-   "price": 1.1541,
-   "chg1d_pct": -0.13
+   "price": 1.1546,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.096,
-   "chg1d_pct": 0.53
+   "price": 1.0956,
+   "chg1d_pct": 0.5
   },
   "WTI": {
-   "price": 83.3,
-   "chg1d_pct": 1.42
+   "price": 83.28,
+   "chg1d_pct": 1.4
   },
   "BRENT": {
-   "price": 88.85,
-   "chg1d_pct": 1.29
+   "price": 88.97,
+   "chg1d_pct": 1.42
   },
   "GOLD": {
-   "price": 4430.7,
-   "chg1d_pct": 1.58
+   "price": 4423.0,
+   "chg1d_pct": 1.4
   },
   "SPX_FUT": {
-   "price": 7757.75,
-   "chg1d_pct": -0.24
+   "price": 7748.0,
+   "chg1d_pct": -0.37
   },
   "NAS_FUT": {
-   "price": 29630.75,
-   "chg1d_pct": -0.36
+   "price": 29605.0,
+   "chg1d_pct": -0.44
   }
  },
  "headlines": [
@@ -59,7 +59,7 @@
    "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
   },
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
    "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
   },
@@ -84,6 +84,16 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
+   "t": "Hinrichtungen im Iran: Exil-Iranerinnen „besonders verstört“ über neue Regime-Linien - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUhIWGpBM3FtWFdCMXpiS1NodXVMZXdMTVBucXVyZ0wzUHBPdXo0TV9YckItODRxOENQLXljMVVSdFYwLUtWSmd5LUpJVDNIVW16RHJCRHNyY0E1VWI4RFJ5OVJPWXdKMmlSeVRYQ0tTQk9XZmVGdk1GMl9QNjBFd0VFdS1PaG5UcXhSV2N4Q0F1STczdEhVbzluQjJQQmVxQ0FQWmV5ODRubVJSQnh6cnI0ZEFPdjBuWmsyVlV5MFR6WjRO?oc=5",
+   "pub": "Tue, 11 Aug 2026 17:00:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
+   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
+  },
+  {
    "t": "Für Trump ist die Straße von Hormus wieder offen - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnB0VWVwUjMySXh2Y3NkcEgyU2h2V3dOVEpMMXZhdnBfOFg0MVZvSFZLUU9EUzB6c1ZRMENjQzBvdzFhZFM0akpYUUF2eFVBVVlmTmtyUGhZNXIxRnZkUkJmTmJPZ1Mxc3d6V0lERDM4bzA5MWtXWWltYWRHSWRaQmJBX1VkdlZfb0FocjNWUGlxWWJ4dlhLeDRQMA?oc=5",
    "pub": "Tue, 11 Aug 2026 07:43:00 GMT"
@@ -92,16 +102,6 @@
    "t": "PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - deutschlandfunkkultur.de",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONldqdDBRWlNEQm41YjVKM19vS0tmSmR1U0JfTE9LaEZBUXdQRERSMUJOZVBPRnVOTjk5dUxwMlFxbFFBYTJsWEs1WUJBWXZwRGsxQ19yUjRaWk9rSU9jbkViODZiRkdoVjlxeEZCRTVsWFRfWmNSRk8zSG8xS0N2S29qMC00U0RDUG1nVDdpT1Rva1dlQm9yZ016NFpBSmNrbDR1NFVMMFk?oc=5",
    "pub": "Tue, 11 Aug 2026 16:02:17 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
-   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
-  },
-  {
-   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21zNTVOYlI5RW56M20tRTR2eFJWUzVKaEJ2UDRjU0pBdHhDZlJZNWNRb1AtUmdXd25NcDl3RFI3SnpUSGkwc3labG9ZeV9HM3JYUzRiaFBWdWkwbTBMQ0lPelV2Wm9KeXAwYWZSdzljX3FmSG10NUdscW1US2VET1NsajZmaHZvSHdUMHNSZldyNU9aNzZkQ2JCSmhWUFAwc0gyY1FXQUZ0UlhJNGxrVFp2OVVhY1NsZXB3?oc=5",
-   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
   },
   {
    "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
