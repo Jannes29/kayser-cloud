@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-11T15:16:37Z",
+ "collected_at": "2026-08-11T16:13:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8113,
-   "chg1d_pct": 0.39
+   "price": 0.811,
+   "chg1d_pct": 0.35
   },
   "USDJPY": {
-   "price": 159.249,
-   "chg1d_pct": 0.86
+   "price": 159.238,
+   "chg1d_pct": 0.85
   },
   "GBPCAD": {
-   "price": 1.8816,
-   "chg1d_pct": -0.01
+   "price": 1.8806,
+   "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 112.401,
-   "chg1d_pct": 0.79
+   "price": 112.427,
+   "chg1d_pct": 0.81
   },
   "EURUSD": {
-   "price": 1.1541,
-   "chg1d_pct": -0.13
+   "price": 1.1545,
+   "chg1d_pct": -0.1
   },
   "GBPCHF": {
-   "price": 1.0956,
-   "chg1d_pct": 0.5
+   "price": 1.0954,
+   "chg1d_pct": 0.48
   },
   "WTI": {
-   "price": 82.65,
-   "chg1d_pct": 0.63
+   "price": 83.0,
+   "chg1d_pct": 1.06
   },
   "BRENT": {
-   "price": 88.42,
-   "chg1d_pct": 0.8
+   "price": 88.47,
+   "chg1d_pct": 0.85
   },
   "GOLD": {
-   "price": 4455.1,
-   "chg1d_pct": 2.14
+   "price": 4443.1,
+   "chg1d_pct": 1.86
   },
   "SPX_FUT": {
-   "price": 7776.75,
-   "chg1d_pct": 0.0
+   "price": 7766.25,
+   "chg1d_pct": -0.14
   },
   "NAS_FUT": {
-   "price": 29747.25,
-   "chg1d_pct": 0.03
+   "price": 29653.75,
+   "chg1d_pct": -0.28
   }
  },
  "headlines": [
+  {
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
+   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
   {
    "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUIxQXpqTHVORjlwZkZBVWVVZ1hhZk9sY1ZueTdZb3RYWXA3SDY3SGZCQWk2N0ZmRzRyUWZ0UGhBSl9uTjQ4VVZWZGVtblAydEROcTF1TjFOTm0wX1ZwR1V2N1hYUGZXTVBvd0RDMHM3eEsxODdxa01wZEp4aF9tRjhLamVUQlhPaGRibDZoYW9VOVViM2E5ZzNXa0dJUTNUeUt3YTBlQVBCRUREa255STczUjFoSzBGdldnZWNrTUszUQ?oc=5",
@@ -59,27 +64,22 @@
    "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
   },
   {
-   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
-   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
-  },
-  {
    "t": "(S+) Mohsen Rezaee: Das ist der neue Chef des iranischen Sicherheitsrats - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0dJVGlxLWFPcHdxWmQ3Z0Q0QlJyWFFFMDdjblVqV1hVcDQ4SnpqTlFJTmViWk9mR3ZlMFB4dnJQRFNkZmtLNmRhU1pUNHQtQlVPUjF5LVROWndrWmtpekdFcEZjdGFtT2U5dXFGVm1vOXlyT2F6ajBCd182dGREeEVBbGp6ajl2bmswVjZYOUUyQnNETTZxNnJYdjEwNllqQVUzanZUcy1Kb1VzLUpad3pudWNIbkt1dnJsbVZPcHFWMjdKeTlVVWliZjNMWU01a1c0?oc=5",
    "pub": "Tue, 11 Aug 2026 10:40:00 GMT"
   },
   {
+   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
+   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
+  },
+  {
    "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRVU0xNVTk5bjZtMmlKS29YUjVFcUl1ODl6MTY3M1NqREJZRXZCZXdGTFN6ZzI5SXFhSU9tLWRqUzZ3ZHZ5ZzV0aHR1NkFuWUMzSndpUFFfZEZOVVVHUXExbHU5N2VlX2lDQVB6ak1RZ09ndFlrckJOZEJEWUlaMi1WWkdBMUZJY3JCVVFfaGdodnFNaENoMTlqMGJySFVk?oc=5",
-   "pub": "Tue, 11 Aug 2026 09:46:14 GMT"
+   "pub": "Tue, 11 Aug 2026 12:59:43 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
-   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Huthi-Milizen stoppen saudischen Ölfrachter im Tor der Tränen - T-Online",
+   "t": "Krieg in Nahost: Huthi-Milizen stoppen saudischen Ölfrachter im Tor der Tränen - t-online.de",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dHa3NNdFpSZXdHRkpDQ3p1TVRWMWlKLTZobHc2ejlDeE1NQzF5STFYdWM1RzJlZkM5aHUxZldUY2R4RDJldHg5V0dPRExtODdDYzZoWjNLTmtNeWFqdk1FdFJ6aUtQVW1QYm9WX05fUkM4LWViU2xHWVlUN0ZKYlRvdXpOVURvLUpOZkRybHJnamNxVzl1V3BMRW0wU1hnSjhsZ2FvenRrd0ZfMzA0UmFUMERjSUFYd0lsR2JXTWZHZjIydHU5T3RWb1czX2htWjFBSnc4bU90YTQ?oc=5",
    "pub": "Tue, 11 Aug 2026 10:50:26 GMT"
   },
@@ -89,14 +89,14 @@
    "pub": "Tue, 11 Aug 2026 07:43:00 GMT"
   },
   {
-   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21zNTVOYlI5RW56M20tRTR2eFJWUzVKaEJ2UDRjU0pBdHhDZlJZNWNRb1AtUmdXd25NcDl3RFI3SnpUSGkwc3labG9ZeV9HM3JYUzRiaFBWdWkwbTBMQ0lPelV2Wm9KeXAwYWZSdzljX3FmSG10NUdscW1US2VET1NsajZmaHZvSHdUMHNSZldyNU9aNzZkQ2JCSmhWUFAwc0gyY1FXQUZ0UlhJNGxrVFp2OVVhY1NsZXB3?oc=5",
-   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
-  },
-  {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
+  },
+  {
+   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21zNTVOYlI5RW56M20tRTR2eFJWUzVKaEJ2UDRjU0pBdHhDZlJZNWNRb1AtUmdXd25NcDl3RFI3SnpUSGkwc3labG9ZeV9HM3JYUzRiaFBWdWkwbTBMQ0lPelV2Wm9KeXAwYWZSdzljX3FmSG10NUdscW1US2VET1NsajZmaHZvSHdUMHNSZldyNU9aNzZkQ2JCSmhWUFAwc0gyY1FXQUZ0UlhJNGxrVFp2OVVhY1NsZXB3?oc=5",
+   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
@@ -104,9 +104,9 @@
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
-   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+   "t": "Medien: Trump setzte wegen Iran-Bedrohung auf Flugzeug-Trick - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXB4SlZlLUk5Z1Nvb0Q1YWRBYkpwM0VUNndtNVZ6cU1FTXhOaW5takptdEVqaVNfNmtfaUVROFBxdE9hZGJpZ19DNFJHdjRVdjhFbDhZQXhSa09OWl9VX0h6VGFIaXdoeGpVcFh1ZzJjeldjY2REdm5TRGd5U09PVEIxN3BHcmNENDdnS3FwMWpnM01HdEFzOFJ2c082aUNZTUsxRk5oR0hDc2c4TlpTWHozc1l4RUlqRlE?oc=5",
+   "pub": "Tue, 11 Aug 2026 06:03:18 GMT"
   }
  ]
 }
