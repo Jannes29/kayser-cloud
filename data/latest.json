@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-11T16:13:23Z",
+ "collected_at": "2026-08-11T17:14:27Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.811,
-   "chg1d_pct": 0.35
+   "price": 0.8119,
+   "chg1d_pct": 0.46
   },
   "USDJPY": {
-   "price": 159.238,
-   "chg1d_pct": 0.85
+   "price": 159.303,
+   "chg1d_pct": 0.89
   },
   "GBPCAD": {
-   "price": 1.8806,
-   "chg1d_pct": -0.07
+   "price": 1.8789,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 112.427,
-   "chg1d_pct": 0.81
+   "price": 112.456,
+   "chg1d_pct": 0.84
   },
   "EURUSD": {
-   "price": 1.1545,
-   "chg1d_pct": -0.1
+   "price": 1.1539,
+   "chg1d_pct": -0.15
   },
   "GBPCHF": {
-   "price": 1.0954,
-   "chg1d_pct": 0.48
+   "price": 1.0958,
+   "chg1d_pct": 0.51
   },
   "WTI": {
-   "price": 83.0,
-   "chg1d_pct": 1.06
+   "price": 83.09,
+   "chg1d_pct": 1.17
   },
   "BRENT": {
-   "price": 88.47,
-   "chg1d_pct": 0.85
+   "price": 88.57,
+   "chg1d_pct": 0.97
   },
   "GOLD": {
-   "price": 4443.1,
-   "chg1d_pct": 1.86
+   "price": 4443.2,
+   "chg1d_pct": 1.87
   },
   "SPX_FUT": {
-   "price": 7766.25,
-   "chg1d_pct": -0.14
+   "price": 7755.0,
+   "chg1d_pct": -0.28
   },
   "NAS_FUT": {
-   "price": 29653.75,
-   "chg1d_pct": -0.28
+   "price": 29613.5,
+   "chg1d_pct": -0.42
   }
  },
  "headlines": [
@@ -54,29 +54,24 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
+   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
+  },
+  {
    "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUIxQXpqTHVORjlwZkZBVWVVZ1hhZk9sY1ZueTdZb3RYWXA3SDY3SGZCQWk2N0ZmRzRyUWZ0UGhBSl9uTjQ4VVZWZGVtblAydEROcTF1TjFOTm0wX1ZwR1V2N1hYUGZXTVBvd0RDMHM3eEsxODdxa01wZEp4aF9tRjhLamVUQlhPaGRibDZoYW9VOVViM2E5ZzNXa0dJUTNUeUt3YTBlQVBCRUREa255STczUjFoSzBGdldnZWNrTUszUQ?oc=5",
    "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
   },
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
+   "t": "„Die Märkte werden sich vorerst daran gewöhnen müssen, dass die Straße von Hormus nicht offen ist“ - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ2ZsYlNDUmNpbHQ5SnlISjNPbFpQbTBnOTV0OU1RbjJsN0UxZ2ppVHEtYUdLc1RGTEJQUHM4aGRZd0szcGxteVVyejJVSTJZVkRhMDBUeTBETTBfOEVyeE1RbnNjdGNuN0xrdnpsbDM3Um1OdWpBSmt0VlZMb2JwcFhlTmthVzY0S0RtM0ZfV19YOURxVmwwVFluSDJMV0M4ZlFSYVludTlmUlZEUHFXOXEtY2k0YW9fdlFNMHJ0bGhlbHZDcmJLWDc5LWdmN1pvVjhOYks2S2hBRFBwQVZ4RUhPNXJnVXhPcWhKWmg5MHdUejFQY3hKbEdqYkVycldEdS0xbjliQQ?oc=5",
+   "pub": "Tue, 11 Aug 2026 11:28:13 GMT"
   },
   {
    "t": "(S+) Mohsen Rezaee: Das ist der neue Chef des iranischen Sicherheitsrats - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0dJVGlxLWFPcHdxWmQ3Z0Q0QlJyWFFFMDdjblVqV1hVcDQ4SnpqTlFJTmViWk9mR3ZlMFB4dnJQRFNkZmtLNmRhU1pUNHQtQlVPUjF5LVROWndrWmtpekdFcEZjdGFtT2U5dXFGVm1vOXlyT2F6ajBCd182dGREeEVBbGp6ajl2bmswVjZYOUUyQnNETTZxNnJYdjEwNllqQVUzanZUcy1Kb1VzLUpad3pudWNIbkt1dnJsbVZPcHFWMjdKeTlVVWliZjNMWU01a1c0?oc=5",
    "pub": "Tue, 11 Aug 2026 10:40:00 GMT"
-  },
-  {
-   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
-   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
-  },
-  {
-   "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRVU0xNVTk5bjZtMmlKS29YUjVFcUl1ODl6MTY3M1NqREJZRXZCZXdGTFN6ZzI5SXFhSU9tLWRqUzZ3ZHZ5ZzV0aHR1NkFuWUMzSndpUFFfZEZOVVVHUXExbHU5N2VlX2lDQVB6ak1RZ09ndFlrckJOZEJEWUlaMi1WWkdBMUZJY3JCVVFfaGdodnFNaENoMTlqMGJySFVk?oc=5",
-   "pub": "Tue, 11 Aug 2026 12:59:43 GMT"
   },
   {
    "t": "Krieg in Nahost: Huthi-Milizen stoppen saudischen Ölfrachter im Tor der Tränen - t-online.de",
@@ -94,9 +89,9 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21zNTVOYlI5RW56M20tRTR2eFJWUzVKaEJ2UDRjU0pBdHhDZlJZNWNRb1AtUmdXd25NcDl3RFI3SnpUSGkwc3labG9ZeV9HM3JYUzRiaFBWdWkwbTBMQ0lPelV2Wm9KeXAwYWZSdzljX3FmSG10NUdscW1US2VET1NsajZmaHZvSHdUMHNSZldyNU9aNzZkQ2JCSmhWUFAwc0gyY1FXQUZ0UlhJNGxrVFp2OVVhY1NsZXB3?oc=5",
-   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
+   "t": "PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk Kultur",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONldqdDBRWlNEQm41YjVKM19vS0tmSmR1U0JfTE9LaEZBUXdQRERSMUJOZVBPRnVOTjk5dUxwMlFxbFFBYTJsWEs1WUJBWXZwRGsxQ19yUjRaWk9rSU9jbkViODZiRkdoVjlxeEZCRTVsWFRfWmNSRk8zSG8xS0N2S29qMC00U0RDUG1nVDdpT1Rva1dlQm9yZ016NFpBSmNrbDR1NFVMMFk?oc=5",
+   "pub": "Tue, 11 Aug 2026 16:02:17 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
@@ -104,9 +99,14 @@
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
-   "t": "Medien: Trump setzte wegen Iran-Bedrohung auf Flugzeug-Trick - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXB4SlZlLUk5Z1Nvb0Q1YWRBYkpwM0VUNndtNVZ6cU1FTXhOaW5takptdEVqaVNfNmtfaUVROFBxdE9hZGJpZ19DNFJHdjRVdjhFbDhZQXhSa09OWl9VX0h6VGFIaXdoeGpVcFh1ZzJjeldjY2REdm5TRGd5U09PVEIxN3BHcmNENDdnS3FwMWpnM01HdEFzOFJ2c082aUNZTUsxRk5oR0hDc2c4TlpTWHozc1l4RUlqRlE?oc=5",
-   "pub": "Tue, 11 Aug 2026 06:03:18 GMT"
+   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
+   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
+  },
+  {
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
+   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   }
  ]
 }
