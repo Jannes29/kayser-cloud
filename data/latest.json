@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-11T07:38:30Z",
+ "collected_at": "2026-08-11T09:14:27Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8107,
-   "chg1d_pct": 0.31
+   "price": 0.8112,
+   "chg1d_pct": 0.37
   },
   "USDJPY": {
-   "price": 159.269,
-   "chg1d_pct": 0.87
+   "price": 159.359,
+   "chg1d_pct": 0.93
   },
   "GBPCAD": {
-   "price": 1.8816,
-   "chg1d_pct": -0.01
+   "price": 1.8808,
+   "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 112.349,
-   "chg1d_pct": 0.74
+   "price": 112.367,
+   "chg1d_pct": 0.76
   },
   "EURUSD": {
-   "price": 1.1539,
-   "chg1d_pct": -0.15
+   "price": 1.1538,
+   "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.0945,
-   "chg1d_pct": 0.39
+   "price": 1.0951,
+   "chg1d_pct": 0.45
   },
   "WTI": {
-   "price": 83.67,
-   "chg1d_pct": 1.88
+   "price": 84.5,
+   "chg1d_pct": 2.89
   },
   "BRENT": {
-   "price": 89.29,
-   "chg1d_pct": 1.79
+   "price": 89.91,
+   "chg1d_pct": 2.5
   },
   "GOLD": {
-   "price": 4423.6,
-   "chg1d_pct": 1.42
+   "price": 4429.8,
+   "chg1d_pct": 1.56
   },
   "SPX_FUT": {
-   "price": 7774.0,
-   "chg1d_pct": -0.04
+   "price": 7773.25,
+   "chg1d_pct": -0.05
   },
   "NAS_FUT": {
-   "price": 29757.25,
-   "chg1d_pct": 0.07
+   "price": 29726.75,
+   "chg1d_pct": -0.03
   }
  },
  "headlines": [
@@ -59,6 +59,11 @@
    "pub": "Tue, 11 Aug 2026 04:03:54 GMT"
   },
   {
+   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21zNTVOYlI5RW56M20tRTR2eFJWUzVKaEJ2UDRjU0pBdHhDZlJZNWNRb1AtUmdXd25NcDl3RFI3SnpUSGkwc3labG9ZeV9HM3JYUzRiaFBWdWkwbTBMQ0lPelV2Wm9KeXAwYWZSdzljX3FmSG10NUdscW1US2VET1NsajZmaHZvSHdUMHNSZldyNU9aNzZkQ2JCSmhWUFAwc0gyY1FXQUZ0UlhJNGxrVFp2OVVhY1NsZXB3?oc=5",
+   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
+  },
+  {
    "t": "Iran besetzt oberste Militärführung neu – und plant Gebühren für Straße von Hormus - WELT",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeXh0MlNuc0FpN051YXpQYXk0WE5kdFM4RVVGOGF0Zy1pOVlLejVBYUxGQUxOX3NNWW9iOHZfWm1PSWNFazdKUEhwWU83WGhNRDdOZnNmTGdFOS1zcG1wX19YZHJKV2UyT3FvcGotaXNXZXhGTjNlcG1YNWlpODBaRTlVc2dqYjZDbksxQVBjZ0p1RDRaWVFsaHVNRGlWWUFlaEE2dUt3V1pyWXo2VkpLUkpkRUlDb08tNm9vcDRRRlAzdWNzN1lPeEpZcGFQWFdjc28tMWJQY0lfbUNzSUJ1dXRPVFI1WnBKeXdXQVdKQQ?oc=5",
    "pub": "Mon, 10 Aug 2026 18:51:36 GMT"
@@ -69,7 +74,7 @@
    "pub": "Mon, 10 Aug 2026 15:39:00 GMT"
   },
   {
-   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
+   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - merkur.de",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEJNM1VtOUtqcWZEODd4ZHlpQnNrbHB4UTNCVkpjTTdDQ3NwSGc5RzkzcThSRy0waHpabWdENl8xdGtyZjdnMFpyZ1dIeFFJUGw4S2VPbmxwZ0RtVEUtcFFiMV90c0Z1UDhnc2Z6UE5Sa202U0ZDU0pHNTdJUGxFOEZMbW1OdmVpWHRVM2JJUlhUOGJMREtrVUNabUhnaTdhZWEybFZpTEZmM2xNTGNsdA?oc=5",
    "pub": "Tue, 11 Aug 2026 03:29:43 GMT"
   },
@@ -84,29 +89,24 @@
    "pub": "Mon, 10 Aug 2026 21:14:34 GMT"
   },
   {
+   "t": "Börse: Dax bleibt trotz Iran-Sorgen in Rekordhoch-Reichweite, Ölpreise halten sich hoch - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSlQ4dkRhUFd2LUNBQ24xQWJiTmxRMDlhVjA0SE0tRDlaU2dFN2NWT3haYlBBTUFveERuSXNzOXpueTQyUHhGUVJYN0RTMXNwa2RCWUV1NE80UlhkQjBrZi1xMF9oNmVrQXVvODZuV0tqOTRoaXpxeVdEd3N3Rkc4QlFFeDdKd2JzdGpTRWZDalZNRm8zRDVMRWdLcmctNEEtOF9uc1dlNVJHRVQ5dVAyeHRuQUxPQUViM2pnYjRIWFl6RUxhNmpLUC14RFdiY3ptM0NaOTJuQ0FUdzY3Q21falprMTQ3R00zOXgtS2laVzF6M1gyVEVCX1M4d3QxM3dIMEZB?oc=5",
+   "pub": "Tue, 11 Aug 2026 07:22:00 GMT"
+  },
+  {
    "t": "BDI-Ausblick : Iran-Krieg dämpft Wachstum weltweit - www.agrarzeitung.de",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa18xRDRuaWprNEhjSjdJODhiZXZDNENrMWRVVkpDakV4WURWckZWdmxrVVIzdDYtaVZkamVyNW9jSmFJVmtmTy1NT1loNmlCdWs3ZjExUXpxdjVvV3dfT0JQVjc2dG1qODRkYTdsUzR4OTZQNkRpdjBPaXdmNVVIek5xaGs4c0NlODM4N1VYQVplRTdvZnkxcnlEVDJhNHZielUwLVBMbw?oc=5",
    "pub": "Tue, 11 Aug 2026 07:00:00 GMT"
   },
   {
-   "t": "Iran plant Gebühren für Straße von Hormus - DVZ - Deutsche Verkehrs-Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY093TTZYTURVdk93TW5FdVpOYVdzaDB5WlVrRVRZMUlrWVNCc1hxVDAzZnAzS3N4U2phVDh0dDdUUEVSTFk4ams5OFpkWWVEdnFNY2Z4ZzhKMFhNVjZYdXdER0RmVUhEak1lcmh2ZjI1dE9MX1c5MWRpRGl0NGJjdmlXZFpsaHROdkZKWHVvaGhrVExuVmd5aFluTHc?oc=5",
-   "pub": "Tue, 11 Aug 2026 06:01:24 GMT"
-  },
-  {
-   "t": "Trump stoppt Luftangriffe auf den Iran – und setzt jetzt auf eine viel härtere Waffe - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWtUOXdWcE45aWwwUnVKUEhoeEVPY3ZjZlpUcnRJZ0tOcWlmYXNPU3ZiZ3dqOGVVcDdMc3c4WFhwMDNVNTFiQzlrdGYtRWlkM2wwMEk3Mk42MmVwQjJ0WjhVbXZ0ZjFxMW41TVg5VHRyN05TcE9EelZHYnFJSWJHcWljXzFNN1JUamNiczhlVmZNTjN4VFJ3RDRsNDVCd3FFQWlVaDhPdnZLMVFESE1lSmcxY1NBSTZRbTBMakZ4NGpMMk9sZnFtS18zbHc2QQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
-   "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
-  },
-  {
    "t": "»Täuschungsaktion« mittels Catering-Lkw: Trump soll wegen Morddrohung aus Iran heimlich auf Militärflieger umgestiegen sein - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGdlSU5tMURrZnlrd0VnR2M0UHcxc3pjczJvcjdqTVc2MVhLc2JZS0RJV0RKRXJlLVZJWWU2dnBTcXQtT3JTLWJ5WDMwYXBkMmdmc2VhSzVwWnN3b0VlUTEzeE9uaG5mZmFSSVltb3NnY01HcEVjVER0NE1OZjZ2cl90TVNWSFZHZlhpSkt0aWZDQ0VSYXY4Ty1iOWVuXzBxZ0VvYi1PRU1UNnFvLVZNR2VpNXd6Q3NTOFdCZml3RkFKNnJBRlJqR0xTRXcyZlhjaDIwWHl2cXJYdFZUTElJczZFQ2hCWDJsYlI4dmhjbFUtUmp6ZWFlSg?oc=5",
    "pub": "Tue, 11 Aug 2026 01:28:00 GMT"
+  },
+  {
+   "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV1JDd3dLY2Zqb1NXX0V5QnBjYWtHa1dfMVZibnJvVmVuc0ExOHRMTElMTTlJODkxcy1IOFV4UHBiNHI5SmtJc3JjQ3BqQW14TDdmU0lyUGNkMmF5dGVrZVpVaEpjRFVFaFRZdnpBb09iaXdPdTNSTldWZFhTTWJKQTkzdzVtOUpkekF6dWtFNkE1bFBnbDZWMkxCLV83SVJidEEybkgxRWFBTXhSV2NOZDdnTE8?oc=5",
+   "pub": "Mon, 10 Aug 2026 11:20:52 GMT"
   }
  ]
 }
