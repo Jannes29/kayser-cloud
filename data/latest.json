@@ -1,67 +1,72 @@
 {
- "collected_at": "2026-08-11T10:13:33Z",
+ "collected_at": "2026-08-11T11:06:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8107,
-   "chg1d_pct": 0.31
+   "price": 0.8104,
+   "chg1d_pct": 0.28
   },
   "USDJPY": {
-   "price": 159.311,
-   "chg1d_pct": 0.9
+   "price": 159.104,
+   "chg1d_pct": 0.77
   },
   "GBPCAD": {
-   "price": 1.8808,
-   "chg1d_pct": -0.06
+   "price": 1.8813,
+   "chg1d_pct": -0.03
   },
   "AUDJPY": {
-   "price": 112.439,
-   "chg1d_pct": 0.82
+   "price": 112.414,
+   "chg1d_pct": 0.8
   },
   "EURUSD": {
-   "price": 1.1539,
-   "chg1d_pct": -0.15
+   "price": 1.1546,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0945,
-   "chg1d_pct": 0.39
+   "price": 1.0941,
+   "chg1d_pct": 0.36
   },
   "WTI": {
-   "price": 84.31,
-   "chg1d_pct": 2.65
+   "price": 83.53,
+   "chg1d_pct": 1.7
   },
   "BRENT": {
-   "price": 89.82,
-   "chg1d_pct": 2.39
+   "price": 88.98,
+   "chg1d_pct": 1.44
   },
   "GOLD": {
-   "price": 4430.6,
-   "chg1d_pct": 1.58
+   "price": 4438.2,
+   "chg1d_pct": 1.75
   },
   "SPX_FUT": {
-   "price": 7777.0,
-   "chg1d_pct": 0.0
+   "price": 7784.5,
+   "chg1d_pct": 0.1
   },
   "NAS_FUT": {
-   "price": 29763.75,
-   "chg1d_pct": 0.09
+   "price": 29815.25,
+   "chg1d_pct": 0.26
   }
  },
  "headlines": [
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
+   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
+  },
+  {
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
    "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+  },
+  {
+   "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRVU0xNVTk5bjZtMmlKS29YUjVFcUl1ODl6MTY3M1NqREJZRXZCZXdGTFN6ZzI5SXFhSU9tLWRqUzZ3ZHZ5ZzV0aHR1NkFuWUMzSndpUFFfZEZOVVVHUXExbHU5N2VlX2lDQVB6ak1RZ09ndFlrckJOZEJEWUlaMi1WWkdBMUZJY3JCVVFfaGdodnFNaENoMTlqMGJySFVk?oc=5",
+   "pub": "Tue, 11 Aug 2026 09:46:14 GMT"
   },
   {
    "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
    "pub": "Tue, 11 Aug 2026 04:03:54 GMT"
-  },
-  {
-   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
-   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
   },
   {
    "t": "Börse: Dax bleibt trotz Iran-Sorgen in Rekordhoch-Reichweite, Ölpreise halten sich hoch - Manager Magazin",
@@ -89,24 +94,19 @@
    "pub": "Tue, 11 Aug 2026 06:03:18 GMT"
   },
   {
-   "t": "Iran - Teheran benennt neue oberste Militärführung - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWndnaU14cWRzNkRNdzQwa0lKRXM0MTlfYXpIOERtalJ0VWdxVmtpb2JGQnFiUzlKbUE2VnBNYTNlc0tlbVNCeTRGSGlkM1ByeG9NaTN3LUp2WEdyYnNxSWcta1pITDNNbGtUdjVwWDc5ZWEwX0ZPRUJGVDZtam5SSUYtdW1LOWhuYkxvenNB?oc=5",
-   "pub": "Mon, 10 Aug 2026 21:14:34 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - zeit.de",
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "»Täuschungsaktion« mittels Catering-Lkw: Trump soll wegen Morddrohung aus Iran heimlich auf Militärflieger umgestiegen sein - Spiegel",
+   "t": "»Täuschungsaktion« mittels Catering-Lkw: Trump soll wegen Morddrohung aus Iran heimlich auf Militärflieger umgestiegen sein - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGdlSU5tMURrZnlrd0VnR2M0UHcxc3pjczJvcjdqTVc2MVhLc2JZS0RJV0RKRXJlLVZJWWU2dnBTcXQtT3JTLWJ5WDMwYXBkMmdmc2VhSzVwWnN3b0VlUTEzeE9uaG5mZmFSSVltb3NnY01HcEVjVER0NE1OZjZ2cl90TVNWSFZHZlhpSkt0aWZDQ0VSYXY4Ty1iOWVuXzBxZ0VvYi1PRU1UNnFvLVZNR2VpNXd6Q3NTOFdCZml3RkFKNnJBRlJqR0xTRXcyZlhjaDIwWHl2cXJYdFZUTElJczZFQ2hCWDJsYlI4dmhjbFUtUmp6ZWFlSg?oc=5",
    "pub": "Tue, 11 Aug 2026 01:28:00 GMT"
   },
   {
-   "t": "Iran besetzt oberste Militärführung neu – und plant Gebühren für Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeXh0MlNuc0FpN051YXpQYXk0WE5kdFM4RVVGOGF0Zy1pOVlLejVBYUxGQUxOX3NNWW9iOHZfWm1PSWNFazdKUEhwWU83WGhNRDdOZnNmTGdFOS1zcG1wX19YZHJKV2UyT3FvcGotaXNXZXhGTjNlcG1YNWlpODBaRTlVc2dqYjZDbksxQVBjZ0p1RDRaWVFsaHVNRGlWWUFlaEE2dUt3V1pyWXo2VkpLUkpkRUlDb08tNm9vcDRRRlAzdWNzN1lPeEpZcGFQWFdjc28tMWJQY0lfbUNzSUJ1dXRPVFI1WnBKeXdXQVdKQQ?oc=5",
-   "pub": "Mon, 10 Aug 2026 18:51:36 GMT"
+   "t": "Trump: Haben gesamte Straße von Hormus von Minen geräumt - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWGZ5ZG80UENuMlluVGZtYnAybVJVdFhhZ1pJMHdzOHlMa2EtM3BmaExjTmNDZ0JSRWFsY21lVVJaUjRHT3NDQWg5YXNlamN2dEZfcHdsZ3FRMWxiczZRZkdoSVF2UFRiV243RW5faER1eVV6MEw1LWI5OFVsaFhOVW4wYy02VTVY?oc=5",
+   "pub": "Tue, 11 Aug 2026 07:00:52 GMT"
   }
  ]
 }
