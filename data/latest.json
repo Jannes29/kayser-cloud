@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-11T17:14:27Z",
+ "collected_at": "2026-08-11T18:08:49Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,44 +7,44 @@
    "chg1d_pct": 0.46
   },
   "USDJPY": {
-   "price": 159.303,
-   "chg1d_pct": 0.89
+   "price": 159.315,
+   "chg1d_pct": 0.9
   },
   "GBPCAD": {
-   "price": 1.8789,
-   "chg1d_pct": -0.16
-  },
-  "AUDJPY": {
-   "price": 112.456,
-   "chg1d_pct": 0.84
-  },
-  "EURUSD": {
-   "price": 1.1539,
+   "price": 1.8791,
    "chg1d_pct": -0.15
   },
+  "AUDJPY": {
+   "price": 112.438,
+   "chg1d_pct": 0.82
+  },
+  "EURUSD": {
+   "price": 1.1541,
+   "chg1d_pct": -0.13
+  },
   "GBPCHF": {
-   "price": 1.0958,
-   "chg1d_pct": 0.51
+   "price": 1.096,
+   "chg1d_pct": 0.53
   },
   "WTI": {
-   "price": 83.09,
-   "chg1d_pct": 1.17
+   "price": 83.3,
+   "chg1d_pct": 1.42
   },
   "BRENT": {
-   "price": 88.57,
-   "chg1d_pct": 0.97
+   "price": 88.85,
+   "chg1d_pct": 1.29
   },
   "GOLD": {
-   "price": 4443.2,
-   "chg1d_pct": 1.87
+   "price": 4430.7,
+   "chg1d_pct": 1.58
   },
   "SPX_FUT": {
-   "price": 7755.0,
-   "chg1d_pct": -0.28
+   "price": 7757.75,
+   "chg1d_pct": -0.24
   },
   "NAS_FUT": {
-   "price": 29613.5,
-   "chg1d_pct": -0.42
+   "price": 29630.75,
+   "chg1d_pct": -0.36
   }
  },
  "headlines": [
@@ -54,17 +54,17 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
-  },
-  {
    "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUIxQXpqTHVORjlwZkZBVWVVZ1hhZk9sY1ZueTdZb3RYWXA3SDY3SGZCQWk2N0ZmRzRyUWZ0UGhBSl9uTjQ4VVZWZGVtblAydEROcTF1TjFOTm0wX1ZwR1V2N1hYUGZXTVBvd0RDMHM3eEsxODdxa01wZEp4aF9tRjhLamVUQlhPaGRibDZoYW9VOVViM2E5ZzNXa0dJUTNUeUt3YTBlQVBCRUREa255STczUjFoSzBGdldnZWNrTUszUQ?oc=5",
    "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
   },
   {
-   "t": "„Die Märkte werden sich vorerst daran gewöhnen müssen, dass die Straße von Hormus nicht offen ist“ - welt.de",
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
+   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
+  },
+  {
+   "t": "„Die Märkte werden sich vorerst daran gewöhnen müssen, dass die Straße von Hormus nicht offen ist“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ2ZsYlNDUmNpbHQ5SnlISjNPbFpQbTBnOTV0OU1RbjJsN0UxZ2ppVHEtYUdLc1RGTEJQUHM4aGRZd0szcGxteVVyejJVSTJZVkRhMDBUeTBETTBfOEVyeE1RbnNjdGNuN0xrdnpsbDM3Um1OdWpBSmt0VlZMb2JwcFhlTmthVzY0S0RtM0ZfV19YOURxVmwwVFluSDJMV0M4ZlFSYVludTlmUlZEUHFXOXEtY2k0YW9fdlFNMHJ0bGhlbHZDcmJLWDc5LWdmN1pvVjhOYks2S2hBRFBwQVZ4RUhPNXJnVXhPcWhKWmg5MHdUejFQY3hKbEdqYkVycldEdS0xbjliQQ?oc=5",
    "pub": "Tue, 11 Aug 2026 11:28:13 GMT"
   },
@@ -74,14 +74,9 @@
    "pub": "Tue, 11 Aug 2026 10:40:00 GMT"
   },
   {
-   "t": "Krieg in Nahost: Huthi-Milizen stoppen saudischen Ölfrachter im Tor der Tränen - t-online.de",
+   "t": "Krieg in Nahost: Huthi-Milizen stoppen saudischen Ölfrachter im Tor der Tränen - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dHa3NNdFpSZXdHRkpDQ3p1TVRWMWlKLTZobHc2ejlDeE1NQzF5STFYdWM1RzJlZkM5aHUxZldUY2R4RDJldHg5V0dPRExtODdDYzZoWjNLTmtNeWFqdk1FdFJ6aUtQVW1QYm9WX05fUkM4LWViU2xHWVlUN0ZKYlRvdXpOVURvLUpOZkRybHJnamNxVzl1V3BMRW0wU1hnSjhsZ2FvenRrd0ZfMzA0UmFUMERjSUFYd0lsR2JXTWZHZjIydHU5T3RWb1czX2htWjFBSnc4bU90YTQ?oc=5",
    "pub": "Tue, 11 Aug 2026 10:50:26 GMT"
-  },
-  {
-   "t": "Für Trump ist die Straße von Hormus wieder offen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnB0VWVwUjMySXh2Y3NkcEgyU2h2V3dOVEpMMXZhdnBfOFg0MVZvSFZLUU9EUzB6c1ZRMENjQzBvdzFhZFM0akpYUUF2eFVBVVlmTmtyUGhZNXIxRnZkUkJmTmJPZ1Mxc3d6V0lERDM4bzA5MWtXWWltYWRHSWRaQmJBX1VkdlZfb0FocjNWUGlxWWJ4dlhLeDRQMA?oc=5",
-   "pub": "Tue, 11 Aug 2026 07:43:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
@@ -89,7 +84,12 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk Kultur",
+   "t": "Für Trump ist die Straße von Hormus wieder offen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnB0VWVwUjMySXh2Y3NkcEgyU2h2V3dOVEpMMXZhdnBfOFg0MVZvSFZLUU9EUzB6c1ZRMENjQzBvdzFhZFM0akpYUUF2eFVBVVlmTmtyUGhZNXIxRnZkUkJmTmJPZ1Mxc3d6V0lERDM4bzA5MWtXWWltYWRHSWRaQmJBX1VkdlZfb0FocjNWUGlxWWJ4dlhLeDRQMA?oc=5",
+   "pub": "Tue, 11 Aug 2026 07:43:00 GMT"
+  },
+  {
+   "t": "PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - deutschlandfunkkultur.de",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONldqdDBRWlNEQm41YjVKM19vS0tmSmR1U0JfTE9LaEZBUXdQRERSMUJOZVBPRnVOTjk5dUxwMlFxbFFBYTJsWEs1WUJBWXZwRGsxQ19yUjRaWk9rSU9jbkViODZiRkdoVjlxeEZCRTVsWFRfWmNSRk8zSG8xS0N2S29qMC00U0RDUG1nVDdpT1Rva1dlQm9yZ016NFpBSmNrbDR1NFVMMFk?oc=5",
    "pub": "Tue, 11 Aug 2026 16:02:17 GMT"
   },
@@ -99,14 +99,14 @@
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
-   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
-   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
+   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ21zNTVOYlI5RW56M20tRTR2eFJWUzVKaEJ2UDRjU0pBdHhDZlJZNWNRb1AtUmdXd25NcDl3RFI3SnpUSGkwc3labG9ZeV9HM3JYUzRiaFBWdWkwbTBMQ0lPelV2Wm9KeXAwYWZSdzljX3FmSG10NUdscW1US2VET1NsajZmaHZvSHdUMHNSZldyNU9aNzZkQ2JCSmhWUFAwc0gyY1FXQUZ0UlhJNGxrVFp2OVVhY1NsZXB3?oc=5",
+   "pub": "Tue, 11 Aug 2026 05:00:00 GMT"
   },
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
-   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+   "t": "Krieg - Öffnung der Straße von Hormus: Iran stellt neue Forderungen an die USA - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0Z4X3pvbU43SGdXOG5VSWdKdWhiYnlKYkNCYmVkNE42V1BMVHhyM00xSkMxQ09CZDVybHNXc1ZkempxMFhHcWRtN21OaF81ckpma1ZNR1Y2Wmp1MWFIYmc5U05tRHpCTmFKQ3RBcVQxd2QzN20wRXZiRkp4LVExOXlvN09wRjctSC1uTDhqV1I3VlUwRGVEVjZTUFVSX1VJM0ZTMkNyd3lJcW5KRWxQWg?oc=5",
+   "pub": "Sun, 09 Aug 2026 05:28:01 GMT"
   }
  ]
 }
