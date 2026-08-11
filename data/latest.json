@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-11T02:28:24Z",
+ "collected_at": "2026-08-11T04:40:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8101,
-   "chg1d_pct": 0.24
+   "price": 0.8103,
+   "chg1d_pct": 0.26
   },
   "USDJPY": {
-   "price": 159.252,
-   "chg1d_pct": 0.86
+   "price": 159.214,
+   "chg1d_pct": 0.84
   },
   "GBPCAD": {
-   "price": 1.8821,
-   "chg1d_pct": 0.01
+   "price": 1.8819,
+   "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 112.383,
-   "chg1d_pct": 0.77
+   "price": 112.241,
+   "chg1d_pct": 0.65
   },
   "EURUSD": {
    "price": 1.1546,
    "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0943,
-   "chg1d_pct": 0.38
+   "price": 1.0946,
+   "chg1d_pct": 0.4
   },
   "WTI": {
-   "price": 82.35,
-   "chg1d_pct": 0.27
+   "price": 82.0,
+   "chg1d_pct": -0.16
   },
   "BRENT": {
-   "price": 87.93,
-   "chg1d_pct": 0.24
+   "price": 87.5,
+   "chg1d_pct": -0.25
   },
   "GOLD": {
-   "price": 4493.5,
-   "chg1d_pct": 3.02
+   "price": 4472.6,
+   "chg1d_pct": 2.54
   },
   "SPX_FUT": {
-   "price": 7783.5,
-   "chg1d_pct": 0.09
+   "price": 7787.75,
+   "chg1d_pct": 0.14
   },
   "NAS_FUT": {
-   "price": 29819.75,
-   "chg1d_pct": 0.28
+   "price": 29853.25,
+   "chg1d_pct": 0.39
   }
  },
  "headlines": [
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
-   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+   "t": "»Täuschungsaktion« mittels Catering-Lkw: Trump soll wegen Morddrohung aus Iran heimlich auf Militärflieger umgestiegen sein - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGdlSU5tMURrZnlrd0VnR2M0UHcxc3pjczJvcjdqTVc2MVhLc2JZS0RJV0RKRXJlLVZJWWU2dnBTcXQtT3JTLWJ5WDMwYXBkMmdmc2VhSzVwWnN3b0VlUTEzeE9uaG5mZmFSSVltb3NnY01HcEVjVER0NE1OZjZ2cl90TVNWSFZHZlhpSkt0aWZDQ0VSYXY4Ty1iOWVuXzBxZ0VvYi1PRU1UNnFvLVZNR2VpNXd6Q3NTOFdCZml3RkFKNnJBRlJqR0xTRXcyZlhjaDIwWHl2cXJYdFZUTElJczZFQ2hCWDJsYlI4dmhjbFUtUmp6ZWFlSg?oc=5",
+   "pub": "Tue, 11 Aug 2026 01:28:00 GMT"
   },
   {
    "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
@@ -67,6 +67,11 @@
    "t": "Von Schach- und Hängepartien – keine Lösung des USA-Iran-Konflikts in Sicht - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOVlhcllmS0U3dHpHSmVzbjhZVG9KY19IV1liYmsyMkdneTZRWWFYNVM0aFdIaTRxV3pyVXdBZ2Q4NVBTcnRTSi1aNUYzOTUwQ19KSkF3U2VOUldyc2U0SGxDZDNjWlhfRG9FblF3?oc=5",
    "pub": "Mon, 10 Aug 2026 15:39:00 GMT"
+  },
+  {
+   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEJNM1VtOUtqcWZEODd4ZHlpQnNrbHB4UTNCVkpjTTdDQ3NwSGc5RzkzcThSRy0waHpabWdENl8xdGtyZjdnMFpyZ1dIeFFJUGw4S2VPbmxwZ0RtVEUtcFFiMV90c0Z1UDhnc2Z6UE5Sa202U0ZDU0pHNTdJUGxFOEZMbW1OdmVpWHRVM2JJUlhUOGJMREtrVUNabUhnaTdhZWEybFZpTEZmM2xNTGNsdA?oc=5",
+   "pub": "Tue, 11 Aug 2026 03:29:43 GMT"
   },
   {
    "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
@@ -89,24 +94,19 @@
    "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
   },
   {
-   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
-   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
-  },
-  {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "Ex-Pentagon-Chef Esper warnt: Iran glaubt, die USA besiegt zu haben – und das ist das eigentliche Problem - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGsyRlZSMDYwRy1jOEtxTmZkY2NxOWpabk1henJlMWNuMFZVZHFZUnBUdVVhdm4yNVZlSjRldmJmVVJEODJJZHpnTDA4N3RneEo4SXN5T044NWhpaDRFYm82MndEWmVMQmNxRmlnc0I4X3JSZ2FqNWdCUmZZRFE0aUNJVmowS3lkZGFFLWhHbEp2czNwVTZ6UGE2Nk4zRFo0YVU5SmgxNjNxbkxTa0Zkc0lwMVpxbXhpYzBj?oc=5",
-   "pub": "Mon, 10 Aug 2026 16:34:21 GMT"
+   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
+   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
   },
   {
-   "t": "»Täuschungsaktion« mittels Catering-Lkw: Trump soll wegen Morddrohung aus Iran heimlich auf Militärflieger umgestiegen sein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGdlSU5tMURrZnlrd0VnR2M0UHcxc3pjczJvcjdqTVc2MVhLc2JZS0RJV0RKRXJlLVZJWWU2dnBTcXQtT3JTLWJ5WDMwYXBkMmdmc2VhSzVwWnN3b0VlUTEzeE9uaG5mZmFSSVltb3NnY01HcEVjVER0NE1OZjZ2cl90TVNWSFZHZlhpSkt0aWZDQ0VSYXY4Ty1iOWVuXzBxZ0VvYi1PRU1UNnFvLVZNR2VpNXd6Q3NTOFdCZml3RkFKNnJBRlJqR0xTRXcyZlhjaDIwWHl2cXJYdFZUTElJczZFQ2hCWDJsYlI4dmhjbFUtUmp6ZWFlSg?oc=5",
-   "pub": "Tue, 11 Aug 2026 01:28:00 GMT"
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
+   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   }
  ]
 }
