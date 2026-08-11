@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-11T04:40:50Z",
+ "collected_at": "2026-08-11T06:04:33Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8103,
-   "chg1d_pct": 0.26
+   "price": 0.8102,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 159.214,
-   "chg1d_pct": 0.84
+   "price": 159.186,
+   "chg1d_pct": 0.82
   },
   "GBPCAD": {
-   "price": 1.8819,
-   "chg1d_pct": 0.0
+   "price": 1.8823,
+   "chg1d_pct": 0.02
   },
   "AUDJPY": {
-   "price": 112.241,
-   "chg1d_pct": 0.65
+   "price": 112.348,
+   "chg1d_pct": 0.74
   },
   "EURUSD": {
    "price": 1.1546,
    "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0946,
-   "chg1d_pct": 0.4
+   "price": 1.0949,
+   "chg1d_pct": 0.43
   },
   "WTI": {
-   "price": 82.0,
-   "chg1d_pct": -0.16
+   "price": 82.48,
+   "chg1d_pct": 0.43
   },
   "BRENT": {
-   "price": 87.5,
-   "chg1d_pct": -0.25
+   "price": 87.99,
+   "chg1d_pct": 0.31
   },
   "GOLD": {
-   "price": 4472.6,
-   "chg1d_pct": 2.54
+   "price": 4430.8,
+   "chg1d_pct": 1.58
   },
   "SPX_FUT": {
-   "price": 7787.75,
-   "chg1d_pct": 0.14
+   "price": 7781.0,
+   "chg1d_pct": 0.05
   },
   "NAS_FUT": {
-   "price": 29853.25,
-   "chg1d_pct": 0.39
+   "price": 29791.25,
+   "chg1d_pct": 0.18
   }
  },
  "headlines": [
@@ -59,6 +59,11 @@
    "pub": "Mon, 10 Aug 2026 22:55:57 GMT"
   },
   {
+   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEJNM1VtOUtqcWZEODd4ZHlpQnNrbHB4UTNCVkpjTTdDQ3NwSGc5RzkzcThSRy0waHpabWdENl8xdGtyZjdnMFpyZ1dIeFFJUGw4S2VPbmxwZ0RtVEUtcFFiMV90c0Z1UDhnc2Z6UE5Sa202U0ZDU0pHNTdJUGxFOEZMbW1OdmVpWHRVM2JJUlhUOGJMREtrVUNabUhnaTdhZWEybFZpTEZmM2xNTGNsdA?oc=5",
+   "pub": "Tue, 11 Aug 2026 03:29:43 GMT"
+  },
+  {
    "t": "Iran besetzt oberste Militärführung neu – und plant Gebühren für Straße von Hormus - WELT",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeXh0MlNuc0FpN051YXpQYXk0WE5kdFM4RVVGOGF0Zy1pOVlLejVBYUxGQUxOX3NNWW9iOHZfWm1PSWNFazdKUEhwWU83WGhNRDdOZnNmTGdFOS1zcG1wX19YZHJKV2UyT3FvcGotaXNXZXhGTjNlcG1YNWlpODBaRTlVc2dqYjZDbksxQVBjZ0p1RDRaWVFsaHVNRGlWWUFlaEE2dUt3V1pyWXo2VkpLUkpkRUlDb08tNm9vcDRRRlAzdWNzN1lPeEpZcGFQWFdjc28tMWJQY0lfbUNzSUJ1dXRPVFI1WnBKeXdXQVdKQQ?oc=5",
    "pub": "Mon, 10 Aug 2026 18:51:36 GMT"
@@ -69,9 +74,9 @@
    "pub": "Mon, 10 Aug 2026 15:39:00 GMT"
   },
   {
-   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEJNM1VtOUtqcWZEODd4ZHlpQnNrbHB4UTNCVkpjTTdDQ3NwSGc5RzkzcThSRy0waHpabWdENl8xdGtyZjdnMFpyZ1dIeFFJUGw4S2VPbmxwZ0RtVEUtcFFiMV90c0Z1UDhnc2Z6UE5Sa202U0ZDU0pHNTdJUGxFOEZMbW1OdmVpWHRVM2JJUlhUOGJMREtrVUNabUhnaTdhZWEybFZpTEZmM2xNTGNsdA?oc=5",
-   "pub": "Tue, 11 Aug 2026 03:29:43 GMT"
+   "t": "Liveticker zum Iran-Krieg: Trump: USA haben Straße von Hormus „zu 100 Prozent“ unter Kontrolle - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcmIzekxjaVExMlM4dVNLQnhFcWV1Q1k2M2ZXNk9oT3NGTUI4MW56RjI4MDZfUlNERC03TTlXQmc5NlJPb0VlWWNfUTVweXZCYVctZXJpM1JQNVlVTkkxTjI1NFBrQlhRVUVod0p4cHRXSEVJdVFZMkFBOHVTQmNQeDFOblktN0Nfajl1VER6WDRPRDI4cnFET2Q1aTVRVkQtWFcxblhLYzY2bkphaUV4UnFLejhkU2RwUUlJQkxSZGVjakk1U2xXTEM3aFVjOHc5UkRHSWd4QTAzVi13SEtpcGJjQTQ?oc=5",
+   "pub": "Tue, 11 Aug 2026 04:30:00 GMT"
   },
   {
    "t": "US-Präsident Trump: Iran-Diplomatie \"wie eine Schachpartie\" - ZDFheute",
@@ -84,14 +89,9 @@
    "pub": "Mon, 10 Aug 2026 21:14:34 GMT"
   },
   {
-   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
-   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
-  },
-  {
-   "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - XTB",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NoS3M1UlBpeGtaLXFqcTVzTENHY1pES19yNTlaczdTNlRMMEpTRHFuZlVvRDdHVnlSNzBId0dpQ1R4ei1leVR0c01kR3Rib3ZidV8wTk5SVTE0TzRvUXZSeW94NE96c0h1djl4dnIweGdwdlBVM294Z0NvUllDSkhNNFJjUDhaQ0JEZTVQZ2RoeUtLTWE1bVp4T3I?oc=5",
-   "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
+   "t": "Iran plant Gebühren für Straße von Hormus - DVZ - Deutsche Verkehrs-Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY093TTZYTURVdk93TW5FdVpOYVdzaDB5WlVrRVRZMUlrWVNCc1hxVDAzZnAzS3N4U2phVDh0dDdUUEVSTFk4ams5OFpkWWVEdnFNY2Z4ZzhKMFhNVjZYdXdER0RmVUhEak1lcmh2ZjI1dE9MX1c5MWRpRGl0NGJjdmlXZFpsaHROdkZKWHVvaGhrVExuVmd5aFluTHc?oc=5",
+   "pub": "Tue, 11 Aug 2026 06:01:24 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
@@ -99,14 +99,14 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "Sorge vor chinesischen MANPADS für den Iran - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fV2tEMGR6MjFoVC03d3l2TVVNa1dmbVdmeTFidUlNTVJhbnVOTlNTa0NBdEpXZDBGOTFZMVdsMmZCRmRGaUtiNzBMSmtOaVBGZFFicnBOY2RlQjFiX2J5dVU5MzFZMDA0NFdJTFhTMGtJS0E?oc=5",
-   "pub": "Mon, 10 Aug 2026 12:33:56 GMT"
+   "t": "USDJPY: Yen gibt erneut nach, Dollar unter Druck - XTB",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0NoS3M1UlBpeGtaLXFqcTVzTENHY1pES19yNTlaczdTNlRMMEpTRHFuZlVvRDdHVnlSNzBId0dpQ1R4ei1leVR0c01kR3Rib3ZidV8wTk5SVTE0TzRvUXZSeW94NE96c0h1djl4dnIweGdwdlBVM294Z0NvUllDSkhNNFJjUDhaQ0JEZTVQZ2RoeUtLTWE1bVp4T3I?oc=5",
+   "pub": "Mon, 10 Aug 2026 17:30:00 GMT"
   },
   {
-   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
-   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+   "t": "Der Iran fordert immer mehr – und die USA wollen nichts geben - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWcwM25NUnFLU3FRSjhMZTh2SllQRmZueXBSaE1HQVRsV0dBX3BNaDNpWjNtaE9fdzZyU0tkUTNxdHBYRFpFcnNUbU0xT3ZEeHAwSkJUNHpKVldJbVJyMDI5d1FPbm1VTVBLbFFsX29wQUZwV0pnR2RLTFhtVk9GTXJZOUo4bTQ0MXhzU1RZVDhfazhKbzhqX2R4d1IyMW55MzlUWHRZRGVGeGE1Vi1KMENPaF84YkItM2lz?oc=5",
+   "pub": "Mon, 10 Aug 2026 14:23:45 GMT"
   }
  ]
 }
