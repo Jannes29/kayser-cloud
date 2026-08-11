@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-11T22:05:50Z",
+ "collected_at": "2026-08-11T23:04:37Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8107,
-   "chg1d_pct": 0.11
+   "price": 0.8109,
+   "chg1d_pct": 0.13
   },
   "USDJPY": {
-   "price": 159.28,
-   "chg1d_pct": 0.08
+   "price": 159.271,
+   "chg1d_pct": 0.07
   },
   "GBPCAD": {
-   "price": 1.8805,
-   "chg1d_pct": -0.1
+   "price": 1.8804,
+   "chg1d_pct": -0.11
   },
   "AUDJPY": {
-   "price": 112.468,
-   "chg1d_pct": 0.16
+   "price": 112.498,
+   "chg1d_pct": 0.19
   },
   "EURUSD": {
-   "price": 1.1545,
-   "chg1d_pct": -0.01
+   "price": 1.1546,
+   "chg1d_pct": -0.0
   },
   "GBPCHF": {
-   "price": 1.095,
-   "chg1d_pct": 0.09
+   "price": 1.0954,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 83.23,
-   "chg1d_pct": 1.34
+   "price": 83.48,
+   "chg1d_pct": 1.64
   },
   "BRENT": {
-   "price": 88.95,
-   "chg1d_pct": 1.4
+   "price": 89.21,
+   "chg1d_pct": 1.7
   },
   "GOLD": {
-   "price": 4427.8,
-   "chg1d_pct": 1.51
+   "price": 4433.4,
+   "chg1d_pct": 1.64
   },
   "SPX_FUT": {
-   "price": 7753.25,
-   "chg1d_pct": -0.3
+   "price": 7752.75,
+   "chg1d_pct": -0.31
   },
   "NAS_FUT": {
-   "price": 29646.75,
-   "chg1d_pct": -0.3
+   "price": 29645.5,
+   "chg1d_pct": -0.31
   }
  },
  "headlines": [
@@ -54,12 +54,12 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
+   "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - de.euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUIxQXpqTHVORjlwZkZBVWVVZ1hhZk9sY1ZueTdZb3RYWXA3SDY3SGZCQWk2N0ZmRzRyUWZ0UGhBSl9uTjQ4VVZWZGVtblAydEROcTF1TjFOTm0wX1ZwR1V2N1hYUGZXTVBvd0RDMHM3eEsxODdxa01wZEp4aF9tRjhLamVUQlhPaGRibDZoYW9VOVViM2E5ZzNXa0dJUTNUeUt3YTBlQVBCRUREa255STczUjFoSzBGdldnZWNrTUszUQ?oc=5",
    "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
   },
   {
-   "t": "Iran/Straße von Hormus: US-Militär greift Frachtschiff mit Raketen an - Spiegel",
+   "t": "Iran/Straße von Hormus: US-Militär greift Frachtschiff mit Raketen an - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   },
@@ -79,6 +79,11 @@
    "pub": "Tue, 11 Aug 2026 20:46:00 GMT"
   },
   {
+   "t": "Krieg in Nahost: US-Vertreter verkündet neue Libanongespräche - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFltUmlldURPMkl1TG5lb20xNy00aFFIc3JkdUtValdlTlZDZHNtVy1ZektTbjBrX3MtRVdnRzJMcV9hM3NTLU5JckpfMG5PXy1Ic3hYaTRTOU9NelB3QlJQcDF3cFhWUXlvQzdxQ2dWeVRxdWs0dGlMOTVPU3dvaG5HS3hYQXItanc4cFNOZXFoRzh0SGx3amdQOVpEQ3ZPZDRJWV8xT2YwLWM5cmEzR08yLUhlXzNyTVFoQUJpRkxNS3FwSWdCdmM3aw?oc=5",
+   "pub": "Tue, 11 Aug 2026 19:36:47 GMT"
+  },
+  {
    "t": "„Die Märkte werden sich vorerst daran gewöhnen müssen, dass die Straße von Hormus nicht offen ist“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ2ZsYlNDUmNpbHQ5SnlISjNPbFpQbTBnOTV0OU1RbjJsN0UxZ2ppVHEtYUdLc1RGTEJQUHM4aGRZd0szcGxteVVyejJVSTJZVkRhMDBUeTBETTBfOEVyeE1RbnNjdGNuN0xrdnpsbDM3Um1OdWpBSmt0VlZMb2JwcFhlTmthVzY0S0RtM0ZfV19YOURxVmwwVFluSDJMV0M4ZlFSYVludTlmUlZEUHFXOXEtY2k0YW9fdlFNMHJ0bGhlbHZDcmJLWDc5LWdmN1pvVjhOYks2S2hBRFBwQVZ4RUhPNXJnVXhPcWhKWmg5MHdUejFQY3hKbEdqYkVycldEdS0xbjliQQ?oc=5",
    "pub": "Tue, 11 Aug 2026 11:28:13 GMT"
@@ -89,19 +94,14 @@
    "pub": "Tue, 11 Aug 2026 12:59:43 GMT"
   },
   {
-   "t": "Krieg in Nahost: Huthi-Milizen stoppen saudischen Ölfrachter im Tor der Tränen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0dHa3NNdFpSZXdHRkpDQ3p1TVRWMWlKLTZobHc2ejlDeE1NQzF5STFYdWM1RzJlZkM5aHUxZldUY2R4RDJldHg5V0dPRExtODdDYzZoWjNLTmtNeWFqdk1FdFJ6aUtQVW1QYm9WX05fUkM4LWViU2xHWVlUN0ZKYlRvdXpOVURvLUpOZkRybHJnamNxVzl1V3BMRW0wU1hnSjhsZ2FvenRrd0ZfMzA0UmFUMERjSUFYd0lsR2JXTWZHZjIydHU5T3RWb1czX2htWjFBSnc4bU90YTQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 10:50:26 GMT"
+   "t": "US-Militär beschießt Tanker im Golf von Oman - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFl2b3c2WVVDYjlEdmF5NkhwNndoNWR1cFVOcUs2V2tKM3VVWUowX0dIZ0JYd0RlaGg4LVhpbE1pVjJRUUh0aU9mSlR1TXJocThnc0k4ak9qaHJhMlk4VnlmUDRWazJyM1BPMUthTHA1YjJ0YkNqc3NRS2ZwS0cxam83MHpOTzE4?oc=5",
+   "pub": "Tue, 11 Aug 2026 22:09:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
-   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
    "t": "\"Tickende Zeitbombe\": Experte Fathollah-Nejad warnt vor Irans Einfluss in der Straße von Hormus - ZDFheute",
