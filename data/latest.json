@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-12T11:59:15Z",
+ "collected_at": "2026-08-12T13:48:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,44 +7,44 @@
    "chg1d_pct": 0.18
   },
   "USDJPY": {
-   "price": 159.086,
-   "chg1d_pct": -0.04
+   "price": 159.001,
+   "chg1d_pct": -0.1
   },
   "GBPCAD": {
-   "price": 1.8838,
-   "chg1d_pct": 0.07
+   "price": 1.8813,
+   "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 112.485,
-   "chg1d_pct": 0.18
-  },
-  "EURUSD": {
-   "price": 1.1549,
-   "chg1d_pct": 0.02
-  },
-  "GBPCHF": {
-   "price": 1.0974,
+   "price": 112.633,
    "chg1d_pct": 0.31
   },
-  "WTI": {
-   "price": 83.62,
-   "chg1d_pct": 0.5
+  "EURUSD": {
+   "price": 1.1553,
+   "chg1d_pct": 0.06
   },
-  "BRENT": {
-   "price": 89.18,
-   "chg1d_pct": 0.3
-  },
-  "GOLD": {
-   "price": 4472.5,
-   "chg1d_pct": 2.04
-  },
-  "SPX_FUT": {
-   "price": 7768.0,
+  "GBPCHF": {
+   "price": 1.0969,
    "chg1d_pct": 0.26
   },
+  "WTI": {
+   "price": 82.81,
+   "chg1d_pct": -0.47
+  },
+  "BRENT": {
+   "price": 88.48,
+   "chg1d_pct": -0.48
+  },
+  "GOLD": {
+   "price": 4475.8,
+   "chg1d_pct": 2.12
+  },
+  "SPX_FUT": {
+   "price": 7774.25,
+   "chg1d_pct": 0.35
+  },
   "NAS_FUT": {
-   "price": 29821.5,
-   "chg1d_pct": 0.66
+   "price": 29892.75,
+   "chg1d_pct": 0.9
   }
  },
  "headlines": [
@@ -59,6 +59,11 @@
    "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
   },
   {
+   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - t-online.de",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
+  },
+  {
    "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
    "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
@@ -69,19 +74,9 @@
    "pub": "Wed, 12 Aug 2026 11:21:37 GMT"
   },
   {
-   "t": "Krieg in Nahost: Trump: Straße von Hormus gehört uns – Neue Warnung an Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGxBUFJmTDZ5RGZPbUpTWDJKOTdXZWl3V0ZjWE1KVm91eWFBSk02QnhPbWk1d1R6ZHpKaHpYU0N2M016TUNOLVVCM2hoVXNWU1ZJQWdjSy1DMndNZlVqNGJuN1VObHNVOTNyNG5VdjIzMk9yVFMzOE50aHhsd0hENHYtejFheGQ1aTVOeVJvWUFnaG56dWNXeWJzVlVTRVQ2bkdlTkxodFprVlh3Y1BTMjVtYll5Q1FUQXpBRVpxR2pmSENLMnFva3NHVTN0X3oxdktQQzlR?oc=5",
-   "pub": "Wed, 12 Aug 2026 03:39:18 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
-   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
   },
   {
    "t": "USDJPY Prognose & Forex Aktuell: Erholung Richtung 160 trotz Intervention? - XTB.com",
@@ -89,14 +84,19 @@
    "pub": "Wed, 12 Aug 2026 10:11:00 GMT"
   },
   {
-   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
+   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - merkur.de",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXIyQUFDNFk4d3p3OFJFcXNZUmc2X29tbDdJTEdoM0E5SFdDOVdRZ18zUmJIOWNjNTJ4Y1Nza0hlQW1JQ1Q4SzlfQlVfbU9Ud2NfN2hjNkg3aGVkNzhDZFlDTUltbHV2QjEyZFBUWUdZejhBSzJPYkFGb3B1a01WRTF3ME9SekFGWFVvdVJ3NGVHUmk0VzJYdmFzQW12TGd0SXRqMzdieFpSdTB1SExXcQ?oc=5",
    "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
   },
   {
-   "t": "Zinsen: Warum die US-Notenbank Fed auf Diego Maradona wettet - Capital.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZW5iM1R4TzZ1a2R1ZWJxYkJNOXJsanFDVnFqYlk1MmUxMjF1SnFHZTY5Q1UxUU9VQ044bllWRDJDa1BiRVo0aUtNYWxTZDZUUWJrMnIzZFJ5U3YzWkdFOGttWXp5dDJ4NFRaZFlHTXEteWxZeUlkUl96emFrenNIR0FIZExaUkROSWtTWGgyUm83NDBkUmRtRk9EVkNmcF93OHd5TjBJbUhHZmhCVV93MW82aGlkeWlM?oc=5",
-   "pub": "Wed, 12 Aug 2026 09:45:00 GMT"
+   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
+   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
+  },
+  {
+   "t": "PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk Kultur",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONldqdDBRWlNEQm41YjVKM19vS0tmSmR1U0JfTE9LaEZBUXdQRERSMUJOZVBPRnVOTjk5dUxwMlFxbFFBYTJsWEs1WUJBWXZwRGsxQ19yUjRaWk9rSU9jbkViODZiRkdoVjlxeEZCRTVsWFRfWmNSRk8zSG8xS0N2S29qMC00U0RDUG1nVDdpT1Rva1dlQm9yZ016NFpBSmNrbDR1NFVMMFk?oc=5",
+   "pub": "Wed, 12 Aug 2026 09:07:19 GMT"
   },
   {
    "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
@@ -104,9 +104,9 @@
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   },
   {
-   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
+   "t": "Krieg in Nahost: Trump: Straße von Hormus gehört uns – Neue Warnung an Iran - t-online.de",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGxBUFJmTDZ5RGZPbUpTWDJKOTdXZWl3V0ZjWE1KVm91eWFBSk02QnhPbWk1d1R6ZHpKaHpYU0N2M016TUNOLVVCM2hoVXNWU1ZJQWdjSy1DMndNZlVqNGJuN1VObHNVOTNyNG5VdjIzMk9yVFMzOE50aHhsd0hENHYtejFheGQ1aTVOeVJvWUFnaG56dWNXeWJzVlVTRVQ2bkdlTkxodFprVlh3Y1BTMjVtYll5Q1FUQXpBRVpxR2pmSENLMnFva3NHVTN0X3oxdktQQzlR?oc=5",
+   "pub": "Wed, 12 Aug 2026 03:39:18 GMT"
   }
  ]
 }
