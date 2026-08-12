@@ -1,49 +1,49 @@
 {
- "collected_at": "2026-08-12T23:02:28Z",
+ "collected_at": "2026-08-12T23:59:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8134,
-   "chg1d_pct": 0.29
-  },
-  "USDJPY": {
-   "price": 159.37,
-   "chg1d_pct": 0.07
-  },
-  "GBPCAD": {
-   "price": 1.881,
-   "chg1d_pct": 0.04
-  },
-  "AUDJPY": {
-   "price": 112.564,
-   "chg1d_pct": 0.06
-  },
-  "EURUSD": {
-   "price": 1.153,
-   "chg1d_pct": -0.12
-  },
-  "GBPCHF": {
-   "price": 1.0978,
-   "chg1d_pct": 0.2
-  },
-  "WTI": {
-   "price": 82.69,
-   "chg1d_pct": -0.61
-  },
-  "BRENT": {
-   "price": 88.46,
-   "chg1d_pct": -0.51
-  },
-  "GOLD": {
-   "price": 4459.9,
-   "chg1d_pct": 1.75
-  },
-  "SPX_FUT": {
-   "price": 7768.75,
+   "price": 0.8132,
    "chg1d_pct": 0.27
   },
+  "USDJPY": {
+   "price": 159.319,
+   "chg1d_pct": 0.03
+  },
+  "GBPCAD": {
+   "price": 1.8813,
+   "chg1d_pct": 0.05
+  },
+  "AUDJPY": {
+   "price": 112.537,
+   "chg1d_pct": 0.03
+  },
+  "EURUSD": {
+   "price": 1.1531,
+   "chg1d_pct": -0.11
+  },
+  "GBPCHF": {
+   "price": 1.0976,
+   "chg1d_pct": 0.18
+  },
+  "WTI": {
+   "price": 82.67,
+   "chg1d_pct": -0.64
+  },
+  "BRENT": {
+   "price": 88.42,
+   "chg1d_pct": -0.55
+  },
+  "GOLD": {
+   "price": 4467.0,
+   "chg1d_pct": 1.92
+  },
+  "SPX_FUT": {
+   "price": 7767.75,
+   "chg1d_pct": 0.26
+  },
   "NAS_FUT": {
-   "price": 29799.0,
+   "price": 29796.75,
    "chg1d_pct": 0.58
   }
  },
@@ -52,6 +52,16 @@
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
+  },
+  {
+   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
+   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
   },
   {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
@@ -74,27 +84,17 @@
    "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
   },
   {
-   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
-   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
-  },
-  {
-   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
-   "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
+   "t": "Iran-Krieg: Kreise: Iran-USA-Waffenruhe soll verlängert werden - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUVYZjhXUUZpTEEyajFpbjN6MUdtcHVHeFBTVFRVMFc3M2lDLXlLM2ZVb3lpaVZDbHo0TEUyeS0zc3hodl9pX19lMENmRzhzT2REYzBwbE1feWM2dEVzZTViUkFNWjlfUGdaU1BGbHh5S244Z3d6Nm5haG9aRHNpaFRBcnREdTJGdENGMGVVNW9GQVlXZ1BDag?oc=5",
+   "pub": "Wed, 12 Aug 2026 11:10:06 GMT"
   },
   {
    "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 22:07:07 GMT"
+   "pub": "Wed, 12 Aug 2026 23:37:11 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW.com",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
@@ -104,9 +104,9 @@
    "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   },
   {
-   "t": "Amerikas Inflation lässt die Fed im Ungewissen - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVBNUGI3X2FvZkF5QkhJcHNLUGcxRWtBTTZscUhCdThvSng3YUtVS1diM1MwbHJyZVZqNE1VMkJGRUZqQTFqZW5QckJlRlh4TWRzaHg1LTJTRXM0OTctLWhrbzVDM09vSkp5ckRtclNieWc3UjJ1OFNmVlI2RjF0WjNHX3RSTEZMcUNDR0d0XzNJTmxpTHFqRW1QTnIxcml6SkxlLThOSU5iTmxIckhYWGE5ODktQnQx?oc=5",
-   "pub": "Wed, 12 Aug 2026 16:03:46 GMT"
+   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
+   "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   }
  ]
 }
