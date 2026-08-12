@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-12T22:03:09Z",
+ "collected_at": "2026-08-12T23:02:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8136,
-   "chg1d_pct": 0.32
+   "price": 0.8134,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 159.445,
-   "chg1d_pct": 0.11
+   "price": 159.37,
+   "chg1d_pct": 0.07
   },
   "GBPCAD": {
-   "price": 1.8805,
-   "chg1d_pct": 0.01
+   "price": 1.881,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 112.569,
+   "price": 112.564,
    "chg1d_pct": 0.06
   },
   "EURUSD": {
-   "price": 1.1527,
-   "chg1d_pct": -0.15
+   "price": 1.153,
+   "chg1d_pct": -0.12
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": 0.19
+   "price": 1.0978,
+   "chg1d_pct": 0.2
   },
   "WTI": {
-   "price": 82.58,
-   "chg1d_pct": -0.75
-  },
-  "BRENT": {
-   "price": 88.37,
+   "price": 82.69,
    "chg1d_pct": -0.61
   },
+  "BRENT": {
+   "price": 88.46,
+   "chg1d_pct": -0.51
+  },
   "GOLD": {
-   "price": 4469.0,
-   "chg1d_pct": 1.96
+   "price": 4459.9,
+   "chg1d_pct": 1.75
   },
   "SPX_FUT": {
-   "price": 7766.75,
-   "chg1d_pct": 0.25
+   "price": 7768.75,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 29805.75,
-   "chg1d_pct": 0.61
+   "price": 29799.0,
+   "chg1d_pct": 0.58
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
-   "t": "Nach List von Trump: «Attentatsdrohungen des Iran muss man ernst nehmen» - SRF",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFlWYVdRVHp1RHJqQVZWd3lpUGd4dDYydlVXV0RqSnFiQUxfWjZkXzlMSXFsTklmRFJ4SUgtSmlHQnBBdXdFZFhkeEYxT3RhNlg5TVdXR25UZTRxc2V3b2IxZDVxcVpWam85THdlbVFRWHZjRGVJR01wSXlTVzY3eHZnNDBPckFzVXliaXFDNUhRbUppVlBVcWVXY192TVRERkkwTkxZQkR0T3RRUnpHdjJTSzBaYUx4Y1lkYUdpclJHbUhaUmpwdk42VGg?oc=5",
-   "pub": "Wed, 12 Aug 2026 15:25:45 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Nach List von Trump: «Attentatsdrohungen des Iran muss man ernst nehmen» - SRF",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFlWYVdRVHp1RHJqQVZWd3lpUGd4dDYydlVXV0RqSnFiQUxfWjZkXzlMSXFsTklmRFJ4SUgtSmlHQnBBdXdFZFhkeEYxT3RhNlg5TVdXR25UZTRxc2V3b2IxZDVxcVpWam85THdlbVFRWHZjRGVJR01wSXlTVzY3eHZnNDBPckFzVXliaXFDNUhRbUppVlBVcWVXY192TVRERkkwTkxZQkR0T3RRUnpHdjJTSzBaYUx4Y1lkYUdpclJHbUhaUmpwdk42VGg?oc=5",
+   "pub": "Wed, 12 Aug 2026 15:25:45 GMT"
   },
   {
    "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - Hannover.de",
@@ -84,14 +84,14 @@
    "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
   },
   {
-   "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 21:05:44 GMT"
-  },
-  {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
+  },
+  {
+   "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 22:07:07 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW.com",
