@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-12T15:15:22Z",
+ "collected_at": "2026-08-12T16:12:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": 0.21
+   "price": 0.8122,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 159.193,
-   "chg1d_pct": 0.02
+   "price": 159.277,
+   "chg1d_pct": 0.08
   },
   "GBPCAD": {
-   "price": 1.8801,
-   "chg1d_pct": -0.12
+   "price": 1.881,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 112.636,
-   "chg1d_pct": 0.31
+   "price": 112.566,
+   "chg1d_pct": 0.25
   },
   "EURUSD": {
-   "price": 1.1547,
-   "chg1d_pct": 0.01
+   "price": 1.1539,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.0961,
-   "chg1d_pct": 0.19
+   "price": 1.097,
+   "chg1d_pct": 0.27
   },
   "WTI": {
-   "price": 83.2,
-   "chg1d_pct": 0.0
+   "price": 83.12,
+   "chg1d_pct": -0.1
   },
   "BRENT": {
-   "price": 89.05,
-   "chg1d_pct": 0.16
+   "price": 88.69,
+   "chg1d_pct": -0.25
   },
   "GOLD": {
-   "price": 4475.0,
-   "chg1d_pct": 2.1
+   "price": 4482.5,
+   "chg1d_pct": 2.27
   },
   "SPX_FUT": {
-   "price": 7763.0,
-   "chg1d_pct": 0.2
+   "price": 7768.75,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 29849.25,
-   "chg1d_pct": 0.75
+   "price": 29859.25,
+   "chg1d_pct": 0.79
   }
  },
  "headlines": [
@@ -54,7 +54,7 @@
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
-   "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - hannover.de",
+   "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - Hannover.de",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZmU3SnEyVXFDTkdUa1ZkamxWb3dYZzZzYzJWZC1WSEQxQVJhRTZObExpME13VjdVcWhnNTREYVlwQ1RTT2ZGZUNmY2VpZVVqX2laZlgtaGNGZ0sxdktYVUhTU1FhQkpIZ1YzZnpCazNsY2lGMXRNNGQ1MzVyMDFyZXZJemJ4MW1KcWFuaThQN2RyWFV6TFhCWUhxQVlxN3ZDdGNHdjRHT2NZWHE5M3lRR2FJekpzSXBaMGM3LUUxdFlGZlRfY2VR?oc=5",
    "pub": "Wed, 12 Aug 2026 11:21:37 GMT"
   },
@@ -69,12 +69,12 @@
    "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
   },
   {
-   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
+   "t": "US-Inflation sinkt im Juli auf 3,4 Prozent: Fed-Entscheid im September weiter offen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMF9aakxmdklhV0ZXVkNvQ2VhVzMxRHIxdGNlUWRScGd1NG1aQTloeTBUZHY0YmJHS2dyeEJ0MUVBVVN0YVdWVTVjOGNuN3hiZVRMVkJoWW9ZN0JSSWkwWVZvSkxDcnpRMjdvZVVHN3h6V0p6NWY5TEhuNnZhUjU1WDlvU21GSkdMSV8xdVhBVzNfRUJYNHFqcjczS0xwY2JnTjJudmc3N1RnY3RkUUs3NldHZUxyd212bzdTTHo2Snh0MVE?oc=5",
+   "pub": "Wed, 12 Aug 2026 13:22:55 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
@@ -94,14 +94,14 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
-   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
-  },
-  {
    "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
+  },
+  {
+   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
   },
   {
    "t": "Krieg in Nahost: Trump: Straße von Hormus gehört uns – Neue Warnung an Iran - T-Online",
