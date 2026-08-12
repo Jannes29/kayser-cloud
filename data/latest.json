@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-12T02:45:50Z",
+ "collected_at": "2026-08-12T05:04:05Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": 0.21
+   "price": 0.8122,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 159.4,
-   "chg1d_pct": 0.15
+   "price": 159.408,
+   "chg1d_pct": 0.16
   },
   "GBPCAD": {
-   "price": 1.8809,
-   "chg1d_pct": -0.08
+   "price": 1.8814,
+   "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 112.521,
-   "chg1d_pct": 0.21
+   "price": 112.475,
+   "chg1d_pct": 0.17
   },
   "EURUSD": {
-   "price": 1.1542,
-   "chg1d_pct": -0.04
+   "price": 1.1538,
+   "chg1d_pct": -0.07
   },
   "GBPCHF": {
-   "price": 1.0961,
-   "chg1d_pct": 0.19
+   "price": 1.097,
+   "chg1d_pct": 0.27
   },
   "WTI": {
-   "price": 83.88,
-   "chg1d_pct": 2.13
+   "price": 83.72,
+   "chg1d_pct": 0.63
   },
   "BRENT": {
-   "price": 89.42,
-   "chg1d_pct": 1.94
+   "price": 89.47,
+   "chg1d_pct": 0.63
   },
   "GOLD": {
-   "price": 4457.4,
-   "chg1d_pct": 2.19
+   "price": 4460.0,
+   "chg1d_pct": 1.76
   },
   "SPX_FUT": {
-   "price": 7753.5,
-   "chg1d_pct": -0.3
+   "price": 7757.25,
+   "chg1d_pct": 0.13
   },
   "NAS_FUT": {
-   "price": 29691.0,
-   "chg1d_pct": -0.15
+   "price": 29711.75,
+   "chg1d_pct": 0.29
   }
  },
  "headlines": [
@@ -54,9 +54,14 @@
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: Trump: Straße von Hormus gehört uns – Neue Warnung an Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGxBUFJmTDZ5RGZPbUpTWDJKOTdXZWl3V0ZjWE1KVm91eWFBSk02QnhPbWk1d1R6ZHpKaHpYU0N2M016TUNOLVVCM2hoVXNWU1ZJQWdjSy1DMndNZlVqNGJuN1VObHNVOTNyNG5VdjIzMk9yVFMzOE50aHhsd0hENHYtejFheGQ1aTVOeVJvWUFnaG56dWNXeWJzVlVTRVQ2bkdlTkxodFprVlh3Y1BTMjVtYll5Q1FUQXpBRVpxR2pmSENLMnFva3NHVTN0X3oxdktQQzlR?oc=5",
+   "pub": "Wed, 12 Aug 2026 03:39:18 GMT"
   },
   {
    "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
@@ -64,19 +69,14 @@
    "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
   },
   {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
-  },
-  {
-   "t": "„Nummer 1 auf der Todesliste des Iran“ Trump soll im Catering-Wagen aus der Air Force One geschleust worden sein – Rubio blieb an Bord - Tagesspiegel",
+   "t": "„Nummer 1 auf der Todesliste des Iran“ Trump soll im Catering-Wagen aus der Air Force One geschleust worden sein – Rubio blieb an Bord - tagesspiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbFlteUoyZ0xJV1hLTG1ia2xkbFNBOHFaQ0Qzd0JBVFZ2MmZMbnBVR2I3RzQwX0R2dnNlOTl6UHlBaTRuRTZLaTV6NTFhajg5a1FGTnpkaGY4WVNKS19GaExFcnRlamR4QkxEUlRUVlIzTXYyRHBUYnJMTVAxbzhOMzNjTXV0dHVNZTZoNzdqbU43Q2FBUzJEOU4wQWtJV0YyS1JQZDB5NFVKZ1JOcUMxbHZVa3d3XzA1UVhRZGVTWDlKTWJkUTBGWUFpSmNYbmZlMTJJZFlTTlRlbUFoRm00NnQzbkx1TGI0VzZDb3BfZldDNDVzRmJvc3hEdWg?oc=5",
    "pub": "Tue, 11 Aug 2026 20:46:00 GMT"
   },
   {
-   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
-   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
+   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
   },
   {
    "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk",
@@ -84,14 +84,9 @@
    "pub": "Tue, 11 Aug 2026 12:59:43 GMT"
   },
   {
-   "t": "Krieg in Nahost: US-Vertreter verkündet neue Libanongespräche - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFltUmlldURPMkl1TG5lb20xNy00aFFIc3JkdUtValdlTlZDZHNtVy1ZektTbjBrX3MtRVdnRzJMcV9hM3NTLU5JckpfMG5PXy1Ic3hYaTRTOU9NelB3QlJQcDF3cFhWUXlvQzdxQ2dWeVRxdWs0dGlMOTVPU3dvaG5HS3hYQXItanc4cFNOZXFoRzh0SGx3amdQOVpEQ3ZPZDRJWV8xT2YwLWM5cmEzR08yLUhlXzNyTVFoQUJpRkxNS3FwSWdCdmM3aw?oc=5",
-   "pub": "Tue, 11 Aug 2026 19:36:47 GMT"
-  },
-  {
-   "t": "US-Militär beschießt Tanker im Golf von Oman - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFl2b3c2WVVDYjlEdmF5NkhwNndoNWR1cFVOcUs2V2tKM3VVWUowX0dIZ0JYd0RlaGg4LVhpbE1pVjJRUUh0aU9mSlR1TXJocThnc0k4ak9qaHJhMlk4VnlmUDRWazJyM1BPMUthTHA1YjJ0YkNqc3NRS2ZwS0cxam83MHpOTzE4?oc=5",
-   "pub": "Tue, 11 Aug 2026 22:09:00 GMT"
+   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
+   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
@@ -99,14 +94,19 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
-   "t": "„Phase des großen Terrors“ droht – Der Krieg im Inneren des Iran hat gerade erst begonnen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3dhci1YQUlBMjc4S2dmMzJiNjJGcEp6RmhDVV83TzRQN204TXVOQjA1bmVsYnBlVWVjRjFnRHlFR0thUGtVM21mazI2cGlyYkEzb254X2w0RF9fN19tT3NJUDQ5dXlIck9uSkhrOGMxQ29Ca2U1TmROM2JnaTlITnN5bjZlVDFGb1pBVDhIaURVZS1abGtzaFpDT2FDLWxfVlo3bzc0ek9pX3lMZW9MMGo3bXZJWmxNaWZrTkQtRDl3SER6UWQyZWM3NU9sMGlZSXpyMXBqVDhWOUtwZDVuYnZaTEEzTHFSMU93RVN1SmRWYjRPR201cGdjOU8?oc=5",
-   "pub": "Tue, 11 Aug 2026 09:51:48 GMT"
+   "t": "\"Tickende Zeitbombe\": Experte Fathollah-Nejad warnt vor Irans Einfluss in der Straße von Hormus - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVktQVBJa2k5S2U2M0p4anpJWW1xOUVEV2V5d1IzZUFoZG1WeU1HNlZVQkEtZEJoRGtZTmtTSmliVTZ6RGcyaThwUWwyZFFxZlJIdHZIc1FfS1diTkdIb1FWT21BWDVESjJRTTVpQkdKbkdCWGMzdy1qODZsUTg4WkdtNm9YTWw2Y09jLXFxaGo4cnVHLVNDa1JxaVpLZDAxeHFF?oc=5",
+   "pub": "Tue, 11 Aug 2026 17:04:00 GMT"
+  },
+  {
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
+   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   }
  ]
 }
