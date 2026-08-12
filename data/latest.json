@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-12T18:08:28Z",
+ "collected_at": "2026-08-12T19:27:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,44 +7,44 @@
    "chg1d_pct": 0.47
   },
   "USDJPY": {
-   "price": 159.507,
-   "chg1d_pct": 0.22
+   "price": 159.469,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
    "price": 1.8811,
    "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 112.647,
-   "chg1d_pct": 0.32
+   "price": 112.624,
+   "chg1d_pct": 0.3
   },
   "EURUSD": {
-   "price": 1.1525,
-   "chg1d_pct": -0.19
+   "price": 1.1527,
+   "chg1d_pct": -0.17
   },
   "GBPCHF": {
-   "price": 1.0976,
-   "chg1d_pct": 0.33
+   "price": 1.0977,
+   "chg1d_pct": 0.34
   },
   "WTI": {
    "price": 83.1,
    "chg1d_pct": -0.12
   },
   "BRENT": {
-   "price": 88.85,
-   "chg1d_pct": -0.07
+   "price": 88.8,
+   "chg1d_pct": -0.12
   },
   "GOLD": {
-   "price": 4460.2,
-   "chg1d_pct": 1.76
+   "price": 4477.2,
+   "chg1d_pct": 2.15
   },
   "SPX_FUT": {
-   "price": 7772.75,
-   "chg1d_pct": 0.33
+   "price": 7776.75,
+   "chg1d_pct": 0.38
   },
   "NAS_FUT": {
-   "price": 29910.0,
-   "chg1d_pct": 0.96
+   "price": 29896.5,
+   "chg1d_pct": 0.91
   }
  },
  "headlines": [
@@ -59,19 +59,24 @@
    "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
   },
   {
+   "t": "Nach List von Trump: «Attentatsdrohungen des Iran muss man ernst nehmen» - SRF",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFlWYVdRVHp1RHJqQVZWd3lpUGd4dDYydlVXV0RqSnFiQUxfWjZkXzlMSXFsTklmRFJ4SUgtSmlHQnBBdXdFZFhkeEYxT3RhNlg5TVdXR25UZTRxc2V3b2IxZDVxcVpWam85THdlbVFRWHZjRGVJR01wSXlTVzY3eHZnNDBPckFzVXliaXFDNUhRbUppVlBVcWVXY192TVRERkkwTkxZQkR0T3RRUnpHdjJTSzBaYUx4Y1lkYUdpclJHbUhaUmpwdk42VGg?oc=5",
+   "pub": "Wed, 12 Aug 2026 15:25:45 GMT"
+  },
+  {
    "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - Hannover.de",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZmU3SnEyVXFDTkdUa1ZkamxWb3dYZzZzYzJWZC1WSEQxQVJhRTZObExpME13VjdVcWhnNTREYVlwQ1RTT2ZGZUNmY2VpZVVqX2laZlgtaGNGZ0sxdktYVUhTU1FhQkpIZ1YzZnpCazNsY2lGMXRNNGQ1MzVyMDFyZXZJemJ4MW1KcWFuaThQN2RyWFV6TFhCWUhxQVlxN3ZDdGNHdjRHT2NZWHE5M3lRR2FJekpzSXBaMGM3LUUxdFlGZlRfY2VR?oc=5",
    "pub": "Wed, 12 Aug 2026 11:21:37 GMT"
   },
   {
-   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
   },
   {
    "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
@@ -84,17 +89,12 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXIyQUFDNFk4d3p3OFJFcXNZUmc2X29tbDdJTEdoM0E5SFdDOVdRZ18zUmJIOWNjNTJ4Y1Nza0hlQW1JQ1Q4SzlfQlVfbU9Ud2NfN2hjNkg3aGVkNzhDZFlDTUltbHV2QjEyZFBUWUdZejhBSzJPYkFGb3B1a01WRTF3ME9SekFGWFVvdVJ3NGVHUmk0VzJYdmFzQW12TGd0SXRqMzdieFpSdTB1SExXcQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
-  },
-  {
-   "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - kurier.at",
+   "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 18:05:11 GMT"
+   "pub": "Wed, 12 Aug 2026 19:07:07 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW.com",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
@@ -104,9 +104,9 @@
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   },
   {
-   "t": "US-Inflation sinkt im Juli auf 3,4 Prozent: Fed-Entscheid im September weiter offen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMF9aakxmdklhV0ZXVkNvQ2VhVzMxRHIxdGNlUWRScGd1NG1aQTloeTBUZHY0YmJHS2dyeEJ0MUVBVVN0YVdWVTVjOGNuN3hiZVRMVkJoWW9ZN0JSSWkwWVZvSkxDcnpRMjdvZVVHN3h6V0p6NWY5TEhuNnZhUjU1WDlvU21GSkdMSV8xdVhBVzNfRUJYNHFqcjczS0xwY2JnTjJudmc3N1RnY3RkUUs3NldHZUxyd212bzdTTHo2Snh0MVE?oc=5",
-   "pub": "Wed, 12 Aug 2026 13:22:55 GMT"
+   "t": "Amerikas Inflation lässt die Fed im Ungewissen - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVBNUGI3X2FvZkF5QkhJcHNLUGcxRWtBTTZscUhCdThvSng3YUtVS1diM1MwbHJyZVZqNE1VMkJGRUZqQTFqZW5QckJlRlh4TWRzaHg1LTJTRXM0OTctLWhrbzVDM09vSkp5ckRtclNieWc3UjJ1OFNmVlI2RjF0WjNHX3RSTEZMcUNDR0d0XzNJTmxpTHFqRW1QTnIxcml6SkxlLThOSU5iTmxIckhYWGE5ODktQnQx?oc=5",
+   "pub": "Wed, 12 Aug 2026 16:03:46 GMT"
   }
  ]
 }
