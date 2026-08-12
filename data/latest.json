@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-12T16:12:12Z",
+ "collected_at": "2026-08-12T17:13:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8122,
-   "chg1d_pct": 0.29
+   "price": 0.813,
+   "chg1d_pct": 0.39
   },
   "USDJPY": {
-   "price": 159.277,
-   "chg1d_pct": 0.08
+   "price": 159.384,
+   "chg1d_pct": 0.14
   },
   "GBPCAD": {
-   "price": 1.881,
-   "chg1d_pct": -0.08
+   "price": 1.8822,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 112.566,
-   "chg1d_pct": 0.25
+   "price": 112.603,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.1539,
-   "chg1d_pct": -0.06
+   "price": 1.1531,
+   "chg1d_pct": -0.13
   },
   "GBPCHF": {
-   "price": 1.097,
-   "chg1d_pct": 0.27
+   "price": 1.0974,
+   "chg1d_pct": 0.31
   },
   "WTI": {
-   "price": 83.12,
-   "chg1d_pct": -0.1
+   "price": 82.84,
+   "chg1d_pct": -0.43
   },
   "BRENT": {
-   "price": 88.69,
-   "chg1d_pct": -0.25
+   "price": 88.45,
+   "chg1d_pct": -0.52
   },
   "GOLD": {
-   "price": 4482.5,
-   "chg1d_pct": 2.27
+   "price": 4464.7,
+   "chg1d_pct": 1.86
   },
   "SPX_FUT": {
-   "price": 7768.75,
-   "chg1d_pct": 0.27
+   "price": 7774.0,
+   "chg1d_pct": 0.34
   },
   "NAS_FUT": {
-   "price": 29859.25,
-   "chg1d_pct": 0.79
+   "price": 29911.5,
+   "chg1d_pct": 0.96
   }
  },
  "headlines": [
@@ -59,14 +59,14 @@
    "pub": "Wed, 12 Aug 2026 11:21:37 GMT"
   },
   {
-   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
-   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
-  },
-  {
    "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - T-Online",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
    "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
+  },
+  {
+   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
+   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
   },
   {
    "t": "US-Inflation sinkt im Juli auf 3,4 Prozent: Fed-Entscheid im September weiter offen - Euronews.com",
@@ -74,14 +74,9 @@
    "pub": "Wed, 12 Aug 2026 13:22:55 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "USDJPY Prognose & Forex Aktuell: Erholung Richtung 160 trotz Intervention? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmamtXOWpNbUFEQUNieUE4RkI2OTdfYVBvbWR1UkNUbnQtd1AxRDQyVUtUM3lWekdFRHRmQ2tCc2NpNjhyQ1BwSDlkOGRjbnhnTmh5YmlDaTRkdlVKVHlyVXBzcE5ESXdPcDdQRzA1SkVNVlNOYWFaOFVoVEZHZw?oc=5",
-   "pub": "Wed, 12 Aug 2026 10:11:00 GMT"
   },
   {
    "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
@@ -89,9 +84,19 @@
    "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
   },
   {
+   "t": "USDJPY Prognose & Forex Aktuell: Erholung Richtung 160 trotz Intervention? - xtb.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmamtXOWpNbUFEQUNieUE4RkI2OTdfYVBvbWR1UkNUbnQtd1AxRDQyVUtUM3lWekdFRHRmQ2tCc2NpNjhyQ1BwSDlkOGRjbnhnTmh5YmlDaTRkdlVKVHlyVXBzcE5ESXdPcDdQRzA1SkVNVlNOYWFaOFVoVEZHZw?oc=5",
+   "pub": "Wed, 12 Aug 2026 10:11:00 GMT"
+  },
+  {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
+  },
+  {
+   "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - kurier.at",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 16:07:07 GMT"
   },
   {
    "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
@@ -102,11 +107,6 @@
    "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
    "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Trump: Straße von Hormus gehört uns – Neue Warnung an Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGxBUFJmTDZ5RGZPbUpTWDJKOTdXZWl3V0ZjWE1KVm91eWFBSk02QnhPbWk1d1R6ZHpKaHpYU0N2M016TUNOLVVCM2hoVXNWU1ZJQWdjSy1DMndNZlVqNGJuN1VObHNVOTNyNG5VdjIzMk9yVFMzOE50aHhsd0hENHYtejFheGQ1aTVOeVJvWUFnaG56dWNXeWJzVlVTRVQ2bkdlTkxodFprVlh3Y1BTMjVtYll5Q1FUQXpBRVpxR2pmSENLMnFva3NHVTN0X3oxdktQQzlR?oc=5",
-   "pub": "Wed, 12 Aug 2026 03:39:18 GMT"
   }
  ]
 }
