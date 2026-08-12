@@ -1,60 +1,65 @@
 {
- "collected_at": "2026-08-12T06:43:24Z",
+ "collected_at": "2026-08-12T08:40:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8117,
-   "chg1d_pct": 0.23
+   "price": 0.8126,
+   "chg1d_pct": 0.34
   },
   "USDJPY": {
-   "price": 159.373,
-   "chg1d_pct": 0.14
+   "price": 159.31,
+   "chg1d_pct": 0.1
   },
   "GBPCAD": {
-   "price": 1.8814,
-   "chg1d_pct": -0.06
+   "price": 1.8818,
+   "chg1d_pct": -0.03
   },
   "AUDJPY": {
-   "price": 112.495,
-   "chg1d_pct": 0.19
+   "price": 112.437,
+   "chg1d_pct": 0.14
   },
   "EURUSD": {
-   "price": 1.1539,
-   "chg1d_pct": -0.06
+   "price": 1.1541,
+   "chg1d_pct": -0.05
   },
   "GBPCHF": {
-   "price": 1.0963,
-   "chg1d_pct": 0.21
+   "price": 1.0978,
+   "chg1d_pct": 0.34
   },
   "WTI": {
-   "price": 83.74,
-   "chg1d_pct": 0.65
+   "price": 83.52,
+   "chg1d_pct": 0.38
   },
   "BRENT": {
-   "price": 89.41,
-   "chg1d_pct": 0.56
+   "price": 89.27,
+   "chg1d_pct": 0.4
   },
   "GOLD": {
-   "price": 4449.6,
-   "chg1d_pct": 1.52
+   "price": 4465.8,
+   "chg1d_pct": 1.89
   },
   "SPX_FUT": {
-   "price": 7757.0,
-   "chg1d_pct": 0.12
+   "price": 7761.75,
+   "chg1d_pct": 0.18
   },
   "NAS_FUT": {
-   "price": 29718.0,
-   "chg1d_pct": 0.31
+   "price": 29785.75,
+   "chg1d_pct": 0.54
   }
  },
  "headlines": [
+  {
+   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
+  },
   {
    "t": "Iran/Straße von Hormus: US-Militär greift Frachtschiff mit Raketen an - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
@@ -69,29 +74,14 @@
    "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
   },
   {
-   "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUIxQXpqTHVORjlwZkZBVWVVZ1hhZk9sY1ZueTdZb3RYWXA3SDY3SGZCQWk2N0ZmRzRyUWZ0UGhBSl9uTjQ4VVZWZGVtblAydEROcTF1TjFOTm0wX1ZwR1V2N1hYUGZXTVBvd0RDMHM3eEsxODdxa01wZEp4aF9tRjhLamVUQlhPaGRibDZoYW9VOVViM2E5ZzNXa0dJUTNUeUt3YTBlQVBCRUREa255STczUjFoSzBGdldnZWNrTUszUQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
-  },
-  {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
-  },
-  {
-   "t": "Nach Todesurteil gegen Rapper - PEN Berlin fordert mehr Einsatz für Menschenrechte im Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWRVU0xNVTk5bjZtMmlKS29YUjVFcUl1ODl6MTY3M1NqREJZRXZCZXdGTFN6ZzI5SXFhSU9tLWRqUzZ3ZHZ5ZzV0aHR1NkFuWUMzSndpUFFfZEZOVVVHUXExbHU5N2VlX2lDQVB6ak1RZ09ndFlrckJOZEJEWUlaMi1WWkdBMUZJY3JCVVFfaGdodnFNaENoMTlqMGJySFVk?oc=5",
-   "pub": "Tue, 11 Aug 2026 12:59:43 GMT"
-  },
-  {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
-   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
+   "t": "(S+) Meinung: Iran: Warum der Westen aus Trumps Nahost-Fiasko lernen muss - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
+   "pub": "Wed, 12 Aug 2026 07:41:00 GMT"
   },
   {
    "t": "\"Tickende Zeitbombe\": Experte Fathollah-Nejad warnt vor Irans Einfluss in der Straße von Hormus - ZDFheute",
@@ -99,14 +89,24 @@
    "pub": "Tue, 11 Aug 2026 17:04:00 GMT"
   },
   {
-   "t": "„Nummer 1 auf der Todesliste des Iran“ Trump soll im Catering-Wagen aus der Air Force One geschleust worden sein – Rubio blieb an Bord - Tagesspiegel",
+   "t": "Im Catering-Wagen aus der Air Force One geschleust Trump bestätigt Täuschungsmanöver des Secret Service - tagesspiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbFlteUoyZ0xJV1hLTG1ia2xkbFNBOHFaQ0Qzd0JBVFZ2MmZMbnBVR2I3RzQwX0R2dnNlOTl6UHlBaTRuRTZLaTV6NTFhajg5a1FGTnpkaGY4WVNKS19GaExFcnRlamR4QkxEUlRUVlIzTXYyRHBUYnJMTVAxbzhOMzNjTXV0dHVNZTZoNzdqbU43Q2FBUzJEOU4wQWtJV0YyS1JQZDB5NFVKZ1JOcUMxbHZVa3d3XzA1UVhRZGVTWDlKTWJkUTBGWUFpSmNYbmZlMTJJZFlTTlRlbUFoRm00NnQzbkx1TGI0VzZDb3BfZldDNDVzRmJvc3hEdWg?oc=5",
    "pub": "Tue, 11 Aug 2026 20:46:00 GMT"
+  },
+  {
+   "t": "Fed und EZB an der Kandare der Politik - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUFDbTN5RU1FQjEtcUNTb0ZCVWxVRU9sVnBPS2xGY3E2V2VxWENSckw1dFlKTlRzNV9nbkV4UndlLTF0b1BsWjhOMGtsN0JoeWp0YUpRa1NIbTlJWENXTHlsdE1CalBjMnlvakl0Z1RuYm1ONXBNTERCbDRvajd2Z0l2cUJWZ1VMTWZSSDlyUUdjSnJaTU1R?oc=5",
+   "pub": "Wed, 12 Aug 2026 06:05:40 GMT"
   },
   {
    "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
    "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
+  },
+  {
+   "t": "(S+) Meinung: Trump, der Dollar und das seltsame Yen-Manöver - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTm1rUHdGTVh1a0VHRlh5a1lOUTlwMTdUSkNoM3pCYkpmN1Bmb3FsMlN3RkM2WUxqRGNKMk12STJUVTE4SF9RVUdacHJnR0Jjd085YlhJR1NsR3FjTVQtTG0xaGFlaElkTW5YV09yclVWZWJXcXRNU1BZdFJJN01VVEVUZXFOVmFvWlBiMFd5LWtld05SdXVod2thQkRSYUtDV0xaXzFHZzhiTFNhV085OU9KSktPWGRpT0thWnIxMFlPRTZWbXo1c0VDLWZ2LUFwaDA3aFlxak9RMDVNMVhCLUhoUWZHbHFLeVRv?oc=5",
+   "pub": "Sun, 09 Aug 2026 18:01:00 GMT"
   }
  ]
 }
