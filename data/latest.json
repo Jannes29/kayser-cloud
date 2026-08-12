@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-12T05:04:05Z",
+ "collected_at": "2026-08-12T06:43:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8122,
-   "chg1d_pct": 0.29
+   "price": 0.8117,
+   "chg1d_pct": 0.23
   },
   "USDJPY": {
-   "price": 159.408,
-   "chg1d_pct": 0.16
+   "price": 159.373,
+   "chg1d_pct": 0.14
   },
   "GBPCAD": {
    "price": 1.8814,
    "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 112.475,
-   "chg1d_pct": 0.17
+   "price": 112.495,
+   "chg1d_pct": 0.19
   },
   "EURUSD": {
-   "price": 1.1538,
-   "chg1d_pct": -0.07
+   "price": 1.1539,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.097,
-   "chg1d_pct": 0.27
+   "price": 1.0963,
+   "chg1d_pct": 0.21
   },
   "WTI": {
-   "price": 83.72,
-   "chg1d_pct": 0.63
+   "price": 83.74,
+   "chg1d_pct": 0.65
   },
   "BRENT": {
-   "price": 89.47,
-   "chg1d_pct": 0.63
+   "price": 89.41,
+   "chg1d_pct": 0.56
   },
   "GOLD": {
-   "price": 4460.0,
-   "chg1d_pct": 1.76
+   "price": 4449.6,
+   "chg1d_pct": 1.52
   },
   "SPX_FUT": {
-   "price": 7757.25,
-   "chg1d_pct": 0.13
+   "price": 7757.0,
+   "chg1d_pct": 0.12
   },
   "NAS_FUT": {
-   "price": 29711.75,
-   "chg1d_pct": 0.29
+   "price": 29718.0,
+   "chg1d_pct": 0.31
   }
  },
  "headlines": [
@@ -64,17 +64,17 @@
    "pub": "Wed, 12 Aug 2026 03:39:18 GMT"
   },
   {
+   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXIyQUFDNFk4d3p3OFJFcXNZUmc2X29tbDdJTEdoM0E5SFdDOVdRZ18zUmJIOWNjNTJ4Y1Nza0hlQW1JQ1Q4SzlfQlVfbU9Ud2NfN2hjNkg3aGVkNzhDZFlDTUltbHV2QjEyZFBUWUdZejhBSzJPYkFGb3B1a01WRTF3ME9SekFGWFVvdVJ3NGVHUmk0VzJYdmFzQW12TGd0SXRqMzdieFpSdTB1SExXcQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
+  },
+  {
    "t": "Ölpreise und US-Anleiherenditen steigen: Trump und Iran fordern gegenseitige Entschädigung - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUIxQXpqTHVORjlwZkZBVWVVZ1hhZk9sY1ZueTdZb3RYWXA3SDY3SGZCQWk2N0ZmRzRyUWZ0UGhBSl9uTjQ4VVZWZGVtblAydEROcTF1TjFOTm0wX1ZwR1V2N1hYUGZXTVBvd0RDMHM3eEsxODdxa01wZEp4aF9tRjhLamVUQlhPaGRibDZoYW9VOVViM2E5ZzNXa0dJUTNUeUt3YTBlQVBCRUREa255STczUjFoSzBGdldnZWNrTUszUQ?oc=5",
    "pub": "Tue, 11 Aug 2026 11:26:56 GMT"
   },
   {
-   "t": "„Nummer 1 auf der Todesliste des Iran“ Trump soll im Catering-Wagen aus der Air Force One geschleust worden sein – Rubio blieb an Bord - tagesspiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbFlteUoyZ0xJV1hLTG1ia2xkbFNBOHFaQ0Qzd0JBVFZ2MmZMbnBVR2I3RzQwX0R2dnNlOTl6UHlBaTRuRTZLaTV6NTFhajg5a1FGTnpkaGY4WVNKS19GaExFcnRlamR4QkxEUlRUVlIzTXYyRHBUYnJMTVAxbzhOMzNjTXV0dHVNZTZoNzdqbU43Q2FBUzJEOU4wQWtJV0YyS1JQZDB5NFVKZ1JOcUMxbHZVa3d3XzA1UVhRZGVTWDlKTWJkUTBGWUFpSmNYbmZlMTJJZFlTTlRlbUFoRm00NnQzbkx1TGI0VzZDb3BfZldDNDVzRmJvc3hEdWg?oc=5",
-   "pub": "Tue, 11 Aug 2026 20:46:00 GMT"
-  },
-  {
-   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ARD Mediathek",
+   "t": "Vorschau: Gas-Oil • Spielfilm Frankreich 1955 - ardmediathek.de",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzRGZtVllmQUVvOXZYa3lJS05hZkFYQ3NST0RSUm1FNm5YbWhwbW1wLU4yclhINGJVQkxnbE1xMDVFS2lFdjdTOHVLVkdkcFVhR0Ntcks0Si1EOWhmVUkzRzJaeWxYa2daV2g2OGpMNFFQQQ?oc=5",
    "pub": "Tue, 11 Aug 2026 10:15:06 GMT"
   },
@@ -84,24 +84,24 @@
    "pub": "Tue, 11 Aug 2026 12:59:43 GMT"
   },
   {
-   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
-   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
-  },
-  {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
-   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
+   "t": "„Jegliche Optionen sind akzeptabel“: Wie Trumps Iran-Krieg Russland, China und Riad neu verbünde - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VLN2txUFRtLUxMbmxhQ3JwX1otcDVxNnlyVFdoVGdYVjlUYUhHTFEtRGxiRzU0bmdPS2FyT0lDWUMxdVRHSV9QNVRCa3BFUmhJRnIzWjJBc0h6cVdZUWc2VE9ZOWo5eGxlTVhRZk1oMUIxUHRUXzhodnIyTGgzUzhSOWF4T3VJMVB0QTY3czduajdNaTlKVlp1MG1mTUk?oc=5",
+   "pub": "Tue, 11 Aug 2026 19:15:29 GMT"
   },
   {
    "t": "\"Tickende Zeitbombe\": Experte Fathollah-Nejad warnt vor Irans Einfluss in der Straße von Hormus - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVktQVBJa2k5S2U2M0p4anpJWW1xOUVEV2V5d1IzZUFoZG1WeU1HNlZVQkEtZEJoRGtZTmtTSmliVTZ6RGcyaThwUWwyZFFxZlJIdHZIc1FfS1diTkdIb1FWT21BWDVESjJRTTVpQkdKbkdCWGMzdy1qODZsUTg4WkdtNm9YTWw2Y09jLXFxaGo4cnVHLVNDa1JxaVpLZDAxeHFF?oc=5",
    "pub": "Tue, 11 Aug 2026 17:04:00 GMT"
+  },
+  {
+   "t": "„Nummer 1 auf der Todesliste des Iran“ Trump soll im Catering-Wagen aus der Air Force One geschleust worden sein – Rubio blieb an Bord - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbFlteUoyZ0xJV1hLTG1ia2xkbFNBOHFaQ0Qzd0JBVFZ2MmZMbnBVR2I3RzQwX0R2dnNlOTl6UHlBaTRuRTZLaTV6NTFhajg5a1FGTnpkaGY4WVNKS19GaExFcnRlamR4QkxEUlRUVlIzTXYyRHBUYnJMTVAxbzhOMzNjTXV0dHVNZTZoNzdqbU43Q2FBUzJEOU4wQWtJV0YyS1JQZDB5NFVKZ1JOcUMxbHZVa3d3XzA1UVhRZGVTWDlKTWJkUTBGWUFpSmNYbmZlMTJJZFlTTlRlbUFoRm00NnQzbkx1TGI0VzZDb3BfZldDNDVzRmJvc3hEdWg?oc=5",
+   "pub": "Tue, 11 Aug 2026 20:46:00 GMT"
   },
   {
    "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
