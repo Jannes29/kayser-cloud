@@ -1,49 +1,49 @@
 {
- "collected_at": "2026-08-12T17:13:23Z",
+ "collected_at": "2026-08-12T18:08:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.813,
-   "chg1d_pct": 0.39
+   "price": 0.8136,
+   "chg1d_pct": 0.47
   },
   "USDJPY": {
-   "price": 159.384,
-   "chg1d_pct": 0.14
+   "price": 159.507,
+   "chg1d_pct": 0.22
   },
   "GBPCAD": {
-   "price": 1.8822,
-   "chg1d_pct": -0.01
+   "price": 1.8811,
+   "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 112.603,
-   "chg1d_pct": 0.28
+   "price": 112.647,
+   "chg1d_pct": 0.32
   },
   "EURUSD": {
-   "price": 1.1531,
-   "chg1d_pct": -0.13
+   "price": 1.1525,
+   "chg1d_pct": -0.19
   },
   "GBPCHF": {
-   "price": 1.0974,
-   "chg1d_pct": 0.31
+   "price": 1.0976,
+   "chg1d_pct": 0.33
   },
   "WTI": {
-   "price": 82.84,
-   "chg1d_pct": -0.43
+   "price": 83.1,
+   "chg1d_pct": -0.12
   },
   "BRENT": {
-   "price": 88.45,
-   "chg1d_pct": -0.52
+   "price": 88.85,
+   "chg1d_pct": -0.07
   },
   "GOLD": {
-   "price": 4464.7,
-   "chg1d_pct": 1.86
+   "price": 4460.2,
+   "chg1d_pct": 1.76
   },
   "SPX_FUT": {
-   "price": 7774.0,
-   "chg1d_pct": 0.34
+   "price": 7772.75,
+   "chg1d_pct": 0.33
   },
   "NAS_FUT": {
-   "price": 29911.5,
+   "price": 29910.0,
    "chg1d_pct": 0.96
   }
  },
@@ -52,6 +52,11 @@
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
   },
   {
    "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - Hannover.de",
@@ -64,29 +69,14 @@
    "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
   },
   {
-   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
-   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
-  },
-  {
-   "t": "US-Inflation sinkt im Juli auf 3,4 Prozent: Fed-Entscheid im September weiter offen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMF9aakxmdklhV0ZXVkNvQ2VhVzMxRHIxdGNlUWRScGd1NG1aQTloeTBUZHY0YmJHS2dyeEJ0MUVBVVN0YVdWVTVjOGNuN3hiZVRMVkJoWW9ZN0JSSWkwWVZvSkxDcnpRMjdvZVVHN3h6V0p6NWY5TEhuNnZhUjU1WDlvU21GSkdMSV8xdVhBVzNfRUJYNHFqcjczS0xwY2JnTjJudmc3N1RnY3RkUUs3NldHZUxyd212bzdTTHo2Snh0MVE?oc=5",
-   "pub": "Wed, 12 Aug 2026 13:22:55 GMT"
-  },
-  {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXIyQUFDNFk4d3p3OFJFcXNZUmc2X29tbDdJTEdoM0E5SFdDOVdRZ18zUmJIOWNjNTJ4Y1Nza0hlQW1JQ1Q4SzlfQlVfbU9Ud2NfN2hjNkg3aGVkNzhDZFlDTUltbHV2QjEyZFBUWUdZejhBSzJPYkFGb3B1a01WRTF3ME9SekFGWFVvdVJ3NGVHUmk0VzJYdmFzQW12TGd0SXRqMzdieFpSdTB1SExXcQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
-  },
-  {
-   "t": "USDJPY Prognose & Forex Aktuell: Erholung Richtung 160 trotz Intervention? - xtb.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmamtXOWpNbUFEQUNieUE4RkI2OTdfYVBvbWR1UkNUbnQtd1AxRDQyVUtUM3lWekdFRHRmQ2tCc2NpNjhyQ1BwSDlkOGRjbnhnTmh5YmlDaTRkdlVKVHlyVXBzcE5ESXdPcDdQRzA1SkVNVlNOYWFaOFVoVEZHZw?oc=5",
-   "pub": "Wed, 12 Aug 2026 10:11:00 GMT"
+   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
+   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
   },
   {
    "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
@@ -94,9 +84,19 @@
    "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
   },
   {
+   "t": "„Größter und teuerster Fehlgriff“: Republikaner Massie rechnet mit Trumps Iran-Politik ab - Merkur",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXIyQUFDNFk4d3p3OFJFcXNZUmc2X29tbDdJTEdoM0E5SFdDOVdRZ18zUmJIOWNjNTJ4Y1Nza0hlQW1JQ1Q4SzlfQlVfbU9Ud2NfN2hjNkg3aGVkNzhDZFlDTUltbHV2QjEyZFBUWUdZejhBSzJPYkFGb3B1a01WRTF3ME9SekFGWFVvdVJ3NGVHUmk0VzJYdmFzQW12TGd0SXRqMzdieFpSdTB1SExXcQ?oc=5",
+   "pub": "Wed, 12 Aug 2026 02:47:00 GMT"
+  },
+  {
    "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - kurier.at",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 16:07:07 GMT"
+   "pub": "Wed, 12 Aug 2026 18:05:11 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
+   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
    "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
@@ -104,9 +104,9 @@
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   },
   {
-   "t": "Iran-Drohung: Trump bestätigt geheimen Wechsel der Präsidentenmaschine - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXl4TmtJQ1haX1NIdlphYmRjTGQ4LVdISkNOeWVza1NEeDRoeUVTcEhHNjRoaVdHaE5YUlZFdVpScFVTNllMV2dKcVFhdllxQkxYdjVHb3NiR1NvOWhObjRZbm45cUk0US1VRHNsaHd0c2w0NVFtOGMzWUJVWXNDdDJqQ01RNVZWQXBudW5iVkx4UzE5OHhJclVQaUxwNDVnQUNhU2xWRQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 06:23:43 GMT"
+   "t": "US-Inflation sinkt im Juli auf 3,4 Prozent: Fed-Entscheid im September weiter offen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMF9aakxmdklhV0ZXVkNvQ2VhVzMxRHIxdGNlUWRScGd1NG1aQTloeTBUZHY0YmJHS2dyeEJ0MUVBVVN0YVdWVTVjOGNuN3hiZVRMVkJoWW9ZN0JSSWkwWVZvSkxDcnpRMjdvZVVHN3h6V0p6NWY5TEhuNnZhUjU1WDlvU21GSkdMSV8xdVhBVzNfRUJYNHFqcjczS0xwY2JnTjJudmc3N1RnY3RkUUs3NldHZUxyd212bzdTTHo2Snh0MVE?oc=5",
+   "pub": "Wed, 12 Aug 2026 13:22:55 GMT"
   }
  ]
 }
