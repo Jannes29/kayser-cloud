@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-12T19:27:32Z",
+ "collected_at": "2026-08-12T21:04:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8136,
-   "chg1d_pct": 0.47
+   "price": 0.812,
+   "chg1d_pct": 0.12
   },
   "USDJPY": {
-   "price": 159.469,
-   "chg1d_pct": 0.2
+   "price": 159.402,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8811,
-   "chg1d_pct": -0.07
+   "price": 1.8809,
+   "chg1d_pct": 0.03
   },
   "AUDJPY": {
-   "price": 112.624,
-   "chg1d_pct": 0.3
+   "price": 112.558,
+   "chg1d_pct": 0.05
   },
   "EURUSD": {
-   "price": 1.1527,
-   "chg1d_pct": -0.17
+   "price": 1.153,
+   "chg1d_pct": -0.12
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": 0.34
+   "price": 1.0975,
+   "chg1d_pct": 0.17
   },
   "WTI": {
-   "price": 83.1,
-   "chg1d_pct": -0.12
+   "price": 82.61,
+   "chg1d_pct": -0.71
   },
   "BRENT": {
-   "price": 88.8,
-   "chg1d_pct": -0.12
+   "price": 88.39,
+   "chg1d_pct": -0.58
   },
   "GOLD": {
-   "price": 4477.2,
-   "chg1d_pct": 2.15
+   "price": 4467.4,
+   "chg1d_pct": 1.93
   },
   "SPX_FUT": {
-   "price": 7776.75,
-   "chg1d_pct": 0.38
+   "price": 7767.75,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 29896.5,
-   "chg1d_pct": 0.91
+   "price": 29813.5,
+   "chg1d_pct": 0.63
   }
  },
  "headlines": [
@@ -64,17 +64,17 @@
    "pub": "Wed, 12 Aug 2026 15:25:45 GMT"
   },
   {
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
+   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
    "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - Hannover.de",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZmU3SnEyVXFDTkdUa1ZkamxWb3dYZzZzYzJWZC1WSEQxQVJhRTZObExpME13VjdVcWhnNTREYVlwQ1RTT2ZGZUNmY2VpZVVqX2laZlgtaGNGZ0sxdktYVUhTU1FhQkpIZ1YzZnpCazNsY2lGMXRNNGQ1MzVyMDFyZXZJemJ4MW1KcWFuaThQN2RyWFV6TFhCWUhxQVlxN3ZDdGNHdjRHT2NZWHE5M3lRR2FJekpzSXBaMGM3LUUxdFlGZlRfY2VR?oc=5",
    "pub": "Wed, 12 Aug 2026 11:21:37 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
-   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - T-Online",
+   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - t-online.de",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
    "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
   },
@@ -91,22 +91,22 @@
   {
    "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 19:07:07 GMT"
+   "pub": "Wed, 12 Aug 2026 20:37:07 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - DW.com",
+   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
    "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
-   "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
+   "t": "USA: Inflation sinkt im Juli auf 3,4 Prozent – Fed-Entscheid im September weiter offen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZklCLWc5WGIyekNQOFBXR2NRVXNObURPOG9CYk5RRHdBYlZJWFN1WHA3TGVDRm1kQ3JnbjZVSnVDcXk0LXlhV1lxVVJ2M2NrTzRkY3RkZERPSjhOUXZ2S2dvN3owNTdqcEk3TTZjQURuZEF4WDFTeXR4OWloRkJhLUtSMXdaM2dlRFhaVGF4bmgya0ZZeU03ZE9GaVFieEJWWW1HTmpTbG83WFBpYk5oeTBvNHZxWTdOaGdCeEVVOTVfcmNx?oc=5",
+   "pub": "Wed, 12 Aug 2026 18:44:58 GMT"
   },
   {
-   "t": "Amerikas Inflation lässt die Fed im Ungewissen - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVBNUGI3X2FvZkF5QkhJcHNLUGcxRWtBTTZscUhCdThvSng3YUtVS1diM1MwbHJyZVZqNE1VMkJGRUZqQTFqZW5QckJlRlh4TWRzaHg1LTJTRXM0OTctLWhrbzVDM09vSkp5ckRtclNieWc3UjJ1OFNmVlI2RjF0WjNHX3RSTEZMcUNDR0d0XzNJTmxpTHFqRW1QTnIxcml6SkxlLThOSU5iTmxIckhYWGE5ODktQnQx?oc=5",
-   "pub": "Wed, 12 Aug 2026 16:03:46 GMT"
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
+   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   }
  ]
 }
