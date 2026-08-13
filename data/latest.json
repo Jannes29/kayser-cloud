@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-13T16:12:38Z",
+ "collected_at": "2026-08-13T17:14:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8132,
-   "chg1d_pct": 0.27
+   "price": 0.8133,
+   "chg1d_pct": 0.28
   },
   "USDJPY": {
-   "price": 159.387,
-   "chg1d_pct": 0.08
+   "price": 159.498,
+   "chg1d_pct": 0.15
   },
   "GBPCAD": {
-   "price": 1.8799,
-   "chg1d_pct": -0.02
+   "price": 1.8779,
+   "chg1d_pct": -0.13
   },
   "AUDJPY": {
-   "price": 112.466,
-   "chg1d_pct": -0.03
+   "price": 112.587,
+   "chg1d_pct": 0.08
   },
   "EURUSD": {
-   "price": 1.1533,
-   "chg1d_pct": -0.09
+   "price": 1.1531,
+   "chg1d_pct": -0.11
   },
   "GBPCHF": {
-   "price": 1.097,
-   "chg1d_pct": 0.13
+   "price": 1.0964,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 82.52,
-   "chg1d_pct": -0.9
+   "price": 81.91,
+   "chg1d_pct": -1.63
   },
   "BRENT": {
-   "price": 88.28,
-   "chg1d_pct": -0.79
+   "price": 87.68,
+   "chg1d_pct": -1.46
   },
   "GOLD": {
-   "price": 4422.8,
-   "chg1d_pct": 0.32
+   "price": 4423.8,
+   "chg1d_pct": 0.34
   },
   "SPX_FUT": {
-   "price": 7804.25,
-   "chg1d_pct": 0.43
+   "price": 7814.25,
+   "chg1d_pct": 0.56
   },
   "NAS_FUT": {
-   "price": 30155.5,
-   "chg1d_pct": 1.01
+   "price": 30218.25,
+   "chg1d_pct": 1.22
   }
  },
  "headlines": [
@@ -69,12 +69,22 @@
    "pub": "Thu, 13 Aug 2026 11:56:00 GMT"
   },
   {
+   "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch darf keine Gäste mehr aufnehmen - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWl2UENxZ0E3Vl9wSTkxbWFxTXdCMkFCWlFlSWV3MV8yN09MT3ZaVnZNelBnYjJUb2E5MWpPd1ZpNm5HZExpZnlPRUtVcHhnQTNXOUZpcHpRV0gtQ296SmVsWVM0NVpiUW95cHpBRFFVWEJlcVFWV093M1JIbWJtTk53MzdIZlBYdC1LUmdWRmRFdHlKNmNoMkkxR2NGV3ZoRVdZT3R0OFdRVmdlMWZpODBzWjFkTTZUazFaXzZTendXWVFPSGk0c09pOEtKSWo5Y09kVGFmQnIwRndyTW10MlptMEdTUWdEYmJOZ3NDdWU?oc=5",
+   "pub": "Thu, 13 Aug 2026 16:40:46 GMT"
+  },
+  {
+   "t": "Iran: Vandad Sanat bringt mit der P240-A einen eigenen DED-Metalldrucker - 3Druck.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUVVajJ0OTV3WGFaU25KLUZmZW9pNTBpRlVrRW84enlnelNfeFAyQm1PVmRYX081ZG9BYnROd0dkdzBwQWUwWXJ2MmdEV3VwM0dkWWkyWGg1SG5OTGpQNlAtUzlkZTlBQmZTRkpBS0RXbnpLOGVVVjZIOTVKeVBNWmJHbU9qd3lFTTRScC1XaGFTM3hoMzBkWVVHTFotTXV3SUFSckVEMS15MDFBcTVN?oc=5",
+   "pub": "Thu, 13 Aug 2026 12:38:19 GMT"
+  },
+  {
    "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU5tcTg5dGlBVWdwMVQ2SUo0OXkyVnhkRlh4Rks2S1MyUUxqeGtNU1VPSEwzQjFOSW5QMV9JWHpuRGFCRHhzaGJsZE1UMFNGZTdXZ29jUFhJcmU0czdVbk9PM29GUDZwUzR2Y3d4QkJ6RGl5Yll2b2ZTYUFDdFpOcnRPd2Q0eW1yRWp6T1RxTUdpdDVsT19qdmtGM1hDcXVLQ3BiRk84aWhENDVPa05iNEtqcDA2emdjR1E?oc=5",
    "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
@@ -86,27 +96,17 @@
   {
    "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
-   "pub": "Thu, 13 Aug 2026 15:04:04 GMT"
+   "pub": "Thu, 13 Aug 2026 16:34:04 GMT"
   },
   {
-   "t": "US-Inflationsdaten entschärfen den Druck auf die Fed - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWdhR1ZtbGVKRW95dmttTzRHcFlxbTk5V3A4bjRZMkljSzdseWNxOWFDRjF3ajJSTnFlZ3dkR2xLQnZqRkpUVWZ1Y2tSdGx2U2xmQ0thbS1nX1ZyLVhaaVk3ckVYcndsb05iVGZyVzRibmpkcnBqemcwWXJrZkxUeWpRZXh2R1J1SWwyUHVQbW5YQkN0S2FrdGkyTFFLZXBfRjVhN3JaYzdDVzY4T19jRWhhYkl5RE5zSV9xQzB3VWQ2T1FGYTdrRjExVlFIMGc?oc=5",
-   "pub": "Thu, 13 Aug 2026 05:46:00 GMT"
+   "t": "Geplante Gebühr für Straße von Hormus: Iran verweist auf Umweltschäden - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUpucWxURE05cVRmMldrb3RpeE1yODgteUNYSkRPd2h3bF9mVjgyY25XNF9vbmRjd3Q1UWRpdG5WTVZrNlpmSFJmSTNvdWFWNUJmZEZCandQYklLV0RPWTFaa1Y0SC1PWHNFQnZoQWdueTdRRVZwb21hS3pLeW82elg1YWlmQlJ4dmVDR252XzcwUllYRzdUMFFieHNFUi1YT2gzRHJsM0xSQTR6b0lCY2tmMmVoS0o0bUE?oc=5",
+   "pub": "Thu, 13 Aug 2026 07:10:00 GMT"
   },
   {
    "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
    "pub": "Thu, 13 Aug 2026 05:43:00 GMT"
-  },
-  {
-   "t": "Iran widerspricht Trump: „Die Straße von Hormus bleibt blockiert“ - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazJlZVZjSHphVENxUmNSSFdMb3J0UW5QS2lSRGxHQUxXdXljemE0T2xQOUVrNEtzUDFLTFU3LVdJUTJyVlBCM2I0c3gyb3VUOW0zOHJNV1ZKVllYbFVLVjhKNmx4WDllVTlXSGVZMnVNMmE1dnhkZl9YWXg3RmdDMl90dFN2N1Zsc0c0TDR2Mkl2eWE2LTVmLWNQRVg5TGFPSldKZ2daRVBaUVdZM191NlBQSVdvd3ZWR3ZBNmg5Ml9CcEg4Tk56Q25YMm5CYjFjZ1VmYw?oc=5",
-   "pub": "Thu, 13 Aug 2026 05:46:51 GMT"
-  },
-  {
-   "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
   }
  ]
 }
