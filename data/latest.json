@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-13T15:15:51Z",
+ "collected_at": "2026-08-13T16:12:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8122,
-   "chg1d_pct": 0.15
+   "price": 0.8132,
+   "chg1d_pct": 0.27
   },
   "USDJPY": {
-   "price": 159.312,
-   "chg1d_pct": 0.03
+   "price": 159.387,
+   "chg1d_pct": 0.08
   },
   "GBPCAD": {
-   "price": 1.882,
-   "chg1d_pct": 0.09
+   "price": 1.8799,
+   "chg1d_pct": -0.02
   },
   "AUDJPY": {
-   "price": 112.465,
+   "price": 112.466,
    "chg1d_pct": -0.03
   },
   "EURUSD": {
-   "price": 1.1542,
-   "chg1d_pct": -0.02
+   "price": 1.1533,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0965,
-   "chg1d_pct": 0.08
+   "price": 1.097,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 81.46,
-   "chg1d_pct": -2.17
+   "price": 82.52,
+   "chg1d_pct": -0.9
   },
   "BRENT": {
-   "price": 87.2,
-   "chg1d_pct": -2.0
+   "price": 88.28,
+   "chg1d_pct": -0.79
   },
   "GOLD": {
-   "price": 4433.0,
-   "chg1d_pct": 0.55
+   "price": 4422.8,
+   "chg1d_pct": 0.32
   },
   "SPX_FUT": {
-   "price": 7820.0,
-   "chg1d_pct": 0.64
+   "price": 7804.25,
+   "chg1d_pct": 0.43
   },
   "NAS_FUT": {
-   "price": 30215.75,
-   "chg1d_pct": 1.21
+   "price": 30155.5,
+   "chg1d_pct": 1.01
   }
  },
  "headlines": [
@@ -52,11 +52,6 @@
    "t": "Iran: CIA zweifelte offenbar an iranischer Bedrohung für Donald Trump - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkpoaW9iOGp2cnVGdTdUTGEzZlVLa0otWTQ2ek1ubUNfTXN5MVhjazNFc1pvV29vZDNyRUIwR3dvaTd4YVh5MGtpazFNZ2ZvOVJDazlQeVI3dzZvbUNjUEJHVDk1ajdFUHcxRzZNN3dhUnA4RF9Pd3ZBYlBpT09EUk1vaHBwV0tUTHlKSnBVV2NpRUtFeUs3NkVhZWVET25uQWl3akVsMVBGb3ZoNlk0SXNEOXhNc0wxN3RYT1NWeG13UU11UEE?oc=5",
    "pub": "Thu, 13 Aug 2026 03:27:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump steht in den USA immer stärker unter Druck - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUVRU3JkRG1VNDlxekZ1RGNpbXlXbzNUQ3BYZHV1VWRiSnZ4VFozZlFfSFNpZkVfd0J0aDJSWmt4NWUtSXYxQzlWbHdTS2Y3ZlpDcy1BUFVtcGVDV3MxNVJYREp5QzZ4SUY1bEhMRWVmYWY4clFOU1JOZnhNRTZqWlk1TEtTR1EyRUR5SDVQcW1sVkNOcllNREZkOEZfVU94U0dseXRNY3YyaHltRTBPVXVGTXhWLXl0RWw3ZThqSjV3b2Rv?oc=5",
-   "pub": "Thu, 13 Aug 2026 12:38:21 GMT"
   },
   {
    "t": "Teheran kontert Trump: Iran erklärt Straße von Hormus für weiterhin blockiert - n-tv.de",
@@ -79,14 +74,14 @@
    "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
   },
   {
-   "t": "Diplomatischer Wachwechsel - ipg-journal.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFVFTkpLV1Nua3lVRnRDV3pKRmZFbnJseHZKMUs1ZkhQU3VqYmdWc1FBYlV2QmRhVXI5VUp6MDBWS3lSMmlfdjZNQ3dGYnhTMUYxMTVfSFJVV0hlY3k0UmFxck1fa0puNlFaM3lxaWFuSVhWaWU0ZGJ3ZnRmTlRyWVhmR2hSQjliNFE5Mkh1TUdFQQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Diplomatischer Wachwechsel - IPG Journal",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFVFTkpLV1Nua3lVRnRDV3pKRmZFbnJseHZKMUs1ZkhQU3VqYmdWc1FBYlV2QmRhVXI5VUp6MDBWS3lSMmlfdjZNQ3dGYnhTMUYxMTVfSFJVV0hlY3k0UmFxck1fa0puNlFaM3lxaWFuSVhWaWU0ZGJ3ZnRmTlRyWVhmR2hSQjliNFE5Mkh1TUdFQQ?oc=5",
+   "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
   },
   {
    "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
@@ -94,19 +89,24 @@
    "pub": "Thu, 13 Aug 2026 15:04:04 GMT"
   },
   {
-   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
-   "pub": "Thu, 13 Aug 2026 05:43:00 GMT"
-  },
-  {
    "t": "US-Inflationsdaten entschärfen den Druck auf die Fed - e-fundresearch.com",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWdhR1ZtbGVKRW95dmttTzRHcFlxbTk5V3A4bjRZMkljSzdseWNxOWFDRjF3ajJSTnFlZ3dkR2xLQnZqRkpUVWZ1Y2tSdGx2U2xmQ0thbS1nX1ZyLVhaaVk3ckVYcndsb05iVGZyVzRibmpkcnBqemcwWXJrZkxUeWpRZXh2R1J1SWwyUHVQbW5YQkN0S2FrdGkyTFFLZXBfRjVhN3JaYzdDVzY4T19jRWhhYkl5RE5zSV9xQzB3VWQ2T1FGYTdrRjExVlFIMGc?oc=5",
    "pub": "Thu, 13 Aug 2026 05:46:00 GMT"
   },
   {
+   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
+   "pub": "Thu, 13 Aug 2026 05:43:00 GMT"
+  },
+  {
    "t": "Iran widerspricht Trump: „Die Straße von Hormus bleibt blockiert“ - RND.de",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazJlZVZjSHphVENxUmNSSFdMb3J0UW5QS2lSRGxHQUxXdXljemE0T2xQOUVrNEtzUDFLTFU3LVdJUTJyVlBCM2I0c3gyb3VUOW0zOHJNV1ZKVllYbFVLVjhKNmx4WDllVTlXSGVZMnVNMmE1dnhkZl9YWXg3RmdDMl90dFN2N1Zsc0c0TDR2Mkl2eWE2LTVmLWNQRVg5TGFPSldKZ2daRVBaUVdZM191NlBQSVdvd3ZWR3ZBNmg5Ml9CcEg4Tk56Q25YMm5CYjFjZ1VmYw?oc=5",
    "pub": "Thu, 13 Aug 2026 05:46:51 GMT"
+  },
+  {
+   "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
+   "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
   }
  ]
 }
