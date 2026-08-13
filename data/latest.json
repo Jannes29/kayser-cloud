@@ -1,92 +1,82 @@
 {
- "collected_at": "2026-08-13T05:06:49Z",
+ "collected_at": "2026-08-13T06:46:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8137,
-   "chg1d_pct": 0.33
+   "price": 0.814,
+   "chg1d_pct": 0.37
   },
   "USDJPY": {
-   "price": 159.258,
-   "chg1d_pct": -0.0
+   "price": 159.401,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8816,
-   "chg1d_pct": 0.07
+   "price": 1.8811,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 112.286,
-   "chg1d_pct": -0.19
+   "price": 112.329,
+   "chg1d_pct": -0.15
   },
   "EURUSD": {
-   "price": 1.1529,
-   "chg1d_pct": -0.13
+   "price": 1.1519,
+   "chg1d_pct": -0.21
   },
   "GBPCHF": {
-   "price": 1.0981,
-   "chg1d_pct": 0.23
+   "price": 1.0974,
+   "chg1d_pct": 0.17
   },
   "WTI": {
-   "price": 82.88,
-   "chg1d_pct": -0.47
+   "price": 83.26,
+   "chg1d_pct": -0.01
   },
   "BRENT": {
-   "price": 88.74,
-   "chg1d_pct": -0.27
+   "price": 88.99,
+   "chg1d_pct": 0.01
   },
   "GOLD": {
-   "price": 4454.6,
-   "chg1d_pct": 1.04
+   "price": 4426.6,
+   "chg1d_pct": 0.4
   },
   "SPX_FUT": {
-   "price": 7776.75,
+   "price": 7776.5,
    "chg1d_pct": 0.08
   },
   "NAS_FUT": {
-   "price": 29890.5,
-   "chg1d_pct": 0.12
+   "price": 29880.5,
+   "chg1d_pct": 0.09
   }
  },
  "headlines": [
+  {
+   "t": "Teheran kontert Trump: Iran erklärt Straße von Hormus für weiterhin blockiert - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVlk1cW14ZDJnWDFVeFZrdHBhWnVQLXNGOXJ2bm40MlVVNWFHd1V6dkhmcTh2d001ZTFxdVdvRjdqamZfMVdFSldpNWw0dWtOb1podng4dHNnd0t5cVIzZjhqOE14amJtdFZNeTBBb2dhQVZ2ck1hNXYxalhZQVpiRVBVVDJDbFRtVjQzRXZ1NEZXWlpjUnJ4eXhkcDZ6djdNd1Fz?oc=5",
+   "pub": "Thu, 13 Aug 2026 04:58:14 GMT"
+  },
   {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
+   "t": "Krieg in Nahost: Trump: Straße von Hormus gehört uns – Neue Warnung an Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeGxBUFJmTDZ5RGZPbUpTWDJKOTdXZWl3V0ZjWE1KVm91eWFBSk02QnhPbWk1d1R6ZHpKaHpYU0N2M016TUNOLVVCM2hoVXNWU1ZJQWdjSy1DMndNZlVqNGJuN1VObHNVOTNyNG5VdjIzMk9yVFMzOE50aHhsd0hENHYtejFheGQ1aTVOeVJvWUFnaG56dWNXeWJzVlVTRVQ2bkdlTkxodFprVlh3Y1BTMjVtYll5Q1FUQXpBRVpxR2pmSENLMnFva3NHVTN0X3oxdktQQzlR?oc=5",
+   "pub": "Thu, 13 Aug 2026 06:18:06 GMT"
+  },
+  {
+   "t": "US-Inflationsdaten entschärfen den Druck auf die Fed - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWdhR1ZtbGVKRW95dmttTzRHcFlxbTk5V3A4bjRZMkljSzdseWNxOWFDRjF3ajJSTnFlZ3dkR2xLQnZqRkpUVWZ1Y2tSdGx2U2xmQ0thbS1nX1ZyLVhaaVk3ckVYcndsb05iVGZyVzRibmpkcnBqemcwWXJrZkxUeWpRZXh2R1J1SWwyUHVQbW5YQkN0S2FrdGkyTFFLZXBfRjVhN3JaYzdDVzY4T19jRWhhYkl5RE5zSV9xQzB3VWQ2T1FGYTdrRjExVlFIMGc?oc=5",
+   "pub": "Thu, 13 Aug 2026 05:46:00 GMT"
+  },
+  {
+   "t": "Liveticker zum Iran-Krieg: Iran an Trump: „Die Straße von Hormus bleibt blockiert“ - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazJlZVZjSHphVENxUmNSSFdMb3J0UW5QS2lSRGxHQUxXdXljemE0T2xQOUVrNEtzUDFLTFU3LVdJUTJyVlBCM2I0c3gyb3VUOW0zOHJNV1ZKVllYbFVLVjhKNmx4WDllVTlXSGVZMnVNMmE1dnhkZl9YWXg3RmdDMl90dFN2N1Zsc0c0TDR2Mkl2eWE2LTVmLWNQRVg5TGFPSldKZ2daRVBaUVdZM191NlBQSVdvd3ZWR3ZBNmg5Ml9CcEg4Tk56Q25YMm5CYjFjZ1VmYw?oc=5",
+   "pub": "Thu, 13 Aug 2026 05:46:51 GMT"
+  },
+  {
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "Nach List von Trump: «Attentatsdrohungen des Iran muss man ernst nehmen» - SRF",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFlWYVdRVHp1RHJqQVZWd3lpUGd4dDYydlVXV0RqSnFiQUxfWjZkXzlMSXFsTklmRFJ4SUgtSmlHQnBBdXdFZFhkeEYxT3RhNlg5TVdXR25UZTRxc2V3b2IxZDVxcVpWam85THdlbVFRWHZjRGVJR01wSXlTVzY3eHZnNDBPckFzVXliaXFDNUhRbUppVlBVcWVXY192TVRERkkwTkxZQkR0T3RRUnpHdjJTSzBaYUx4Y1lkYUdpclJHbUhaUmpwdk42VGg?oc=5",
-   "pub": "Wed, 12 Aug 2026 15:25:45 GMT"
-  },
-  {
-   "t": "Waffenruhe zwischen USA und Iran soll verlängert werden - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGQ2T1hxRlUxX1hKNmltNGNJTGtNbGdEVTM2aExLS0hiSi1PbzdHQTBqRWpZRkdqbTAwU2JCZzdTM1ItSkpMMkZ5RFlxM1dHMVl6czc2WVpyTzJvdmxNdkNSa3pFWVZzcUxENUNxZkxlTGJGWmVObm9qVy10LXdIRU1rTlpDV3lUS3FrN1pTaER4VTkyTl94V0dlWlV6Tk51Ti1vdGoxbUNRNG5OVExBdGRvWFZMWlFXdm5yd0xSbUt4UQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 04:07:13 GMT"
-  },
-  {
-   "t": "Neue Drohung gegen Iran: Trump behauptet: USA kontrollieren Straße von Hormus vollständig - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RFdU1hUUhtb2RUTUk2aF9fQVRienJYZXpOV1lJMjI2NWoxNnBqZnAxRjJNdGR3aVhRbURBOHF1VW9YU29hX21HVXIzUHRRcG56RUV6ZHBCMWRFUUVteXk0blRSQ1VWS1EyVmJzSTRRTG9ZN3JPRlN5Tjk4X1hKcEJZNTZSRUpxZ3hvcVVaR0VQZHRnSEp1UnZrdkRGN08zV0hERlFqRHRkR01WclE?oc=5",
-   "pub": "Wed, 12 Aug 2026 08:38:49 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt neue Bedingungen für Öffnung der Straße von Hormus - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3VwNm9ic1VWeW5xaWRDSVZFOU1lSmROVzg0UmhHdVRBcThES0Jkb0dnajA4anVRVTZsRVRkRnl5ejdna1FWY0lsLWFuSTJTdHRJYUluYndIeTRDQVJYM0RtaXpVZUdXWkJCNXRlWGFPNGVzZlNqY2RBWU9Fb0hXQkdmR1pubEUwTlVEOThqNkxCSm9MeUtv?oc=5",
-   "pub": "Sun, 09 Aug 2026 13:39:00 GMT"
-  },
-  {
-   "t": "Ohr zwischen Augen: Intervention XIII im kunstraum friesentrasse - Hannover.de",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZmU3SnEyVXFDTkdUa1ZkamxWb3dYZzZzYzJWZC1WSEQxQVJhRTZObExpME13VjdVcWhnNTREYVlwQ1RTT2ZGZUNmY2VpZVVqX2laZlgtaGNGZ0sxdktYVUhTU1FhQkpIZ1YzZnpCazNsY2lGMXRNNGQ1MzVyMDFyZXZJemJ4MW1KcWFuaThQN2RyWFV6TFhCWUhxQVlxN3ZDdGNHdjRHT2NZWHE5M3lRR2FJekpzSXBaMGM3LUUxdFlGZlRfY2VR?oc=5",
-   "pub": "Wed, 12 Aug 2026 11:21:37 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran stellt harte Forderungen vor Öffnung - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWQ4RjNVOF9YUVBWbFNJYXRFcVBIQmEtaDU1SmlGZ0wyRVZkUVQ5NVhLamJZZF9BNTU1VzJBVTVYTlNMZ2xJN1hlc2RSeVducHhCS2VBcjM2S0V2eHVxVXpmbXZQckYxOFhBQ2hpdGtPNzJrdGV6NVlabDAzeVlnTGhNNkRCSlZzaW40RXlCMzlBTVlyNW5IaHUxTGw2Zkh3d2ZaRUN1OFBlUnpraVAwdE1uRE13TVdWZFAyZHYxWGxGYUQ1bXJaVUVMdWRFQjdjWmfSAdIBQVVfeXFMUGc3TTJUQ08wQ2FsU1c4T0R1TWZvbGdVUUNaeG5VeGJTeUFsbHZQdWYzRVYwR3U2eXBWdnVTaGd5QXNEemNyVW5maVBlcFJmdXNHQkljQWd2Qk5xT0t6cFZEOWJkZkxnSm04OEhqVzBKb2MtU0t2ZFdlWGRhcmtvY0hseDFjMFhWYnkwRWd6UVB1UHEwNEZJVkZEVlh6WERkeEpUdld3MzVoLTVuSTlYeURMRlpEOGhLM2xCOTZWSTBtblFqRF9mRW9fbElVc0FjRWJ3?oc=5",
-   "pub": "Mon, 10 Aug 2026 00:56:21 GMT"
   },
   {
    "t": "Iran-Anschlag auf Trump? US-Geheimdienst hatte Zweifel - Berliner Morgenpost",
@@ -94,19 +84,29 @@
    "pub": "Thu, 13 Aug 2026 04:38:24 GMT"
   },
   {
-   "t": "Krieg in Nahost: Neue Ergebnis von Verhandlungen der USA und des Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSk5lWXhKWXBlM1pSLTQxWk5yb21xTnUybmRaZFpWUTd2djZ2SlBYZTlCeTlJNHp3MWhzSkl3RFdRTnVxR0xUNWxsWGxoUmE5WXotWVJCZVlIdGtueWNUY1dPdVFQZDFhbEk2R3FsMTlKQlpiUk5YVmF6STNDRTN4RTg2UFYzZDlYcEJES0tfSTlyeDFNeGh3b0NMU3Q1blNWSkNQNzRwWlBJLW1CSWFZZlZPSEE3SkhOenFVRTF6SjZpUzBPNDZGLWRrQQ?oc=5",
-   "pub": "Wed, 12 Aug 2026 11:34:14 GMT"
+   "t": "Täuschungsmanöver in Ankara - Hätte der Iran Donald Trump mit einer Rakete töten können? - SRF",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFlWYVdRVHp1RHJqQVZWd3lpUGd4dDYydlVXV0RqSnFiQUxfWjZkXzlMSXFsTklmRFJ4SUgtSmlHQnBBdXdFZFhkeEYxT3RhNlg5TVdXR25UZTRxc2V3b2IxZDVxcVpWam85THdlbVFRWHZjRGVJR01wSXlTVzY3eHZnNDBPckFzVXliaXFDNUhRbUppVlBVcWVXY192TVRERkkwTkxZQkR0T3RRUnpHdjJTSzBaYUx4Y1lkYUdpclJHbUhaUmpwdk42VGg?oc=5",
+   "pub": "Wed, 12 Aug 2026 15:25:45 GMT"
   },
   {
-   "t": "Amerikas Inflation lässt die Fed im Ungewissen - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVVBNUGI3X2FvZkF5QkhJcHNLUGcxRWtBTTZscUhCdThvSng3YUtVS1diM1MwbHJyZVZqNE1VMkJGRUZqQTFqZW5QckJlRlh4TWRzaHg1LTJTRXM0OTctLWhrbzVDM09vSkp5ckRtclNieWc3UjJ1OFNmVlI2RjF0WjNHX3RSTEZMcUNDR0d0XzNJTmxpTHFqRW1QTnIxcml6SkxlLThOSU5iTmxIckhYWGE5ODktQnQx?oc=5",
-   "pub": "Wed, 12 Aug 2026 16:03:46 GMT"
+   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
+   "pub": "Thu, 13 Aug 2026 06:03:50 GMT"
+  },
+  {
+   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
+   "pub": "Thu, 13 Aug 2026 05:43:00 GMT"
   },
   {
    "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
    "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
+  },
+  {
+   "t": "Iran-Konflikt: Donald Trump verlangt Entschädigungszahlungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW1HNjUxb3hzdmNXUTNCOVlJWUF2eWZyaUVid3hXTVhrbl9XdkZmcS13Nm9oRGFkMXZMeF8tdjFlUk93VXQ3NmliZURRaHRvUHFzWkp4djVNN0pUSzcxSXhValNCUzdOLTR0X25yYkwtYnRBVlB0ZEQzR0phZk00NDZkNlkzdGtteXVjRHZwRXBfQjBhTGRaYzdHbkdJNWR0eXhEV1IxWEdyUW1HSDAteldBRkI2NGlYazNidkFfMjRMSmRjbEdjOGlR?oc=5",
+   "pub": "Mon, 10 Aug 2026 19:22:00 GMT"
   }
  ]
 }
