@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-13T19:26:23Z",
+ "collected_at": "2026-08-13T21:04:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8139,
-   "chg1d_pct": 0.36
+   "price": 0.8133,
+   "chg1d_pct": 0.05
   },
   "USDJPY": {
-   "price": 159.497,
-   "chg1d_pct": 0.15
+   "price": 159.46,
+   "chg1d_pct": 0.08
   },
   "GBPCAD": {
-   "price": 1.8786,
-   "chg1d_pct": -0.09
+   "price": 1.8779,
+   "chg1d_pct": -0.18
   },
   "AUDJPY": {
-   "price": 112.601,
-   "chg1d_pct": 0.09
+   "price": 112.541,
+   "chg1d_pct": 0.03
   },
   "EURUSD": {
-   "price": 1.1534,
-   "chg1d_pct": -0.08
+   "price": 1.1531,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": 0.19
+   "price": 1.0962,
+   "chg1d_pct": -0.12
   },
   "WTI": {
-   "price": 81.25,
-   "chg1d_pct": -2.43
+   "price": 81.19,
+   "chg1d_pct": -2.5
   },
   "BRENT": {
-   "price": 87.07,
-   "chg1d_pct": -2.15
+   "price": 86.96,
+   "chg1d_pct": -2.27
   },
   "GOLD": {
-   "price": 4403.0,
-   "chg1d_pct": -0.13
+   "price": 4405.1,
+   "chg1d_pct": -0.09
   },
   "SPX_FUT": {
-   "price": 7824.25,
-   "chg1d_pct": 0.69
+   "price": 7825.0,
+   "chg1d_pct": 0.7
   },
   "NAS_FUT": {
-   "price": 30239.0,
-   "chg1d_pct": 1.29
+   "price": 30213.5,
+   "chg1d_pct": 1.21
   }
  },
  "headlines": [
@@ -89,24 +89,24 @@
    "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
   },
   {
-   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
+   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - kurier.at",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
-   "pub": "Thu, 13 Aug 2026 16:34:04 GMT"
-  },
-  {
-   "t": "Geplante Gebühr für Straße von Hormus: Iran verweist auf Umweltschäden - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUpucWxURE05cVRmMldrb3RpeE1yODgteUNYSkRPd2h3bF9mVjgyY25XNF9vbmRjd3Q1UWRpdG5WTVZrNlpmSFJmSTNvdWFWNUJmZEZCandQYklLV0RPWTFaa1Y0SC1PWHNFQnZoQWdueTdRRVZwb21hS3pLeW82elg1YWlmQlJ4dmVDR252XzcwUllYRzdUMFFieHNFUi1YT2gzRHJsM0xSQTR6b0lCY2tmMmVoS0o0bUE?oc=5",
-   "pub": "Thu, 13 Aug 2026 07:10:00 GMT"
-  },
-  {
-   "t": "Iran widerspricht Trump: Straße von Hormus steht unter Kontrolle Teherans - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWMtMW02VjhRWFExRnNabGVxM3U0cFRxRGN1VVF1SXZwenloMmVPNzBHMWtIS1NvbEUyWE1hSDU1SVVjSFB4cWJMc2dLamhRTTBVN0JkREFacVJzSzlYeVhsVWZDZkhsTHl0eVpGYzFKbU1yc2RHUGROSnNfWXlvMXVxRld4ZFc4SXN6Q0pvUmwtb25XMlhKclR3VVRFcnZpb2RQM0k0VWpTX3hCUGRLenFCNE5KN3dMbURGeVliRQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 15:47:46 GMT"
+   "pub": "Thu, 13 Aug 2026 20:52:52 GMT"
   },
   {
    "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
    "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
+  },
+  {
+   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
+   "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+   "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
+   "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   }
  ]
 }
