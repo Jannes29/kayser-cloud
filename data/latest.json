@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-13T22:03:55Z",
+ "collected_at": "2026-08-13T23:03:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.814,
-   "chg1d_pct": 0.14
+   "price": 0.8139,
+   "chg1d_pct": 0.12
   },
   "USDJPY": {
-   "price": 159.49,
-   "chg1d_pct": 0.1
-  },
-  "GBPCAD": {
-   "price": 1.8785,
-   "chg1d_pct": -0.15
-  },
-  "AUDJPY": {
-   "price": 112.59,
+   "price": 159.439,
    "chg1d_pct": 0.07
   },
+  "GBPCAD": {
+   "price": 1.8786,
+   "chg1d_pct": -0.14
+  },
+  "AUDJPY": {
+   "price": 112.624,
+   "chg1d_pct": 0.1
+  },
   "EURUSD": {
-   "price": 1.1534,
-   "chg1d_pct": 0.03
+   "price": 1.1537,
+   "chg1d_pct": 0.06
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": 0.02
+   "price": 1.098,
+   "chg1d_pct": 0.04
   },
   "WTI": {
-   "price": 81.21,
-   "chg1d_pct": -2.47
+   "price": 81.08,
+   "chg1d_pct": -2.63
   },
   "BRENT": {
-   "price": 86.96,
-   "chg1d_pct": -2.27
+   "price": 86.93,
+   "chg1d_pct": -2.3
   },
   "GOLD": {
-   "price": 4407.1,
-   "chg1d_pct": -0.04
+   "price": 4410.8,
+   "chg1d_pct": 0.04
   },
   "SPX_FUT": {
-   "price": 7825.25,
-   "chg1d_pct": 0.7
+   "price": 7824.25,
+   "chg1d_pct": 0.69
   },
   "NAS_FUT": {
-   "price": 30214.25,
-   "chg1d_pct": 1.21
+   "price": 30202.75,
+   "chg1d_pct": 1.17
   }
  },
  "headlines": [
@@ -74,14 +74,14 @@
    "pub": "Thu, 13 Aug 2026 16:40:46 GMT"
   },
   {
-   "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU5tcTg5dGlBVWdwMVQ2SUo0OXkyVnhkRlh4Rks2S1MyUUxqeGtNU1VPSEwzQjFOSW5QMV9JWHpuRGFCRHhzaGJsZE1UMFNGZTdXZ29jUFhJcmU0czdVbk9PM29GUDZwUzR2Y3d4QkJ6RGl5Yll2b2ZTYUFDdFpOcnRPd2Q0eW1yRWp6T1RxTUdpdDVsT19qdmtGM1hDcXVLQ3BiRk84aWhENDVPa05iNEtqcDA2emdjR1E?oc=5",
-   "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
-  },
-  {
    "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
    "pub": "Thu, 13 Aug 2026 20:52:52 GMT"
+  },
+  {
+   "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU5tcTg5dGlBVWdwMVQ2SUo0OXkyVnhkRlh4Rks2S1MyUUxqeGtNU1VPSEwzQjFOSW5QMV9JWHpuRGFCRHhzaGJsZE1UMFNGZTdXZ29jUFhJcmU0czdVbk9PM29GUDZwUzR2Y3d4QkJ6RGl5Yll2b2ZTYUFDdFpOcnRPd2Q0eW1yRWp6T1RxTUdpdDVsT19qdmtGM1hDcXVLQ3BiRk84aWhENDVPa05iNEtqcDA2emdjR1E?oc=5",
+   "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
   },
   {
    "t": "Iran: Vandad Sanat bringt mit der P240-A einen eigenen DED-Metalldrucker - 3Druck.com",
@@ -94,19 +94,19 @@
    "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
   },
   {
-   "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
-  },
-  {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
-   "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
+   "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
+   "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
+  },
+  {
+   "t": "Hinrichtungen im Iran: Exil-Iranerinnen „besonders verstört“ über neue Regime-Linien - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUIzSVM3Ylg0c3U1WE9TOE10bVg5QS10R2NwNVR1dGFLUU9tTU02bkNEZ2pDNVNXODFwSThKY25vOVdpRGRfT29Udloyc0F5RkI1ZjQ5RFVaOTZtWXRuaWQ3UnMzLTNpZTlRaEVkUlhwdnFsLVJGWmlUXzhXLUJ2NkNGLW9IYVNCMzFaS3BNdHlDZDdFZnE1dFhSeWRaZGN2c1dzbFcycTY5TF9lZk9yWUtQTXhZcjJFZnc0MzZhSGZVb2pz?oc=5",
+   "pub": "Thu, 13 Aug 2026 17:00:00 GMT"
   }
  ]
 }
