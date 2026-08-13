@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-13T17:14:18Z",
+ "collected_at": "2026-08-13T18:09:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8133,
-   "chg1d_pct": 0.28
+   "price": 0.8134,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 159.498,
+   "price": 159.504,
    "chg1d_pct": 0.15
   },
   "GBPCAD": {
-   "price": 1.8779,
-   "chg1d_pct": -0.13
+   "price": 1.8788,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 112.587,
-   "chg1d_pct": 0.08
+   "price": 112.545,
+   "chg1d_pct": 0.04
   },
   "EURUSD": {
    "price": 1.1531,
    "chg1d_pct": -0.11
   },
   "GBPCHF": {
-   "price": 1.0964,
-   "chg1d_pct": 0.07
+   "price": 1.0966,
+   "chg1d_pct": 0.09
   },
   "WTI": {
-   "price": 81.91,
-   "chg1d_pct": -1.63
+   "price": 81.84,
+   "chg1d_pct": -1.72
   },
   "BRENT": {
-   "price": 87.68,
-   "chg1d_pct": -1.46
+   "price": 87.64,
+   "chg1d_pct": -1.51
   },
   "GOLD": {
-   "price": 4423.8,
-   "chg1d_pct": 0.34
+   "price": 4412.0,
+   "chg1d_pct": 0.07
   },
   "SPX_FUT": {
-   "price": 7814.25,
-   "chg1d_pct": 0.56
+   "price": 7812.0,
+   "chg1d_pct": 0.53
   },
   "NAS_FUT": {
-   "price": 30218.25,
-   "chg1d_pct": 1.22
+   "price": 30207.25,
+   "chg1d_pct": 1.19
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Iran: CIA zweifelte offenbar an iranischer Bedrohung für Donald Trump - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkpoaW9iOGp2cnVGdTdUTGEzZlVLa0otWTQ2ek1ubUNfTXN5MVhjazNFc1pvV29vZDNyRUIwR3dvaTd4YVh5MGtpazFNZ2ZvOVJDazlQeVI3dzZvbUNjUEJHVDk1ajdFUHcxRzZNN3dhUnA4RF9Pd3ZBYlBpT09EUk1vaHBwV0tUTHlKSnBVV2NpRUtFeUs3NkVhZWVET25uQWl3akVsMVBGb3ZoNlk0SXNEOXhNc0wxN3RYT1NWeG13UU11UEE?oc=5",
    "pub": "Thu, 13 Aug 2026 03:27:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran begründet geplante Gebühr mit Umweltschäden - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1hfNlA3eUFWeko3ZmprSlQtZGhQRWtoTFBBYTNsMThnWVdGS3dlWEw0RU1TSVhUSFdycDAtZ28xXzBqcW1GQmxPT29BWFJOMXFMUGoydkNLbzlKSW9ZOVkySEtUV3FzWEFmTy1adWVNY0lGTF9oUGR5Z0JxWHZRbUZfSGp1MW82N3A2UzQ4elRWZ0xId3lMbm5BYk5Wdlo1MV9VQk9VNFlsRFdBRF82aGpnaw?oc=5",
+   "pub": "Thu, 13 Aug 2026 11:56:00 GMT"
   },
   {
    "t": "Teheran kontert Trump: Iran erklärt Straße von Hormus für weiterhin blockiert - n-tv.de",
@@ -64,11 +69,6 @@
    "pub": "Thu, 13 Aug 2026 12:12:42 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran begründet geplante Gebühr mit Umweltschäden - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1hfNlA3eUFWeko3ZmprSlQtZGhQRWtoTFBBYTNsMThnWVdGS3dlWEw0RU1TSVhUSFdycDAtZ28xXzBqcW1GQmxPT29BWFJOMXFMUGoydkNLbzlKSW9ZOVkySEtUV3FzWEFmTy1adWVNY0lGTF9oUGR5Z0JxWHZRbUZfSGp1MW82N3A2UzQ4elRWZ0xId3lMbm5BYk5Wdlo1MV9VQk9VNFlsRFdBRF82aGpnaw?oc=5",
-   "pub": "Thu, 13 Aug 2026 11:56:00 GMT"
-  },
-  {
    "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch darf keine Gäste mehr aufnehmen - hessenschau.de",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWl2UENxZ0E3Vl9wSTkxbWFxTXdCMkFCWlFlSWV3MV8yN09MT3ZaVnZNelBnYjJUb2E5MWpPd1ZpNm5HZExpZnlPRUtVcHhnQTNXOUZpcHpRV0gtQ296SmVsWVM0NVpiUW95cHpBRFFVWEJlcVFWV093M1JIbWJtTk53MzdIZlBYdC1LUmdWRmRFdHlKNmNoMkkxR2NGV3ZoRVdZT3R0OFdRVmdlMWZpODBzWjFkTTZUazFaXzZTendXWVFPSGk0c09pOEtKSWo5Y09kVGFmQnIwRndyTW10MlptMEdTUWdEYmJOZ3NDdWU?oc=5",
    "pub": "Thu, 13 Aug 2026 16:40:46 GMT"
@@ -79,14 +79,14 @@
    "pub": "Thu, 13 Aug 2026 12:38:19 GMT"
   },
   {
-   "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU5tcTg5dGlBVWdwMVQ2SUo0OXkyVnhkRlh4Rks2S1MyUUxqeGtNU1VPSEwzQjFOSW5QMV9JWHpuRGFCRHhzaGJsZE1UMFNGZTdXZ29jUFhJcmU0czdVbk9PM29GUDZwUzR2Y3d4QkJ6RGl5Yll2b2ZTYUFDdFpOcnRPd2Q0eW1yRWp6T1RxTUdpdDVsT19qdmtGM1hDcXVLQ3BiRk84aWhENDVPa05iNEtqcDA2emdjR1E?oc=5",
-   "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU5tcTg5dGlBVWdwMVQ2SUo0OXkyVnhkRlh4Rks2S1MyUUxqeGtNU1VPSEwzQjFOSW5QMV9JWHpuRGFCRHhzaGJsZE1UMFNGZTdXZ29jUFhJcmU0czdVbk9PM29GUDZwUzR2Y3d4QkJ6RGl5Yll2b2ZTYUFDdFpOcnRPd2Q0eW1yRWp6T1RxTUdpdDVsT19qdmtGM1hDcXVLQ3BiRk84aWhENDVPa05iNEtqcDA2emdjR1E?oc=5",
+   "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
   },
   {
    "t": "Diplomatischer Wachwechsel - IPG Journal",
@@ -94,19 +94,19 @@
    "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
   },
   {
-   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
-   "pub": "Thu, 13 Aug 2026 16:34:04 GMT"
-  },
-  {
    "t": "Geplante Gebühr für Straße von Hormus: Iran verweist auf Umweltschäden - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORUpucWxURE05cVRmMldrb3RpeE1yODgteUNYSkRPd2h3bF9mVjgyY25XNF9vbmRjd3Q1UWRpdG5WTVZrNlpmSFJmSTNvdWFWNUJmZEZCandQYklLV0RPWTFaa1Y0SC1PWHNFQnZoQWdueTdRRVZwb21hS3pLeW82elg1YWlmQlJ4dmVDR252XzcwUllYRzdUMFFieHNFUi1YT2gzRHJsM0xSQTR6b0lCY2tmMmVoS0o0bUE?oc=5",
    "pub": "Thu, 13 Aug 2026 07:10:00 GMT"
   },
   {
-   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
-   "pub": "Thu, 13 Aug 2026 05:43:00 GMT"
+   "t": "Iran widerspricht Trump: Straße von Hormus steht unter Kontrolle Teherans - berliner-zeitung.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWMtMW02VjhRWFExRnNabGVxM3U0cFRxRGN1VVF1SXZwenloMmVPNzBHMWtIS1NvbEUyWE1hSDU1SVVjSFB4cWJMc2dLamhRTTBVN0JkREFacVJzSzlYeVhsVWZDZkhsTHl0eVpGYzFKbU1yc2RHUGROSnNfWXlvMXVxRld4ZFc4SXN6Q0pvUmwtb25XMlhKclR3VVRFcnZpb2RQM0k0VWpTX3hCUGRLenFCNE5KN3dMbURGeVliRQ?oc=5",
+   "pub": "Thu, 13 Aug 2026 15:47:46 GMT"
+  },
+  {
+   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
+   "pub": "Thu, 13 Aug 2026 15:04:04 GMT"
   }
  ]
 }
