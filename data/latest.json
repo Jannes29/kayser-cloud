@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-13T21:04:18Z",
+ "collected_at": "2026-08-13T22:03:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8133,
-   "chg1d_pct": 0.05
+   "price": 0.814,
+   "chg1d_pct": 0.14
   },
   "USDJPY": {
-   "price": 159.46,
-   "chg1d_pct": 0.08
+   "price": 159.49,
+   "chg1d_pct": 0.1
   },
   "GBPCAD": {
-   "price": 1.8779,
-   "chg1d_pct": -0.18
+   "price": 1.8785,
+   "chg1d_pct": -0.15
   },
   "AUDJPY": {
-   "price": 112.541,
-   "chg1d_pct": 0.03
+   "price": 112.59,
+   "chg1d_pct": 0.07
   },
   "EURUSD": {
-   "price": 1.1531,
-   "chg1d_pct": 0.01
+   "price": 1.1534,
+   "chg1d_pct": 0.03
   },
   "GBPCHF": {
-   "price": 1.0962,
-   "chg1d_pct": -0.12
+   "price": 1.0977,
+   "chg1d_pct": 0.02
   },
   "WTI": {
-   "price": 81.19,
-   "chg1d_pct": -2.5
+   "price": 81.21,
+   "chg1d_pct": -2.47
   },
   "BRENT": {
    "price": 86.96,
    "chg1d_pct": -2.27
   },
   "GOLD": {
-   "price": 4405.1,
-   "chg1d_pct": -0.09
+   "price": 4407.1,
+   "chg1d_pct": -0.04
   },
   "SPX_FUT": {
-   "price": 7825.0,
+   "price": 7825.25,
    "chg1d_pct": 0.7
   },
   "NAS_FUT": {
-   "price": 30213.5,
+   "price": 30214.25,
    "chg1d_pct": 1.21
   }
  },
  "headlines": [
   {
-   "t": "Iran: CIA zweifelte offenbar an iranischer Bedrohung für Donald Trump - Spiegel",
+   "t": "Iran: CIA zweifelte offenbar an iranischer Bedrohung für Donald Trump - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkpoaW9iOGp2cnVGdTdUTGEzZlVLa0otWTQ2ek1ubUNfTXN5MVhjazNFc1pvV29vZDNyRUIwR3dvaTd4YVh5MGtpazFNZ2ZvOVJDazlQeVI3dzZvbUNjUEJHVDk1ajdFUHcxRzZNN3dhUnA4RF9Pd3ZBYlBpT09EUk1vaHBwV0tUTHlKSnBVV2NpRUtFeUs3NkVhZWVET25uQWl3akVsMVBGb3ZoNlk0SXNEOXhNc0wxN3RYT1NWeG13UU11UEE?oc=5",
    "pub": "Thu, 13 Aug 2026 03:27:00 GMT"
   },
@@ -64,19 +64,24 @@
    "pub": "Thu, 13 Aug 2026 04:58:14 GMT"
   },
   {
-   "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch nimmt keine Gäste mehr auf - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTRoUzViMVBLS0hrMGZEWHJBVnhNbHpnOVNhbmcwa0xhQjRsUjBfQlR0bm8xZTlqb1N0aGVkVVdQYm8tcWxvd3BpREVkenQ3VFU4ejBrYnktR0YxSTlEVk1IbjJiVXp0VTRXTkdYLWktWkhDZU9QT1V0eWZ1ZXU4ZlgwV2NQMHh6c1lURC1mdkpmU2N3dElMNk9IR2dtVnBZc014OGRJbEk3NkV4RUM4enJieUh0MjB2OUV1UU9uQ2JUNXAzY2tVSFFTdGZ0Tll0LWVWX0hZZG53TWNxZkJIS01tVENoanphTkE?oc=5",
-   "pub": "Thu, 13 Aug 2026 16:40:46 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
+   "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch nimmt keine Gäste mehr auf - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTRoUzViMVBLS0hrMGZEWHJBVnhNbHpnOVNhbmcwa0xhQjRsUjBfQlR0bm8xZTlqb1N0aGVkVVdQYm8tcWxvd3BpREVkenQ3VFU4ejBrYnktR0YxSTlEVk1IbjJiVXp0VTRXTkdYLWktWkhDZU9QT1V0eWZ1ZXU4ZlgwV2NQMHh6c1lURC1mdkpmU2N3dElMNk9IR2dtVnBZc014OGRJbEk3NkV4RUM4enJieUh0MjB2OUV1UU9uQ2JUNXAzY2tVSFFTdGZ0Tll0LWVWX0hZZG53TWNxZkJIS01tVENoanphTkE?oc=5",
+   "pub": "Thu, 13 Aug 2026 16:40:46 GMT"
+  },
+  {
    "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU5tcTg5dGlBVWdwMVQ2SUo0OXkyVnhkRlh4Rks2S1MyUUxqeGtNU1VPSEwzQjFOSW5QMV9JWHpuRGFCRHhzaGJsZE1UMFNGZTdXZ29jUFhJcmU0czdVbk9PM29GUDZwUzR2Y3d4QkJ6RGl5Yll2b2ZTYUFDdFpOcnRPd2Q0eW1yRWp6T1RxTUdpdDVsT19qdmtGM1hDcXVLQ3BiRk84aWhENDVPa05iNEtqcDA2emdjR1E?oc=5",
    "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
+  },
+  {
+   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
+   "pub": "Thu, 13 Aug 2026 20:52:52 GMT"
   },
   {
    "t": "Iran: Vandad Sanat bringt mit der P240-A einen eigenen DED-Metalldrucker - 3Druck.com",
@@ -89,22 +94,17 @@
    "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
   },
   {
-   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - kurier.at",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
-   "pub": "Thu, 13 Aug 2026 20:52:52 GMT"
-  },
-  {
    "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
    "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
   },
   {
-   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
+   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
-   "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
+   "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
    "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   }
