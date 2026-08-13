@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-13T18:09:31Z",
+ "collected_at": "2026-08-13T19:26:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8134,
-   "chg1d_pct": 0.29
+   "price": 0.8139,
+   "chg1d_pct": 0.36
   },
   "USDJPY": {
-   "price": 159.504,
+   "price": 159.497,
    "chg1d_pct": 0.15
   },
   "GBPCAD": {
-   "price": 1.8788,
-   "chg1d_pct": -0.08
+   "price": 1.8786,
+   "chg1d_pct": -0.09
   },
   "AUDJPY": {
-   "price": 112.545,
-   "chg1d_pct": 0.04
-  },
-  "EURUSD": {
-   "price": 1.1531,
-   "chg1d_pct": -0.11
-  },
-  "GBPCHF": {
-   "price": 1.0966,
+   "price": 112.601,
    "chg1d_pct": 0.09
   },
+  "EURUSD": {
+   "price": 1.1534,
+   "chg1d_pct": -0.08
+  },
+  "GBPCHF": {
+   "price": 1.0977,
+   "chg1d_pct": 0.19
+  },
   "WTI": {
-   "price": 81.84,
-   "chg1d_pct": -1.72
+   "price": 81.25,
+   "chg1d_pct": -2.43
   },
   "BRENT": {
-   "price": 87.64,
-   "chg1d_pct": -1.51
+   "price": 87.07,
+   "chg1d_pct": -2.15
   },
   "GOLD": {
-   "price": 4412.0,
-   "chg1d_pct": 0.07
+   "price": 4403.0,
+   "chg1d_pct": -0.13
   },
   "SPX_FUT": {
-   "price": 7812.0,
-   "chg1d_pct": 0.53
+   "price": 7824.25,
+   "chg1d_pct": 0.69
   },
   "NAS_FUT": {
-   "price": 30207.25,
-   "chg1d_pct": 1.19
+   "price": 30239.0,
+   "chg1d_pct": 1.29
   }
  },
  "headlines": [
@@ -64,19 +64,9 @@
    "pub": "Thu, 13 Aug 2026 04:58:14 GMT"
   },
   {
-   "t": "Iran-Krieg legt Welthandel lahm: Panama-Kanal verlangt Rekordgebühren – und das Schlimmste kommt noch - Merkur",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTm4wNGZyZFktSk1FVXdzSGFUc2c4dFc1c0h6NzM1RFFVOUdYdnJTMUs2VlhxcUdCaDRxUUNVbUpjUXJQUURvZzktYmtvaUZwRGRlRnphbXhnYkpwVVQwcGgyUkFXZ2hpUnJUZ3FKUEZIT2ZkQm9nU0wzVmFfcFc3YWFiNnFJR1hSSk5QMTNCWFFHbkNwQWJiclBOYmkzNURPYTIzWmcxOE51Yno0TUdOVjZJdzE4eHJNUkcxSQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 12:12:42 GMT"
-  },
-  {
-   "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch darf keine Gäste mehr aufnehmen - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWl2UENxZ0E3Vl9wSTkxbWFxTXdCMkFCWlFlSWV3MV8yN09MT3ZaVnZNelBnYjJUb2E5MWpPd1ZpNm5HZExpZnlPRUtVcHhnQTNXOUZpcHpRV0gtQ296SmVsWVM0NVpiUW95cHpBRFFVWEJlcVFWV093M1JIbWJtTk53MzdIZlBYdC1LUmdWRmRFdHlKNmNoMkkxR2NGV3ZoRVdZT3R0OFdRVmdlMWZpODBzWjFkTTZUazFaXzZTendXWVFPSGk0c09pOEtKSWo5Y09kVGFmQnIwRndyTW10MlptMEdTUWdEYmJOZ3NDdWU?oc=5",
+   "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch nimmt keine Gäste mehr auf - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTRoUzViMVBLS0hrMGZEWHJBVnhNbHpnOVNhbmcwa0xhQjRsUjBfQlR0bm8xZTlqb1N0aGVkVVdQYm8tcWxvd3BpREVkenQ3VFU4ejBrYnktR0YxSTlEVk1IbjJiVXp0VTRXTkdYLWktWkhDZU9QT1V0eWZ1ZXU4ZlgwV2NQMHh6c1lURC1mdkpmU2N3dElMNk9IR2dtVnBZc014OGRJbEk3NkV4RUM4enJieUh0MjB2OUV1UU9uQ2JUNXAzY2tVSFFTdGZ0Tll0LWVWX0hZZG53TWNxZkJIS01tVENoanphTkE?oc=5",
    "pub": "Thu, 13 Aug 2026 16:40:46 GMT"
-  },
-  {
-   "t": "Iran: Vandad Sanat bringt mit der P240-A einen eigenen DED-Metalldrucker - 3Druck.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUVVajJ0OTV3WGFaU25KLUZmZW9pNTBpRlVrRW84enlnelNfeFAyQm1PVmRYX081ZG9BYnROd0dkdzBwQWUwWXJ2MmdEV3VwM0dkWWkyWGg1SG5OTGpQNlAtUzlkZTlBQmZTRkpBS0RXbnpLOGVVVjZIOTVKeVBNWmJHbU9qd3lFTTRScC1XaGFTM3hoMzBkWVVHTFotTXV3SUFSckVEMS15MDFBcTVN?oc=5",
-   "pub": "Thu, 13 Aug 2026 12:38:19 GMT"
   },
   {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
@@ -89,9 +79,19 @@
    "pub": "Thu, 13 Aug 2026 07:23:41 GMT"
   },
   {
+   "t": "Iran: Vandad Sanat bringt mit der P240-A einen eigenen DED-Metalldrucker - 3Druck.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUVVajJ0OTV3WGFaU25KLUZmZW9pNTBpRlVrRW84enlnelNfeFAyQm1PVmRYX081ZG9BYnROd0dkdzBwQWUwWXJ2MmdEV3VwM0dkWWkyWGg1SG5OTGpQNlAtUzlkZTlBQmZTRkpBS0RXbnpLOGVVVjZIOTVKeVBNWmJHbU9qd3lFTTRScC1XaGFTM3hoMzBkWVVHTFotTXV3SUFSckVEMS15MDFBcTVN?oc=5",
+   "pub": "Thu, 13 Aug 2026 12:38:19 GMT"
+  },
+  {
    "t": "Diplomatischer Wachwechsel - IPG Journal",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFVFTkpLV1Nua3lVRnRDV3pKRmZFbnJseHZKMUs1ZkhQU3VqYmdWc1FBYlV2QmRhVXI5VUp6MDBWS3lSMmlfdjZNQ3dGYnhTMUYxMTVfSFJVV0hlY3k0UmFxck1fa0puNlFaM3lxaWFuSVhWaWU0ZGJ3ZnRmTlRyWVhmR2hSQjliNFE5Mkh1TUdFQQ?oc=5",
    "pub": "Thu, 13 Aug 2026 13:26:22 GMT"
+  },
+  {
+   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
+   "pub": "Thu, 13 Aug 2026 16:34:04 GMT"
   },
   {
    "t": "Geplante Gebühr für Straße von Hormus: Iran verweist auf Umweltschäden - Jüdische Allgemeine",
@@ -99,14 +99,14 @@
    "pub": "Thu, 13 Aug 2026 07:10:00 GMT"
   },
   {
-   "t": "Iran widerspricht Trump: Straße von Hormus steht unter Kontrolle Teherans - berliner-zeitung.de",
+   "t": "Iran widerspricht Trump: Straße von Hormus steht unter Kontrolle Teherans - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWMtMW02VjhRWFExRnNabGVxM3U0cFRxRGN1VVF1SXZwenloMmVPNzBHMWtIS1NvbEUyWE1hSDU1SVVjSFB4cWJMc2dLamhRTTBVN0JkREFacVJzSzlYeVhsVWZDZkhsTHl0eVpGYzFKbU1yc2RHUGROSnNfWXlvMXVxRld4ZFc4SXN6Q0pvUmwtb25XMlhKclR3VVRFcnZpb2RQM0k0VWpTX3hCUGRLenFCNE5KN3dMbURGeVliRQ?oc=5",
    "pub": "Thu, 13 Aug 2026 15:47:46 GMT"
   },
   {
-   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
-   "pub": "Thu, 13 Aug 2026 15:04:04 GMT"
+   "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
+   "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
   }
  ]
 }
