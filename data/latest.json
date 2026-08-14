@@ -1,62 +1,67 @@
 {
- "collected_at": "2026-08-14T13:44:29Z",
+ "collected_at": "2026-08-14T15:07:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8109,
-   "chg1d_pct": -0.25
+   "price": 0.8114,
+   "chg1d_pct": -0.18
   },
   "USDJPY": {
-   "price": 158.823,
-   "chg1d_pct": -0.32
+   "price": 159.001,
+   "chg1d_pct": -0.21
   },
   "GBPCAD": {
    "price": 1.88,
    "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 112.611,
-   "chg1d_pct": 0.09
+   "price": 112.8,
+   "chg1d_pct": 0.26
   },
   "EURUSD": {
    "price": 1.1586,
    "chg1d_pct": 0.49
   },
   "GBPCHF": {
-   "price": 1.0991,
-   "chg1d_pct": 0.14
+   "price": 1.0992,
+   "chg1d_pct": 0.15
   },
   "WTI": {
-   "price": 81.04,
-   "chg1d_pct": -0.26
+   "price": 81.84,
+   "chg1d_pct": 0.73
   },
   "BRENT": {
-   "price": 86.77,
-   "chg1d_pct": -0.34
+   "price": 87.95,
+   "chg1d_pct": 1.01
   },
   "GOLD": {
-   "price": 4448.0,
-   "chg1d_pct": 1.93
+   "price": 4439.2,
+   "chg1d_pct": 1.73
   },
   "SPX_FUT": {
-   "price": 7824.0,
-   "chg1d_pct": 0.02
+   "price": 7812.75,
+   "chg1d_pct": -0.12
   },
   "NAS_FUT": {
-   "price": 30221.25,
-   "chg1d_pct": 0.11
+   "price": 30146.5,
+   "chg1d_pct": -0.14
   }
  },
  "headlines": [
   {
-   "t": "Zielscheibe für Flugabwehr: Bericht: USA verlieren ein Viertel ihrer Reaper-Drohnen im Iran-Krieg - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm0wclBKTkl6aHl2RXJmVXpSREYyUmdjWGtJTmVNWnZzMWVTTGJuVjdIc1RIZHMzZDRMd0FIc2dtLU9mc0lsdHNfOHh4U2VockRBMjg4eWkxQnBaZm5wb3JQMC1KZFhJVHJlR1h6c1pwS0FUYlIxdHM4dGx4b3laNzBfdzJKZ0h6QjNzaWd4aWhUaEozM3RnX0xZVmhneUtCcUp0RnV3M0pfdHliRGRRZEJR?oc=5",
-   "pub": "Fri, 14 Aug 2026 12:37:13 GMT"
+   "t": "US-Regierung ändert Strategie im Iran-Krieg - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ItUUd3Nlc0d2hTRUxmSFZ1N2NFLXZfQ3pwY2FzOURvUUpXWk5NbTFNWjBNS0Q0V01oUm5HQzdXYUhxTUt6U3JjbkVBc0w3aWdMUk42S2NMRjlmVTNFWnpDaXFMa1pHd0F0clZVNWt5dm81cUpaaUVpMUpPWTdaY2k4TzZzWFhEQUNITWZDMWlkZmlTR3AxUnJhYk5TZw?oc=5",
+   "pub": "Fri, 14 Aug 2026 11:24:37 GMT"
   },
   {
    "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXQzM0gzM3o5OVRnZFk0U0VERW5vUG9YSjdVRkRhRDRlcXl4YkRfSUh1R2lOZGFIbHFncFdKb1NFUUR1RGpteExObWFzSktzWnk1LVNlRWt6UkN1U1BseFBGdDZaSV9CN0pyQjhfd090U3Z2N2dpUFBtTUgzamd2NGE4SWdGZG1zcVpzeGo3YlhGSHdWVTlLdw?oc=5",
    "pub": "Fri, 14 Aug 2026 09:57:11 GMT"
+  },
+  {
+   "t": "Zielscheibe für Flugabwehr: Bericht: USA verlieren ein Viertel ihrer Reaper-Drohnen im Iran-Krieg - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm0wclBKTkl6aHl2RXJmVXpSREYyUmdjWGtJTmVNWnZzMWVTTGJuVjdIc1RIZHMzZDRMd0FIc2dtLU9mc0lsdHNfOHh4U2VockRBMjg4eWkxQnBaZm5wb3JQMC1KZFhJVHJlR1h6c1pwS0FUYlIxdHM4dGx4b3laNzBfdzJKZ0h6QjNzaWd4aWhUaEozM3RnX0xZVmhneUtCcUp0RnV3M0pfdHliRGRRZEJR?oc=5",
+   "pub": "Fri, 14 Aug 2026 11:21:28 GMT"
   },
   {
    "t": "USA drohen Iran mit Isolation „wie sie die Welt noch nicht gesehen hat“ - WELT",
@@ -94,19 +99,14 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
-   "pub": "Fri, 14 Aug 2026 09:45:43 GMT"
-  },
-  {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
-   "t": "Iran-Krieg: US-Militär dementiert Missstände auf Flugzeugträger - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcFZfb041anBKV3A3TTFHSms2akVzZXVzOVNrMnlFYmxmTXNISFF1QmdNTFNpeDhxT1lmYWY5bWFyQ1FLUUxkY09JbjZkU0NqbzVnY3YwQ09lYTR5U25kMndIY09TWG5abER1aTUwODdiSzhKUldNZC1haVZBd3d5QkFnRVB6LWdXdUJ5a1Bjcms?oc=5",
-   "pub": "Fri, 14 Aug 2026 07:00:00 GMT"
+   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
+   "pub": "Fri, 14 Aug 2026 09:45:43 GMT"
   }
  ]
 }
