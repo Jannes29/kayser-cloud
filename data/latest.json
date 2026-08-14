@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-14T20:46:25Z",
+ "collected_at": "2026-08-14T21:41:47Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8134,
-   "chg1d_pct": -0.09
+   "price": 0.813,
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
-   "price": 159.309,
-   "chg1d_pct": -0.07
+   "price": 159.305,
+   "chg1d_pct": -0.01
   },
   "GBPCAD": {
-   "price": 1.8772,
-   "chg1d_pct": -0.08
+   "price": 1.8777,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 112.833,
-   "chg1d_pct": 0.2
+   "price": 112.879,
+   "chg1d_pct": 0.24
   },
   "EURUSD": {
-   "price": 1.1571,
-   "chg1d_pct": 0.31
+   "price": 1.1573,
+   "chg1d_pct": 0.33
   },
   "GBPCHF": {
-   "price": 1.1007,
-   "chg1d_pct": 0.23
+   "price": 1.1003,
+   "chg1d_pct": 0.25
   },
   "WTI": {
-   "price": 82.34,
-   "chg1d_pct": 1.34
+   "price": 82.4,
+   "chg1d_pct": 1.42
   },
   "BRENT": {
-   "price": 88.47,
-   "chg1d_pct": 1.61
+   "price": 88.59,
+   "chg1d_pct": 1.75
   },
   "GOLD": {
-   "price": 4429.8,
-   "chg1d_pct": 1.52
+   "price": 4432.0,
+   "chg1d_pct": 1.57
   },
   "SPX_FUT": {
    "price": 7802.5,
    "chg1d_pct": -0.26
   },
   "NAS_FUT": {
-   "price": 30138.75,
-   "chg1d_pct": -0.16
+   "price": 30154.0,
+   "chg1d_pct": -0.11
   }
  },
  "headlines": [
   {
+   "t": "„Dann werde ich die Hormus-Straße zum Territorium der USA erklären“ – Trump droht Iran erneut - WELT",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQd0kyTkJmdzhYcDF3UlpaZ0pLUXlnd0JGcVlnQnBaYmNRQXhOd2hkbkJEd2pYRl9idnh2V09IVElWTV9jZmUzMFJmNVZGOEhZSkd2ZmtxWDluQ0hHOHB0bHItVTNoeEpSSXZDYmdteElzU0lhaVdncE54Qms5VFFEeUFJYnZrS3JGQ1podHB0UXlwN3JwV1ZsYm1iRExocXYyN2hzV2trRWg2OEJfVUpKRkJmR1JBSXpueTg3NUg4SGNzNWktUjBzMHdxUWlic2RQbFRPVll1MFdhRllmR1l4TExGN1R4Mkppb0liUWJSWHZlVDAyYnN6VVE4MVJtMVNuVXlGOGtLcw?oc=5",
+   "pub": "Fri, 14 Aug 2026 20:41:45 GMT"
+  },
+  {
    "t": "So verliert Trump die Wahl: Wirtschaft kühlt ab, auch wegen Iran! - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0NQS1laeVNsTjhza3dDOGNjVmZxOWxkeUFzNVVBYjNVOFJZSXkybjZWTklTSUhORkU2dEhKOW4xYUFOSjYxZUQ5VFIwcldrOXFZaHZ4NWZSeDd4NU1ZUGw2cnZCOHBSempCNmlnck5EUUFhUTJXMlUzYmp1VjhOQUpxLUczdVRRdXZaMDFYWWdCZ1RORkljVGZuSGZqRGtwZWhySDgxaE5KbmRSZTkxTmF3RQ?oc=5",
-   "pub": "Fri, 14 Aug 2026 17:53:11 GMT"
+   "pub": "Fri, 14 Aug 2026 17:53:49 GMT"
   },
   {
    "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews.com",
@@ -64,14 +69,9 @@
    "pub": "Fri, 14 Aug 2026 11:21:28 GMT"
   },
   {
-   "t": "USA drohen Iran mit Isolation „wie sie die Welt noch nicht gesehen hat“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWhvd2N3aTAxY2l4TFNiU0tXRkw2RHNNcV9OQTkwNnlGQUdWcEtyb3J5UThtSnhRdXd0WkZKQnNXRzVKaERhTVo0ZTcwNjVxeUREbTN0VlpUTWhSbzQ2c2x3eWUtbVFDcUx2MjVuY2J5a01LdldrQmprcjJGbS1mVlItQ3JKOGdNY2o0UW9hQjBWVnBvRzAwMmx0c1Ztd2txXzZrVEQxek0tb1hBOE9aWEZIVUFzLXpNTS1VRzVwdnBfOXg4NlM4a21PcVFvZmJLNFdJWm1YZ0NyZw?oc=5",
-   "pub": "Fri, 14 Aug 2026 02:53:11 GMT"
-  },
-  {
-   "t": "US-Vizepräsident Vance nennt niedrige Öl- und Gaspreise als oberstes Ziel im Iran-Krieg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvcktCMlpSOEVZZVNUZ0V6eUl4Vk9mVUM2ajUwdE5LS3p2Zkw5NUhlR1l0Qkc2djVQZnRHZ09wN1NMbUlEVzlpU0VTbV9yMTNldEh3TXdYN2c0aVJibHNn?oc=5",
-   "pub": "Fri, 14 Aug 2026 05:36:05 GMT"
+   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
+   "pub": "Fri, 14 Aug 2026 09:11:18 GMT"
   },
   {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
@@ -79,19 +79,19 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFE5UHotZ1ZvendPNENKa0VQMjhUTDRHUUxfWTFUNUtoN0pzbzhucGpxejRRWGhEMm96Y2ZLTkduWnJpZ0djaENjZVpDOXNEb2tpNkFCWVBLNVpOYnUtemRmaXpEUWRnVmU0N1dmaW9kT0VEeDRtYzdGeGRsaDgxWjJyd25wamZqeVpzNkxxUVdLd2lsWTVCZUZWTFR4YlM3ejhkbmZWZzI?oc=5",
-   "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
-  },
-  {
-   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
-   "pub": "Fri, 14 Aug 2026 09:11:18 GMT"
+   "t": "US-Vizepräsident Vance nennt niedrige Öl- und Gaspreise als oberstes Ziel im Iran-Krieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvcktCMlpSOEVZZVNUZ0V6eUl4Vk9mVUM2ajUwdE5LS3p2Zkw5NUhlR1l0Qkc2djVQZnRHZ09wN1NMbUlEVzlpU0VTbV9yMTNldEh3TXdYN2c0aVJibHNn?oc=5",
+   "pub": "Fri, 14 Aug 2026 05:36:05 GMT"
   },
   {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFE5UHotZ1ZvendPNENKa0VQMjhUTDRHUUxfWTFUNUtoN0pzbzhucGpxejRRWGhEMm96Y2ZLTkduWnJpZ0djaENjZVpDOXNEb2tpNkFCWVBLNVpOYnUtemRmaXpEUWRnVmU0N1dmaW9kT0VEeDRtYzdGeGRsaDgxWjJyd25wamZqeVpzNkxxUVdLd2lsWTVCZUZWTFR4YlM3ejhkbmZWZzI?oc=5",
+   "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
   },
   {
    "t": "Niedriger Ölpreis als oberstes Ziel: USA drohen Iran mit Sanktionen statt Angriffen - STERN.de",
