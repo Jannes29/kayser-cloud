@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-08-14T22:41:49Z",
+ "collected_at": "2026-08-14T23:37:19Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": -0.14
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
    "price": 159.305,
-   "chg1d_pct": -0.08
+   "chg1d_pct": -0.01
   },
   "GBPCAD": {
    "price": 1.8777,
-   "chg1d_pct": -0.05
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.24
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.33
+   "chg1d_pct": 0.37
   },
   "GBPCHF": {
    "price": 1.1003,
-   "chg1d_pct": 0.2
+   "chg1d_pct": 0.25
   },
   "WTI": {
    "price": 82.4,
@@ -59,7 +59,7 @@
    "pub": "Fri, 14 Aug 2026 17:53:49 GMT"
   },
   {
-   "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews.com",
+   "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXQzM0gzM3o5OVRnZFk0U0VERW5vUG9YSjdVRkRhRDRlcXl4YkRfSUh1R2lOZGFIbHFncFdKb1NFUUR1RGpteExObWFzSktzWnk1LVNlRWt6UkN1U1BseFBGdDZaSV9CN0pyQjhfd090U3Z2N2dpUFBtTUgzamd2NGE4SWdGZG1zcVpzeGo3YlhGSHdWVTlLdw?oc=5",
    "pub": "Fri, 14 Aug 2026 09:57:11 GMT"
   },
@@ -74,14 +74,14 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
-   "pub": "Fri, 14 Aug 2026 09:11:18 GMT"
-  },
-  {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+   "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
+   "pub": "Fri, 14 Aug 2026 09:11:18 GMT"
   },
   {
    "t": "US-Vizepräsident Vance nennt niedrige Öl- und Gaspreise als oberstes Ziel im Iran-Krieg - tagesschau.de",
@@ -94,9 +94,9 @@
    "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
   },
   {
-   "t": "Zahlreiche Länder verurteilen Hinrichtungen im Iran - israelnetz.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcF91STlxUzUtMmNMU1ZLMkdDRE5jMlo1WEJtaGswR2dRbHBxNld0b0s2aFBJQV9mRUItcWJmVWtzSUZDUzBHaVJ6ZWVHVlA1bWNMelVodTlLOFVIN3pGbkRwc2pqazdBZTBjTFp4OGZxaDBBeTlCRGlSR09leXFCcGFuMmpwRWc?oc=5",
-   "pub": "Fri, 14 Aug 2026 14:08:43 GMT"
+   "t": "Iran-Krieg: Trump will Straße von Hormus zu US-Territorium machen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTNxUi1UdDJtWVRxRkZRT0pmVThsY0ltLVl0aGFZQkNzQXprMGMwX0ZHemJ4cEZRLXVRWHR2UXFZVXhxWkN5X0h5QUgyUDhrNXRiUlpMckY0OUdwb1lyT2w3aWprQzYwLTRrc0JZWXNIdFRkQnNDQzFNZ0lTUlQyMWlUTHJSN2ozWHRIMXdxY1R0bFNHZGY1THhjbGVPV1N4ZTNEYm5xeUg5M2xqNHdSNTNadU9IRUhucXhNTzlkY2c?oc=5",
+   "pub": "Fri, 14 Aug 2026 22:02:03 GMT"
   },
   {
    "t": "Iran-Krieg: US-Militär dementiert Missstände auf Flugzeugträger - ZDFheute",
