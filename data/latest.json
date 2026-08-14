@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-14T10:17:34Z",
+ "collected_at": "2026-08-14T11:57:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8131,
-   "chg1d_pct": 0.02
-  },
-  "USDJPY": {
-   "price": 159.135,
+   "price": 0.8119,
    "chg1d_pct": -0.12
   },
+  "USDJPY": {
+   "price": 159.116,
+   "chg1d_pct": -0.13
+  },
   "GBPCAD": {
-   "price": 1.8786,
-   "chg1d_pct": -0.14
+   "price": 1.879,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 112.597,
-   "chg1d_pct": 0.08
+   "price": 112.667,
+   "chg1d_pct": 0.14
   },
   "EURUSD": {
-   "price": 1.1558,
-   "chg1d_pct": 0.24
+   "price": 1.157,
+   "chg1d_pct": 0.35
   },
   "GBPCHF": {
-   "price": 1.0998,
-   "chg1d_pct": 0.21
+   "price": 1.0989,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 81.81,
-   "chg1d_pct": 0.69
+   "price": 81.48,
+   "chg1d_pct": 0.28
   },
   "BRENT": {
-   "price": 87.17,
-   "chg1d_pct": 0.11
+   "price": 87.11,
+   "chg1d_pct": 0.05
   },
   "GOLD": {
-   "price": 4414.3,
-   "chg1d_pct": 1.16
+   "price": 4417.7,
+   "chg1d_pct": 1.24
   },
   "SPX_FUT": {
-   "price": 7828.5,
-   "chg1d_pct": 0.08
+   "price": 7829.25,
+   "chg1d_pct": 0.09
   },
   "NAS_FUT": {
-   "price": 30243.5,
-   "chg1d_pct": 0.18
+   "price": 30258.75,
+   "chg1d_pct": 0.23
   }
  },
  "headlines": [
   {
-   "t": "VAE werfen Iran Piraterie vor: Angriff auf Schiffe in der Straße von Hormus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNanE2UTRyMUUxUHRCN2FXejBMMnd2ZDNfcTR4cHhlUDlFZDFjSUhNYlVjVWMyVHNuMXBDdkxrZ2l3Q2REdzYtWUg0clJvR0VhczJ2cHhrZXc2Z2RXWERaRGwxOWE2UjhfNGE5Um1SWGEweDRSR1ZtODFOSG5MeVRxY01aN3VpR01jZEMxSVdZQUh4RUk?oc=5",
-   "pub": "Thu, 13 Aug 2026 23:43:13 GMT"
+   "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXQzM0gzM3o5OVRnZFk0U0VERW5vUG9YSjdVRkRhRDRlcXl4YkRfSUh1R2lOZGFIbHFncFdKb1NFUUR1RGpteExObWFzSktzWnk1LVNlRWt6UkN1U1BseFBGdDZaSV9CN0pyQjhfd090U3Z2N2dpUFBtTUgzamd2NGE4SWdGZG1zcVpzeGo3YlhGSHdWVTlLdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 09:57:11 GMT"
+  },
+  {
+   "t": "Zielscheibe für Flugabwehr: Bericht: USA verlieren ein Viertel ihrer Reaper-Drohnen im Iran-Krieg - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm0wclBKTkl6aHl2RXJmVXpSREYyUmdjWGtJTmVNWnZzMWVTTGJuVjdIc1RIZHMzZDRMd0FIc2dtLU9mc0lsdHNfOHh4U2VockRBMjg4eWkxQnBaZm5wb3JQMC1KZFhJVHJlR1h6c1pwS0FUYlIxdHM4dGx4b3laNzBfdzJKZ0h6QjNzaWd4aWhUaEozM3RnX0xZVmhneUtCcUp0RnV3M0pfdHliRGRRZEJR?oc=5",
+   "pub": "Fri, 14 Aug 2026 11:21:28 GMT"
   },
   {
    "t": "USA drohen Iran mit Isolation „wie sie die Welt noch nicht gesehen hat“ - WELT",
@@ -59,7 +64,7 @@
    "pub": "Fri, 14 Aug 2026 02:53:11 GMT"
   },
   {
-   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - Frankfurter Rundschau",
+   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - fr.de",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFE5UHotZ1ZvendPNENKa0VQMjhUTDRHUUxfWTFUNUtoN0pzbzhucGpxejRRWGhEMm96Y2ZLTkduWnJpZ0djaENjZVpDOXNEb2tpNkFCWVBLNVpOYnUtemRmaXpEUWRnVmU0N1dmaW9kT0VEeDRtYzdGeGRsaDgxWjJyd25wamZqeVpzNkxxUVdLd2lsWTVCZUZWTFR4YlM3ejhkbmZWZzI?oc=5",
    "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
   },
@@ -69,14 +74,19 @@
    "pub": "Fri, 14 Aug 2026 05:36:05 GMT"
   },
   {
+   "t": "Niedriger Ölpreis als oberstes Ziel: USA drohen Iran mit Sanktionen statt Angriffen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk5OZzFzanNuQndMSTN3ODh2T0tzVGRZS1BDbkRVWHJBNzV5UDJ3QjlDZ2dMcGpHQUo4bWFZSkhKaWlZMnhXNHpuZzVwa3FTeWwtbXBRVnJVT2U5UTRQS2NybDFwNHJTeDNIU1lMbEFta3VKZ2NwZVBzTjFNRzQzRy1wZzh3bVVqdTVKbzNxaWthQ0F1QnRqa2JxMUZGVTh6LXNPeC1FZWFfdE01V2haOHkxNEV3aDBnb3cwTzlxbndPdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 08:45:42 GMT"
+  },
+  {
    "t": "Krieg in Nahost: USa wollen Wirtschafts-Blocke des Iran - T-Online",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLV9vR0NRVkJIa2VCOFFzZlloSzVkU3JjS0RFMXVTWnd6S0pBNnhpYmszNHNxQjJ3WGgyOU0yRFktbnR6b2VUZW01MHlIazZKTDB3cWlTWkhGRHlxTU1GdUNadjdhUEFSWG44VnNmNGc1dk44UTVBdEFhcjhOeldCS3ZZSTdpbmJLSy1mVlVsSVJYZS1lWUluSzktSG9xZzBMbVdHenFlT2NEeVMyTGFHNnc2SWs5Nl9yc1hCT1BNTQ?oc=5",
    "pub": "Fri, 14 Aug 2026 02:45:00 GMT"
   },
   {
-   "t": "Niedriger Ölpreis als oberstes Ziel: USA drohen Iran mit Sanktionen statt Angriffen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk5OZzFzanNuQndMSTN3ODh2T0tzVGRZS1BDbkRVWHJBNzV5UDJ3QjlDZ2dMcGpHQUo4bWFZSkhKaWlZMnhXNHpuZzVwa3FTeWwtbXBRVnJVT2U5UTRQS2NybDFwNHJTeDNIU1lMbEFta3VKZ2NwZVBzTjFNRzQzRy1wZzh3bVVqdTVKbzNxaWthQ0F1QnRqa2JxMUZGVTh6LXNPeC1FZWFfdE01V2haOHkxNEV3aDBnb3cwTzlxbndPdw?oc=5",
-   "pub": "Fri, 14 Aug 2026 08:45:42 GMT"
+   "t": "US-Regierung ändert Strategie im Iran-Krieg - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3ItUUd3Nlc0d2hTRUxmSFZ1N2NFLXZfQ3pwY2FzOURvUUpXWk5NbTFNWjBNS0Q0V01oUm5HQzdXYUhxTUt6U3JjbkVBc0w3aWdMUk42S2NMRjlmVTNFWnpDaXFMa1pHd0F0clZVNWt5dm81cUpaaUVpMUpPWTdaY2k4TzZzWFhEQUNITWZDMWlkZmlTR3AxUnJhYk5TZw?oc=5",
+   "pub": "Fri, 14 Aug 2026 11:24:37 GMT"
   },
   {
    "t": "Vance: Kriegsziel Nr. Eins in Iran billiges Öl und Gas - Jüdische Allgemeine",
@@ -89,11 +99,6 @@
    "pub": "Fri, 14 Aug 2026 09:45:43 GMT"
   },
   {
-   "t": "Hegseth: Blockade gegen Iran „unbegrenzt“ möglich +++ Schiffe der Emirate in Straße von Hormus angegriffen - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3VfLXJQbmNYa2Z5YkxsR2FWczhCWE9MSW5yemlkVHA0R1I3ZE1vc05VY2dOTmNvbFpGN2YtSDN1Ym5MYjFXUS16N190ZG8wVkRuUC1KRWU3VmF6MVJXTldoR013NzV5VHBlOVRidUl6T0tKclFDR1JuV0NCVTVVZUcwanJRbmpyU1lZdEw2TjRpNC1sZkFicXpKTjM2NDc4aElXVG8zcjhrNWh5VmFvVUFxOHFJNmowc1NxTF9rb2pucXl3c3FKa1VRTWc?oc=5",
-   "pub": "Fri, 14 Aug 2026 05:59:56 GMT"
-  },
-  {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
@@ -102,11 +107,6 @@
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
-  },
-  {
-   "t": "Iran: „Die Straße von Hormus bleibt blockiert“ - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkcwSkJEVVVfVHB6WjV6TTlkeW84bHExSTFUeHpjTDRGalhZb2VydDJyRFpuZTZLLUZmNm9GRTF1eFFZZGVRbGtNODZ6TXJtV3poTS00aDR4RFhBX0VLY04xZjlJVHl0a2VJd0JzUlhHeWNaTjM0bzYtSlROYW9iaFdwc2NUUVpDZktCczE2RmRhTXQwdHVhNWdoNkZITndTd2tJUTktVUg5QWdOVEFOcDNLeFhlQ05fMnl0cjZzemc5dw?oc=5",
-   "pub": "Fri, 14 Aug 2026 09:20:32 GMT"
   }
  ]
 }
