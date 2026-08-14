@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-14T19:15:04Z",
+ "collected_at": "2026-08-14T19:58:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8131,
-   "chg1d_pct": 0.02
+   "price": 0.8133,
+   "chg1d_pct": 0.05
   },
   "USDJPY": {
-   "price": 159.378,
-   "chg1d_pct": 0.03
+   "price": 159.365,
+   "chg1d_pct": 0.02
   },
   "GBPCAD": {
-   "price": 1.8779,
-   "chg1d_pct": -0.18
+   "price": 1.878,
+   "chg1d_pct": -0.17
   },
   "AUDJPY": {
-   "price": 112.883,
-   "chg1d_pct": 0.33
+   "price": 112.887,
+   "chg1d_pct": 0.34
   },
   "EURUSD": {
    "price": 1.1571,
    "chg1d_pct": 0.36
   },
   "GBPCHF": {
-   "price": 1.1005,
-   "chg1d_pct": 0.27
+   "price": 1.1007,
+   "chg1d_pct": 0.29
   },
   "WTI": {
-   "price": 82.35,
-   "chg1d_pct": 1.35
+   "price": 82.3,
+   "chg1d_pct": 1.29
   },
   "BRENT": {
-   "price": 88.52,
-   "chg1d_pct": 1.67
+   "price": 88.5,
+   "chg1d_pct": 1.64
   },
   "GOLD": {
-   "price": 4429.4,
-   "chg1d_pct": 1.51
+   "price": 4431.1,
+   "chg1d_pct": 1.55
   },
   "SPX_FUT": {
-   "price": 7802.5,
-   "chg1d_pct": -0.26
+   "price": 7803.75,
+   "chg1d_pct": -0.24
   },
   "NAS_FUT": {
-   "price": 30084.0,
-   "chg1d_pct": -0.35
+   "price": 30111.75,
+   "chg1d_pct": -0.25
   }
  },
  "headlines": [
@@ -54,9 +54,9 @@
    "pub": "Fri, 14 Aug 2026 11:24:37 GMT"
   },
   {
-   "t": "Zielscheibe für Flugabwehr: Bericht: USA verlieren ein Viertel ihrer Reaper-Drohnen im Iran-Krieg - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm0wclBKTkl6aHl2RXJmVXpSREYyUmdjWGtJTmVNWnZzMWVTTGJuVjdIc1RIZHMzZDRMd0FIc2dtLU9mc0lsdHNfOHh4U2VockRBMjg4eWkxQnBaZm5wb3JQMC1KZFhJVHJlR1h6c1pwS0FUYlIxdHM4dGx4b3laNzBfdzJKZ0h6QjNzaWd4aWhUaEozM3RnX0xZVmhneUtCcUp0RnV3M0pfdHliRGRRZEJR?oc=5",
-   "pub": "Fri, 14 Aug 2026 11:21:28 GMT"
+   "t": "So verliert Trump die Wahl: Wirtschaft kühlt ab, auch wegen Iran! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0NQS1laeVNsTjhza3dDOGNjVmZxOWxkeUFzNVVBYjNVOFJZSXkybjZWTklTSUhORkU2dEhKOW4xYUFOSjYxZUQ5VFIwcldrOXFZaHZ4NWZSeDd4NU1ZUGw2cnZCOHBSempCNmlnck5EUUFhUTJXMlUzYmp1VjhOQUpxLUczdVRRdXZaMDFYWWdCZ1RORkljVGZuSGZqRGtwZWhySDgxaE5KbmRSZTkxTmF3RQ?oc=5",
+   "pub": "Fri, 14 Aug 2026 17:53:11 GMT"
   },
   {
    "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews.com",
@@ -64,9 +64,19 @@
    "pub": "Fri, 14 Aug 2026 09:57:11 GMT"
   },
   {
+   "t": "Zielscheibe für Flugabwehr: Bericht: USA verlieren ein Viertel ihrer Reaper-Drohnen im Iran-Krieg - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm0wclBKTkl6aHl2RXJmVXpSREYyUmdjWGtJTmVNWnZzMWVTTGJuVjdIc1RIZHMzZDRMd0FIc2dtLU9mc0lsdHNfOHh4U2VockRBMjg4eWkxQnBaZm5wb3JQMC1KZFhJVHJlR1h6c1pwS0FUYlIxdHM4dGx4b3laNzBfdzJKZ0h6QjNzaWd4aWhUaEozM3RnX0xZVmhneUtCcUp0RnV3M0pfdHliRGRRZEJR?oc=5",
+   "pub": "Fri, 14 Aug 2026 11:21:28 GMT"
+  },
+  {
    "t": "USA drohen Iran mit Isolation „wie sie die Welt noch nicht gesehen hat“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQWhvd2N3aTAxY2l4TFNiU0tXRkw2RHNNcV9OQTkwNnlGQUdWcEtyb3J5UThtSnhRdXd0WkZKQnNXRzVKaERhTVo0ZTcwNjVxeUREbTN0VlpUTWhSbzQ2c2x3eWUtbVFDcUx2MjVuY2J5a01LdldrQmprcjJGbS1mVlItQ3JKOGdNY2o0UW9hQjBWVnBvRzAwMmx0c1Ztd2txXzZrVEQxek0tb1hBOE9aWEZIVUFzLXpNTS1VRzVwdnBfOXg4NlM4a21PcVFvZmJLNFdJWm1YZ0NyZw?oc=5",
    "pub": "Fri, 14 Aug 2026 02:53:11 GMT"
+  },
+  {
+   "t": "US-Vizepräsident Vance nennt niedrige Öl- und Gaspreise als oberstes Ziel im Iran-Krieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvcktCMlpSOEVZZVNUZ0V6eUl4Vk9mVUM2ajUwdE5LS3p2Zkw5NUhlR1l0Qkc2djVQZnRHZ09wN1NMbUlEVzlpU0VTbV9yMTNldEh3TXdYN2c0aVJibHNn?oc=5",
+   "pub": "Fri, 14 Aug 2026 05:36:05 GMT"
   },
   {
    "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
@@ -79,19 +89,9 @@
    "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
   },
   {
-   "t": "\"Medical Intervention Car\" mit mit mobiler Herz-Lungen-Maschine liefert Ersthilfe vor Ort - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnNzlvVk1Nc2NrWXQ2RWc1eHcwYUN3cWFyLW42MlhMWS1mU3RKcWtxRFBSSHFUcjc5TVpadmFPckhXY0pPd3dzUFZhLWZfNGdjS09xWEVKNDZRSjFZdDNv?oc=5",
-   "pub": "Fri, 14 Aug 2026 15:20:22 GMT"
-  },
-  {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "Niedriger Ölpreis als oberstes Ziel: USA drohen Iran mit Sanktionen statt Angriffen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk5OZzFzanNuQndMSTN3ODh2T0tzVGRZS1BDbkRVWHJBNzV5UDJ3QjlDZ2dMcGpHQUo4bWFZSkhKaWlZMnhXNHpuZzVwa3FTeWwtbXBRVnJVT2U5UTRQS2NybDFwNHJTeDNIU1lMbEFta3VKZ2NwZVBzTjFNRzQzRy1wZzh3bVVqdTVKbzNxaWthQ0F1QnRqa2JxMUZGVTh6LXNPeC1FZWFfdE01V2haOHkxNEV3aDBnb3cwTzlxbndPdw?oc=5",
-   "pub": "Fri, 14 Aug 2026 08:45:42 GMT"
   },
   {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
@@ -99,14 +99,14 @@
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
+   "t": "Niedriger Ölpreis als oberstes Ziel: USA drohen Iran mit Sanktionen statt Angriffen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk5OZzFzanNuQndMSTN3ODh2T0tzVGRZS1BDbkRVWHJBNzV5UDJ3QjlDZ2dMcGpHQUo4bWFZSkhKaWlZMnhXNHpuZzVwa3FTeWwtbXBRVnJVT2U5UTRQS2NybDFwNHJTeDNIU1lMbEFta3VKZ2NwZVBzTjFNRzQzRy1wZzh3bVVqdTVKbzNxaWthQ0F1QnRqa2JxMUZGVTh6LXNPeC1FZWFfdE01V2haOHkxNEV3aDBnb3cwTzlxbndPdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 08:45:42 GMT"
+  },
+  {
    "t": "Zahlreiche Länder verurteilen Hinrichtungen im Iran - Israelnetz",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcF91STlxUzUtMmNMU1ZLMkdDRE5jMlo1WEJtaGswR2dRbHBxNld0b0s2aFBJQV9mRUItcWJmVWtzSUZDUzBHaVJ6ZWVHVlA1bWNMelVodTlLOFVIN3pGbkRwc2pqazdBZTBjTFp4OGZxaDBBeTlCRGlSR09leXFCcGFuMmpwRWc?oc=5",
    "pub": "Fri, 14 Aug 2026 14:08:43 GMT"
-  },
-  {
-   "t": "Vance: Kriegsziel Nr. Eins in Iran billiges Öl und Gas - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVI4bzM1X2E1cERod0tyQXRGWlo5NFVxZWJzY3o5NFJYN2RTM01naHIyeDdZTjdVMmdiREh5NjhVOTR3TkhVRzRzNklQZS03Y2NDdXlwLVl3emhxX2J2VjBKTU5BZG80WnNjWjZXVHJKcmlnNTN4TFJmeGFRaHdKSldUaVNNUUM5MzlVUF9EcjZ2aThXampqV2NzaWlKOFpSZmVNcEtRbERva0VsbUc4bmRzb3k1TTR5ejNDaDc2bkRVX3IzejBv?oc=5",
-   "pub": "Fri, 14 Aug 2026 09:45:00 GMT"
   }
  ]
 }
