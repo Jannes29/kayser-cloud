@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-14T17:12:28Z",
+ "collected_at": "2026-08-14T18:07:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8132,
-   "chg1d_pct": 0.04
+   "price": 0.8131,
+   "chg1d_pct": 0.02
   },
   "USDJPY": {
-   "price": 159.378,
-   "chg1d_pct": 0.03
+   "price": 159.352,
+   "chg1d_pct": 0.02
   },
   "GBPCAD": {
-   "price": 1.8778,
-   "chg1d_pct": -0.18
+   "price": 1.8776,
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
-   "price": 112.856,
-   "chg1d_pct": 0.31
+   "price": 112.826,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.157,
-   "chg1d_pct": 0.35
+   "price": 1.1569,
+   "chg1d_pct": 0.34
   },
   "GBPCHF": {
-   "price": 1.1003,
+   "price": 1.1002,
    "chg1d_pct": 0.25
   },
   "WTI": {
-   "price": 82.0,
-   "chg1d_pct": 0.92
+   "price": 82.32,
+   "chg1d_pct": 1.32
   },
   "BRENT": {
-   "price": 88.04,
-   "chg1d_pct": 1.11
+   "price": 88.37,
+   "chg1d_pct": 1.49
   },
   "GOLD": {
-   "price": 4440.4,
-   "chg1d_pct": 1.76
+   "price": 4434.5,
+   "chg1d_pct": 1.62
   },
   "SPX_FUT": {
-   "price": 7799.5,
-   "chg1d_pct": -0.29
+   "price": 7801.0,
+   "chg1d_pct": -0.27
   },
   "NAS_FUT": {
-   "price": 30059.0,
-   "chg1d_pct": -0.43
+   "price": 30080.75,
+   "chg1d_pct": -0.36
   }
  },
  "headlines": [
@@ -69,7 +69,7 @@
    "pub": "Fri, 14 Aug 2026 02:53:11 GMT"
   },
   {
-   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - Frankfurter Rundschau",
+   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - fr.de",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFE5UHotZ1ZvendPNENKa0VQMjhUTDRHUUxfWTFUNUtoN0pzbzhucGpxejRRWGhEMm96Y2ZLTkduWnJpZ0djaENjZVpDOXNEb2tpNkFCWVBLNVpOYnUtemRmaXpEUWRnVmU0N1dmaW9kT0VEeDRtYzdGeGRsaDgxWjJyd25wamZqeVpzNkxxUVdLd2lsWTVCZUZWTFR4YlM3ejhkbmZWZzI?oc=5",
    "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
   },
@@ -84,29 +84,29 @@
    "pub": "Fri, 14 Aug 2026 02:45:00 GMT"
   },
   {
+   "t": "Zahlreiche Länder verurteilen Hinrichtungen im Iran - Israelnetz",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcF91STlxUzUtMmNMU1ZLMkdDRE5jMlo1WEJtaGswR2dRbHBxNld0b0s2aFBJQV9mRUItcWJmVWtzSUZDUzBHaVJ6ZWVHVlA1bWNMelVodTlLOFVIN3pGbkRwc2pqazdBZTBjTFp4OGZxaDBBeTlCRGlSR09leXFCcGFuMmpwRWc?oc=5",
+   "pub": "Fri, 14 Aug 2026 14:08:43 GMT"
+  },
+  {
    "t": "Niedriger Ölpreis als oberstes Ziel: USA drohen Iran mit Sanktionen statt Angriffen - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRk5OZzFzanNuQndMSTN3ODh2T0tzVGRZS1BDbkRVWHJBNzV5UDJ3QjlDZ2dMcGpHQUo4bWFZSkhKaWlZMnhXNHpuZzVwa3FTeWwtbXBRVnJVT2U5UTRQS2NybDFwNHJTeDNIU1lMbEFta3VKZ2NwZVBzTjFNRzQzRy1wZzh3bVVqdTVKbzNxaWthQ0F1QnRqa2JxMUZGVTh6LXNPeC1FZWFfdE01V2haOHkxNEV3aDBnb3cwTzlxbndPdw?oc=5",
    "pub": "Fri, 14 Aug 2026 08:45:42 GMT"
   },
   {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
+   "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
    "t": "Vance: Kriegsziel Nr. Eins in Iran billiges Öl und Gas - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVI4bzM1X2E1cERod0tyQXRGWlo5NFVxZWJzY3o5NFJYN2RTM01naHIyeDdZTjdVMmdiREh5NjhVOTR3TkhVRzRzNklQZS03Y2NDdXlwLVl3emhxX2J2VjBKTU5BZG80WnNjWjZXVHJKcmlnNTN4TFJmeGFRaHdKSldUaVNNUUM5MzlVUF9EcjZ2aThXampqV2NzaWlKOFpSZmVNcEtRbERva0VsbUc4bmRzb3k1TTR5ejNDaDc2bkRVX3IzejBv?oc=5",
    "pub": "Fri, 14 Aug 2026 09:45:00 GMT"
-  },
-  {
-   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
-   "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
-  },
-  {
-   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
-   "pub": "Fri, 14 Aug 2026 09:45:43 GMT"
   }
  ]
 }
