@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-14T05:03:53Z",
+ "collected_at": "2026-08-14T06:43:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8134,
-   "chg1d_pct": 0.06
+   "price": 0.8137,
+   "chg1d_pct": 0.1
   },
   "USDJPY": {
-   "price": 159.333,
-   "chg1d_pct": 0.0
+   "price": 159.264,
+   "chg1d_pct": -0.04
   },
   "GBPCAD": {
-   "price": 1.8786,
-   "chg1d_pct": -0.14
+   "price": 1.8773,
+   "chg1d_pct": -0.21
   },
   "AUDJPY": {
    "price": 112.539,
    "chg1d_pct": 0.03
   },
   "EURUSD": {
-   "price": 1.1543,
-   "chg1d_pct": 0.11
+   "price": 1.1546,
+   "chg1d_pct": 0.14
   },
   "GBPCHF": {
-   "price": 1.0979,
-   "chg1d_pct": 0.04
+   "price": 1.0986,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 81.36,
-   "chg1d_pct": -2.29
+   "price": 82.15,
+   "chg1d_pct": 1.11
   },
   "BRENT": {
-   "price": 87.13,
-   "chg1d_pct": -2.08
+   "price": 87.93,
+   "chg1d_pct": 0.99
   },
   "GOLD": {
-   "price": 4379.8,
-   "chg1d_pct": -0.66
+   "price": 4386.1,
+   "chg1d_pct": 0.52
   },
   "SPX_FUT": {
-   "price": 7823.25,
-   "chg1d_pct": 0.68
+   "price": 7821.75,
+   "chg1d_pct": -0.01
   },
   "NAS_FUT": {
-   "price": 30147.5,
-   "chg1d_pct": 0.99
+   "price": 30155.25,
+   "chg1d_pct": -0.11
   }
  },
  "headlines": [
   {
    "t": "VAE werfen Iran Piraterie vor: Angriff auf Schiffe in der Straße von Hormus - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNanE2UTRyMUUxUHRCN2FXejBMMnd2ZDNfcTR4cHhlUDlFZDFjSUhNYlVjVWMyVHNuMXBDdkxrZ2l3Q2REdzYtWUg0clJvR0VhczJ2cHhrZXc2Z2RXWERaRGwxOWE2UjhfNGE5Um1SWGEweDRSR1ZtODFOSG5MeVRxY01aN3VpR01jZEMxSVdZQUh4RUk?oc=5",
-   "pub": "Fri, 14 Aug 2026 03:59:47 GMT"
+   "pub": "Thu, 13 Aug 2026 23:43:13 GMT"
   },
   {
    "t": "USA drohen Iran mit Isolation „wie sie die Welt noch nicht gesehen hat“ - WELT",
@@ -59,19 +59,19 @@
    "pub": "Fri, 14 Aug 2026 02:53:11 GMT"
   },
   {
-   "t": "Nahost-Krieg: USA wollen Iran wirtschaftlich isolieren - T-Online",
+   "t": "Vance nennt niedrige Öl- und Gaspreise als wichtigstes Kriegsziel in Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9reDh1TjAwTE1Tck94R29nVWtpUzlJMGVYSlBFRFI0RVB1WjRVSmoxTWhxQjhrVkV1OGI5RXU4cDFxUllfVUVOQlVWOGR3c0toWDJaWlFwTE5PaEhTS205ajlwX3VqWHdsX2JTQ1pR?oc=5",
+   "pub": "Fri, 14 Aug 2026 06:30:00 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: USa wollen Wirtschafts-Blocke des Iran - T-Online",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLV9vR0NRVkJIa2VCOFFzZlloSzVkU3JjS0RFMXVTWnd6S0pBNnhpYmszNHNxQjJ3WGgyOU0yRFktbnR6b2VUZW01MHlIazZKTDB3cWlTWkhGRHlxTU1GdUNadjdhUEFSWG44VnNmNGc1dk44UTVBdEFhcjhOeldCS3ZZSTdpbmJLSy1mVlVsSVJYZS1lWUluSzktSG9xZzBMbVdHenFlT2NEeVMyTGFHNnc2SWs5Nl9yc1hCT1BNTQ?oc=5",
    "pub": "Fri, 14 Aug 2026 02:45:00 GMT"
   },
   {
-   "t": "Donald Trump: Es sieht nicht gut aus für Trump. Gar nicht gut - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJOeTBuQkVpTlNNMVE2WG93OHJtX2hwZzR1c2NZdGUzSG9MZThYN0dDNEM0WGxQZXJKSWZnOWtjdWV0My1ST0ZLRUNsU2sxVGtYdDhVSXRYM3Z0UlZmajVwb0JOZ1ZrMHFQbWdPaWtiQlpxaVhjMjJVd0xHS3lDekVGTFdCUzZHQWVxU3lDZFpFQUNLQmNrRg?oc=5",
-   "pub": "Fri, 14 Aug 2026 03:27:41 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran begründet geplante Gebühr mit Umweltschäden - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1hfNlA3eUFWeko3ZmprSlQtZGhQRWtoTFBBYTNsMThnWVdGS3dlWEw0RU1TSVhUSFdycDAtZ28xXzBqcW1GQmxPT29BWFJOMXFMUGoydkNLbzlKSW9ZOVkySEtUV3FzWEFmTy1adWVNY0lGTF9oUGR5Z0JxWHZRbUZfSGp1MW82N3A2UzQ4elRWZ0xId3lMbm5BYk5Wdlo1MV9VQk9VNFlsRFdBRF82aGpnaw?oc=5",
-   "pub": "Thu, 13 Aug 2026 11:56:00 GMT"
+   "t": "„Kaspischer Express“: Russland hält Iran-Krieg mit neuer Versorgungsroute am Laufen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFE5UHotZ1ZvendPNENKa0VQMjhUTDRHUUxfWTFUNUtoN0pzbzhucGpxejRRWGhEMm96Y2ZLTkduWnJpZ0djaENjZVpDOXNEb2tpNkFCWVBLNVpOYnUtemRmaXpEUWRnVmU0N1dmaW9kT0VEeDRtYzdGeGRsaDgxWjJyd25wamZqeVpzNkxxUVdLd2lsWTVCZUZWTFR4YlM3ejhkbmZWZzI?oc=5",
+   "pub": "Fri, 14 Aug 2026 05:07:06 GMT"
   },
   {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
@@ -79,34 +79,34 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
+   "t": "Donald Trump: Es sieht nicht gut aus für Trump. Gar nicht gut - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGJOeTBuQkVpTlNNMVE2WG93OHJtX2hwZzR1c2NZdGUzSG9MZThYN0dDNEM0WGxQZXJKSWZnOWtjdWV0My1ST0ZLRUNsU2sxVGtYdDhVSXRYM3Z0UlZmajVwb0JOZ1ZrMHFQbWdPaWtiQlpxaVhjMjJVd0xHS3lDekVGTFdCUzZHQWVxU3lDZFpFQUNLQmNrRg?oc=5",
+   "pub": "Fri, 14 Aug 2026 03:27:41 GMT"
+  },
+  {
    "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
   },
   {
+   "t": "Straße von Hormus: Iran begründet geplante Gebühr mit Umweltschäden - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd1hfNlA3eUFWeko3ZmprSlQtZGhQRWtoTFBBYTNsMThnWVdGS3dlWEw0RU1TSVhUSFdycDAtZ28xXzBqcW1GQmxPT29BWFJOMXFMUGoydkNLbzlKSW9ZOVkySEtUV3FzWEFmTy1adWVNY0lGTF9oUGR5Z0JxWHZRbUZfSGp1MW82N3A2UzQ4elRWZ0xId3lMbm5BYk5Wdlo1MV9VQk9VNFlsRFdBRF82aGpnaw?oc=5",
+   "pub": "Thu, 13 Aug 2026 11:56:00 GMT"
+  },
+  {
+   "t": "Iran hält Straße von Hormus geschlossen und plant Maut – während Trumps Militär vor dem Kollaps steht - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlc0ZDV2Y2pOV0E4OXRMYW5TOGxJekhfd1ZMMmZiRzVrc0VJLTdpOUtBQ0hiT0RvSHRwdVZKMTF1Sm95bWQwaWQxWHBMSzFQOVY4dHZSMV8xVy1sMXZJRnhnN3NEajdQQVhDNFYtUHM5b09OZWhiRDZBOVU0OTFERDItQVlMZ1NkV1UxbU1JbmJ2UHZaci0wYlhPdmZJX2w0bVVlYmFIbzB3T21SaGRYVzEtSDdBUG0wenc?oc=5",
+   "pub": "Fri, 14 Aug 2026 02:46:00 GMT"
+  },
+  {
    "t": "US-Vizepräsident Vance nennt niedrige Öl- und Gaspreise als oberstes Ziel im Iran-Krieg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wTUd4a1JRNjQ4cFhleW84NERhV3ZQUDgzeVhpc0pCSHVQWE1fUDgtcXhTaU9yVXhuYmc0akxKSjE2dlRwMG1NZ09SN0ZYaFZSR0NtWWg5Wlp4OUY1SXVV?oc=5",
-   "pub": "Fri, 14 Aug 2026 04:56:10 GMT"
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvcktCMlpSOEVZZVNUZ0V6eUl4Vk9mVUM2ajUwdE5LS3p2Zkw5NUhlR1l0Qkc2djVQZnRHZ09wN1NMbUlEVzlpU0VTbV9yMTNldEh3TXdYN2c0aVJibHNn?oc=5",
+   "pub": "Fri, 14 Aug 2026 05:36:05 GMT"
   },
   {
    "t": "Iran: CIA zweifelte offenbar an iranischer Bedrohung für Donald Trump - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkpoaW9iOGp2cnVGdTdUTGEzZlVLa0otWTQ2ek1ubUNfTXN5MVhjazNFc1pvV29vZDNyRUIwR3dvaTd4YVh5MGtpazFNZ2ZvOVJDazlQeVI3dzZvbUNjUEJHVDk1ajdFUHcxRzZNN3dhUnA4RF9Pd3ZBYlBpT09EUk1vaHBwV0tUTHlKSnBVV2NpRUtFeUs3NkVhZWVET25uQWl3akVsMVBGb3ZoNlk0SXNEOXhNc0wxN3RYT1NWeG13UU11UEE?oc=5",
    "pub": "Thu, 13 Aug 2026 03:27:00 GMT"
-  },
-  {
-   "t": "Atomprogramm nur noch Platz zwei: Vance: Niedriger Ölpreis ist wichtigstes US-Ziel im Iran-Krieg - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXZqNU9YMWEta3NMVEJPQU1iZ0hjYm1hU09ybGtiaGh0QV9Bb2ZQaDZ4aUljSTd1TS1ZLXZvcjl5Ty1MckNuVTAzYUNsY0ZOR1NhZUZZZDZpcWM5LTl6QlJNRWRBVkJRNXV3dXQ3UE5XZTFFLXZ2UkE3c0FSTXc1aXZva05XTEVFMHREWEV0ZVRERGtfeXpoZEhNVG5UR0drc0ljd2hkWU1YUQ?oc=5",
-   "pub": "Fri, 14 Aug 2026 02:58:01 GMT"
-  },
-  {
-   "t": "Iran widerspricht Trump: Straße von Hormus bleibt blockiert - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWExjMldBODhKT29WbTQyYk9jakZjckdzZGs2elhZTTV1UkxPbDZ6VUFKNzFhQVBiVkdIb1V5NFg4WGdZYnBhb0pjbE9YSzREQ0xTdExydllPMDJvaTBhUTk5Z0JmRHhMN3YtYVZWZzlJYm5hRXBVdFVUTndxbVVOdzZiUkVia1dLVGNlMV9hYzRKQQ?oc=5",
-   "pub": "Thu, 13 Aug 2026 00:57:00 GMT"
-  },
-  {
-   "t": "Iran/Straße von Hormus: US-Helikopter beschießt Tanker in Golf von Oman - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdjRjdnZSQ0djT2RkS2hyYjQxWlMycEFPeUdQdzF1RXJLS0NVTzRTMG9acXhrVFZRQUJ3bHlYblhYalBsNy1XRWRnaE5NWnZxSl81bFNTWEg5Z2NWU1ZuSGEwNUw0RGM3S1hCbi1XM24yOUtTb2VQZlZ5czN5ZlhIajFSalJkd0JrUDhSM3pkaWhjVW9qNlZ3ZGhJZGlMVmNRVkhQZEJsWEN2TFNEc2h3TllfZjVic0ZoTHpIaXEwQlNiMDZUcVZNb2M1Z29VUjAwRXN1UEg3TQ?oc=5",
-   "pub": "Tue, 11 Aug 2026 20:14:00 GMT"
   }
  ]
 }
