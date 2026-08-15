@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-15T21:35:32Z",
+ "collected_at": "2026-08-15T22:38:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -69,7 +69,7 @@
    "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
   },
   {
-   "t": "Iran-USA-Abkommen: Frist verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
+   "t": "Iran-USA-Abkommen: Frist verstreicht – Naher Osten vor ungewisser Zukunft - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BVNmpHSElEVm15aWpLbTgwSTBqNTNHZG42RnZ4Vy1oaHpRUTNfblBPRGhxN0xRdDJLZHlzeGx4LVZWbjU3WXhhR2wxdml1YkY1bk9xeVR5LUMzMVVDa2xQVUR3NkRSaDVHcDgwT1JlZFh2SVpiR1BsTjZ1S0hrb01fdGdKckxybmkwSVBuUGpaX3FQQVlYay1Cb2xpR19FZ2VfaER0OFdRVmhTUml2b0o0aWt5bWRqM2w1MXNHU1ZpUTJRejhaMERRV0ZtVTdMdm1mNkFLZw?oc=5",
    "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
   },
@@ -84,11 +84,6 @@
    "pub": "Sat, 15 Aug 2026 19:42:00 GMT"
   },
   {
-   "t": "Iran nach Trump-Äußerung: Straße von Hormus \"bleibt iranisch\" - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWUM3b0NDcHJvTWh3b1d0ZWhDcVJ4R2doeU9PaUstTU9ZUFZlbUxHMHBRb2ltX0FOeFliOW9MVkNWY2FVMURWT0tOOEZaaDBMVURoNjl1Zjg4d0luNFRCeVBaUlI1QUdMdWY1MDN5RjM1QQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 08:53:53 GMT"
-  },
-  {
    "t": "Iran beklagt Inhaftierung von drei Kampfpiloten in Katar – Golfstaat irritiert - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1V0TTlrS2I5bFdocjB2OEdfUW9ic28tUFB4YzgwY0NHd2Ntbm1OdU4yQnJOWmdZeEpvc0otNlQ3RzZ4TjhIblZPazRRNkpmblNFU3RFUDhtWm1hLUxReFlqMDZ4dGVuREo0VlBWSGRQRWJWY0czTzAxUEozckdPZUloSFpKc1IxaVc3U0cxLVotRzF2cVlpQ3BWLU9BNzY1UzFDY3A0ZVZTazdGM0RkODZwUUpwMHZINzdMSw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:30:09 GMT"
@@ -96,17 +91,22 @@
   {
    "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
-   "pub": "Sat, 15 Aug 2026 15:23:17 GMT"
+   "pub": "Sat, 15 Aug 2026 18:25:07 GMT"
   },
   {
    "t": "Auch Oman betroffen: Iran kämpft gegen Ölverschmutzung im Küstengebiet - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTS14LUw1aVptbDE2ZTFHNU1LdXl4VTJFV2xaNzRUYTJiUHJRb1V6SU9sRG1ZT1ZUdWFwRWtDdE1faTB1c1NpVkwzNGZTZzhLc2E0WFZ1dW5RSFRiLUMxdEJaSTVpdWtYYU5YbjZDX0pmRnJjb3B2cUJBMW44TlNwOERuTTNpbUNkZ1I5V08tZlJITWFoMzJ0bFJ3YXQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 20:12:40 GMT"
+   "pub": "Sat, 15 Aug 2026 18:53:03 GMT"
   },
   {
    "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
    "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
+  },
+  {
+   "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 23:41:00 GMT"
   }
  ]
 }
