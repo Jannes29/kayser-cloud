@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-15T22:38:38Z",
+ "collected_at": "2026-08-15T23:34:53Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": -0.14
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
    "price": 159.305,
@@ -12,11 +12,11 @@
   },
   "GBPCAD": {
    "price": 1.8777,
-   "chg1d_pct": -0.05
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.24
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
    "price": 1.1573,
@@ -59,29 +59,24 @@
    "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
   },
   {
-   "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUoycFdsNTRZck9aWGcxa0dQWnJXbmlBLWdSd09KS3NvVUNZUkdHU1FydXBBaTJNbXNDdUNEWDhidDFjWG82NTJpakhEWWxtQTNBMURmWjZqOGY3SHNXVk92TlRXT2p6SXA1Mk5YSVhCOERuVlA4WnAxcmZxT3BlM19FZUZMNTYxVkp0dWZIR0Q3OHd3aG9lOWx6UjhUZDRsVXB1ei1ZbGNyZjhzc2lQcjlSdV9jcDA?oc=5",
-   "pub": "Sat, 15 Aug 2026 17:00:00 GMT"
-  },
-  {
    "t": "Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
    "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
   },
   {
-   "t": "Iran-USA-Abkommen: Frist verstreicht – Naher Osten vor ungewisser Zukunft - spiegel.de",
+   "t": "Iran-USA-Abkommen: Frist verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BVNmpHSElEVm15aWpLbTgwSTBqNTNHZG42RnZ4Vy1oaHpRUTNfblBPRGhxN0xRdDJLZHlzeGx4LVZWbjU3WXhhR2wxdml1YkY1bk9xeVR5LUMzMVVDa2xQVUR3NkRSaDVHcDgwT1JlZFh2SVpiR1BsTjZ1S0hrb01fdGdKckxybmkwSVBuUGpaX3FQQVlYay1Cb2xpR19FZ2VfaER0OFdRVmhTUml2b0o0aWt5bWRqM2w1MXNHU1ZpUTJRejhaMERRV0ZtVTdMdm1mNkFLZw?oc=5",
    "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: Trump will Meerenge zu US-Gebiet erklären – Teheran reagiert - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGwtQWJWUUpKWl9Bcm4yek56TlAzd0VCVXhieGRKQXJLZEdHZEhzZWZXZXJNZjJSeW1HRDBwbEJuWXQ0ZHg5YncyTVhaNDRGTGY3SWxIdURGZ250TElSQmwyaWd4T0VRbWRNSmUtWXFwOFpXVlBtYVB5WjJYRFZIdEdtMGVsT1ZjWjh6dHoza0QtSFdVVzFxM1Q4bDRmclF1cWpWRnVnUkVmWjVoQ3QzbUtOeTZuaVNVaGl2d1lxVjRuREJSZ0hCTVpRdGJzbWlGSXprZnpQQUQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 22:30:00 GMT"
   },
   {
    "t": "USA: Trump will Straße von Hormus annektieren – „Aus dem Iran eher ein müdes Lächeln als Reaktion“ - Video - WELT",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMWM0WmxNekhucUFxZkNabkNkcG1URmN6TGRnejBoVmh0TkVtNkdETXdpMmZzOHlPblJ6R1ZIR3RDUXFTNDhzRzhZRmswYWJzSl9rRm56VWxzbnZwRE44VmxxV0pxMnhQY2c4bXZSbFlrTnc4bnNYVF9FdU9hU0x6YXRER3BkRUY1SUF5aFczM2NIamtXOVl6akFUclVER29NMmt5MEtFWC1lM3MyZ3FHQjRGWjhsTTgwQjdtQjdBRnhXaFkxNFNZVmY0RE5ITXJRbHFScHkyNkhjUmdXaW40ZjNBMV9BT2c3N2xSak1USW1ncTkyb1VrbE91bw?oc=5",
    "pub": "Sat, 15 Aug 2026 10:02:25 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Trump will Meerenge zu US-Gebiet erklären – Teheran reagiert - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGwtQWJWUUpKWl9Bcm4yek56TlAzd0VCVXhieGRKQXJLZEdHZEhzZWZXZXJNZjJSeW1HRDBwbEJuWXQ0ZHg5YncyTVhaNDRGTGY3SWxIdURGZ250TElSQmwyaWd4T0VRbWRNSmUtWXFwOFpXVlBtYVB5WjJYRFZIdEdtMGVsT1ZjWjh6dHoza0QtSFdVVzFxM1Q4bDRmclF1cWpWRnVnUkVmWjVoQ3QzbUtOeTZuaVNVaGl2d1lxVjRuREJSZ0hCTVpRdGJzbWlGSXprZnpQQUQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 19:42:00 GMT"
   },
   {
    "t": "Iran beklagt Inhaftierung von drei Kampfpiloten in Katar – Golfstaat irritiert - WEB.DE",
@@ -94,19 +89,24 @@
    "pub": "Sat, 15 Aug 2026 18:25:07 GMT"
   },
   {
-   "t": "Auch Oman betroffen: Iran kämpft gegen Ölverschmutzung im Küstengebiet - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTS14LUw1aVptbDE2ZTFHNU1LdXl4VTJFV2xaNzRUYTJiUHJRb1V6SU9sRG1ZT1ZUdWFwRWtDdE1faTB1c1NpVkwzNGZTZzhLc2E0WFZ1dW5RSFRiLUMxdEJaSTVpdWtYYU5YbjZDX0pmRnJjb3B2cUJBMW44TlNwOERuTTNpbUNkZ1I5V08tZlJITWFoMzJ0bFJ3YXQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 18:53:03 GMT"
-  },
-  {
    "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
    "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
   },
   {
-   "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
-   "pub": "Fri, 14 Aug 2026 23:41:00 GMT"
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
+   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
+   "pub": "Sat, 15 Aug 2026 23:29:24 GMT"
+  },
+  {
+   "t": "Auch Oman betroffen: Iran kämpft gegen Ölverschmutzung im Küstengebiet - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTS14LUw1aVptbDE2ZTFHNU1LdXl4VTJFV2xaNzRUYTJiUHJRb1V6SU9sRG1ZT1ZUdWFwRWtDdE1faTB1c1NpVkwzNGZTZzhLc2E0WFZ1dW5RSFRiLUMxdEJaSTVpdWtYYU5YbjZDX0pmRnJjb3B2cUJBMW44TlNwOERuTTNpbUNkZ1I5V08tZlJITWFoMzJ0bFJ3YXQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 18:53:03 GMT"
   }
  ]
 }
