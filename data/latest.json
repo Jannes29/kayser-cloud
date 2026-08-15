@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-15T18:47:51Z",
+ "collected_at": "2026-08-15T19:35:41Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
    "pub": "Sat, 15 Aug 2026 17:58:29 GMT"
   },
@@ -59,14 +59,19 @@
    "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
   },
   {
+   "t": "Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
+   "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
+  },
+  {
    "t": "Iran-USA-Abkommen: Frist verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BVNmpHSElEVm15aWpLbTgwSTBqNTNHZG42RnZ4Vy1oaHpRUTNfblBPRGhxN0xRdDJLZHlzeGx4LVZWbjU3WXhhR2wxdml1YkY1bk9xeVR5LUMzMVVDa2xQVUR3NkRSaDVHcDgwT1JlZFh2SVpiR1BsTjZ1S0hrb01fdGdKckxybmkwSVBuUGpaX3FQQVlYay1Cb2xpR19FZ2VfaER0OFdRVmhTUml2b0o0aWt5bWRqM2w1MXNHU1ZpUTJRejhaMERRV0ZtVTdMdm1mNkFLZw?oc=5",
    "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
   },
   {
-   "t": "Der Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
-   "pub": "Sat, 15 Aug 2026 16:19:00 GMT"
+   "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUoycFdsNTRZck9aWGcxa0dQWnJXbmlBLWdSd09KS3NvVUNZUkdHU1FydXBBaTJNbXNDdUNEWDhidDFjWG82NTJpakhEWWxtQTNBMURmWjZqOGY3SHNXVk92TlRXT2p6SXA1Mk5YSVhCOERuVlA4WnAxcmZxT3BlM19FZUZMNTYxVkp0dWZIR0Q3OHd3aG9lOWx6UjhUZDRsVXB1ei1ZbGNyZjhzc2lQcjlSdV9jcDA?oc=5",
+   "pub": "Sat, 15 Aug 2026 17:00:00 GMT"
   },
   {
    "t": "USA: Trump will Straße von Hormus annektieren – „Aus dem Iran eher ein müdes Lächeln als Reaktion“ - Video - WELT",
@@ -89,24 +94,19 @@
    "pub": "Sat, 15 Aug 2026 15:23:17 GMT"
   },
   {
-   "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUoycFdsNTRZck9aWGcxa0dQWnJXbmlBLWdSd09KS3NvVUNZUkdHU1FydXBBaTJNbXNDdUNEWDhidDFjWG82NTJpakhEWWxtQTNBMURmWjZqOGY3SHNXVk92TlRXT2p6SXA1Mk5YSVhCOERuVlA4WnAxcmZxT3BlM19FZUZMNTYxVkp0dWZIR0Q3OHd3aG9lOWx6UjhUZDRsVXB1ei1ZbGNyZjhzc2lQcjlSdV9jcDA?oc=5",
-   "pub": "Sat, 15 Aug 2026 17:00:00 GMT"
+   "t": "Auch Oman betroffen: Iran kämpft gegen Ölverschmutzung im Küstengebiet - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTS14LUw1aVptbDE2ZTFHNU1LdXl4VTJFV2xaNzRUYTJiUHJRb1V6SU9sRG1ZT1ZUdWFwRWtDdE1faTB1c1NpVkwzNGZTZzhLc2E0WFZ1dW5RSFRiLUMxdEJaSTVpdWtYYU5YbjZDX0pmRnJjb3B2cUJBMW44TlNwOERuTTNpbUNkZ1I5V08tZlJITWFoMzJ0bFJ3YXQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 18:53:03 GMT"
   },
   {
-   "t": "Naher Osten: Trump will Straße von Hormus zu US-Territorium erklären – Iran wettert dagegen - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNFctMHRiclpiN19BQ0FjOUxQUGJsYzl2Vm5VdmJyTHdWSGRiRHUxdWlZazJFN21OOW96cm4weTlGdy05ajZDTTBRWjY2NDZTU2o4R1lQVDVDOE96UW9UUGptSmNPZE90MGI3ckF6bnJIOHNOM01vR2hDXzhibGwyVUZ6T19oaDl5TnFpeXJVWWpuX190eDJWc29WcW51dU9LTjBVQU5KVEVmdjk1VmtYb1AzMWQ0X0lUUFhOQXJhSzlQSVZaQ0hvS1BOYzI3dVZBNl9PeS1UcEM?oc=5",
-   "pub": "Sat, 15 Aug 2026 06:56:12 GMT"
+   "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
   },
   {
    "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
    "pub": "Fri, 14 Aug 2026 23:41:00 GMT"
-  },
-  {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE1WUDl5aGNyaWEzSTI5ejVoMDVHZ3NHOGxaWENYeTBTYUpZWk10a3pveS1hMVFiWFUxWEE2MEhJTTFSbEkwWkRheVNfbWZ3aWlCUWZGLUNBUnVtRWlOQUVhdnpoZ0ZYd0JkSElTUUxxbnpOSVNhQkdmRUJEdlJ4eVRvX3FQck4tQUZqQUk3dTdNQjVhSHl5RGlnOA?oc=5",
-   "pub": "Sat, 15 Aug 2026 05:00:00 GMT"
   }
  ]
 }
