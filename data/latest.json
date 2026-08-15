@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-15T03:05:53Z",
+ "collected_at": "2026-08-15T03:55:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": -0.14
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
    "price": 159.305,
@@ -12,19 +12,19 @@
   },
   "GBPCAD": {
    "price": 1.8777,
-   "chg1d_pct": -0.05
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.24
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.33
+   "chg1d_pct": 0.37
   },
   "GBPCHF": {
    "price": 1.1003,
-   "chg1d_pct": 0.2
+   "chg1d_pct": 0.25
   },
   "WTI": {
    "price": 82.4,
@@ -54,6 +54,11 @@
    "pub": "Sat, 15 Aug 2026 01:00:00 GMT"
   },
   {
+   "t": "Ölpreis aktuell: Ölpreise legen wieder leicht zu - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzFaV0RzU2RBNDd4Zms5OVNqWXlaeFo3dmxPV0lLVUlJMGppYXpUX3dSN3JIbVI1cnNmOE5PMnFPNE5RYnZWRE8tOTAydGVKc3pTTG5EUk1IN29PQ19RMnAyY211czFoeEVYeWE1RDRRam1sd2FzWHVoUzA1Qi1HLW93VXc5SXotS2dfMVpLOWZ1WWdTTzFjWQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 03:21:24 GMT"
+  },
+  {
    "t": "„Werde Hormus-Straße zum Territorium der USA erklären“ – Trump und Iran streiten über Meerenge - WELT",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNHI0Q2lXZ09vRmlXcnNzTXFlMm5JVXZnenFvcXdWNXRydXpSanBZYl9Vb2c4T3dQNDlJUXI0MEJXRTJHUjZSZEk5b0JKRDdGalotcHgtWG4tX3hqU0xjVzlGM1lQX012Q0RSd3lUT2ZjcVUwWUV3R3N2NmtKdEZuSnVyNGNaNkduZ3cwWFoxNTZfcXhuV0xDUnBWejk2RXVkaEUxcVdJdlhfbnhHVThaSUdwSmQyUGtrUVlZSW5YN0gzVUp6S3RWTG9TdHNBU2xLWHR5LUwyMk0xUTRmejZoeUhOVUg3RkxFcTVEZHMxdE8yVkxtX0lKLWlhSEJpTVRMblAxOXBwbUpYdw?oc=5",
    "pub": "Fri, 14 Aug 2026 23:34:26 GMT"
@@ -79,19 +84,19 @@
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
+   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
    "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+   "t": "Lage im Überblick: Frist verstreicht: Iran-Krieg vor ungewisser Zukunft - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczl3TERjTXMxU2pMZ2VNc2MtYW1VenJaVW55SnlwYkFRRWd2U1dqWVp6ZGRQYXlKeW8tMmlnX1lySFA1VHd0ZWFNenE5bUsta1dGZWJhVFdFOGY2T0duTG1XQVNQdXlLRExoMUlPa2VsNHlkNWxrdzl6bGNXa2tFbTROQjFHLVJNYlZDa3hLVmZDTU1wSF9uY2ZzMWNOZVFJdzdVNmxJLXNHSEFXUkRPR21yVjloNlJISHVZdW1rQnJrTjRLX3c?oc=5",
+   "pub": "Sat, 15 Aug 2026 03:13:01 GMT"
   },
   {
    "t": "Trumps USA im Iran-Krieg: Im Pentagon wächst die Ratlosigkeit - T-Online",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVE3ZlB4d0tfOUNUWkRoR2pvZGxoVWkxZEtiWk5hajdHNWIzOFU5Ym0yaVpURmFvMUNJQUtyeHVTOEQ5YWYyaWk5Qi1mTnJuMDFMeXVTWDQ2SUdobDVVNkJ6WDZzaFdSdUgxMmRGMHBjV2R0VlA5NE1RZ2hZSnZ1ZVRzb3NJZW5fMmFqM04xVUhubG9HWVJXcmJ4dEk4SFlBMllDYXlibnlxWVlsZXdSMnVsU2lQamJZdDJWYUI3Um9STUg3TXc?oc=5",
    "pub": "Fri, 14 Aug 2026 09:11:18 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump will Straße von Hormus zu US-Territorium machen - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTTNxUi1UdDJtWVRxRkZRT0pmVThsY0ltLVl0aGFZQkNzQXprMGMwX0ZHemJ4cEZRLXVRWHR2UXFZVXhxWkN5X0h5QUgyUDhrNXRiUlpMckY0OUdwb1lyT2w3aWprQzYwLTRrc0JZWXNIdFRkQnNDQzFNZ0lTUlQyMWlUTHJSN2ozWHRIMXdxY1R0bFNHZGY1THhjbGVPV1N4ZTNEYm5xeUg5M2xqNHdSNTNadU9IRUhucXhNTzlkY2c?oc=5",
-   "pub": "Sat, 15 Aug 2026 00:04:02 GMT"
   },
   {
    "t": "\"Medical Intervention Car\" mit mit mobiler Herz-Lungen-Maschine liefert Ersthilfe vor Ort - tagesschau.de",
@@ -102,11 +107,6 @@
    "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
    "pub": "Fri, 14 Aug 2026 23:41:08 GMT"
-  },
-  {
-   "t": "VAE werfen Iran Piraterie vor: Angriff auf Schiffe in der Straße von Hormus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNanE2UTRyMUUxUHRCN2FXejBMMnd2ZDNfcTR4cHhlUDlFZDFjSUhNYlVjVWMyVHNuMXBDdkxrZ2l3Q2REdzYtWUg0clJvR0VhczJ2cHhrZXc2Z2RXWERaRGwxOWE2UjhfNGE5Um1SWGEweDRSR1ZtODFOSG5MeVRxY01aN3VpR01jZEMxSVdZQUh4RUk?oc=5",
-   "pub": "Thu, 13 Aug 2026 23:43:13 GMT"
   }
  ]
 }
