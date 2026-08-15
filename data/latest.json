@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-15T11:34:47Z",
+ "collected_at": "2026-08-15T12:59:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,9 @@
  },
  "headlines": [
   {
-   "t": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaC13WEdjSC1IZEMwdExGYUZXNlpoRURNbGNiUzlxN2tsdm03dWhMTzhpdXZJcC1MMmJPcXBsNElMWFBxSnlyaHYyMjV2b1FVLVk3Q2Vfc0w5SHJzLVMteDRqX0VVNFJOUjY1emhXUTJEd3pIUzZJaXFmNHBPRUZ2aUVUQllNRnVqbHBYX2t1bTBhaXdSalBQTjNYNkk5NFNfaW5fa3k1QUdEdklHMTV1RUlCTmxGdWtjdDdTRTA2czJTOUx2UzF6QkUtU2tjYWhvd1BnZzV1Y3Nudk9pNXc?oc=5",
-   "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
-  },
-  {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
-   "pub": "Sat, 15 Aug 2026 09:03:01 GMT"
+   "pub": "Sat, 15 Aug 2026 12:01:49 GMT"
   },
   {
    "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
@@ -64,9 +59,9 @@
    "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
   },
   {
-   "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamF3VjZHZW9GVWtiY1VoVDA4MUZtdk53d1pYMTJ2TENOcG1xYm16REJhU1JTdzQ2QlFOT2EyUG4zek9GbGptaEg0ckpCMkJEdHFJUVJvbWtvZURUWjhjQVZKZmh1TGV6U2x3Y3JaVmJnYzVkUndYcXRyU1gwV1d6dGxqZjdGRVFlZjFXYVZhczBFUTRKNmlqaDNCdzhnWVdrT3c4SlNaZ0VGbW9YX05ZTFgyb19kazg?oc=5",
-   "pub": "Sat, 15 Aug 2026 05:21:57 GMT"
+   "t": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaC13WEdjSC1IZEMwdExGYUZXNlpoRURNbGNiUzlxN2tsdm03dWhMTzhpdXZJcC1MMmJPcXBsNElMWFBxSnlyaHYyMjV2b1FVLVk3Q2Vfc0w5SHJzLVMteDRqX0VVNFJOUjY1emhXUTJEd3pIUzZJaXFmNHBPRUZ2aUVUQllNRnVqbHBYX2t1bTBhaXdSalBQTjNYNkk5NFNfaW5fa3k1QUdEdklHMTV1RUlCTmxGdWtjdDdTRTA2czJTOUx2UzF6QkUtU2tjYWhvd1BnZzV1Y3Nudk9pNXc?oc=5",
+   "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
   },
   {
    "t": "USA: Trump will Straße von Hormus annektieren – „Aus dem Iran eher ein müdes Lächeln als Reaktion“ - Video - WELT",
@@ -74,9 +69,19 @@
    "pub": "Sat, 15 Aug 2026 10:02:25 GMT"
   },
   {
+   "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamF3VjZHZW9GVWtiY1VoVDA4MUZtdk53d1pYMTJ2TENOcG1xYm16REJhU1JTdzQ2QlFOT2EyUG4zek9GbGptaEg0ckpCMkJEdHFJUVJvbWtvZURUWjhjQVZKZmh1TGV6U2x3Y3JaVmJnYzVkUndYcXRyU1gwV1d6dGxqZjdGRVFlZjFXYVZhczBFUTRKNmlqaDNCdzhnWVdrT3c4SlNaZ0VGbW9YX05ZTFgyb19kazg?oc=5",
+   "pub": "Sat, 15 Aug 2026 05:21:57 GMT"
+  },
+  {
    "t": "\"USS Abraham Lincoln\": Iran legt Nachschubbasis lahm – Trump mischt sich ein - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZEpWcktYQWE2TDlGbS1NTWVVTnJLamxGazhZbGtWX0NSdjhrS283NVJwSDkySWtCTnFOYUw5dUk0UzBPY3dxNC1CUlFnZTNqM1dmRHFQR3prY2p2R0VjMzYza1JSdFRvRFdab0xoaDFYZUJfWEFVRE90eVpEems3NWcwNEQ5X3V0TXliMmFMcGo5Ti1UdGZRbjU4TDRLYkZBbmtvbkxESW9LTHlTb1JXZ1M0Sjd6QXRMdkJVUlB1c3ctS3hPUUxvX0JrQUkwX25uUEtuV2pTdw?oc=5",
    "pub": "Sat, 15 Aug 2026 07:03:32 GMT"
+  },
+  {
+   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
+   "pub": "Sat, 15 Aug 2026 12:22:37 GMT"
   },
   {
    "t": "Naher Osten: Trump will Straße von Hormus zu US-Territorium erklären – Iran wettert dagegen - WiWo",
@@ -89,22 +94,17 @@
    "pub": "Sat, 15 Aug 2026 08:53:53 GMT"
   },
   {
-   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
-   "pub": "Sat, 15 Aug 2026 09:17:46 GMT"
-  },
-  {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - esut.de",
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
    "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
-   "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
+   "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - zdfheute.de",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
    "pub": "Fri, 14 Aug 2026 23:41:00 GMT"
   },
   {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE1WUDl5aGNyaWEzSTI5ejVoMDVHZ3NHOGxaWENYeTBTYUpZWk10a3pveS1hMVFiWFUxWEE2MEhJTTFSbEkwWkRheVNfbWZ3aWlCUWZGLUNBUnVtRWlOQUVhdnpoZ0ZYd0JkSElTUUxxbnpOSVNhQkdmRUJEdlJ4eVRvX3FQck4tQUZqQUk3dTdNQjVhSHl5RGlnOA?oc=5",
    "pub": "Sat, 15 Aug 2026 05:00:00 GMT"
   }
