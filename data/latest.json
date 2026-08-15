@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-15T15:35:00Z",
+ "collected_at": "2026-08-15T16:42:30Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": 0.01
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
    "price": 159.305,
@@ -16,15 +16,15 @@
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.33
+   "chg1d_pct": 0.24
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.37
+   "chg1d_pct": 0.33
   },
   "GBPCHF": {
    "price": 1.1003,
-   "chg1d_pct": 0.25
+   "chg1d_pct": 0.2
   },
   "WTI": {
    "price": 82.4,
@@ -69,19 +69,19 @@
    "pub": "Sat, 15 Aug 2026 10:02:25 GMT"
   },
   {
-   "t": "Iran nach Trump-Äußerung: Straße von Hormus \"bleibt iranisch\" - Euronews.com",
+   "t": "Iran nach Trump-Äußerung: Straße von Hormus \"bleibt iranisch\" - de.euronews.com",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWUM3b0NDcHJvTWh3b1d0ZWhDcVJ4R2doeU9PaUstTU9ZUFZlbUxHMHBRb2ltX0FOeFliOW9MVkNWY2FVMURWT0tOOEZaaDBMVURoNjl1Zjg4d0luNFRCeVBaUlI1QUdMdWY1MDN5RjM1QQ?oc=5",
    "pub": "Sat, 15 Aug 2026 08:53:53 GMT"
   },
   {
-   "t": "Krieg in Nahost: Trump will Meerenge zu US-Gebiet erklären – Teheran reagiert - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGwtQWJWUUpKWl9Bcm4yek56TlAzd0VCVXhieGRKQXJLZEdHZEhzZWZXZXJNZjJSeW1HRDBwbEJuWXQ0ZHg5YncyTVhaNDRGTGY3SWxIdURGZ250TElSQmwyaWd4T0VRbWRNSmUtWXFwOFpXVlBtYVB5WjJYRFZIdEdtMGVsT1ZjWjh6dHoza0QtSFdVVzFxM1Q4bDRmclF1cWpWRnVnUkVmWjVoQ3QzbUtOeTZuaVNVaGl2d1lxVjRuREJSZ0hCTVpRdGJzbWlGSXprZnpQQUQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 12:46:00 GMT"
-  },
-  {
    "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamF3VjZHZW9GVWtiY1VoVDA4MUZtdk53d1pYMTJ2TENOcG1xYm16REJhU1JTdzQ2QlFOT2EyUG4zek9GbGptaEg0ckpCMkJEdHFJUVJvbWtvZURUWjhjQVZKZmh1TGV6U2x3Y3JaVmJnYzVkUndYcXRyU1gwV1d6dGxqZjdGRVFlZjFXYVZhczBFUTRKNmlqaDNCdzhnWVdrT3c4SlNaZ0VGbW9YX05ZTFgyb19kazg?oc=5",
-   "pub": "Sat, 15 Aug 2026 05:21:57 GMT"
+   "pub": "Sat, 15 Aug 2026 05:21:00 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: Trump will Meerenge zu US-Gebiet erklären – Teheran reagiert - t-online.de",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGwtQWJWUUpKWl9Bcm4yek56TlAzd0VCVXhieGRKQXJLZEdHZEhzZWZXZXJNZjJSeW1HRDBwbEJuWXQ0ZHg5YncyTVhaNDRGTGY3SWxIdURGZ250TElSQmwyaWd4T0VRbWRNSmUtWXFwOFpXVlBtYVB5WjJYRFZIdEdtMGVsT1ZjWjh6dHoza0QtSFdVVzFxM1Q4bDRmclF1cWpWRnVnUkVmWjVoQ3QzbUtOeTZuaVNVaGl2d1lxVjRuREJSZ0hCTVpRdGJzbWlGSXprZnpQQUQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 12:46:00 GMT"
   },
   {
    "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
@@ -94,11 +94,6 @@
    "pub": "Sat, 15 Aug 2026 06:56:12 GMT"
   },
   {
-   "t": "Lage im Überblick: Frist verstreicht: Iran-Krieg vor ungewisser Zukunft - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczl3TERjTXMxU2pMZ2VNc2MtYW1VenJaVW55SnlwYkFRRWd2U1dqWVp6ZGRQYXlKeW8tMmlnX1lySFA1VHd0ZWFNenE5bUsta1dGZWJhVFdFOGY2T0duTG1XQVNQdXlLRExoMUlPa2VsNHlkNWxrdzl6bGNXa2tFbTROQjFHLVJNYlZDa3hLVmZDTU1wSF9uY2ZzMWNOZVFJdzdVNmxJLXNHSEFXUkRPR21yVjloNlJISHVZdW1rQnJrTjRLX3c?oc=5",
-   "pub": "Sat, 15 Aug 2026 13:34:33 GMT"
-  },
-  {
    "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
    "pub": "Fri, 14 Aug 2026 23:41:00 GMT"
@@ -107,6 +102,11 @@
    "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE1WUDl5aGNyaWEzSTI5ejVoMDVHZ3NHOGxaWENYeTBTYUpZWk10a3pveS1hMVFiWFUxWEE2MEhJTTFSbEkwWkRheVNfbWZ3aWlCUWZGLUNBUnVtRWlOQUVhdnpoZ0ZYd0JkSElTUUxxbnpOSVNhQkdmRUJEdlJ4eVRvX3FQck4tQUZqQUk3dTdNQjVhSHl5RGlnOA?oc=5",
    "pub": "Sat, 15 Aug 2026 05:00:00 GMT"
+  },
+  {
+   "t": "„Werde Hormus-Straße zum Territorium der USA erklären“ – Trump und Iran streiten über Meerenge - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNHI0Q2lXZ09vRmlXcnNzTXFlMm5JVXZnenFvcXdWNXRydXpSanBZYl9Vb2c4T3dQNDlJUXI0MEJXRTJHUjZSZEk5b0JKRDdGalotcHgtWG4tX3hqU0xjVzlGM1lQX012Q0RSd3lUT2ZjcVUwWUV3R3N2NmtKdEZuSnVyNGNaNkduZ3cwWFoxNTZfcXhuV0xDUnBWejk2RXVkaEUxcVdJdlhfbnhHVThaSUdwSmQyUGtrUVlZSW5YN0gzVUp6S3RWTG9TdHNBU2xLWHR5LUwyMk0xUTRmejZoeUhOVUg3RkxFcTVEZHMxdE8yVkxtX0lKLWlhSEJpTVRMblAxOXBwbUpYdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 23:34:26 GMT"
   }
  ]
 }
