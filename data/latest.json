@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-15T04:48:13Z",
+ "collected_at": "2026-08-15T05:42:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,64 @@
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaC13WEdjSC1IZEMwdExGYUZXNlpoRURNbGNiUzlxN2tsdm03dWhMTzhpdXZJcC1MMmJPcXBsNElMWFBxSnlyaHYyMjV2b1FVLVk3Q2Vfc0w5SHJzLVMteDRqX0VVNFJOUjY1emhXUTJEd3pIUzZJaXFmNHBPRUZ2aUVUQllNRnVqbHBYX2t1bTBhaXdSalBQTjNYNkk5NFNfaW5fa3k1QUdEdklHMTV1RUlCTmxGdWtjdDdTRTA2czJTOUx2UzF6QkUtU2tjYWhvd1BnZzV1Y3Nudk9pNXc?oc=5",
+   "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
+  },
+  {
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNE1WUDl5aGNyaWEzSTI5ejVoMDVHZ3NHOGxaWENYeTBTYUpZWk10a3pveS1hMVFiWFUxWEE2MEhJTTFSbEkwWkRheVNfbWZ3aWlCUWZGLUNBUnVtRWlOQUVhdnpoZ0ZYd0JkSElTUUxxbnpOSVNhQkdmRUJEdlJ4eVRvX3FQck4tQUZqQUk3dTdNQjVhSHl5RGlnOA?oc=5",
+   "pub": "Sat, 15 Aug 2026 05:00:00 GMT"
+  },
+  {
+   "t": "Ölpreis aktuell: Ölpreise legen wieder leicht zu - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzFaV0RzU2RBNDd4Zms5OVNqWXlaeFo3dmxPV0lLVUlJMGppYXpUX3dSN3JIbVI1cnNmOE5PMnFPNE5RYnZWRE8tOTAydGVKc3pTTG5EUk1IN29PQ19RMnAyY211czFoeEVYeWE1RDRRam1sd2FzWHVoUzA1Qi1HLW93VXc5SXotS2dfMVpLOWZ1WWdTTzFjWQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 03:21:24 GMT"
+  },
+  {
+   "t": "„Werde Hormus-Straße zum Territorium der USA erklären“ – Trump und Iran streiten über Meerenge - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNHI0Q2lXZ09vRmlXcnNzTXFlMm5JVXZnenFvcXdWNXRydXpSanBZYl9Vb2c4T3dQNDlJUXI0MEJXRTJHUjZSZEk5b0JKRDdGalotcHgtWG4tX3hqU0xjVzlGM1lQX012Q0RSd3lUT2ZjcVUwWUV3R3N2NmtKdEZuSnVyNGNaNkduZ3cwWFoxNTZfcXhuV0xDUnBWejk2RXVkaEUxcVdJdlhfbnhHVThaSUdwSmQyUGtrUVlZSW5YN0gzVUp6S3RWTG9TdHNBU2xLWHR5LUwyMk0xUTRmejZoeUhOVUg3RkxFcTVEZHMxdE8yVkxtX0lKLWlhSEJpTVRMblAxOXBwbUpYdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 23:34:26 GMT"
+  },
+  {
+   "t": "So verliert Trump die Wahl: Wirtschaft kühlt ab, auch wegen Iran! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX0NQS1laeVNsTjhza3dDOGNjVmZxOWxkeUFzNVVBYjNVOFJZSXkybjZWTklTSUhORkU2dEhKOW4xYUFOSjYxZUQ5VFIwcldrOXFZaHZ4NWZSeDd4NU1ZUGw2cnZCOHBSempCNmlnck5EUUFhUTJXMlUzYmp1VjhOQUpxLUczdVRRdXZaMDFYWWdCZ1RORkljVGZuSGZqRGtwZWhySDgxaE5KbmRSZTkxTmF3RQ?oc=5",
+   "pub": "Fri, 14 Aug 2026 17:53:49 GMT"
+  },
+  {
+   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
+   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
+  },
+  {
+   "t": "Trump will Straße von Hormus zu US-Territorium erklären – Mullah-Regime kontert: „Gehört dem Iran“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamF3VjZHZW9GVWtiY1VoVDA4MUZtdk53d1pYMTJ2TENOcG1xYm16REJhU1JTdzQ2QlFOT2EyUG4zek9GbGptaEg0ckpCMkJEdHFJUVJvbWtvZURUWjhjQVZKZmh1TGV6U2x3Y3JaVmJnYzVkUndYcXRyU1gwV1d6dGxqZjdGRVFlZjFXYVZhczBFUTRKNmlqaDNCdzhnWVdrT3c4SlNaZ0VGbW9YX05ZTFgyb19kazg?oc=5",
+   "pub": "Sat, 15 Aug 2026 05:21:57 GMT"
+  },
+  {
+   "t": "Iran meldet Billionenschäden durch Ölverschmutzung im Golf - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXQzM0gzM3o5OVRnZFk0U0VERW5vUG9YSjdVRkRhRDRlcXl4YkRfSUh1R2lOZGFIbHFncFdKb1NFUUR1RGpteExObWFzSktzWnk1LVNlRWt6UkN1U1BseFBGdDZaSV9CN0pyQjhfd090U3Z2N2dpUFBtTUgzamd2NGE4SWdGZG1zcVpzeGo3YlhGSHdWVTlLdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 09:57:11 GMT"
+  },
+  {
+   "t": "Zielscheibe für Flugabwehr: Bericht: USA verlieren ein Viertel ihrer Reaper-Drohnen im Iran-Krieg - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm0wclBKTkl6aHl2RXJmVXpSREYyUmdjWGtJTmVNWnZzMWVTTGJuVjdIc1RIZHMzZDRMd0FIc2dtLU9mc0lsdHNfOHh4U2VockRBMjg4eWkxQnBaZm5wb3JQMC1KZFhJVHJlR1h6c1pwS0FUYlIxdHM4dGx4b3laNzBfdzJKZ0h6QjNzaWd4aWhUaEozM3RnX0xZVmhneUtCcUp0RnV3M0pfdHliRGRRZEJR?oc=5",
+   "pub": "Fri, 14 Aug 2026 11:21:28 GMT"
+  },
+  {
+   "t": "Lage im Überblick: Frist verstreicht: Iran-Krieg vor ungewisser Zukunft - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQczl3TERjTXMxU2pMZ2VNc2MtYW1VenJaVW55SnlwYkFRRWd2U1dqWVp6ZGRQYXlKeW8tMmlnX1lySFA1VHd0ZWFNenE5bUsta1dGZWJhVFdFOGY2T0duTG1XQVNQdXlLRExoMUlPa2VsNHlkNWxrdzl6bGNXa2tFbTROQjFHLVJNYlZDa3hLVmZDTU1wSF9uY2ZzMWNOZVFJdzdVNmxJLXNHSEFXUkRPR21yVjloNlJISHVZdW1rQnJrTjRLX3c?oc=5",
+   "pub": "Sat, 15 Aug 2026 03:13:01 GMT"
+  },
+  {
+   "t": "Iran-Krieg - Diplomatische Fronten zwischen USA und Iran weiter verhärtet - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkF5dFNIU1hWNV9aNzJTWnZOalhrbWo3Y3hoTDFadUlTak1Jb1FFYnNkQUdfOXZnbUVuOEhpV2k5cWRIWWQtR0xwUnZyc01aUGM0NHRyeFZVc0VPY05iSThZT3lieXZFZUVIeUp0eTNEV0tNTGJXUU9tSWdIWUJTUC1fZjQweGxfbWtuOFJKVkVzV1N5N09ickEyQ2pjVWVQWXpZ?oc=5",
+   "pub": "Sat, 15 Aug 2026 01:00:00 GMT"
+  },
+  {
+   "t": "Iran: Trump will Straße von Hormus zum US-Territorium erklären - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFYzWEUzM0ZhSDVKdXVob19ueVdPUXUxMmFRck5LUVRGN0ZkOXhFemFfZTliUnMtdUVPMTY2OHlmQVp1bW82a2k1SmY0YXNyYzNHYzRaU2s4WklyNTRvZndGeEtLMzZ3OThiOGhkSzByQThra1JUdlBtSlpWODdYb1VFZnFuM2piYm9vUlhiZWpIdw?oc=5",
+   "pub": "Fri, 14 Aug 2026 23:41:08 GMT"
   }
  ]
 }
