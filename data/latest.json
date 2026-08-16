@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-16T17:34:32Z",
+ "collected_at": "2026-08-16T18:47:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": -0.14
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
    "price": 159.305,
@@ -12,15 +12,15 @@
   },
   "GBPCAD": {
    "price": 1.8775,
-   "chg1d_pct": -0.06
+   "chg1d_pct": -0.2
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.24
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.33
+   "chg1d_pct": 0.37
   },
   "GBPCHF": {
    "price": 1.1003,
@@ -89,14 +89,9 @@
    "pub": "Sun, 16 Aug 2026 08:09:52 GMT"
   },
   {
-   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel tötete Hisbollah-Kommandant - Kurier",
+   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Sun, 16 Aug 2026 17:01:04 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Iran setzt Kopfgeld auf US-Soldaten aus - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1g0SWNxdC1QRzQ2djlsb1ZmQmtabktDekRCM3gwdTdTb1JnSlc5ZUR2alptc3BGbG83SkEtenkzQTFjWVpPQ19WWkh6TlhoZkVJU0tUVUtRcjdJNzF6T0VUUHBzblJydUd6RkVIRHVfTzd6bTBob2hURFFBSXdyVkZELUFGZnNURkZ0VkZIR01sRTdOYXFVLTBvMGN0eFYwSFpjay01bVRzQW9wUnNGVzRYZFExTEFPOGdKTTJGR2xFVEhBeEo2TUNB?oc=5",
-   "pub": "Sun, 16 Aug 2026 14:26:00 GMT"
+   "pub": "Sun, 16 Aug 2026 17:53:55 GMT"
   },
   {
    "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - Spiegel",
@@ -107,6 +102,11 @@
    "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
+  },
+  {
+   "t": "Frauen kriegen höhere Belohnung: Iran wirbt mit Kopfgeld für Tötung von US-Soldaten - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWRtS3RsZ2tHWjJoWFhCS0dtTlN4MlFzZFRSdW4tTXQxTDBwR05qZHA3LS04Z216TmVHZjJrR3BnMmhYNmdmcldva3pRQTV0WTNnejN0REhIbWt4cjZNM0ZwZ2EzUEFVOW43ZlJqLWpnUWxDaXY4M294V2RLa0QyQUwtYzZCd3FlVENlTGFSMGtRNkNkblR3YjlNRXE?oc=5",
+   "pub": "Sun, 16 Aug 2026 11:15:13 GMT"
   }
  ]
 }
