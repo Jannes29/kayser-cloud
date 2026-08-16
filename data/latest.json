@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-15T23:34:53Z",
+ "collected_at": "2026-08-16T01:57:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": 0.01
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
    "price": 159.305,
@@ -12,11 +12,11 @@
   },
   "GBPCAD": {
    "price": 1.8777,
-   "chg1d_pct": -0.19
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.33
+   "chg1d_pct": 0.24
   },
   "EURUSD": {
    "price": 1.1573,
@@ -51,7 +51,7 @@
   {
    "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
-   "pub": "Sat, 15 Aug 2026 20:36:27 GMT"
+   "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
   },
   {
    "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
@@ -69,7 +69,7 @@
    "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
   },
   {
-   "t": "Krieg in Nahost: Trump will Meerenge zu US-Gebiet erklären – Teheran reagiert - T-Online",
+   "t": "Nahost-Krieg: Trump will Meerenge zu US-Gebiet erklären – Teheran reagiert - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSGwtQWJWUUpKWl9Bcm4yek56TlAzd0VCVXhieGRKQXJLZEdHZEhzZWZXZXJNZjJSeW1HRDBwbEJuWXQ0ZHg5YncyTVhaNDRGTGY3SWxIdURGZ250TElSQmwyaWd4T0VRbWRNSmUtWXFwOFpXVlBtYVB5WjJYRFZIdEdtMGVsT1ZjWjh6dHoza0QtSFdVVzFxM1Q4bDRmclF1cWpWRnVnUkVmWjVoQ3QzbUtOeTZuaVNVaGl2d1lxVjRuREJSZ0hCTVpRdGJzbWlGSXprZnpQQUQ?oc=5",
    "pub": "Sat, 15 Aug 2026 22:30:00 GMT"
   },
@@ -84,14 +84,14 @@
    "pub": "Sat, 15 Aug 2026 21:30:09 GMT"
   },
   {
-   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
-   "pub": "Sat, 15 Aug 2026 18:25:07 GMT"
-  },
-  {
    "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
    "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
+  },
+  {
+   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
+   "pub": "Sat, 15 Aug 2026 18:25:07 GMT"
   },
   {
    "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
