@@ -1,26 +1,26 @@
 {
- "collected_at": "2026-08-16T18:47:48Z",
+ "collected_at": "2026-08-16T19:34:40Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": 0.01
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
    "price": 159.305,
    "chg1d_pct": -0.08
   },
   "GBPCAD": {
-   "price": 1.8775,
-   "chg1d_pct": -0.2
+   "price": 1.8777,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 112.879,
-   "chg1d_pct": 0.33
+   "price": 112.838,
+   "chg1d_pct": 0.2
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.37
+   "chg1d_pct": 0.33
   },
   "GBPCHF": {
    "price": 1.1003,
@@ -54,7 +54,7 @@
    "pub": "Sun, 16 Aug 2026 17:09:40 GMT"
   },
   {
-   "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - Spiegel",
+   "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejQ3d3lNd2ctbnpWZ3lvdVc2YlAyTmN2S29hNkhoQUd2Q3hGN09tdmZNSmthUURnMGdGQkhnZFJGYlpfVXRuRTQxLVFXQmZNYlVfXzNZbV90MVY3SnpLUlA1M01ha1E2Y1JZdVcyLVRJQlRaMWJfTm5NdVNDUWpuN3BWQUJMUzJSakw4WGNDa3FNTjd2VnhxdS1zRWh6Y2szX2R5aHNBOFBCYlBUVHI3VzVYUmJ5VWVheG5XNnppX0Vnd3VUWTN0TA?oc=5",
    "pub": "Sun, 16 Aug 2026 10:44:00 GMT"
   },
@@ -91,10 +91,10 @@
   {
    "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Sun, 16 Aug 2026 17:53:55 GMT"
+   "pub": "Sun, 16 Aug 2026 19:23:56 GMT"
   },
   {
-   "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - Spiegel",
+   "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2g4RV95MWQtSE0wM3JMdzdrNzlSOWltQ2NVUVBUd19BWkREYzZFa2EtdkxxQzdNTXdwalJ6MDhrRTdGdkhLdmxwUHczbEVJOUNRcVp4bXloUGRqZ2tEUkh0MmNwOENuaVprdkRxTVBFcm1wMHNsVjF3Nk1rSUVjYy1fNDRQZXJHcUg5Zms0X3p0cGVIM0ZEX1ZCUHUtUXZwV2dObEo0QXpIMEVDb3pLWVFuNG9sbnFLNUpjazhrVXBwa2dVbnJLSGtYeDRqMlVUZmRrSTFR?oc=5",
    "pub": "Sun, 16 Aug 2026 13:23:00 GMT"
   },
