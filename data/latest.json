@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-16T19:34:40Z",
+ "collected_at": "2026-08-16T20:39:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,16 +7,16 @@
    "chg1d_pct": -0.14
   },
   "USDJPY": {
-   "price": 159.305,
-   "chg1d_pct": -0.08
+   "price": 159.275,
+   "chg1d_pct": -0.09
   },
   "GBPCAD": {
    "price": 1.8777,
    "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 112.838,
-   "chg1d_pct": 0.2
+   "price": 112.894,
+   "chg1d_pct": 0.25
   },
   "EURUSD": {
    "price": 1.1573,
@@ -51,7 +51,7 @@
   {
    "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
-   "pub": "Sun, 16 Aug 2026 17:09:40 GMT"
+   "pub": "Sun, 16 Aug 2026 20:03:10 GMT"
   },
   {
    "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - spiegel.de",
@@ -64,14 +64,14 @@
    "pub": "Sun, 16 Aug 2026 13:04:32 GMT"
   },
   {
-   "t": "Kalkül im Iran-Krieg: USA dominieren, doch Teheran hat einen Trumpf, den Donald Trump nicht brechen kann - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHlhb2dsX1Ffd0xyZTN3SFRFNm1rdDlHTkdPWG4yc0NaV2k0U0psN2VhQ3BWYk9hYmNrSGllei02X1dSaWNHRUIzb3pFVXR1M3JiWHVrYi1PZDJXbmhQUU8wVjdabVJFRW5MUF9JSll5T2NaTTZ5bWZMNGxDRjZQVGo4eWtETW1HSXF1OWdlSFc5ZGJBWDI1R0JPYjBRN09SMmNrVHM1MHA3c1VlUDZ2aGwwdnZmUGZOTWNr?oc=5",
-   "pub": "Sun, 16 Aug 2026 14:19:52 GMT"
-  },
-  {
    "t": "Iran: Nach den Januar-Protesten lässt Teheran erneut einen Mann hinrichten - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU2FXbkNwWXdSaW1JSXdWUW8xMGZWNktIeGNpcFhMQmtqalJoT29YVjl0VVd1N3FCUjRQeklyOEkxYzVnQlVRR3NfZmoxVl9yX1FvSnF6aFVuVkEyNWVUTXhVaHdLSE95cUY5VS1ZLThVZkxxMk5obFdMb1ZIRUlBRmhjMGUtNm9wSFRpbEY4eHZqTFpSZ1VVOXZ5a0k2NXBnZENFRHoxYTR0SllJNEY0VGhmTHZMSkxabzJxRWZORUNUeW9abHppZXBnY3otejdrOTViMVpkVDVuOE5hcjRJdA?oc=5",
    "pub": "Sun, 16 Aug 2026 08:08:21 GMT"
+  },
+  {
+   "t": "Kalkül im Iran-Krieg: USA dominieren, doch Teheran hat einen Trumpf, den Donald Trump nicht brechen kann - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHlhb2dsX1Ffd0xyZTN3SFRFNm1rdDlHTkdPWG4yc0NaV2k0U0psN2VhQ3BWYk9hYmNrSGllei02X1dSaWNHRUIzb3pFVXR1M3JiWHVrYi1PZDJXbmhQUU8wVjdabVJFRW5MUF9JSll5T2NaTTZ5bWZMNGxDRjZQVGo4eWtETW1HSXF1OWdlSFc5ZGJBWDI1R0JPYjBRN09SMmNrVHM1MHA3c1VlUDZ2aGwwdnZmUGZOTWNr?oc=5",
+   "pub": "Sun, 16 Aug 2026 14:19:52 GMT"
   },
   {
    "t": "25.000 Euro für Tote oder Gefangene: Regime des Iran setzt Kopfgeld auf US-Soldaten aus - Tagesspiegel",
@@ -79,7 +79,7 @@
    "pub": "Sun, 16 Aug 2026 15:15:00 GMT"
   },
   {
-   "t": "Iran fordert Zugang zu vermissten Piloten – Katar weist Vorwürfe zurück - Berliner Zeitung",
+   "t": "Iran fordert Zugang zu vermissten Piloten – Katar weist Vorwürfe zurück - berliner-zeitung.de",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWE8zMzdSLUxNeXZFOUg3RTdIcURERGFZY3RhYkkxWDhTNjJFOWNuSU5sNDhQZndwT0JJdzI3ekJIMWpCamhIVUdSR3pwUFh2SHJDbU01Vnh0OHBNTnI2WGo2bU0xNXpfZEo1SzQ4MEpUd0RPTTdxLVl3OXRacktsV1J4azN1VzFkcEY2LWgtOEVkZjlGRnp2Vi0ydk4welZiblgwYnJaSndEVUw5UGU0dHRlRTVTaVVUb01iTA?oc=5",
    "pub": "Sun, 16 Aug 2026 13:35:54 GMT"
   },
@@ -90,8 +90,8 @@
   },
   {
    "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Sun, 16 Aug 2026 19:23:56 GMT"
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnV1eS1jb25MY0hXVEx1Vll3R1VxLTVFaTBuZTJDOVBZYXp6LThfZ2lWWUNDZURFZ09wWWphR0l6Tlkzd2hfcGljS1RmQXlpeS10Q1RNMU41T1pnSmNCNDYzYUhYaXAzVXl2YlJHV3ZUV25tYm1hdW5RaGpZNEJnS1VBeE8xZ1A0OGJjQkUzR1BTT2pvSzVMdXNUbmtOTWdwU2FuOWZ5OVV6U3FVajI3YTl5YkNFOS1sSjREczh6UXRrQQ?oc=5",
+   "pub": "Sun, 16 Aug 2026 17:32:11 GMT"
   },
   {
    "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - spiegel.de",
@@ -99,14 +99,14 @@
    "pub": "Sun, 16 Aug 2026 13:23:00 GMT"
   },
   {
+   "t": "Trump will Straße von Hormus zu US-Territorium erklären – Mullah-Regime kontert: „Gehört dem Iran“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmd1a1UzWWhwRFhvbktKNm4tTGdhR2JLU1ZybXB5N3dMSVpvc1N1QTNrb1hJc2tjTlZCb0VaM0VnSjdfcTBfOURmaGZ5bjdnQlZHTGg1anEwd2IzMFhBRGx5Z1dRZE44QzI5c3QxeG5qUTloODA1dk1id0c2QUJzUTBPZk5mSDRSMDRQR05kZHFzT3dwR2tCbDdxem5wVjdESHlacm9jUHNJc05XNzZ2VldGZDRNRUU?oc=5",
+   "pub": "Sun, 16 Aug 2026 17:00:00 GMT"
+  },
+  {
    "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
-  },
-  {
-   "t": "Frauen kriegen höhere Belohnung: Iran wirbt mit Kopfgeld für Tötung von US-Soldaten - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWRtS3RsZ2tHWjJoWFhCS0dtTlN4MlFzZFRSdW4tTXQxTDBwR05qZHA3LS04Z216TmVHZjJrR3BnMmhYNmdmcldva3pRQTV0WTNnejN0REhIbWt4cjZNM0ZwZ2EzUEFVOW43ZlJqLWpnUWxDaXY4M294V2RLa0QyQUwtYzZCd3FlVENlTGFSMGtRNkNkblR3YjlNRXE?oc=5",
-   "pub": "Sun, 16 Aug 2026 11:15:13 GMT"
   }
  ]
 }
