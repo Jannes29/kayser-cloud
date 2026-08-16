@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-16T03:13:41Z",
+ "collected_at": "2026-08-16T04:01:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": -0.14
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
    "price": 159.305,
@@ -84,14 +84,9 @@
    "pub": "Sat, 15 Aug 2026 21:28:23 GMT"
   },
   {
-   "t": "Iran beklagt Inhaftierung von drei Kampfpiloten in Katar – Golfstaat irritiert - WEB.DE",
+   "t": "Iran beklagt Inhaftierung von drei Kampfpiloten in Katar – Golfstaat irritiert - web.de",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1V0TTlrS2I5bFdocjB2OEdfUW9ic28tUFB4YzgwY0NHd2Ntbm1OdU4yQnJOWmdZeEpvc0otNlQ3RzZ4TjhIblZPazRRNkpmblNFU3RFUDhtWm1hLUxReFlqMDZ4dGVuREo0VlBWSGRQRWJWY0czTzAxUEozckdPZUloSFpKc1IxaVc3U0cxLVotRzF2cVlpQ3BWLU9BNzY1UzFDY3A0ZVZTazdGM0RkODZwUUpwMHZINzdMSw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:30:09 GMT"
-  },
-  {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
-   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
   },
   {
    "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - deutschlandfunk.de",
@@ -107,6 +102,11 @@
    "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
    "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
+  },
+  {
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGlUVHZwMmVjdVBCMnVLZU00c1RLbEpXUjQ0VnVaX3pvUDhRMDJzX0VPVlZGd082U1NmbFAzMUg0YTFwZEZ1MzhEaVZCRG1rMTlsc2d5RjF3X2RBcHpkYVlqUDJUMURzdUp6V2x5YkNhcWtiaEdfdDhoRVNlS1l2SFNkM1hoV1c0Z2ZQLW9EYXROTlhLVnRXX0JiazdwWFV2LUZVYnFJaVVSUjJTRUtIMzRDX2FuMGJMMEpwSmhySG1qajBNbkowZWZlOXEyaFU?oc=5",
+   "pub": "Sun, 16 Aug 2026 03:15:25 GMT"
   }
  ]
 }
