@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-08-16T20:39:38Z",
+ "collected_at": "2026-08-16T21:34:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.813,
-   "chg1d_pct": -0.14
+   "price": 0.8119,
+   "chg1d_pct": -0.27
   },
   "USDJPY": {
-   "price": 159.275,
-   "chg1d_pct": -0.09
+   "price": 159.308,
+   "chg1d_pct": -0.07
   },
   "GBPCAD": {
-   "price": 1.8777,
+   "price": 1.8778,
    "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 112.894,
-   "chg1d_pct": 0.25
+   "price": 112.808,
+   "chg1d_pct": 0.18
   },
   "EURUSD": {
-   "price": 1.1573,
-   "chg1d_pct": 0.33
+   "price": 1.157,
+   "chg1d_pct": 0.3
   },
   "GBPCHF": {
-   "price": 1.1003,
-   "chg1d_pct": 0.2
+   "price": 1.0982,
+   "chg1d_pct": 0.0
   },
   "WTI": {
    "price": 82.4,
@@ -54,7 +54,7 @@
    "pub": "Sun, 16 Aug 2026 20:03:10 GMT"
   },
   {
-   "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - spiegel.de",
+   "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejQ3d3lNd2ctbnpWZ3lvdVc2YlAyTmN2S29hNkhoQUd2Q3hGN09tdmZNSmthUURnMGdGQkhnZFJGYlpfVXRuRTQxLVFXQmZNYlVfXzNZbV90MVY3SnpLUlA1M01ha1E2Y1JZdVcyLVRJQlRaMWJfTm5NdVNDUWpuN3BWQUJMUzJSakw4WGNDa3FNTjd2VnhxdS1zRWh6Y2szX2R5aHNBOFBCYlBUVHI3VzVYUmJ5VWVheG5XNnppX0Vnd3VUWTN0TA?oc=5",
    "pub": "Sun, 16 Aug 2026 10:44:00 GMT"
   },
@@ -69,17 +69,17 @@
    "pub": "Sun, 16 Aug 2026 08:08:21 GMT"
   },
   {
-   "t": "Kalkül im Iran-Krieg: USA dominieren, doch Teheran hat einen Trumpf, den Donald Trump nicht brechen kann - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHlhb2dsX1Ffd0xyZTN3SFRFNm1rdDlHTkdPWG4yc0NaV2k0U0psN2VhQ3BWYk9hYmNrSGllei02X1dSaWNHRUIzb3pFVXR1M3JiWHVrYi1PZDJXbmhQUU8wVjdabVJFRW5MUF9JSll5T2NaTTZ5bWZMNGxDRjZQVGo4eWtETW1HSXF1OWdlSFc5ZGJBWDI1R0JPYjBRN09SMmNrVHM1MHA3c1VlUDZ2aGwwdnZmUGZOTWNr?oc=5",
-   "pub": "Sun, 16 Aug 2026 14:19:52 GMT"
-  },
-  {
    "t": "25.000 Euro für Tote oder Gefangene: Regime des Iran setzt Kopfgeld auf US-Soldaten aus - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHR5MVVqMUtiUWVQRldCQjBncjFWeEhxVnRyVVJCSzZaYzg3ZnNGdG81azNCWFNpSDktNjVVNHVwR0lXY1JjU3N0TUNhNzFMZVBfRE9LbVpKSDZXOWJTZTZVMDdPeTE5cUNVTzFNWUcyWWlZdHZPQm9QaXdtOVZfY0ZWM01DZjlOLWxGWWRVNS1OWEVzdUpSZjlPdU5BSm9OYnIxajhxTXNDSjdBM0NXLUhOQW9hUHZvdDBSMG5UZUtDdzI1UGRMY1JZVjlPam9zdGhlclhwUlNVdGs?oc=5",
    "pub": "Sun, 16 Aug 2026 15:15:00 GMT"
   },
   {
-   "t": "Iran fordert Zugang zu vermissten Piloten – Katar weist Vorwürfe zurück - berliner-zeitung.de",
+   "t": "Kalkül im Iran-Krieg: USA dominieren, doch Teheran hat einen Trumpf, den Donald Trump nicht brechen kann - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHlhb2dsX1Ffd0xyZTN3SFRFNm1rdDlHTkdPWG4yc0NaV2k0U0psN2VhQ3BWYk9hYmNrSGllei02X1dSaWNHRUIzb3pFVXR1M3JiWHVrYi1PZDJXbmhQUU8wVjdabVJFRW5MUF9JSll5T2NaTTZ5bWZMNGxDRjZQVGo4eWtETW1HSXF1OWdlSFc5ZGJBWDI1R0JPYjBRN09SMmNrVHM1MHA3c1VlUDZ2aGwwdnZmUGZOTWNr?oc=5",
+   "pub": "Sun, 16 Aug 2026 14:19:52 GMT"
+  },
+  {
+   "t": "Iran fordert Zugang zu vermissten Piloten – Katar weist Vorwürfe zurück - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWE8zMzdSLUxNeXZFOUg3RTdIcURERGFZY3RhYkkxWDhTNjJFOWNuSU5sNDhQZndwT0JJdzI3ekJIMWpCamhIVUdSR3pwUFh2SHJDbU01Vnh0OHBNTnI2WGo2bU0xNXpfZEo1SzQ4MEpUd0RPTTdxLVl3OXRacktsV1J4azN1VzFkcEY2LWgtOEVkZjlGRnp2Vi0ydk4welZiblgwYnJaSndEVUw5UGU0dHRlRTVTaVVUb01iTA?oc=5",
    "pub": "Sun, 16 Aug 2026 13:35:54 GMT"
   },
@@ -94,7 +94,7 @@
    "pub": "Sun, 16 Aug 2026 17:32:11 GMT"
   },
   {
-   "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - spiegel.de",
+   "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2g4RV95MWQtSE0wM3JMdzdrNzlSOWltQ2NVUVBUd19BWkREYzZFa2EtdkxxQzdNTXdwalJ6MDhrRTdGdkhLdmxwUHczbEVJOUNRcVp4bXloUGRqZ2tEUkh0MmNwOENuaVprdkRxTVBFcm1wMHNsVjF3Nk1rSUVjYy1fNDRQZXJHcUg5Zms0X3p0cGVIM0ZEX1ZCUHUtUXZwV2dObEo0QXpIMEVDb3pLWVFuNG9sbnFLNUpjazhrVXBwa2dVbnJLSGtYeDRqMlVUZmRrSTFR?oc=5",
    "pub": "Sun, 16 Aug 2026 13:23:00 GMT"
   },
