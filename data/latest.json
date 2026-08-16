@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-16T11:34:39Z",
+ "collected_at": "2026-08-16T13:01:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": 0.01
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
    "price": 159.305,
@@ -24,7 +24,7 @@
   },
   "GBPCHF": {
    "price": 1.1003,
-   "chg1d_pct": 0.2
+   "chg1d_pct": 0.25
   },
   "WTI": {
    "price": 82.4,
@@ -49,9 +49,9 @@
  },
  "headlines": [
   {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
-   "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
+   "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejQ3d3lNd2ctbnpWZ3lvdVc2YlAyTmN2S29hNkhoQUd2Q3hGN09tdmZNSmthUURnMGdGQkhnZFJGYlpfVXRuRTQxLVFXQmZNYlVfXzNZbV90MVY3SnpLUlA1M01ha1E2Y1JZdVcyLVRJQlRaMWJfTm5NdVNDUWpuN3BWQUJMUzJSakw4WGNDa3FNTjd2VnhxdS1zRWh6Y2szX2R5aHNBOFBCYlBUVHI3VzVYUmJ5VWVheG5XNnppX0Vnd3VUWTN0TA?oc=5",
+   "pub": "Sun, 16 Aug 2026 10:44:00 GMT"
   },
   {
    "t": "Iran: Nach den Januar-Protesten lässt Teheran erneut einen Mann hinrichten - WELT",
@@ -59,14 +59,14 @@
    "pub": "Sun, 16 Aug 2026 08:08:21 GMT"
   },
   {
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
+   "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
+  },
+  {
    "t": "Hinrichtung im Iran: Iran richtet Mann wegen angeblicher Spionage für Israel und USA hin - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm9MZWlaRHZUa3lBcWNaRk9peTVOR1NyTDFEUkJGSVFtOFJsbHdUSkl2VVJJb1lTaFNQM1l6bWlOU2hRZ1dEUVQzcnNsdXJydURZT1Z6ZnBLdGtvWlhCUFI4S25NX0wzbFNJNGlHYVEzdEtFb0xkVGE1dG5HV1NPOGF1aXFyUS1fbklZTTRGRnZWd092bTRvYzRaMUxja0RnQVE?oc=5",
    "pub": "Sun, 16 Aug 2026 08:09:52 GMT"
-  },
-  {
-   "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejQ3d3lNd2ctbnpWZ3lvdVc2YlAyTmN2S29hNkhoQUd2Q3hGN09tdmZNSmthUURnMGdGQkhnZFJGYlpfVXRuRTQxLVFXQmZNYlVfXzNZbV90MVY3SnpLUlA1M01ha1E2Y1JZdVcyLVRJQlRaMWJfTm5NdVNDUWpuN3BWQUJMUzJSakw4WGNDa3FNTjd2VnhxdS1zRWh6Y2szX2R5aHNBOFBCYlBUVHI3VzVYUmJ5VWVheG5XNnppX0Vnd3VUWTN0TA?oc=5",
-   "pub": "Sun, 16 Aug 2026 10:44:00 GMT"
   },
   {
    "t": "Iran-Krieg aktuell: Trump will Straße von Hormus zu US-Territorium machen – Teheran kontert - Frankfurter Rundschau",
@@ -77,6 +77,11 @@
    "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
    "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
+  },
+  {
+   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
+   "pub": "Sun, 16 Aug 2026 06:34:15 GMT"
   },
   {
    "t": "Iran richtet Mann wegen angeblicher Israel-Spionage hin - WEB.DE",
@@ -94,19 +99,14 @@
    "pub": "Sun, 16 Aug 2026 10:36:50 GMT"
   },
   {
-   "t": "Iran-USA-Abkommen: Frist verstreicht – Naher Osten vor ungewisser Zukunft - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3BVNmpHSElEVm15aWpLbTgwSTBqNTNHZG42RnZ4Vy1oaHpRUTNfblBPRGhxN0xRdDJLZHlzeGx4LVZWbjU3WXhhR2wxdml1YkY1bk9xeVR5LUMzMVVDa2xQVUR3NkRSaDVHcDgwT1JlZFh2SVpiR1BsTjZ1S0hrb01fdGdKckxybmkwSVBuUGpaX3FQQVlYay1Cb2xpR19FZ2VfaER0OFdRVmhTUml2b0o0aWt5bWRqM2w1MXNHU1ZpUTJRejhaMERRV0ZtVTdMdm1mNkFLZw?oc=5",
+   "t": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaC13WEdjSC1IZEMwdExGYUZXNlpoRURNbGNiUzlxN2tsdm03dWhMTzhpdXZJcC1MMmJPcXBsNElMWFBxSnlyaHYyMjV2b1FVLVk3Q2Vfc0w5SHJzLVMteDRqX0VVNFJOUjY1emhXUTJEd3pIUzZJaXFmNHBPRUZ2aUVUQllNRnVqbHBYX2t1bTBhaXdSalBQTjNYNkk5NFNfaW5fa3k1QUdEdklHMTV1RUlCTmxGdWtjdDdTRTA2czJTOUx2UzF6QkUtU2tjYWhvd1BnZzV1Y3Nudk9pNXc?oc=5",
    "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
   },
   {
    "t": "Iran setzt Kopfgeld auf US-Soldaten aus - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGNpZFV3VEFmOXBPbXlRZGwyYl9YSGs4eDJIVFFzaURZa3VoWEJpNVJNdG5nN2twaGhlbnQ4dkNaNE0xTGtqQWE0bExCX0NmNmZzTkpkSU9SbUNIYWNnYU9pb2JsM1A4Um0wTzc3RXkyRGVNTVYwNkp2TnBwT3hmUkg3cUFDQTcz?oc=5",
    "pub": "Sun, 16 Aug 2026 10:40:13 GMT"
-  },
-  {
-   "t": "Frauen kriegen höhere Belohnung: Iran wirbt mit Kopfgeld für Tötung von US-Soldaten - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaWRtS3RsZ2tHWjJoWFhCS0dtTlN4MlFzZFRSdW4tTXQxTDBwR05qZHA3LS04Z216TmVHZjJrR3BnMmhYNmdmcldva3pRQTV0WTNnejN0REhIbWt4cjZNM0ZwZ2EzUEFVOW43ZlJqLWpnUWxDaXY4M294V2RLa0QyQUwtYzZCd3FlVENlTGFSMGtRNkNkblR3YjlNRXE?oc=5",
-   "pub": "Sun, 16 Aug 2026 11:15:13 GMT"
   }
  ]
 }
