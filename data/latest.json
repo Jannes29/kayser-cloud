@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-16T04:01:50Z",
+ "collected_at": "2026-08-16T04:50:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": 0.01
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
    "price": 159.305,
@@ -20,7 +20,7 @@
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.37
+   "chg1d_pct": 0.33
   },
   "GBPCHF": {
    "price": 1.1003,
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - deutschlandfunk.de",
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
   },
@@ -74,24 +74,29 @@
    "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
   },
   {
-   "t": "USA: Trump will Straße von Hormus annektieren – „Aus dem Iran eher ein müdes Lächeln als Reaktion“ - Video - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMWM0WmxNekhucUFxZkNabkNkcG1URmN6TGRnejBoVmh0TkVtNkdETXdpMmZzOHlPblJ6R1ZIR3RDUXFTNDhzRzhZRmswYWJzSl9rRm56VWxzbnZwRE44VmxxV0pxMnhQY2c4bXZSbFlrTnc4bnNYVF9FdU9hU0x6YXRER3BkRUY1SUF5aFczM2NIamtXOVl6akFUclVER29NMmt5MEtFWC1lM3MyZ3FHQjRGWjhsTTgwQjdtQjdBRnhXaFkxNFNZVmY0RE5ITXJRbHFScHkyNkhjUmdXaW40ZjNBMV9BT2c3N2xSak1USW1ncTkyb1VrbE91bw?oc=5",
-   "pub": "Sat, 15 Aug 2026 10:02:25 GMT"
-  },
-  {
    "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
    "pub": "Sat, 15 Aug 2026 21:28:23 GMT"
   },
   {
-   "t": "Iran beklagt Inhaftierung von drei Kampfpiloten in Katar – Golfstaat irritiert - web.de",
+   "t": "USA: Trump will Straße von Hormus annektieren – „Aus dem Iran eher ein müdes Lächeln als Reaktion“ - Video - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMWM0WmxNekhucUFxZkNabkNkcG1URmN6TGRnejBoVmh0TkVtNkdETXdpMmZzOHlPblJ6R1ZIR3RDUXFTNDhzRzhZRmswYWJzSl9rRm56VWxzbnZwRE44VmxxV0pxMnhQY2c4bXZSbFlrTnc4bnNYVF9FdU9hU0x6YXRER3BkRUY1SUF5aFczM2NIamtXOVl6akFUclVER29NMmt5MEtFWC1lM3MyZ3FHQjRGWjhsTTgwQjdtQjdBRnhXaFkxNFNZVmY0RE5ITXJRbHFScHkyNkhjUmdXaW40ZjNBMV9BT2c3N2xSak1USW1ncTkyb1VrbE91bw?oc=5",
+   "pub": "Sat, 15 Aug 2026 10:02:25 GMT"
+  },
+  {
+   "t": "Iran beklagt Inhaftierung von drei Kampfpiloten in Katar – Golfstaat irritiert - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1V0TTlrS2I5bFdocjB2OEdfUW9ic28tUFB4YzgwY0NHd2Ntbm1OdU4yQnJOWmdZeEpvc0otNlQ3RzZ4TjhIblZPazRRNkpmblNFU3RFUDhtWm1hLUxReFlqMDZ4dGVuREo0VlBWSGRQRWJWY0czTzAxUEozckdPZUloSFpKc1IxaVc3U0cxLVotRzF2cVlpQ3BWLU9BNzY1UzFDY3A0ZVZTazdGM0RkODZwUUpwMHZINzdMSw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:30:09 GMT"
   },
   {
-   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - deutschlandfunk.de",
+   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
    "pub": "Sat, 15 Aug 2026 23:29:24 GMT"
+  },
+  {
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGlUVHZwMmVjdVBCMnVLZU00c1RLbEpXUjQ0VnVaX3pvUDhRMDJzX0VPVlZGd082U1NmbFAzMUg0YTFwZEZ1MzhEaVZCRG1rMTlsc2d5RjF3X2RBcHpkYVlqUDJUMURzdUp6V2x5YkNhcWtiaEdfdDhoRVNlS1l2SFNkM1hoV1c0Z2ZQLW9EYXROTlhLVnRXX0JiazdwWFV2LUZVYnFJaVVSUjJTRUtIMzRDX2FuMGJMMEpwSmhySG1qajBNbkowZWZlOXEyaFU?oc=5",
+   "pub": "Sun, 16 Aug 2026 03:15:25 GMT"
   },
   {
    "t": "Auch Oman betroffen: Iran kämpft gegen Ölverschmutzung im Küstengebiet - n-tv.de",
@@ -102,11 +107,6 @@
    "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
    "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGlUVHZwMmVjdVBCMnVLZU00c1RLbEpXUjQ0VnVaX3pvUDhRMDJzX0VPVlZGd082U1NmbFAzMUg0YTFwZEZ1MzhEaVZCRG1rMTlsc2d5RjF3X2RBcHpkYVlqUDJUMURzdUp6V2x5YkNhcWtiaEdfdDhoRVNlS1l2SFNkM1hoV1c0Z2ZQLW9EYXROTlhLVnRXX0JiazdwWFV2LUZVYnFJaVVSUjJTRUtIMzRDX2FuMGJMMEpwSmhySG1qajBNbkowZWZlOXEyaFU?oc=5",
-   "pub": "Sun, 16 Aug 2026 03:15:25 GMT"
   }
  ]
 }
