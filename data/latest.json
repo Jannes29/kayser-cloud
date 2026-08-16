@@ -1,10 +1,10 @@
 {
- "collected_at": "2026-08-16T07:45:52Z",
+ "collected_at": "2026-08-16T08:47:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.813,
-   "chg1d_pct": -0.14
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
    "price": 159.305,
@@ -12,19 +12,19 @@
   },
   "GBPCAD": {
    "price": 1.8777,
-   "chg1d_pct": -0.05
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
    "price": 112.879,
-   "chg1d_pct": 0.24
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
    "price": 1.1573,
-   "chg1d_pct": 0.33
+   "chg1d_pct": 0.37
   },
   "GBPCHF": {
    "price": 1.1003,
-   "chg1d_pct": 0.2
+   "chg1d_pct": 0.25
   },
   "WTI": {
    "price": 82.4,
@@ -49,64 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
-   "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
-  },
-  {
-   "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
-  },
-  {
-   "t": "Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
-   "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
-  },
-  {
-   "t": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaC13WEdjSC1IZEMwdExGYUZXNlpoRURNbGNiUzlxN2tsdm03dWhMTzhpdXZJcC1MMmJPcXBsNElMWFBxSnlyaHYyMjV2b1FVLVk3Q2Vfc0w5SHJzLVMteDRqX0VVNFJOUjY1emhXUTJEd3pIUzZJaXFmNHBPRUZ2aUVUQllNRnVqbHBYX2t1bTBhaXdSalBQTjNYNkk5NFNfaW5fa3k1QUdEdklHMTV1RUlCTmxGdWtjdDdTRTA2czJTOUx2UzF6QkUtU2tjYWhvd1BnZzV1Y3Nudk9pNXc?oc=5",
-   "pub": "Sat, 15 Aug 2026 04:00:00 GMT"
-  },
-  {
-   "t": "Trump will Straße von Hormus zu US-Territorium erklären – Mullah-Regime kontert: „Gehört dem Iran“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUoycFdsNTRZck9aWGcxa0dQWnJXbmlBLWdSd09KS3NvVUNZUkdHU1FydXBBaTJNbXNDdUNEWDhidDFjWG82NTJpakhEWWxtQTNBMURmWjZqOGY3SHNXVk92TlRXT2p6SXA1Mk5YSVhCOERuVlA4WnAxcmZxT3BlM19FZUZMNTYxVkp0dWZIR0Q3OHd3aG9lOWx6UjhUZDRsVXB1ei1ZbGNyZjhzc2lQcjlSdV9jcDA?oc=5",
-   "pub": "Sat, 15 Aug 2026 17:00:00 GMT"
-  },
-  {
-   "t": "USA drohen Iran mit historischem Wirtschaftsschlag – Öl steigt - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdIcWJfWW1melNwbmd6OG85X0xZTVNMWEVEeFlqbVVOd2tUME0xS0Q4bnBKUEhxTkV5RUpNZ0FXUTRzcmdqX2RZU0JWOUhnc1V6azhrOVZpVGdLX193enhZbWU4OGhLUG5hNzk1dGVQN1BKc0FSbEtOdTBaYWtPZmV2Nk0ybFNRQXN3TkM1dlVsMlV4YXAzX1UydDZtXzlTY0xCVUNMSEFJYnA3bGktaVdCNVRmbFprM1JIYnU0VWJzV2tHMVJF?oc=5",
-   "pub": "Sun, 16 Aug 2026 03:33:29 GMT"
-  },
-  {
-   "t": "Iran-Krise ist ungelöst – Israel meldet „Wir sind bereit“ - ESUT - Europäische Sicherheit & Technik",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45bEQtdk42bXo5U2Uxbzd4bGdYZFBxWWttUlZ2d0g0RHhWa3VmVmxBcEtsLTFybXN4UEdqdFVQdU5yb19WWUttLWIya3VZcmJJV29fUWxxcFFUUjVOMVdTYkhxaEVWUVBTU2tucG10ekJNZXNxMUVB?oc=5",
-   "pub": "Tue, 11 Aug 2026 14:11:25 GMT"
-  },
-  {
-   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
-   "pub": "Sun, 16 Aug 2026 05:26:10 GMT"
-  },
-  {
-   "t": "„Es ist jetzt unser Öltanker!“: Trump inszeniert sich im Hormus-Streit als Eroberer der Mullah-Flotte - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHBKRmJYVWRNSXNaU1VRR2pFdF9DdXl4eGhqbWlOOEtwY1dRTjVEVFhpSzQ4cW5XWE5oN2FvU1R5eTBfMUhDaXRGTl9pbUZBeDF2T3J1dlFtWTZhTGM2QlVOV0ppV3dxM2t1MjdMX3ZuSDkxQXgya2NGeUdWaWVFZHJNLWoxOGl6bFRjQ25IS3FxZm0xcjdRckM2U0ZhWktnM2kzNUNDcUc2SmdlZnpzbFd3aVhOb1pxeHdTU1NOcXFxN0JMRE1iUUMzWTF1NUpZSTJPRQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 18:27:36 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRGlUVHZwMmVjdVBCMnVLZU00c1RLbEpXUjQ0VnVaX3pvUDhRMDJzX0VPVlZGd082U1NmbFAzMUg0YTFwZEZ1MzhEaVZCRG1rMTlsc2d5RjF3X2RBcHpkYVlqUDJUMURzdUp6V2x5YkNhcWtiaEdfdDhoRVNlS1l2SFNkM1hoV1c0Z2ZQLW9EYXROTlhLVnRXX0JiazdwWFV2LUZVYnFJaVVSUjJTRUtIMzRDX2FuMGJMMEpwSmhySG1qajBNbkowZWZlOXEyaFU?oc=5",
-   "pub": "Sun, 16 Aug 2026 03:15:25 GMT"
-  },
-  {
-   "t": "(S+) Meinung: Iran: Warum der Westen aus Donald Trumps Nahost-Fiasko lernen muss - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFPVG90WjZ3bkFKZE5BVktZMGlNcUlkLUFfOUtVRzF1Y2tBTDBZUGNZTHBMWVpNRVlDb2RyaFB0aFRyMkJiMnVZTktYa2VEcUZjT3VZb1VZY2ZJZVlnbjN0YXpUMmlfelcwOEJfenN4b25CUG1TUzMwdnNFcXRhVFdnSUxvUm9qX0NicG1qWDRIRHg1S2tEa1dRUy00clVNVTVFUGR0SVUwTW9wb3RUVkhIRFFJcFFLelo1dnZOUmx2ODQxaWhr?oc=5",
-   "pub": "Wed, 12 Aug 2026 14:00:00 GMT"
-  },
-  {
-   "t": "Trump droht dem Iran: „Werde Hormus-Straße zum US-Territorium erklären“ - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnV1eS1jb25MY0hXVEx1Vll3R1VxLTVFaTBuZTJDOVBZYXp6LThfZ2lWWUNDZURFZ09wWWphR0l6Tlkzd2hfcGljS1RmQXlpeS10Q1RNMU41T1pnSmNCNDYzYUhYaXAzVXl2YlJHV3ZUV25tYm1hdW5RaGpZNEJnS1VBeE8xZ1A0OGJjQkUzR1BTT2pvSzVMdXNUbmtOTWdwU2FuOWZ5OVV6U3FVajI3YTl5YkNFOS1sSjREczh6UXRrQQ?oc=5",
-   "pub": "Sun, 16 Aug 2026 04:31:42 GMT"
+   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
   }
  ]
 }
