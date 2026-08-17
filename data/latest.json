@@ -1,67 +1,67 @@
 {
- "collected_at": "2026-08-17T19:43:17Z",
+ "collected_at": "2026-08-17T20:44:36Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8108,
-   "chg1d_pct": -0.41
+   "price": 0.8109,
+   "chg1d_pct": -0.22
   },
   "USDJPY": {
-   "price": 159.429,
-   "chg1d_pct": 0.0
+   "price": 159.473,
+   "chg1d_pct": 0.16
   },
   "GBPCAD": {
-   "price": 1.8787,
+   "price": 1.8791,
    "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 113.282,
-   "chg1d_pct": 0.6
+   "price": 113.278,
+   "chg1d_pct": 0.42
   },
   "EURUSD": {
    "price": 1.1582,
-   "chg1d_pct": 0.4
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.098,
-   "chg1d_pct": -0.01
+   "price": 1.0982,
+   "chg1d_pct": -0.24
   },
   "WTI": {
-   "price": 84.37,
-   "chg1d_pct": 2.39
+   "price": 84.91,
+   "chg1d_pct": 3.05
   },
   "BRENT": {
-   "price": 90.65,
-   "chg1d_pct": 2.41
+   "price": 91.03,
+   "chg1d_pct": 2.84
   },
   "GOLD": {
    "price": 4471.6,
    "chg1d_pct": 2.08
   },
   "SPX_FUT": {
-   "price": 7769.25,
-   "chg1d_pct": -0.46
+   "price": 7765.25,
+   "chg1d_pct": -0.51
   },
   "NAS_FUT": {
-   "price": 30096.5,
-   "chg1d_pct": -0.15
+   "price": 30071.0,
+   "chg1d_pct": -0.23
   }
  },
  "headlines": [
   {
-   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - deutschlandfunk.de",
+   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
    "pub": "Mon, 17 Aug 2026 19:18:36 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
    "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
    "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
    "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
@@ -79,17 +79,17 @@
    "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
    "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
+   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - logistik-heute.de",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
    "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
   {
-   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - web.de",
+   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
    "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
   },
@@ -99,14 +99,14 @@
    "pub": "Mon, 17 Aug 2026 08:20:40 GMT"
   },
   {
-   "t": "Iran bereitet sich auf Ausweitung des Krieges vor - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0wycDc4R1ZmZFNRdnpxZzFjUVZ1b2lQSmprd3lSXzhlUDVWYU5IaVFNbTVGZ2lqUS1weXo3MDVud2tTRnhfZ2ljR1IxWWRScVRNclM5T2N6WExCSlV2LTFkdU5vSHlET3NlanJmX3U0TzFlbi1IZzlPYUhVQ2thaUU0d0FOREs1TC0zd2NrNmxLS0tscGpGdFBn?oc=5",
-   "pub": "Mon, 17 Aug 2026 07:25:00 GMT"
+   "t": "Weltwirtschaft: Indiens Maßnahmen gegen Folgen des Iran-Kriegs - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSHdQQ2pTRGh3WEtmV3dOUGlVU2RBTnloZkNGWEV6UEhScVB3c2Ztc2YwbHdLT3R4VGF1em1Ra0ZzX09ZNUJPeC1UcVZvNngyRlhGVVFIY3l3T0sxWk9tQzdHVXJNWks3bGtHZV9DQU85aFRWaF9XS3BNSXpSZDBRRkJlcTZxVTJEZ2pJd3JiWElHb2U0bU5zd3RqaDJBVGI4QmV6RGNtektLWDVob1lTWjJvbjdwRkk?oc=5",
+   "pub": "Mon, 17 Aug 2026 15:21:05 GMT"
   },
   {
-   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - deutschlandfunk.de",
+   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
-   "pub": "Mon, 17 Aug 2026 17:44:31 GMT"
+   "pub": "Mon, 17 Aug 2026 19:48:26 GMT"
   }
  ]
 }
