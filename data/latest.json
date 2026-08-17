@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-16T23:34:07Z",
+ "collected_at": "2026-08-17T01:55:49Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8127,
-   "chg1d_pct": -0.17
+   "price": 0.8118,
+   "chg1d_pct": -0.28
   },
   "USDJPY": {
-   "price": 159.218,
-   "chg1d_pct": -0.13
+   "price": 159.07,
+   "chg1d_pct": -0.22
   },
   "GBPCAD": {
-   "price": 1.8786,
-   "chg1d_pct": -0.0
+   "price": 1.8795,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 112.832,
-   "chg1d_pct": 0.2
+   "price": 112.88,
+   "chg1d_pct": 0.24
   },
   "EURUSD": {
-   "price": 1.1578,
-   "chg1d_pct": 0.37
+   "price": 1.1586,
+   "chg1d_pct": 0.44
   },
   "GBPCHF": {
-   "price": 1.1006,
-   "chg1d_pct": 0.22
+   "price": 1.1003,
+   "chg1d_pct": 0.2
   },
   "WTI": {
-   "price": 82.47,
-   "chg1d_pct": 0.08
+   "price": 82.89,
+   "chg1d_pct": 0.59
   },
   "BRENT": {
-   "price": 88.79,
-   "chg1d_pct": 0.31
+   "price": 89.17,
+   "chg1d_pct": 0.73
   },
   "GOLD": {
-   "price": 4431.5,
-   "chg1d_pct": 1.17
+   "price": 4458.0,
+   "chg1d_pct": 1.77
   },
   "SPX_FUT": {
-   "price": 7809.75,
-   "chg1d_pct": 0.06
+   "price": 7809.0,
+   "chg1d_pct": 0.05
   },
   "NAS_FUT": {
-   "price": 30198.0,
-   "chg1d_pct": 0.19
+   "price": 30196.25,
+   "chg1d_pct": 0.18
   }
  },
  "headlines": [
   {
-   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
+   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
    "pub": "Sun, 16 Aug 2026 21:43:22 GMT"
   },
@@ -84,6 +84,11 @@
    "pub": "Sun, 16 Aug 2026 13:35:54 GMT"
   },
   {
+   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
+   "pub": "Mon, 17 Aug 2026 01:23:56 GMT"
+  },
+  {
    "t": "Hinrichtung im Iran: Iran richtet Mann wegen angeblicher Spionage für Israel und USA hin - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm9MZWlaRHZUa3lBcWNaRk9peTVOR1NyTDFEUkJGSVFtOFJsbHdUSkl2VVJJb1lTaFNQM1l6bWlOU2hRZ1dEUVQzcnNsdXJydURZT1Z6ZnBLdGtvWlhCUFI4S25NX0wzbFNJNGlHYVEzdEtFb0xkVGE1dG5HV1NPOGF1aXFyUS1fbklZTTRGRnZWd092bTRvYzRaMUxja0RnQVE?oc=5",
    "pub": "Sun, 16 Aug 2026 08:09:52 GMT"
@@ -94,19 +99,14 @@
    "pub": "Sun, 16 Aug 2026 13:23:00 GMT"
   },
   {
-   "t": "Trump will Straße von Hormus zu US-Territorium erklären – Mullah-Regime kontert: „Gehört dem Iran“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmd1a1UzWWhwRFhvbktKNm4tTGdhR2JLU1ZybXB5N3dMSVpvc1N1QTNrb1hJc2tjTlZCb0VaM0VnSjdfcTBfOURmaGZ5bjdnQlZHTGg1anEwd2IzMFhBRGx5Z1dRZE44QzI5c3QxeG5qUTloODA1dk1id0c2QUJzUTBPZk5mSDRSMDRQR05kZHFzT3dwR2tCbDdxem5wVjdESHlacm9jUHNJc05XNzZ2VldGZDRNRUU?oc=5",
-   "pub": "Sun, 16 Aug 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
   },
   {
-   "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
+   "t": "Trump will Straße von Hormus zu US-Territorium erklären – Mullah-Regime kontert: „Gehört dem Iran“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmd1a1UzWWhwRFhvbktKNm4tTGdhR2JLU1ZybXB5N3dMSVpvc1N1QTNrb1hJc2tjTlZCb0VaM0VnSjdfcTBfOURmaGZ5bjdnQlZHTGg1anEwd2IzMFhBRGx5Z1dRZE44QzI5c3QxeG5qUTloODA1dk1id0c2QUJzUTBPZk5mSDRSMDRQR05kZHFzT3dwR2tCbDdxem5wVjdESHlacm9jUHNJc05XNzZ2VldGZDRNRUU?oc=5",
+   "pub": "Sun, 16 Aug 2026 17:00:00 GMT"
   }
  ]
 }
