@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-17T08:03:52Z",
+ "collected_at": "2026-08-17T09:01:51Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8084,
-   "chg1d_pct": -0.7
+   "price": 0.8088,
+   "chg1d_pct": -0.65
   },
   "USDJPY": {
-   "price": 158.97,
-   "chg1d_pct": -0.29
+   "price": 159.139,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8789,
-   "chg1d_pct": 0.01
+   "price": 1.8782,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 113.129,
-   "chg1d_pct": 0.46
+   "price": 113.314,
+   "chg1d_pct": 0.63
   },
   "EURUSD": {
-   "price": 1.1609,
+   "price": 1.1604,
    "chg1d_pct": 0.64
   },
   "GBPCHF": {
    "price": 1.0962,
-   "chg1d_pct": -0.18
+   "chg1d_pct": -0.12
   },
   "WTI": {
-   "price": 82.15,
-   "chg1d_pct": -0.3
+   "price": 82.24,
+   "chg1d_pct": -0.19
   },
   "BRENT": {
-   "price": 88.76,
-   "chg1d_pct": 0.27
+   "price": 88.89,
+   "chg1d_pct": 0.42
   },
   "GOLD": {
-   "price": 4461.4,
-   "chg1d_pct": 1.85
+   "price": 4450.3,
+   "chg1d_pct": 1.6
   },
   "SPX_FUT": {
-   "price": 7818.75,
-   "chg1d_pct": 0.18
+   "price": 7814.0,
+   "chg1d_pct": 0.12
   },
   "NAS_FUT": {
-   "price": 30314.5,
-   "chg1d_pct": 0.57
+   "price": 30290.75,
+   "chg1d_pct": 0.49
   }
  },
  "headlines": [
   {
-   "t": "USA drohen Iran mit beispielloser Sanktionswelle - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWtRLWIzQnFIY0pPbEJvMGo0aVZxVFRRdk5wTFJLOEc4cWRMVk5mNUhFV2Jyek9lM2xVeUtxTUJPbnk2Z3M3TDJ6Z0stbzQtbC05X2wzOEM2YWJuQVV5Q0JxX1l5ay1IS1dZQmc1VEg3RWVyTkptNFZIMm8zWUFiMk5TT29ZcEtGaS1IRzFwUVRKUWlmUnpLVGZhaU1sY3JHR3FIUWlCVU5rZkQ0NklCOGZhY29RMU0zd0pYakNKWHA0ZjNHX3lWZA?oc=5",
-   "pub": "Mon, 17 Aug 2026 06:51:48 GMT"
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
+   "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
   },
   {
    "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
@@ -59,14 +59,19 @@
    "pub": "Sun, 16 Aug 2026 21:43:22 GMT"
   },
   {
+   "t": "Vereinbarung läuft aus: Was hat das Rahmenabkommen zwischen USA und Iran gebracht? - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHRZN20zekI2a0dKYlhjd0dkUWsybklaUWI0Y05pM0hYYWpOUHdveHFoM2V2ZF8teG9tcjNCSzg2RTlMRUFvUXJmaF9fMW93cjQydVZWd2pSZ0VBb2FydHBoSTE3MTNVQUlscUFBTFViWG91b1lIMlBlamEtV19adDNEQWstZWdHUzNfdlY3dDBlR0xrODRLRS1FWldRYlFLdTIw?oc=5",
+   "pub": "Mon, 17 Aug 2026 05:41:00 GMT"
+  },
+  {
    "t": "„Keinen Krieg leisten ohne Verteidigungsmittel“: Iran-Krieg leert Patriot-Bestände – der Westen wird verwundbar - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTlEV29DekRhVDlycUxpWjBRUnl4VTZ3YlNvek1nSDN2R3NyVElKUTFkSXJwakJIcWcydG1CYVNKa3VSQUJSeU9Hem5jLU5YOTRzelMtQVg3SW9kYnhtNVd0OUlhWWllLXRPZE5KMmtYVm9UX2hKMFFMekJHcnZXNVJRa3E1MndtOS0tM0JNWTBEQV9GVEYwYURReDlrTHdOT0F5ellYZGJ2eUt2czRuajN0ODZTbjJ5MUpj?oc=5",
    "pub": "Mon, 17 Aug 2026 04:21:44 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
+   "t": "Straße von Hormus fast dicht: Ölmarkt schreibt Iran-Deal ab - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEZ0WElqdlZ0RFV4RnItSEJKRU4xOFVmTUJxY081ano2aUI2RmpsV01IdXh6NC00R0c3MWtlblZqV0RPYlo0cFUwQjFDbkQwVUdOUS03R0ZaaDhTTDJ0TWswVmoxOEFwckZobFJyUTB1TnJEdm1xRUM1SkhFRHZwR1ZwdEczMDdlVGY0MXoxTjJoMXM4d1Vhc203czZMS1ZIMVVnWTJEVHlwZ1VyS2c?oc=5",
+   "pub": "Mon, 17 Aug 2026 08:20:40 GMT"
   },
   {
    "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - Spiegel",
@@ -74,14 +79,19 @@
    "pub": "Sun, 16 Aug 2026 10:44:00 GMT"
   },
   {
-   "t": "Iran bereitet sich auf Ausweitung des Krieges vor - Jüdische Allgemeine",
+   "t": "Iran bereitet sich auf Ausweitung des Krieges vor - juedische-allgemeine.de",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0wycDc4R1ZmZFNRdnpxZzFjUVZ1b2lQSmprd3lSXzhlUDVWYU5IaVFNbTVGZ2lqUS1weXo3MDVud2tTRnhfZ2ljR1IxWWRScVRNclM5T2N6WExCSlV2LTFkdU5vSHlET3NlanJmX3U0TzFlbi1IZzlPYUhVQ2thaUU0d0FOREs1TC0zd2NrNmxLS0tscGpGdFBn?oc=5",
    "pub": "Mon, 17 Aug 2026 07:25:00 GMT"
   },
   {
-   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
-   "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
+   "t": "Hormus-Schock: Fujairahs Treibstoffgeschäft bricht um 64 Prozent ein - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVE5NMENaWmk4eFB5SUJJajZ5anFBTEVJc2NkVmtxa0tIT082S0Y1ZFJJOHhMZXpaWTR5dHBwSkt6RnF4a3M0eVBvbFZ4bmFUeW9wTW4zNk1uRGRFd1FvcFJRaUdIcU02Q01PUF9qX2tzVDRxUlRuVFVDc3NoWkxuU1FCM1k3emw3ZS1rd2l4Um1uYnZDNkVhX2hEdks4djBFSWFJRTZoYVpFN3VfYnhUd2Vrb0NxOTFTWFhFVVU1T2JreUEwYWFnQXAtODRNT2loYmFTRUhsbmZsQWJr?oc=5",
+   "pub": "Mon, 17 Aug 2026 08:04:08 GMT"
+  },
+  {
+   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
+   "pub": "Mon, 17 Aug 2026 08:53:57 GMT"
   },
   {
    "t": "25.000 Euro für Tote oder Gefangene: Regime des Iran setzt Kopfgeld auf US-Soldaten aus - Tagesspiegel",
@@ -89,24 +99,14 @@
    "pub": "Sun, 16 Aug 2026 15:15:00 GMT"
   },
   {
-   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - kurier.at",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Mon, 17 Aug 2026 07:23:57 GMT"
-  },
-  {
    "t": "Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
    "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
   },
   {
-   "t": "Nikkei, Yen, Hang Seng: Asienbörsen schließen überwiegend im Plus - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc1diQnZxQ0pQRG41V2U0cVJCTEhNdllUeU51ak5EVGx5UmowN3Zyb2VwODFHeHF2SE9Eb1ZPeUdqNFZKY0dXMzkwM0NnY25ZaldseGlWdDZIbjNzZldhckExaFhRcU5jRlVVek9nWEZ6TTNoZzI0dlR1UmZtWXluTUl5eDdtSUVtV3pmY01naXlKNUcxOVVMTlRKbHUwSWdBOFBkVWZUR25HLWRNX2drZFZjVEEtN3lGdUJXYzFLbFE1TkU4Z2htYXFsQ3RZU1dRRm9vN3I1SQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 03:47:05 GMT"
-  },
-  {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
-   "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
+   "t": "USA drohen Iran mit beispielloser Sanktionswelle - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWtRLWIzQnFIY0pPbEJvMGo0aVZxVFRRdk5wTFJLOEc4cWRMVk5mNUhFV2Jyek9lM2xVeUtxTUJPbnk2Z3M3TDJ6Z0stbzQtbC05X2wzOEM2YWJuQVV5Q0JxX1l5ay1IS1dZQmc1VEg3RWVyTkptNFZIMm8zWUFiMk5TT29ZcEtGaS1IRzFwUVRKUWlmUnpLVGZhaU1sY3JHR3FIUWlCVU5rZkQ0NklCOGZhY29RMU0zd0pYakNKWHA0ZjNHX3lWZA?oc=5",
+   "pub": "Sun, 16 Aug 2026 13:04:32 GMT"
   }
  ]
 }
