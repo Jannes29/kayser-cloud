@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-17T01:55:49Z",
+ "collected_at": "2026-08-17T03:13:25Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.8118,
-   "chg1d_pct": -0.28
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
-   "price": 159.07,
+   "price": 159.076,
    "chg1d_pct": -0.22
   },
   "GBPCAD": {
-   "price": 1.8795,
-   "chg1d_pct": 0.04
+   "price": 1.8789,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 112.88,
-   "chg1d_pct": 0.24
+   "price": 112.83,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.1586,
-   "chg1d_pct": 0.44
+   "price": 1.1582,
+   "chg1d_pct": 0.45
   },
   "GBPCHF": {
-   "price": 1.1003,
-   "chg1d_pct": 0.2
+   "price": 1.0999,
+   "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 82.89,
-   "chg1d_pct": 0.59
+   "price": 82.44,
+   "chg1d_pct": 0.05
   },
   "BRENT": {
-   "price": 89.17,
-   "chg1d_pct": 0.73
+   "price": 88.87,
+   "chg1d_pct": 0.4
   },
   "GOLD": {
-   "price": 4458.0,
-   "chg1d_pct": 1.77
+   "price": 4450.6,
+   "chg1d_pct": 1.6
   },
   "SPX_FUT": {
-   "price": 7809.0,
+   "price": 7808.75,
    "chg1d_pct": 0.05
   },
   "NAS_FUT": {
-   "price": 30196.25,
-   "chg1d_pct": 0.18
+   "price": 30223.5,
+   "chg1d_pct": 0.27
   }
  },
  "headlines": [
@@ -86,7 +86,7 @@
   {
    "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Mon, 17 Aug 2026 01:23:56 GMT"
+   "pub": "Mon, 17 Aug 2026 02:53:56 GMT"
   },
   {
    "t": "Hinrichtung im Iran: Iran richtet Mann wegen angeblicher Spionage für Israel und USA hin - DIE ZEIT",
@@ -104,9 +104,9 @@
    "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
   },
   {
-   "t": "Trump will Straße von Hormus zu US-Territorium erklären – Mullah-Regime kontert: „Gehört dem Iran“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmd1a1UzWWhwRFhvbktKNm4tTGdhR2JLU1ZybXB5N3dMSVpvc1N1QTNrb1hJc2tjTlZCb0VaM0VnSjdfcTBfOURmaGZ5bjdnQlZHTGg1anEwd2IzMFhBRGx5Z1dRZE44QzI5c3QxeG5qUTloODA1dk1id0c2QUJzUTBPZk5mSDRSMDRQR05kZHFzT3dwR2tCbDdxem5wVjdESHlacm9jUHNJc05XNzZ2VldGZDRNRUU?oc=5",
-   "pub": "Sun, 16 Aug 2026 17:00:00 GMT"
+   "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
+   "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
   }
  ]
 }
