@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-17T04:04:40Z",
+ "collected_at": "2026-08-17T04:58:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.8115,
-   "chg1d_pct": -0.17
+   "chg1d_pct": -0.32
   },
   "USDJPY": {
-   "price": 159.084,
-   "chg1d_pct": -0.21
+   "price": 159.106,
+   "chg1d_pct": -0.2
   },
   "GBPCAD": {
-   "price": 1.8787,
-   "chg1d_pct": -0.14
+   "price": 1.8786,
+   "chg1d_pct": -0.0
   },
   "AUDJPY": {
-   "price": 112.953,
-   "chg1d_pct": 0.39
+   "price": 113.0,
+   "chg1d_pct": 0.35
   },
   "EURUSD": {
    "price": 1.1587,
-   "chg1d_pct": 0.49
+   "chg1d_pct": 0.45
   },
   "GBPCHF": {
-   "price": 1.0996,
-   "chg1d_pct": 0.19
+   "price": 1.0997,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 82.32,
-   "chg1d_pct": 1.32
+   "price": 82.19,
+   "chg1d_pct": -0.25
   },
   "BRENT": {
-   "price": 88.76,
-   "chg1d_pct": 1.94
+   "price": 88.67,
+   "chg1d_pct": 0.17
   },
   "GOLD": {
-   "price": 4451.8,
-   "chg1d_pct": 2.02
+   "price": 4453.9,
+   "chg1d_pct": 1.68
   },
   "SPX_FUT": {
-   "price": 7812.25,
-   "chg1d_pct": -0.13
+   "price": 7812.75,
+   "chg1d_pct": 0.1
   },
   "NAS_FUT": {
-   "price": 30245.0,
-   "chg1d_pct": 0.19
+   "price": 30242.75,
+   "chg1d_pct": 0.34
   }
  },
  "headlines": [
   {
-   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - deutschlandfunk.de",
+   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
    "pub": "Sun, 16 Aug 2026 21:43:22 GMT"
   },
@@ -64,14 +64,14 @@
    "pub": "Sun, 16 Aug 2026 13:04:32 GMT"
   },
   {
-   "t": "Iran: Nach den Januar-Protesten lässt Teheran erneut einen Mann hinrichten - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU2FXbkNwWXdSaW1JSXdWUW8xMGZWNktIeGNpcFhMQmtqalJoT29YVjl0VVd1N3FCUjRQeklyOEkxYzVnQlVRR3NfZmoxVl9yX1FvSnF6aFVuVkEyNWVUTXhVaHdLSE95cUY5VS1ZLThVZkxxMk5obFdMb1ZIRUlBRmhjMGUtNm9wSFRpbEY4eHZqTFpSZ1VVOXZ5a0k2NXBnZENFRHoxYTR0SllJNEY0VGhmTHZMSkxabzJxRWZORUNUeW9abHppZXBnY3otejdrOTViMVpkVDVuOE5hcjRJdA?oc=5",
-   "pub": "Sun, 16 Aug 2026 08:08:21 GMT"
-  },
-  {
    "t": "25.000 Euro für Tote oder Gefangene: Regime des Iran setzt Kopfgeld auf US-Soldaten aus - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHR5MVVqMUtiUWVQRldCQjBncjFWeEhxVnRyVVJCSzZaYzg3ZnNGdG81azNCWFNpSDktNjVVNHVwR0lXY1JjU3N0TUNhNzFMZVBfRE9LbVpKSDZXOWJTZTZVMDdPeTE5cUNVTzFNWUcyWWlZdHZPQm9QaXdtOVZfY0ZWM01DZjlOLWxGWWRVNS1OWEVzdUpSZjlPdU5BSm9OYnIxajhxTXNDSjdBM0NXLUhOQW9hUHZvdDBSMG5UZUtDdzI1UGRMY1JZVjlPam9zdGhlclhwUlNVdGs?oc=5",
    "pub": "Sun, 16 Aug 2026 15:15:00 GMT"
+  },
+  {
+   "t": "Iran: Nach den Januar-Protesten lässt Teheran erneut einen Mann hinrichten - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU2FXbkNwWXdSaW1JSXdWUW8xMGZWNktIeGNpcFhMQmtqalJoT29YVjl0VVd1N3FCUjRQeklyOEkxYzVnQlVRR3NfZmoxVl9yX1FvSnF6aFVuVkEyNWVUTXhVaHdLSE95cUY5VS1ZLThVZkxxMk5obFdMb1ZIRUlBRmhjMGUtNm9wSFRpbEY4eHZqTFpSZ1VVOXZ5a0k2NXBnZENFRHoxYTR0SllJNEY0VGhmTHZMSkxabzJxRWZORUNUeW9abHppZXBnY3otejdrOTViMVpkVDVuOE5hcjRJdA?oc=5",
+   "pub": "Sun, 16 Aug 2026 08:08:21 GMT"
   },
   {
    "t": "Kalkül im Iran-Krieg: USA dominieren, doch Teheran hat einen Trumpf, den Donald Trump nicht brechen kann - Frankfurter Rundschau",
@@ -86,15 +86,10 @@
   {
    "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Mon, 17 Aug 2026 02:53:56 GMT"
+   "pub": "Mon, 17 Aug 2026 04:23:56 GMT"
   },
   {
-   "t": "Hinrichtung im Iran: Iran richtet Mann wegen angeblicher Spionage für Israel und USA hin - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVm9MZWlaRHZUa3lBcWNaRk9peTVOR1NyTDFEUkJGSVFtOFJsbHdUSkl2VVJJb1lTaFNQM1l6bWlOU2hRZ1dEUVQzcnNsdXJydURZT1Z6ZnBLdGtvWlhCUFI4S25NX0wzbFNJNGlHYVEzdEtFb0xkVGE1dG5HV1NPOGF1aXFyUS1fbklZTTRGRnZWd092bTRvYzRaMUxja0RnQVE?oc=5",
-   "pub": "Sun, 16 Aug 2026 08:09:52 GMT"
-  },
-  {
-   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - deutschlandfunk.de",
+   "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTFiN3B1YlExLUxHOTVHRWlNT25QWlJRUjJEa25GRVZhWDV0eTVnRlZveFhCaGJMZ1hfOFcwa2hMNE9zbUZwLWdRd3FCbVo0UWFoeDJIUWZJT0hmemgyODJpVTFuRWppMFJKbW1Eb2tTUHpMeEVNQmFKLWdWSU5XM0Q3U0gyaWp5NHd2OWFRa2FUT2Yza2FQbVp6aw?oc=5",
    "pub": "Sat, 15 Aug 2026 21:29:34 GMT"
   },
@@ -107,6 +102,11 @@
    "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
    "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
+  },
+  {
+   "t": "„Keinen Krieg leisten ohne Verteidigungsmittel“: Iran-Krieg leert Patriot-Bestände – der Westen wird verwundbar - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTlEV29DekRhVDlycUxpWjBRUnl4VTZ3YlNvek1nSDN2R3NyVElKUTFkSXJwakJIcWcydG1CYVNKa3VSQUJSeU9Hem5jLU5YOTRzelMtQVg3SW9kYnhtNVd0OUlhWWllLXRPZE5KMmtYVm9UX2hKMFFMekJHcnZXNVJRa3E1MndtOS0tM0JNWTBEQV9GVEYwYURReDlrTHdOT0F5ellYZGJ2eUt2czRuajN0ODZTbjJ5MUpj?oc=5",
+   "pub": "Mon, 17 Aug 2026 04:21:44 GMT"
   }
  ]
 }
