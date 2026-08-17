@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-17T17:46:42Z",
+ "collected_at": "2026-08-17T18:58:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8111,
-   "chg1d_pct": -0.37
+   "price": 0.8115,
+   "chg1d_pct": -0.32
   },
   "USDJPY": {
-   "price": 159.453,
-   "chg1d_pct": 0.02
+   "price": 159.581,
+   "chg1d_pct": 0.1
   },
   "GBPCAD": {
-   "price": 1.879,
-   "chg1d_pct": 0.02
+   "price": 1.8783,
+   "chg1d_pct": -0.02
   },
   "AUDJPY": {
-   "price": 113.295,
-   "chg1d_pct": 0.61
+   "price": 113.329,
+   "chg1d_pct": 0.64
   },
   "EURUSD": {
-   "price": 1.1583,
-   "chg1d_pct": 0.41
+   "price": 1.1577,
+   "chg1d_pct": 0.36
   },
   "GBPCHF": {
-   "price": 1.0987,
-   "chg1d_pct": 0.05
+   "price": 1.0986,
+   "chg1d_pct": 0.04
   },
   "WTI": {
-   "price": 84.3,
-   "chg1d_pct": 2.31
+   "price": 84.27,
+   "chg1d_pct": 2.27
   },
   "BRENT": {
-   "price": 90.68,
-   "chg1d_pct": 2.44
+   "price": 90.58,
+   "chg1d_pct": 2.33
   },
   "GOLD": {
-   "price": 4473.4,
-   "chg1d_pct": 2.12
+   "price": 4459.1,
+   "chg1d_pct": 1.8
   },
   "SPX_FUT": {
-   "price": 7775.0,
-   "chg1d_pct": -0.38
+   "price": 7777.0,
+   "chg1d_pct": -0.36
   },
   "NAS_FUT": {
-   "price": 30104.25,
-   "chg1d_pct": -0.12
+   "price": 30117.25,
+   "chg1d_pct": -0.08
   }
  },
  "headlines": [
@@ -64,6 +64,11 @@
    "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
   },
   {
+   "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
+  },
+  {
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
    "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
@@ -74,7 +79,12 @@
    "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - logistik-heute.de",
+   "t": "Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUVXMTNDZmVHekIxX1JSRHgtRzRrNDBlYUdZMmFGaTY1eHdPc0F6QnZpY3Awa3RjV0ItX1kwbFVuc0xHNThsNXZ4azUteTNqQ1Z6bUNlR3RxZVZDNkVaeHhSN2FQeTV1aDVEWmFBUXN4SUJsVEdLM1B1ZFJfZFh3QVZPMkZyb0E2a2ZzeVhnaWttS0NTaTM5cFdWWEhqR25CNFladFdOZ3UyejlkamVtS1ZqREgxUkFtaUc4RU9ObWg0aWJ5?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:21:54 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
    "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
@@ -82,16 +92,6 @@
    "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
    "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
-  },
-  {
-   "t": "Hormus-Krise eskaliert: Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUVXMTNDZmVHekIxX1JSRHgtRzRrNDBlYUdZMmFGaTY1eHdPc0F6QnZpY3Awa3RjV0ItX1kwbFVuc0xHNThsNXZ4azUteTNqQ1Z6bUNlR3RxZVZDNkVaeHhSN2FQeTV1aDVEWmFBUXN4SUJsVEdLM1B1ZFJfZFh3QVZPMkZyb0E2a2ZzeVhnaWttS0NTaTM5cFdWWEhqR25CNFladFdOZ3UyejlkamVtS1ZqREgxUkFtaUc4RU9ObWg0aWJ5?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:21:54 GMT"
-  },
-  {
-   "t": "„Werden sie in Grund und Boden bombardieren“: Trump droht dem Verbündetem Oman - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQXy11eFBQdjhXZjZXVVlhTU0xdjdqS0tRUG03UjgtV3kyblUzLTNPSUdiZ2R6UF9XWGpseldxSGJFdnJVODc5VS10bE5yNVhwNUc3dW16cVlkRmFTcDJmUExhTl9DV1NCbVE2SFdOTzMwNlB3ajVqVi02aWdwNjVkR2pkT19nRHZfc2lMS2dfQXRXLW9VUnJ0dGFJdVdQVTRWbVpfVC02VTRnaFVlRXFsSUUyd19BcHl5S3dIR3FldThFZzFOTkxvU3pIcnpTYnI3Q25MRldjemdCZWh1N0hlRUln?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:32:12 GMT"
   },
   {
    "t": "Straße von Hormus fast dicht: Ölmarkt schreibt Iran-Deal ab - Berliner Zeitung",
@@ -104,9 +104,9 @@
    "pub": "Mon, 17 Aug 2026 07:25:00 GMT"
   },
   {
-   "t": "(S+) Iran: Eine frühere US-Geheimdienstmitarbeiterin preist das iranische Regime. Dann verschwindet sie - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ2xhbVlRUWVlX2dfb04yM1hsZXRSaVZwcFJtZmJfRmc1WGpUVXJJNjRFamlvdVRTczYtU0hoejNvV2cxUEFnOWE1ay03TTdYMWhXdXR2dlh3REhVTWNQWXdMYWl3TTJsaDlSOVc5V0tTdEJGWl9RZXBQVFdyLWxPajBMcE1UMmlaVTk4aVFHNEZoVFRpTk5OTzZhWVA1WlhxM2JBTk52R3FlUVZxc0ZKNy1FOGgzUmwxbklLU1VKVF9wSnotWHlaU0d4dXgwdmU0UlB3TWgxZTUyTGFNbm9ybWFwbEJnaU8tWUFHV1hPLU9YRklFVzVBSURnYw?oc=5",
-   "pub": "Mon, 17 Aug 2026 14:31:00 GMT"
+   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
+   "pub": "Mon, 17 Aug 2026 17:44:31 GMT"
   }
  ]
 }
