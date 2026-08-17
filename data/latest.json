@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-17T09:01:51Z",
+ "collected_at": "2026-08-17T09:58:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8088,
-   "chg1d_pct": -0.65
+   "price": 0.8096,
+   "chg1d_pct": -0.56
   },
   "USDJPY": {
-   "price": 159.139,
-   "chg1d_pct": -0.18
-  },
-  "GBPCAD": {
-   "price": 1.8782,
+   "price": 159.177,
    "chg1d_pct": -0.16
   },
+  "GBPCAD": {
+   "price": 1.8786,
+   "chg1d_pct": -0.0
+  },
   "AUDJPY": {
-   "price": 113.314,
-   "chg1d_pct": 0.63
+   "price": 113.43,
+   "chg1d_pct": 0.82
   },
   "EURUSD": {
-   "price": 1.1604,
-   "chg1d_pct": 0.64
+   "price": 1.16,
+   "chg1d_pct": 0.56
   },
   "GBPCHF": {
-   "price": 1.0962,
-   "chg1d_pct": -0.12
+   "price": 1.0977,
+   "chg1d_pct": -0.04
   },
   "WTI": {
-   "price": 82.24,
-   "chg1d_pct": -0.19
+   "price": 82.82,
+   "chg1d_pct": 0.51
   },
   "BRENT": {
-   "price": 88.89,
-   "chg1d_pct": 0.42
+   "price": 89.41,
+   "chg1d_pct": 1.01
   },
   "GOLD": {
-   "price": 4450.3,
+   "price": 4450.7,
    "chg1d_pct": 1.6
   },
   "SPX_FUT": {
-   "price": 7814.0,
-   "chg1d_pct": 0.12
+   "price": 7815.5,
+   "chg1d_pct": 0.13
   },
   "NAS_FUT": {
-   "price": 30290.75,
-   "chg1d_pct": 0.49
+   "price": 30283.5,
+   "chg1d_pct": 0.47
   }
  },
  "headlines": [
@@ -54,19 +54,19 @@
    "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
   },
   {
-   "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
-   "pub": "Sun, 16 Aug 2026 21:43:22 GMT"
+   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
+   "pub": "Mon, 17 Aug 2026 08:22:32 GMT"
   },
   {
-   "t": "Vereinbarung läuft aus: Was hat das Rahmenabkommen zwischen USA und Iran gebracht? - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHRZN20zekI2a0dKYlhjd0dkUWsybklaUWI0Y05pM0hYYWpOUHdveHFoM2V2ZF8teG9tcjNCSzg2RTlMRUFvUXJmaF9fMW93cjQydVZWd2pSZ0VBb2FydHBoSTE3MTNVQUlscUFBTFViWG91b1lIMlBlamEtV19adDNEQWstZWdHUzNfdlY3dDBlR0xrODRLRS1FWldRYlFLdTIw?oc=5",
-   "pub": "Mon, 17 Aug 2026 05:41:00 GMT"
+   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
+   "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
   },
   {
-   "t": "„Keinen Krieg leisten ohne Verteidigungsmittel“: Iran-Krieg leert Patriot-Bestände – der Westen wird verwundbar - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTlEV29DekRhVDlycUxpWjBRUnl4VTZ3YlNvek1nSDN2R3NyVElKUTFkSXJwakJIcWcydG1CYVNKa3VSQUJSeU9Hem5jLU5YOTRzelMtQVg3SW9kYnhtNVd0OUlhWWllLXRPZE5KMmtYVm9UX2hKMFFMekJHcnZXNVJRa3E1MndtOS0tM0JNWTBEQV9GVEYwYURReDlrTHdOT0F5ellYZGJ2eUt2czRuajN0ODZTbjJ5MUpj?oc=5",
-   "pub": "Mon, 17 Aug 2026 04:21:44 GMT"
+   "t": "„Werde mich niemals entschuldigen“: Trump lässt Amerikaner für seinen Iran-Krieg an der Zapfsäule zahlen - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjlPZm9BYUhkS3dZLWhpUFZ6M3hkWXN5STM4dVBkTEktR05Gd0pxUHhOcVc4S000SDV1Mnpyd0hYVU45UmJsMDctRnJheHRpLWRsU1RvV1J5ajRZTzZpUGFYTUpRQi1GMmQ4VWRtTVhZNzd0a2tPZktDQkI5MUJmQnlpRzdqT0xIRjVNT3ZvX2JDeUg5M0d0aVl3ZUduclBOWHJoemFn?oc=5",
+   "pub": "Mon, 17 Aug 2026 09:26:31 GMT"
   },
   {
    "t": "Straße von Hormus fast dicht: Ölmarkt schreibt Iran-Deal ab - Berliner Zeitung",
@@ -74,12 +74,22 @@
    "pub": "Mon, 17 Aug 2026 08:20:40 GMT"
   },
   {
+   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
+   "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
+  },
+  {
+   "t": "USA drohen Iran mit beispielloser Sanktionswelle - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWtRLWIzQnFIY0pPbEJvMGo0aVZxVFRRdk5wTFJLOEc4cWRMVk5mNUhFV2Jyek9lM2xVeUtxTUJPbnk2Z3M3TDJ6Z0stbzQtbC05X2wzOEM2YWJuQVV5Q0JxX1l5ay1IS1dZQmc1VEg3RWVyTkptNFZIMm8zWUFiMk5TT29ZcEtGaS1IRzFwUVRKUWlmUnpLVGZhaU1sY3JHR3FIUWlCVU5rZkQ0NklCOGZhY29RMU0zd0pYakNKWHA0ZjNHX3lWZA?oc=5",
+   "pub": "Sun, 16 Aug 2026 13:04:32 GMT"
+  },
+  {
    "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejQ3d3lNd2ctbnpWZ3lvdVc2YlAyTmN2S29hNkhoQUd2Q3hGN09tdmZNSmthUURnMGdGQkhnZFJGYlpfVXRuRTQxLVFXQmZNYlVfXzNZbV90MVY3SnpLUlA1M01ha1E2Y1JZdVcyLVRJQlRaMWJfTm5NdVNDUWpuN3BWQUJMUzJSakw4WGNDa3FNTjd2VnhxdS1zRWh6Y2szX2R5aHNBOFBCYlBUVHI3VzVYUmJ5VWVheG5XNnppX0Vnd3VUWTN0TA?oc=5",
    "pub": "Sun, 16 Aug 2026 10:44:00 GMT"
   },
   {
-   "t": "Iran bereitet sich auf Ausweitung des Krieges vor - juedische-allgemeine.de",
+   "t": "Iran bereitet sich auf Ausweitung des Krieges vor - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0wycDc4R1ZmZFNRdnpxZzFjUVZ1b2lQSmprd3lSXzhlUDVWYU5IaVFNbTVGZ2lqUS1weXo3MDVud2tTRnhfZ2ljR1IxWWRScVRNclM5T2N6WExCSlV2LTFkdU5vSHlET3NlanJmX3U0TzFlbi1IZzlPYUhVQ2thaUU0d0FOREs1TC0zd2NrNmxLS0tscGpGdFBn?oc=5",
    "pub": "Mon, 17 Aug 2026 07:25:00 GMT"
   },
@@ -89,24 +99,14 @@
    "pub": "Mon, 17 Aug 2026 08:04:08 GMT"
   },
   {
-   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Mon, 17 Aug 2026 08:53:57 GMT"
-  },
-  {
    "t": "25.000 Euro für Tote oder Gefangene: Regime des Iran setzt Kopfgeld auf US-Soldaten aus - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdHR5MVVqMUtiUWVQRldCQjBncjFWeEhxVnRyVVJCSzZaYzg3ZnNGdG81azNCWFNpSDktNjVVNHVwR0lXY1JjU3N0TUNhNzFMZVBfRE9LbVpKSDZXOWJTZTZVMDdPeTE5cUNVTzFNWUcyWWlZdHZPQm9QaXdtOVZfY0ZWM01DZjlOLWxGWWRVNS1OWEVzdUpSZjlPdU5BSm9OYnIxajhxTXNDSjdBM0NXLUhOQW9hUHZvdDBSMG5UZUtDdzI1UGRMY1JZVjlPam9zdGhlclhwUlNVdGs?oc=5",
    "pub": "Sun, 16 Aug 2026 15:15:00 GMT"
   },
   {
-   "t": "Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
-   "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
-  },
-  {
-   "t": "USA drohen Iran mit beispielloser Sanktionswelle - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWWtRLWIzQnFIY0pPbEJvMGo0aVZxVFRRdk5wTFJLOEc4cWRMVk5mNUhFV2Jyek9lM2xVeUtxTUJPbnk2Z3M3TDJ6Z0stbzQtbC05X2wzOEM2YWJuQVV5Q0JxX1l5ay1IS1dZQmc1VEg3RWVyTkptNFZIMm8zWUFiMk5TT29ZcEtGaS1IRzFwUVRKUWlmUnpLVGZhaU1sY3JHR3FIUWlCVU5rZkQ0NklCOGZhY29RMU0zd0pYakNKWHA0ZjNHX3lWZA?oc=5",
-   "pub": "Sun, 16 Aug 2026 13:04:32 GMT"
+   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
+   "pub": "Mon, 17 Aug 2026 08:53:57 GMT"
   }
  ]
 }
