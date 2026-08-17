@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-17T16:46:22Z",
+ "collected_at": "2026-08-17T17:46:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8099,
-   "chg1d_pct": -0.52
+   "price": 0.8111,
+   "chg1d_pct": -0.37
   },
   "USDJPY": {
-   "price": 159.364,
-   "chg1d_pct": -0.04
+   "price": 159.453,
+   "chg1d_pct": 0.02
   },
   "GBPCAD": {
-   "price": 1.8806,
-   "chg1d_pct": 0.1
+   "price": 1.879,
+   "chg1d_pct": 0.02
   },
   "AUDJPY": {
-   "price": 113.361,
-   "chg1d_pct": 0.67
+   "price": 113.295,
+   "chg1d_pct": 0.61
   },
   "EURUSD": {
-   "price": 1.1593,
-   "chg1d_pct": 0.5
+   "price": 1.1583,
+   "chg1d_pct": 0.41
   },
   "GBPCHF": {
-   "price": 1.0982,
-   "chg1d_pct": 0.0
+   "price": 1.0987,
+   "chg1d_pct": 0.05
   },
   "WTI": {
-   "price": 82.75,
-   "chg1d_pct": 0.42
+   "price": 84.3,
+   "chg1d_pct": 2.31
   },
   "BRENT": {
-   "price": 89.09,
-   "chg1d_pct": 0.64
+   "price": 90.68,
+   "chg1d_pct": 2.44
   },
   "GOLD": {
-   "price": 4482.1,
-   "chg1d_pct": 2.32
+   "price": 4473.4,
+   "chg1d_pct": 2.12
   },
   "SPX_FUT": {
-   "price": 7793.0,
-   "chg1d_pct": -0.15
+   "price": 7775.0,
+   "chg1d_pct": -0.38
   },
   "NAS_FUT": {
-   "price": 30197.75,
-   "chg1d_pct": 0.19
+   "price": 30104.25,
+   "chg1d_pct": -0.12
   }
  },
  "headlines": [
@@ -54,9 +54,9 @@
    "pub": "Mon, 17 Aug 2026 16:04:26 GMT"
   },
   {
-   "t": "(S+) Iran: Eine frühere US-Geheimdienstmitarbeiterin preist das iranische Regime. Dann verschwindet sie - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ2xhbVlRUWVlX2dfb04yM1hsZXRSaVZwcFJtZmJfRmc1WGpUVXJJNjRFamlvdVRTczYtU0hoejNvV2cxUEFnOWE1ay03TTdYMWhXdXR2dlh3REhVTWNQWXdMYWl3TTJsaDlSOVc5V0tTdEJGWl9RZXBQVFdyLWxPajBMcE1UMmlaVTk4aVFHNEZoVFRpTk5OTzZhWVA1WlhxM2JBTk52R3FlUVZxc0ZKNy1FOGgzUmwxbklLU1VKVF9wSnotWHlaU0d4dXgwdmU0UlB3TWgxZTUyTGFNbm9ybWFwbEJnaU8tWUFHV1hPLU9YRklFVzVBSURnYw?oc=5",
-   "pub": "Mon, 17 Aug 2026 14:31:00 GMT"
+   "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
    "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
@@ -69,7 +69,12 @@
    "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
+   "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHZ4ZmhPWW85am9IMmZYTFJnYmh3NWViM256b1NkUTc1Um5PRDZTMlhaR20wVGpueUVyS2w0WTljZUJQc3hES0ZVT1RpdnNwRkwzdDhWOVkwTEtPX19qSHVLVGFIOUI1Q2haM3E0M3pWcTBra0xNUElabkoxdUg4VVZCeHI0WHg0NGprTkhaaTJQTTdjMVQ1ZzNBYUpkWGdVbFRpQVcwOTlYREtxNXF1bDZkMjJHdXhJcU42aXBHT3V2SW9oaHo3clZYWFlFQWdfcWtwbTZudVJRazRm?oc=5",
+   "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - logistik-heute.de",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
    "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
@@ -79,9 +84,14 @@
    "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
   },
   {
-   "t": "„Werde mich niemals entschuldigen“: Trump lässt Amerikaner für seinen Iran-Krieg an der Zapfsäule zahlen - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVjlPZm9BYUhkS3dZLWhpUFZ6M3hkWXN5STM4dVBkTEktR05Gd0pxUHhOcVc4S000SDV1Mnpyd0hYVU45UmJsMDctRnJheHRpLWRsU1RvV1J5ajRZTzZpUGFYTUpRQi1GMmQ4VWRtTVhZNzd0a2tPZktDQkI5MUJmQnlpRzdqT0xIRjVNT3ZvX2JDeUg5M0d0aVl3ZUduclBOWHJoemFn?oc=5",
-   "pub": "Mon, 17 Aug 2026 09:26:31 GMT"
+   "t": "Hormus-Krise eskaliert: Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUVXMTNDZmVHekIxX1JSRHgtRzRrNDBlYUdZMmFGaTY1eHdPc0F6QnZpY3Awa3RjV0ItX1kwbFVuc0xHNThsNXZ4azUteTNqQ1Z6bUNlR3RxZVZDNkVaeHhSN2FQeTV1aDVEWmFBUXN4SUJsVEdLM1B1ZFJfZFh3QVZPMkZyb0E2a2ZzeVhnaWttS0NTaTM5cFdWWEhqR25CNFladFdOZ3UyejlkamVtS1ZqREgxUkFtaUc4RU9ObWg0aWJ5?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:21:54 GMT"
+  },
+  {
+   "t": "„Werden sie in Grund und Boden bombardieren“: Trump droht dem Verbündetem Oman - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQXy11eFBQdjhXZjZXVVlhTU0xdjdqS0tRUG03UjgtV3kyblUzLTNPSUdiZ2R6UF9XWGpseldxSGJFdnJVODc5VS10bE5yNVhwNUc3dW16cVlkRmFTcDJmUExhTl9DV1NCbVE2SFdOTzMwNlB3ajVqVi02aWdwNjVkR2pkT19nRHZfc2lMS2dfQXRXLW9VUnJ0dGFJdVdQVTRWbVpfVC02VTRnaFVlRXFsSUUyd19BcHl5S3dIR3FldThFZzFOTkxvU3pIcnpTYnI3Q25MRldjemdCZWh1N0hlRUln?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:32:12 GMT"
   },
   {
    "t": "Straße von Hormus fast dicht: Ölmarkt schreibt Iran-Deal ab - Berliner Zeitung",
@@ -94,19 +104,9 @@
    "pub": "Mon, 17 Aug 2026 07:25:00 GMT"
   },
   {
-   "t": "Trotz Iran-Krieg: 3 Faktoren halten die Börsenrally am Leben - Finanzen100",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlkU3VYcTMwWFNKUF9IWmlBbWZmSHlwMEQxZEljWG52YjllQldCc1FVc3psaklaMFFvYXdjZ2R2SGowZmZOeU1PQkF1Ti1wemZobzBfWHhsaXk0aGNjLXV1SERZdHA3Q3JYd3FoSG5OaWJnSHFaRlVSdFNUbUdJVF9ScXJIend2VWJubGxzUUtreW02a1lVOUgtdVJSYU5IeHEwRUpwYVBFanRJdEVmNDNaQlR4aU83RVc4anVMQmxVR2tpSXVtMVBuZE45ckU?oc=5",
-   "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
-  },
-  {
-   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
-   "pub": "Mon, 17 Aug 2026 15:13:43 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
+   "t": "(S+) Iran: Eine frühere US-Geheimdienstmitarbeiterin preist das iranische Regime. Dann verschwindet sie - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ2xhbVlRUWVlX2dfb04yM1hsZXRSaVZwcFJtZmJfRmc1WGpUVXJJNjRFamlvdVRTczYtU0hoejNvV2cxUEFnOWE1ay03TTdYMWhXdXR2dlh3REhVTWNQWXdMYWl3TTJsaDlSOVc5V0tTdEJGWl9RZXBQVFdyLWxPajBMcE1UMmlaVTk4aVFHNEZoVFRpTk5OTzZhWVA1WlhxM2JBTk52R3FlUVZxc0ZKNy1FOGgzUmwxbklLU1VKVF9wSnotWHlaU0d4dXgwdmU0UlB3TWgxZTUyTGFNbm9ybWFwbEJnaU8tWUFHV1hPLU9YRklFVzVBSURnYw?oc=5",
+   "pub": "Mon, 17 Aug 2026 14:31:00 GMT"
   }
  ]
 }
