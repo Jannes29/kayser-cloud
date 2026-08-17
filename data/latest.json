@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-17T18:58:16Z",
+ "collected_at": "2026-08-17T19:43:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": -0.32
+   "price": 0.8108,
+   "chg1d_pct": -0.41
   },
   "USDJPY": {
-   "price": 159.581,
-   "chg1d_pct": 0.1
+   "price": 159.429,
+   "chg1d_pct": 0.0
   },
   "GBPCAD": {
-   "price": 1.8783,
-   "chg1d_pct": -0.02
+   "price": 1.8787,
+   "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 113.329,
-   "chg1d_pct": 0.64
+   "price": 113.282,
+   "chg1d_pct": 0.6
   },
   "EURUSD": {
-   "price": 1.1577,
-   "chg1d_pct": 0.36
+   "price": 1.1582,
+   "chg1d_pct": 0.4
   },
   "GBPCHF": {
-   "price": 1.0986,
-   "chg1d_pct": 0.04
+   "price": 1.098,
+   "chg1d_pct": -0.01
   },
   "WTI": {
-   "price": 84.27,
-   "chg1d_pct": 2.27
+   "price": 84.37,
+   "chg1d_pct": 2.39
   },
   "BRENT": {
-   "price": 90.58,
-   "chg1d_pct": 2.33
+   "price": 90.65,
+   "chg1d_pct": 2.41
   },
   "GOLD": {
-   "price": 4459.1,
-   "chg1d_pct": 1.8
+   "price": 4471.6,
+   "chg1d_pct": 2.08
   },
   "SPX_FUT": {
-   "price": 7777.0,
-   "chg1d_pct": -0.36
+   "price": 7769.25,
+   "chg1d_pct": -0.46
   },
   "NAS_FUT": {
-   "price": 30117.25,
-   "chg1d_pct": -0.08
+   "price": 30096.5,
+   "chg1d_pct": -0.15
   }
  },
  "headlines": [
   {
-   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
+   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:04:26 GMT"
+   "pub": "Mon, 17 Aug 2026 19:18:36 GMT"
   },
   {
    "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - spiegel.de",
@@ -59,24 +59,14 @@
    "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
-   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
-   "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
-  },
-  {
    "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
    "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
-  },
-  {
-   "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHZ4ZmhPWW85am9IMmZYTFJnYmh3NWViM256b1NkUTc1Um5PRDZTMlhaR20wVGpueUVyS2w0WTljZUJQc3hES0ZVT1RpdnNwRkwzdDhWOVkwTEtPX19qSHVLVGFIOUI1Q2haM3E0M3pWcTBra0xNUElabkoxdUg4VVZCeHI0WHg0NGprTkhaaTJQTTdjMVQ1ZzNBYUpkWGdVbFRpQVcwOTlYREtxNXF1bDZkMjJHdXhJcU42aXBHT3V2SW9oaHo3clZYWFlFQWdfcWtwbTZudVJRazRm?oc=5",
-   "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
+   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
+   "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
   },
   {
    "t": "Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - Frankfurter Rundschau",
@@ -84,12 +74,22 @@
    "pub": "Mon, 17 Aug 2026 16:21:54 GMT"
   },
   {
+   "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHZ4ZmhPWW85am9IMmZYTFJnYmh3NWViM256b1NkUTc1Um5PRDZTMlhaR20wVGpueUVyS2w0WTljZUJQc3hES0ZVT1RpdnNwRkwzdDhWOVkwTEtPX19qSHVLVGFIOUI1Q2haM3E0M3pWcTBra0xNUElabkoxdUg4VVZCeHI0WHg0NGprTkhaaTJQTTdjMVQ1ZzNBYUpkWGdVbFRpQVcwOTlYREtxNXF1bDZkMjJHdXhJcU42aXBHT3V2SW9oaHo3clZYWFlFQWdfcWtwbTZudVJRazRm?oc=5",
+   "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
+  },
+  {
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
+   "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
+  },
+  {
    "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
    "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
   {
-   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
+   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - web.de",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
    "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
   },
@@ -104,7 +104,7 @@
    "pub": "Mon, 17 Aug 2026 07:25:00 GMT"
   },
   {
-   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
+   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
    "pub": "Mon, 17 Aug 2026 17:44:31 GMT"
   }
