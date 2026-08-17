@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-17T21:42:04Z",
+ "collected_at": "2026-08-17T22:42:33Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8106,
-   "chg1d_pct": -0.25
+   "price": 0.8109,
+   "chg1d_pct": -0.22
   },
   "USDJPY": {
-   "price": 159.387,
-   "chg1d_pct": 0.1
+   "price": 159.428,
+   "chg1d_pct": 0.13
   },
   "GBPCAD": {
    "price": 1.8785,
    "chg1d_pct": -0.03
   },
   "AUDJPY": {
-   "price": 113.235,
-   "chg1d_pct": 0.38
+   "price": 113.282,
+   "chg1d_pct": 0.42
   },
   "EURUSD": {
-   "price": 1.1582,
-   "chg1d_pct": 0.07
+   "price": 1.1583,
+   "chg1d_pct": 0.08
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": -0.28
+   "price": 1.0982,
+   "chg1d_pct": -0.24
   },
   "WTI": {
-   "price": 84.95,
-   "chg1d_pct": 3.09
+   "price": 85.06,
+   "chg1d_pct": 3.23
   },
   "BRENT": {
-   "price": 91.1,
-   "chg1d_pct": 2.91
+   "price": 91.21,
+   "chg1d_pct": 3.04
   },
   "GOLD": {
-   "price": 4473.1,
-   "chg1d_pct": 2.12
+   "price": 4467.9,
+   "chg1d_pct": 2.0
   },
   "SPX_FUT": {
-   "price": 7765.5,
-   "chg1d_pct": -0.51
+   "price": 7764.25,
+   "chg1d_pct": -0.52
   },
   "NAS_FUT": {
-   "price": 30078.25,
-   "chg1d_pct": -0.21
+   "price": 30069.0,
+   "chg1d_pct": -0.24
   }
  },
  "headlines": [
   {
    "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 19:18:36 GMT"
+   "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
   },
   {
    "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
@@ -84,12 +84,17 @@
    "pub": "Mon, 17 Aug 2026 06:59:18 GMT"
   },
   {
+   "t": "Trump unter Druck: 80 Prozent erwarten langen Iran-Einsatz – Zustimmung fällt - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVNDbTdwQ1A2eDZCLVRsRTYxZ3kxLW5tWnh5Nm9ZSFBmb1hsVUVIdEQ4dF9NYWU4T1BieXJweElmLXNhdWs1UHBMMHMwRWt5QjIxZ1NHblBZLWF4LTBiMzlpSVR5Y3FtajFxR2Q4WXFoLUpNMjZDS2tubkJpTFN0RTBybm1VUmFGQzZYMU1ySW5DVlhhdlYycVZVUkp2ZEw1UUtjU1RYSVMwbjhOMVFMa2RLYVcxeUVhZ3NHSTlCUXVkMGJRSDR1S0FzYVQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 19:11:36 GMT"
+  },
+  {
    "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
    "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
   {
-   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - web.de",
+   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
    "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
   },
@@ -97,11 +102,6 @@
    "t": "Straße von Hormus fast dicht: Ölmarkt schreibt Iran-Deal ab - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEZ0WElqdlZ0RFV4RnItSEJKRU4xOFVmTUJxY081ano2aUI2RmpsV01IdXh6NC00R0c3MWtlblZqV0RPYlo0cFUwQjFDbkQwVUdOUS03R0ZaaDhTTDJ0TWswVmoxOEFwckZobFJyUTB1TnJEdm1xRUM1SkhFRHZwR1ZwdEczMDdlVGY0MXoxTjJoMXM4d1Vhc203czZMS1ZIMVVnWTJEVHlwZ1VyS2c?oc=5",
    "pub": "Mon, 17 Aug 2026 08:20:40 GMT"
-  },
-  {
-   "t": "Trump unter Druck: 80 Prozent erwarten langen Iran-Einsatz – Zustimmung fällt - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVNDbTdwQ1A2eDZCLVRsRTYxZ3kxLW5tWnh5Nm9ZSFBmb1hsVUVIdEQ4dF9NYWU4T1BieXJweElmLXNhdWs1UHBMMHMwRWt5QjIxZ1NHblBZLWF4LTBiMzlpSVR5Y3FtajFxR2Q4WXFoLUpNMjZDS2tubkJpTFN0RTBybm1VUmFGQzZYMU1ySW5DVlhhdlYycVZVUkp2ZEw1UUtjU1RYSVMwbjhOMVFMa2RLYVcxeUVhZ3NHSTlCUXVkMGJRSDR1S0FzYVQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 19:11:36 GMT"
   },
   {
    "t": "Weltwirtschaft: Indiens Maßnahmen gegen Folgen des Iran-Kriegs - WiWo",
