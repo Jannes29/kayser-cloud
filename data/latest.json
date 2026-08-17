@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-17T04:58:54Z",
+ "collected_at": "2026-08-17T05:51:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": -0.32
+   "price": 0.8111,
+   "chg1d_pct": -0.22
   },
   "USDJPY": {
-   "price": 159.106,
-   "chg1d_pct": -0.2
+   "price": 159.04,
+   "chg1d_pct": -0.24
   },
   "GBPCAD": {
-   "price": 1.8786,
-   "chg1d_pct": -0.0
+   "price": 1.8789,
+   "chg1d_pct": 0.01
   },
   "AUDJPY": {
-   "price": 113.0,
-   "chg1d_pct": 0.35
+   "price": 113.147,
+   "chg1d_pct": 0.57
   },
   "EURUSD": {
-   "price": 1.1587,
-   "chg1d_pct": 0.45
+   "price": 1.1593,
+   "chg1d_pct": 0.55
   },
   "GBPCHF": {
-   "price": 1.0997,
-   "chg1d_pct": 0.14
+   "price": 1.0996,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 82.19,
-   "chg1d_pct": -0.25
+   "price": 82.03,
+   "chg1d_pct": -0.45
   },
   "BRENT": {
-   "price": 88.67,
-   "chg1d_pct": 0.17
+   "price": 88.53,
+   "chg1d_pct": 0.01
   },
   "GOLD": {
-   "price": 4453.9,
-   "chg1d_pct": 1.68
+   "price": 4451.7,
+   "chg1d_pct": 1.63
   },
   "SPX_FUT": {
-   "price": 7812.75,
-   "chg1d_pct": 0.1
+   "price": 7816.0,
+   "chg1d_pct": 0.14
   },
   "NAS_FUT": {
-   "price": 30242.75,
-   "chg1d_pct": 0.34
+   "price": 30261.0,
+   "chg1d_pct": 0.4
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Straße von Hormus - Iran kämpft gegen Ölverschmutzung im Küstengebiet - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSllMTThreVdtbFpMT1FTTWpVd2g3YzdudXVyd3BkUGFWR3p5VDU3TW0yQ2lqV2dxWnF2dVpreGtpck1fSU9fRjd1eUtjQ1N2ZU4xTV9SalRaZlY0M01QREk0M2ZuS2NYU2ZJOHJZdGxPZkNsa3k1OXhJdHU2YmxQREdXTVhueGV5SDdzWjJnQnRoaTkxRHM0?oc=5",
    "pub": "Sun, 16 Aug 2026 21:43:22 GMT"
+  },
+  {
+   "t": "„Keinen Krieg leisten ohne Verteidigungsmittel“: Iran-Krieg leert Patriot-Bestände – der Westen wird verwundbar - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTlEV29DekRhVDlycUxpWjBRUnl4VTZ3YlNvek1nSDN2R3NyVElKUTFkSXJwakJIcWcydG1CYVNKa3VSQUJSeU9Hem5jLU5YOTRzelMtQVg3SW9kYnhtNVd0OUlhWWllLXRPZE5KMmtYVm9UX2hKMFFMekJHcnZXNVJRa3E1MndtOS0tM0JNWTBEQV9GVEYwYURReDlrTHdOT0F5ellYZGJ2eUt2czRuajN0ODZTbjJ5MUpj?oc=5",
+   "pub": "Mon, 17 Aug 2026 04:21:44 GMT"
   },
   {
    "t": "Iran: Teheran verlangt Zugang zu vermissten Piloten in Katar - Spiegel",
@@ -74,9 +79,9 @@
    "pub": "Sun, 16 Aug 2026 08:08:21 GMT"
   },
   {
-   "t": "Kalkül im Iran-Krieg: USA dominieren, doch Teheran hat einen Trumpf, den Donald Trump nicht brechen kann - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMHlhb2dsX1Ffd0xyZTN3SFRFNm1rdDlHTkdPWG4yc0NaV2k0U0psN2VhQ3BWYk9hYmNrSGllei02X1dSaWNHRUIzb3pFVXR1M3JiWHVrYi1PZDJXbmhQUU8wVjdabVJFRW5MUF9JSll5T2NaTTZ5bWZMNGxDRjZQVGo4eWtETW1HSXF1OWdlSFc5ZGJBWDI1R0JPYjBRN09SMmNrVHM1MHA3c1VlUDZ2aGwwdnZmUGZOTWNr?oc=5",
-   "pub": "Sun, 16 Aug 2026 14:19:52 GMT"
+   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
+   "pub": "Mon, 17 Aug 2026 04:23:56 GMT"
   },
   {
    "t": "Iran fordert Zugang zu vermissten Piloten – Katar weist Vorwürfe zurück - Berliner Zeitung",
@@ -84,9 +89,14 @@
    "pub": "Sun, 16 Aug 2026 13:35:54 GMT"
   },
   {
-   "t": "Iran setzt Kopfgeld auf US-Soldaten aus + Israel droht mit neuen Angriffen - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2RtdEdrOHctZWlWdlRoVDJWU1lZa3lyNTFHWFVGVF9VSmVhSFBLRlVtaDM4c2hZcjFrclo3anlBQkpGcEJ4dEdPUElBck1teTNGRFZIaHFVbGVscHphX0lhbjJ2amtrNE9TM2VQTEZ4TUw4dUs1VzVjRkdpVnN0RVBGS2s5UEVxVC1LZkctUmdfVGFEVXFMVFQ5M1VnS00xdzJQajBuSEFpdXlzbmJZcHBLQnptTXRFdWlJbWk4LU5Tdw?oc=5",
-   "pub": "Mon, 17 Aug 2026 04:23:56 GMT"
+   "t": "Iran reagiert scharf auf Trumps Drohung, die Straße von Hormus zum US-Territorium zu erklären - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXB0T1JoV3hWZWxjbXZXLVBJTldHQ2tCcTdHb0RjRm13STJiMFExaHVCYzlfcktYYXB3UkNFNDMxMmdGeUp2cFNXa0V4eTRBNzNOR2xoWGZpNE16QUNJSGFwSEZrY1RWb2ZBd1FDMFBKMnFneWdRZ0tjQ2tPeXpveDdodUEwWmM2Tk5abmRsRVFiZmhtVHFGZkFHaElMekFUak8yZEozNUFGYkFvSlRfWi10WlIwcnNZRmdPS3lDd0hjX2FqWG5N?oc=5",
+   "pub": "Sat, 15 Aug 2026 16:34:00 GMT"
+  },
+  {
+   "t": "Japanische Währung: Warum ist der japanische Yen nur so stark gesunken? - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmVneC1rS0dNcFMxc2FaZGF5S1Z6dGc3VGpBSmNTNFNqY25zZmU2WGZBOEV4WnR0R2VLUm9NLW53Slg1RVVRd2F5YWszU0V2YjAxb3ZYS3dFNS1OM2ZjSWRQd0xCUkFqclRNbWdKMmVFeXVsdlloUWFmTFRmY0poTDdJUEtObUdvU0hpM0ZLdTFSVzFRSzFhaDNESm5MOXd3c2VSNmRnWEVIUFFVZmNUdmZpYnlJQW1DWjR2dEZlZTBGdw?oc=5",
+   "pub": "Sun, 16 Aug 2026 13:22:13 GMT"
   },
   {
    "t": "Nahost - Iran nach Trump-Vorstoß: Straße von Hormus gehört uns - Deutschlandfunk",
@@ -97,16 +107,6 @@
    "t": "Iran: Mann soll Polizisten bei Protesten überfahren haben – Hinrichtung - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2g4RV95MWQtSE0wM3JMdzdrNzlSOWltQ2NVUVBUd19BWkREYzZFa2EtdkxxQzdNTXdwalJ6MDhrRTdGdkhLdmxwUHczbEVJOUNRcVp4bXloUGRqZ2tEUkh0MmNwOENuaVprdkRxTVBFcm1wMHNsVjF3Nk1rSUVjYy1fNDRQZXJHcUg5Zms0X3p0cGVIM0ZEX1ZCUHUtUXZwV2dObEo0QXpIMEVDb3pLWVFuNG9sbnFLNUpjazhrVXBwa2dVbnJLSGtYeDRqMlVUZmRrSTFR?oc=5",
    "pub": "Sun, 16 Aug 2026 13:23:00 GMT"
-  },
-  {
-   "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
-  },
-  {
-   "t": "„Keinen Krieg leisten ohne Verteidigungsmittel“: Iran-Krieg leert Patriot-Bestände – der Westen wird verwundbar - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTlEV29DekRhVDlycUxpWjBRUnl4VTZ3YlNvek1nSDN2R3NyVElKUTFkSXJwakJIcWcydG1CYVNKa3VSQUJSeU9Hem5jLU5YOTRzelMtQVg3SW9kYnhtNVd0OUlhWWllLXRPZE5KMmtYVm9UX2hKMFFMekJHcnZXNVJRa3E1MndtOS0tM0JNWTBEQV9GVEYwYURReDlrTHdOT0F5ellYZGJ2eUt2czRuajN0ODZTbjJ5MUpj?oc=5",
-   "pub": "Mon, 17 Aug 2026 04:21:44 GMT"
   }
  ]
 }
