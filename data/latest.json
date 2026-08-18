@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-08-18T08:53:46Z",
+ "collected_at": "2026-08-18T09:49:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": -0.14
+   "price": 0.8117,
+   "chg1d_pct": -0.12
   },
   "USDJPY": {
-   "price": 159.666,
-   "chg1d_pct": 0.28
+   "price": 159.617,
+   "chg1d_pct": 0.25
   },
   "GBPCAD": {
-   "price": 1.8761,
-   "chg1d_pct": -0.15
+   "price": 1.8763,
+   "chg1d_pct": -0.14
   },
   "AUDJPY": {
-   "price": 113.405,
-   "chg1d_pct": 0.53
+   "price": 113.42,
+   "chg1d_pct": 0.55
   },
   "EURUSD": {
-   "price": 1.1578,
-   "chg1d_pct": 0.04
+   "price": 1.1581,
+   "chg1d_pct": 0.06
   },
   "GBPCHF": {
-   "price": 1.0979,
-   "chg1d_pct": -0.26
+   "price": 1.0983,
+   "chg1d_pct": -0.23
   },
   "WTI": {
    "price": 84.04,
@@ -35,21 +35,26 @@
    "chg1d_pct": 0.01
   },
   "GOLD": {
-   "price": 4452.9,
-   "chg1d_pct": 0.79
+   "price": 4448.0,
+   "chg1d_pct": 0.68
   },
   "SPX_FUT": {
-   "price": 7729.75,
-   "chg1d_pct": -0.5
+   "price": 7727.25,
+   "chg1d_pct": -0.53
   },
   "NAS_FUT": {
-   "price": 29772.0,
-   "chg1d_pct": -1.08
+   "price": 29726.0,
+   "chg1d_pct": -1.23
   }
  },
  "headlines": [
   {
-   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
+   "t": "„Wir sind bereit zur Eskalation in der Straße von Hormus“ - faz.net",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFVTdVhlOGJ6SjVnTlpvUTBLdlFnWUVLVFZDX1ZFbi1ETjZudTdhNlFYb3NJS3RCLV9qZVpiY1lZWWhzbnNhUUhCcTBRLTJkWUtxenJkazh4dUwwNEM5dHJxM1Y3YjFqZzdLYnlmUHRwWWFhajF6dVZ3LVI5dElmOGtOWDFKWU9idGpWT2R2M1R2VkNEUlV5VWRPbjVQY1hjT0RQclMwMms2MlBLOG1IY1hqbEdoYTg?oc=5",
+   "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
+  },
+  {
+   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - tagesspiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
    "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
   },
@@ -64,29 +69,24 @@
    "pub": "Tue, 18 Aug 2026 07:43:58 GMT"
   },
   {
-   "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
-  },
-  {
    "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
    "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
-   "t": "„Werde mich niemals entschuldigen“: Trump lässt Amerikaner für seinen Iran-Krieg an der Zapfsäule zahlen - Frankfurter Rundschau",
+   "t": "„Werde mich niemals entschuldigen“: Trump lässt Amerikaner für seinen Iran-Krieg an der Zapfsäule zahlen - fr.de",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUtVcnI0S3ZYaXJVS2p0TkhwbUJ5cFp1d1gzRm5ROE5NOG1CRm1ESDkwcS02YWgwZ1Myc21JVVVsM2FJOWhnZHEyd2VDRjlQeXJaNkNtYjdjYXlodTFKX1NDV0RoZDdEYUd6dVUtQUVUZ2RfUnpLTngtbFJ4VlVSelo4M3FvNXN4VzktLXZXZmtLMGNUZlc4aHBrNlp4YjhsVGpwN2Fn?oc=5",
    "pub": "Tue, 18 Aug 2026 02:46:00 GMT"
-  },
-  {
-   "t": "News kompakt: Trump droht Sultanat Oman mit Bombardierung - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEk2eXRsdXF3d0NMbHNoMUF1Vmo5UVBicUZYRWsxcHdwbDFLQ3hMRkdEYVUyRll6X193UWhSZmx0RVZRTC03LXA0eWlpWGhjNjFkMm1qcVhBVG5yOFZjd0tzbnQ0YnVMTHRUSFhrSEIxQVVHQ2RNVzBXNlppSGowbTg3bEpqY3JQUmdpLWhrdXRkNHEwb0ZVNlFWcW5lME11emRTdjl4d0dYeTF4bm5mNWE0UHFPZ1N1R0JqQnVxZ2NKTk9jcUhwONIByAFBVV95cUxPcVVnTE9xdHRUZ1lOOWNjdDZVMVNmWmdtMTBYOHF5SEo4MXNYZjNDRFgxQy01RExfUExLZjl1V2RMSWNQLTRuMGNYeFRITm5ZT3RwQUNQZURUdVVoeFgtWlVxLXVGektCdlpBYlBCOURGcEU5T3pCX3NvUGV5Y3NsUGhfZHk0ejBBRGloc3lqQlJEN0Q4a1RQUFRja1JSbC1iSUF2ZHpRbnQ5UFlMc3BaNVBtX05QaFR3ZDl5OGJyYWVqOGIycDd1cA?oc=5",
-   "pub": "Tue, 18 Aug 2026 07:01:35 GMT"
   },
   {
    "t": "Der Winter kann teuer werden: Gaspreise steigen – Verbraucher zahlen hunderte Euro mehr - T-Online",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTdkdDJrSWFrQTZ4YUEwRHBsTHhIZTR1em9JNC05cFNWOHp4d0NWQ3dsWFRjcmNYT1JXbDZnaE9EMjhUcEF3ZzVTamdZQmJhOFNyNlpnTWJhWUhhWk1sNzdpSnJuLVl1WXBBZlNNNk11OGc5dHMxWnhheWJGbWNqS3VZVlBjb0dHN0FON2FKd2ctelZfT1NaMzZaTmxINlFNQ1FCbFRIanYxWW9DdFlHXzdkZ3ZwdWFkbnEwRjdnVGRyZmNB?oc=5",
    "pub": "Tue, 18 Aug 2026 05:42:20 GMT"
+  },
+  {
+   "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - zeit.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
   },
   {
    "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
