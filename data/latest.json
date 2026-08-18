@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T22:42:28Z",
+ "collected_at": "2026-08-18T23:37:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8124,
-   "chg1d_pct": 0.22
+   "price": 0.8126,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 159.605,
-   "chg1d_pct": 0.17
+   "price": 159.591,
+   "chg1d_pct": 0.16
   },
   "GBPCAD": {
-   "price": 1.8804,
-   "chg1d_pct": 0.07
+   "price": 1.8809,
+   "chg1d_pct": 0.1
   },
   "AUDJPY": {
-   "price": 113.059,
-   "chg1d_pct": -0.17
+   "price": 112.995,
+   "chg1d_pct": -0.23
   },
   "EURUSD": {
-   "price": 1.1578,
-   "chg1d_pct": -0.04
+   "price": 1.1577,
+   "chg1d_pct": -0.05
   },
   "GBPCHF": {
-   "price": 1.0993,
-   "chg1d_pct": 0.09
+   "price": 1.0996,
+   "chg1d_pct": 0.11
   },
   "WTI": {
-   "price": 84.44,
-   "chg1d_pct": -0.07
+   "price": 84.47,
+   "chg1d_pct": -0.04
   },
   "BRENT": {
-   "price": 91.29,
-   "chg1d_pct": 0.46
+   "price": 91.38,
+   "chg1d_pct": 0.56
   },
   "GOLD": {
-   "price": 4388.7,
-   "chg1d_pct": -0.66
+   "price": 4385.2,
+   "chg1d_pct": -0.74
   },
   "SPX_FUT": {
-   "price": 7711.75,
+   "price": 7712.25,
    "chg1d_pct": -0.73
   },
   "NAS_FUT": {
-   "price": 29548.0,
-   "chg1d_pct": -1.82
+   "price": 29551.25,
+   "chg1d_pct": -1.81
   }
  },
  "headlines": [
@@ -94,11 +94,6 @@
    "pub": "Tue, 18 Aug 2026 16:03:51 GMT"
   },
   {
-   "t": "USA–Iran-Abkommen gescheitert: ETH-Experte sieht Hindernis für Kriegsende - SRF",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzB4OVRibVhLM0FJRUdXcUZKVDJhTDJYaTBmei1BS3BhUlA2MlR6VnpLenU4YUhoVVZDa1Y1VmFEUFZzQ1FDSTRwZkxidmxVWC1tMVRjOVY3czFIMjYxeU9JcWhsUDNuMHBEaHhvbzlQZlVrMUIzYnZYcmpYTEh4M1VVLUlYOWg3WmQxY0JuVTdjYm92aGhTVTlISE96aXpLM3VKWi1fcw?oc=5",
-   "pub": "Tue, 18 Aug 2026 12:35:46 GMT"
-  },
-  {
    "t": "Krieg in Nahost: Trump postet Karte mit Straße von Hormus als US‑Gebiet – Iran feuert Raketen in Richtung Emirate - WELT",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUTh3cW9uQ1RXR1NGVmNsNjZNeEVGd3I3U0l3eHl3dmtVN2FVclJMdTZnSHE5UFVtYXloQnJ2bUlvNXRJUnkwQnlrdzRxYkRfZk9IcWxNS1hqZTc0MWlMZFpjbXdqZ1Znby1qc2dsblA5TzdwdDBYaGhmLUdQSjZ1M0Yyc1luWU5QX1kxaHNFcjZPTDljWmdlODRORlVuNWZMcmR3QV8zUnYwNm8yV2ljbWZhelNPUXR1Q0ZDYlEyQ0tzWE1iWXk5eFlMX0RxcTZ2VFRhSmNxdHNkSDVlcXM1OHRMc2FnYW1uRVppcDU5VDU4VkpZRnd6SXNucDlzM3V2VkJvMllR?oc=5",
    "pub": "Tue, 18 Aug 2026 18:30:07 GMT"
@@ -107,6 +102,11 @@
    "t": "„Wir sind bereit zur Eskalation in der Straße von Hormus“ - FAZ",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFVTdVhlOGJ6SjVnTlpvUTBLdlFnWUVLVFZDX1ZFbi1ETjZudTdhNlFYb3NJS3RCLV9qZVpiY1lZWWhzbnNhUUhCcTBRLTJkWUtxenJkazh4dUwwNEM5dHJxM1Y3YjFqZzdLYnlmUHRwWWFhajF6dVZ3LVI5dElmOGtOWDFKWU9idGpWT2R2M1R2VkNEUlV5VWRPbjVQY1hjT0RQclMwMms2MlBLOG1IY1hqbEdoYTg?oc=5",
    "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
+  },
+  {
+   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
+   "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
   }
  ]
 }
