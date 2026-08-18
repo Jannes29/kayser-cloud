@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T15:47:00Z",
+ "collected_at": "2026-08-18T16:49:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8122,
-   "chg1d_pct": -0.06
+   "price": 0.8117,
+   "chg1d_pct": -0.12
   },
   "USDJPY": {
    "price": 159.575,
    "chg1d_pct": 0.22
   },
   "GBPCAD": {
-   "price": 1.8805,
-   "chg1d_pct": 0.08
+   "price": 1.8817,
+   "chg1d_pct": 0.14
   },
   "AUDJPY": {
-   "price": 113.257,
-   "chg1d_pct": 0.4
+   "price": 113.179,
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
-   "price": 1.1583,
-   "chg1d_pct": 0.08
+   "price": 1.1585,
+   "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0997,
-   "chg1d_pct": -0.1
+   "price": 1.0993,
+   "chg1d_pct": -0.14
   },
   "WTI": {
-   "price": 84.96,
-   "chg1d_pct": 0.54
+   "price": 84.45,
+   "chg1d_pct": -0.06
   },
   "BRENT": {
-   "price": 91.96,
-   "chg1d_pct": 1.2
+   "price": 91.56,
+   "chg1d_pct": 0.76
   },
   "GOLD": {
-   "price": 4413.5,
-   "chg1d_pct": -0.1
+   "price": 4421.3,
+   "chg1d_pct": 0.08
   },
   "SPX_FUT": {
-   "price": 7717.75,
-   "chg1d_pct": -0.66
+   "price": 7724.25,
+   "chg1d_pct": -0.57
   },
   "NAS_FUT": {
-   "price": 29576.25,
-   "chg1d_pct": -1.73
+   "price": 29630.75,
+   "chg1d_pct": -1.55
   }
  },
  "headlines": [
@@ -69,6 +69,16 @@
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
   },
   {
+   "t": "Trump droht Oman: Die schwierige Rolle des Vermittlers - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGVEVzlaNnRoSEdyUG9tSVN4MTBMX2xkYnhkV1lyMGVoNVFqVzJjaUlEbEk3ZWhaamRXTmlkOXA5R2xHLWxWVzhzNTZNaWpLdHdHanA0S3otWFR4T1lfOUVHWjBSdGVRWFc3ZVdDTVJnRmdXd3JSQzVYZXdMQTc4QWdZVlFLai1PeE9tc1lITdIBjwFBVV95cUxOajJ0TjhrNk5yMC1OZ05JZzFpTng4TmdyZ3hfMGk3SUVDaVVsZlUwLU4zUWJ5cmNXNFU2LVFUdUhOVWxzbjducTRhVzFBVWNtSUVoWFpPZ0YydlRkMHpSUl9mclRQQXQteE9FdHRWVk9XSGhCcHJoTWxTVTI0NmRlcmxUYmcwalJGZ3Q5TER6UQ?oc=5",
+   "pub": "Tue, 18 Aug 2026 14:56:34 GMT"
+  },
+  {
+   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUxUcllUSGhkYjNnRGhVZHdrZ0d2azJSWU9qem9CUTExZTNQVUlwcFNsWTNBcEFFOTBlRGpTcnppWW1lSElsdzVzYTNKMGlPeTVMMVY2MjQ5YjZoSlVyQVpzQWdlSlFpaTFCVXNRSTdOLTROaFYyZWFOQUtDZWJJcUs2ZWZYQ084U2EyZFpXUTlvVUFicG40QTQ5Rm9qSXN1Y1dvRkZ5RjFCSEtDTW9KaTQ4RXVkcmw2anhfdWRscHUyTzVMV1pHdm1hNnpHbWFkd2NIWDhHTGhDNU9HckE?oc=5",
+   "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
+  },
+  {
    "t": "USA–Iran-Abkommen gescheitert: ETH-Experte sieht Hindernis für Kriegsende - SRF",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzB4OVRibVhLM0FJRUdXcUZKVDJhTDJYaTBmei1BS3BhUlA2MlR6VnpLenU4YUhoVVZDa1Y1VmFEUFZzQ1FDSTRwZkxidmxVWC1tMVRjOVY3czFIMjYxeU9JcWhsUDNuMHBEaHhvbzlQZlVrMUIzYnZYcmpYTEh4M1VVLUlYOWg3WmQxY0JuVTdjYm92aGhTVTlISE96aXpLM3VKWi1fcw?oc=5",
    "pub": "Tue, 18 Aug 2026 12:35:46 GMT"
@@ -79,34 +89,24 @@
    "pub": "Tue, 18 Aug 2026 05:42:20 GMT"
   },
   {
-   "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
-  },
-  {
-   "t": "Iran droht mit Offensiven: Khamenei plant Angriffe auf Kuwait und die Golfregion - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGx0RFp0cjkzVzFPdXR6RGJlUVFaTkZLR3NQV250TjdwVzMzVG4wRjlmU0o1QldRcU1wa19JVDV2Y1ZkaVRiVDhVRUEyNkdwdFBFc0hwcjhkM3hSRHdCc3ZOU1V1WVVZdEFGTEZScGlsZXBWSW9DaDZuSG93bG9KRC0yWUxsWTVsTUZKS01naE12UzhRaUlXUXVLQ3R1YUduWEV1Y3g2emktdEJBTTkxX1M3U3k3M3dHUlJOUUh2OA?oc=5",
-   "pub": "Tue, 18 Aug 2026 13:00:00 GMT"
-  },
-  {
    "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
    "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
   },
   {
-   "t": "Angst vor Inflation durch Iran-Krieg treibt europäische Anleiherenditen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXJFLTZ1TWxmdjUydUJLbUJEbkg3ejVkZmNsZGdXMW80aDNIbElRNjRPQUVtNkdOWERLR1c0VnlVSHNHdWRwdnh1azVRak9XWmFkTkdRamg0VkpoUFJyOWE3MjB2dC0yczlTYkJMajQ5UzFqRmRWQkJ4MG5pRE1yV2FRWG1JNzk5TThYcFk4Rmh3YVl5Um9leFBqNGdlX2pNZUc4N2ZxMWI0V0x2eWFOWkEwRXNZdw?oc=5",
-   "pub": "Tue, 18 Aug 2026 10:49:11 GMT"
+   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
+   "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
   },
   {
-   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
-   "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQXFHSDh6SU1PdjByVXNqdmF4cFFvMmhpV19hMU0tOURVSENYUzktY1I2OF9jakl3aGpjTFdOeE9vU2VDTVpqVnpKV1VhUXhVTXJJbEhJOV9aWVp3QnhUbTlTQVh1M0lIYWRacEZsUzZJN2RXVDhrVHJuZDczZ2hrVlkzLXVVWkxjMXotMGZXQU9pZnNFY24yVUdhLWpDdnVXaW0yZTA1Vm9lWWN4dDNfcjZqeU9Mck5GUTRXakhVbHhaaUtKZnZRVmhuSlFrXzg?oc=5",
+   "pub": "Tue, 18 Aug 2026 04:26:58 GMT"
   },
   {
-   "t": "Zustimmung für Trump fällt auf Tiefstwert – große Sorge vor langem Iran-Krieg - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzU5MmlqWHJPcXhKSUZRdEY2N0JhdHVwcUp5Wkx5YWhlV3Ita1cydWNxZkhZUU1acU9SdWNIam05b0xHdGlIX2F6eG9xbGJBSlpabjMzdHU1TVlqd3prRk5jOUxFZi1SNktLb2NZNEhMUG5fWVhHbHRqOF9nbllHbWRiellNMHJMaDNBNjJtVE9acUowN19xMXZZMURVQW1CcWtkWm84SDNuejBLYVN2LWFqYWExM0xya3U5QlBpRWxIS0lFRmktSXdYUUNFUHM0dWVISEtZVkJTMkhlNnp0SE1wMFUwMUpldERXY0FIS2VuVk5IVTNV?oc=5",
-   "pub": "Mon, 17 Aug 2026 23:00:10 GMT"
+   "t": "Iran droht Golf-Staaten mit Militäraktionen: Neue Strategie sorgt für Spannungen - Allgemeine Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlpwOF9vQkMzeElENm5kOEdkaEMtck04VkhJX204T1JGQ2ZFSzVwVGZZVG43Ny1lOS1rSHdWaEwyNThkYjFoLU5PZmNmUWdCd2ZLSkpKUWJLMmQydEN4R2JDNkI4S2hlanZoMGJXLXhHRWJMUEtLcnhqRUZSdUR1TTJOZ19hM1dZcnhOTUlwYW9nVVJFZGtHcnFvdHJzYkhPcWlRZ1hSMkZRX0JQ?oc=5",
+   "pub": "Tue, 18 Aug 2026 13:00:00 GMT"
   }
  ]
 }
