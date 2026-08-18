@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T13:08:58Z",
+ "collected_at": "2026-08-18T13:57:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8123,
-   "chg1d_pct": -0.04
+   "price": 0.8119,
+   "chg1d_pct": -0.09
   },
   "USDJPY": {
-   "price": 159.633,
-   "chg1d_pct": 0.26
+   "price": 159.584,
+   "chg1d_pct": 0.23
   },
   "GBPCAD": {
-   "price": 1.8771,
-   "chg1d_pct": -0.1
+   "price": 1.8786,
+   "chg1d_pct": -0.02
   },
   "AUDJPY": {
-   "price": 113.546,
-   "chg1d_pct": 0.66
+   "price": 113.512,
+   "chg1d_pct": 0.63
   },
   "EURUSD": {
-   "price": 1.1579,
-   "chg1d_pct": 0.04
+   "price": 1.1582,
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.0995,
-   "chg1d_pct": -0.12
+   "price": 1.0992,
+   "chg1d_pct": -0.15
   },
   "WTI": {
-   "price": 84.33,
-   "chg1d_pct": -0.2
+   "price": 84.23,
+   "chg1d_pct": -0.32
   },
   "BRENT": {
-   "price": 91.11,
-   "chg1d_pct": 0.26
+   "price": 91.01,
+   "chg1d_pct": 0.15
   },
   "GOLD": {
-   "price": 4450.4,
-   "chg1d_pct": 0.74
+   "price": 4451.7,
+   "chg1d_pct": 0.77
   },
   "SPX_FUT": {
-   "price": 7735.75,
-   "chg1d_pct": -0.42
+   "price": 7727.0,
+   "chg1d_pct": -0.54
   },
   "NAS_FUT": {
-   "price": 29715.75,
-   "chg1d_pct": -1.26
+   "price": 29664.5,
+   "chg1d_pct": -1.43
   }
  },
  "headlines": [
@@ -54,19 +54,24 @@
    "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
   },
   {
-   "t": "Große Mehrheit geht von langem Iran-Krieg aus Trumps Umfragewerte fallen vor Zwischenwahlen auf Rekordtief - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQW40b01KbDUzLWg5dkNPVVgxeTZCaEJCQXhzbUhhMXd4b05XazBieUdhaGVvTnRHOTFzaFh2elNzLW1EUkRPbTVibHVnYWFSQXcwS1VWZDU4QmR2LXUwU1MxT2FTZ2psY0N0TFFBa0g1dFBWQW5SZlR3XzkwT2ZOTWlRQUlZSENiUkRQdHljLTZmTmZYZGJIclRNTFJSdmNYSkhLdzYzeVNvSGNTM0RfaHV6TVMxS21RcG85VVRwOTg3WlllUGE0UFhnY2lzaFB0TFB1OEx3NmpzRkJESk9vNEdvejh4VXBkMjhzd0htbFEwVEpaSzRvcw?oc=5",
-   "pub": "Tue, 18 Aug 2026 11:02:00 GMT"
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
+   "pub": "Tue, 18 Aug 2026 13:50:34 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Tue, 18 Aug 2026 10:45:54 GMT"
+   "t": "Große Mehrheit geht von langem Iran-Krieg aus Trumps Umfragewerte fallen vor Zwischenwahlen auf Rekordtief - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQW40b01KbDUzLWg5dkNPVVgxeTZCaEJCQXhzbUhhMXd4b05XazBieUdhaGVvTnRHOTFzaFh2elNzLW1EUkRPbTVibHVnYWFSQXcwS1VWZDU4QmR2LXUwU1MxT2FTZ2psY0N0TFFBa0g1dFBWQW5SZlR3XzkwT2ZOTWlRQUlZSENiUkRQdHljLTZmTmZYZGJIclRNTFJSdmNYSkhLdzYzeVNvSGNTM0RfaHV6TVMxS21RcG85VVRwOTg3WlllUGE0UFhnY2lzaFB0TFB1OEx3NmpzRkJESk9vNEdvejh4VXBkMjhzd0htbFEwVEpaSzRvcw?oc=5",
+   "pub": "Tue, 18 Aug 2026 13:18:00 GMT"
   },
   {
    "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "USA–Iran-Abkommen gescheitert: ETH-Experte sieht Hindernis für Kriegsende - SRF",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzB4OVRibVhLM0FJRUdXcUZKVDJhTDJYaTBmei1BS3BhUlA2MlR6VnpLenU4YUhoVVZDa1Y1VmFEUFZzQ1FDSTRwZkxidmxVWC1tMVRjOVY3czFIMjYxeU9JcWhsUDNuMHBEaHhvbzlQZlVrMUIzYnZYcmpYTEh4M1VVLUlYOWg3WmQxY0JuVTdjYm92aGhTVTlISE96aXpLM3VKWi1fcw?oc=5",
+   "pub": "Tue, 18 Aug 2026 12:35:46 GMT"
   },
   {
    "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - Spiegel",
@@ -84,24 +89,19 @@
    "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
   },
   {
-   "t": "USA–Iran-Abkommen gescheitert: ETH-Experte sieht Hindernis für Kriegsende - SRF",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzB4OVRibVhLM0FJRUdXcUZKVDJhTDJYaTBmei1BS3BhUlA2MlR6VnpLenU4YUhoVVZDa1Y1VmFEUFZzQ1FDSTRwZkxidmxVWC1tMVRjOVY3czFIMjYxeU9JcWhsUDNuMHBEaHhvbzlQZlVrMUIzYnZYcmpYTEh4M1VVLUlYOWg3WmQxY0JuVTdjYm92aGhTVTlISE96aXpLM3VKWi1fcw?oc=5",
-   "pub": "Tue, 18 Aug 2026 12:35:46 GMT"
-  },
-  {
-   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
-   "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
-  },
-  {
-   "t": "Inflation, Fed und NVIDIA: Das bewegt die Märkte diese Woche - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT21CV2NvNHNvalpLSGpMUkFIdUwwM09ZVGoyMTJMdERkSXdFOHFkSjV2aVQ0UUI3ejhIdlZfOG8weVFkM09OQW9Ma0FpblZCNzdaQl9KV0oxRkhWaDhQSVZPLUttMGFBMmthZlhYck84NzhqdEoxVjRMdFF6MzhiamRnWDc3OG1wZVJVdFpFbTF4aWI4clB1ZndNQzhjX0I2OVNJTzlkcFhrOXg1bURLcGFrb3d2SEhDVTFTQmdoeWc1OVhlR054SHBuTVNVZzhhbmFnR3p4RDhRZTcx?oc=5",
-   "pub": "Tue, 18 Aug 2026 05:55:00 GMT"
+   "t": "Angst vor Inflation durch Iran-Krieg treibt europäische Anleiherenditen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXJFLTZ1TWxmdjUydUJLbUJEbkg3ejVkZmNsZGdXMW80aDNIbElRNjRPQUVtNkdOWERLR1c0VnlVSHNHdWRwdnh1azVRak9XWmFkTkdRamg0VkpoUFJyOWE3MjB2dC0yczlTYkJMajQ5UzFqRmRWQkJ4MG5pRE1yV2FRWG1JNzk5TThYcFk4Rmh3YVl5Um9leFBqNGdlX2pNZUc4N2ZxMWI0V0x2eWFOWkEwRXNZdw?oc=5",
+   "pub": "Tue, 18 Aug 2026 10:49:11 GMT"
   },
   {
    "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
    "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
+  },
+  {
+   "t": "Straße von Hormus bleibt geschlossen + Trump will Oman bombardieren - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGgzLXB4T1lYaGJWaWJ0SnFKQXdDZEk4Zjh6OVc5SGZEa09lV2pGQlFKZ1pvT2d2QVU3ampma3RGSEY2cDR0TVcwaVNPdzItZHJpb0RLLThKWmZGM2o3TlZmTFRsUUh1U1dLempSTF9kcFFDMUJvSkpxaWtqMmp6SFQxTy1pYjlsRzFha3M2dHZGWDhmOTlaUzdqZi1DN09XMmpnOGM4THhTalVQNzJTSFdCVnZNa01DTGwtejRnSm94UQ?oc=5",
+   "pub": "Tue, 18 Aug 2026 13:20:22 GMT"
   },
   {
    "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
