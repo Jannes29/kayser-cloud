@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T19:41:20Z",
+ "collected_at": "2026-08-18T20:41:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8121,
-   "chg1d_pct": -0.07
+   "price": 0.8126,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 159.59,
-   "chg1d_pct": 0.23
+   "price": 159.651,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
-   "price": 1.8808,
-   "chg1d_pct": 0.1
+   "price": 1.8803,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 113.117,
-   "chg1d_pct": 0.28
+   "price": 113.096,
+   "chg1d_pct": -0.14
   },
   "EURUSD": {
-   "price": 1.1582,
-   "chg1d_pct": 0.07
+   "price": 1.1578,
+   "chg1d_pct": -0.04
   },
   "GBPCHF": {
    "price": 1.0995,
-   "chg1d_pct": -0.12
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 84.07,
-   "chg1d_pct": -0.51
+   "price": 84.28,
+   "chg1d_pct": -0.26
   },
   "BRENT": {
-   "price": 90.95,
-   "chg1d_pct": 0.09
+   "price": 91.14,
+   "chg1d_pct": 0.3
   },
   "GOLD": {
-   "price": 4410.1,
-   "chg1d_pct": -0.17
+   "price": 4392.1,
+   "chg1d_pct": -0.58
   },
   "SPX_FUT": {
-   "price": 7721.75,
-   "chg1d_pct": -0.6
+   "price": 7714.25,
+   "chg1d_pct": -0.7
   },
   "NAS_FUT": {
-   "price": 29602.5,
-   "chg1d_pct": -1.64
+   "price": 29578.0,
+   "chg1d_pct": -1.72
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
   },
   {
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
+   "pub": "Tue, 18 Aug 2026 19:53:44 GMT"
+  },
+  {
    "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0VsbGdIS0t1YTlSRFNnZU1aRE01bDJPdUlKcDljSTg4My01VmxVQTZkVUVCQXJwV0YzMWluajlxX3ZDWGQzb2s1R2M4ZXdqTzRZa0hmWUM5cHl0ZzlrYmprbzl6ODd0QjVBTGxNdGo3VXVBVkkzYk1lWnJTNlktVXNKaTlfVkRuQi14bGdYb2FqZXFwd1Jjb19QUzlOWGF2Y0xQVi11aUFnUGZ6d2tQdm1yWFJJM1RzeXVqRE5R?oc=5",
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
-  },
-  {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Tue, 18 Aug 2026 16:51:39 GMT"
   },
   {
    "t": "Große Mehrheit geht von langem Iran-Krieg aus Trumps Umfragewerte fallen vor Zwischenwahlen auf Rekordtief - Tagesspiegel",
@@ -69,14 +69,19 @@
    "pub": "Tue, 18 Aug 2026 13:18:00 GMT"
   },
   {
+   "t": "Trump droht Oman: Die schwierige Rolle des Vermittlers - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGVEVzlaNnRoSEdyUG9tSVN4MTBMX2xkYnhkV1lyMGVoNVFqVzJjaUlEbEk3ZWhaamRXTmlkOXA5R2xHLWxWVzhzNTZNaWpLdHdHanA0S3otWFR4T1lfOUVHWjBSdGVRWFc3ZVdDTVJnRmdXd3JSQzVYZXdMQTc4QWdZVlFLai1PeE9tc1lITdIBjwFBVV95cUxOajJ0TjhrNk5yMC1OZ05JZzFpTng4TmdyZ3hfMGk3SUVDaVVsZlUwLU4zUWJ5cmNXNFU2LVFUdUhOVWxzbjducTRhVzFBVWNtSUVoWFpPZ0YydlRkMHpSUl9mclRQQXQteE9FdHRWVk9XSGhCcHJoTWxTVTI0NmRlcmxUYmcwalJGZ3Q5TER6UQ?oc=5",
+   "pub": "Tue, 18 Aug 2026 14:57:10 GMT"
+  },
+  {
+   "t": "Ende der 60-Tage-Frist: Trump: Derzeit keine Gespräche mit dem Iran - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWS1mN1FWUFVRZzktYUxGZWt0d3hYZkhqYzR1MVRyeUZUSUhvbWlpcWpFX0NKWnh3ckd6Rkxva0pneDIzVVhkNWloblYwekZNdl8yUWR0Wk1jNUYyc2ZOX0gyWDBfXzU5aXVUbGhZcllnWDZpcXJ3NW9UY2pYTTBVTXhRaXdqLWdoSDdBX01QWTZPN01L?oc=5",
+   "pub": "Tue, 18 Aug 2026 14:11:19 GMT"
+  },
+  {
    "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
-  },
-  {
-   "t": "Trump droht Oman: Die schwierige Rolle des Vermittlers - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGVEVzlaNnRoSEdyUG9tSVN4MTBMX2xkYnhkV1lyMGVoNVFqVzJjaUlEbEk3ZWhaamRXTmlkOXA5R2xHLWxWVzhzNTZNaWpLdHdHanA0S3otWFR4T1lfOUVHWjBSdGVRWFc3ZVdDTVJnRmdXd3JSQzVYZXdMQTc4QWdZVlFLai1PeE9tc1lITdIBjwFBVV95cUxOajJ0TjhrNk5yMC1OZ05JZzFpTng4TmdyZ3hfMGk3SUVDaVVsZlUwLU4zUWJ5cmNXNFU2LVFUdUhOVWxzbjducTRhVzFBVWNtSUVoWFpPZ0YydlRkMHpSUl9mclRQQXQteE9FdHRWVk9XSGhCcHJoTWxTVTI0NmRlcmxUYmcwalJGZ3Q5TER6UQ?oc=5",
-   "pub": "Tue, 18 Aug 2026 15:16:28 GMT"
   },
   {
    "t": "Trump erklärt Hormus zum \"US-Territorium\" – Iran bereitet größeren Krieg vor - Wallstreet Online",
@@ -84,29 +89,24 @@
    "pub": "Tue, 18 Aug 2026 17:29:00 GMT"
   },
   {
+   "t": "Liveticker zum Iran-Krieg: Iranische Raketen landen vor Küste der Vereinigten Arabischen Emirate - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVVh1ZkI0eFljd01qOGxHSnJrUldqUHN3Y1JtQ1pVSlRrd3RwZ2toNUpYWVpqNVkwUW0xMFdsNjJVMVJMaHMwSE1fV2xMdEkxU0E4ZUdITlhWbjVoTW41aG80VGRwdl9fU05wLUhoeXI2WmpSazRzbEF2VFVjc1A2ZFcxQVZHVWhjSktpb1U1TFdJOXBoWXpGSkdpS0p0TjZqYWo1cjh6SUw3NmR3NWJxdnhMeW9rRm9vY2JLYnJsN2FnN3k4UkZfTXJxZl80X25KaV90Zm9JMk9ibFVjREQxYmphbHdHWlU5dHpJ?oc=5",
+   "pub": "Tue, 18 Aug 2026 17:50:29 GMT"
+  },
+  {
    "t": "USA–Iran-Abkommen gescheitert: ETH-Experte sieht Hindernis für Kriegsende - SRF",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzB4OVRibVhLM0FJRUdXcUZKVDJhTDJYaTBmei1BS3BhUlA2MlR6VnpLenU4YUhoVVZDa1Y1VmFEUFZzQ1FDSTRwZkxidmxVWC1tMVRjOVY3czFIMjYxeU9JcWhsUDNuMHBEaHhvbzlQZlVrMUIzYnZYcmpYTEh4M1VVLUlYOWg3WmQxY0JuVTdjYm92aGhTVTlISE96aXpLM3VKWi1fcw?oc=5",
    "pub": "Tue, 18 Aug 2026 12:35:46 GMT"
   },
   {
-   "t": "Der Winter kann teuer werden: Gaspreise steigen – Verbraucher zahlen hunderte Euro mehr - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTdkdDJrSWFrQTZ4YUEwRHBsTHhIZTR1em9JNC05cFNWOHp4d0NWQ3dsWFRjcmNYT1JXbDZnaE9EMjhUcEF3ZzVTamdZQmJhOFNyNlpnTWJhWUhhWk1sNzdpSnJuLVl1WXBBZlNNNk11OGc5dHMxWnhheWJGbWNqS3VZVlBjb0dHN0FON2FKd2ctelZfT1NaMzZaTmxINlFNQ1FCbFRIanYxWW9DdFlHXzdkZ3ZwdWFkbnEwRjdnVGRyZmNB?oc=5",
-   "pub": "Tue, 18 Aug 2026 05:42:20 GMT"
+   "t": "Krieg in Nahost: Trump postet Karte mit Straße von Hormus als US‑Gebiet – Iran feuert Raketen in Richtung Emirate - WELT",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUTh3cW9uQ1RXR1NGVmNsNjZNeEVGd3I3U0l3eHl3dmtVN2FVclJMdTZnSHE5UFVtYXloQnJ2bUlvNXRJUnkwQnlrdzRxYkRfZk9IcWxNS1hqZTc0MWlMZFpjbXdqZ1Znby1qc2dsblA5TzdwdDBYaGhmLUdQSjZ1M0Yyc1luWU5QX1kxaHNFcjZPTDljWmdlODRORlVuNWZMcmR3QV8zUnYwNm8yV2ljbWZhelNPUXR1Q0ZDYlEyQ0tzWE1iWXk5eFlMX0RxcTZ2VFRhSmNxdHNkSDVlcXM1OHRMc2FnYW1uRVppcDU5VDU4VkpZRnd6SXNucDlzM3V2VkJvMllR?oc=5",
+   "pub": "Tue, 18 Aug 2026 18:30:07 GMT"
   },
   {
    "t": "„Wir sind bereit zur Eskalation in der Straße von Hormus“ - FAZ",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFVTdVhlOGJ6SjVnTlpvUTBLdlFnWUVLVFZDX1ZFbi1ETjZudTdhNlFYb3NJS3RCLV9qZVpiY1lZWWhzbnNhUUhCcTBRLTJkWUtxenJkazh4dUwwNEM5dHJxM1Y3YjFqZzdLYnlmUHRwWWFhajF6dVZ3LVI5dElmOGtOWDFKWU9idGpWT2R2M1R2VkNEUlV5VWRPbjVQY1hjT0RQclMwMms2MlBLOG1IY1hqbEdoYTg?oc=5",
    "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
-  },
-  {
-   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
-   "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
-  },
-  {
-   "t": "Ein Toter bei Angriff auf Schiff: Iran hält Hormus-Meerenge dicht - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQkp5MkwyZlQ4bnB6eWhVY0ZFR0RIZGZ1eVl3QVZZTXlOOVdUNE82TTlRWDI5U1dTR0pRMERhMmVOLXRCRDVwd1FFbktVMVFpZUpBdnVhTlZVRzVEeWJ5X2M1Y3JjWHRNYjgyNHNqVG9yd1gzMEdHUw?oc=5",
-   "pub": "Tue, 18 Aug 2026 17:20:35 GMT"
   }
  ]
 }
