@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T20:41:44Z",
+ "collected_at": "2026-08-18T21:39:36Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8126,
-   "chg1d_pct": 0.25
-  },
-  "USDJPY": {
-   "price": 159.651,
+   "price": 0.8122,
    "chg1d_pct": 0.2
   },
+  "USDJPY": {
+   "price": 159.543,
+   "chg1d_pct": 0.13
+  },
   "GBPCAD": {
-   "price": 1.8803,
-   "chg1d_pct": 0.07
+   "price": 1.88,
+   "chg1d_pct": 0.05
   },
   "AUDJPY": {
-   "price": 113.096,
-   "chg1d_pct": -0.14
+   "price": 113.082,
+   "chg1d_pct": -0.15
   },
   "EURUSD": {
-   "price": 1.1578,
-   "chg1d_pct": -0.04
+   "price": 1.1581,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.0995,
-   "chg1d_pct": 0.1
+   "price": 1.0991,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 84.28,
-   "chg1d_pct": -0.26
+   "price": 84.42,
+   "chg1d_pct": -0.09
   },
   "BRENT": {
-   "price": 91.14,
-   "chg1d_pct": 0.3
+   "price": 91.27,
+   "chg1d_pct": 0.44
   },
   "GOLD": {
-   "price": 4392.1,
-   "chg1d_pct": -0.58
+   "price": 4389.5,
+   "chg1d_pct": -0.64
   },
   "SPX_FUT": {
-   "price": 7714.25,
-   "chg1d_pct": -0.7
+   "price": 7713.25,
+   "chg1d_pct": -0.71
   },
   "NAS_FUT": {
-   "price": 29578.0,
-   "chg1d_pct": -1.72
+   "price": 29559.5,
+   "chg1d_pct": -1.78
   }
  },
  "headlines": [
@@ -86,10 +86,10 @@
   {
    "t": "Trump erklärt Hormus zum \"US-Territorium\" – Iran bereitet größeren Krieg vor - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemhPQTROMlYxQ2w2OTI3TUt1SmxfQmRTMVk1OXZDS1Q0MUp6cElMYVpBSnd6WXc5ZDU5OER1RFpVSm5FOHlpcVg5aXVxQ01hTndtc0R1Z0R0bHN1Tzg3eEgwY0F2YkFyQkxPdVEwTk5DNEFSeE5STDNRLXRsUlllM0FhQkF2NFhYZ1BrN1BkdDZjUUhHZ3VWYnkwNzRPV2VGbkgzZloydmM3cDNIREFRWnpONGt0RFFqZ3E4OXBOc1hfdnVLcnRULTMzNFh4V1FuakE?oc=5",
-   "pub": "Tue, 18 Aug 2026 17:29:00 GMT"
+   "pub": "Tue, 18 Aug 2026 17:30:39 GMT"
   },
   {
-   "t": "Liveticker zum Iran-Krieg: Iranische Raketen landen vor Küste der Vereinigten Arabischen Emirate - RND.de",
+   "t": "Iran greift Vereinigte Arabische Emirate mit Raketen an +++ Trump: Keine Gespräche mit Teheran geplant - RND.de",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVVh1ZkI0eFljd01qOGxHSnJrUldqUHN3Y1JtQ1pVSlRrd3RwZ2toNUpYWVpqNVkwUW0xMFdsNjJVMVJMaHMwSE1fV2xMdEkxU0E4ZUdITlhWbjVoTW41aG80VGRwdl9fU05wLUhoeXI2WmpSazRzbEF2VFVjc1A2ZFcxQVZHVWhjSktpb1U1TFdJOXBoWXpGSkdpS0p0TjZqYWo1cjh6SUw3NmR3NWJxdnhMeW9rRm9vY2JLYnJsN2FnN3k4UkZfTXJxZl80X25KaV90Zm9JMk9ibFVjREQxYmphbHdHWlU5dHpJ?oc=5",
    "pub": "Tue, 18 Aug 2026 17:50:29 GMT"
   },
