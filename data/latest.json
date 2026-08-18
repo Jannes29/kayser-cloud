@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T03:58:44Z",
+ "collected_at": "2026-08-18T04:53:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": -0.14
+   "price": 0.8116,
+   "chg1d_pct": -0.13
   },
   "USDJPY": {
-   "price": 159.532,
-   "chg1d_pct": 0.19
+   "price": 159.69,
+   "chg1d_pct": 0.29
   },
   "GBPCAD": {
-   "price": 1.8777,
-   "chg1d_pct": -0.07
+   "price": 1.8782,
+   "chg1d_pct": -0.04
   },
   "AUDJPY": {
-   "price": 113.311,
-   "chg1d_pct": 0.45
+   "price": 113.408,
+   "chg1d_pct": 0.53
   },
   "EURUSD": {
-   "price": 1.1577,
-   "chg1d_pct": 0.03
+   "price": 1.1578,
+   "chg1d_pct": 0.04
   },
   "GBPCHF": {
-   "price": 1.0983,
-   "chg1d_pct": -0.23
+   "price": 1.0986,
+   "chg1d_pct": -0.2
   },
   "WTI": {
-   "price": 85.11,
-   "chg1d_pct": 3.29
+   "price": 85.16,
+   "chg1d_pct": 0.78
   },
   "BRENT": {
-   "price": 91.35,
-   "chg1d_pct": 3.2
+   "price": 91.4,
+   "chg1d_pct": 0.58
   },
   "GOLD": {
-   "price": 4450.5,
-   "chg1d_pct": 1.6
+   "price": 4448.9,
+   "chg1d_pct": 0.7
   },
   "SPX_FUT": {
-   "price": 7746.0,
-   "chg1d_pct": -0.76
+   "price": 7741.75,
+   "chg1d_pct": -0.35
   },
   "NAS_FUT": {
-   "price": 29900.25,
-   "chg1d_pct": -0.8
+   "price": 29901.5,
+   "chg1d_pct": -0.65
   }
  },
  "headlines": [
@@ -64,14 +64,19 @@
    "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
+   "t": "„Werde mich niemals entschuldigen“: Trump lässt Amerikaner für seinen Iran-Krieg an der Zapfsäule zahlen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUtVcnI0S3ZYaXJVS2p0TkhwbUJ5cFp1d1gzRm5ROE5NOG1CRm1ESDkwcS02YWgwZ1Myc21JVVVsM2FJOWhnZHEyd2VDRjlQeXJaNkNtYjdjYXlodTFKX1NDV0RoZDdEYUd6dVUtQUVUZ2RfUnpLTngtbFJ4VlVSelo4M3FvNXN4VzktLXZXZmtLMGNUZlc4aHBrNlp4YjhsVGpwN2Fn?oc=5",
+   "pub": "Tue, 18 Aug 2026 02:46:00 GMT"
+  },
+  {
    "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
    "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
   },
   {
-   "t": "Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUVXMTNDZmVHekIxX1JSRHgtRzRrNDBlYUdZMmFGaTY1eHdPc0F6QnZpY3Awa3RjV0ItX1kwbFVuc0xHNThsNXZ4azUteTNqQ1Z6bUNlR3RxZVZDNkVaeHhSN2FQeTV1aDVEWmFBUXN4SUJsVEdLM1B1ZFJfZFh3QVZPMkZyb0E2a2ZzeVhnaWttS0NTaTM5cFdWWEhqR25CNFladFdOZ3UyejlkamVtS1ZqREgxUkFtaUc4RU9ObWg0aWJ5?oc=5",
-   "pub": "Mon, 17 Aug 2026 16:21:54 GMT"
+   "t": "\"Wird ganz schön lange dauern\": Trump irritiert mit Iran-Aussage zu Atomwaffen - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU01md3o0MDdqV01RN0NIMFlsUjBFY2s0MFdkcVo5NV8waHJocTVoUGZTa21xRGt5R0pPM0IwZWkycWN6ZDR0YTNZeWM5TUdwUHRvMllwZ0dlUVlvcWZQdkZhbm1CREotbGRfenJ2SHFobDA3dGNPTUdtRTNBUzU5YVJyazlXWUVibjNSeldVeHptTXpLWXM2RWZyMk1FaHpfUUFOeHZGOG9UOGFLWWFsenItY183eDNPanU0?oc=5",
+   "pub": "Tue, 18 Aug 2026 02:23:55 GMT"
   },
   {
    "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
@@ -79,7 +84,12 @@
    "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "Zustimmung für Trump fällt auf Tiefstwert – große Sorge vor langem Iran-Krieg - WELT",
+   "t": "Trump will Iran-Abkommen nicht verlängern – und droht Oman „Werden ihn in Grund und Boden bomben“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
+   "pub": "Tue, 18 Aug 2026 03:51:05 GMT"
+  },
+  {
+   "t": "Donald Trump: Zustimmung fällt in Umfrage auf Tiefstwert – große Sorge vor langem Iran-Krieg - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzU5MmlqWHJPcXhKSUZRdEY2N0JhdHVwcUp5Wkx5YWhlV3Ita1cydWNxZkhZUU1acU9SdWNIam05b0xHdGlIX2F6eG9xbGJBSlpabjMzdHU1TVlqd3prRk5jOUxFZi1SNktLb2NZNEhMUG5fWVhHbHRqOF9nbllHbWRiellNMHJMaDNBNjJtVE9acUowN19xMXZZMURVQW1CcWtkWm84SDNuejBLYVN2LWFqYWExM0xya3U5QlBpRWxIS0lFRmktSXdYUUNFUHM0dWVISEtZVkJTMkhlNnp0SE1wMFUwMUpldERXY0FIS2VuVk5IVTNV?oc=5",
    "pub": "Mon, 17 Aug 2026 23:00:10 GMT"
   },
@@ -87,16 +97,6 @@
    "t": "Kushner: Gespräche mit dem Iran verlaufen „sehr positiv“ - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmNBd0tNVEh5UENSZzhFZnk3aEd2UnlxNnE1andMTk13bDByZ1N5UFV3eW4teklURVdyVXM3T3RyNGdVWVhtMm9KeDJuamdhaTFsdTFnbWhNMGJXRWpzZWo1UExtVVFNMXlMZ3p6Vk9QNS1HR1FxQk5BOGZDM2U0YVhUcFdFVHdLU2RiZGF1cUV2cjlMcGdKelQxVlIxQQ?oc=5",
    "pub": "Tue, 18 Aug 2026 00:22:14 GMT"
-  },
-  {
-   "t": "Trump unter Druck: 80 Prozent erwarten langen Iran-Einsatz – Zustimmung fällt - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVNDbTdwQ1A2eDZCLVRsRTYxZ3kxLW5tWnh5Nm9ZSFBmb1hsVUVIdEQ4dF9NYWU4T1BieXJweElmLXNhdWs1UHBMMHMwRWt5QjIxZ1NHblBZLWF4LTBiMzlpSVR5Y3FtajFxR2Q4WXFoLUpNMjZDS2tubkJpTFN0RTBybm1VUmFGQzZYMU1ySW5DVlhhdlYycVZVUkp2ZEw1UUtjU1RYSVMwbjhOMVFMa2RLYVcxeUVhZ3NHSTlCUXVkMGJRSDR1S0FzYVQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 19:11:36 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
-   "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
   {
    "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
