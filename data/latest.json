@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T03:08:52Z",
+ "collected_at": "2026-08-18T03:58:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.811,
-   "chg1d_pct": -0.2
+   "price": 0.8115,
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
-   "price": 159.482,
-   "chg1d_pct": 0.16
+   "price": 159.532,
+   "chg1d_pct": 0.19
   },
   "GBPCAD": {
-   "price": 1.8778,
-   "chg1d_pct": -0.06
+   "price": 1.8777,
+   "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 113.388,
-   "chg1d_pct": 0.52
+   "price": 113.311,
+   "chg1d_pct": 0.45
   },
   "EURUSD": {
-   "price": 1.1582,
-   "chg1d_pct": 0.07
+   "price": 1.1577,
+   "chg1d_pct": 0.03
   },
   "GBPCHF": {
-   "price": 1.0982,
-   "chg1d_pct": -0.24
+   "price": 1.0983,
+   "chg1d_pct": -0.23
   },
   "WTI": {
-   "price": 85.03,
-   "chg1d_pct": 3.19
+   "price": 85.11,
+   "chg1d_pct": 3.29
   },
   "BRENT": {
-   "price": 91.24,
-   "chg1d_pct": 3.07
+   "price": 91.35,
+   "chg1d_pct": 3.2
   },
   "GOLD": {
-   "price": 4456.0,
-   "chg1d_pct": 1.73
+   "price": 4450.5,
+   "chg1d_pct": 1.6
   },
   "SPX_FUT": {
-   "price": 7749.25,
-   "chg1d_pct": -0.71
+   "price": 7746.0,
+   "chg1d_pct": -0.76
   },
   "NAS_FUT": {
-   "price": 29909.25,
-   "chg1d_pct": -0.77
+   "price": 29900.25,
+   "chg1d_pct": -0.8
   }
  },
  "headlines": [
@@ -64,7 +64,7 @@
    "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
   },
   {
-   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews",
+   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
    "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
   },
@@ -84,14 +84,14 @@
    "pub": "Mon, 17 Aug 2026 23:00:10 GMT"
   },
   {
-   "t": "Trump unter Druck: 80 Prozent erwarten langen Iran-Einsatz – Zustimmung fällt - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVNDbTdwQ1A2eDZCLVRsRTYxZ3kxLW5tWnh5Nm9ZSFBmb1hsVUVIdEQ4dF9NYWU4T1BieXJweElmLXNhdWs1UHBMMHMwRWt5QjIxZ1NHblBZLWF4LTBiMzlpSVR5Y3FtajFxR2Q4WXFoLUpNMjZDS2tubkJpTFN0RTBybm1VUmFGQzZYMU1ySW5DVlhhdlYycVZVUkp2ZEw1UUtjU1RYSVMwbjhOMVFMa2RLYVcxeUVhZ3NHSTlCUXVkMGJRSDR1S0FzYVQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 19:11:36 GMT"
-  },
-  {
    "t": "Kushner: Gespräche mit dem Iran verlaufen „sehr positiv“ - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmNBd0tNVEh5UENSZzhFZnk3aEd2UnlxNnE1andMTk13bDByZ1N5UFV3eW4teklURVdyVXM3T3RyNGdVWVhtMm9KeDJuamdhaTFsdTFnbWhNMGJXRWpzZWo1UExtVVFNMXlMZ3p6Vk9QNS1HR1FxQk5BOGZDM2U0YVhUcFdFVHdLU2RiZGF1cUV2cjlMcGdKelQxVlIxQQ?oc=5",
    "pub": "Tue, 18 Aug 2026 00:22:14 GMT"
+  },
+  {
+   "t": "Trump unter Druck: 80 Prozent erwarten langen Iran-Einsatz – Zustimmung fällt - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVNDbTdwQ1A2eDZCLVRsRTYxZ3kxLW5tWnh5Nm9ZSFBmb1hsVUVIdEQ4dF9NYWU4T1BieXJweElmLXNhdWs1UHBMMHMwRWt5QjIxZ1NHblBZLWF4LTBiMzlpSVR5Y3FtajFxR2Q4WXFoLUpNMjZDS2tubkJpTFN0RTBybm1VUmFGQzZYMU1ySW5DVlhhdlYycVZVUkp2ZEw1UUtjU1RYSVMwbjhOMVFMa2RLYVcxeUVhZ3NHSTlCUXVkMGJRSDR1S0FzYVQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 19:11:36 GMT"
   },
   {
    "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
@@ -99,14 +99,14 @@
    "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
   },
   {
-   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
-   "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
-  },
-  {
    "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "(S+) Iran: Eine frühere US-Geheimdienstmitarbeiterin preist das iranische Regime. Dann verschwindet sie - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ2xhbVlRUWVlX2dfb04yM1hsZXRSaVZwcFJtZmJfRmc1WGpUVXJJNjRFamlvdVRTczYtU0hoejNvV2cxUEFnOWE1ay03TTdYMWhXdXR2dlh3REhVTWNQWXdMYWl3TTJsaDlSOVc5V0tTdEJGWl9RZXBQVFdyLWxPajBMcE1UMmlaVTk4aVFHNEZoVFRpTk5OTzZhWVA1WlhxM2JBTk52R3FlUVZxc0ZKNy1FOGgzUmwxbklLU1VKVF9wSnotWHlaU0d4dXgwdmU0UlB3TWgxZTUyTGFNbm9ybWFwbEJnaU8tWUFHV1hPLU9YRklFVzVBSURnYw?oc=5",
+   "pub": "Mon, 17 Aug 2026 14:31:00 GMT"
   }
  ]
 }
