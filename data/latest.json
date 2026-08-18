@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-18T01:51:24Z",
+ "collected_at": "2026-08-18T03:08:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,49 +7,106 @@
    "chg1d_pct": -0.2
   },
   "USDJPY": {
-   "price": 159.478,
+   "price": 159.482,
    "chg1d_pct": 0.16
   },
   "GBPCAD": {
-   "price": 1.879,
-   "chg1d_pct": -0.0
+   "price": 1.8778,
+   "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 113.355,
-   "chg1d_pct": 0.49
+   "price": 113.388,
+   "chg1d_pct": 0.52
   },
   "EURUSD": {
-   "price": 1.1583,
-   "chg1d_pct": 0.08
+   "price": 1.1582,
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.0986,
-   "chg1d_pct": -0.2
+   "price": 1.0982,
+   "chg1d_pct": -0.24
   },
   "WTI": {
-   "price": 85.12,
-   "chg1d_pct": 3.3
+   "price": 85.03,
+   "chg1d_pct": 3.19
   },
   "BRENT": {
-   "price": 91.3,
-   "chg1d_pct": 3.14
+   "price": 91.24,
+   "chg1d_pct": 3.07
   },
   "GOLD": {
-   "price": 4476.0,
-   "chg1d_pct": 2.18
+   "price": 4456.0,
+   "chg1d_pct": 1.73
   },
   "SPX_FUT": {
-   "price": 7764.25,
-   "chg1d_pct": -0.52
+   "price": 7749.25,
+   "chg1d_pct": -0.71
   },
   "NAS_FUT": {
-   "price": 30065.0,
-   "chg1d_pct": -0.25
+   "price": 29909.25,
+   "chg1d_pct": -0.77
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhfOU1YVnUyS1lGREtyVUJEbTF6RExXa2dFNlhTalNLZjJDNUUwY2pWMmtneFc0M0pTOVdiVW1BNjFRRmV0dXVKUnFhWFVCcWZ1VzZHM1pqQ1hTQ0RxRk5uNzNIS2FfaVU5S3F3cFBwNmxOR0RIWXA5cEdZWHBJWVlHOGdqbWdQOXl1Y1BKejA1LUJVTmtjQ3dUVElRTEUzMFlWYzIwS1QySHJMNHk2WnpHV1BtM1p6cWlB?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:35:00 GMT"
+  },
+  {
+   "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
+   "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
+  },
+  {
+   "t": "Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUVXMTNDZmVHekIxX1JSRHgtRzRrNDBlYUdZMmFGaTY1eHdPc0F6QnZpY3Awa3RjV0ItX1kwbFVuc0xHNThsNXZ4azUteTNqQ1Z6bUNlR3RxZVZDNkVaeHhSN2FQeTV1aDVEWmFBUXN4SUJsVEdLM1B1ZFJfZFh3QVZPMkZyb0E2a2ZzeVhnaWttS0NTaTM5cFdWWEhqR25CNFladFdOZ3UyejlkamVtS1ZqREgxUkFtaUc4RU9ObWg0aWJ5?oc=5",
+   "pub": "Mon, 17 Aug 2026 16:21:54 GMT"
+  },
+  {
+   "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHZ4ZmhPWW85am9IMmZYTFJnYmh3NWViM256b1NkUTc1Um5PRDZTMlhaR20wVGpueUVyS2w0WTljZUJQc3hES0ZVT1RpdnNwRkwzdDhWOVkwTEtPX19qSHVLVGFIOUI1Q2haM3E0M3pWcTBra0xNUElabkoxdUg4VVZCeHI0WHg0NGprTkhaaTJQTTdjMVQ1ZzNBYUpkWGdVbFRpQVcwOTlYREtxNXF1bDZkMjJHdXhJcU42aXBHT3V2SW9oaHo3clZYWFlFQWdfcWtwbTZudVJRazRm?oc=5",
+   "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
+  },
+  {
+   "t": "Zustimmung für Trump fällt auf Tiefstwert – große Sorge vor langem Iran-Krieg - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzU5MmlqWHJPcXhKSUZRdEY2N0JhdHVwcUp5Wkx5YWhlV3Ita1cydWNxZkhZUU1acU9SdWNIam05b0xHdGlIX2F6eG9xbGJBSlpabjMzdHU1TVlqd3prRk5jOUxFZi1SNktLb2NZNEhMUG5fWVhHbHRqOF9nbllHbWRiellNMHJMaDNBNjJtVE9acUowN19xMXZZMURVQW1CcWtkWm84SDNuejBLYVN2LWFqYWExM0xya3U5QlBpRWxIS0lFRmktSXdYUUNFUHM0dWVISEtZVkJTMkhlNnp0SE1wMFUwMUpldERXY0FIS2VuVk5IVTNV?oc=5",
+   "pub": "Mon, 17 Aug 2026 23:00:10 GMT"
+  },
+  {
+   "t": "Trump unter Druck: 80 Prozent erwarten langen Iran-Einsatz – Zustimmung fällt - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOVNDbTdwQ1A2eDZCLVRsRTYxZ3kxLW5tWnh5Nm9ZSFBmb1hsVUVIdEQ4dF9NYWU4T1BieXJweElmLXNhdWs1UHBMMHMwRWt5QjIxZ1NHblBZLWF4LTBiMzlpSVR5Y3FtajFxR2Q4WXFoLUpNMjZDS2tubkJpTFN0RTBybm1VUmFGQzZYMU1ySW5DVlhhdlYycVZVUkp2ZEw1UUtjU1RYSVMwbjhOMVFMa2RLYVcxeUVhZ3NHSTlCUXVkMGJRSDR1S0FzYVQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 19:11:36 GMT"
+  },
+  {
+   "t": "Kushner: Gespräche mit dem Iran verlaufen „sehr positiv“ - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmNBd0tNVEh5UENSZzhFZnk3aEd2UnlxNnE1andMTk13bDByZ1N5UFV3eW4teklURVdyVXM3T3RyNGdVWVhtMm9KeDJuamdhaTFsdTFnbWhNMGJXRWpzZWo1UExtVVFNMXlMZ3p6Vk9QNS1HR1FxQk5BOGZDM2U0YVhUcFdFVHdLU2RiZGF1cUV2cjlMcGdKelQxVlIxQQ?oc=5",
+   "pub": "Tue, 18 Aug 2026 00:22:14 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran weist Trumps Gebietsanspruch zurück - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa19mSC1xWDZkN3hkQVUxaDdmQm5BQTNsT2hWS2s4cTNxNEpJdVJoRC1FVzJoMGMyLW1nZms2blJxQVNQTnJSSFFQN1NPYjlzQjJsUnZIRjZUUFNoQmxMcGZ6alVjSHFfaXVEV1hkQmNxNXhDdW93TzFrRGgtU3RpVDJfdC0ySVZ4ang0QXZYNWg5S1c4Z0UtNWhmM1VkZEd3ekVnNW1B?oc=5",
+   "pub": "Mon, 17 Aug 2026 09:50:00 GMT"
+  },
+  {
+   "t": "Was hat das US-Rahmenabkommen mit Iran gebracht? - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdFZZMERZeDBZb2RwTXp3TDlULVlNRk5SME9ZY1ZFWDhvczVwYXBmbGJLZl9QVWR2ZkU5dzhwM2I1VjFNLUNSMjEtNW5ac2VxblJZazZ1bEZVRXdBTmlEUUxBVFFGVkdkYkltcExUTjBFeFlnRnJqS09nV0gtU0k?oc=5",
+   "pub": "Mon, 17 Aug 2026 06:16:33 GMT"
+  },
+  {
+   "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
+   "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
   }
  ]
 }
