@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T21:39:36Z",
+ "collected_at": "2026-08-18T22:42:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8122,
-   "chg1d_pct": 0.2
+   "price": 0.8124,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 159.543,
-   "chg1d_pct": 0.13
+   "price": 159.605,
+   "chg1d_pct": 0.17
   },
   "GBPCAD": {
-   "price": 1.88,
-   "chg1d_pct": 0.05
-  },
-  "AUDJPY": {
-   "price": 113.082,
-   "chg1d_pct": -0.15
-  },
-  "EURUSD": {
-   "price": 1.1581,
-   "chg1d_pct": -0.02
-  },
-  "GBPCHF": {
-   "price": 1.0991,
+   "price": 1.8804,
    "chg1d_pct": 0.07
   },
+  "AUDJPY": {
+   "price": 113.059,
+   "chg1d_pct": -0.17
+  },
+  "EURUSD": {
+   "price": 1.1578,
+   "chg1d_pct": -0.04
+  },
+  "GBPCHF": {
+   "price": 1.0993,
+   "chg1d_pct": 0.09
+  },
   "WTI": {
-   "price": 84.42,
-   "chg1d_pct": -0.09
+   "price": 84.44,
+   "chg1d_pct": -0.07
   },
   "BRENT": {
-   "price": 91.27,
-   "chg1d_pct": 0.44
+   "price": 91.29,
+   "chg1d_pct": 0.46
   },
   "GOLD": {
-   "price": 4389.5,
-   "chg1d_pct": -0.64
+   "price": 4388.7,
+   "chg1d_pct": -0.66
   },
   "SPX_FUT": {
-   "price": 7713.25,
-   "chg1d_pct": -0.71
+   "price": 7711.75,
+   "chg1d_pct": -0.73
   },
   "NAS_FUT": {
-   "price": 29559.5,
-   "chg1d_pct": -1.78
+   "price": 29548.0,
+   "chg1d_pct": -1.82
   }
  },
  "headlines": [
@@ -57,6 +57,11 @@
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
    "pub": "Tue, 18 Aug 2026 19:53:44 GMT"
+  },
+  {
+   "t": "Irankrieg: Der beispiellose Kontrollverlust der USA - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDJtbHFHUDZ3a0JBYlU3ZDFKUkNqeW9ZeGdWQjdNQW9sSVpndl9RN21mSW5MZ1huV2ZFYzFKaFpCRWVQWmdHTXhRLW8tVDlJTG1UOFFzRUhMRUwzVHhQeEJ2OUJvQU95Nl9aZXcwX2U5akY0UkNvU29zNFFTQ1lKc2FSVXF3NVIxaWhIMy03elNkOWRUdVF2LQ?oc=5",
+   "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
   },
   {
    "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews.com",
@@ -74,11 +79,6 @@
    "pub": "Tue, 18 Aug 2026 14:57:10 GMT"
   },
   {
-   "t": "Ende der 60-Tage-Frist: Trump: Derzeit keine Gespräche mit dem Iran - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWS1mN1FWUFVRZzktYUxGZWt0d3hYZkhqYzR1MVRyeUZUSUhvbWlpcWpFX0NKWnh3ckd6Rkxva0pneDIzVVhkNWloblYwekZNdl8yUWR0Wk1jNUYyc2ZOX0gyWDBfXzU5aXVUbGhZcllnWDZpcXJ3NW9UY2pYTTBVTXhRaXdqLWdoSDdBX01QWTZPN01L?oc=5",
-   "pub": "Tue, 18 Aug 2026 14:11:19 GMT"
-  },
-  {
    "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
@@ -89,9 +89,9 @@
    "pub": "Tue, 18 Aug 2026 17:30:39 GMT"
   },
   {
-   "t": "Iran greift Vereinigte Arabische Emirate mit Raketen an +++ Trump: Keine Gespräche mit Teheran geplant - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVVh1ZkI0eFljd01qOGxHSnJrUldqUHN3Y1JtQ1pVSlRrd3RwZ2toNUpYWVpqNVkwUW0xMFdsNjJVMVJMaHMwSE1fV2xMdEkxU0E4ZUdITlhWbjVoTW41aG80VGRwdl9fU05wLUhoeXI2WmpSazRzbEF2VFVjc1A2ZFcxQVZHVWhjSktpb1U1TFdJOXBoWXpGSkdpS0p0TjZqYWo1cjh6SUw3NmR3NWJxdnhMeW9rRm9vY2JLYnJsN2FnN3k4UkZfTXJxZl80X25KaV90Zm9JMk9ibFVjREQxYmphbHdHWlU5dHpJ?oc=5",
-   "pub": "Tue, 18 Aug 2026 17:50:29 GMT"
+   "t": "Liveticker zum Iran-Krieg: Trump: Keine Gespräche mit dem Iran geplant - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFlObmNtc3Z1TEd6S3RJbTlTY3kxbnBsUTFyZkFtUEhGcHJDSmw2VXA5aEx1cl8tZDhMWkVqM1BKMHlxb3lOZm02QkliaVlGMlhqSTdqUTB4OHBwdWF3N2tTbGlhWEJ4SlBzRGlRLXdHSXdIXzhsRjZ6T2c0T2kyZ200WHJiUzhqOWxBYjVHb0RlbG9Fc21zZTlpSTZEbWItYXI3NmJHUVdhX2JaLXN1RENtM1pUQmRLc1dnTGVWenFaV2JBNTVZ?oc=5",
+   "pub": "Tue, 18 Aug 2026 16:03:51 GMT"
   },
   {
    "t": "USA–Iran-Abkommen gescheitert: ETH-Experte sieht Hindernis für Kriegsende - SRF",
