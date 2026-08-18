@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T05:45:42Z",
+ "collected_at": "2026-08-18T07:05:15Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8116,
-   "chg1d_pct": -0.13
+   "price": 0.8113,
+   "chg1d_pct": -0.17
   },
   "USDJPY": {
-   "price": 159.67,
-   "chg1d_pct": 0.28
+   "price": 159.699,
+   "chg1d_pct": 0.3
   },
   "GBPCAD": {
-   "price": 1.8783,
-   "chg1d_pct": -0.04
+   "price": 1.8757,
+   "chg1d_pct": -0.18
   },
   "AUDJPY": {
-   "price": 113.341,
-   "chg1d_pct": 0.48
+   "price": 113.433,
+   "chg1d_pct": 0.56
   },
   "EURUSD": {
    "price": 1.1577,
    "chg1d_pct": 0.03
   },
   "GBPCHF": {
-   "price": 1.0985,
-   "chg1d_pct": -0.21
+   "price": 1.0974,
+   "chg1d_pct": -0.31
   },
   "WTI": {
-   "price": 85.13,
-   "chg1d_pct": 0.75
+   "price": 85.35,
+   "chg1d_pct": 1.01
   },
   "BRENT": {
-   "price": 91.37,
-   "chg1d_pct": 0.55
+   "price": 91.5,
+   "chg1d_pct": 0.69
   },
   "GOLD": {
-   "price": 4445.1,
-   "chg1d_pct": 0.62
+   "price": 4454.2,
+   "chg1d_pct": 0.82
   },
   "SPX_FUT": {
-   "price": 7737.0,
-   "chg1d_pct": -0.41
+   "price": 7738.25,
+   "chg1d_pct": -0.39
   },
   "NAS_FUT": {
-   "price": 29866.25,
-   "chg1d_pct": -0.76
+   "price": 29871.25,
+   "chg1d_pct": -0.75
   }
  },
  "headlines": [
@@ -54,19 +54,14 @@
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
   },
   {
-   "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
-  },
-  {
-   "t": "Donald Trump: Zustimmung fällt in Umfrage auf Tiefstwert – große Sorge vor langem Iran-Krieg - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzU5MmlqWHJPcXhKSUZRdEY2N0JhdHVwcUp5Wkx5YWhlV3Ita1cydWNxZkhZUU1acU9SdWNIam05b0xHdGlIX2F6eG9xbGJBSlpabjMzdHU1TVlqd3prRk5jOUxFZi1SNktLb2NZNEhMUG5fWVhHbHRqOF9nbllHbWRiellNMHJMaDNBNjJtVE9acUowN19xMXZZMURVQW1CcWtkWm84SDNuejBLYVN2LWFqYWExM0xya3U5QlBpRWxIS0lFRmktSXdYUUNFUHM0dWVISEtZVkJTMkhlNnp0SE1wMFUwMUpldERXY0FIS2VuVk5IVTNV?oc=5",
-   "pub": "Mon, 17 Aug 2026 23:00:10 GMT"
-  },
-  {
    "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
    "pub": "Tue, 18 Aug 2026 03:51:05 GMT"
+  },
+  {
+   "t": "Irankrieg: Donald Trump droht dem Oman mit Bombenangriffen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMm9JQVRSOU4tNTVwOHBHWUJJNHZkb1Q5VXprWXhCeUZMdUdSWUNKTlQ2LWJjWlBwSm9sY0pqUTR5ZlpyTWlZNDM2cDZjb2d6VnNBZmZ1bDhFaG1rb2F2WWpUU2c1VFJWLTZYOUoydUdfSG51bng3RmFJeWZFbTg4ME8wUnpCSXdnRjVSVTc5VTNCQ3daTnRRZUFpWTRZeDhQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 18:28:07 GMT"
   },
   {
    "t": "Krieg in Nahost: US-Präsident Trump droht mit Bomben auf Oman - Spiegel",
@@ -79,19 +74,19 @@
    "pub": "Tue, 18 Aug 2026 02:46:00 GMT"
   },
   {
+   "t": "Donald Trump: Zustimmung fällt in Umfrage auf Tiefstwert – große Sorge vor langem Iran-Krieg - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVzU5MmlqWHJPcXhKSUZRdEY2N0JhdHVwcUp5Wkx5YWhlV3Ita1cydWNxZkhZUU1acU9SdWNIam05b0xHdGlIX2F6eG9xbGJBSlpabjMzdHU1TVlqd3prRk5jOUxFZi1SNktLb2NZNEhMUG5fWVhHbHRqOF9nbllHbWRiellNMHJMaDNBNjJtVE9acUowN19xMXZZMURVQW1CcWtkWm84SDNuejBLYVN2LWFqYWExM0xya3U5QlBpRWxIS0lFRmktSXdYUUNFUHM0dWVISEtZVkJTMkhlNnp0SE1wMFUwMUpldERXY0FIS2VuVk5IVTNV?oc=5",
+   "pub": "Mon, 17 Aug 2026 23:00:10 GMT"
+  },
+  {
+   "t": "Der Winter kann teuer werden: Gaspreise steigen – Verbraucher zahlen hunderte Euro mehr - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTdkdDJrSWFrQTZ4YUEwRHBsTHhIZTR1em9JNC05cFNWOHp4d0NWQ3dsWFRjcmNYT1JXbDZnaE9EMjhUcEF3ZzVTamdZQmJhOFNyNlpnTWJhWUhhWk1sNzdpSnJuLVl1WXBBZlNNNk11OGc5dHMxWnhheWJGbWNqS3VZVlBjb0dHN0FON2FKd2ctelZfT1NaMzZaTmxINlFNQ1FCbFRIanYxWW9DdFlHXzdkZ3ZwdWFkbnEwRjdnVGRyZmNB?oc=5",
+   "pub": "Tue, 18 Aug 2026 05:42:20 GMT"
+  },
+  {
    "t": "Trump droht Oman mit Bombardierung bei Störung von USA-Iran-Gesprächen zur Hormus-Meerenge - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUXJJUHpOa3pYVEZJQzVZSk91OEJ0dHJyREloWnNCWmxhTnF0cHdqQnhYZEl5RkxFVHJGNjBMN2h3X0M3V1hmZ0Q0dVQ1czJhNTdOR0xlMHh5RVhEeHJNWW9ZUmtEaGw2a0piVG5YdnAyaFNlWUhjS2M1RUVVc1RzZw?oc=5",
    "pub": "Mon, 17 Aug 2026 14:05:47 GMT"
-  },
-  {
-   "t": "\"Wird ganz schön lange dauern\": Trump irritiert mit Iran-Aussage zu Atomwaffen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU01md3o0MDdqV01RN0NIMFlsUjBFY2s0MFdkcVo5NV8waHJocTVoUGZTa21xRGt5R0pPM0IwZWkycWN6ZDR0YTNZeWM5TUdwUHRvMllwZ0dlUVlvcWZQdkZhbm1CREotbGRfenJ2SHFobDA3dGNPTUdtRTNBUzU5YVJyazlXWUVibjNSeldVeHptTXpLWXM2RWZyMk1FaHpfUUFOeHZGOG9UOGFLWWFsenItY183eDNPanU0?oc=5",
-   "pub": "Tue, 18 Aug 2026 02:23:55 GMT"
-  },
-  {
-   "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHZ4ZmhPWW85am9IMmZYTFJnYmh3NWViM256b1NkUTc1Um5PRDZTMlhaR20wVGpueUVyS2w0WTljZUJQc3hES0ZVT1RpdnNwRkwzdDhWOVkwTEtPX19qSHVLVGFIOUI1Q2haM3E0M3pWcTBra0xNUElabkoxdUg4VVZCeHI0WHg0NGprTkhaaTJQTTdjMVQ1ZzNBYUpkWGdVbFRpQVcwOTlYREtxNXF1bDZkMjJHdXhJcU42aXBHT3V2SW9oaHo3clZYWFlFQWdfcWtwbTZudVJRazRm?oc=5",
-   "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
   },
   {
    "t": "Kushner: Gespräche mit dem Iran verlaufen „sehr positiv“ - STERN.de",
@@ -99,14 +94,19 @@
    "pub": "Tue, 18 Aug 2026 00:22:14 GMT"
   },
   {
-   "t": "Japans Währung in der Krise: Warum der Yen trotz milliardenschwerer Intervention weiter abstürzt - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaGhBcTdXSkxjYzF3d1hGMVpZcDNvLW9aR2pDZGltTHZuUTNWdlZrTXRyWUlQcW5qSFNXYk5sMFpPS3ZVVm51bVpMc0lIeXR6bFdFSE5lQjBtbzU3OEhuVWdiR1p1cjRySWhoVlRjRW5ka0p4Uk94ZnRPNkpvbDdUWmhEdHJaVWtUck9ZdTFmV0hLc2owUWFNSHRBd3FxQU5TMS1MdVZvajE4OFpucTE5UmJwa3JjUQ?oc=5",
-   "pub": "Sat, 15 Aug 2026 08:52:08 GMT"
+   "t": "Iran teilt mit, dass zwei französischen Diplomaten, denen „Einmischung“ vorgeworfen wird, die Rückkehr verwehrt wurde - euractiv.com",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTHZ4ZmhPWW85am9IMmZYTFJnYmh3NWViM256b1NkUTc1Um5PRDZTMlhaR20wVGpueUVyS2w0WTljZUJQc3hES0ZVT1RpdnNwRkwzdDhWOVkwTEtPX19qSHVLVGFIOUI1Q2haM3E0M3pWcTBra0xNUElabkoxdUg4VVZCeHI0WHg0NGprTkhaaTJQTTdjMVQ1ZzNBYUpkWGdVbFRpQVcwOTlYREtxNXF1bDZkMjJHdXhJcU42aXBHT3V2SW9oaHo3clZYWFlFQWdfcWtwbTZudVJRazRm?oc=5",
+   "pub": "Mon, 17 Aug 2026 17:00:00 GMT"
   },
   {
    "t": "Nach 60 Tagen - Was vom abgelaufenen Rahmenabkommen der USA und des Irans bleibt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaG5LYUdjZmlLS2M4ZVV1ZkpsZmR6TjVjNWsxSDJKTFFHNVRlenlHSGJ5T2NmcWlBS0VoemY4YXJBREVaLVpmdEpKRUZyWFltYkxqQ3pDZTFTOGlWM25Zakd0NnFJT0N5VmpVQkd5WnA2eDVZd21wWkhSaUxoVGFpSG1NWUZqY0l6OFY5UTlzMDdfUnd5blRVLTY5WDliVmhtbnNJdXcydw?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "\"Wird ganz schön lange dauern\": Trump irritiert mit Iran-Aussage zu Atomwaffen - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU01md3o0MDdqV01RN0NIMFlsUjBFY2s0MFdkcVo5NV8waHJocTVoUGZTa21xRGt5R0pPM0IwZWkycWN6ZDR0YTNZeWM5TUdwUHRvMllwZ0dlUVlvcWZQdkZhbm1CREotbGRfenJ2SHFobDA3dGNPTUdtRTNBUzU5YVJyazlXWUVibjNSeldVeHptTXpLWXM2RWZyMk1FaHpfUUFOeHZGOG9UOGFLWWFsenItY183eDNPanU0?oc=5",
+   "pub": "Tue, 18 Aug 2026 02:23:55 GMT"
   }
  ]
 }
