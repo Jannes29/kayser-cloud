@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-19T07:06:18Z",
+ "collected_at": "2026-08-19T07:54:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8106,
-   "chg1d_pct": 0.0
+   "price": 0.8108,
+   "chg1d_pct": 0.03
   },
   "USDJPY": {
-   "price": 159.177,
-   "chg1d_pct": -0.1
+   "price": 159.132,
+   "chg1d_pct": -0.13
   },
   "GBPCAD": {
-   "price": 1.8801,
-   "chg1d_pct": 0.06
+   "price": 1.8804,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 112.618,
-   "chg1d_pct": -0.56
+   "price": 112.529,
+   "chg1d_pct": -0.64
   },
   "EURUSD": {
-   "price": 1.1598,
-   "chg1d_pct": 0.13
+   "price": 1.16,
+   "chg1d_pct": 0.15
   },
   "GBPCHF": {
-   "price": 1.0985,
-   "chg1d_pct": 0.01
+   "price": 1.099,
+   "chg1d_pct": 0.06
   },
   "WTI": {
-   "price": 84.66,
-   "chg1d_pct": -0.33
+   "price": 84.4,
+   "chg1d_pct": -0.64
   },
   "BRENT": {
-   "price": 91.61,
-   "chg1d_pct": 0.65
+   "price": 91.31,
+   "chg1d_pct": 0.32
   },
   "GOLD": {
-   "price": 4402.1,
-   "chg1d_pct": 0.83
+   "price": 4408.1,
+   "chg1d_pct": 0.96
   },
   "SPX_FUT": {
-   "price": 7712.5,
-   "chg1d_pct": -0.02
+   "price": 7715.25,
+   "chg1d_pct": 0.02
   },
   "NAS_FUT": {
-   "price": 29547.5,
-   "chg1d_pct": -0.13
+   "price": 29569.75,
+   "chg1d_pct": -0.05
   }
  },
  "headlines": [
   {
-   "t": "Naher Osten: Abu Dhabi stoppt Handel mit Iran – Teheran dementiert Raketenangriff auf Emirate - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT2dXOGJNQ0JpMkcxanVzenJVT05PQkgweUEzLURuNTcydWpTVHl1M29NVWo3SGZCeTBiV0JvWW5tRVhqalBtVTdOTktWenAzYXdnNFNELXRXUXc0UVpiTmVCdWRyT1hONlFxb2xHeEN0NUxMaXFTelFxZHZmeGp6WUhOSlpmdHNvQ0w4b25qODhsS0dCZ2xXQUFLMTJGSFFNbzJkMmtfSUxYOWxCMWpJbm9YY1ppTzZkZmhZREhGOFB2T3l2WnFqN3NrYlV5Zjk1SWRvblZaUi1qTjlHQjFwdFJEcllvRjlaNDZMRlB6ZUFfWkhRMHc?oc=5",
-   "pub": "Wed, 19 Aug 2026 02:12:22 GMT"
+   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 06:05:13 GMT"
   },
   {
    "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
@@ -104,9 +104,9 @@
    "pub": "Wed, 19 Aug 2026 04:31:30 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:55:29 GMT"
+   "t": "Naher Osten: Abu Dhabi stoppt Handel mit Iran – Teheran dementiert Raketenangriff auf Emirate - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT2dXOGJNQ0JpMkcxanVzenJVT05PQkgweUEzLURuNTcydWpTVHl1M29NVWo3SGZCeTBiV0JvWW5tRVhqalBtVTdOTktWenAzYXdnNFNELXRXUXc0UVpiTmVCdWRyT1hONlFxb2xHeEN0NUxMaXFTelFxZHZmeGp6WUhOSlpmdHNvQ0w4b25qODhsS0dCZ2xXQUFLMTJGSFFNbzJkMmtfSUxYOWxCMWpJbm9YY1ppTzZkZmhZREhGOFB2T3l2WnFqN3NrYlV5Zjk1SWRvblZaUi1qTjlHQjFwdFJEcllvRjlaNDZMRlB6ZUFfWkhRMHc?oc=5",
+   "pub": "Wed, 19 Aug 2026 02:12:22 GMT"
   }
  ]
 }
