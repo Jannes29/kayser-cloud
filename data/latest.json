@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T13:58:19Z",
+ "collected_at": "2026-08-19T14:53:26Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8026,
-   "chg1d_pct": -0.98
+   "price": 0.8015,
+   "chg1d_pct": -1.12
   },
   "USDJPY": {
-   "price": 158.438,
-   "chg1d_pct": -0.57
+   "price": 158.338,
+   "chg1d_pct": -0.63
   },
   "GBPCAD": {
-   "price": 1.8829,
-   "chg1d_pct": 0.21
+   "price": 1.88,
+   "chg1d_pct": 0.05
   },
   "AUDJPY": {
-   "price": 112.783,
-   "chg1d_pct": -0.42
+   "price": 112.734,
+   "chg1d_pct": -0.46
   },
   "EURUSD": {
-   "price": 1.166,
-   "chg1d_pct": 0.67
+   "price": 1.167,
+   "chg1d_pct": 0.75
   },
   "GBPCHF": {
-   "price": 1.0931,
-   "chg1d_pct": -0.48
+   "price": 1.0907,
+   "chg1d_pct": -0.7
   },
   "WTI": {
-   "price": 84.49,
-   "chg1d_pct": -0.53
+   "price": 84.95,
+   "chg1d_pct": 0.01
   },
   "BRENT": {
-   "price": 91.41,
-   "chg1d_pct": 0.43
+   "price": 91.89,
+   "chg1d_pct": 0.96
   },
   "GOLD": {
-   "price": 4512.1,
-   "chg1d_pct": 3.35
+   "price": 4556.8,
+   "chg1d_pct": 4.37
   },
   "SPX_FUT": {
-   "price": 7734.25,
-   "chg1d_pct": 0.26
+   "price": 7750.25,
+   "chg1d_pct": 0.47
   },
   "NAS_FUT": {
-   "price": 29544.75,
-   "chg1d_pct": -0.14
+   "price": 29557.75,
+   "chg1d_pct": -0.1
   }
  },
  "headlines": [
@@ -64,9 +64,9 @@
    "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
-   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
+   "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
    "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
@@ -74,7 +74,12 @@
    "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
   {
-   "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - tagesspiegel.de",
+   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
+   "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
+  },
+  {
+   "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0kzUURSR3ZaeWdyT0d0bU1sMDFyQjUtc1BhOWZGZW5GN1hFckFrTjI5LUJON1N0bnEwdFF5alAwLWhIVUhkWWFYRWw2d05hTVlZbTd3MExWTnF2c1p4UWszUXJEVnhaLXFxX3VqZGJnOHZzRTlMbEVaWFUtc2p5aGNMb2RXWUtfUGFONHd0NjRfSzY4NVExTkZickdIaU5mY1YxY2JzNWR6YU95dmRGTGRpT0l6MUlqcmphN2ZlNTlzSXJ6N1k5UlJnRllONTBVS0Fpakw3TQ?oc=5",
    "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
   },
@@ -89,24 +94,19 @@
    "pub": "Wed, 19 Aug 2026 08:38:08 GMT"
   },
   {
+   "t": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht? - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnlWTHYtdzVybDJJVXg5Z2h5N3c4V1B6STJRbkNHN1pIeEJyaGlQVDVMWmV2UXdxeUQ4aGRDdkFXdklpMXZFazFGRTFfTWtNMkJyRkQtU0VoREJQSGNiQ21QSE9vNDlLYy1aMnB3eGxFczlvNlFaalR3cEpzci1nRlVfeGxLcjBxeTZDS0FLeUJnNEx0UkRjZWF4UkE2bWtJTVdLRV9qTHdsMEkz?oc=5",
+   "pub": "Wed, 19 Aug 2026 14:02:29 GMT"
+  },
+  {
+   "t": "Iran-Krieg treibt Spritpreise: So viel kostet ein Liter Benzin oder Diesel an der Zapfsäule - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2U3dU9PRGo3MmlMdG55WU1Nb2xmR2FnREZ1cWZfdmZPS0Q1RUdmSGoyUHpZU0FCNGJEYXZLUFcxa2k4Slo5anFpaDRTNDdLcnN5dS1SMzZYQkdUNi1xOXliYkRfWjFtUlhodXNObE8xZnE0aEZnOEl1T0NkUXJXdUh6VXZTaU43T1NMWkZvcFloTm5fbjlfeHVSenEtcDJtTFZnZUtUTlI5STVxMGpfTVFvM2x0cUhSeVFn?oc=5",
+   "pub": "Wed, 19 Aug 2026 09:31:21 GMT"
+  },
+  {
    "t": "Irankrieg: Der beispiellose Kontrollverlust der USA - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDJtbHFHUDZ3a0JBYlU3ZDFKUkNqeW9ZeGdWQjdNQW9sSVpndl9RN21mSW5MZ1huV2ZFYzFKaFpCRWVQWmdHTXhRLW8tVDlJTG1UOFFzRUhMRUwzVHhQeEJ2OUJvQU95Nl9aZXcwX2U5akY0UkNvU29zNFFTQ1lKc2FSVXF3NVIxaWhIMy03elNkOWRUdVF2LQ?oc=5",
    "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
-  },
-  {
-   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUxUcllUSGhkYjNnRGhVZHdrZ0d2azJSWU9qem9CUTExZTNQVUlwcFNsWTNBcEFFOTBlRGpTcnppWW1lSElsdzVzYTNKMGlPeTVMMVY2MjQ5YjZoSlVyQVpzQWdlSlFpaTFCVXNRSTdOLTROaFYyZWFOQUtDZWJJcUs2ZWZYQ084U2EyZFpXUTlvVUFicG40QTQ5Rm9qSXN1Y1dvRkZ5RjFCSEtDTW9KaTQ4RXVkcmw2anhfdWRscHUyTzVMV1pHdm1hNnpHbWFkd2NIWDhHTGhDNU9HckE?oc=5",
-   "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
-  },
-  {
-   "t": "Iran richtete offenbar seit Januar mindestens 900 Menschen hin - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDZydEd3b1d5bmpKdWdoUXlJd1kwR1Y0WkRYOTllTnl6cWxOTmZJZ2gwWU1ESGJxeG5rODJkOE5rVmNYVHZFUnEtTjlJOURlTDFrUjBsek96dDEwMUFDSEhWTjVtdU02OUxYaXhMSGk1WTBJdzI0NTJ6TFJ1WDRSdFZCV09ZVGV2ZDEtN3JuNFc4NDQyOWNMUkVFcHBmX2dGTUNZV21SM2dKYlp6dXg3NVp1Y2N2R1liUXc?oc=5",
-   "pub": "Wed, 19 Aug 2026 13:32:16 GMT"
-  },
-  {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Wed, 19 Aug 2026 07:59:20 GMT"
   }
  ]
 }
