@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-19T03:59:43Z",
+ "collected_at": "2026-08-19T04:52:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8116,
-   "chg1d_pct": 0.13
+   "price": 0.8112,
+   "chg1d_pct": 0.08
   },
   "USDJPY": {
-   "price": 159.42,
-   "chg1d_pct": 0.05
+   "price": 159.319,
+   "chg1d_pct": -0.01
   },
   "GBPCAD": {
    "price": 1.8793,
    "chg1d_pct": 0.02
   },
   "AUDJPY": {
-   "price": 112.753,
-   "chg1d_pct": -0.44
+   "price": 112.597,
+   "chg1d_pct": -0.58
   },
   "EURUSD": {
-   "price": 1.1585,
-   "chg1d_pct": 0.02
+   "price": 1.1587,
+   "chg1d_pct": 0.04
   },
   "GBPCHF": {
-   "price": 1.0986,
-   "chg1d_pct": 0.02
+   "price": 1.0982,
+   "chg1d_pct": -0.01
   },
   "WTI": {
-   "price": 84.73,
-   "chg1d_pct": -0.25
+   "price": 84.68,
+   "chg1d_pct": -0.31
   },
   "BRENT": {
-   "price": 91.54,
-   "chg1d_pct": 0.57
+   "price": 91.6,
+   "chg1d_pct": 0.64
   },
   "GOLD": {
-   "price": 4411.6,
-   "chg1d_pct": 1.04
+   "price": 4398.9,
+   "chg1d_pct": 0.75
   },
   "SPX_FUT": {
-   "price": 7706.75,
-   "chg1d_pct": -0.09
+   "price": 7704.5,
+   "chg1d_pct": -0.12
   },
   "NAS_FUT": {
-   "price": 29522.0,
-   "chg1d_pct": -0.22
+   "price": 29503.75,
+   "chg1d_pct": -0.28
   }
  },
  "headlines": [
+  {
+   "t": "Trump will Oman „in Grund und Boden“ bomben – Iran droht mit Offensive - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTjBkNVI4SzI0NHgwZmZTOGhaWjVmTUNCTzFCLUdIdXZwdVE1ekphTXVCRUxwbDdNbGR0WFFwZlZPR2wxNW1ETDN4eERYWFBvVjVsS2F6bkZqNjFzekdwei0zWG1xbWxCSmJBekxITnFkcjlOZjBDOGRnYjZJOUsyc2tEVlA2UTg3RTJObDVfNDEyTGhnRS1Pd0ZLZzJoV0VnV0JqX2tULVlGcDdlMmprLVh5bzB1LWFkMFhxVlVpYkxFRFNX?oc=5",
+   "pub": "Wed, 19 Aug 2026 02:46:00 GMT"
+  },
   {
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
@@ -74,6 +79,11 @@
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
   },
   {
+   "t": "Handelsbeziehungen abgebrochen: Emirate melden iranischen Raketenangriff - Teheran dementiert - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHA1c3A2QVltUWI1dUtDTnJDV2tQWVAzLVFnck1CUFI4SF9hc2V0TXpiVUd5V0N0ek9aaVNlZnZ4QmRpaHFoVVVndjJCZVFfUkJveEtfU0ZuWDZFN2lpalJrNXFkRXNiQXZVOUVDVzhiOTh1c09zNzA5NWx0Z2NUVTNlX0pDOVJRbTlNamxFWEo3b1NQaGFQVnd6eHJITFVNZGdyaVZn?oc=5",
+   "pub": "Wed, 19 Aug 2026 01:21:25 GMT"
+  },
+  {
    "t": "Große Mehrheit geht von langem Iran-Krieg aus Trumps Umfragewerte fallen vor Zwischenwahlen auf Rekordtief - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQW40b01KbDUzLWg5dkNPVVgxeTZCaEJCQXhzbUhhMXd4b05XazBieUdhaGVvTnRHOTFzaFh2elNzLW1EUkRPbTVibHVnYWFSQXcwS1VWZDU4QmR2LXUwU1MxT2FTZ2psY0N0TFFBa0g1dFBWQW5SZlR3XzkwT2ZOTWlRQUlZSENiUkRQdHljLTZmTmZYZGJIclRNTFJSdmNYSkhLdzYzeVNvSGNTM0RfaHV6TVMxS21RcG85VVRwOTg3WlllUGE0UFhnY2lzaFB0TFB1OEx3NmpzRkJESk9vNEdvejh4VXBkMjhzd0htbFEwVEpaSzRvcw?oc=5",
    "pub": "Tue, 18 Aug 2026 13:18:00 GMT"
@@ -81,7 +91,12 @@
   {
    "t": "Trump droht Oman: Die schwierige Rolle des Vermittlers - DW.com",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGVEVzlaNnRoSEdyUG9tSVN4MTBMX2xkYnhkV1lyMGVoNVFqVzJjaUlEbEk3ZWhaamRXTmlkOXA5R2xHLWxWVzhzNTZNaWpLdHdHanA0S3otWFR4T1lfOUVHWjBSdGVRWFc3ZVdDTVJnRmdXd3JSQzVYZXdMQTc4QWdZVlFLai1PeE9tc1lITdIBjwFBVV95cUxOajJ0TjhrNk5yMC1OZ05JZzFpTng4TmdyZ3hfMGk3SUVDaVVsZlUwLU4zUWJ5cmNXNFU2LVFUdUhOVWxzbjducTRhVzFBVWNtSUVoWFpPZ0YydlRkMHpSUl9mclRQQXQteE9FdHRWVk9XSGhCcHJoTWxTVTI0NmRlcmxUYmcwalJGZ3Q5TER6UQ?oc=5",
-   "pub": "Tue, 18 Aug 2026 14:57:10 GMT"
+   "pub": "Tue, 18 Aug 2026 18:49:15 GMT"
+  },
+  {
+   "t": "Trump erklärt Hormus zum \"US-Territorium\" – Iran bereitet größeren Krieg vor - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemhPQTROMlYxQ2w2OTI3TUt1SmxfQmRTMVk1OXZDS1Q0MUp6cElMYVpBSnd6WXc5ZDU5OER1RFpVSm5FOHlpcVg5aXVxQ01hTndtc0R1Z0R0bHN1Tzg3eEgwY0F2YkFyQkxPdVEwTk5DNEFSeE5STDNRLXRsUlllM0FhQkF2NFhYZ1BrN1BkdDZjUUhHZ3VWYnkwNzRPV2VGbkgzZloydmM3cDNIREFRWnpONGt0RFFqZ3E4OXBOc1hfdnVLcnRULTMzNFh4V1FuakE?oc=5",
+   "pub": "Tue, 18 Aug 2026 17:30:39 GMT"
   },
   {
    "t": "Krieg in Nahost: Trump postet Karte mit Straße von Hormus als US‑Gebiet – Iran feuert Raketen in Richtung Emirate - WELT",
@@ -92,21 +107,6 @@
    "t": "„Wir sind bereit zur Eskalation in der Straße von Hormus“ - FAZ",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFVTdVhlOGJ6SjVnTlpvUTBLdlFnWUVLVFZDX1ZFbi1ETjZudTdhNlFYb3NJS3RCLV9qZVpiY1lZWWhzbnNhUUhCcTBRLTJkWUtxenJkazh4dUwwNEM5dHJxM1Y3YjFqZzdLYnlmUHRwWWFhajF6dVZ3LVI5dElmOGtOWDFKWU9idGpWT2R2M1R2VkNEUlV5VWRPbjVQY1hjT0RQclMwMms2MlBLOG1IY1hqbEdoYTg?oc=5",
    "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
-  },
-  {
-   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
-  },
-  {
-   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
-   "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
-  },
-  {
-   "t": "Ende der 60-Tage-Frist: Trump: Derzeit keine Gespräche mit dem Iran - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWS1mN1FWUFVRZzktYUxGZWt0d3hYZkhqYzR1MVRyeUZUSUhvbWlpcWpFX0NKWnh3ckd6Rkxva0pneDIzVVhkNWloblYwekZNdl8yUWR0Wk1jNUYyc2ZOX0gyWDBfXzU5aXVUbGhZcllnWDZpcXJ3NW9UY2pYTTBVTXhRaXdqLWdoSDdBX01QWTZPN01L?oc=5",
-   "pub": "Tue, 18 Aug 2026 14:11:19 GMT"
   }
  ]
 }
