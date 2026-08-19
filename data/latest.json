@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-18T23:37:57Z",
+ "collected_at": "2026-08-19T01:53:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8126,
-   "chg1d_pct": 0.25
+   "price": 0.8121,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 159.591,
-   "chg1d_pct": 0.16
+   "price": 159.481,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8809,
-   "chg1d_pct": 0.1
+   "price": 1.8803,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 112.995,
-   "chg1d_pct": -0.23
+   "price": 112.825,
+   "chg1d_pct": -0.38
   },
   "EURUSD": {
-   "price": 1.1577,
-   "chg1d_pct": -0.05
+   "price": 1.1579,
+   "chg1d_pct": -0.03
   },
   "GBPCHF": {
-   "price": 1.0996,
-   "chg1d_pct": 0.11
+   "price": 1.0985,
+   "chg1d_pct": 0.01
   },
   "WTI": {
-   "price": 84.47,
-   "chg1d_pct": -0.04
+   "price": 84.89,
+   "chg1d_pct": 0.46
   },
   "BRENT": {
-   "price": 91.38,
-   "chg1d_pct": 0.56
+   "price": 91.73,
+   "chg1d_pct": 0.95
   },
   "GOLD": {
-   "price": 4385.2,
-   "chg1d_pct": -0.74
+   "price": 4408.3,
+   "chg1d_pct": -0.22
   },
   "SPX_FUT": {
-   "price": 7712.25,
-   "chg1d_pct": -0.73
+   "price": 7711.0,
+   "chg1d_pct": -0.74
   },
   "NAS_FUT": {
-   "price": 29551.25,
-   "chg1d_pct": -1.81
+   "price": 29568.25,
+   "chg1d_pct": -1.75
   }
  },
  "headlines": [
@@ -64,6 +64,11 @@
    "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
   },
   {
+   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
+   "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
+  },
+  {
    "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0VsbGdIS0t1YTlSRFNnZU1aRE01bDJPdUlKcDljSTg4My01VmxVQTZkVUVCQXJwV0YzMWluajlxX3ZDWGQzb2s1R2M4ZXdqTzRZa0hmWUM5cHl0ZzlrYmprbzl6ODd0QjVBTGxNdGo3VXVBVkkzYk1lWnJTNlktVXNKaTlfVkRuQi14bGdYb2FqZXFwd1Jjb19QUzlOWGF2Y0xQVi11aUFnUGZ6d2tQdm1yWFJJM1RzeXVqRE5R?oc=5",
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
@@ -79,19 +84,14 @@
    "pub": "Tue, 18 Aug 2026 14:57:10 GMT"
   },
   {
-   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
-   "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+   "t": "Liveticker zum Iran-Krieg: Trump: Keine Gespräche mit dem Iran geplant - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFlObmNtc3Z1TEd6S3RJbTlTY3kxbnBsUTFyZkFtUEhGcHJDSmw2VXA5aEx1cl8tZDhMWkVqM1BKMHlxb3lOZm02QkliaVlGMlhqSTdqUTB4OHBwdWF3N2tTbGlhWEJ4SlBzRGlRLXdHSXdIXzhsRjZ6T2c0T2kyZ200WHJiUzhqOWxBYjVHb0RlbG9Fc21zZTlpSTZEbWItYXI3NmJHUVdhX2JaLXN1RENtM1pUQmRLc1dnTGVWenFaV2JBNTVZ?oc=5",
+   "pub": "Tue, 18 Aug 2026 16:03:51 GMT"
   },
   {
    "t": "Trump erklärt Hormus zum \"US-Territorium\" – Iran bereitet größeren Krieg vor - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemhPQTROMlYxQ2w2OTI3TUt1SmxfQmRTMVk1OXZDS1Q0MUp6cElMYVpBSnd6WXc5ZDU5OER1RFpVSm5FOHlpcVg5aXVxQ01hTndtc0R1Z0R0bHN1Tzg3eEgwY0F2YkFyQkxPdVEwTk5DNEFSeE5STDNRLXRsUlllM0FhQkF2NFhYZ1BrN1BkdDZjUUhHZ3VWYnkwNzRPV2VGbkgzZloydmM3cDNIREFRWnpONGt0RFFqZ3E4OXBOc1hfdnVLcnRULTMzNFh4V1FuakE?oc=5",
    "pub": "Tue, 18 Aug 2026 17:30:39 GMT"
-  },
-  {
-   "t": "Liveticker zum Iran-Krieg: Trump: Keine Gespräche mit dem Iran geplant - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTFlObmNtc3Z1TEd6S3RJbTlTY3kxbnBsUTFyZkFtUEhGcHJDSmw2VXA5aEx1cl8tZDhMWkVqM1BKMHlxb3lOZm02QkliaVlGMlhqSTdqUTB4OHBwdWF3N2tTbGlhWEJ4SlBzRGlRLXdHSXdIXzhsRjZ6T2c0T2kyZ200WHJiUzhqOWxBYjVHb0RlbG9Fc21zZTlpSTZEbWItYXI3NmJHUVdhX2JaLXN1RENtM1pUQmRLc1dnTGVWenFaV2JBNTVZ?oc=5",
-   "pub": "Tue, 18 Aug 2026 16:03:51 GMT"
   },
   {
    "t": "Krieg in Nahost: Trump postet Karte mit Straße von Hormus als US‑Gebiet – Iran feuert Raketen in Richtung Emirate - WELT",
