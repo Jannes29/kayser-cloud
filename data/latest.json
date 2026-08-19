@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T04:52:42Z",
+ "collected_at": "2026-08-19T05:47:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8112,
-   "chg1d_pct": 0.08
+   "price": 0.8111,
+   "chg1d_pct": 0.06
   },
   "USDJPY": {
-   "price": 159.319,
-   "chg1d_pct": -0.01
+   "price": 159.253,
+   "chg1d_pct": -0.05
   },
   "GBPCAD": {
-   "price": 1.8793,
-   "chg1d_pct": 0.02
-  },
-  "AUDJPY": {
-   "price": 112.597,
-   "chg1d_pct": -0.58
-  },
-  "EURUSD": {
-   "price": 1.1587,
+   "price": 1.8797,
    "chg1d_pct": 0.04
   },
+  "AUDJPY": {
+   "price": 112.578,
+   "chg1d_pct": -0.6
+  },
+  "EURUSD": {
+   "price": 1.1592,
+   "chg1d_pct": 0.08
+  },
   "GBPCHF": {
-   "price": 1.0982,
-   "chg1d_pct": -0.01
+   "price": 1.0985,
+   "chg1d_pct": 0.01
   },
   "WTI": {
-   "price": 84.68,
-   "chg1d_pct": -0.31
+   "price": 84.65,
+   "chg1d_pct": -0.34
   },
   "BRENT": {
-   "price": 91.6,
-   "chg1d_pct": 0.64
+   "price": 91.59,
+   "chg1d_pct": 0.63
   },
   "GOLD": {
-   "price": 4398.9,
-   "chg1d_pct": 0.75
+   "price": 4394.1,
+   "chg1d_pct": 0.64
   },
   "SPX_FUT": {
-   "price": 7704.5,
-   "chg1d_pct": -0.12
+   "price": 7700.25,
+   "chg1d_pct": -0.18
   },
   "NAS_FUT": {
-   "price": 29503.75,
-   "chg1d_pct": -0.28
+   "price": 29473.0,
+   "chg1d_pct": -0.38
   }
  },
  "headlines": [
@@ -56,7 +56,7 @@
   {
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Tue, 18 Aug 2026 22:54:56 GMT"
+   "pub": "Wed, 19 Aug 2026 01:55:29 GMT"
   },
   {
    "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - Spiegel",
@@ -69,19 +69,14 @@
    "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
   },
   {
-   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUhFOWlKbElBZ2xEVk1YRlFmd000eWItNjJ1cmpxYnN1SHZpUVZqSGFPN1pEenRlRm1fclZIeENfa2gzQWFteVJJQl9TMEt3eFNaVUU5b0N6TnU4cXRJdk9SVEh4RTRSUXJ4dEQwQWlRYjRkeW1CZTRJTkRMWWlvWGFITzJ6SEN4UzR4RHFjMzlaZUcwQUEzYzlCQWp6Z1g1ZU9lQXBrRVhqQQ?oc=5",
-   "pub": "Wed, 19 Aug 2026 02:00:00 GMT"
-  },
-  {
    "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0VsbGdIS0t1YTlSRFNnZU1aRE01bDJPdUlKcDljSTg4My01VmxVQTZkVUVCQXJwV0YzMWluajlxX3ZDWGQzb2s1R2M4ZXdqTzRZa0hmWUM5cHl0ZzlrYmprbzl6ODd0QjVBTGxNdGo3VXVBVkkzYk1lWnJTNlktVXNKaTlfVkRuQi14bGdYb2FqZXFwd1Jjb19QUzlOWGF2Y0xQVi11aUFnUGZ6d2tQdm1yWFJJM1RzeXVqRE5R?oc=5",
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
   },
   {
-   "t": "Handelsbeziehungen abgebrochen: Emirate melden iranischen Raketenangriff - Teheran dementiert - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHA1c3A2QVltUWI1dUtDTnJDV2tQWVAzLVFnck1CUFI4SF9hc2V0TXpiVUd5V0N0ek9aaVNlZnZ4QmRpaHFoVVVndjJCZVFfUkJveEtfU0ZuWDZFN2lpalJrNXFkRXNiQXZVOUVDVzhiOTh1c09zNzA5NWx0Z2NUVTNlX0pDOVJRbTlNamxFWEo3b1NQaGFQVnd6eHJITFVNZGdyaVZn?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:21:25 GMT"
+   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTUhFOWlKbElBZ2xEVk1YRlFmd000eWItNjJ1cmpxYnN1SHZpUVZqSGFPN1pEenRlRm1fclZIeENfa2gzQWFteVJJQl9TMEt3eFNaVUU5b0N6TnU4cXRJdk9SVEh4RTRSUXJ4dEQwQWlRYjRkeW1CZTRJTkRMWWlvWGFITzJ6SEN4UzR4RHFjMzlaZUcwQUEzYzlCQWp6Z1g1ZU9lQXBrRVhqQQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 02:00:00 GMT"
   },
   {
    "t": "Große Mehrheit geht von langem Iran-Krieg aus Trumps Umfragewerte fallen vor Zwischenwahlen auf Rekordtief - Tagesspiegel",
@@ -89,24 +84,29 @@
    "pub": "Tue, 18 Aug 2026 13:18:00 GMT"
   },
   {
+   "t": "Handelsbeziehungen abgebrochen: Emirate melden iranischen Raketenangriff - Teheran dementiert - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHA1c3A2QVltUWI1dUtDTnJDV2tQWVAzLVFnck1CUFI4SF9hc2V0TXpiVUd5V0N0ek9aaVNlZnZ4QmRpaHFoVVVndjJCZVFfUkJveEtfU0ZuWDZFN2lpalJrNXFkRXNiQXZVOUVDVzhiOTh1c09zNzA5NWx0Z2NUVTNlX0pDOVJRbTlNamxFWEo3b1NQaGFQVnd6eHJITFVNZGdyaVZn?oc=5",
+   "pub": "Wed, 19 Aug 2026 01:21:25 GMT"
+  },
+  {
    "t": "Trump droht Oman: Die schwierige Rolle des Vermittlers - DW.com",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNGVEVzlaNnRoSEdyUG9tSVN4MTBMX2xkYnhkV1lyMGVoNVFqVzJjaUlEbEk3ZWhaamRXTmlkOXA5R2xHLWxWVzhzNTZNaWpLdHdHanA0S3otWFR4T1lfOUVHWjBSdGVRWFc3ZVdDTVJnRmdXd3JSQzVYZXdMQTc4QWdZVlFLai1PeE9tc1lITdIBjwFBVV95cUxOajJ0TjhrNk5yMC1OZ05JZzFpTng4TmdyZ3hfMGk3SUVDaVVsZlUwLU4zUWJ5cmNXNFU2LVFUdUhOVWxzbjducTRhVzFBVWNtSUVoWFpPZ0YydlRkMHpSUl9mclRQQXQteE9FdHRWVk9XSGhCcHJoTWxTVTI0NmRlcmxUYmcwalJGZ3Q5TER6UQ?oc=5",
    "pub": "Tue, 18 Aug 2026 18:49:15 GMT"
   },
   {
-   "t": "Trump erklärt Hormus zum \"US-Territorium\" – Iran bereitet größeren Krieg vor - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOemhPQTROMlYxQ2w2OTI3TUt1SmxfQmRTMVk1OXZDS1Q0MUp6cElMYVpBSnd6WXc5ZDU5OER1RFpVSm5FOHlpcVg5aXVxQ01hTndtc0R1Z0R0bHN1Tzg3eEgwY0F2YkFyQkxPdVEwTk5DNEFSeE5STDNRLXRsUlllM0FhQkF2NFhYZ1BrN1BkdDZjUUhHZ3VWYnkwNzRPV2VGbkgzZloydmM3cDNIREFRWnpONGt0RFFqZ3E4OXBOc1hfdnVLcnRULTMzNFh4V1FuakE?oc=5",
-   "pub": "Tue, 18 Aug 2026 17:30:39 GMT"
+   "t": "Trump droht Iran mit Angriff - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2RBb2xSTGF5azdxYllTeUh3NzFFcFVMdVMycXVTZXkxcEc2REVBNUxBRENFZGk2RDlkbDU5SzNKeGhqdk5pV0pqZ3Z4ZGptM2ZnUmJ1VWFRdDIzc2hXSXlEV3dCbVAzN2RISFYxVGVKSjRPV0VpeUtYbGdCUEYxZWZaajlqejg?oc=5",
+   "pub": "Wed, 19 Aug 2026 03:30:00 GMT"
+  },
+  {
+   "t": "Trump will Oman bombardieren + Iranischer Raketenangriff auf Emirate - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNGgzLXB4T1lYaGJWaWJ0SnFKQXdDZEk4Zjh6OVc5SGZEa09lV2pGQlFKZ1pvT2d2QVU3ampma3RGSEY2cDR0TVcwaVNPdzItZHJpb0RLLThKWmZGM2o3TlZmTFRsUUh1U1dLempSTF9kcFFDMUJvSkpxaWtqMmp6SFQxTy1pYjlsRzFha3M2dHZGWDhmOTlaUzdqZi1DN09XMmpnOGM4THhTalVQNzJTSFdCVnZNa01DTGwtejRnSm94UQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 04:35:48 GMT"
   },
   {
    "t": "Krieg in Nahost: Trump postet Karte mit Straße von Hormus als US‑Gebiet – Iran feuert Raketen in Richtung Emirate - WELT",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQUTh3cW9uQ1RXR1NGVmNsNjZNeEVGd3I3U0l3eHl3dmtVN2FVclJMdTZnSHE5UFVtYXloQnJ2bUlvNXRJUnkwQnlrdzRxYkRfZk9IcWxNS1hqZTc0MWlMZFpjbXdqZ1Znby1qc2dsblA5TzdwdDBYaGhmLUdQSjZ1M0Yyc1luWU5QX1kxaHNFcjZPTDljWmdlODRORlVuNWZMcmR3QV8zUnYwNm8yV2ljbWZhelNPUXR1Q0ZDYlEyQ0tzWE1iWXk5eFlMX0RxcTZ2VFRhSmNxdHNkSDVlcXM1OHRMc2FnYW1uRVppcDU5VDU4VkpZRnd6SXNucDlzM3V2VkJvMllR?oc=5",
    "pub": "Tue, 18 Aug 2026 18:30:07 GMT"
-  },
-  {
-   "t": "„Wir sind bereit zur Eskalation in der Straße von Hormus“ - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFVTdVhlOGJ6SjVnTlpvUTBLdlFnWUVLVFZDX1ZFbi1ETjZudTdhNlFYb3NJS3RCLV9qZVpiY1lZWWhzbnNhUUhCcTBRLTJkWUtxenJkazh4dUwwNEM5dHJxM1Y3YjFqZzdLYnlmUHRwWWFhajF6dVZ3LVI5dElmOGtOWDFKWU9idGpWT2R2M1R2VkNEUlV5VWRPbjVQY1hjT0RQclMwMms2MlBLOG1IY1hqbEdoYTg?oc=5",
-   "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
   }
  ]
 }
