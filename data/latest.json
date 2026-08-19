@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-19T13:09:48Z",
+ "collected_at": "2026-08-19T13:58:19Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.806,
-   "chg1d_pct": -0.57
+   "price": 0.8026,
+   "chg1d_pct": -0.98
   },
   "USDJPY": {
-   "price": 158.453,
-   "chg1d_pct": -0.56
+   "price": 158.438,
+   "chg1d_pct": -0.57
   },
   "GBPCAD": {
-   "price": 1.8833,
-   "chg1d_pct": 0.23
+   "price": 1.8829,
+   "chg1d_pct": 0.21
   },
   "AUDJPY": {
-   "price": 112.708,
-   "chg1d_pct": -0.48
+   "price": 112.783,
+   "chg1d_pct": -0.42
   },
   "EURUSD": {
-   "price": 1.1648,
-   "chg1d_pct": 0.56
+   "price": 1.166,
+   "chg1d_pct": 0.67
   },
   "GBPCHF": {
-   "price": 1.0967,
-   "chg1d_pct": -0.15
+   "price": 1.0931,
+   "chg1d_pct": -0.48
   },
   "WTI": {
-   "price": 83.94,
-   "chg1d_pct": -1.18
+   "price": 84.49,
+   "chg1d_pct": -0.53
   },
   "BRENT": {
-   "price": 90.95,
-   "chg1d_pct": -0.08
+   "price": 91.41,
+   "chg1d_pct": 0.43
   },
   "GOLD": {
-   "price": 4495.9,
-   "chg1d_pct": 2.98
+   "price": 4512.1,
+   "chg1d_pct": 3.35
   },
   "SPX_FUT": {
-   "price": 7748.5,
-   "chg1d_pct": 0.45
+   "price": 7734.25,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 29743.75,
-   "chg1d_pct": 0.53
+   "price": 29544.75,
+   "chg1d_pct": -0.14
   }
  },
  "headlines": [
   {
-   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - juedische-allgemeine.de",
+   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
    "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
   },
@@ -64,24 +64,24 @@
    "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
-   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - berliner-zeitung.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
-   "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
-  },
-  {
    "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
    "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
   },
   {
+   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
+   "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
+  },
+  {
+   "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - tagesspiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0kzUURSR3ZaeWdyT0d0bU1sMDFyQjUtc1BhOWZGZW5GN1hFckFrTjI5LUJON1N0bnEwdFF5alAwLWhIVUhkWWFYRWw2d05hTVlZbTd3MExWTnF2c1p4UWszUXJEVnhaLXFxX3VqZGJnOHZzRTlMbEVaWFUtc2p5aGNMb2RXWUtfUGFONHd0NjRfSzY4NVExTkZickdIaU5mY1YxY2JzNWR6YU95dmRGTGRpT0l6MUlqcmphN2ZlNTlzSXJ6N1k5UlJnRllONTBVS0Fpakw3TQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
+  },
+  {
    "t": "„Keine Gespräche, keine Unterredungen“: Trump friert Iran-Verhandlungen ein – und widerspricht sich selbst - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFdEMmp0SU1fU0JSTThRaFJKMVRrcjd3MGlnT1BJcTZUMjFqZEZkN2hQRWhfYzdtckd4QUMxTEM5S0FTTWFrcmtmbENoMHUyYl8xV3ByWkI2ckZ2WjQyeTdIX2ZZYTJ5RXp0ZzdmMUpsemFfZXJONHZHQ1lnUWM3bGxIX1VFS0thQk1jMVBXbkpSVVVZS0dEb0g2cjM1Ukp2Sk9CTWFzb3RENVZp?oc=5",
    "pub": "Wed, 19 Aug 2026 08:08:15 GMT"
-  },
-  {
-   "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0kzUURSR3ZaeWdyT0d0bU1sMDFyQjUtc1BhOWZGZW5GN1hFckFrTjI5LUJON1N0bnEwdFF5alAwLWhIVUhkWWFYRWw2d05hTVlZbTd3MExWTnF2c1p4UWszUXJEVnhaLXFxX3VqZGJnOHZzRTlMbEVaWFUtc2p5aGNMb2RXWUtfUGFONHd0NjRfSzY4NVExTkZickdIaU5mY1YxY2JzNWR6YU95dmRGTGRpT0l6MUlqcmphN2ZlNTlzSXJ6N1k5UlJnRllONTBVS0Fpakw3TQ?oc=5",
-   "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
   },
   {
    "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
@@ -99,9 +99,9 @@
    "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
   },
   {
-   "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0VsbGdIS0t1YTlSRFNnZU1aRE01bDJPdUlKcDljSTg4My01VmxVQTZkVUVCQXJwV0YzMWluajlxX3ZDWGQzb2s1R2M4ZXdqTzRZa0hmWUM5cHl0ZzlrYmprbzl6ODd0QjVBTGxNdGo3VXVBVkkzYk1lWnJTNlktVXNKaTlfVkRuQi14bGdYb2FqZXFwd1Jjb19QUzlOWGF2Y0xQVi11aUFnUGZ6d2tQdm1yWFJJM1RzeXVqRE5R?oc=5",
-   "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
+   "t": "Iran richtete offenbar seit Januar mindestens 900 Menschen hin - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDZydEd3b1d5bmpKdWdoUXlJd1kwR1Y0WkRYOTllTnl6cWxOTmZJZ2gwWU1ESGJxeG5rODJkOE5rVmNYVHZFUnEtTjlJOURlTDFrUjBsek96dDEwMUFDSEhWTjVtdU02OUxYaXhMSGk1WTBJdzI0NTJ6TFJ1WDRSdFZCV09ZVGV2ZDEtN3JuNFc4NDQyOWNMUkVFcHBmX2dGTUNZV21SM2dKYlp6dXg3NVp1Y2N2R1liUXc?oc=5",
+   "pub": "Wed, 19 Aug 2026 13:32:16 GMT"
   },
   {
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
