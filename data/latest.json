@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T15:47:13Z",
+ "collected_at": "2026-08-19T16:47:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7995,
-   "chg1d_pct": -1.37
+   "price": 0.799,
+   "chg1d_pct": -1.43
   },
   "USDJPY": {
-   "price": 158.438,
-   "chg1d_pct": -0.57
+   "price": 158.353,
+   "chg1d_pct": -0.62
   },
   "GBPCAD": {
-   "price": 1.8806,
-   "chg1d_pct": 0.09
+   "price": 1.8798,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 112.852,
-   "chg1d_pct": -0.35
+   "price": 112.821,
+   "chg1d_pct": -0.38
   },
   "EURUSD": {
-   "price": 1.1669,
-   "chg1d_pct": 0.74
+   "price": 1.1674,
+   "chg1d_pct": 0.79
   },
   "GBPCHF": {
-   "price": 1.0878,
-   "chg1d_pct": -0.96
+   "price": 1.0876,
+   "chg1d_pct": -0.98
   },
   "WTI": {
-   "price": 85.31,
-   "chg1d_pct": 0.44
+   "price": 85.48,
+   "chg1d_pct": 0.64
   },
   "BRENT": {
-   "price": 92.25,
-   "chg1d_pct": 1.35
+   "price": 92.38,
+   "chg1d_pct": 1.49
   },
   "GOLD": {
-   "price": 4544.9,
-   "chg1d_pct": 4.1
+   "price": 4551.7,
+   "chg1d_pct": 4.25
   },
   "SPX_FUT": {
-   "price": 7744.75,
-   "chg1d_pct": 0.4
+   "price": 7744.0,
+   "chg1d_pct": 0.39
   },
   "NAS_FUT": {
-   "price": 29575.0,
-   "chg1d_pct": -0.04
+   "price": 29602.5,
+   "chg1d_pct": 0.06
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
-   "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
-  },
-  {
    "t": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht? - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnlWTHYtdzVybDJJVXg5Z2h5N3c4V1B6STJRbkNHN1pIeEJyaGlQVDVMWmV2UXdxeUQ4aGRDdkFXdklpMXZFazFGRTFfTWtNMkJyRkQtU0VoREJQSGNiQ21QSE9vNDlLYy1aMnB3eGxFczlvNlFaalR3cEpzci1nRlVfeGxLcjBxeTZDS0FLeUJnNEx0UkRjZWF4UkE2bWtJTVdLRV9qTHdsMEkz?oc=5",
    "pub": "Wed, 19 Aug 2026 14:03:51 GMT"
+  },
+  {
+   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
+   "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
   },
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
@@ -74,29 +74,14 @@
    "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
-   "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFBdU8yQ1E1WjVRNlRzRUQwM1pDWFBKSjZFTzNSTHlobG1wenVXNlF0MFJVdGhNX3NyZzRYMVZHdGpDdEwwZGpMX1BRaXpkb0c3RU1YNXZUU2cwRmE1WFMwXy0wU0piR2NaVnZNRG9MNHdScEVGV0pfc2YwZzFiQXBSQ0JzV3BDYURjaHlIZjNRZGg0R2lVaXhTYWtkTldTYXVMblVzaG9pR0Y1RzFWc0oyWFZTNVYyQjBRMEt4TDNFMzA?oc=5",
-   "pub": "Wed, 19 Aug 2026 08:38:08 GMT"
-  },
-  {
-   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg treibt Spritpreise: So viel kostet ein Liter Benzin oder Diesel an der Zapfsäule - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2U3dU9PRGo3MmlMdG55WU1Nb2xmR2FnREZ1cWZfdmZPS0Q1RUdmSGoyUHpZU0FCNGJEYXZLUFcxa2k4Slo5anFpaDRTNDdLcnN5dS1SMzZYQkdUNi1xOXliYkRfWjFtUlhodXNObE8xZnE0aEZnOEl1T0NkUXJXdUh6VXZTaU43T1NMWkZvcFloTm5fbjlfeHVSenEtcDJtTFZnZUtUTlI5STVxMGpfTVFvM2x0cUhSeVFn?oc=5",
-   "pub": "Wed, 19 Aug 2026 12:34:01 GMT"
-  },
-  {
    "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
    "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
   {
-   "t": "„Keine Gespräche, keine Unterredungen“: Trump friert Iran-Verhandlungen ein – und widerspricht sich selbst - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFdEMmp0SU1fU0JSTThRaFJKMVRrcjd3MGlnT1BJcTZUMjFqZEZkN2hQRWhfYzdtckd4QUMxTEM5S0FTTWFrcmtmbENoMHUyYl8xV3ByWkI2ckZ2WjQyeTdIX2ZZYTJ5RXp0ZzdmMUpsemFfZXJONHZHQ1lnUWM3bGxIX1VFS0thQk1jMVBXbkpSVVVZS0dEb0g2cjM1Ukp2Sk9CTWFzb3RENVZp?oc=5",
-   "pub": "Wed, 19 Aug 2026 08:08:15 GMT"
+   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
+   "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
   },
   {
    "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - Tagesspiegel",
@@ -104,9 +89,24 @@
    "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
   },
   {
+   "t": "„Keine Gespräche, keine Unterredungen“: Trump friert Iran-Verhandlungen ein – und widerspricht sich selbst - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFdEMmp0SU1fU0JSTThRaFJKMVRrcjd3MGlnT1BJcTZUMjFqZEZkN2hQRWhfYzdtckd4QUMxTEM5S0FTTWFrcmtmbENoMHUyYl8xV3ByWkI2ckZ2WjQyeTdIX2ZZYTJ5RXp0ZzdmMUpsemFfZXJONHZHQ1lnUWM3bGxIX1VFS0thQk1jMVBXbkpSVVVZS0dEb0g2cjM1Ukp2Sk9CTWFzb3RENVZp?oc=5",
+   "pub": "Wed, 19 Aug 2026 08:08:15 GMT"
+  },
+  {
    "t": "Iran-Krieg: Gaspreis steigt in Europa auf höchsten Stand seit März - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3dkZHB3UG5zRVdRc09qRjhlZ0lDcmtCd2dPYkVBLW9ENTFwN1BkdlVtVmpuQi1ZMHQ4UUlqeVJNRE1YdEhVeC1HeEJlQkVVNkN6b2JURUpCUU1Jc1hoZUM1X2ZWRGxmRHVGb2tRZUM0Z1hZamo0Q1ROX2JHRFM4Wks4bkp3YlFlc3RCbUVWRkwwQzRmMm1CRGItM1NVQ2owLWQtaWp6eTJhMERaWWVNUGpWSGRQSjJTdmFNQUhiUXBtRlI3U2NOT09QODRUcjViYVhsOWxXWQ?oc=5",
    "pub": "Wed, 19 Aug 2026 12:24:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg treibt Spritpreise: So viel kostet ein Liter Benzin oder Diesel an der Zapfsäule - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2U3dU9PRGo3MmlMdG55WU1Nb2xmR2FnREZ1cWZfdmZPS0Q1RUdmSGoyUHpZU0FCNGJEYXZLUFcxa2k4Slo5anFpaDRTNDdLcnN5dS1SMzZYQkdUNi1xOXliYkRfWjFtUlhodXNObE8xZnE0aEZnOEl1T0NkUXJXdUh6VXZTaU43T1NMWkZvcFloTm5fbjlfeHVSenEtcDJtTFZnZUtUTlI5STVxMGpfTVFvM2x0cUhSeVFn?oc=5",
+   "pub": "Wed, 19 Aug 2026 09:31:21 GMT"
+  },
+  {
+   "t": "Iran richtete offenbar seit Januar mindestens 900 Menschen hin - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDZydEd3b1d5bmpKdWdoUXlJd1kwR1Y0WkRYOTllTnl6cWxOTmZJZ2gwWU1ESGJxeG5rODJkOE5rVmNYVHZFUnEtTjlJOURlTDFrUjBsek96dDEwMUFDSEhWTjVtdU02OUxYaXhMSGk1WTBJdzI0NTJ6TFJ1WDRSdFZCV09ZVGV2ZDEtN3JuNFc4NDQyOWNMUkVFcHBmX2dGTUNZV21SM2dKYlp6dXg3NVp1Y2N2R1liUXc?oc=5",
+   "pub": "Wed, 19 Aug 2026 13:32:16 GMT"
   }
  ]
 }
