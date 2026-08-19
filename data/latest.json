@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T22:42:55Z",
+ "collected_at": "2026-08-19T23:38:10Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7973,
-   "chg1d_pct": -1.84
+   "price": 0.7976,
+   "chg1d_pct": -1.8
   },
   "USDJPY": {
-   "price": 158.122,
-   "chg1d_pct": -0.9
+   "price": 158.229,
+   "chg1d_pct": -0.83
   },
   "GBPCAD": {
-   "price": 1.8785,
-   "chg1d_pct": -0.15
+   "price": 1.8778,
+   "chg1d_pct": -0.18
   },
   "AUDJPY": {
-   "price": 112.688,
-   "chg1d_pct": -0.26
+   "price": 112.739,
+   "chg1d_pct": -0.21
   },
   "EURUSD": {
-   "price": 1.1681,
-   "chg1d_pct": 0.88
+   "price": 1.1678,
+   "chg1d_pct": 0.85
   },
   "GBPCHF": {
-   "price": 1.0847,
-   "chg1d_pct": -1.34
+   "price": 1.0848,
+   "chg1d_pct": -1.33
   },
   "WTI": {
-   "price": 84.37,
-   "chg1d_pct": -0.67
+   "price": 84.51,
+   "chg1d_pct": -0.51
   },
   "BRENT": {
-   "price": 91.53,
-   "chg1d_pct": 0.56
+   "price": 91.72,
+   "chg1d_pct": 0.77
   },
   "GOLD": {
-   "price": 4575.3,
-   "chg1d_pct": 4.79
+   "price": 4573.7,
+   "chg1d_pct": 4.76
   },
   "SPX_FUT": {
-   "price": 7738.25,
-   "chg1d_pct": 0.31
+   "price": 7741.5,
+   "chg1d_pct": 0.36
   },
   "NAS_FUT": {
-   "price": 29616.0,
-   "chg1d_pct": 0.1
+   "price": 29651.25,
+   "chg1d_pct": 0.22
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht? - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnlWTHYtdzVybDJJVXg5Z2h5N3c4V1B6STJRbkNHN1pIeEJyaGlQVDVMWmV2UXdxeUQ4aGRDdkFXdklpMXZFazFGRTFfTWtNMkJyRkQtU0VoREJQSGNiQ21QSE9vNDlLYy1aMnB3eGxFczlvNlFaalR3cEpzci1nRlVfeGxLcjBxeTZDS0FLeUJnNEx0UkRjZWF4UkE2bWtJTVdLRV9qTHdsMEkz?oc=5",
-   "pub": "Wed, 19 Aug 2026 21:01:15 GMT"
-  },
-  {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
    "pub": "Wed, 19 Aug 2026 19:37:46 GMT"
+  },
+  {
+   "t": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht? - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnlWTHYtdzVybDJJVXg5Z2h5N3c4V1B6STJRbkNHN1pIeEJyaGlQVDVMWmV2UXdxeUQ4aGRDdkFXdklpMXZFazFGRTFfTWtNMkJyRkQtU0VoREJQSGNiQ21QSE9vNDlLYy1aMnB3eGxFczlvNlFaalR3cEpzci1nRlVfeGxLcjBxeTZDS0FLeUJnNEx0UkRjZWF4UkE2bWtJTVdLRV9qTHdsMEkz?oc=5",
+   "pub": "Wed, 19 Aug 2026 14:05:00 GMT"
   },
   {
    "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
@@ -79,7 +79,7 @@
    "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
-   "t": "Iran-Krieg: Gaspreis steigt in Europa auf höchsten Stand seit März - Spiegel",
+   "t": "Iran-Krieg: Gaspreis steigt in Europa auf höchsten Stand seit März - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3dkZHB3UG5zRVdRc09qRjhlZ0lDcmtCd2dPYkVBLW9ENTFwN1BkdlVtVmpuQi1ZMHQ4UUlqeVJNRE1YdEhVeC1HeEJlQkVVNkN6b2JURUpCUU1Jc1hoZUM1X2ZWRGxmRHVGb2tRZUM0Z1hZamo0Q1ROX2JHRFM4Wks4bkp3YlFlc3RCbUVWRkwwQzRmMm1CRGItM1NVQ2owLWQtaWp6eTJhMERaWWVNUGpWSGRQSjJTdmFNQUhiUXBtRlI3U2NOT09QODRUcjViYVhsOWxXWQ?oc=5",
    "pub": "Wed, 19 Aug 2026 12:24:00 GMT"
   },
@@ -89,24 +89,24 @@
    "pub": "Wed, 19 Aug 2026 08:08:15 GMT"
   },
   {
-   "t": "Irans Generalstabschef warnt US-Verbündete am Golf +++ Vereinigte Arabische Emirate stoppen Handel mit Iran - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dsSE1DUkRvX2JRT3VNbUZZSll6RmJRaV9qd2szcnRlMmVSOERUSnFISV9wOWVKLW1hdEh4eDlPWjRTcDQxTHBxa2hHXzNMbV9sNENib2JQNVZQZGlZeTB4aUxjRUpvSjN6RlRHaW9RdUtac0VIemdDU1A1T19JUVFuSURXd0czOVBlbnRLQURucnFFS05UMkt5Rm1jY2g1c0o1eV95NDJpSzRVQlNleWFUWGhvSGtWdjVsdTFJNHVLTEFDbDM3eTJiYklXUndvOFE?oc=5",
-   "pub": "Wed, 19 Aug 2026 17:45:25 GMT"
-  },
-  {
    "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
    "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
   {
-   "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0kzUURSR3ZaeWdyT0d0bU1sMDFyQjUtc1BhOWZGZW5GN1hFckFrTjI5LUJON1N0bnEwdFF5alAwLWhIVUhkWWFYRWw2d05hTVlZbTd3MExWTnF2c1p4UWszUXJEVnhaLXFxX3VqZGJnOHZzRTlMbEVaWFUtc2p5aGNMb2RXWUtfUGFONHd0NjRfSzY4NVExTkZickdIaU5mY1YxY2JzNWR6YU95dmRGTGRpT0l6MUlqcmphN2ZlNTlzSXJ6N1k5UlJnRllONTBVS0Fpakw3TQ?oc=5",
-   "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
+   "t": "Irans Generalstabschef warnt US-Verbündete am Golf +++ Vereinigte Arabische Emirate stoppen Handel mit Iran - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dsSE1DUkRvX2JRT3VNbUZZSll6RmJRaV9qd2szcnRlMmVSOERUSnFISV9wOWVKLW1hdEh4eDlPWjRTcDQxTHBxa2hHXzNMbV9sNENib2JQNVZQZGlZeTB4aUxjRUpvSjN6RlRHaW9RdUtac0VIemdDU1A1T19JUVFuSURXd0czOVBlbnRLQURucnFFS05UMkt5Rm1jY2g1c0o1eV95NDJpSzRVQlNleWFUWGhvSGtWdjVsdTFJNHVLTEFDbDM3eTJiYklXUndvOFE?oc=5",
+   "pub": "Wed, 19 Aug 2026 17:45:25 GMT"
   },
   {
-   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
+   "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - deutschlandfunk.de",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
+   "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "Trump droht Iran mit «Wirtschaftskrieg» - Radio Bielefeld",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUxKVEJQTnlKcHFrSzFfU21tZjFZNzhSMnhzei1MTEdlM1B1TTAtd2wtMVBJOXNRSThOQ1F5VHZEYndkRGRiZUNJMmVIeHdVeGFkRkpQeW11cnFzaGgtbl9IYU14OHJGWHFxZlNlbU1QSm5RQXF6MkFuSHB4T08ya0FTTFRNTkxCNWlhWW9nTTBzRTE4b0FBazZ6WFpQSUMyNmVJ?oc=5",
+   "pub": "Wed, 19 Aug 2026 23:33:53 GMT"
   }
  ]
 }
