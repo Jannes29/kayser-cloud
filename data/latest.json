@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T09:50:26Z",
+ "collected_at": "2026-08-19T10:47:05Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8101,
-   "chg1d_pct": -0.06
+   "price": 0.8099,
+   "chg1d_pct": -0.08
   },
   "USDJPY": {
-   "price": 159.099,
-   "chg1d_pct": -0.15
+   "price": 159.049,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8804,
-   "chg1d_pct": 0.07
+   "price": 1.8806,
+   "chg1d_pct": 0.09
   },
   "AUDJPY": {
-   "price": 112.651,
-   "chg1d_pct": -0.53
+   "price": 112.592,
+   "chg1d_pct": -0.58
   },
   "EURUSD": {
-   "price": 1.161,
-   "chg1d_pct": 0.23
+   "price": 1.1614,
+   "chg1d_pct": 0.27
   },
   "GBPCHF": {
-   "price": 1.0984,
-   "chg1d_pct": 0.0
-  },
-  "WTI": {
-   "price": 84.92,
-   "chg1d_pct": -0.02
-  },
-  "BRENT": {
-   "price": 91.9,
-   "chg1d_pct": 0.97
-  },
-  "GOLD": {
-   "price": 4411.4,
-   "chg1d_pct": 1.04
-  },
-  "SPX_FUT": {
-   "price": 7715.0,
+   "price": 1.0985,
    "chg1d_pct": 0.01
   },
+  "WTI": {
+   "price": 85.18,
+   "chg1d_pct": 0.28
+  },
+  "BRENT": {
+   "price": 92.11,
+   "chg1d_pct": 1.2
+  },
+  "GOLD": {
+   "price": 4422.1,
+   "chg1d_pct": 1.28
+  },
+  "SPX_FUT": {
+   "price": 7713.75,
+   "chg1d_pct": -0.0
+  },
   "NAS_FUT": {
-   "price": 29571.25,
-   "chg1d_pct": -0.05
+   "price": 29548.75,
+   "chg1d_pct": -0.13
   }
  },
  "headlines": [
@@ -57,6 +57,11 @@
    "t": "„Clown-Crew“: Mullahs verspotten Trump-Regierung - BILD",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVF5WFE2Rmc1d3lUMk54MUdxN1BHNk9tc0JVUzRlc1NXTUlLZEhoRGpVSzlVYklfTEFsYkNOeW9sT1B0NVY2YlF2dWVIbDgzM1hNR0lwdVNJUHFnand6bElXNkZJX20xMUlqYzltOTAySGVRd1piUXFHZkNYZjlYeXh6MFBlNjZmNWkyRFd4RHl4b25tbzNTQnVPLU9jLVBWQXBPU1puOE1rb2tzd2JSa19lTmF0VnJQRXdiZHZPa1UxV29kVndSSGZlbG5aUko4eHc?oc=5",
    "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
+  },
+  {
+   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
+   "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
   {
    "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
@@ -79,19 +84,14 @@
    "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
   },
   {
-   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUxUcllUSGhkYjNnRGhVZHdrZ0d2azJSWU9qem9CUTExZTNQVUlwcFNsWTNBcEFFOTBlRGpTcnppWW1lSElsdzVzYTNKMGlPeTVMMVY2MjQ5YjZoSlVyQVpzQWdlSlFpaTFCVXNRSTdOLTROaFYyZWFOQUtDZWJJcUs2ZWZYQ084U2EyZFpXUTlvVUFicG40QTQ5Rm9qSXN1Y1dvRkZ5RjFCSEtDTW9KaTQ4RXVkcmw2anhfdWRscHUyTzVMV1pHdm1hNnpHbWFkd2NIWDhHTGhDNU9HckE?oc=5",
-   "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
-  },
-  {
    "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFBdU8yQ1E1WjVRNlRzRUQwM1pDWFBKSjZFTzNSTHlobG1wenVXNlF0MFJVdGhNX3NyZzRYMVZHdGpDdEwwZGpMX1BRaXpkb0c3RU1YNXZUU2cwRmE1WFMwXy0wU0piR2NaVnZNRG9MNHdScEVGV0pfc2YwZzFiQXBSQ0JzV3BDYURjaHlIZjNRZGg0R2lVaXhTYWtkTldTYXVMblVzaG9pR0Y1RzFWc0oyWFZTNVYyQjBRMEt4TDNFMzA?oc=5",
    "pub": "Wed, 19 Aug 2026 08:37:30 GMT"
   },
   {
-   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
-   "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
+   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUxUcllUSGhkYjNnRGhVZHdrZ0d2azJSWU9qem9CUTExZTNQVUlwcFNsWTNBcEFFOTBlRGpTcnppWW1lSElsdzVzYTNKMGlPeTVMMVY2MjQ5YjZoSlVyQVpzQWdlSlFpaTFCVXNRSTdOLTROaFYyZWFOQUtDZWJJcUs2ZWZYQ084U2EyZFpXUTlvVUFicG40QTQ5Rm9qSXN1Y1dvRkZ5RjFCSEtDTW9KaTQ4RXVkcmw2anhfdWRscHUyTzVMV1pHdm1hNnpHbWFkd2NIWDhHTGhDNU9HckE?oc=5",
+   "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
   },
   {
    "t": "Pentagon prüft nach Iran-Krieg kleinere US-Militärpräsenz am Golf - Jüdische Allgemeine",
