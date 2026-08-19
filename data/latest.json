@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T08:55:04Z",
+ "collected_at": "2026-08-19T09:50:26Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8107,
-   "chg1d_pct": 0.01
+   "price": 0.8101,
+   "chg1d_pct": -0.06
   },
   "USDJPY": {
-   "price": 159.136,
-   "chg1d_pct": -0.13
+   "price": 159.099,
+   "chg1d_pct": -0.15
   },
   "GBPCAD": {
-   "price": 1.8819,
-   "chg1d_pct": 0.15
+   "price": 1.8804,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 112.64,
-   "chg1d_pct": -0.54
+   "price": 112.651,
+   "chg1d_pct": -0.53
   },
   "EURUSD": {
-   "price": 1.1604,
-   "chg1d_pct": 0.18
+   "price": 1.161,
+   "chg1d_pct": 0.23
   },
   "GBPCHF": {
-   "price": 1.0994,
-   "chg1d_pct": 0.1
+   "price": 1.0984,
+   "chg1d_pct": 0.0
   },
   "WTI": {
-   "price": 84.39,
-   "chg1d_pct": -0.65
+   "price": 84.92,
+   "chg1d_pct": -0.02
   },
   "BRENT": {
-   "price": 91.3,
-   "chg1d_pct": 0.31
+   "price": 91.9,
+   "chg1d_pct": 0.97
   },
   "GOLD": {
-   "price": 4416.2,
-   "chg1d_pct": 1.15
+   "price": 4411.4,
+   "chg1d_pct": 1.04
   },
   "SPX_FUT": {
-   "price": 7720.5,
-   "chg1d_pct": 0.08
+   "price": 7715.0,
+   "chg1d_pct": 0.01
   },
   "NAS_FUT": {
-   "price": 29627.25,
-   "chg1d_pct": 0.14
+   "price": 29571.25,
+   "chg1d_pct": -0.05
   }
  },
  "headlines": [
@@ -54,14 +54,19 @@
    "pub": "Wed, 19 Aug 2026 06:05:13 GMT"
   },
   {
+   "t": "„Clown-Crew“: Mullahs verspotten Trump-Regierung - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVF5WFE2Rmc1d3lUMk54MUdxN1BHNk9tc0JVUzRlc1NXTUlLZEhoRGpVSzlVYklfTEFsYkNOeW9sT1B0NVY2YlF2dWVIbDgzM1hNR0lwdVNJUHFnand6bElXNkZJX20xMUlqYzltOTAySGVRd1piUXFHZkNYZjlYeXh6MFBlNjZmNWkyRFd4RHl4b25tbzNTQnVPLU9jLVBWQXBPU1puOE1rb2tzd2JSa19lTmF0VnJQRXdiZHZPa1UxV29kVndSSGZlbG5aUko4eHc?oc=5",
+   "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
+  },
+  {
    "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
    "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
   },
   {
-   "t": "„Clown-Crew“: Mullahs verspotten Trump-Regierung - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVF5WFE2Rmc1d3lUMk54MUdxN1BHNk9tc0JVUzRlc1NXTUlLZEhoRGpVSzlVYklfTEFsYkNOeW9sT1B0NVY2YlF2dWVIbDgzM1hNR0lwdVNJUHFnand6bElXNkZJX20xMUlqYzltOTAySGVRd1piUXFHZkNYZjlYeXh6MFBlNjZmNWkyRFd4RHl4b25tbzNTQnVPLU9jLVBWQXBPU1puOE1rb2tzd2JSa19lTmF0VnJQRXdiZHZPa1UxV29kVndSSGZlbG5aUko4eHc?oc=5",
-   "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
+   "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0kzUURSR3ZaeWdyT0d0bU1sMDFyQjUtc1BhOWZGZW5GN1hFckFrTjI5LUJON1N0bnEwdFF5alAwLWhIVUhkWWFYRWw2d05hTVlZbTd3MExWTnF2c1p4UWszUXJEVnhaLXFxX3VqZGJnOHZzRTlMbEVaWFUtc2p5aGNMb2RXWUtfUGFONHd0NjRfSzY4NVExTkZickdIaU5mY1YxY2JzNWR6YU95dmRGTGRpT0l6MUlqcmphN2ZlNTlzSXJ6N1k5UlJnRllONTBVS0Fpakw3TQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
   },
   {
    "t": "Hormus-Krise eskaliert: Trump will Oman „in Grund und Boden“ bomben – jetzt droht der Iran mit Offensive - Frankfurter Rundschau",
@@ -74,9 +79,19 @@
    "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
   },
   {
-   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - spiegel.de",
+   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUxUcllUSGhkYjNnRGhVZHdrZ0d2azJSWU9qem9CUTExZTNQVUlwcFNsWTNBcEFFOTBlRGpTcnppWW1lSElsdzVzYTNKMGlPeTVMMVY2MjQ5YjZoSlVyQVpzQWdlSlFpaTFCVXNRSTdOLTROaFYyZWFOQUtDZWJJcUs2ZWZYQ084U2EyZFpXUTlvVUFicG40QTQ5Rm9qSXN1Y1dvRkZ5RjFCSEtDTW9KaTQ4RXVkcmw2anhfdWRscHUyTzVMV1pHdm1hNnpHbWFkd2NIWDhHTGhDNU9HckE?oc=5",
    "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
+  },
+  {
+   "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFBdU8yQ1E1WjVRNlRzRUQwM1pDWFBKSjZFTzNSTHlobG1wenVXNlF0MFJVdGhNX3NyZzRYMVZHdGpDdEwwZGpMX1BRaXpkb0c3RU1YNXZUU2cwRmE1WFMwXy0wU0piR2NaVnZNRG9MNHdScEVGV0pfc2YwZzFiQXBSQ0JzV3BDYURjaHlIZjNRZGg0R2lVaXhTYWtkTldTYXVMblVzaG9pR0Y1RzFWc0oyWFZTNVYyQjBRMEt4TDNFMzA?oc=5",
+   "pub": "Wed, 19 Aug 2026 08:37:30 GMT"
+  },
+  {
+   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
+   "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
   {
    "t": "Pentagon prüft nach Iran-Krieg kleinere US-Militärpräsenz am Golf - Jüdische Allgemeine",
@@ -89,24 +104,9 @@
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
   },
   {
-   "t": "Trump droht Iran mit Angriff - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2RBb2xSTGF5azdxYllTeUh3NzFFcFVMdVMycXVTZXkxcEc2REVBNUxBRENFZGk2RDlkbDU5SzNKeGhqdk5pV0pqZ3Z4ZGptM2ZnUmJ1VWFRdDIzc2hXSXlEV3dCbVAzN2RISFYxVGVKSjRPV0VpeUtYbGdCUEYxZWZaajlqejg?oc=5",
-   "pub": "Wed, 19 Aug 2026 03:30:00 GMT"
-  },
-  {
-   "t": "Handelsbeziehungen abgebrochen: Emirate melden iranischen Raketenangriff - Teheran dementiert - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdHA1c3A2QVltUWI1dUtDTnJDV2tQWVAzLVFnck1CUFI4SF9hc2V0TXpiVUd5V0N0ek9aaVNlZnZ4QmRpaHFoVVVndjJCZVFfUkJveEtfU0ZuWDZFN2lpalJrNXFkRXNiQXZVOUVDVzhiOTh1c09zNzA5NWx0Z2NUVTNlX0pDOVJRbTlNamxFWEo3b1NQaGFQVnd6eHJITFVNZGdyaVZn?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:21:25 GMT"
-  },
-  {
-   "t": "Große Mehrheit geht von langem Iran-Krieg aus Trumps Umfragewerte fallen vor Zwischenwahlen auf Rekordtief - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQW40b01KbDUzLWg5dkNPVVgxeTZCaEJCQXhzbUhhMXd4b05XazBieUdhaGVvTnRHOTFzaFh2elNzLW1EUkRPbTVibHVnYWFSQXcwS1VWZDU4QmR2LXUwU1MxT2FTZ2psY0N0TFFBa0g1dFBWQW5SZlR3XzkwT2ZOTWlRQUlZSENiUkRQdHljLTZmTmZYZGJIclRNTFJSdmNYSkhLdzYzeVNvSGNTM0RfaHV6TVMxS21RcG85VVRwOTg3WlllUGE0UFhnY2lzaFB0TFB1OEx3NmpzRkJESk9vNEdvejh4VXBkMjhzd0htbFEwVEpaSzRvcw?oc=5",
-   "pub": "Tue, 18 Aug 2026 13:18:00 GMT"
-  },
-  {
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
-   "pub": "Wed, 19 Aug 2026 01:55:29 GMT"
+   "pub": "Wed, 19 Aug 2026 07:59:20 GMT"
   }
  ]
 }
