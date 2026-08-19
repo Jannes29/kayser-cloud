@@ -1,60 +1,60 @@
 {
- "collected_at": "2026-08-19T11:41:40Z",
+ "collected_at": "2026-08-19T13:09:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8107,
-   "chg1d_pct": 0.01
+   "price": 0.806,
+   "chg1d_pct": -0.57
   },
   "USDJPY": {
-   "price": 159.179,
-   "chg1d_pct": -0.1
+   "price": 158.453,
+   "chg1d_pct": -0.56
   },
   "GBPCAD": {
-   "price": 1.88,
-   "chg1d_pct": 0.05
+   "price": 1.8833,
+   "chg1d_pct": 0.23
   },
   "AUDJPY": {
-   "price": 112.565,
-   "chg1d_pct": -0.61
+   "price": 112.708,
+   "chg1d_pct": -0.48
   },
   "EURUSD": {
-   "price": 1.1605,
-   "chg1d_pct": 0.19
+   "price": 1.1648,
+   "chg1d_pct": 0.56
   },
   "GBPCHF": {
-   "price": 1.0983,
-   "chg1d_pct": -0.0
+   "price": 1.0967,
+   "chg1d_pct": -0.15
   },
   "WTI": {
-   "price": 84.73,
-   "chg1d_pct": -0.25
+   "price": 83.94,
+   "chg1d_pct": -1.18
   },
   "BRENT": {
-   "price": 91.61,
-   "chg1d_pct": 0.65
+   "price": 90.95,
+   "chg1d_pct": -0.08
   },
   "GOLD": {
-   "price": 4425.0,
-   "chg1d_pct": 1.35
+   "price": 4495.9,
+   "chg1d_pct": 2.98
   },
   "SPX_FUT": {
-   "price": 7717.75,
-   "chg1d_pct": 0.05
+   "price": 7748.5,
+   "chg1d_pct": 0.45
   },
   "NAS_FUT": {
-   "price": 29537.5,
-   "chg1d_pct": -0.16
+   "price": 29743.75,
+   "chg1d_pct": 0.53
   }
  },
  "headlines": [
   {
-   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
+   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - juedische-allgemeine.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
    "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
   },
   {
-   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
+   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - welt.de",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
    "pub": "Wed, 19 Aug 2026 06:05:13 GMT"
   },
@@ -74,6 +74,11 @@
    "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
   },
   {
+   "t": "„Keine Gespräche, keine Unterredungen“: Trump friert Iran-Verhandlungen ein – und widerspricht sich selbst - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFdEMmp0SU1fU0JSTThRaFJKMVRrcjd3MGlnT1BJcTZUMjFqZEZkN2hQRWhfYzdtckd4QUMxTEM5S0FTTWFrcmtmbENoMHUyYl8xV3ByWkI2ckZ2WjQyeTdIX2ZZYTJ5RXp0ZzdmMUpsemFfZXJONHZHQ1lnUWM3bGxIX1VFS0thQk1jMVBXbkpSVVVZS0dEb0g2cjM1Ukp2Sk9CTWFzb3RENVZp?oc=5",
+   "pub": "Wed, 19 Aug 2026 08:08:15 GMT"
+  },
+  {
    "t": "„Völlig unbegründet“: Iran dementiert Raketenangriff auf Vereinigte Arabische Emirate - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR0kzUURSR3ZaeWdyT0d0bU1sMDFyQjUtc1BhOWZGZW5GN1hFckFrTjI5LUJON1N0bnEwdFF5alAwLWhIVUhkWWFYRWw2d05hTVlZbTd3MExWTnF2c1p4UWszUXJEVnhaLXFxX3VqZGJnOHZzRTlMbEVaWFUtc2p5aGNMb2RXWUtfUGFONHd0NjRfSzY4NVExTkZickdIaU5mY1YxY2JzNWR6YU95dmRGTGRpT0l6MUlqcmphN2ZlNTlzSXJ6N1k5UlJnRllONTBVS0Fpakw3TQ?oc=5",
    "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
@@ -81,7 +86,7 @@
   {
    "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFBdU8yQ1E1WjVRNlRzRUQwM1pDWFBKSjZFTzNSTHlobG1wenVXNlF0MFJVdGhNX3NyZzRYMVZHdGpDdEwwZGpMX1BRaXpkb0c3RU1YNXZUU2cwRmE1WFMwXy0wU0piR2NaVnZNRG9MNHdScEVGV0pfc2YwZzFiQXBSQ0JzV3BDYURjaHlIZjNRZGg0R2lVaXhTYWtkTldTYXVMblVzaG9pR0Y1RzFWc0oyWFZTNVYyQjBRMEt4TDNFMzA?oc=5",
-   "pub": "Wed, 19 Aug 2026 08:37:30 GMT"
+   "pub": "Wed, 19 Aug 2026 08:38:08 GMT"
   },
   {
    "t": "Irankrieg: Der beispiellose Kontrollverlust der USA - DIE ZEIT",
@@ -99,14 +104,9 @@
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
+   "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - welt.de",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
    "pub": "Wed, 19 Aug 2026 07:59:20 GMT"
-  },
-  {
-   "t": "Pentagon prüft nach Iran-Krieg kleinere US-Militärpräsenz am Golf - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1R6c0FCYjFLVW1tdk4xVjAybGhwZDlQNXItWjhMYTRhZmUzdFJUSkNDU3N3eXl3WEpTcHJvYVVVNG5KZGxnay02MVdCX2JxN00tcllpc1NCRy02ZGlHN1c0TjBsUXYwQy04OXdxcFhsaGxhczByVU90N1MtQ0lJQXRocmRUdnp1aWFFNk03MVk2c3VXeDYzbU9iUndlWU1KS3BkM2xNaFN1NElPM25tY1BVbw?oc=5",
-   "pub": "Wed, 19 Aug 2026 07:52:00 GMT"
   }
  ]
 }
