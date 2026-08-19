@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T03:11:48Z",
+ "collected_at": "2026-08-19T03:59:43Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8115,
-   "chg1d_pct": 0.11
+   "price": 0.8116,
+   "chg1d_pct": 0.13
   },
   "USDJPY": {
-   "price": 159.369,
-   "chg1d_pct": 0.02
+   "price": 159.42,
+   "chg1d_pct": 0.05
   },
   "GBPCAD": {
-   "price": 1.8785,
-   "chg1d_pct": -0.03
+   "price": 1.8793,
+   "chg1d_pct": 0.02
   },
   "AUDJPY": {
-   "price": 112.781,
-   "chg1d_pct": -0.42
+   "price": 112.753,
+   "chg1d_pct": -0.44
   },
   "EURUSD": {
-   "price": 1.1586,
-   "chg1d_pct": 0.03
+   "price": 1.1585,
+   "chg1d_pct": 0.02
   },
   "GBPCHF": {
    "price": 1.0986,
    "chg1d_pct": 0.02
   },
   "WTI": {
-   "price": 84.78,
-   "chg1d_pct": -0.19
+   "price": 84.73,
+   "chg1d_pct": -0.25
   },
   "BRENT": {
-   "price": 91.6,
-   "chg1d_pct": 0.64
+   "price": 91.54,
+   "chg1d_pct": 0.57
   },
   "GOLD": {
-   "price": 4407.3,
-   "chg1d_pct": 0.95
+   "price": 4411.6,
+   "chg1d_pct": 1.04
   },
   "SPX_FUT": {
-   "price": 7710.0,
-   "chg1d_pct": -0.05
+   "price": 7706.75,
+   "chg1d_pct": -0.09
   },
   "NAS_FUT": {
-   "price": 29546.75,
-   "chg1d_pct": -0.13
+   "price": 29522.0,
+   "chg1d_pct": -0.22
   }
  },
  "headlines": [
@@ -94,14 +94,14 @@
    "pub": "Tue, 18 Aug 2026 08:33:51 GMT"
   },
   {
-   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
-   "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
-  },
-  {
    "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "„Werden ihn in Grund und Boden bomben“ Trump will Iran-Abkommen nicht verlängern – und droht Oman - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObXYzM1NRR3ctZkx4Si03Q0RQck9DTXZlc3Jfc29VeVRnM2NNRDRjUS1nMms3VGhOdHFZUnZwOXN5aDI0V3dOS2Q1aUw5QjlRWGtYZ0g2dnVRZkhFXzJITExOSGlKNVJDYkRiOXF0bUp1VlVIeHRkclk4eXh1Tm5hRWZlM1JfeGZrUnJOS090cE9yNEp2aUZNYXNBOVc5UHgzNFdJZDBvX09Ra3M2ZU1IbnNrN1VDN3VZRy1lMU8xTmQ1Y3Bxd3l6YVY1U08yYXFmdU1sZmpLVlJMcHNpYXBjclVtREJiQ28?oc=5",
+   "pub": "Tue, 18 Aug 2026 08:01:00 GMT"
   },
   {
    "t": "Ende der 60-Tage-Frist: Trump: Derzeit keine Gespräche mit dem Iran - DIE ZEIT",
