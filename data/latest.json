@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-19T10:47:05Z",
+ "collected_at": "2026-08-19T11:41:40Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8099,
-   "chg1d_pct": -0.08
-  },
-  "USDJPY": {
-   "price": 159.049,
-   "chg1d_pct": -0.18
-  },
-  "GBPCAD": {
-   "price": 1.8806,
-   "chg1d_pct": 0.09
-  },
-  "AUDJPY": {
-   "price": 112.592,
-   "chg1d_pct": -0.58
-  },
-  "EURUSD": {
-   "price": 1.1614,
-   "chg1d_pct": 0.27
-  },
-  "GBPCHF": {
-   "price": 1.0985,
+   "price": 0.8107,
    "chg1d_pct": 0.01
   },
-  "WTI": {
-   "price": 85.18,
-   "chg1d_pct": 0.28
+  "USDJPY": {
+   "price": 159.179,
+   "chg1d_pct": -0.1
   },
-  "BRENT": {
-   "price": 92.11,
-   "chg1d_pct": 1.2
+  "GBPCAD": {
+   "price": 1.88,
+   "chg1d_pct": 0.05
   },
-  "GOLD": {
-   "price": 4422.1,
-   "chg1d_pct": 1.28
+  "AUDJPY": {
+   "price": 112.565,
+   "chg1d_pct": -0.61
   },
-  "SPX_FUT": {
-   "price": 7713.75,
+  "EURUSD": {
+   "price": 1.1605,
+   "chg1d_pct": 0.19
+  },
+  "GBPCHF": {
+   "price": 1.0983,
    "chg1d_pct": -0.0
   },
+  "WTI": {
+   "price": 84.73,
+   "chg1d_pct": -0.25
+  },
+  "BRENT": {
+   "price": 91.61,
+   "chg1d_pct": 0.65
+  },
+  "GOLD": {
+   "price": 4425.0,
+   "chg1d_pct": 1.35
+  },
+  "SPX_FUT": {
+   "price": 7717.75,
+   "chg1d_pct": 0.05
+  },
   "NAS_FUT": {
-   "price": 29548.75,
-   "chg1d_pct": -0.13
+   "price": 29537.5,
+   "chg1d_pct": -0.16
   }
  },
  "headlines": [
+  {
+   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
+   "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
+  },
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
@@ -59,7 +64,7 @@
    "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
-   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
+   "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - berliner-zeitung.de",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmgwaGt4NkxxRFhuY21WTlJMZmJ0S3NWYW1ac3VEVmdUdy1LUlh4dXFxbEtKRncxOW9MNm9na1IwRWFNbkRjWktnaHlKX1VzS3NYMWtzSXFIaHBsenloU21zdEg2VzlBZ1hVbllkOWRycE05V01BbXp2Rmc3eUx5M2g1SDVUOEZ3Z1ZSMEZ6S08tblNRSlItZWFmWHhyNHc?oc=5",
    "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
@@ -74,9 +79,9 @@
    "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
   },
   {
-   "t": "Hormus-Krise eskaliert: Trump will Oman „in Grund und Boden“ bomben – jetzt droht der Iran mit Offensive - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTjBkNVI4SzI0NHgwZmZTOGhaWjVmTUNCTzFCLUdIdXZwdVE1ekphTXVCRUxwbDdNbGR0WFFwZlZPR2wxNW1ETDN4eERYWFBvVjVsS2F6bkZqNjFzekdwei0zWG1xbWxCSmJBekxITnFkcjlOZjBDOGRnYjZJOUsyc2tEVlA2UTg3RTJObDVfNDEyTGhnRS1Pd0ZLZzJoV0VnV0JqX2tULVlGcDdlMmprLVh5bzB1LWFkMFhxVlVpYkxFRFNX?oc=5",
-   "pub": "Wed, 19 Aug 2026 02:46:00 GMT"
+   "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFBdU8yQ1E1WjVRNlRzRUQwM1pDWFBKSjZFTzNSTHlobG1wenVXNlF0MFJVdGhNX3NyZzRYMVZHdGpDdEwwZGpMX1BRaXpkb0c3RU1YNXZUU2cwRmE1WFMwXy0wU0piR2NaVnZNRG9MNHdScEVGV0pfc2YwZzFiQXBSQ0JzV3BDYURjaHlIZjNRZGg0R2lVaXhTYWtkTldTYXVMblVzaG9pR0Y1RzFWc0oyWFZTNVYyQjBRMEt4TDNFMzA?oc=5",
+   "pub": "Wed, 19 Aug 2026 08:37:30 GMT"
   },
   {
    "t": "Irankrieg: Der beispiellose Kontrollverlust der USA - DIE ZEIT",
@@ -84,22 +89,12 @@
    "pub": "Tue, 18 Aug 2026 16:35:30 GMT"
   },
   {
-   "t": "OpenAI killt KI-Blase, Trump-Desaster im Iran: Unfälle in Zeitlupe! - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXFBdU8yQ1E1WjVRNlRzRUQwM1pDWFBKSjZFTzNSTHlobG1wenVXNlF0MFJVdGhNX3NyZzRYMVZHdGpDdEwwZGpMX1BRaXpkb0c3RU1YNXZUU2cwRmE1WFMwXy0wU0piR2NaVnZNRG9MNHdScEVGV0pfc2YwZzFiQXBSQ0JzV3BDYURjaHlIZjNRZGg0R2lVaXhTYWtkTldTYXVMblVzaG9pR0Y1RzFWc0oyWFZTNVYyQjBRMEt4TDNFMzA?oc=5",
-   "pub": "Wed, 19 Aug 2026 08:37:30 GMT"
-  },
-  {
-   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - spiegel.de",
+   "t": "(S+) Iran-Krieg: Donald Trump droht Oman mit Vernichtung wegen Straße von Hormus - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUxUcllUSGhkYjNnRGhVZHdrZ0d2azJSWU9qem9CUTExZTNQVUlwcFNsWTNBcEFFOTBlRGpTcnppWW1lSElsdzVzYTNKMGlPeTVMMVY2MjQ5YjZoSlVyQVpzQWdlSlFpaTFCVXNRSTdOLTROaFYyZWFOQUtDZWJJcUs2ZWZYQ084U2EyZFpXUTlvVUFicG40QTQ5Rm9qSXN1Y1dvRkZ5RjFCSEtDTW9KaTQ4RXVkcmw2anhfdWRscHUyTzVMV1pHdm1hNnpHbWFkd2NIWDhHTGhDNU9HckE?oc=5",
    "pub": "Tue, 18 Aug 2026 15:57:00 GMT"
   },
   {
-   "t": "Pentagon prüft nach Iran-Krieg kleinere US-Militärpräsenz am Golf - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1R6c0FCYjFLVW1tdk4xVjAybGhwZDlQNXItWjhMYTRhZmUzdFJUSkNDU3N3eXl3WEpTcHJvYVVVNG5KZGxnay02MVdCX2JxN00tcllpc1NCRy02ZGlHN1c0TjBsUXYwQy04OXdxcFhsaGxhczByVU90N1MtQ0lJQXRocmRUdnp1aWFFNk03MVk2c3VXeDYzbU9iUndlWU1KS3BkM2xNaFN1NElPM25tY1BVbw?oc=5",
-   "pub": "Wed, 19 Aug 2026 07:52:00 GMT"
-  },
-  {
-   "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews",
+   "t": "Vereinigte Arabische Emirate: Erster Raketenalarm seit Monaten - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0VsbGdIS0t1YTlSRFNnZU1aRE01bDJPdUlKcDljSTg4My01VmxVQTZkVUVCQXJwV0YzMWluajlxX3ZDWGQzb2s1R2M4ZXdqTzRZa0hmWUM5cHl0ZzlrYmprbzl6ODd0QjVBTGxNdGo3VXVBVkkzYk1lWnJTNlktVXNKaTlfVkRuQi14bGdYb2FqZXFwd1Jjb19QUzlOWGF2Y0xQVi11aUFnUGZ6d2tQdm1yWFJJM1RzeXVqRE5R?oc=5",
    "pub": "Tue, 18 Aug 2026 17:18:55 GMT"
   },
@@ -107,6 +102,11 @@
    "t": "Krieg im Nahen Osten: Wenn Amerika weiter zaudert, gewinnt der Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjI5WmRDXy1mdTYyWDVwNUFCNng3WXJDTF9RQTd3X3F1SXB5YVpFUlBlRkxSNXVSUy1rU3FwVHJTeHhERldWcnhUdjBaV1FRdEdrWUttb01jaFdPMjZ5LUdjdm9qeVU5MFdrRkVSUy1udzVZSExRVzlzOFZYd0pOUXc5WUxmOEZxaENSU3dMa2M5SFNmZzZYSm1neEVuMDBRWVVxbmdnbldlTlFCQXB2Uy0xd1JWdlFPMl8taTFSc0xRLTViQWc?oc=5",
    "pub": "Wed, 19 Aug 2026 07:59:20 GMT"
+  },
+  {
+   "t": "Pentagon prüft nach Iran-Krieg kleinere US-Militärpräsenz am Golf - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1R6c0FCYjFLVW1tdk4xVjAybGhwZDlQNXItWjhMYTRhZmUzdFJUSkNDU3N3eXl3WEpTcHJvYVVVNG5KZGxnay02MVdCX2JxN00tcllpc1NCRy02ZGlHN1c0TjBsUXYwQy04OXdxcFhsaGxhczByVU90N1MtQ0lJQXRocmRUdnp1aWFFNk03MVk2c3VXeDYzbU9iUndlWU1KS3BkM2xNaFN1NElPM25tY1BVbw?oc=5",
+   "pub": "Wed, 19 Aug 2026 07:52:00 GMT"
   }
  ]
 }
