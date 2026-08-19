@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-19T20:46:17Z",
+ "collected_at": "2026-08-19T21:42:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7971,
-   "chg1d_pct": -1.86
+   "price": 0.7972,
+   "chg1d_pct": -1.85
   },
   "USDJPY": {
-   "price": 158.143,
-   "chg1d_pct": -0.88
+   "price": 158.11,
+   "chg1d_pct": -0.9
   },
   "GBPCAD": {
-   "price": 1.8787,
-   "chg1d_pct": -0.14
+   "price": 1.8779,
+   "chg1d_pct": -0.18
   },
   "AUDJPY": {
-   "price": 112.683,
-   "chg1d_pct": -0.26
+   "price": 112.632,
+   "chg1d_pct": -0.31
   },
   "EURUSD": {
-   "price": 1.1682,
-   "chg1d_pct": 0.89
+   "price": 1.168,
+   "chg1d_pct": 0.87
   },
   "GBPCHF": {
-   "price": 1.0845,
-   "chg1d_pct": -1.36
+   "price": 1.0844,
+   "chg1d_pct": -1.37
   },
   "WTI": {
-   "price": 84.24,
-   "chg1d_pct": -0.82
+   "price": 84.4,
+   "chg1d_pct": -0.64
   },
   "BRENT": {
-   "price": 91.45,
-   "chg1d_pct": 0.47
+   "price": 91.57,
+   "chg1d_pct": 0.6
   },
   "GOLD": {
-   "price": 4579.7,
-   "chg1d_pct": 4.89
+   "price": 4580.7,
+   "chg1d_pct": 4.92
   },
   "SPX_FUT": {
-   "price": 7729.75,
-   "chg1d_pct": 0.2
+   "price": 7730.5,
+   "chg1d_pct": 0.21
   },
   "NAS_FUT": {
-   "price": 29529.75,
-   "chg1d_pct": -0.19
+   "price": 29561.0,
+   "chg1d_pct": -0.08
   }
  },
  "headlines": [
@@ -56,7 +56,7 @@
   {
    "t": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht? - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnlWTHYtdzVybDJJVXg5Z2h5N3c4V1B6STJRbkNHN1pIeEJyaGlQVDVMWmV2UXdxeUQ4aGRDdkFXdklpMXZFazFGRTFfTWtNMkJyRkQtU0VoREJQSGNiQ21QSE9vNDlLYy1aMnB3eGxFczlvNlFaalR3cEpzci1nRlVfeGxLcjBxeTZDS0FLeUJnNEx0UkRjZWF4UkE2bWtJTVdLRV9qTHdsMEkz?oc=5",
-   "pub": "Wed, 19 Aug 2026 14:05:00 GMT"
+   "pub": "Wed, 19 Aug 2026 21:01:15 GMT"
   },
   {
    "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
@@ -84,14 +84,14 @@
    "pub": "Wed, 19 Aug 2026 07:21:21 GMT"
   },
   {
-   "t": "Irans Generalstabschef warnt US-Verbündete am Golf +++ Vereinigte Arabische Emirate stoppen Handel mit Iran - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dsSE1DUkRvX2JRT3VNbUZZSll6RmJRaV9qd2szcnRlMmVSOERUSnFISV9wOWVKLW1hdEh4eDlPWjRTcDQxTHBxa2hHXzNMbV9sNENib2JQNVZQZGlZeTB4aUxjRUpvSjN6RlRHaW9RdUtac0VIemdDU1A1T19JUVFuSURXd0czOVBlbnRLQURucnFFS05UMkt5Rm1jY2g1c0o1eV95NDJpSzRVQlNleWFUWGhvSGtWdjVsdTFJNHVLTEFDbDM3eTJiYklXUndvOFE?oc=5",
-   "pub": "Wed, 19 Aug 2026 17:45:25 GMT"
-  },
-  {
    "t": "„Keine Gespräche, keine Unterredungen“: Trump friert Iran-Verhandlungen ein – und widerspricht sich selbst - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFdEMmp0SU1fU0JSTThRaFJKMVRrcjd3MGlnT1BJcTZUMjFqZEZkN2hQRWhfYzdtckd4QUMxTEM5S0FTTWFrcmtmbENoMHUyYl8xV3ByWkI2ckZ2WjQyeTdIX2ZZYTJ5RXp0ZzdmMUpsemFfZXJONHZHQ1lnUWM3bGxIX1VFS0thQk1jMVBXbkpSVVVZS0dEb0g2cjM1Ukp2Sk9CTWFzb3RENVZp?oc=5",
    "pub": "Wed, 19 Aug 2026 08:08:15 GMT"
+  },
+  {
+   "t": "Irans Generalstabschef warnt US-Verbündete am Golf +++ Vereinigte Arabische Emirate stoppen Handel mit Iran - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dsSE1DUkRvX2JRT3VNbUZZSll6RmJRaV9qd2szcnRlMmVSOERUSnFISV9wOWVKLW1hdEh4eDlPWjRTcDQxTHBxa2hHXzNMbV9sNENib2JQNVZQZGlZeTB4aUxjRUpvSjN6RlRHaW9RdUtac0VIemdDU1A1T19JUVFuSURXd0czOVBlbnRLQURucnFFS05UMkt5Rm1jY2g1c0o1eV95NDJpSzRVQlNleWFUWGhvSGtWdjVsdTFJNHVLTEFDbDM3eTJiYklXUndvOFE?oc=5",
+   "pub": "Wed, 19 Aug 2026 17:45:25 GMT"
   },
   {
    "t": "Bericht: Iran erwägt Angriffe auf Ziele in Europa – diese Länder stehen im Raum - Berliner Zeitung",
@@ -99,14 +99,14 @@
    "pub": "Wed, 19 Aug 2026 09:23:55 GMT"
   },
   {
+   "t": "Fed-Protokoll sorgt für Aufsehen: Drei Notenbanker wollten Zinserhöhung - finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYXhWdkVzTi1MdW9IYnZtb1dFcnNwWW1GNmptVDcyNEdDZnhoM2ZMY0Q1Yk9HNi1Qc1M5c3ZiYVd6TmRfVFhiQUpCYjh1ZkZoRU1pczN1aU5tSm9uSG1GclN0TExHSjVJRGdMdDkwZnA1NnYzOTZNTkNXcHh5RU1XVmRVb25Vcm9rUWJCaERZOWR6MlZiWEQzN2hZRlVKbk5WeEpXUjMtelF2UDVaZ3NUR05ONVlKY2pqbWFnZG1mRjV6OG9XMmtPSlgtcXJPanAxSDQtOHBfc0lJajBGdTZsUHJ6aw?oc=5",
+   "pub": "Wed, 19 Aug 2026 20:15:00 GMT"
+  },
+  {
    "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFZqZ2o1UWJ2OUF6Nkpyc2dPaUtWRmd5NTEtVDk3ZTB4TU84RF9PUlNlRWhOY2lYN1JoY1ZjaWQyUnM2TGxNUmZqSGlLZ2NUYkZNMWFCX2tFM1gybDZMNk9IeTZJWjI3OWRyVm56Q2ZQZE5FVzhZVWdyM3FxZERndDlKWHdDNHZ3bWFPZ0d6V2pIbG1qZnlBQ1drUUNMZ292WVEtVGo4M1ZaZw?oc=5",
    "pub": "Wed, 19 Aug 2026 01:00:00 GMT"
-  },
-  {
-   "t": "Fed-Protokoll: Weitere Zinserhöhungen bei hartnäckiger Inflation wahrscheinlich - de.investing.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSmtQOXR2UjVZQ0FlUS1WSTNRS0hJN2dieVM1SVBYQjE1MWF6VlgyNmVyRzdRRU9jQzFycnh0QlFDUU93b1V0R3h5NmJTOGdoeldFQnFRTnJpZ0hqMVlhcmVJcjRTd3JqZjJsMjByTUI1dVR6SHhhY3hwVHZ4cWhjZW8tblNCMlo0WnRuci1vT0ltaWJiLVhwd1QybE1MREhVV1AxeDgzWkxXZXE1clJTLTNXQW9VRV83ZmlVN0tneFJNREdzS0VF?oc=5",
-   "pub": "Wed, 19 Aug 2026 17:50:00 GMT"
   }
  ]
 }
