@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-20T16:51:29Z",
+ "collected_at": "2026-08-20T17:46:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8006,
-   "chg1d_pct": -1.43
+   "price": 0.8008,
+   "chg1d_pct": -1.41
   },
   "USDJPY": {
-   "price": 159.011,
-   "chg1d_pct": -0.34
+   "price": 159.068,
+   "chg1d_pct": -0.3
   },
   "GBPCAD": {
-   "price": 1.8797,
-   "chg1d_pct": -0.08
+   "price": 1.8786,
+   "chg1d_pct": -0.14
   },
   "AUDJPY": {
-   "price": 113.095,
-   "chg1d_pct": 0.1
+   "price": 113.117,
+   "chg1d_pct": 0.12
   },
   "EURUSD": {
-   "price": 1.1677,
-   "chg1d_pct": 0.84
+   "price": 1.1675,
+   "chg1d_pct": 0.83
   },
   "GBPCHF": {
-   "price": 1.0913,
-   "chg1d_pct": -0.74
+   "price": 1.091,
+   "chg1d_pct": -0.76
   },
   "WTI": {
-   "price": 86.38,
-   "chg1d_pct": 0.64
+   "price": 86.7,
+   "chg1d_pct": 1.01
   },
   "BRENT": {
-   "price": 93.44,
-   "chg1d_pct": 1.99
+   "price": 93.56,
+   "chg1d_pct": 2.12
   },
   "GOLD": {
-   "price": 4566.2,
-   "chg1d_pct": 1.71
+   "price": 4573.2,
+   "chg1d_pct": 1.87
   },
   "SPX_FUT": {
-   "price": 7702.75,
-   "chg1d_pct": -0.34
+   "price": 7684.5,
+   "chg1d_pct": -0.58
   },
   "NAS_FUT": {
-   "price": 29362.75,
-   "chg1d_pct": -0.51
+   "price": 29291.75,
+   "chg1d_pct": -0.75
   }
  },
  "headlines": [
   {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpHY3ZSaEFRZjFOVndyU0V4WEVTTFlKbk45MDRyTXhyVTF5dkY4cWhHSzZTa3ZuZTNNLVZmV2xBdmpxdGw5cmpTbEVXdENfTERFT1BiWjdQSnlwdVVXSlREeTBYZTlZS3RuOE1SdVpTQm9yWW5tQnFYeGhicWQxYlRiOXhSdFJHdXljcE1WZkxUY1VjZmp0b184bXhKREhrck1NMFNhaEp3UF9NV0FST0dQMDVTUGc?oc=5",
-   "pub": "Thu, 20 Aug 2026 13:31:26 GMT"
+   "pub": "Thu, 20 Aug 2026 16:52:09 GMT"
   },
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
