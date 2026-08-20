@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-20T15:49:16Z",
+ "collected_at": "2026-08-20T16:51:29Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8,
-   "chg1d_pct": -1.51
+   "price": 0.8006,
+   "chg1d_pct": -1.43
   },
   "USDJPY": {
-   "price": 158.901,
-   "chg1d_pct": -0.41
+   "price": 159.011,
+   "chg1d_pct": -0.34
   },
   "GBPCAD": {
-   "price": 1.8792,
-   "chg1d_pct": -0.11
+   "price": 1.8797,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 113.1,
-   "chg1d_pct": 0.11
+   "price": 113.095,
+   "chg1d_pct": 0.1
   },
   "EURUSD": {
-   "price": 1.1681,
-   "chg1d_pct": 0.88
+   "price": 1.1677,
+   "chg1d_pct": 0.84
   },
   "GBPCHF": {
-   "price": 1.0906,
-   "chg1d_pct": -0.8
+   "price": 1.0913,
+   "chg1d_pct": -0.74
   },
   "WTI": {
-   "price": 86.69,
-   "chg1d_pct": 1.0
+   "price": 86.38,
+   "chg1d_pct": 0.64
   },
   "BRENT": {
-   "price": 93.85,
-   "chg1d_pct": 2.43
+   "price": 93.44,
+   "chg1d_pct": 1.99
   },
   "GOLD": {
-   "price": 4574.5,
-   "chg1d_pct": 1.9
+   "price": 4566.2,
+   "chg1d_pct": 1.71
   },
   "SPX_FUT": {
-   "price": 7694.25,
-   "chg1d_pct": -0.45
+   "price": 7702.75,
+   "chg1d_pct": -0.34
   },
   "NAS_FUT": {
-   "price": 29284.25,
-   "chg1d_pct": -0.77
+   "price": 29362.75,
+   "chg1d_pct": -0.51
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Thu, 20 Aug 2026 13:31:26 GMT"
   },
   {
+   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
+   "pub": "Thu, 20 Aug 2026 16:35:50 GMT"
+  },
+  {
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
-  },
-  {
-   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Thu, 20 Aug 2026 15:26:35 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
@@ -69,7 +69,7 @@
    "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:43 GMT"
   },
@@ -77,6 +77,11 @@
    "t": "US-Präsident Trump droht Iran mit einem Wirtschaftskrieg - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMjhab1JUSzlTRFp3WktJbnpNQktwWTk0Mm9lSXFXYTZmYk9pdnZ4eHFlQi1MTFlJN1pNWHlaZnZocVBjcHlybTBzakdkcmhkOUhBSE40cUNfSU9DNmY0?oc=5",
    "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
+  },
+  {
+   "t": "Höchster Stand seit Juli: Trumps Iran-Drohung lässt Ölpreise kräftig steigen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXp3Zk9aME44angzU3p6RUcwQWcxWGE2SVo5bFRkTnQ4TXlOTGhaVE1kb0VnN0FvZURNdENjZENrTkltbGhVZ2dZMUNBZlhXenE2YVVhQ1lZSkQ5QzNHbG85c3ZOZVR5V285R2JxaWNsNWJJeWhaWjlMZFdkZUVFWW5QSTRhNDA4MTk5X0tXQUNxYWxidFRTVFlPNHNnYTZaeGc?oc=5",
+   "pub": "Thu, 20 Aug 2026 14:40:05 GMT"
   },
   {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
@@ -89,24 +94,19 @@
    "pub": "Thu, 20 Aug 2026 07:19:00 GMT"
   },
   {
-   "t": "Höchster Stand seit Juli: Trumps Iran-Drohung lässt Ölpreise kräftig steigen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXp3Zk9aME44angzU3p6RUcwQWcxWGE2SVo5bFRkTnQ4TXlOTGhaVE1kb0VnN0FvZURNdENjZENrTkltbGhVZ2dZMUNBZlhXenE2YVVhQ1lZSkQ5QzNHbG85c3ZOZVR5V285R2JxaWNsNWJJeWhaWjlMZFdkZUVFWW5QSTRhNDA4MTk5X0tXQUNxYWxidFRTVFlPNHNnYTZaeGc?oc=5",
-   "pub": "Thu, 20 Aug 2026 14:40:05 GMT"
-  },
-  {
    "t": "Iran zeigt sich unbeeindruckt von Trumps Drohungen – und prahlt damit, Sanktionen zu umgehen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXNqT3dBWXhiNXVnUVU2VE9maUlQWEtZbk5TZFRuY0M5ZmNtWVhPRHZ5enFoa2g4ZFNRcS1jZ0c4OF9QRkRGWmJtckNHSEhjM2hhMTVqb3kwZVRLOVNFRFFkRDFTT1c1X25vZWlseV9Gb0pQaFRmd3BxSDBRN0dScl9UbjVpcFViNTRraERkZ2xVT3diSXZSQ2FnV1RIaDJvYWxPNE14M3hCZw?oc=5",
    "pub": "Thu, 20 Aug 2026 04:20:19 GMT"
   },
   {
-   "t": "Yen-Abwertung: Warum Japans Milliarden den Kurs nicht retten - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOHhEQTNGN0FyV25hUko5cENFdnpuXzVRWXlTM2ttS2l2SFNocFZERm85UjFxTGc0eDhaUlNJdVh2aGpGejhQblp1T0xMNXc4Nzc4bmd2V0RBMEFkSzJlMjBvU0xEZUxvcUp2a00wWC1KcWt1aWZRS0U2a3Z5MktPNGlwaFVYYm5LYzBjZUpFS1dGYzFQYUdwM21NeTFvbXVBamhjbHdkdW42RnhoT1pF?oc=5",
-   "pub": "Thu, 20 Aug 2026 09:22:54 GMT"
-  },
-  {
    "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlQ0WkFLRkFJYW41dzNfaldqLVY1eEZTMV9mZGExSnJZNDRVWlZJRkFkWnJNNXlGOFhuSHpPR0VfWTdveG1pZm5EZ2dtenRjLUhDNnM2SE5rUHpsMFpVTnpIRkNubEtMcWZrSHlIbEZDZXVBRzJDNmZadG83UWVuUFdGN2djakVqWkNKbQ?oc=5",
    "pub": "Thu, 20 Aug 2026 06:10:27 GMT"
+  },
+  {
+   "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVTZYeG50NUx6VXF5V3YzRkZqUDdQbjJjZUg1SERDcVpOX2Z0R1lpWjVVRm9GTkpham9PZ1R3ZlZVdTItSUtSbTVTSW9panltNGp4SEhyd0wtd210c3ZFWHFpZVZvUU5mVWVjVUJR?oc=5",
+   "pub": "Thu, 20 Aug 2026 03:59:00 GMT"
   }
  ]
 }
