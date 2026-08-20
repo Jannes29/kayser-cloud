@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-20T19:46:16Z",
+ "collected_at": "2026-08-20T20:47:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8008,
-   "chg1d_pct": -1.41
+   "price": 0.8004,
+   "chg1d_pct": 0.33
   },
   "USDJPY": {
-   "price": 159.128,
-   "chg1d_pct": -0.26
+   "price": 159.058,
+   "chg1d_pct": 0.49
   },
   "GBPCAD": {
-   "price": 1.8795,
-   "chg1d_pct": -0.09
+   "price": 1.8792,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 113.155,
-   "chg1d_pct": 0.16
+   "price": 113.153,
+   "chg1d_pct": 0.38
   },
   "EURUSD": {
-   "price": 1.1678,
-   "chg1d_pct": 0.85
+   "price": 1.1682,
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.0912,
-   "chg1d_pct": -0.75
+   "price": 1.0911,
+   "chg1d_pct": 0.57
   },
   "WTI": {
-   "price": 86.66,
-   "chg1d_pct": 0.97
+   "price": 86.48,
+   "chg1d_pct": 0.76
   },
   "BRENT": {
-   "price": 93.56,
-   "chg1d_pct": 2.12
+   "price": 93.42,
+   "chg1d_pct": 1.96
   },
   "GOLD": {
-   "price": 4580.1,
-   "chg1d_pct": 2.02
+   "price": 4574.1,
+   "chg1d_pct": 1.89
   },
   "SPX_FUT": {
-   "price": 7671.25,
-   "chg1d_pct": -0.75
+   "price": 7666.25,
+   "chg1d_pct": -0.81
   },
   "NAS_FUT": {
-   "price": 29308.5,
-   "chg1d_pct": -0.69
+   "price": 29303.5,
+   "chg1d_pct": -0.71
   }
  },
  "headlines": [
   {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpHY3ZSaEFRZjFOVndyU0V4WEVTTFlKbk45MDRyTXhyVTF5dkY4cWhHSzZTa3ZuZTNNLVZmV2xBdmpxdGw5cmpTbEVXdENfTERFT1BiWjdQSnlwdVVXSlREeTBYZTlZS3RuOE1SdVpTQm9yWW5tQnFYeGhicWQxYlRiOXhSdFJHdXljcE1WZkxUY1VjZmp0b184bXhKREhrck1NMFNhaEp3UF9NV0FST0dQMDVTUGc?oc=5",
-   "pub": "Thu, 20 Aug 2026 16:52:09 GMT"
+   "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
+  },
+  {
+   "t": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
+   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
   },
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
@@ -64,11 +69,6 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
-   "t": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
-   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
-  },
-  {
    "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:43 GMT"
@@ -79,11 +79,6 @@
    "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
   },
   {
-   "t": "Höchster Stand seit Juli: Trumps Iran-Drohung lässt Ölpreise kräftig steigen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXp3Zk9aME44angzU3p6RUcwQWcxWGE2SVo5bFRkTnQ4TXlOTGhaVE1kb0VnN0FvZURNdENjZENrTkltbGhVZ2dZMUNBZlhXenE2YVVhQ1lZSkQ5QzNHbG85c3ZOZVR5V285R2JxaWNsNWJJeWhaWjlMZFdkZUVFWW5QSTRhNDA4MTk5X0tXQUNxYWxidFRTVFlPNHNnYTZaeGc?oc=5",
-   "pub": "Thu, 20 Aug 2026 14:40:05 GMT"
-  },
-  {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
@@ -92,6 +87,11 @@
    "t": "Der Iran schießt blind: USA leiten Nacht für Nacht Millionen Barrel Öl durch die Straße von Hormus - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlNrLUhJcU9PODNDU1ZCbmdUSmRIOE5iN0J5dWFzblA5UEMtYmpZY0l1dzBvcW9zek10M3U3Z1YySlhqWjkyejZlSmplcmNwRzlIYUtzaWVvRXhwSmxxR0w4MTRUMXJhMkhGTGJwR2VXa3QtTE12c3hzd0xDVS1hOHh1eHhEZldiQlc3cHllVnpTX1dzSzAzdEkwRzQ1cU5LdE53ZXpFQmo4M2UtMXd5ekh3?oc=5",
    "pub": "Thu, 20 Aug 2026 15:12:33 GMT"
+  },
+  {
+   "t": "Höchster Stand seit Juli: Trumps Iran-Drohung lässt Ölpreise kräftig steigen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXp3Zk9aME44angzU3p6RUcwQWcxWGE2SVo5bFRkTnQ4TXlOTGhaVE1kb0VnN0FvZURNdENjZENrTkltbGhVZ2dZMUNBZlhXenE2YVVhQ1lZSkQ5QzNHbG85c3ZOZVR5V285R2JxaWNsNWJJeWhaWjlMZFdkZUVFWW5QSTRhNDA4MTk5X0tXQUNxYWxidFRTVFlPNHNnYTZaeGc?oc=5",
+   "pub": "Thu, 20 Aug 2026 14:40:05 GMT"
   },
   {
    "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
