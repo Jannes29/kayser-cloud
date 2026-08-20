@@ -1,21 +1,21 @@
 {
- "collected_at": "2026-08-20T01:52:17Z",
+ "collected_at": "2026-08-20T03:10:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7995,
-   "chg1d_pct": -1.57
+   "price": 0.7997,
+   "chg1d_pct": -1.54
   },
   "USDJPY": {
-   "price": 158.528,
-   "chg1d_pct": -0.64
+   "price": 158.459,
+   "chg1d_pct": -0.68
   },
   "GBPCAD": {
-   "price": 1.8779,
-   "chg1d_pct": -0.18
+   "price": 1.8783,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 112.722,
+   "price": 112.716,
    "chg1d_pct": -0.23
   },
   "EURUSD": {
@@ -23,28 +23,28 @@
    "chg1d_pct": 0.85
   },
   "GBPCHF": {
-   "price": 1.0876,
-   "chg1d_pct": -1.07
+   "price": 1.088,
+   "chg1d_pct": -1.04
   },
   "WTI": {
-   "price": 84.68,
-   "chg1d_pct": -0.31
+   "price": 84.43,
+   "chg1d_pct": -0.6
   },
   "BRENT": {
-   "price": 92.04,
-   "chg1d_pct": 1.12
+   "price": 91.85,
+   "chg1d_pct": 0.91
   },
   "GOLD": {
-   "price": 4552.9,
-   "chg1d_pct": 4.28
+   "price": 4549.0,
+   "chg1d_pct": 4.19
   },
   "SPX_FUT": {
-   "price": 7741.0,
-   "chg1d_pct": 0.35
+   "price": 7737.5,
+   "chg1d_pct": 0.3
   },
   "NAS_FUT": {
-   "price": 29657.0,
-   "chg1d_pct": 0.24
+   "price": 29625.5,
+   "chg1d_pct": 0.13
   }
  },
  "headlines": [
@@ -64,19 +64,9 @@
    "pub": "Wed, 19 Aug 2026 19:37:46 GMT"
   },
   {
-   "t": "Iran-Krieg: Trump droht Iran mit «Wirtschaftskrieg» - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MlN6WTlOUTROS1BidjAwRWhtUmZuMjR6SkpDd2pURDduaW9KcTBldVRfMFpTcEVrSEduay1iNXAzSjcxSG9FQXYtSC1ldU9aTTNtTl9SblRtZTg3eW9hcWVKc2JVR3d0T0ZKbkNlcEM3SkN0cmxhaWwtQXlUZw?oc=5",
-   "pub": "Thu, 20 Aug 2026 01:05:15 GMT"
-  },
-  {
    "t": "Iran verliert langsam Kontrolle: Behält Trump mit seinen wilden Hormus-Prahlereien diesmal Recht? - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnlWTHYtdzVybDJJVXg5Z2h5N3c4V1B6STJRbkNHN1pIeEJyaGlQVDVMWmV2UXdxeUQ4aGRDdkFXdklpMXZFazFGRTFfTWtNMkJyRkQtU0VoREJQSGNiQ21QSE9vNDlLYy1aMnB3eGxFczlvNlFaalR3cEpzci1nRlVfeGxLcjBxeTZDS0FLeUJnNEx0UkRjZWF4UkE2bWtJTVdLRV9qTHdsMEkz?oc=5",
    "pub": "Wed, 19 Aug 2026 14:05:00 GMT"
-  },
-  {
-   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - juedische-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
-   "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
   },
   {
    "t": "Fed-Protokoll sorgt für Aufsehen: Drei Notenbanker wollten Zinserhöhung - finanzen.net",
@@ -84,14 +74,19 @@
    "pub": "Wed, 19 Aug 2026 20:15:00 GMT"
   },
   {
+   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
+   "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump droht Iran mit „Wirtschaftskrieg“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONnpTQk0tNXUyenljb0N4b2U5cjg2aVJSOGVLbkdZaXRKd1RyX2hWMi0xOUplSjcydFZpTUJZT3g5bmROejhzSWwtbml1dFlYRk8xYW83cUc4SzVEeXFzdzIwTi0tLWhES3ZYTlRqNGRVOGdKckg5T1hfX05Tc1JpN1QzQ1pDN3RoZUZKWWJ5WVBhWXZBYV80eFZZcGo3ZTNDSUN6dEVSY0RNdw?oc=5",
+   "pub": "Thu, 20 Aug 2026 01:06:01 GMT"
+  },
+  {
    "t": "Liveticker zum Iran-Krieg: Trump droht Iran mit „Wirtschaftskrieg“ - RND.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHdpZ3A0LUYxdHJNaVhlZGlhNi0zRVpxZFRnanlrc2Q0YTNsTEwyUDlHQWtjbVMtSXhKdDRfaWxiNG41c21TdkN3MmdRRWY5enlGMEZQb05FVEdKdHZFLW1sWnMwSHgzeGVhemxxVUxNT0tHYnVSYzgxcm9FRmVZSVV4OWxEdDVDY1dPLUY2TDhEemZ2YlV6cmJqbjFJVnVkLXVQUjY5MmxuUFdKRy1UYXNwVnRqb1lFV0F3WS1Gcw?oc=5",
    "pub": "Wed, 19 Aug 2026 23:57:33 GMT"
-  },
-  {
-   "t": "„Clown-Crew“: Mullahs verspotten Trump-Regierung - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVF5WFE2Rmc1d3lUMk54MUdxN1BHNk9tc0JVUzRlc1NXTUlLZEhoRGpVSzlVYklfTEFsYkNOeW9sT1B0NVY2YlF2dWVIbDgzM1hNR0lwdVNJUHFnand6bElXNkZJX20xMUlqYzltOTAySGVRd1piUXFHZkNYZjlYeXh6MFBlNjZmNWkyRFd4RHl4b25tbzNTQnVPLU9jLVBWQXBPU1puOE1rb2tzd2JSa19lTmF0VnJQRXdiZHZPa1UxV29kVndSSGZlbG5aUko4eHc?oc=5",
-   "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
    "t": "Iran-Krieg: Trump kündigt umfassenden „Wirtschaftskrieg“ gegen Teheran an - STERN.de",
@@ -99,14 +94,19 @@
    "pub": "Thu, 20 Aug 2026 01:01:31 GMT"
   },
   {
-   "t": "Trump droht Iran mit «Wirtschaftskrieg» - Radio Bielefeld",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUxKVEJQTnlKcHFrSzFfU21tZjFZNzhSMnhzei1MTEdlM1B1TTAtd2wtMVBJOXNRSThOQ1F5VHZEYndkRGRiZUNJMmVIeHdVeGFkRkpQeW11cnFzaGgtbl9IYU14OHJGWHFxZlNlbU1QSm5RQXF6MkFuSHB4T08ya0FTTFRNTkxCNWlhWW9nTTBzRTE4b0FBazZ6WFpQSUMyNmVJ?oc=5",
-   "pub": "Wed, 19 Aug 2026 23:33:53 GMT"
+   "t": "„Clown-Crew“: Mullahs verspotten Trump-Regierung - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVF5WFE2Rmc1d3lUMk54MUdxN1BHNk9tc0JVUzRlc1NXTUlLZEhoRGpVSzlVYklfTEFsYkNOeW9sT1B0NVY2YlF2dWVIbDgzM1hNR0lwdVNJUHFnand6bElXNkZJX20xMUlqYzltOTAySGVRd1piUXFHZkNYZjlYeXh6MFBlNjZmNWkyRFd4RHl4b25tbzNTQnVPLU9jLVBWQXBPU1puOE1rb2tzd2JSa19lTmF0VnJQRXdiZHZPa1UxV29kVndSSGZlbG5aUko4eHc?oc=5",
+   "pub": "Wed, 19 Aug 2026 08:02:25 GMT"
   },
   {
    "t": "„In Grund und Boden bombardieren“: US-Präsident Trump droht dem Oman wegen Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTJnRjlYSzFKazl1cUZYOG5aSVZvLWlyNkVzWDdBTEc3Y2ZyVUI5bkRWSmlJalRHdFBZNDZKNC1IRzNZdFl6Mzlsc2dVUW1UYUNQU3RVZDVnR05OYXBNZktlaWtMMVU2eVNXWk5RZzRiWk1VRTAzWVRzb3ptaFpiNnpxd0p6eFNsZzZjejduQnVrN2hRbk5LT2dadzJJckF4bll6YjZ1OHExZ1EzUG1MTjJfb21xTUFEaHltOW5oay1iLU5mVHBkaWJFQQ?oc=5",
    "pub": "Mon, 17 Aug 2026 21:55:41 GMT"
+  },
+  {
+   "t": "Trump droht Iran mit «Wirtschaftskrieg» - Radio Bielefeld",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUxKVEJQTnlKcHFrSzFfU21tZjFZNzhSMnhzei1MTEdlM1B1TTAtd2wtMVBJOXNRSThOQ1F5VHZEYndkRGRiZUNJMmVIeHdVeGFkRkpQeW11cnFzaGgtbl9IYU14OHJGWHFxZlNlbU1QSm5RQXF6MkFuSHB4T08ya0FTTFRNTkxCNWlhWW9nTTBzRTE4b0FBazZ6WFpQSUMyNmVJ?oc=5",
+   "pub": "Wed, 19 Aug 2026 23:33:53 GMT"
   }
  ]
 }
