@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-08-20T07:06:53Z",
+ "collected_at": "2026-08-20T07:57:36Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7992,
-   "chg1d_pct": -1.61
+   "price": 0.7984,
+   "chg1d_pct": -1.7
   },
   "USDJPY": {
-   "price": 158.4,
-   "chg1d_pct": -0.72
+   "price": 158.455,
+   "chg1d_pct": -0.69
   },
   "GBPCAD": {
-   "price": 1.877,
-   "chg1d_pct": -0.23
+   "price": 1.8771,
+   "chg1d_pct": -0.22
   },
   "AUDJPY": {
-   "price": 112.782,
-   "chg1d_pct": -0.17
+   "price": 112.877,
+   "chg1d_pct": -0.09
   },
   "EURUSD": {
-   "price": 1.1686,
-   "chg1d_pct": 0.92
+   "price": 1.1695,
+   "chg1d_pct": 1.0
   },
   "GBPCHF": {
-   "price": 1.0878,
-   "chg1d_pct": -1.06
+   "price": 1.0879,
+   "chg1d_pct": -1.05
   },
   "WTI": {
-   "price": 84.86,
-   "chg1d_pct": -1.13
+   "price": 85.62,
+   "chg1d_pct": -0.24
   },
   "BRENT": {
-   "price": 92.15,
-   "chg1d_pct": 0.58
+   "price": 93.0,
+   "chg1d_pct": 1.51
   },
   "GOLD": {
-   "price": 4549.2,
-   "chg1d_pct": 1.33
+   "price": 4548.8,
+   "chg1d_pct": 1.32
   },
   "SPX_FUT": {
-   "price": 7743.5,
-   "chg1d_pct": 0.19
+   "price": 7732.75,
+   "chg1d_pct": 0.05
   },
   "NAS_FUT": {
-   "price": 29676.5,
-   "chg1d_pct": 0.55
+   "price": 29610.75,
+   "chg1d_pct": 0.33
   }
  },
  "headlines": [
   {
-   "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - zeit.de",
+   "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
@@ -69,14 +69,24 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Druck auf die Handelspartner: Trump erklärt Iran den \"Wirtschaftskrieg\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnVSMFh5TUhNb0JBTWVaUXBFcGZvZ1J6dFhyaVMwcVRHX19UM2dCSGg0MVhjZ1UyRFg0OEUtM2VvTWNnYmZVN2dOOUw1dHVCS1N1aFVxSW9CV3BJd083ZW04VnVQS2x3QnFsMzVyX2szVmVvRGV0S2dqNG85ZXZnbjVta3hNMlBYekVGVA?oc=5",
-   "pub": "Thu, 20 Aug 2026 06:42:11 GMT"
-  },
-  {
    "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVTZYeG50NUx6VXF5V3YzRkZqUDdQbjJjZUg1SERDcVpOX2Z0R1lpWjVVRm9GTkpham9PZ1R3ZlZVdTItSUtSbTVTSW9panltNGp4SEhyd0wtd210c3ZFWHFpZVZvUU5mVWVjVUJR?oc=5",
    "pub": "Thu, 20 Aug 2026 03:59:00 GMT"
+  },
+  {
+   "t": "Druck auf die Handelspartner: Trump erklärt Iran den \"Wirtschaftskrieg\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnVSMFh5TUhNb0JBTWVaUXBFcGZvZ1J6dFhyaVMwcVRHX19UM2dCSGg0MVhjZ1UyRFg0OEUtM2VvTWNnYmZVN2dOOUw1dHVCS1N1aFVxSW9CV3BJd083ZW04VnVQS2x3QnFsMzVyX2szVmVvRGV0S2dqNG85ZXZnbjVta3hNMlBYekVGVA?oc=5",
+   "pub": "Thu, 20 Aug 2026 06:52:15 GMT"
+  },
+  {
+   "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpHY3ZSaEFRZjFOVndyU0V4WEVTTFlKbk45MDRyTXhyVTF5dkY4cWhHSzZTa3ZuZTNNLVZmV2xBdmpxdGw5cmpTbEVXdENfTERFT1BiWjdQSnlwdVVXSlREeTBYZTlZS3RuOE1SdVpTQm9yWW5tQnFYeGhicWQxYlRiOXhSdFJHdXljcE1WZkxUY1VjZmp0b184bXhKREhrck1NMFNhaEp3UF9NV0FST0dQMDVTUGc?oc=5",
+   "pub": "Thu, 20 Aug 2026 07:44:19 GMT"
+  },
+  {
+   "t": "Iran zeigt sich unbeeindruckt von Trumps Drohungen – und prahlt damit, Sanktionen zu umgehen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXNqT3dBWXhiNXVnUVU2VE9maUlQWEtZbk5TZFRuY0M5ZmNtWVhPRHZ5enFoa2g4ZFNRcS1jZ0c4OF9QRkRGWmJtckNHSEhjM2hhMTVqb3kwZVRLOVNFRFFkRDFTT1c1X25vZWlseV9Gb0pQaFRmd3BxSDBRN0dScl9UbjVpcFViNTRraERkZ2xVT3diSXZSQ2FnV1RIaDJvYWxPNE14M3hCZw?oc=5",
+   "pub": "Thu, 20 Aug 2026 04:20:19 GMT"
   },
   {
    "t": "Krieg in Nahost: Trump erklärt Iran „Wirtschaftskrieg“ und droht mit „Isolation in beispiellosem Ausmaß“ - WELT",
@@ -89,24 +99,14 @@
    "pub": "Thu, 20 Aug 2026 03:20:00 GMT"
   },
   {
-   "t": "Trump will niedrigere Zinsen – doch in der Fed wächst der Druck für das Gegenteil - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEVSa0NBRU5JYlJMYnNUNTBtR0ItOFRhaU9JcUlpVi1LOWJpWnJyUzFWNjlaMVZfeE1wM19vSU5OUmdIRzNObHptMWducEZMZVdYR3BpMWltdm02NHFBUno5UFo1Qmk0QnZaTFFleGR2OENDS2p6V3Fmb2ZLQ1VrcW04SlFqRmtKNkVqV29RclN2TWJhV2JfT0NvOUVEbWdHTWNEemFZc2UtSGhl?oc=5",
-   "pub": "Thu, 20 Aug 2026 05:47:23 GMT"
+   "t": "„Wirtschaftskrieg“: Trump und Emirate erhöhen Druck auf Iran - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5kV2FOREQyNnFxNEs2RU13dENpZEoxMi0tTm9OcVF2UjRNYUI3MU1qb0hxa0RBOFdSaFYxUGgtbkE3MU54eGc?oc=5",
+   "pub": "Thu, 20 Aug 2026 02:38:13 GMT"
   },
   {
-   "t": "Nahost - Iran weist Vorwurf zurück, Raketen auf Emirate abgefeuert zu haben - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0dpZzI0YmVETVFjdTJlX3hsZFQybUtITG9mSWRBczV4OXg4T2dpdjRrQXllS1FZR21sV2tPYm5hX05wRHNOM0l6LWVFTXdpTFZaMnNwamVKTHZzTjg1TFowbUNYMVRFemJLaC10WkczQkJMWkRRalllR28xXzlmcWdwbGlaS1p5MEVsbm5UcnBqVWVSUmpnVmV2NU1LZ0lDdmYybHlTdU53UQ?oc=5",
-   "pub": "Wed, 19 Aug 2026 11:56:59 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Was steckt hinter Trumps Drohung mit einem Wirtschaftskrieg? - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDFSWjVuLTROR1pldlppai1BYmp4cjhTYk1sVENkMjByOEhETFA4cS10dkpCZnF0NHowWlRuaGVqM3Y2RGJPeUFyaGw2NTNlNXNTNkFkTV9TNGt0UTJSeFJYaG9oZTUyLWxoQkV0Wjd1UVNGMG14UWxlSE1HY2dDYUVGN1pXNzl0VFNLdU8yN3lpYl9ESzBZaVBBMVE2QzZ1cmFRVmJKUkZkbUVCX09CRFNhVC1PSl9BRGI1OTNB?oc=5",
-   "pub": "Thu, 20 Aug 2026 03:12:05 GMT"
-  },
-  {
-   "t": "Liveticker zum Iran-Krieg: Trump droht Iran mit „Wirtschaftskrieg“ - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHdpZ3A0LUYxdHJNaVhlZGlhNi0zRVpxZFRnanlrc2Q0YTNsTEwyUDlHQWtjbVMtSXhKdDRfaWxiNG41c21TdkN3MmdRRWY5enlGMEZQb05FVEdKdHZFLW1sWnMwSHgzeGVhemxxVUxNT0tHYnVSYzgxcm9FRmVZSVV4OWxEdDVDY1dPLUY2TDhEemZ2YlV6cmJqbjFJVnVkLXVQUjY5MmxuUFdKRy1UYXNwVnRqb1lFV0F3WS1Gcw?oc=5",
-   "pub": "Wed, 19 Aug 2026 23:57:33 GMT"
+   "t": "Iran droht bei neuem Krieg mit Angriffen auf US-Ziele in Europa - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXF1N0RlS3NESFltb3R1YkFzb2RtWWhFaW1hZk5mU19uU2JlU05OdmxwWTVfYzBhNnl5UHlSNWpxTmV3X1BNYmdfektMOEw0ZnFpYzQ0bldHcUFTRVpkQzRhaVE4RTJ5LVgwa3FCWlctR3hwRTJ2Szl6d2R3aG8zMDJ2UTNiN3dxZlkxdTdVelNfOGt3WVJsTU91TnZoLUtRODVUOExtN041ZGR5?oc=5",
+   "pub": "Wed, 19 Aug 2026 10:20:00 GMT"
   }
  ]
 }
