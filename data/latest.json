@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-20T22:45:52Z",
+ "collected_at": "2026-08-20T23:41:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8,
-   "chg1d_pct": 0.28
+   "price": 0.7997,
+   "chg1d_pct": 0.24
   },
   "USDJPY": {
-   "price": 158.996,
-   "chg1d_pct": 0.45
+   "price": 158.89,
+   "chg1d_pct": 0.39
   },
   "GBPCAD": {
-   "price": 1.8792,
-   "chg1d_pct": 0.07
-  },
-  "AUDJPY": {
-   "price": 113.109,
-   "chg1d_pct": 0.34
-  },
-  "EURUSD": {
-   "price": 1.1685,
+   "price": 1.8796,
    "chg1d_pct": 0.1
   },
+  "AUDJPY": {
+   "price": 113.094,
+   "chg1d_pct": 0.32
+  },
+  "EURUSD": {
+   "price": 1.1689,
+   "chg1d_pct": 0.13
+  },
   "GBPCHF": {
-   "price": 1.0907,
-   "chg1d_pct": 0.53
+   "price": 1.0908,
+   "chg1d_pct": 0.54
   },
   "WTI": {
-   "price": 86.28,
-   "chg1d_pct": 0.52
+   "price": 86.3,
+   "chg1d_pct": 0.55
   },
   "BRENT": {
-   "price": 93.25,
-   "chg1d_pct": 1.78
+   "price": 93.28,
+   "chg1d_pct": 1.81
   },
   "GOLD": {
-   "price": 4576.3,
-   "chg1d_pct": 1.94
+   "price": 4582.1,
+   "chg1d_pct": 2.06
   },
   "SPX_FUT": {
-   "price": 7666.75,
-   "chg1d_pct": -0.81
+   "price": 7667.75,
+   "chg1d_pct": -0.79
   },
   "NAS_FUT": {
-   "price": 29306.5,
-   "chg1d_pct": -0.7
+   "price": 29316.25,
+   "chg1d_pct": -0.67
   }
  },
  "headlines": [
@@ -74,19 +74,14 @@
    "pub": "Thu, 20 Aug 2026 08:21:43 GMT"
   },
   {
-   "t": "US-Präsident Trump droht Iran mit einem Wirtschaftskrieg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMjhab1JUSzlTRFp3WktJbnpNQktwWTk0Mm9lSXFXYTZmYk9pdnZ4eHFlQi1MTFlJN1pNWHlaZnZocVBjcHlybTBzakdkcmhkOUhBSE40cUNfSU9DNmY0?oc=5",
-   "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
-  },
-  {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Der Iran schießt blind: USA leiten Nacht für Nacht Millionen Barrel Öl durch die Straße von Hormus - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlNrLUhJcU9PODNDU1ZCbmdUSmRIOE5iN0J5dWFzblA5UEMtYmpZY0l1dzBvcW9zek10M3U3Z1YySlhqWjkyejZlSmplcmNwRzlIYUtzaWVvRXhwSmxxR0w4MTRUMXJhMkhGTGJwR2VXa3QtTE12c3hzd0xDVS1hOHh1eHhEZldiQlc3cHllVnpTX1dzSzAzdEkwRzQ1cU5LdE53ZXpFQmo4M2UtMXd5ekh3?oc=5",
-   "pub": "Thu, 20 Aug 2026 15:12:33 GMT"
+   "t": "US-Präsident Trump droht Iran mit einem Wirtschaftskrieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMjhab1JUSzlTRFp3WktJbnpNQktwWTk0Mm9lSXFXYTZmYk9pdnZ4eHFlQi1MTFlJN1pNWHlaZnZocVBjcHlybTBzakdkcmhkOUhBSE40cUNfSU9DNmY0?oc=5",
+   "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
   },
   {
    "t": "Bessent droht Teherans Helfern: US-Finanzminister kündigt \"härteste Iran-Sanktionen\" an - n-tv.de",
@@ -94,19 +89,24 @@
    "pub": "Thu, 20 Aug 2026 21:25:01 GMT"
   },
   {
+   "t": "Der Iran schießt blind: USA leiten Nacht für Nacht Millionen Barrel Öl durch die Straße von Hormus - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlNrLUhJcU9PODNDU1ZCbmdUSmRIOE5iN0J5dWFzblA5UEMtYmpZY0l1dzBvcW9zek10M3U3Z1YySlhqWjkyejZlSmplcmNwRzlIYUtzaWVvRXhwSmxxR0w4MTRUMXJhMkhGTGJwR2VXa3QtTE12c3hzd0xDVS1hOHh1eHhEZldiQlc3cHllVnpTX1dzSzAzdEkwRzQ1cU5LdE53ZXpFQmo4M2UtMXd5ekh3?oc=5",
+   "pub": "Thu, 20 Aug 2026 15:12:33 GMT"
+  },
+  {
    "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVnpkaWV5Q215c0Q4Tk1DdzdfZlJpRnpEY0lzUnR6eXRoZkdBQUxTck44dS1DT1dwMWd6OHVrMmtob2QxTzlKYkJWOE4zUUdaTHRQZnJPNGFSQzlGVTZWbEtfaVZRVzA?oc=5",
    "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
   },
   {
+   "t": "Trump droht dem Iran: Wie wahrscheinlich ist eine Eskalation? - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNjVE5QMHQ5ZDZnbVltdy15WENxZDVGbTFaTG4xNDludUFEMjUyWV8td1JyRW1OT0k0T1J0dFlyMU5icjBlV3NxYUphRWFZeEtSOGgwNW9MUUdzNWVtMGtVRF81ODRneGpuTkdXdjI5YnRTYVpMTndiOElONUpvQ0JtaDM2dTF3TGo5SDNVbnhOWHFTVDNUcEdZUlo2UTBoRUp5azlKVzAzRzhaeDlIUHFSenhBZw?oc=5",
+   "pub": "Thu, 20 Aug 2026 16:41:20 GMT"
+  },
+  {
    "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlQ0WkFLRkFJYW41dzNfaldqLVY1eEZTMV9mZGExSnJZNDRVWlZJRkFkWnJNNXlGOFhuSHpPR0VfWTdveG1pZm5EZ2dtenRjLUhDNnM2SE5rUHpsMFpVTnpIRkNubEtMcWZrSHlIbEZDZXVBRzJDNmZadG83UWVuUFdGN2djakVqWkNKbQ?oc=5",
    "pub": "Thu, 20 Aug 2026 06:10:27 GMT"
-  },
-  {
-   "t": "\"Wirtschaftskrieg\" - USA fordern Unterstützung verbündeter Länder bei Sanktionsmaßnahmen gegen Iran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTllhbEY3QmFCWTFuUmFXNnFUbkhqdGFBT1JNLWtWRTBZODZJNWl3U3FQUjZrbnN1eDhLT2ZEX3p6STJoMkRtWGpiN1pFbXhIMEF3MkNRZ1A2WEhhc04wYUcwdTFzQmdJdi1LRzFpNTMyZDc0LVZ2V2xsWHN6TXhIRU9Ec3FjMGtmNGlkVVYzXzZCZXBMRko2SXdZajZwdWlVd2R3VXlnajdQWmVBb1BFSEZFRDhaX2pJWlhONTFpdw?oc=5",
-   "pub": "Thu, 20 Aug 2026 22:00:00 GMT"
   }
  ]
 }
