@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T04:55:08Z",
+ "collected_at": "2026-08-21T05:49:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7999,
-   "chg1d_pct": 0.27
+   "price": 0.7993,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 159.038,
-   "chg1d_pct": 0.48
+   "price": 158.863,
+   "chg1d_pct": 0.37
   },
   "GBPCAD": {
    "price": 1.8778,
    "chg1d_pct": -0.0
   },
   "AUDJPY": {
-   "price": 113.551,
-   "chg1d_pct": 0.73
+   "price": 113.465,
+   "chg1d_pct": 0.65
   },
   "EURUSD": {
-   "price": 1.1696,
-   "chg1d_pct": 0.19
+   "price": 1.17,
+   "chg1d_pct": 0.22
   },
   "GBPCHF": {
-   "price": 1.0911,
-   "chg1d_pct": 0.57
+   "price": 1.0908,
+   "chg1d_pct": 0.54
   },
   "WTI": {
-   "price": 86.45,
-   "chg1d_pct": -1.57
+   "price": 86.4,
+   "chg1d_pct": -1.63
   },
   "BRENT": {
-   "price": 93.53,
-   "chg1d_pct": -0.27
+   "price": 93.43,
+   "chg1d_pct": -0.37
   },
   "GOLD": {
-   "price": 4598.1,
-   "chg1d_pct": 1.81
+   "price": 4595.6,
+   "chg1d_pct": 1.76
   },
   "SPX_FUT": {
-   "price": 7665.5,
-   "chg1d_pct": 0.04
+   "price": 7669.75,
+   "chg1d_pct": 0.09
   },
   "NAS_FUT": {
-   "price": 29334.75,
-   "chg1d_pct": 0.12
+   "price": 29370.75,
+   "chg1d_pct": 0.24
   }
  },
  "headlines": [
@@ -74,7 +74,7 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
@@ -99,14 +99,14 @@
    "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
   },
   {
+   "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVhqbU9EblNWdzVXMW5fQVJJeXRHRmxCUkNFSUhWVURJdzQ4Ni1KbGF4NnZTLXI2SkNfQmctOTJjY1BsU09TWnJaSUtkampldUNSelM1YTJjY2dUU1RaUVZKaHZJdi1BMjJKemVITVVnN1U5SUhxcEJOUE9RdXFUaU5nN2RnSTZpRkE4UmEtd0JVSm9SSVFLaw?oc=5",
+   "pub": "Fri, 21 Aug 2026 03:04:00 GMT"
+  },
+  {
    "t": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1Rpc2RXeVBMQlFwUE16dEd2WllqMHFsdVNWaFlxc1dRcHJQSkNIelV1aDJFRTdMRXdoRVcwSURUbWR3LXZvQ1dmWnVTR0FXcGNmSEUzYmxDMFlmVnlNcXp5ODVoN29Xd1VzaUxISE02UE1XZ3M4TnFDT2VNZXpsSmdpZlpTNTFFVGpGdllRR0RvNGF1T2JMUV9fNTU?oc=5",
    "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
-  },
-  {
-   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
-   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   }
  ]
 }
