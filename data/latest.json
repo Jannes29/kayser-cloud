@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T03:16:59Z",
+ "collected_at": "2026-08-21T04:05:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7989,
-   "chg1d_pct": 0.14
+   "price": 0.7995,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 158.943,
-   "chg1d_pct": 0.42
+   "price": 158.96,
+   "chg1d_pct": 0.43
   },
   "GBPCAD": {
-   "price": 1.8785,
-   "chg1d_pct": 0.04
+   "price": 1.8779,
+   "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 113.515,
-   "chg1d_pct": 0.7
+   "price": 113.528,
+   "chg1d_pct": 0.71
   },
   "EURUSD": {
-   "price": 1.1701,
-   "chg1d_pct": 0.23
+   "price": 1.1697,
+   "chg1d_pct": 0.2
   },
   "GBPCHF": {
-   "price": 1.0906,
-   "chg1d_pct": 0.52
+   "price": 1.0909,
+   "chg1d_pct": 0.55
   },
   "WTI": {
-   "price": 86.52,
-   "chg1d_pct": 0.8
+   "price": 86.54,
+   "chg1d_pct": 0.83
   },
   "BRENT": {
-   "price": 93.57,
-   "chg1d_pct": 2.13
+   "price": 93.61,
+   "chg1d_pct": 2.17
   },
   "GOLD": {
-   "price": 4589.8,
-   "chg1d_pct": 2.24
+   "price": 4589.5,
+   "chg1d_pct": 2.23
   },
   "SPX_FUT": {
-   "price": 7669.75,
-   "chg1d_pct": -0.77
+   "price": 7667.25,
+   "chg1d_pct": -0.8
   },
   "NAS_FUT": {
-   "price": 29369.5,
-   "chg1d_pct": -0.49
+   "price": 29347.5,
+   "chg1d_pct": -0.56
   }
  },
  "headlines": [
@@ -56,7 +56,7 @@
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 03:05:50 GMT"
+   "pub": "Fri, 21 Aug 2026 03:30:01 GMT"
   },
   {
    "t": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten - Spiegel",
@@ -69,14 +69,14 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
-  },
-  {
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
+  },
+  {
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
+   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
   {
    "t": "US-Präsident Trump droht Iran mit einem Wirtschaftskrieg - tagesschau.de",
@@ -99,14 +99,14 @@
    "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
   },
   {
-   "t": "Trump droht dem Iran: Wie wahrscheinlich ist eine Eskalation? - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNjVE5QMHQ5ZDZnbVltdy15WENxZDVGbTFaTG4xNDludUFEMjUyWV8td1JyRW1OT0k0T1J0dFlyMU5icjBlV3NxYUphRWFZeEtSOGgwNW9MUUdzNWVtMGtVRF81ODRneGpuTkdXdjI5YnRTYVpMTndiOElONUpvQ0JtaDM2dTF3TGo5SDNVbnhOWHFTVDNUcEdZUlo2UTBoRUp5azlKVzAzRzhaeDlIUHFSenhBZw?oc=5",
-   "pub": "Thu, 20 Aug 2026 16:41:20 GMT"
-  },
-  {
    "t": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1Rpc2RXeVBMQlFwUE16dEd2WllqMHFsdVNWaFlxc1dRcHJQSkNIelV1aDJFRTdMRXdoRVcwSURUbWR3LXZvQ1dmWnVTR0FXcGNmSEUzYmxDMFlmVnlNcXp5ODVoN29Xd1VzaUxISE02UE1XZ3M4TnFDT2VNZXpsSmdpZlpTNTFFVGpGdllRR0RvNGF1T2JMUV9fNTU?oc=5",
    "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Wirtschaftlicher «D-Day»: Trumps Aufschlag im Iran-Krieg - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MlN6WTlOUTROS1BidjAwRWhtUmZuMjR6SkpDd2pURDduaW9KcTBldVRfMFpTcEVrSEduay1iNXAzSjcxSG9FQXYtSC1ldU9aTTNtTl9SblRtZTg3eW9hcWVKc2JVR3d0T0ZKbkNlcEM3SkN0cmxhaWwtQXlUZw?oc=5",
+   "pub": "Thu, 20 Aug 2026 13:40:51 GMT"
   }
  ]
 }
