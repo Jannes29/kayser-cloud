@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T07:58:11Z",
+ "collected_at": "2026-08-21T08:59:06Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8004,
-   "chg1d_pct": 0.33
+   "price": 0.7995,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 158.812,
-   "chg1d_pct": 0.34
+   "price": 158.515,
+   "chg1d_pct": 0.15
   },
   "GBPCAD": {
-   "price": 1.8765,
-   "chg1d_pct": -0.07
+   "price": 1.8781,
+   "chg1d_pct": 0.02
   },
   "AUDJPY": {
-   "price": 113.542,
-   "chg1d_pct": 0.72
+   "price": 113.506,
+   "chg1d_pct": 0.69
   },
   "EURUSD": {
-   "price": 1.1693,
-   "chg1d_pct": 0.16
+   "price": 1.1708,
+   "chg1d_pct": 0.29
   },
   "GBPCHF": {
-   "price": 1.0917,
-   "chg1d_pct": 0.62
+   "price": 1.0924,
+   "chg1d_pct": 0.69
   },
   "WTI": {
-   "price": 86.19,
-   "chg1d_pct": -1.87
+   "price": 86.09,
+   "chg1d_pct": -1.98
   },
   "BRENT": {
-   "price": 93.29,
-   "chg1d_pct": -0.52
+   "price": 93.14,
+   "chg1d_pct": -0.68
   },
   "GOLD": {
-   "price": 4625.0,
-   "chg1d_pct": 2.41
+   "price": 4637.6,
+   "chg1d_pct": 2.69
   },
   "SPX_FUT": {
-   "price": 7682.25,
-   "chg1d_pct": 0.26
+   "price": 7686.0,
+   "chg1d_pct": 0.31
   },
   "NAS_FUT": {
-   "price": 29444.25,
-   "chg1d_pct": 0.49
+   "price": 29451.75,
+   "chg1d_pct": 0.52
   }
  },
  "headlines": [
@@ -79,19 +79,14 @@
    "pub": "Fri, 21 Aug 2026 07:05:00 GMT"
   },
   {
-   "t": "Bessent droht Teherans Helfern: US-Finanzminister kündigt \"härteste Iran-Sanktionen\" an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZEd3Q5TEZOTTdDY2V6Rkd3N0ZMVmJXcHplemFpOGFaVEExMnJOUnFGa25EaWtCeW5icHVQV3h4MUE4NzNndTFFbW9aQlhyRE5QcHhHQ29WTmM2X0ExLVYya1pRRERNZXl3Q3c5SHA4a3Q2Y0F0T0l3cjBDdFU4Q0d4WlNWcTlGY3FaU1ZmbGU4MTl0TlB1TjYza3lWQTRN?oc=5",
-   "pub": "Thu, 20 Aug 2026 21:25:01 GMT"
-  },
-  {
-   "t": "US-Präsident Trump droht Iran mit einem Wirtschaftskrieg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMjhab1JUSzlTRFp3WktJbnpNQktwWTk0Mm9lSXFXYTZmYk9pdnZ4eHFlQi1MTFlJN1pNWHlaZnZocVBjcHlybTBzakdkcmhkOUhBSE40cUNfSU9DNmY0?oc=5",
-   "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
-  },
-  {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+  },
+  {
+   "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel der USA wird nichts bringen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3JHa095R3pnN2ZRSHU1NW5hVTlvS29JUlRaQy1kVUN2UGxuWmhQXzBsei1tR00xWnFjNW5xTzQ5NWFvVUNRcnVzcHE1UWpsSEV6V0F4U1AyYjdvOG82aXc1aHN1djQ3T2NDSk9mRlRHM2JMN2cxN1dfVkE4R051LWNpRFpPTWw1ZVVvdzVPRzJGYzlGRnYyeVFVc2F2Qm9WRU1OUEsyTXVSMHFnM1lYa3NPZnR6cmRXWm52dg?oc=5",
+   "pub": "Fri, 21 Aug 2026 07:25:09 GMT"
   },
   {
    "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
@@ -107,6 +102,11 @@
    "t": "Naher Osten - Pentagon: 757 verletzte US-Soldaten im Iran-Krieg - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVBPekJsX2ZybFhOMmlQYUxfNnFhNkdRMWZUNGhxWW5OWVBhZlBmNElfcVNYVDFUVlJ2d2Vma3JsbDdCekZnc1dBOU9maktvSEdPeTVLSTVKNTV0TE4wc2doeWFOSkNzRE1wXzk3Wks2eTBGUW9wb2lxREtETXAwS1JkVkk2Y3RJenc2cThtaDVPQQ?oc=5",
    "pub": "Fri, 21 Aug 2026 06:25:40 GMT"
+  },
+  {
+   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
+   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   }
  ]
 }
