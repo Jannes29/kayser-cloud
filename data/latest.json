@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-21T07:08:28Z",
+ "collected_at": "2026-08-21T07:58:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8,
-   "chg1d_pct": 0.28
+   "price": 0.8004,
+   "chg1d_pct": 0.33
   },
   "USDJPY": {
-   "price": 158.884,
-   "chg1d_pct": 0.38
+   "price": 158.812,
+   "chg1d_pct": 0.34
   },
   "GBPCAD": {
-   "price": 1.8777,
-   "chg1d_pct": -0.01
+   "price": 1.8765,
+   "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 113.536,
+   "price": 113.542,
    "chg1d_pct": 0.72
   },
   "EURUSD": {
-   "price": 1.17,
-   "chg1d_pct": 0.22
+   "price": 1.1693,
+   "chg1d_pct": 0.16
   },
   "GBPCHF": {
    "price": 1.0917,
    "chg1d_pct": 0.62
   },
   "WTI": {
-   "price": 86.3,
-   "chg1d_pct": -1.74
+   "price": 86.19,
+   "chg1d_pct": -1.87
   },
   "BRENT": {
-   "price": 93.39,
-   "chg1d_pct": -0.42
+   "price": 93.29,
+   "chg1d_pct": -0.52
   },
   "GOLD": {
-   "price": 4620.4,
-   "chg1d_pct": 2.3
+   "price": 4625.0,
+   "chg1d_pct": 2.41
   },
   "SPX_FUT": {
-   "price": 7672.75,
-   "chg1d_pct": 0.13
+   "price": 7682.25,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 29384.0,
-   "chg1d_pct": 0.28
+   "price": 29444.25,
+   "chg1d_pct": 0.49
   }
  },
  "headlines": [
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 06:35:04 GMT"
+   "pub": "Fri, 21 Aug 2026 07:35:50 GMT"
   },
   {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
@@ -74,9 +74,14 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+   "t": "Yen im Expertencheck: 16 Häuser über Geldpolitik, Carry Trades und Absicherung - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR05LeUI5d2tTdzVCaUFCUE9QMEpNM040NFNNeWFUUGpQZXN2WjJtZ01HWFpTSnJJT0lCbUNmLTc1Z2RQYlhsQ3YxVGlNWW5BdjZlTGUwSXRYdWNHSmEwS0ZaVTNaX21oWEQzdHZpM0lQX2NDeTVuNkpBTjFtNlZJSlZ4WXlBUW1EdmdxQVNTUkp2YUplOWFPdU5ybHVqWWJVcUoyLW1uQ1lmNkRNRmViRmJYMTZGeWtPZm5HalhtX2YtX28zSUVF?oc=5",
+   "pub": "Fri, 21 Aug 2026 07:05:00 GMT"
+  },
+  {
+   "t": "Bessent droht Teherans Helfern: US-Finanzminister kündigt \"härteste Iran-Sanktionen\" an - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZEd3Q5TEZOTTdDY2V6Rkd3N0ZMVmJXcHplemFpOGFaVEExMnJOUnFGa25EaWtCeW5icHVQV3h4MUE4NzNndTFFbW9aQlhyRE5QcHhHQ29WTmM2X0ExLVYya1pRRERNZXl3Q3c5SHA4a3Q2Y0F0T0l3cjBDdFU4Q0d4WlNWcTlGY3FaU1ZmbGU4MTl0TlB1TjYza3lWQTRN?oc=5",
+   "pub": "Thu, 20 Aug 2026 21:25:01 GMT"
   },
   {
    "t": "US-Präsident Trump droht Iran mit einem Wirtschaftskrieg - tagesschau.de",
@@ -84,19 +89,14 @@
    "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
   },
   {
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
+   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+  },
+  {
    "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVnpkaWV5Q215c0Q4Tk1DdzdfZlJpRnpEY0lzUnR6eXRoZkdBQUxTck44dS1DT1dwMWd6OHVrMmtob2QxTzlKYkJWOE4zUUdaTHRQZnJPNGFSQzlGVTZWbEtfaVZRVzA?oc=5",
    "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
-  },
-  {
-   "t": "Der Iran schießt blind: USA leiten Nacht für Nacht Millionen Barrel Öl durch die Straße von Hormus - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMlNrLUhJcU9PODNDU1ZCbmdUSmRIOE5iN0J5dWFzblA5UEMtYmpZY0l1dzBvcW9zek10M3U3Z1YySlhqWjkyejZlSmplcmNwRzlIYUtzaWVvRXhwSmxxR0w4MTRUMXJhMkhGTGJwR2VXa3QtTE12c3hzd0xDVS1hOHh1eHhEZldiQlc3cHllVnpTX1dzSzAzdEkwRzQ1cU5LdE53ZXpFQmo4M2UtMXd5ekh3?oc=5",
-   "pub": "Thu, 20 Aug 2026 15:12:33 GMT"
-  },
-  {
-   "t": "Bessent droht Teherans Helfern: US-Finanzminister kündigt \"härteste Iran-Sanktionen\" an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZEd3Q5TEZOTTdDY2V6Rkd3N0ZMVmJXcHplemFpOGFaVEExMnJOUnFGa25EaWtCeW5icHVQV3h4MUE4NzNndTFFbW9aQlhyRE5QcHhHQ29WTmM2X0ExLVYya1pRRERNZXl3Q3c5SHA4a3Q2Y0F0T0l3cjBDdFU4Q0d4WlNWcTlGY3FaU1ZmbGU4MTl0TlB1TjYza3lWQTRN?oc=5",
-   "pub": "Thu, 20 Aug 2026 21:25:01 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
