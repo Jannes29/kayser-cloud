@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T20:42:07Z",
+ "collected_at": "2026-08-21T21:40:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8014,
-   "chg1d_pct": 0.23
+   "price": 0.8008,
+   "chg1d_pct": 0.15
   },
   "USDJPY": {
-   "price": 158.998,
-   "chg1d_pct": 0.07
+   "price": 158.862,
+   "chg1d_pct": -0.01
   },
   "GBPCAD": {
-   "price": 1.8778,
+   "price": 1.8777,
    "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 114.011,
-   "chg1d_pct": 0.8
+   "price": 113.964,
+   "chg1d_pct": 0.76
   },
   "EURUSD": {
    "price": 1.1678,
    "chg1d_pct": -0.08
   },
   "GBPCHF": {
-   "price": 1.0933,
-   "chg1d_pct": 0.23
+   "price": 1.0923,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 86.79,
-   "chg1d_pct": -1.18
+   "price": 86.64,
+   "chg1d_pct": -1.35
   },
   "BRENT": {
-   "price": 94.04,
-   "chg1d_pct": 0.28
+   "price": 93.87,
+   "chg1d_pct": 0.1
   },
   "GOLD": {
-   "price": 4668.5,
-   "chg1d_pct": 3.37
+   "price": 4661.6,
+   "chg1d_pct": 3.22
   },
   "SPX_FUT": {
-   "price": 7688.75,
-   "chg1d_pct": 0.34
+   "price": 7687.75,
+   "chg1d_pct": 0.33
   },
   "NAS_FUT": {
-   "price": 29377.25,
-   "chg1d_pct": 0.26
+   "price": 29374.0,
+   "chg1d_pct": 0.25
   }
  },
  "headlines": [
@@ -94,7 +94,7 @@
    "pub": "Fri, 21 Aug 2026 14:10:48 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
