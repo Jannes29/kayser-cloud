@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T19:38:26Z",
+ "collected_at": "2026-08-21T20:42:07Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8011,
-   "chg1d_pct": 0.42
+   "price": 0.8014,
+   "chg1d_pct": 0.23
   },
   "USDJPY": {
-   "price": 159.011,
-   "chg1d_pct": 0.46
+   "price": 158.998,
+   "chg1d_pct": 0.07
   },
   "GBPCAD": {
-   "price": 1.8783,
-   "chg1d_pct": 0.03
+   "price": 1.8778,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 114.061,
-   "chg1d_pct": 1.18
+   "price": 114.011,
+   "chg1d_pct": 0.8
   },
   "EURUSD": {
-   "price": 1.1682,
-   "chg1d_pct": 0.07
+   "price": 1.1678,
+   "chg1d_pct": -0.08
   },
   "GBPCHF": {
    "price": 1.0933,
-   "chg1d_pct": 0.77
+   "chg1d_pct": 0.23
   },
   "WTI": {
-   "price": 86.81,
-   "chg1d_pct": -1.16
+   "price": 86.79,
+   "chg1d_pct": -1.18
   },
   "BRENT": {
-   "price": 94.06,
-   "chg1d_pct": 0.3
+   "price": 94.04,
+   "chg1d_pct": 0.28
   },
   "GOLD": {
-   "price": 4676.6,
-   "chg1d_pct": 3.55
+   "price": 4668.5,
+   "chg1d_pct": 3.37
   },
   "SPX_FUT": {
-   "price": 7695.5,
-   "chg1d_pct": 0.43
+   "price": 7688.75,
+   "chg1d_pct": 0.34
   },
   "NAS_FUT": {
-   "price": 29400.75,
-   "chg1d_pct": 0.34
+   "price": 29377.25,
+   "chg1d_pct": 0.26
   }
  },
  "headlines": [
@@ -64,14 +64,19 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
+   "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
+   "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
+  },
+  {
    "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel der USA wird nichts bringen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3JHa095R3pnN2ZRSHU1NW5hVTlvS29JUlRaQy1kVUN2UGxuWmhQXzBsei1tR00xWnFjNW5xTzQ5NWFvVUNRcnVzcHE1UWpsSEV6V0F4U1AyYjdvOG82aXc1aHN1djQ3T2NDSk9mRlRHM2JMN2cxN1dfVkE4R051LWNpRFpPTWw1ZVVvdzVPRzJGYzlGRnYyeVFVc2F2Qm9WRU1OUEsyTXVSMHFnM1lYa3NPZnR6cmRXWm52dg?oc=5",
    "pub": "Fri, 21 Aug 2026 07:25:00 GMT"
   },
   {
-   "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
-   "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
+   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
+   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   },
   {
    "t": "\"Das ist eine große Bedrohung\": Wie die Kriege in der Ukraine und im Iran Indien treffen - T-Online",
@@ -84,29 +89,24 @@
    "pub": "Fri, 21 Aug 2026 08:45:00 GMT"
   },
   {
-   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
-   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
-  },
-  {
    "t": "Irans Präsident will Krieg beenden +++ Palästinenser stirbt bei Zwischenfall im Westjordanland mit Siedlern - RND.de",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVk1TVFvNkM4VlJIZjV6SkY5UHRpNHBLVFI4OUJVanRFS2xZd1JVXzZhQ0lIaVdsYnVCTVRWNzNDZVRHb2xjcThsc0UyVC13dFljR29zMGtadnRkOGtRS0xoMjJhb1hvdk1GdFhkTjdvYUYtOThtMENyelByV0pWNnY5TXM0STN1RTR5QmJhWkxQRUl1SnJWTXVodWI4N0NxTkpJbDlJNGE4d050SURrbUdXYi01YVNKb2xHRQ?oc=5",
    "pub": "Fri, 21 Aug 2026 14:10:48 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
-  },
-  {
-   "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVTZYeG50NUx6VXF5V3YzRkZqUDdQbjJjZUg1SERDcVpOX2Z0R1lpWjVVRm9GTkpham9PZ1R3ZlZVdTItSUtSbTVTSW9panltNGp4SEhyd0wtd210c3ZFWHFpZVZvUU5mVWVjVUJR?oc=5",
-   "pub": "Thu, 20 Aug 2026 03:59:00 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVhqbU9EblNWdzVXMW5fQVJJeXRHRmxCUkNFSUhWVURJdzQ4Ni1KbGF4NnZTLXI2SkNfQmctOTJjY1BsU09TWnJaSUtkampldUNSelM1YTJjY2dUU1RaUVZKaHZJdi1BMjJKemVITVVnN1U5SUhxcEJOUE9RdXFUaU5nN2RnSTZpRkE4UmEtd0JVSm9SSVFLaw?oc=5",
    "pub": "Fri, 21 Aug 2026 03:04:00 GMT"
+  },
+  {
+   "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpHY3ZSaEFRZjFOVndyU0V4WEVTTFlKbk45MDRyTXhyVTF5dkY4cWhHSzZTa3ZuZTNNLVZmV2xBdmpxdGw5cmpTbEVXdENfTERFT1BiWjdQSnlwdVVXSlREeTBYZTlZS3RuOE1SdVpTQm9yWW5tQnFYeGhicWQxYlRiOXhSdFJHdXljcE1WZkxUY1VjZmp0b184bXhKREhrck1NMFNhaEp3UF9NV0FST0dQMDVTUGc?oc=5",
+   "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
   }
  ]
 }
