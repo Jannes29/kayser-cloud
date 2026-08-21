@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T13:11:51Z",
+ "collected_at": "2026-08-21T13:58:56Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8003,
-   "chg1d_pct": 0.32
+   "price": 0.8001,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 158.797,
-   "chg1d_pct": 0.33
+   "price": 158.786,
+   "chg1d_pct": 0.32
   },
   "GBPCAD": {
-   "price": 1.8749,
-   "chg1d_pct": -0.15
+   "price": 1.8758,
+   "chg1d_pct": -0.11
   },
   "AUDJPY": {
-   "price": 113.788,
-   "chg1d_pct": 0.94
+   "price": 113.855,
+   "chg1d_pct": 1.0
   },
   "EURUSD": {
-   "price": 1.1689,
-   "chg1d_pct": 0.13
+   "price": 1.1686,
+   "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0913,
-   "chg1d_pct": 0.59
+   "price": 1.0915,
+   "chg1d_pct": 0.61
   },
   "WTI": {
-   "price": 86.72,
-   "chg1d_pct": -1.26
+   "price": 86.67,
+   "chg1d_pct": -1.32
   },
   "BRENT": {
-   "price": 93.77,
-   "chg1d_pct": -0.01
+   "price": 93.8,
+   "chg1d_pct": 0.02
   },
   "GOLD": {
-   "price": 4640.1,
-   "chg1d_pct": 2.74
+   "price": 4646.5,
+   "chg1d_pct": 2.88
   },
   "SPX_FUT": {
-   "price": 7702.0,
-   "chg1d_pct": 0.52
+   "price": 7683.25,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 29512.0,
-   "chg1d_pct": 0.72
+   "price": 29308.75,
+   "chg1d_pct": 0.03
   }
  },
  "headlines": [
@@ -64,19 +64,24 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Iran: Flugzeugträger USS »George Washington« erreicht das Arabische Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
-   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
-  },
-  {
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
+   "t": "Iran: Flugzeugträger USS »George Washington« erreicht das Arabische Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
+   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
+  },
+  {
    "t": "Yen im Expertencheck: 16 Häuser über Geldpolitik, Carry Trades und Absicherung - e-fundresearch.com",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR05LeUI5d2tTdzVCaUFCUE9QMEpNM040NFNNeWFUUGpQZXN2WjJtZ01HWFpTSnJJT0lCbUNmLTc1Z2RQYlhsQ3YxVGlNWW5BdjZlTGUwSXRYdWNHSmEwS0ZaVTNaX21oWEQzdHZpM0lQX2NDeTVuNkpBTjFtNlZJSlZ4WXlBUW1EdmdxQVNTUkp2YUplOWFPdU5ybHVqWWJVcUoyLW1uQ1lmNkRNRmViRmJYMTZGeWtPZm5HalhtX2YtX28zSUVF?oc=5",
-   "pub": "Fri, 21 Aug 2026 07:05:00 GMT"
+   "pub": "Fri, 21 Aug 2026 07:17:07 GMT"
+  },
+  {
+   "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVOM2xBVC1xUFJSVUR3TkdhTG1kU2NONm5JdTBlSmQ0ZmZ5bFNYc2Zfbjc3TXp2Q2V4NGlsNFpMNTJIODhXTnpWLW1pc1NfOGFKaUtlQktrcHQyNlk2U0NWN2pMZ09yb3QyZ0lEekFrOFI1cEZBVmpnYkhsOHZsTmZfNlV4MTZGbDBDRzM0TGk3R3VWUUtuQm1HUVY?oc=5",
+   "pub": "Fri, 21 Aug 2026 13:46:03 GMT"
   },
   {
    "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
@@ -96,17 +101,12 @@
   {
    "t": "Naher Osten - Pentagon: 757 verletzte US-Soldaten im Iran-Krieg - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVBPekJsX2ZybFhOMmlQYUxfNnFhNkdRMWZUNGhxWW5OWVBhZlBmNElfcVNYVDFUVlJ2d2Vma3JsbDdCekZnc1dBOU9maktvSEdPeTVLSTVKNTV0TE4wc2doeWFOSkNzRE1wXzk3Wks2eTBGUW9wb2lxREtETXAwS1JkVkk2Y3RJenc2cThtaDVPQQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 12:22:58 GMT"
+   "pub": "Fri, 21 Aug 2026 13:28:04 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
    "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
-  },
-  {
-   "t": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1Rpc2RXeVBMQlFwUE16dEd2WllqMHFsdVNWaFlxc1dRcHJQSkNIelV1aDJFRTdMRXdoRVcwSURUbWR3LXZvQ1dmWnVTR0FXcGNmSEUzYmxDMFlmVnlNcXp5ODVoN29Xd1VzaUxISE02UE1XZ3M4TnFDT2VNZXpsSmdpZlpTNTFFVGpGdllRR0RvNGF1T2JMUV9fNTU?oc=5",
-   "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
   }
  ]
 }
