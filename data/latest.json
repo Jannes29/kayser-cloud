@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T04:05:44Z",
+ "collected_at": "2026-08-21T04:55:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7995,
-   "chg1d_pct": 0.22
+   "price": 0.7999,
+   "chg1d_pct": 0.27
   },
   "USDJPY": {
-   "price": 158.96,
-   "chg1d_pct": 0.43
+   "price": 159.038,
+   "chg1d_pct": 0.48
   },
   "GBPCAD": {
-   "price": 1.8779,
-   "chg1d_pct": 0.0
+   "price": 1.8778,
+   "chg1d_pct": -0.0
   },
   "AUDJPY": {
-   "price": 113.528,
-   "chg1d_pct": 0.71
+   "price": 113.551,
+   "chg1d_pct": 0.73
   },
   "EURUSD": {
-   "price": 1.1697,
-   "chg1d_pct": 0.2
+   "price": 1.1696,
+   "chg1d_pct": 0.19
   },
   "GBPCHF": {
-   "price": 1.0909,
-   "chg1d_pct": 0.55
+   "price": 1.0911,
+   "chg1d_pct": 0.57
   },
   "WTI": {
-   "price": 86.54,
-   "chg1d_pct": 0.83
+   "price": 86.45,
+   "chg1d_pct": -1.57
   },
   "BRENT": {
-   "price": 93.61,
-   "chg1d_pct": 2.17
+   "price": 93.53,
+   "chg1d_pct": -0.27
   },
   "GOLD": {
-   "price": 4589.5,
-   "chg1d_pct": 2.23
+   "price": 4598.1,
+   "chg1d_pct": 1.81
   },
   "SPX_FUT": {
-   "price": 7667.25,
-   "chg1d_pct": -0.8
+   "price": 7665.5,
+   "chg1d_pct": 0.04
   },
   "NAS_FUT": {
-   "price": 29347.5,
-   "chg1d_pct": -0.56
+   "price": 29334.75,
+   "chg1d_pct": 0.12
   }
  },
  "headlines": [
@@ -56,7 +56,7 @@
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 03:30:01 GMT"
+   "pub": "Fri, 21 Aug 2026 04:35:50 GMT"
   },
   {
    "t": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten - Spiegel",
@@ -74,7 +74,7 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
@@ -104,9 +104,9 @@
    "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
   },
   {
-   "t": "Iran-Krieg: Wirtschaftlicher «D-Day»: Trumps Aufschlag im Iran-Krieg - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3MlN6WTlOUTROS1BidjAwRWhtUmZuMjR6SkpDd2pURDduaW9KcTBldVRfMFpTcEVrSEduay1iNXAzSjcxSG9FQXYtSC1ldU9aTTNtTl9SblRtZTg3eW9hcWVKc2JVR3d0T0ZKbkNlcEM3SkN0cmxhaWwtQXlUZw?oc=5",
-   "pub": "Thu, 20 Aug 2026 13:40:51 GMT"
+   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
+   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   }
  ]
 }
