@@ -1,62 +1,62 @@
 {
- "collected_at": "2026-08-21T05:49:08Z",
+ "collected_at": "2026-08-21T07:08:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7993,
-   "chg1d_pct": 0.19
+   "price": 0.8,
+   "chg1d_pct": 0.28
   },
   "USDJPY": {
-   "price": 158.863,
-   "chg1d_pct": 0.37
+   "price": 158.884,
+   "chg1d_pct": 0.38
   },
   "GBPCAD": {
-   "price": 1.8778,
-   "chg1d_pct": -0.0
+   "price": 1.8777,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 113.465,
-   "chg1d_pct": 0.65
+   "price": 113.536,
+   "chg1d_pct": 0.72
   },
   "EURUSD": {
    "price": 1.17,
    "chg1d_pct": 0.22
   },
   "GBPCHF": {
-   "price": 1.0908,
-   "chg1d_pct": 0.54
+   "price": 1.0917,
+   "chg1d_pct": 0.62
   },
   "WTI": {
-   "price": 86.4,
-   "chg1d_pct": -1.63
+   "price": 86.3,
+   "chg1d_pct": -1.74
   },
   "BRENT": {
-   "price": 93.43,
-   "chg1d_pct": -0.37
+   "price": 93.39,
+   "chg1d_pct": -0.42
   },
   "GOLD": {
-   "price": 4595.6,
-   "chg1d_pct": 1.76
+   "price": 4620.4,
+   "chg1d_pct": 2.3
   },
   "SPX_FUT": {
-   "price": 7669.75,
-   "chg1d_pct": 0.09
+   "price": 7672.75,
+   "chg1d_pct": 0.13
   },
   "NAS_FUT": {
-   "price": 29370.75,
-   "chg1d_pct": 0.24
+   "price": 29384.0,
+   "chg1d_pct": 0.28
   }
  },
  "headlines": [
   {
+   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
+   "pub": "Fri, 21 Aug 2026 06:35:04 GMT"
+  },
+  {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpHY3ZSaEFRZjFOVndyU0V4WEVTTFlKbk45MDRyTXhyVTF5dkY4cWhHSzZTa3ZuZTNNLVZmV2xBdmpxdGw5cmpTbEVXdENfTERFT1BiWjdQSnlwdVVXSlREeTBYZTlZS3RuOE1SdVpTQm9yWW5tQnFYeGhicWQxYlRiOXhSdFJHdXljcE1WZkxUY1VjZmp0b184bXhKREhrck1NMFNhaEp3UF9NV0FST0dQMDVTUGc?oc=5",
    "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
-  },
-  {
-   "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 04:35:50 GMT"
   },
   {
    "t": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten - Spiegel",
@@ -74,7 +74,7 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
@@ -84,9 +84,9 @@
    "pub": "Thu, 20 Aug 2026 10:18:47 GMT"
   },
   {
-   "t": "Bessent droht Teherans Helfern: US-Finanzminister kündigt \"härteste Iran-Sanktionen\" an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZEd3Q5TEZOTTdDY2V6Rkd3N0ZMVmJXcHplemFpOGFaVEExMnJOUnFGa25EaWtCeW5icHVQV3h4MUE4NzNndTFFbW9aQlhyRE5QcHhHQ29WTmM2X0ExLVYya1pRRERNZXl3Q3c5SHA4a3Q2Y0F0T0l3cjBDdFU4Q0d4WlNWcTlGY3FaU1ZmbGU4MTl0TlB1TjYza3lWQTRN?oc=5",
-   "pub": "Thu, 20 Aug 2026 21:25:01 GMT"
+   "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVnpkaWV5Q215c0Q4Tk1DdzdfZlJpRnpEY0lzUnR6eXRoZkdBQUxTck44dS1DT1dwMWd6OHVrMmtob2QxTzlKYkJWOE4zUUdaTHRQZnJPNGFSQzlGVTZWbEtfaVZRVzA?oc=5",
+   "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
   },
   {
    "t": "Der Iran schießt blind: USA leiten Nacht für Nacht Millionen Barrel Öl durch die Straße von Hormus - Frankfurter Rundschau",
@@ -94,9 +94,9 @@
    "pub": "Thu, 20 Aug 2026 15:12:33 GMT"
   },
   {
-   "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVnpkaWV5Q215c0Q4Tk1DdzdfZlJpRnpEY0lzUnR6eXRoZkdBQUxTck44dS1DT1dwMWd6OHVrMmtob2QxTzlKYkJWOE4zUUdaTHRQZnJPNGFSQzlGVTZWbEtfaVZRVzA?oc=5",
-   "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
+   "t": "Bessent droht Teherans Helfern: US-Finanzminister kündigt \"härteste Iran-Sanktionen\" an - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEZEd3Q5TEZOTTdDY2V6Rkd3N0ZMVmJXcHplemFpOGFaVEExMnJOUnFGa25EaWtCeW5icHVQV3h4MUE4NzNndTFFbW9aQlhyRE5QcHhHQ29WTmM2X0ExLVYya1pRRERNZXl3Q3c5SHA4a3Q2Y0F0T0l3cjBDdFU4Q0d4WlNWcTlGY3FaU1ZmbGU4MTl0TlB1TjYza3lWQTRN?oc=5",
+   "pub": "Thu, 20 Aug 2026 21:25:01 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
@@ -104,9 +104,9 @@
    "pub": "Fri, 21 Aug 2026 03:04:00 GMT"
   },
   {
-   "t": "Exekution - Erneute Hinrichtung im Iran wegen der Proteste im Januar - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd1Rpc2RXeVBMQlFwUE16dEd2WllqMHFsdVNWaFlxc1dRcHJQSkNIelV1aDJFRTdMRXdoRVcwSURUbWR3LXZvQ1dmWnVTR0FXcGNmSEUzYmxDMFlmVnlNcXp5ODVoN29Xd1VzaUxISE02UE1XZ3M4TnFDT2VNZXpsSmdpZlpTNTFFVGpGdllRR0RvNGF1T2JMUV9fNTU?oc=5",
-   "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
+   "t": "Naher Osten - Pentagon: 757 verletzte US-Soldaten im Iran-Krieg - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVBPekJsX2ZybFhOMmlQYUxfNnFhNkdRMWZUNGhxWW5OWVBhZlBmNElfcVNYVDFUVlJ2d2Vma3JsbDdCekZnc1dBOU9maktvSEdPeTVLSTVKNTV0TE4wc2doeWFOSkNzRE1wXzk3Wks2eTBGUW9wb2lxREtETXAwS1JkVkk2Y3RJenc2cThtaDVPQQ?oc=5",
+   "pub": "Fri, 21 Aug 2026 06:25:40 GMT"
   }
  ]
 }
