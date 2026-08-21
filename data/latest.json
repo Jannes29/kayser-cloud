@@ -1,49 +1,49 @@
 {
- "collected_at": "2026-08-21T09:53:02Z",
+ "collected_at": "2026-08-21T10:48:40Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.799,
-   "chg1d_pct": 0.15
+   "price": 0.7986,
+   "chg1d_pct": 0.1
   },
   "USDJPY": {
-   "price": 158.58,
-   "chg1d_pct": 0.19
+   "price": 158.614,
+   "chg1d_pct": 0.21
   },
   "GBPCAD": {
-   "price": 1.8776,
-   "chg1d_pct": -0.01
+   "price": 1.8761,
+   "chg1d_pct": -0.09
   },
   "AUDJPY": {
-   "price": 113.552,
-   "chg1d_pct": 0.73
+   "price": 113.601,
+   "chg1d_pct": 0.77
   },
   "EURUSD": {
-   "price": 1.1707,
-   "chg1d_pct": 0.28
+   "price": 1.171,
+   "chg1d_pct": 0.31
   },
   "GBPCHF": {
-   "price": 1.0913,
-   "chg1d_pct": 0.59
+   "price": 1.0908,
+   "chg1d_pct": 0.54
   },
   "WTI": {
-   "price": 86.35,
-   "chg1d_pct": -1.69
+   "price": 86.72,
+   "chg1d_pct": -1.26
   },
   "BRENT": {
-   "price": 93.25,
-   "chg1d_pct": -0.57
+   "price": 93.66,
+   "chg1d_pct": -0.13
   },
   "GOLD": {
-   "price": 4641.5,
-   "chg1d_pct": 2.77
+   "price": 4649.9,
+   "chg1d_pct": 2.96
   },
   "SPX_FUT": {
-   "price": 7687.5,
+   "price": 7687.75,
    "chg1d_pct": 0.33
   },
   "NAS_FUT": {
-   "price": 29475.25,
+   "price": 29477.5,
    "chg1d_pct": 0.6
   }
  },
@@ -51,7 +51,7 @@
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 09:36:54 GMT"
+   "pub": "Fri, 21 Aug 2026 10:35:53 GMT"
   },
   {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
@@ -59,7 +59,12 @@
    "pub": "Thu, 20 Aug 2026 19:38:51 GMT"
   },
   {
-   "t": "Iran: Weiterer US-Flugzeugträger erreicht den Nahen Osten - Spiegel",
+   "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel der USA wird nichts bringen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3JHa095R3pnN2ZRSHU1NW5hVTlvS29JUlRaQy1kVUN2UGxuWmhQXzBsei1tR00xWnFjNW5xTzQ5NWFvVUNRcnVzcHE1UWpsSEV6V0F4U1AyYjdvOG82aXc1aHN1djQ3T2NDSk9mRlRHM2JMN2cxN1dfVkE4R051LWNpRFpPTWw1ZVVvdzVPRzJGYzlGRnYyeVFVc2F2Qm9WRU1OUEsyTXVSMHFnM1lYa3NPZnR6cmRXWm52dg?oc=5",
+   "pub": "Fri, 21 Aug 2026 07:25:00 GMT"
+  },
+  {
+   "t": "Iran: Flugzeugträger USS »George Washington« erreicht das Arabische Meer - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
    "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
   },
@@ -79,19 +84,14 @@
    "pub": "Fri, 21 Aug 2026 07:05:00 GMT"
   },
   {
-   "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel der USA wird nichts bringen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3JHa095R3pnN2ZRSHU1NW5hVTlvS29JUlRaQy1kVUN2UGxuWmhQXzBsei1tR00xWnFjNW5xTzQ5NWFvVUNRcnVzcHE1UWpsSEV6V0F4U1AyYjdvOG82aXc1aHN1djQ3T2NDSk9mRlRHM2JMN2cxN1dfVkE4R051LWNpRFpPTWw1ZVVvdzVPRzJGYzlGRnYyeVFVc2F2Qm9WRU1OUEsyTXVSMHFnM1lYa3NPZnR6cmRXWm52dg?oc=5",
-   "pub": "Fri, 21 Aug 2026 07:25:00 GMT"
+   "t": "EURUSD Prognose & Forex Aktuell: Verarbeiten die Märkte die neuen Eurozone-PMIs? - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbk5hZlJhTWdXdDVSSnFlWkYyS01PRU11VnBJQWo2WjlNUE5aLW1Oa1dqQ2xUTVkxVmUyVFhhYXI5amJSbFJYNUZhTVM3R3NsdVF5d0doYzV6QVpoc1hNVEhLbVd2UmhWMklGQWFLLWdxWTJ2bEpjN0FjZmhWMUNUMUpoX3lnaUU1MW5jYm1OaXpyY1pyRUNPUWlseEVvUkJlQlhYNDZJUzZwb2pHN3BWM0FzaGhXMEZoWlZUSzBUSFhEYi1KZTBwUkhMdTczWUdsZnp0Zy1n?oc=5",
+   "pub": "Fri, 21 Aug 2026 08:18:00 GMT"
   },
   {
    "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
-  },
-  {
-   "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVTZYeG50NUx6VXF5V3YzRkZqUDdQbjJjZUg1SERDcVpOX2Z0R1lpWjVVRm9GTkpham9PZ1R3ZlZVdTItSUtSbTVTSW9panltNGp4SEhyd0wtd210c3ZFWHFpZVZvUU5mVWVjVUJR?oc=5",
-   "pub": "Thu, 20 Aug 2026 03:59:00 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
@@ -101,7 +101,7 @@
   {
    "t": "Naher Osten - Pentagon: 757 verletzte US-Soldaten im Iran-Krieg - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVBPekJsX2ZybFhOMmlQYUxfNnFhNkdRMWZUNGhxWW5OWVBhZlBmNElfcVNYVDFUVlJ2d2Vma3JsbDdCekZnc1dBOU9maktvSEdPeTVLSTVKNTV0TE4wc2doeWFOSkNzRE1wXzk3Wks2eTBGUW9wb2lxREtETXAwS1JkVkk2Y3RJenc2cThtaDVPQQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 06:25:40 GMT"
+   "pub": "Fri, 21 Aug 2026 09:54:07 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
