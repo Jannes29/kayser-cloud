@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T10:48:40Z",
+ "collected_at": "2026-08-21T11:43:29Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7986,
-   "chg1d_pct": 0.1
+   "price": 0.7995,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 158.614,
-   "chg1d_pct": 0.21
+   "price": 158.646,
+   "chg1d_pct": 0.23
   },
   "GBPCAD": {
-   "price": 1.8761,
-   "chg1d_pct": -0.09
+   "price": 1.8759,
+   "chg1d_pct": -0.1
   },
   "AUDJPY": {
-   "price": 113.601,
-   "chg1d_pct": 0.77
+   "price": 113.661,
+   "chg1d_pct": 0.83
   },
   "EURUSD": {
-   "price": 1.171,
-   "chg1d_pct": 0.31
+   "price": 1.17,
+   "chg1d_pct": 0.22
   },
   "GBPCHF": {
-   "price": 1.0908,
-   "chg1d_pct": 0.54
+   "price": 1.0916,
+   "chg1d_pct": 0.61
   },
   "WTI": {
-   "price": 86.72,
-   "chg1d_pct": -1.26
+   "price": 86.45,
+   "chg1d_pct": -1.57
   },
   "BRENT": {
-   "price": 93.66,
-   "chg1d_pct": -0.13
+   "price": 93.44,
+   "chg1d_pct": -0.36
   },
   "GOLD": {
-   "price": 4649.9,
-   "chg1d_pct": 2.96
+   "price": 4651.7,
+   "chg1d_pct": 3.0
   },
   "SPX_FUT": {
-   "price": 7687.75,
-   "chg1d_pct": 0.33
+   "price": 7696.0,
+   "chg1d_pct": 0.44
   },
   "NAS_FUT": {
-   "price": 29477.5,
-   "chg1d_pct": 0.6
+   "price": 29512.25,
+   "chg1d_pct": 0.72
   }
  },
  "headlines": [
@@ -84,14 +84,14 @@
    "pub": "Fri, 21 Aug 2026 07:05:00 GMT"
   },
   {
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
+   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+  },
+  {
    "t": "EURUSD Prognose & Forex Aktuell: Verarbeiten die Märkte die neuen Eurozone-PMIs? - XTB.com",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbk5hZlJhTWdXdDVSSnFlWkYyS01PRU11VnBJQWo2WjlNUE5aLW1Oa1dqQ2xUTVkxVmUyVFhhYXI5amJSbFJYNUZhTVM3R3NsdVF5d0doYzV6QVpoc1hNVEhLbVd2UmhWMklGQWFLLWdxWTJ2bEpjN0FjZmhWMUNUMUpoX3lnaUU1MW5jYm1OaXpyY1pyRUNPUWlseEVvUkJlQlhYNDZJUzZwb2pHN3BWM0FzaGhXMEZoWlZUSzBUSFhEYi1KZTBwUkhMdTczWUdsZnp0Zy1n?oc=5",
    "pub": "Fri, 21 Aug 2026 08:18:00 GMT"
-  },
-  {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
