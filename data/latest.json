@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-08-21T08:59:06Z",
+ "collected_at": "2026-08-21T09:53:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.7995,
-   "chg1d_pct": 0.22
-  },
-  "USDJPY": {
-   "price": 158.515,
+   "price": 0.799,
    "chg1d_pct": 0.15
   },
+  "USDJPY": {
+   "price": 158.58,
+   "chg1d_pct": 0.19
+  },
   "GBPCAD": {
-   "price": 1.8781,
-   "chg1d_pct": 0.02
+   "price": 1.8776,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 113.506,
-   "chg1d_pct": 0.69
+   "price": 113.552,
+   "chg1d_pct": 0.73
   },
   "EURUSD": {
-   "price": 1.1708,
-   "chg1d_pct": 0.29
+   "price": 1.1707,
+   "chg1d_pct": 0.28
   },
   "GBPCHF": {
-   "price": 1.0924,
-   "chg1d_pct": 0.69
+   "price": 1.0913,
+   "chg1d_pct": 0.59
   },
   "WTI": {
-   "price": 86.09,
-   "chg1d_pct": -1.98
+   "price": 86.35,
+   "chg1d_pct": -1.69
   },
   "BRENT": {
-   "price": 93.14,
-   "chg1d_pct": -0.68
+   "price": 93.25,
+   "chg1d_pct": -0.57
   },
   "GOLD": {
-   "price": 4637.6,
-   "chg1d_pct": 2.69
+   "price": 4641.5,
+   "chg1d_pct": 2.77
   },
   "SPX_FUT": {
-   "price": 7686.0,
-   "chg1d_pct": 0.31
+   "price": 7687.5,
+   "chg1d_pct": 0.33
   },
   "NAS_FUT": {
-   "price": 29451.75,
-   "chg1d_pct": 0.52
+   "price": 29475.25,
+   "chg1d_pct": 0.6
   }
  },
  "headlines": [
   {
    "t": "Inside Teheran: Bodenoffensive oder Bürgerkrieg? Jetzt steigt die Unruhe im Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdEhrOUI4SGRfaTk4YnpqRkNGQng3MU9EZVplWUI3TmR6S0RRcEg5NkwxYmRzV1FqRnhoa0pRUjdkTGM4WmpzLTZ0UVRRUURzaU9aU1FrUUtTd0lLdnBpcUNNcnlIVGFjbndlWHdNUkUzMk0zWll5Vl9OVjZIYS0yZ2JEemhHZnBrNGdlRnNOclZqdFltS1REcUpPQ2U1ZWlGU0tuaWMzWDBHM3R4b0llOVdickwza1V4NVhvTlFRX1RGaDhjc0pnaGxpQWJsejF5NUI4bUJlNW5xRy1remZKZFN1UQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 07:35:50 GMT"
+   "pub": "Fri, 21 Aug 2026 09:36:54 GMT"
   },
   {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
@@ -79,19 +79,19 @@
    "pub": "Fri, 21 Aug 2026 07:05:00 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel der USA wird nichts bringen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3JHa095R3pnN2ZRSHU1NW5hVTlvS29JUlRaQy1kVUN2UGxuWmhQXzBsei1tR00xWnFjNW5xTzQ5NWFvVUNRcnVzcHE1UWpsSEV6V0F4U1AyYjdvOG82aXc1aHN1djQ3T2NDSk9mRlRHM2JMN2cxN1dfVkE4R051LWNpRFpPTWw1ZVVvdzVPRzJGYzlGRnYyeVFVc2F2Qm9WRU1OUEsyTXVSMHFnM1lYa3NPZnR6cmRXWm52dg?oc=5",
+   "pub": "Fri, 21 Aug 2026 07:25:00 GMT"
+  },
+  {
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
   {
-   "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel der USA wird nichts bringen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM3JHa095R3pnN2ZRSHU1NW5hVTlvS29JUlRaQy1kVUN2UGxuWmhQXzBsei1tR00xWnFjNW5xTzQ5NWFvVUNRcnVzcHE1UWpsSEV6V0F4U1AyYjdvOG82aXc1aHN1djQ3T2NDSk9mRlRHM2JMN2cxN1dfVkE4R051LWNpRFpPTWw1ZVVvdzVPRzJGYzlGRnYyeVFVc2F2Qm9WRU1OUEsyTXVSMHFnM1lYa3NPZnR6cmRXWm52dg?oc=5",
-   "pub": "Fri, 21 Aug 2026 07:25:09 GMT"
-  },
-  {
-   "t": "Teureres Gas durch Iran-Krieg: Was wird im Winter? - MDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TVnpkaWV5Q215c0Q4Tk1DdzdfZlJpRnpEY0lzUnR6eXRoZkdBQUxTck44dS1DT1dwMWd6OHVrMmtob2QxTzlKYkJWOE4zUUdaTHRQZnJPNGFSQzlGVTZWbEtfaVZRVzA?oc=5",
-   "pub": "Thu, 20 Aug 2026 18:28:29 GMT"
+   "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVTZYeG50NUx6VXF5V3YzRkZqUDdQbjJjZUg1SERDcVpOX2Z0R1lpWjVVRm9GTkpham9PZ1R3ZlZVdTItSUtSbTVTSW9panltNGp4SEhyd0wtd210c3ZFWHFpZVZvUU5mVWVjVUJR?oc=5",
+   "pub": "Thu, 20 Aug 2026 03:59:00 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
