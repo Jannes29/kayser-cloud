@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-21T14:54:19Z",
+ "collected_at": "2026-08-21T15:49:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8009,
-   "chg1d_pct": 0.39
+   "price": 0.8011,
+   "chg1d_pct": 0.42
   },
   "USDJPY": {
-   "price": 158.928,
-   "chg1d_pct": 0.41
+   "price": 158.948,
+   "chg1d_pct": 0.42
   },
   "GBPCAD": {
-   "price": 1.8767,
-   "chg1d_pct": -0.06
+   "price": 1.8774,
+   "chg1d_pct": -0.02
   },
   "AUDJPY": {
-   "price": 113.85,
-   "chg1d_pct": 0.99
+   "price": 114.027,
+   "chg1d_pct": 1.15
   },
   "EURUSD": {
-   "price": 1.1677,
-   "chg1d_pct": 0.03
+   "price": 1.1684,
+   "chg1d_pct": 0.09
   },
   "GBPCHF": {
-   "price": 1.0912,
-   "chg1d_pct": 0.58
+   "price": 1.0924,
+   "chg1d_pct": 0.69
   },
   "WTI": {
-   "price": 86.4,
-   "chg1d_pct": -1.63
+   "price": 86.91,
+   "chg1d_pct": -1.05
   },
   "BRENT": {
-   "price": 93.66,
-   "chg1d_pct": -0.13
+   "price": 94.27,
+   "chg1d_pct": 0.52
   },
   "GOLD": {
-   "price": 4645.2,
-   "chg1d_pct": 2.85
+   "price": 4664.4,
+   "chg1d_pct": 3.28
   },
   "SPX_FUT": {
-   "price": 7681.5,
-   "chg1d_pct": 0.25
+   "price": 7704.75,
+   "chg1d_pct": 0.55
   },
   "NAS_FUT": {
-   "price": 29295.25,
-   "chg1d_pct": -0.02
+   "price": 29439.0,
+   "chg1d_pct": 0.47
   }
  },
  "headlines": [
+  {
+   "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVOM2xBVC1xUFJSVUR3TkdhTG1kU2NONm5JdTBlSmQ0ZmZ5bFNYc2Zfbjc3TXp2Q2V4NGlsNFpMNTJIODhXTnpWLW1pc1NfOGFKaUtlQktrcHQyNlk2U0NWN2pMZ09yb3QyZ0lEekFrOFI1cEZBVmpnYkhsOHZsTmZfNlV4MTZGbDBDRzM0TGk3R3VWUUtuQm1HUVY?oc=5",
+   "pub": "Fri, 21 Aug 2026 13:46:03 GMT"
+  },
   {
    "t": "Mittlerer Osten - Trump droht Iran mit \"beispiellosen Wirtschaftskrieg\", Teheran ragiert gelassen - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGpHY3ZSaEFRZjFOVndyU0V4WEVTTFlKbk45MDRyTXhyVTF5dkY4cWhHSzZTa3ZuZTNNLVZmV2xBdmpxdGw5cmpTbEVXdENfTERFT1BiWjdQSnlwdVVXSlREeTBYZTlZS3RuOE1SdVpTQm9yWW5tQnFYeGhicWQxYlRiOXhSdFJHdXljcE1WZkxUY1VjZmp0b184bXhKREhrck1NMFNhaEp3UF9NV0FST0dQMDVTUGc?oc=5",
@@ -64,11 +69,6 @@
    "pub": "Fri, 21 Aug 2026 11:20:36 GMT"
   },
   {
-   "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVOM2xBVC1xUFJSVUR3TkdhTG1kU2NONm5JdTBlSmQ0ZmZ5bFNYc2Zfbjc3TXp2Q2V4NGlsNFpMNTJIODhXTnpWLW1pc1NfOGFKaUtlQktrcHQyNlk2U0NWN2pMZ09yb3QyZ0lEekFrOFI1cEZBVmpnYkhsOHZsTmZfNlV4MTZGbDBDRzM0TGk3R3VWUUtuQm1HUVY?oc=5",
-   "pub": "Fri, 21 Aug 2026 13:46:03 GMT"
-  },
-  {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
@@ -79,9 +79,9 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
-   "t": "Iran: Flugzeugträger USS »George Washington« erreicht das Arabische Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
-   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
+   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
+   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   },
   {
    "t": "Yen im Expertencheck: 16 Häuser über Geldpolitik, Carry Trades und Absicherung - e-fundresearch.com",
@@ -89,9 +89,9 @@
    "pub": "Fri, 21 Aug 2026 07:17:07 GMT"
   },
   {
-   "t": "Der Iran verbarrikadiert sich weiter - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GelFxQzRRRHF3SmR1czR3aUJ2U2x2ajNuaGd2RklJVWtVMnh2YVVXdFo0SnBsZ0dOWVdOUWZjSXR6ZzBQZm9aeVI5Qjczc3Jzc1hRSE9WbGZ6Y2RfalRvSXllQm9jYWE4Q0hTdElBOVI4WkZSUVZPddIBeEFVX3lxTE1HYXp4TGRKRnhNU0hweXdCNDBGVVVSVDBYTEtRY2hfNzJkdjBjMVdoYi1tMXh5T3FIdXZ5aTVaRWNvSUJiRTByQ2g2ZHRxTmFHZjh5aThEdWM5OHBTN2hPdzU0cTcyNV9kTlgybFdRZFQtaTlERWtGTg?oc=5",
-   "pub": "Thu, 20 Aug 2026 22:27:32 GMT"
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
+   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
   {
    "t": "Trump droht Iran mit dem \"ökonomischen D-Day\" - und Experten fürchten, dass die Falschen leiden - ZDFheute",
@@ -104,9 +104,9 @@
    "pub": "Fri, 21 Aug 2026 13:28:04 GMT"
   },
   {
-   "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
-   "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
+   "t": "Iran: Flugzeugträger USS »George Washington« erreicht das Arabische Meer - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
+   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
   }
  ]
 }
