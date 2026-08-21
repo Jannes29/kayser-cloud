@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-21T15:49:23Z",
+ "collected_at": "2026-08-21T16:52:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8011,
-   "chg1d_pct": 0.42
+   "price": 0.8009,
+   "chg1d_pct": 0.39
   },
   "USDJPY": {
-   "price": 158.948,
+   "price": 158.939,
    "chg1d_pct": 0.42
   },
   "GBPCAD": {
-   "price": 1.8774,
-   "chg1d_pct": -0.02
+   "price": 1.8778,
+   "chg1d_pct": -0.0
   },
   "AUDJPY": {
-   "price": 114.027,
-   "chg1d_pct": 1.15
+   "price": 113.996,
+   "chg1d_pct": 1.12
   },
   "EURUSD": {
-   "price": 1.1684,
-   "chg1d_pct": 0.09
+   "price": 1.1686,
+   "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0924,
-   "chg1d_pct": 0.69
+   "price": 1.0926,
+   "chg1d_pct": 0.71
   },
   "WTI": {
-   "price": 86.91,
-   "chg1d_pct": -1.05
+   "price": 86.85,
+   "chg1d_pct": -1.12
   },
   "BRENT": {
-   "price": 94.27,
-   "chg1d_pct": 0.52
+   "price": 94.19,
+   "chg1d_pct": 0.44
   },
   "GOLD": {
-   "price": 4664.4,
-   "chg1d_pct": 3.28
+   "price": 4676.9,
+   "chg1d_pct": 3.56
   },
   "SPX_FUT": {
-   "price": 7704.75,
-   "chg1d_pct": 0.55
+   "price": 7699.75,
+   "chg1d_pct": 0.49
   },
   "NAS_FUT": {
-   "price": 29439.0,
-   "chg1d_pct": 0.47
+   "price": 29418.5,
+   "chg1d_pct": 0.4
   }
  },
  "headlines": [
@@ -79,6 +79,11 @@
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
   },
   {
+   "t": "Iran: Der neue Wirtschaftskrieg zielt auf Peking - Telepolis",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblRpajhoQXlYY0dEajBqdTk0UkRBMFZBV24zNEVHTnJQYkNtVWhZOFRoSk1Ua1dWWHBEUDhjaHlnR3BieWUyVVRYaGZjWGt3RFJXU2JOajJkWnozeVdIUjZTN3lZemJ2M2NSbkRfQmRrOFh0Qks1S19XZTZBbXZhdVl3bGRMZEdVbGU2QVNZSWdkcklWR2g4dnBR?oc=5",
+   "pub": "Fri, 21 Aug 2026 08:45:00 GMT"
+  },
+  {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
    "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
@@ -101,12 +106,7 @@
   {
    "t": "Naher Osten - Pentagon: 757 verletzte US-Soldaten im Iran-Krieg - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVBPekJsX2ZybFhOMmlQYUxfNnFhNkdRMWZUNGhxWW5OWVBhZlBmNElfcVNYVDFUVlJ2d2Vma3JsbDdCekZnc1dBOU9maktvSEdPeTVLSTVKNTV0TE4wc2doeWFOSkNzRE1wXzk3Wks2eTBGUW9wb2lxREtETXAwS1JkVkk2Y3RJenc2cThtaDVPQQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 13:28:04 GMT"
-  },
-  {
-   "t": "Iran: Flugzeugträger USS »George Washington« erreicht das Arabische Meer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2lubENKYzByYmJpR1YwZDgzSXZTeVppY24zY1RMRmxZaC04azFBamdLbTJjWWRwR2RnRDkxbXpYZEZGYTZ2LWpKaW1jMjR5TDByVXZQYmtjc3o2Y1c5LVIwNUFrbTMxR2Z1Rm55alZHc3lJUF9meGxaZ2FyYjFXdm1PSkdZUExQV25BYTJVaVdCVGE4WEpDQmJsVTk3WEtJcU84bkVqbjYzTXpCdDJ0ZFR0dnlsQnJBUTJ3VWZtV29vazkyVlE?oc=5",
-   "pub": "Thu, 20 Aug 2026 18:08:00 GMT"
+   "pub": "Fri, 21 Aug 2026 16:21:33 GMT"
   }
  ]
 }
