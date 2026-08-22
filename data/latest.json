@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-22T19:36:16Z",
+ "collected_at": "2026-08-22T20:40:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -59,11 +59,6 @@
    "pub": "Sat, 22 Aug 2026 18:53:29 GMT"
   },
   {
-   "t": "Trumps „Wirtschaftlicher D-Day“ gegen den Iran – doch die eigene Bevölkerung zahlt den Preis - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpJbXRVYzFpYjJ0UXotcm5YSndmRXdvRURfVlpQRDRVNFl2bmozaHVfaFh6NmFFM2ZCclJ2a1BxSURaMWtDWldhX1pOSk0ya3Jwbkp2SEFURzNZZk5lVWpnVUdiX3NKSG5PVkZmV0ZXaGtreWRmbTN2Tk5TSXQ3WjJ5SFFxeUQzYmp0UWhIY3ZWdEdLelEzMGI5bXBYZFk?oc=5",
-   "pub": "Sat, 22 Aug 2026 04:26:00 GMT"
-  },
-  {
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
@@ -72,6 +67,11 @@
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
+  },
+  {
+   "t": "Trumps „Wirtschaftlicher D-Day“ gegen den Iran – doch die eigene Bevölkerung zahlt den Preis - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpJbXRVYzFpYjJ0UXotcm5YSndmRXdvRURfVlpQRDRVNFl2bmozaHVfaFh6NmFFM2ZCclJ2a1BxSURaMWtDWldhX1pOSk0ya3Jwbkp2SEFURzNZZk5lVWpnVUdiX3NKSG5PVkZmV0ZXaGtreWRmbTN2Tk5TSXQ3WjJ5SFFxeUQzYmp0UWhIY3ZWdEdLelEzMGI5bXBYZFk?oc=5",
+   "pub": "Sat, 22 Aug 2026 04:26:00 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
@@ -84,14 +84,14 @@
    "pub": "Sat, 22 Aug 2026 05:16:45 GMT"
   },
   {
-   "t": "Tanker des Iraks dürfen passieren Iran gewährt Nachbarland freie Fahrt durch Straße von Hormus - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkhGV0N3U0VYTzN0VTJwM1lDZTlVQ2RxV2Z2b3JrU3J5UGFCOGhaVWhBLVZRdG4weUtvQmhuYXRHdWtRWEtGeF94NUsxNExjMEtIYjBhbGVSeE5RR3dUQnVGZUNVUW9OWkZBOUR1NHhTUjBPZl8xSWdxdHdlYzdFQl84NVk0M0w5ci1IWTFicEJ6ODc3WHpUbkI5VU0ybnpCYTJpS3BYTFBQTk9tZllQN2VjZEsyU1FoS05WRm9hWGhqMy1NZHI0N2lHeDV3azJpSDJNV3hnclBOMU43VHdPMUN5cUZNdzQ0?oc=5",
-   "pub": "Sat, 22 Aug 2026 09:41:20 GMT"
-  },
-  {
    "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
    "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+  },
+  {
+   "t": "Tanker des Iraks dürfen passieren Iran gewährt Nachbarland freie Fahrt durch Straße von Hormus - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkhGV0N3U0VYTzN0VTJwM1lDZTlVQ2RxV2Z2b3JrU3J5UGFCOGhaVWhBLVZRdG4weUtvQmhuYXRHdWtRWEtGeF94NUsxNExjMEtIYjBhbGVSeE5RR3dUQnVGZUNVUW9OWkZBOUR1NHhTUjBPZl8xSWdxdHdlYzdFQl84NVk0M0w5ci1IWTFicEJ6ODc3WHpUbkI5VU0ybnpCYTJpS3BYTFBQTk9tZllQN2VjZEsyU1FoS05WRm9hWGhqMy1NZHI0N2lHeDV3azJpSDJNV3hnclBOMU43VHdPMUN5cUZNdzQ0?oc=5",
+   "pub": "Sat, 22 Aug 2026 09:41:20 GMT"
   },
   {
    "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
