@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-22T03:07:58Z",
+ "collected_at": "2026-08-22T03:56:56Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -59,6 +59,11 @@
    "pub": "Fri, 21 Aug 2026 20:10:00 GMT"
   },
   {
+   "t": "Iran sieht in Trumps angekündigtem „Wirtschaftskrieg“ einen Völkerrechtsverstoß - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTktYd2FKWTY0WTFjWkZmYUV4bTB4a1BzanRmUHVBdXpEYUJXRWxmSDhtWDdxVTBYREVWZzdsUUh3bVNxOXBzaHNPeGlOd1pjY3JfVkR2R1pSZE5hb3VCT3VhY19WRGlORkdvT3lWalJnbFpXOVdiUDB5SWtWNE9nYVBUUndNR1RuSnpNYWVsdFNOdUt6VzBzQ0VxRlNYbVFiNm93ZVBLQnpCQzFnQTVScU5LQk1PNUhsbERNUUtUUVRzNDBPOEhXczRQTi1MU2M2MXFicEJIamxmWVNZSTlVcHVSRXVhSW1ad1Zrd01jQTd0UQ?oc=5",
+   "pub": "Sat, 22 Aug 2026 02:49:04 GMT"
+  },
+  {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
@@ -67,11 +72,6 @@
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
-  },
-  {
-   "t": "Iran sieht in Trumps angekündigtem „Wirtschaftskrieg“ einen Völkerrechtsverstoß - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTktYd2FKWTY0WTFjWkZmYUV4bTB4a1BzanRmUHVBdXpEYUJXRWxmSDhtWDdxVTBYREVWZzdsUUh3bVNxOXBzaHNPeGlOd1pjY3JfVkR2R1pSZE5hb3VCT3VhY19WRGlORkdvT3lWalJnbFpXOVdiUDB5SWtWNE9nYVBUUndNR1RuSnpNYWVsdFNOdUt6VzBzQ0VxRlNYbVFiNm93ZVBLQnpCQzFnQTVScU5LQk1PNUhsbERNUUtUUVRzNDBPOEhXczRQTi1MU2M2MXFicEJIamxmWVNZSTlVcHVSRXVhSW1ad1Zrd01jQTd0UQ?oc=5",
-   "pub": "Sat, 22 Aug 2026 02:49:04 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
@@ -84,24 +84,24 @@
    "pub": "Fri, 21 Aug 2026 18:27:16 GMT"
   },
   {
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
+   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+  },
+  {
    "t": "\"Das ist eine große Bedrohung\": Wie die Kriege in der Ukraine und im Iran Indien treffen - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV0x0azNIZkJMUVVQUGZUYmF2c0VEaEt1eVptUWF1RHZHMnZOampQVWFOd0FhN0tKWUk1UHhqdTZrZUJOMWU0Y3JJZ3ZJLTBlUFlORm11UTMyckFhRGkzNjRGSlJPWFhsRmV5MmtyQVBKeFpIS0Jvcm03dm1wUEg3ZFhDOVF0WkFQb1F6dkxLN3dxRGlMS0s0NVNJLVNKd2MwWThCRExLWnEyNkdoWnBfOWlobENDa3RMQ2RfUkdBUF9CS1ZsX0RnaGJnQ2VLMzA1RVdQajRyYS1pcWFoVFNnUzVoZXdTLTFqT1hTdw?oc=5",
    "pub": "Fri, 21 Aug 2026 11:20:36 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+   "t": "Iran: Der neue Wirtschaftskrieg zielt auf Peking - Telepolis",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblRpajhoQXlYY0dEajBqdTk0UkRBMFZBV24zNEVHTnJQYkNtVWhZOFRoSk1Ua1dWWHBEUDhjaHlnR3BieWUyVVRYaGZjWGt3RFJXU2JOajJkWnozeVdIUjZTN3lZemJ2M2NSbkRfQmRrOFh0Qks1S19XZTZBbXZhdVl3bGRMZEdVbGU2QVNZSWdkcklWR2g4dnBR?oc=5",
+   "pub": "Fri, 21 Aug 2026 08:45:00 GMT"
   },
   {
-   "t": "Trump droht Iran mit \"wirtschaftlichem D-Day\" - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rVTZYeG50NUx6VXF5V3YzRkZqUDdQbjJjZUg1SERDcVpOX2Z0R1lpWjVVRm9GTkpham9PZ1R3ZlZVdTItSUtSbTVTSW9panltNGp4SEhyd0wtd210c3ZFWHFpZVZvUU5mVWVjVUJR?oc=5",
-   "pub": "Thu, 20 Aug 2026 03:59:00 GMT"
-  },
-  {
-   "t": "Irans Präsident will Krieg beenden +++ Palästinenser stirbt bei Zwischenfall im Westjordanland mit Siedlern - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVk1TVFvNkM4VlJIZjV6SkY5UHRpNHBLVFI4OUJVanRFS2xZd1JVXzZhQ0lIaVdsYnVCTVRWNzNDZVRHb2xjcThsc0UyVC13dFljR29zMGtadnRkOGtRS0xoMjJhb1hvdk1GdFhkTjdvYUYtOThtMENyelByV0pWNnY5TXM0STN1RTR5QmJhWkxQRUl1SnJWTXVodWI4N0NxTkpJbDlJNGE4d050SURrbUdXYi01YVNKb2xHRQ?oc=5",
-   "pub": "Fri, 21 Aug 2026 14:10:48 GMT"
+   "t": "Ökonom: Zölle und Iran-Krieg kommen USA teuer zu stehen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk11eW52c1lkcHM4Slk2cTV5azB3SFhUN3cxNkVLdHZwMUV0bzFYb2RrS2M0Nzd2dzd4cWZudjRZTzRlY2VVSHBlWHkzWFpXWERtNS0wMUFJTG56NVk4ZDI1RHhDTUR3TWFlOG5FbmxEQ2NLZWlNWFVhdnJzWmVyT3FqcEl3aUhtajVpUzc5Tjk0cm40NS1GX0JwRUk?oc=5",
+   "pub": "Sat, 22 Aug 2026 03:31:00 GMT"
   },
   {
    "t": "Maximale Drohgebärden, minimale Wirkung: Wie Trump Iran nicht zur Kapitulation zwingt - Frankfurter Rundschau",
