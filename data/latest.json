@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-22T08:48:59Z",
+ "collected_at": "2026-08-22T09:43:27Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,6 +49,11 @@
  },
  "headlines": [
   {
+   "t": "Mullahs unter Druck: Drei Wege, wie Trump den Iran doch noch besiegt - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2ltR3V4b29LQnloWXBMR0VBcm1EYmplVDlOLTJFMnRVMDNhMm5KTTZvRGY2akhiNXBZX3JoZVhyT2pmcE5hcHZqLVdlWU94LXhEeWlXUi1RbENlaVlEYWhEaVRZRjd3NnZONmFoeDdUb0VVZ3h5RlNlbTNvWmtLa3dNcWtVS1VHUnVyZlhjdS1yR2g5ZV9lQXBVci1aWVZWWGNCQ09vR2dMZHp3cm5YQU9CV0ZnMkNoLTd6eVlWYlcyY3dNeHpjVDBDZFhYNWhLaGNDbFFLeVVBOGNIYmlSSw?oc=5",
+   "pub": "Sat, 22 Aug 2026 08:19:36 GMT"
+  },
+  {
    "t": "Iran sieht in Donald Trumps angekündigtem „Wirtschaftskrieg“ einen Völkerrechtsverstoß - WELT",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTktYd2FKWTY0WTFjWkZmYUV4bTB4a1BzanRmUHVBdXpEYUJXRWxmSDhtWDdxVTBYREVWZzdsUUh3bVNxOXBzaHNPeGlOd1pjY3JfVkR2R1pSZE5hb3VCT3VhY19WRGlORkdvT3lWalJnbFpXOVdiUDB5SWtWNE9nYVBUUndNR1RuSnpNYWVsdFNOdUt6VzBzQ0VxRlNYbVFiNm93ZVBLQnpCQzFnQTVScU5LQk1PNUhsbERNUUtUUVRzNDBPOEhXczRQTi1MU2M2MXFicEJIamxmWVNZSTlVcHVSRXVhSW1ad1Zrd01jQTd0UQ?oc=5",
    "pub": "Sat, 22 Aug 2026 02:49:04 GMT"
@@ -64,11 +69,6 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVOM2xBVC1xUFJSVUR3TkdhTG1kU2NONm5JdTBlSmQ0ZmZ5bFNYc2Zfbjc3TXp2Q2V4NGlsNFpMNTJIODhXTnpWLW1pc1NfOGFKaUtlQktrcHQyNlk2U0NWN2pMZ09yb3QyZ0lEekFrOFI1cEZBVmpnYkhsOHZsTmZfNlV4MTZGbDBDRzM0TGk3R3VWUUtuQm1HUVY?oc=5",
-   "pub": "Fri, 21 Aug 2026 13:46:03 GMT"
-  },
-  {
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR0NCc0RIMVhmcjF2dkF5RENLTkNVWXF0aE5ucUtZX1gtY2tHWFZBdmFnQ21fSk80VU05UXBkRnVTMnA0TE1tSFdBR2thU2FraC1vWTI2Q0I4eHNidHdoaFBfdTZrNFFIRDVoclJOUE10NGlrSmh1ZW82V3U1MW5qaG5fRnctaG5z?oc=5",
    "pub": "Thu, 20 Aug 2026 03:28:22 GMT"
@@ -79,9 +79,9 @@
    "pub": "Sat, 22 Aug 2026 05:16:45 GMT"
   },
   {
-   "t": "Mullahs unter Druck: Drei Wege, wie Trump den Iran doch noch besiegt - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2ltR3V4b29LQnloWXBMR0VBcm1EYmplVDlOLTJFMnRVMDNhMm5KTTZvRGY2akhiNXBZX3JoZVhyT2pmcE5hcHZqLVdlWU94LXhEeWlXUi1RbENlaVlEYWhEaVRZRjd3NnZONmFoeDdUb0VVZ3h5RlNlbTNvWmtLa3dNcWtVS1VHUnVyZlhjdS1yR2g5ZV9lQXBVci1aWVZWWGNCQ09vR2dMZHp3cm5YQU9CV0ZnMkNoLTd6eVlWYlcyY3dNeHpjVDBDZFhYNWhLaGNDbFFLeVVBOGNIYmlSSw?oc=5",
-   "pub": "Sat, 22 Aug 2026 08:19:36 GMT"
+   "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVOM2xBVC1xUFJSVUR3TkdhTG1kU2NONm5JdTBlSmQ0ZmZ5bFNYc2Zfbjc3TXp2Q2V4NGlsNFpMNTJIODhXTnpWLW1pc1NfOGFKaUtlQktrcHQyNlk2U0NWN2pMZ09yb3QyZ0lEekFrOFI1cEZBVmpnYkhsOHZsTmZfNlV4MTZGbDBDRzM0TGk3R3VWUUtuQm1HUVY?oc=5",
+   "pub": "Fri, 21 Aug 2026 13:46:03 GMT"
   },
   {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
@@ -94,14 +94,14 @@
    "pub": "Fri, 21 Aug 2026 18:27:16 GMT"
   },
   {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
+   "t": "Affront für Washington: China und Iran schmieden Allianz bei Seltenen Erden - Telepolis",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnhIRnFLVTdwVFVDN29EUDZMZjBQV2xsOGFCT3A5M3MzT3JLOEl2c1JwajMwci1uMXBxbzlUam5oZEZHenZKZE5ZUVptNjFPYkxIOFlhQ3hQM3dqQkNfcUlfLXJCbWt3RlpySnFDUmNnSUVxblFYVnBXVlJmSWJHbXVfOUpqbFg1NUw5M2t2ZmNiV2ZfLThNWU5mVjFGVXhGV2xfWkJPbS1PUnVEZFpKTVZqWUsxWDJPVld0cTVLOA?oc=5",
+   "pub": "Sat, 22 Aug 2026 08:00:00 GMT"
   },
   {
-   "t": "Ökonom: Zölle und Iran-Krieg kommen USA teuer zu stehen - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk11eW52c1lkcHM4Slk2cTV5azB3SFhUN3cxNkVLdHZwMUV0bzFYb2RrS2M0Nzd2dzd4cWZudjRZTzRlY2VVSHBlWHkzWFpXWERtNS0wMUFJTG56NVk4ZDI1RHhDTUR3TWFlOG5FbmxEQ2NLZWlNWFVhdnJzWmVyT3FqcEl3aUhtajVpUzc5Tjk0cm40NS1GX0JwRUk?oc=5",
-   "pub": "Sat, 22 Aug 2026 03:31:00 GMT"
+   "t": "Tanker des Iraks dürfen passieren Iran gewährt Nachbarland freie Fahrt durch Straße von Hormus - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVkhGV0N3U0VYTzN0VTJwM1lDZTlVQ2RxV2Z2b3JrU3J5UGFCOGhaVWhBLVZRdG4weUtvQmhuYXRHdWtRWEtGeF94NUsxNExjMEtIYjBhbGVSeE5RR3dUQnVGZUNVUW9OWkZBOUR1NHhTUjBPZl8xSWdxdHdlYzdFQl84NVk0M0w5ci1IWTFicEJ6ODc3WHpUbkI5VU0ybnpCYTJpS3BYTFBQTk9tZllQN2VjZEsyU1FoS05WRm9hWGhqMy1NZHI0N2lHeDV3azJpSDJNV3hnclBOMU43VHdPMUN5cUZNdzQ0?oc=5",
+   "pub": "Sat, 22 Aug 2026 09:41:20 GMT"
   },
   {
    "t": "Jetzt versucht Trump es mit Sanktionen gegen Iran – doch auch der Kurswechsel wird nichts bringen - Frankfurter Rundschau",
