@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-23T07:47:40Z",
+ "collected_at": "2026-08-23T08:49:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,9 +49,9 @@
  },
  "headlines": [
   {
-   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern US-amerikanischer Wirtschaftsmaßnahmen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemlEazFyQkNQLTFTS3BTQjRuSDgzUFR6TjgzT0VxNDR3T09pMi1wMDhUSWQ1T2pFOHpyeFNIVzNRWVlKS1Zab2VoMW9hZ0RsblRFN05kbDBxVlpGemYzS0ZyTUhYbGtrcGZVTXhPV0lLUGdWeG80Ni0wQUhzOUVtTE5PUFNudl9tcExrMnBsMVpDTnp2c3ltTw?oc=5",
-   "pub": "Sun, 23 Aug 2026 06:42:23 GMT"
+   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
+   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
   },
   {
    "t": "„Wir werden sie angreifen“: Iran droht mit Schlägen auf US-Ölfirmen – und warnt Washingtons Verbündete - Frankfurter Rundschau",
@@ -60,18 +60,8 @@
   },
   {
    "t": "Mittlerer Osten - Iran: \"Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOHo4cjhBcWpOYjczZzhHVTNVQ0s5ay1EdTVVVmcwZjlkdGQxd1l0ODZZZjNtbkg2TXlwcVo2Y0ZWekpyZ3FxOWpVVURqUmtXeWdraDVXU1VYZkpkcUR6U0wxSHhzekk0SzFBREhoVzZtZHhITjViQmJSYnJGX0h0cm5lWHFScVlRT0ktTEw1UTI5NXJ0WXNHOHI5bnBvbzhXSjhmcXN1YmtrTHFtSDZ0dFZ3YXQ3aUY4?oc=5",
-   "pub": "Sun, 23 Aug 2026 07:00:00 GMT"
-  },
-  {
-   "t": "Parallel zu US-Angriff: Iran legt offenbar britisches Kraftwerk vier Tage lang lahm - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRTNGZmR1pzSG9ZbGJxdW1VQTVYSzBVZjRTQWNKMHhmSzJVbDAyeFd3dzVKSlBpazFvNWlNbUdSUDhoOE5QMnc1OTBON2EtVEdjLWRSNjI1R2g4NEdvbzB0c2hUcDdEYU01RTIxMm5Xd1lKNHkxSTBtQzBZN29LVWJRYmdBQ25sNTF1YVI3a1haUnFRdVNqVzc0V3Rya2lCMXZGZUdfeHVlMFpuX29jc1pEX1hqNkZZaGhLRng5c3JXNzhYOGhuZ1R6Ty1yZlRLeHdlU05JcEIxLU1TdW1NY2NvLXVjdGs?oc=5",
-   "pub": "Sun, 23 Aug 2026 05:28:56 GMT"
-  },
-  {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Sun, 23 Aug 2026 06:56:13 GMT"
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGJGVTZjYjhuN2JaVE5uOHpITXc1OXFPZTgySE15WXJMTmNSdjRoOHZxcmU2ZkctU0JNRTh2UXdOT0FmT1dpY3pJeWpjNEFSZTNOM2dIWWNIMWpfN0p5S0JQOEVNcGxqbUNjUml6TGhfeFRGWnE2ZXE1UkpoZHVsSWNoRTdkSzhmdU1PSzlvRW14RXNoc2VZaHdkZjRodndkN002OEVDc014Sld3OURHcUtXY1U4a0Zy?oc=5",
+   "pub": "Sun, 23 Aug 2026 04:00:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt - Spiegel",
@@ -79,14 +69,19 @@
    "pub": "Sun, 23 Aug 2026 07:23:00 GMT"
   },
   {
-   "t": "Ölpreis steigt weiter: Was die Hängepartie im Iran-Krieg für Autofahrer bedeutet - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1BaanRQMEJOSEV0OW9nSDhsRld5VzRxVUUyUmY5cUxfOWZOTENHUkszbWtpNmxCUlNSYl9BbnJLTFoxRUZiSW0ySzV2M045MXNqVXQwbmcyeVJLWWpJWjB6eWhpS0RvWTZqTVpGZ2ZZbl8wQ2xJYVpUTGhaUXFKd0k3UXJES1N1Q3RQOVFlSDVTSDhlX3A5R1pKTjVQZXA3MGUtNnd4S1R4Ung4LWJJSWJYbUtuUGR2T0htbEdJcFdmMmUzaXR2N09JZkR1UDA?oc=5",
-   "pub": "Sun, 23 Aug 2026 03:15:05 GMT"
+   "t": "Parallel zu US-Angriff: Iran legt offenbar britisches Kraftwerk vier Tage lang lahm - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRTNGZmR1pzSG9ZbGJxdW1VQTVYSzBVZjRTQWNKMHhmSzJVbDAyeFd3dzVKSlBpazFvNWlNbUdSUDhoOE5QMnc1OTBON2EtVEdjLWRSNjI1R2g4NEdvbzB0c2hUcDdEYU01RTIxMm5Xd1lKNHkxSTBtQzBZN29LVWJRYmdBQ25sNTF1YVI3a1haUnFRdVNqVzc0V3Rya2lCMXZGZUdfeHVlMFpuX29jc1pEX1hqNkZZaGhLRng5c3JXNzhYOGhuZ1R6Ty1yZlRLeHdlU05JcEIxLU1TdW1NY2NvLXVjdGs?oc=5",
+   "pub": "Sun, 23 Aug 2026 05:28:56 GMT"
   },
   {
-   "t": "\"Stufen jeden als Feind ein\": Iran warnt Länder vor Teilnahme an Trumps Wirtschaftskrieg - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmt5N2FsRVhpenBSSDdIdWNUV2N6cVI2ZzI3a2FTOVZTZ09YZU4xeHVlV3hUcmQxT0VuV3otVzY0aGtjQnd2UV9ONkxIcm41M19Xd1JtVFU3ZG0xbEF5LUFGeHVpWFJWMTZOeHZXX1FCQlRoSVpib3llanBUemRONjNsSGJGRkdyQ2g2a1pYUVJ3R3BMX0d0OFlIdU15ZWhsd1ZUOXVR?oc=5",
-   "pub": "Sun, 23 Aug 2026 02:11:42 GMT"
+   "t": "Todesurteil im Iran: Erneut Hinrichtung wegen Beteiligung an Massenprotesten - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42Z1dEVkdvT3lxZ2F4akdzRnlCVDlRU3dkNG9JRlpQdFNYb0FwTVVva1NEd3NHZGhsc095bHVDbVdWV2FOcThnZ2VxWEdZbXBYa1RzVGQ5UQ?oc=5",
+   "pub": "Sun, 23 Aug 2026 08:09:04 GMT"
+  },
+  {
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Sun, 23 Aug 2026 06:56:13 GMT"
   },
   {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
@@ -94,19 +89,24 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Mullahs unter Druck: Drei Wege, wie Trump den Iran doch noch besiegt - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb2ltR3V4b29LQnloWXBMR0VBcm1EYmplVDlOLTJFMnRVMDNhMm5KTTZvRGY2akhiNXBZX3JoZVhyT2pmcE5hcHZqLVdlWU94LXhEeWlXUi1RbENlaVlEYWhEaVRZRjd3NnZONmFoeDdUb0VVZ3h5RlNlbTNvWmtLa3dNcWtVS1VHUnVyZlhjdS1yR2g5ZV9lQXBVci1aWVZWWGNCQ09vR2dMZHp3cm5YQU9CV0ZnMkNoLTd6eVlWYlcyY3dNeHpjVDBDZFhYNWhLaGNDbFFLeVVBOGNIYmlSSw?oc=5",
-   "pub": "Sat, 22 Aug 2026 11:28:30 GMT"
-  },
-  {
-   "t": "Iran unter Sanktionsdruck: Ölpreis springt – Hormus im Fokus - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMktJRGhlWkZXVjdweG8zdk55MHBLcVlqRVVFZmx6aHhyQ25rX0gzbm9VVFBUTnFTU05VZVdoTG1Fb3FHSzltcFFSUUlNSnlJNkU3UU5CckZBak5lOHpJRk9ERXd4MDRHSzM4LWdqOWRPbFhJemh4WjRaN1luSlNEOGh4VUZVamlpXzEtQXVPMUFEQk5rWXpnbUwweWpFYlZhTE1J?oc=5",
-   "pub": "Sun, 23 Aug 2026 05:42:48 GMT"
-  },
-  {
    "t": "Iran-Krieg belastet Ölmarkt: Was Trumps \"Wirtschaftskrieg\" für Autofahrer bedeutet - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG5zMHNJSEt6aFduVE5iRnljNkt6a0hsbG9heHd0UVFkWmZzeDVpVFdwa25fblBwdUJIM3FEektRdHBFVUN6YWlaVkNvRVVsaW9NeE95Mk05VlRiUm1iM3BPaWZlbG1hTDlGN1dGUmsybmg1dkZVVTMydGNnUTQ5OTZRRWcxM1dwNFBtZGVjbThTTzZKQ21oOVB2bnhzTVk?oc=5",
    "pub": "Sun, 23 Aug 2026 06:45:00 GMT"
+  },
+  {
+   "t": "Ölpreis steigt weiter: Was die Hängepartie im Iran-Krieg für Autofahrer bedeutet - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWkozUUh5Snp2bEJvVjFWel8tT0ZtQ1dicXBQdHJXazltTDR0TlR5X2QxdHJnQ3Y2LUlDTU1rZDdsUnNwWklnY0c2NVY0b0tOUFNLWUg0SFN4eWpHV0Ytbm9mWXdETUoyODI3ZTZLd0c5U3RCcWVPT25rbEVETVlGUlZoZkhDUUpDLVRSUmRwUUE4R0FpU0N0ZlZVaw?oc=5",
+   "pub": "Sun, 23 Aug 2026 03:15:05 GMT"
+  },
+  {
+   "t": "Weiterer Demonstrant wegen Protesten in Iran im Januar hingerichtet - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY1QyQ3YwMXEtNG5vNUlNRzRNU3BwZUtJeXdXMG95MVR3S05DdFlyTk1vSUg2YXZtUVRmTHM4MzhQMjRPVkRrOVp4TFR6Z1JaZ2RXc0Vfbm9wbVhCbDJjRWJ0SXdVeWN4bk5CcjY3Y2pRU1Z2S2hDRnRkdWRwdWtoU2FtU19xdERWTUtlSUZIeVJDSWplOVo0R0dvZmtNNHE1NUJLRjVVUm9lR0VFQnVtZXNVTG5wVWNPZTVRT25Rc3lVSGFhVUptZjBWWUxVa2c?oc=5",
+   "pub": "Sun, 23 Aug 2026 08:26:00 GMT"
+  },
+  {
+   "t": "Maximale Drohgebärden, minimale Wirkung: Wie Trump Iran nicht zur Kapitulation zwingt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG1wTXEydmdHSVRCRVZyUXFUQ05OMTJSSzc5TERDSVhVa0UxZlAxVW0tNjV2ck1sZndjamxUeDc2aDBaSzAyVlFoVGc3eWxZdUdKQmdtMGhYb0F4QWplX3Q1WWQxeWN5Nks4eEM3cmFkSnpla0N5SGJxVUVyY0Z4aTlxdTB5Z3E5dDRQM01LdFBwbTJJTmpIcEdSZ2xmVXZfczFPek9B?oc=5",
+   "pub": "Sat, 22 Aug 2026 17:00:00 GMT"
   }
  ]
 }
