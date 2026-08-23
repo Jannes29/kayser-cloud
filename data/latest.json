@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-23T02:00:22Z",
+ "collected_at": "2026-08-23T03:16:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,9 +49,9 @@
  },
  "headlines": [
   {
-   "t": "Maximale Drohgebärden, minimale Wirkung: Wie Trump Iran nicht zur Kapitulation zwingt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZG1wTXEydmdHSVRCRVZyUXFUQ05OMTJSSzc5TERDSVhVa0UxZlAxVW0tNjV2ck1sZndjamxUeDc2aDBaSzAyVlFoVGc3eWxZdUdKQmdtMGhYb0F4QWplX3Q1WWQxeWN5Nks4eEM3cmFkSnpla0N5SGJxVUVyY0Z4aTlxdTB5Z3E5dDRQM01LdFBwbTJJTmpIcEdSZ2xmVXZfczFPek9B?oc=5",
-   "pub": "Sat, 22 Aug 2026 17:00:00 GMT"
+   "t": "Mittlerer Osten - Iran: \"Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet\" - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmwtUGtBMGRMQ3pCb3pHQldvam8xRFJWR0tKN3pMb090N3BGV0t3RWNzVGY0NnpHRmNMOHRMdVpRVUZ4RGxIRzY5eV9XUi1jcXZSanhjaUZ4YTRvX0xOVVAzbkZEWUFMUnhJdzZSQ2hGNWJxeXVEYnZlVmxRQ2xPUDVPbzFOclh2TnpiNjhrQ0ZDbThscEp6RTVSbk52YnVxeEJkc1dHRnpwcV94OUpLS3BxX3ctamNN?oc=5",
+   "pub": "Sun, 23 Aug 2026 03:00:00 GMT"
   },
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
@@ -64,9 +64,14 @@
    "pub": "Sat, 22 Aug 2026 11:28:30 GMT"
   },
   {
-   "t": "Iran lässt irakische Öltanker durch Hormus passieren, neue US-Sanktionen ab Montag - derStandard.de",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQek90Tm1aeVRwRUg5TjlVS2dLYUZoX2hvZTFqa1RaR0ROamdJYkVxZTVLZ002V2hiN3JEU3p0UFdDYy0xTWJBZS1MX3pIU1R1b1VEdUFVamswd1Jxam9lWlRHamwzUGtyU2phTFU5YW9zQm41OTh3TUVHNzFub0xMcWZOX1NUY3lFOXVLZVZRVW1JeV82VlhTbXg5Q3JSRUMxQ2o5ZGpKaU1SX3d2QXJIUGpMZlRaWTJFRlFwcVlQQkp0ejluVFE?oc=5",
-   "pub": "Sat, 22 Aug 2026 09:28:00 GMT"
+   "t": "\"Stufen jeden als Feind ein\": Iran warnt Länder vor Teilnahme an Trumps Wirtschaftskrieg - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmt5N2FsRVhpenBSSDdIdWNUV2N6cVI2ZzI3a2FTOVZTZ09YZU4xeHVlV3hUcmQxT0VuV3otVzY0aGtjQnd2UV9ONkxIcm41M19Xd1JtVFU3ZG0xbEF5LUFGeHVpWFJWMTZOeHZXX1FCQlRoSVpib3llanBUemRONjNsSGJGRkdyQ2g2a1pYUVJ3R3BMX0d0OFlIdU15ZWhsd1ZUOXVR?oc=5",
+   "pub": "Sun, 23 Aug 2026 02:11:42 GMT"
+  },
+  {
+   "t": "Maximale Drohgebärden, minimale Wirkung: Wie Trump Iran nicht zur Kapitulation zwingt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM09YUUs1N3hid0ppSzd3ajVwTDB3bE5nb3oxWEJVVE5FYW51WnBoTVlFUmNvLU0zek5QcmstNGJLOEVaX3YwMDc3T0dmQ2M4SnRJcHpPakJCX3Q2S2dDaXh3ZnpBUGNSOXRVa21jQnk4QnhYUm9hbzJGZDljeXYzZkxoV3lXb0NYYWNERTBUREhycGJUNEhmcGFsclBvTVBUbWdJdTV3?oc=5",
+   "pub": "Sun, 23 Aug 2026 02:46:00 GMT"
   },
   {
    "t": "Iran und die USA: Eskaliert der Iran den Krieg noch einmal? - DIE ZEIT",
@@ -79,19 +84,14 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
+   "t": "Iran lässt irakische Öltanker durch Hormus passieren, neue US-Sanktionen ab Montag - derStandard.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQek90Tm1aeVRwRUg5TjlVS2dLYUZoX2hvZTFqa1RaR0ROamdJYkVxZTVLZ002V2hiN3JEU3p0UFdDYy0xTWJBZS1MX3pIU1R1b1VEdUFVamswd1Jxam9lWlRHamwzUGtyU2phTFU5YW9zQm41OTh3TUVHNzFub0xMcWZOX1NUY3lFOXVLZVZRVW1JeV82VlhTbXg5Q3JSRUMxQ2o5ZGpKaU1SX3d2QXJIUGpMZlRaWTJFRlFwcVlQQkp0ejluVFE?oc=5",
+   "pub": "Sat, 22 Aug 2026 09:28:00 GMT"
+  },
+  {
    "t": "Konflikt im Nahen Osten: Trump droht Iran mit »Wirtschaftskrieg« - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXV4NDZOWEtHQXhoMmhrUElwSy1RM2ZfWU9BSXFJQkY1WkZSZko4aHlaLXowYTc1NWdDblM1ZlFjV2tFa0dGVGt3TE95QUlyUzBHMWZQMm90Rllod0ZRQVFlWUdxSXNFMkdoT1dLaXVqX1Qtb1c5YTl3U0ZyUURzQVZfZlJoYmZJQWFsWTBFTW5tYUVzbVh2V3Q0TGh5UlRLLVVyaTFnSkVSSTJwUW8zWWJ2Slg1YkFpVXRlMGRKMA?oc=5",
    "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
-  },
-  {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
-  },
-  {
-   "t": "USA seien weltweit verhasst: Iran will aus \"Position der Stärke\" den Krieg beenden - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUVOM2xBVC1xUFJSVUR3TkdhTG1kU2NONm5JdTBlSmQ0ZmZ5bFNYc2Zfbjc3TXp2Q2V4NGlsNFpMNTJIODhXTnpWLW1pc1NfOGFKaUtlQktrcHQyNlk2U0NWN2pMZ09yb3QyZ0lEekFrOFI1cEZBVmpnYkhsOHZsTmZfNlV4MTZGbDBDRzM0TGk3R3VWUUtuQm1HUVY?oc=5",
-   "pub": "Fri, 21 Aug 2026 13:46:03 GMT"
   },
   {
    "t": "Ökonom: Zölle und Iran-Krieg kommen USA teuer zu stehen - ZDFheute",
@@ -99,14 +99,14 @@
    "pub": "Sat, 22 Aug 2026 03:31:00 GMT"
   },
   {
-   "t": "Iran legt Kraftwerk in England vier Tage lahm - BILD",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFF6cHBSUnJjLVRKd1JwOHp6OE1iOE9lUXRRcnNCOXZ3eFFJRDRiazZrTE9hamljYm1ZV3YycTk1VnNmLVltc2FDTWYwNFlxWGYtZzRoelZqb2pkQzl3VTZpVURHaEY2NHJ0TVJEd0NmdVdjYnN3d1BNYUMyZ1FxM1I1UkZIblRHTW9MejN3M2Y3X1BjRXNUaWhrVUg1VDc4WVRvUEFrd211RjB6eEJ0VXJtcjNwMU82SUF3b3p6b2ZQSnYz?oc=5",
-   "pub": "Sat, 22 Aug 2026 23:05:00 GMT"
+   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
+   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
   },
   {
-   "t": "Trumps „Wirtschaftlicher D-Day“ gegen den Iran – doch die eigene Bevölkerung zahlt den Preis - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHpJbXRVYzFpYjJ0UXotcm5YSndmRXdvRURfVlpQRDRVNFl2bmozaHVfaFh6NmFFM2ZCclJ2a1BxSURaMWtDWldhX1pOSk0ya3Jwbkp2SEFURzNZZk5lVWpnVUdiX3NKSG5PVkZmV0ZXaGtreWRmbTN2Tk5TSXQ3WjJ5SFFxeUQzYmp0UWhIY3ZWdEdLelEzMGI5bXBYZFk?oc=5",
-   "pub": "Sat, 22 Aug 2026 04:26:00 GMT"
+   "t": "Krieg im Nahen Osten - Wegen Sanktionen: Iran droht Nachbarstaaten und Weltgemeinschaft - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlFMbUZQdFBUYzdRWVBUVXppOVFsLVJNQTJ4a0t0el9oRVdSaVdHSG1ZczFrX2YtUS1Yc0VWdVpwZ0d1ODZwaEdEVXVJeWlvdWhXSDMwZGJMTXo5bWVxOU1zVW1ReENTX1FkbFo4dDNCS0JQcHpiMnBwRGV6SmwwTU9WcFJYSXFJd0hmV1ZON1NCdW5HazJxdUU5SEl4cUZhelN3UVBBRnNHTk05dEo1VVlreW5yUnVrYlBLTlN4eFU1ZFZTeXdPLQ?oc=5",
+   "pub": "Sun, 23 Aug 2026 02:27:17 GMT"
   }
  ]
 }
