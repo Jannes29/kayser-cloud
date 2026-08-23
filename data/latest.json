@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-23T21:36:44Z",
+ "collected_at": "2026-08-23T22:39:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8005,
-   "chg1d_pct": 0.11
+   "price": 0.801,
+   "chg1d_pct": 0.18
   },
   "USDJPY": {
-   "price": 158.512,
-   "chg1d_pct": -0.23
+   "price": 158.951,
+   "chg1d_pct": 0.04
   },
   "GBPCAD": {
-   "price": 1.8828,
-   "chg1d_pct": 0.15
+   "price": 1.8816,
+   "chg1d_pct": 0.09
   },
   "AUDJPY": {
-   "price": 113.525,
-   "chg1d_pct": 0.37
+   "price": 113.96,
+   "chg1d_pct": 0.76
   },
   "EURUSD": {
    "price": 1.168,
    "chg1d_pct": -0.07
   },
   "GBPCHF": {
-   "price": 1.0926,
-   "chg1d_pct": 0.17
+   "price": 1.0928,
+   "chg1d_pct": 0.18
   },
   "WTI": {
-   "price": 87.06,
-   "chg1d_pct": -0.88
+   "price": 86.41,
+   "chg1d_pct": -0.75
   },
   "BRENT": {
-   "price": 94.39,
-   "chg1d_pct": 0.65
+   "price": 93.71,
+   "chg1d_pct": -0.72
   },
   "GOLD": {
-   "price": 4680.6,
-   "chg1d_pct": 3.64
+   "price": 4671.8,
+   "chg1d_pct": 1.03
   },
   "SPX_FUT": {
-   "price": 7691.25,
-   "chg1d_pct": 0.38
+   "price": 7683.75,
+   "chg1d_pct": -0.1
   },
   "NAS_FUT": {
-   "price": 29387.75,
-   "chg1d_pct": 0.3
+   "price": 29339.0,
+   "chg1d_pct": -0.17
   }
  },
  "headlines": [
@@ -64,6 +64,11 @@
    "pub": "Sun, 23 Aug 2026 18:35:00 GMT"
   },
   {
+   "t": "\"Wirtschaftskrieg\" gegen Teheran: Das bedeutet die Hängepartie im Iran-Krieg für Autofahrer - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXB4UVlFTzVuWnpLbWd5WFdTWmZYSVRTdUhTTWs4MFctaGp5emw0SDgteFJKRWg3LXVMQkZCTTlqalk5X3Y5aFhPN0sxdGJQWWRmMExoZ3ZPNjlJT1AzWk9KR0o5b0Rkemgwbm1GVzdFT0pKZlNXaUVhLU9QbVF3a3pGYmpRUFAxVnJ5eUpRelFhQTNhQ0hod2dtU1EyVkdraVNtTVlob0Yxdw?oc=5",
+   "pub": "Sun, 23 Aug 2026 09:19:41 GMT"
+  },
+  {
    "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2aXYtdTB1U3VORE1XODdJeTJqWEo0RWxYeXJ0b3hZRFJtR2ZUckEwd0R5SkVCN2pRNmc4NTZCeXh0cGx4ZWc?oc=5",
    "pub": "Sun, 23 Aug 2026 18:23:48 GMT"
@@ -71,7 +76,7 @@
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Sun, 23 Aug 2026 15:59:48 GMT"
+   "pub": "Sun, 23 Aug 2026 19:02:41 GMT"
   },
   {
    "t": "„Wir werden sie angreifen“: Iran droht mit Schlägen auf US-Ölfirmen – und warnt Washingtons Verbündete - Frankfurter Rundschau",
@@ -82,6 +87,11 @@
    "t": "Mittlerer Osten - Iran: \"Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet\" - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGJGVTZjYjhuN2JaVE5uOHpITXc1OXFPZTgySE15WXJMTmNSdjRoOHZxcmU2ZkctU0JNRTh2UXdOT0FmT1dpY3pJeWpjNEFSZTNOM2dIWWNIMWpfN0p5S0JQOEVNcGxqbUNjUml6TGhfeFRGWnE2ZXE1UkpoZHVsSWNoRTdkSzhmdU1PSzlvRW14RXNoc2VZaHdkZjRodndkN002OEVDc014Sld3OURHcUtXY1U4a0Zy?oc=5",
    "pub": "Sun, 23 Aug 2026 04:00:00 GMT"
+  },
+  {
+   "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
+   "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
    "t": "Todesurteil im Iran: Erneut Hinrichtung wegen Beteiligung an Massenprotesten - taz.de",
@@ -97,16 +107,6 @@
    "t": "Iran-Krieg belastet Ölmarkt: Was Trumps \"Wirtschaftskrieg\" für Autofahrer bedeutet - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG5zMHNJSEt6aFduVE5iRnljNkt6a0hsbG9heHd0UVFkWmZzeDVpVFdwa25fblBwdUJIM3FEektRdHBFVUN6YWlaVkNvRVVsaW9NeE95Mk05VlRiUm1iM3BPaWZlbG1hTDlGN1dGUmsybmg1dkZVVTMydGNnUTQ5OTZRRWcxM1dwNFBtZGVjbThTTzZKQ21oOVB2bnhzTVk?oc=5",
    "pub": "Sun, 23 Aug 2026 06:45:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT00ybnZRX2F5ZTFJRFBYN3JVcEc2V1Q2NEYtMXdlaUFDa2V1bUI2NllFZEhDRWczcjI1Y0ZXeU9NYm1qNlZfY1d4NWVsdEE3OG94MHZDT2dKclYxOThDWGVaVFhDZTlpTUpINkJRZ1pTNUFEbk45N2dhOWQ0YjBhYjJrX1dqTm9PQ3FVcHg5YkhwVXJqMlprZ0dQVGZiTW1tdm5PZmYzTmY0UGp2SjlfaGpOOWk3UHR3UEdzY3MwM3VkTXhUQVlKSUNORnZHU0E?oc=5",
-   "pub": "Sun, 23 Aug 2026 07:23:00 GMT"
-  },
-  {
-   "t": "US-Wirtschaftskrieg: Iran droht den Golfstaaten - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaEdCYUFydUUyMHNOTkxPel83QjVRNWhBYzM5ZTVaZnc3RURKOGxZYi1sYVpZOVZ0Z2NOY01CcE80a29hS1l1S29FLVdNc3hxek4wbWNESmlyc1RjbzVER0xpR3lXQWlJbE5Ib1hNaWRrbTAyUzB2ZW9jWnQ2dkxRVjFhc2o1ODZTUEFmQmNsbGU3ZUppZTZRTDd2WjNOci1Ua0dfSGxwbUNzZWdQLVEw?oc=5",
-   "pub": "Sun, 23 Aug 2026 12:18:49 GMT"
   }
  ]
 }
