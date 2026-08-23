@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-23T11:35:55Z",
+ "collected_at": "2026-08-23T13:02:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,6 +54,11 @@
    "pub": "Sun, 23 Aug 2026 07:23:00 GMT"
   },
   {
+   "t": "\"Wirtschaftskrieg\" gegen Teheran: Das bedeutet die Hängepartie im Iran-Krieg für Autofahrer - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXB4UVlFTzVuWnpLbWd5WFdTWmZYSVRTdUhTTWs4MFctaGp5emw0SDgteFJKRWg3LXVMQkZCTTlqalk5X3Y5aFhPN0sxdGJQWWRmMExoZ3ZPNjlJT1AzWk9KR0o5b0Rkemgwbm1GVzdFT0pKZlNXaUVhLU9QbVF3a3pGYmpRUFAxVnJ5eUpRelFhQTNhQ0hod2dtU1EyVkdraVNtTVlob0Yxdw?oc=5",
+   "pub": "Sun, 23 Aug 2026 09:19:41 GMT"
+  },
+  {
    "t": "Todesstrafe im Iran: Iran richtet Mann wegen Beteiligung an Massenprotesten hin - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTlKRGh6OFluWFRkMUxYN2JtOUJlNjM0LUI5NGJfR0ZUUDgwckRpSE1hcUpYVHJSLXNaR09mVVlqYUhhNXAxMF9kZXZZaTNQTjdNckZwLXREMGNKZkI4Q2NtWFdYMmRZZlYyN1ZZa0h3aC0wMkNRMGktaThfaDd4eEpJcE1rMTZuUnVNOGtWVEFtb0pnSnQ1VGNSVVY?oc=5",
    "pub": "Sun, 23 Aug 2026 09:07:48 GMT"
@@ -71,7 +76,7 @@
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Sun, 23 Aug 2026 09:58:52 GMT"
+   "pub": "Sun, 23 Aug 2026 13:01:12 GMT"
   },
   {
    "t": "Todesurteil im Iran: Erneut Hinrichtung wegen Beteiligung an Massenprotesten - taz.de",
@@ -94,19 +99,14 @@
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "\"Wirtschaftskrieg\" gegen Teheran: Das bedeutet die Hängepartie im Iran-Krieg für Autofahrer - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXB4UVlFTzVuWnpLbWd5WFdTWmZYSVRTdUhTTWs4MFctaGp5emw0SDgteFJKRWg3LXVMQkZCTTlqalk5X3Y5aFhPN0sxdGJQWWRmMExoZ3ZPNjlJT1AzWk9KR0o5b0Rkemgwbm1GVzdFT0pKZlNXaUVhLU9QbVF3a3pGYmpRUFAxVnJ5eUpRelFhQTNhQ0hod2dtU1EyVkdraVNtTVlob0Yxdw?oc=5",
-   "pub": "Sun, 23 Aug 2026 09:19:41 GMT"
-  },
-  {
-   "t": "Iran warnt Nachbarn vor Beteiligung am US-Wirtschaftskrieg - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0cya1NFWTRPaGJNMnFJaDUxU3paUERLZzVJSngtZFRPZzlRX3dqaE04WUxyNWQyU2puVVRXWm8ydkIwSEVHdE1SLURMcmJiSVR6YmI1aVVpQWlIY2NDN3d5RzZwSU5mNUJsTk1YS0N4bTEyZnZyUXR2VzhpS0R4VkotdTNHNUEzV3BFNFlLcDVJNDVLVTJfTUxLd21vVHdxSmdwUE5MNFNlMFU?oc=5",
-   "pub": "Sun, 23 Aug 2026 08:31:51 GMT"
-  },
-  {
    "t": "Iran-Krieg belastet Ölmarkt: Was Trumps \"Wirtschaftskrieg\" für Autofahrer bedeutet - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG5zMHNJSEt6aFduVE5iRnljNkt6a0hsbG9heHd0UVFkWmZzeDVpVFdwa25fblBwdUJIM3FEektRdHBFVUN6YWlaVkNvRVVsaW9NeE95Mk05VlRiUm1iM3BPaWZlbG1hTDlGN1dGUmsybmg1dkZVVTMydGNnUTQ5OTZRRWcxM1dwNFBtZGVjbThTTzZKQ21oOVB2bnhzTVk?oc=5",
    "pub": "Sun, 23 Aug 2026 06:45:00 GMT"
+  },
+  {
+   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
+   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
   }
  ]
 }
