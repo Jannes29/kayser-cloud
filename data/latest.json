@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-23T03:16:16Z",
+ "collected_at": "2026-08-23T04:05:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -50,13 +50,13 @@
  "headlines": [
   {
    "t": "Mittlerer Osten - Iran: \"Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmwtUGtBMGRMQ3pCb3pHQldvam8xRFJWR0tKN3pMb090N3BGV0t3RWNzVGY0NnpHRmNMOHRMdVpRVUZ4RGxIRzY5eV9XUi1jcXZSanhjaUZ4YTRvX0xOVVAzbkZEWUFMUnhJdzZSQ2hGNWJxeXVEYnZlVmxRQ2xPUDVPbzFOclh2TnpiNjhrQ0ZDbThscEp6RTVSbk52YnVxeEJkc1dHRnpwcV94OUpLS3BxX3ctamNN?oc=5",
-   "pub": "Sun, 23 Aug 2026 03:00:00 GMT"
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGJGVTZjYjhuN2JaVE5uOHpITXc1OXFPZTgySE15WXJMTmNSdjRoOHZxcmU2ZkctU0JNRTh2UXdOT0FmT1dpY3pJeWpjNEFSZTNOM2dIWWNIMWpfN0p5S0JQOEVNcGxqbUNjUml6TGhfeFRGWnE2ZXE1UkpoZHVsSWNoRTdkSzhmdU1PSzlvRW14RXNoc2VZaHdkZjRodndkN002OEVDc014Sld3OURHcUtXY1U4a0Zy?oc=5",
+   "pub": "Sun, 23 Aug 2026 04:00:00 GMT"
   },
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Sun, 23 Aug 2026 00:54:33 GMT"
+   "pub": "Sun, 23 Aug 2026 03:55:21 GMT"
   },
   {
    "t": "Mullahs unter Druck: Drei Wege, wie Trump den Iran doch noch besiegt - BILD",
@@ -94,19 +94,19 @@
    "pub": "Thu, 20 Aug 2026 00:41:00 GMT"
   },
   {
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGNJVDdlWm1TZFZMRjFGN1Rxb01laEg3b1A1aEk0UWFYY0xaMnBINkotZ3FGTy1VRTg0QlVzMXp1b2dzWU9IMFZTUldfWWczaDZmdlJIRzQtQ1owcjdsR0FtcnJudGN2QnViQXNkMWdaUEdGZmZ4djE2SG8yLXF0YWYwNExaYmhDSXJleVR5QXN2RVFVM0NONkU0cU5iN0tQRjh5MmhrWjhSaVlvV2poU3hET0szbGZaZjBsX3ItZ1FrUTJsVnp6eDVKUkN2c0U?oc=5",
+   "pub": "Sun, 23 Aug 2026 03:16:16 GMT"
+  },
+  {
+   "t": "Was die Hängepartie im Iran-Krieg für Autofahrer bedeutet - OP Online",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEF1UWkxYkhqVFlCWUlwTWs1UmRzbVNUSklVaUl0OFExTER0Rmk2Vm9TYTRHOVEzZkxlaWJrWER6MVlfdUlQMzFyNXN6aVJoRWdmeE05LXRWMEVGX2tMUlgyWHlBNHZ4VWlrekFxdEdIMzBWeGhha2xyUlRKZnBYOEQ3UGtMaTI1eHRLQ2VyWGxPSnNfdV9LT3RxNGxBYjZPcC1NaXJqcGJJWm9ERHhsLVNn?oc=5",
+   "pub": "Sun, 23 Aug 2026 03:16:21 GMT"
+  },
+  {
    "t": "Ökonom: Zölle und Iran-Krieg kommen USA teuer zu stehen - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk11eW52c1lkcHM4Slk2cTV5azB3SFhUN3cxNkVLdHZwMUV0bzFYb2RrS2M0Nzd2dzd4cWZudjRZTzRlY2VVSHBlWHkzWFpXWERtNS0wMUFJTG56NVk4ZDI1RHhDTUR3TWFlOG5FbmxEQ2NLZWlNWFVhdnJzWmVyT3FqcEl3aUhtajVpUzc5Tjk0cm40NS1GX0JwRUk?oc=5",
    "pub": "Sat, 22 Aug 2026 03:31:00 GMT"
-  },
-  {
-   "t": "Nur heiße Luft? Trump droht Iran mit \"Wirtschaftskrieg\" - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM216b2JWTHM1UzNXVUh1LXQ1UURDcVozVTg4WjE2TUxRR04zZ0VqTFVlV2dRQkZobDZ6MTN6Zkt3RGlfUjVEeGRvMVF2UU53YTlQU2JJV1RtU0NhQ1BSYjhZMGppZGM3ZzU3ZGdfVF9ZN3ZBeXF6c2RxUjVXV2pQVm1INHpOM29IRHA0aG5XbE8zWXZRdzNsSzZqRGNzcHBFLUh1VW1vS3pTNlNsUGZGZGhqS25UWGYzRlhLY1F30gG-AUFVX3lxTFBzOHpLN0ZXS3BWT0ZyZGJjZ201dVB1cXFRa2VWM2Jiajc0Vy04eEZUUU5IcEJGak1ROVJNWUVib1RUSUJUeXRXRUFLbUExcW9ldUxKQU9Eai0waUoxRkNCbTB1WkxVdDQ0Zm5DcFhuOVUxeXZrRkltM3FnVkpqbnBMaTNMTGtpNlFSdURkVHdrNHBhRVJfRFE4QlQ3MlFQS2VkQmxxVWZpZWlZMkR3V3FuTTVOc1JTajRuS0g0WFE?oc=5",
-   "pub": "Thu, 20 Aug 2026 08:21:37 GMT"
-  },
-  {
-   "t": "Krieg im Nahen Osten - Wegen Sanktionen: Iran droht Nachbarstaaten und Weltgemeinschaft - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlFMbUZQdFBUYzdRWVBUVXppOVFsLVJNQTJ4a0t0el9oRVdSaVdHSG1ZczFrX2YtUS1Yc0VWdVpwZ0d1ODZwaEdEVXVJeWlvdWhXSDMwZGJMTXo5bWVxOU1zVW1ReENTX1FkbFo4dDNCS0JQcHpiMnBwRGV6SmwwTU9WcFJYSXFJd0hmV1ZON1NCdW5HazJxdUU5SEl4cUZhelN3UVBBRnNHTk05dEo1VVlreW5yUnVrYlBLTlN4eFU1ZFZTeXdPLQ?oc=5",
-   "pub": "Sun, 23 Aug 2026 02:27:17 GMT"
   }
  ]
 }
