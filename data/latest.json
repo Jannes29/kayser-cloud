@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-23T14:41:02Z",
+ "collected_at": "2026-08-23T15:37:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,6 +49,11 @@
  },
  "headlines": [
   {
+   "t": "Iran Säbelrasseln vor neuen US-Sanktionen - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91dG5sWnBqTEdXS1ZCRWMzc2FhYVI0VnB0WUx1bWg2RU9McmVWLV96WGdSckR1RGxNbkJSNFp5MEJ5M2tzdUIxYzBnWmZsNC1TZHBCV1kzdi1IUHR1TXBvRTRwSmNMMFhCWnp5THVB?oc=5",
+   "pub": "Sun, 23 Aug 2026 13:54:00 GMT"
+  },
+  {
    "t": "Iran-Krieg belastet Ölmarkt: Was Trumps \"Wirtschaftskrieg\" für Autofahrer bedeutet - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG5zMHNJSEt6aFduVE5iRnljNkt6a0hsbG9heHd0UVFkWmZzeDVpVFdwa25fblBwdUJIM3FEektRdHBFVUN6YWlaVkNvRVVsaW9NeE95Mk05VlRiUm1iM3BPaWZlbG1hTDlGN1dGUmsybmg1dkZVVTMydGNnUTQ5OTZRRWcxM1dwNFBtZGVjbThTTzZKQ21oOVB2bnhzTVk?oc=5",
    "pub": "Sun, 23 Aug 2026 06:45:00 GMT"
@@ -62,11 +67,6 @@
    "t": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT00ybnZRX2F5ZTFJRFBYN3JVcEc2V1Q2NEYtMXdlaUFDa2V1bUI2NllFZEhDRWczcjI1Y0ZXeU9NYm1qNlZfY1d4NWVsdEE3OG94MHZDT2dKclYxOThDWGVaVFhDZTlpTUpINkJRZ1pTNUFEbk45N2dhOWQ0YjBhYjJrX1dqTm9PQ3FVcHg5YkhwVXJqMlprZ0dQVGZiTW1tdm5PZmYzTmY0UGp2SjlfaGpOOWk3UHR3UEdzY3MwM3VkTXhUQVlKSUNORnZHU0E?oc=5",
    "pub": "Sun, 23 Aug 2026 07:23:00 GMT"
-  },
-  {
-   "t": "Iran Säbelrasseln vor neuen US-Sanktionen - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91dG5sWnBqTEdXS1ZCRWMzc2FhYVI0VnB0WUx1bWg2RU9McmVWLV96WGdSckR1RGxNbkJSNFp5MEJ5M2tzdUIxYzBnWmZsNC1TZHBCV1kzdi1IUHR1TXBvRTRwSmNMMFhCWnp5THVB?oc=5",
-   "pub": "Sun, 23 Aug 2026 13:54:00 GMT"
   },
   {
    "t": "Mittlerer Osten - Iran: \"Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet\" - Deutschlandfunk",
@@ -104,9 +104,9 @@
    "pub": "Sun, 23 Aug 2026 09:36:18 GMT"
   },
   {
-   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
-   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
+   "t": "Iran reagiert mit Drohungen auf US-Drohungen - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHNIeWpsRGF0WF9KUVpPWW5ET21MSEtONUtvTDE2MTJZcVFqaEwzYi1scVZGX1B0Ykp4N3dmdndaV0EyOTluVVNWMFBsMHJOUHZmV1VrbzdRRHBzWXg0TmxrY0laZnFkbXBGX1ZkeEFxVFJ1SzYtWW5FMUI2NFNSX1Vn?oc=5",
+   "pub": "Sun, 23 Aug 2026 15:25:00 GMT"
   }
  ]
 }
