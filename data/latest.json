@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-23T23:36:09Z",
+ "collected_at": "2026-08-24T01:58:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8012,
-   "chg1d_pct": 0.2
+   "price": 0.8002,
+   "chg1d_pct": 0.08
   },
   "USDJPY": {
-   "price": 158.981,
-   "chg1d_pct": 0.06
+   "price": 158.844,
+   "chg1d_pct": -0.02
   },
   "GBPCAD": {
-   "price": 1.8828,
-   "chg1d_pct": 0.15
+   "price": 1.8823,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 113.971,
-   "chg1d_pct": 0.77
+   "price": 113.85,
+   "chg1d_pct": 0.66
   },
   "EURUSD": {
-   "price": 1.168,
-   "chg1d_pct": -0.07
+   "price": 1.1685,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.0933,
-   "chg1d_pct": 0.23
+   "price": 1.092,
+   "chg1d_pct": 0.11
   },
   "WTI": {
-   "price": 86.12,
-   "chg1d_pct": -1.08
+   "price": 85.27,
+   "chg1d_pct": -2.06
   },
   "BRENT": {
-   "price": 93.44,
-   "chg1d_pct": -1.01
+   "price": 92.59,
+   "chg1d_pct": -1.91
   },
   "GOLD": {
-   "price": 4670.7,
-   "chg1d_pct": 1.01
+   "price": 4671.5,
+   "chg1d_pct": 1.03
   },
   "SPX_FUT": {
-   "price": 7694.5,
-   "chg1d_pct": 0.04
+   "price": 7696.25,
+   "chg1d_pct": 0.07
   },
   "NAS_FUT": {
-   "price": 29424.75,
-   "chg1d_pct": 0.13
+   "price": 29385.0,
+   "chg1d_pct": -0.01
   }
  },
  "headlines": [
@@ -64,14 +64,14 @@
    "pub": "Sun, 23 Aug 2026 18:35:00 GMT"
   },
   {
-   "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2aXYtdTB1U3VORE1XODdJeTJqWEo0RWxYeXJ0b3hZRFJtR2ZUckEwd0R5SkVCN2pRNmc4NTZCeXh0cGx4ZWc?oc=5",
-   "pub": "Sun, 23 Aug 2026 18:23:48 GMT"
-  },
-  {
    "t": "\"Wirtschaftskrieg\" gegen Teheran: Das bedeutet die Hängepartie im Iran-Krieg für Autofahrer - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXB4UVlFTzVuWnpLbWd5WFdTWmZYSVRTdUhTTWs4MFctaGp5emw0SDgteFJKRWg3LXVMQkZCTTlqalk5X3Y5aFhPN0sxdGJQWWRmMExoZ3ZPNjlJT1AzWk9KR0o5b0Rkemgwbm1GVzdFT0pKZlNXaUVhLU9QbVF3a3pGYmpRUFAxVnJ5eUpRelFhQTNhQ0hod2dtU1EyVkdraVNtTVlob0Yxdw?oc=5",
    "pub": "Sun, 23 Aug 2026 09:19:41 GMT"
+  },
+  {
+   "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2aXYtdTB1U3VORE1XODdJeTJqWEo0RWxYeXJ0b3hZRFJtR2ZUckEwd0R5SkVCN2pRNmc4NTZCeXh0cGx4ZWc?oc=5",
+   "pub": "Sun, 23 Aug 2026 18:23:48 GMT"
   },
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
@@ -79,14 +79,9 @@
    "pub": "Sun, 23 Aug 2026 19:02:41 GMT"
   },
   {
-   "t": "„Wir werden sie angreifen“: Iran droht mit Schlägen auf US-Ölfirmen – und warnt Washingtons Verbündete - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDc1UE1qekZHQVllSXp4dVFPa1I4Uk40R0FLVFoxZW9EVENhT0QxX3JzSXRjdGg4bW5qZWd4RHdLajBJcGh0dFJkbHEweGp4SnluejB1bDY1NEpQQ0J2Qjl3Rm5abzl1QXNUaGJhV1lfUThYTTBaVTlfVnNLdnpBV2lFNy1va3pTem03TjFjYUpXSTc4N2hFRWtuZkdOaTB3NGlYM3AzZE9kSDNreE53eUJnUlZhMGVnSXoyVm9XR29PbThHUVJTS2ZB?oc=5",
-   "pub": "Sun, 23 Aug 2026 06:35:56 GMT"
-  },
-  {
-   "t": "Mittlerer Osten - Iran: \"Wer sich an Wirtschaftskrieg der USA beteiligt, wird als Feind betrachtet\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGJGVTZjYjhuN2JaVE5uOHpITXc1OXFPZTgySE15WXJMTmNSdjRoOHZxcmU2ZkctU0JNRTh2UXdOT0FmT1dpY3pJeWpjNEFSZTNOM2dIWWNIMWpfN0p5S0JQOEVNcGxqbUNjUml6TGhfeFRGWnE2ZXE1UkpoZHVsSWNoRTdkSzhmdU1PSzlvRW14RXNoc2VZaHdkZjRodndkN002OEVDc014Sld3OURHcUtXY1U4a0Zy?oc=5",
-   "pub": "Sun, 23 Aug 2026 04:00:00 GMT"
+   "t": "Erneut Hinrichtung nach Massenprotesten im Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEVUdnlSYkc3bEw1bmJUUnI3eXFfak82cy1XYXFZdWd0RkZzWk82c3VsS2p2SEg5aXlLdDJhVV8zV3RXYVpwZzdkQno1TG1GazlzUHAxYkVCSndEb3VZeTBfblEtbVRYb2hzRGtOaDFtcVFIRHkyUmhtczY5YUhMODRWVUJUazllU2xRc3pSckRMWTFJdFlj?oc=5",
+   "pub": "Sun, 23 Aug 2026 15:00:00 GMT"
   },
   {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
@@ -107,6 +102,11 @@
    "t": "Todesstrafe im Iran: Iran richtet Mann wegen Beteiligung an Massenprotesten hin - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTlKRGh6OFluWFRkMUxYN2JtOUJlNjM0LUI5NGJfR0ZUUDgwckRpSE1hcUpYVHJSLXNaR09mVVlqYUhhNXAxMF9kZXZZaTNQTjdNckZwLXREMGNKZkI4Q2NtWFdYMmRZZlYyN1ZZa0h3aC0wMkNRMGktaThfaDd4eEpJcE1rMTZuUnVNOGtWVEFtb0pnSnQ1VGNSVVY?oc=5",
    "pub": "Sun, 23 Aug 2026 09:07:48 GMT"
+  },
+  {
+   "t": "Mit einem Comic warnt der Iran die USA – Präsident räumt „erhebliche Ungleichgewichten“ ein - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWXZ5d0pMWFliLXBfTDRKSlczdVdvUDhhZlNCVnAwWmRCUmkwQU1OX1BRb3c3cVV2QS0teVFwM2NqR0R5THJTUHlvZW5uT3ppWEY1TVE1UGcxYnJMTkJnNDRPdnZOczhRZzg5SXlzaFlMa0t6UmtnZG9neVNEVTJTbW82SWhzLVdrdFhURk9iWFhQd1R2akdkOTRFbklkWnFyd2l3U3BaODg5NWpSMnJzVWNZMC0zOE9RUUZZTHBPLVMyRHZoR0lOeG03QXBWM2ZCbU5pMlE0TmFIOVE1dmlmWDVPXy1PR1NXOGc?oc=5",
+   "pub": "Sun, 23 Aug 2026 21:58:18 GMT"
   }
  ]
 }
