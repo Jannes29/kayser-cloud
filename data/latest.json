@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T21:44:43Z",
+ "collected_at": "2026-08-24T22:45:27Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8013,
-   "chg1d_pct": 0.08
+   "price": 0.8023,
+   "chg1d_pct": 0.21
   },
   "USDJPY": {
-   "price": 159.051,
-   "chg1d_pct": 0.09
+   "price": 159.103,
+   "chg1d_pct": 0.13
   },
   "GBPCAD": {
-   "price": 1.8866,
-   "chg1d_pct": 0.19
+   "price": 1.887,
+   "chg1d_pct": 0.22
   },
   "AUDJPY": {
-   "price": 113.719,
-   "chg1d_pct": -0.2
+   "price": 113.758,
+   "chg1d_pct": -0.17
   },
   "EURUSD": {
-   "price": 1.1669,
-   "chg1d_pct": -0.11
+   "price": 1.1667,
+   "chg1d_pct": -0.12
   },
   "GBPCHF": {
-   "price": 1.0931,
-   "chg1d_pct": -0.0
+   "price": 1.0938,
+   "chg1d_pct": 0.06
   },
   "WTI": {
-   "price": 84.98,
-   "chg1d_pct": -2.39
+   "price": 85.09,
+   "chg1d_pct": -2.26
   },
   "BRENT": {
-   "price": 91.99,
-   "chg1d_pct": -2.54
+   "price": 92.07,
+   "chg1d_pct": -2.46
   },
   "GOLD": {
-   "price": 4710.0,
-   "chg1d_pct": 1.86
+   "price": 4717.3,
+   "chg1d_pct": 2.02
   },
   "SPX_FUT": {
-   "price": 7674.25,
+   "price": 7674.5,
    "chg1d_pct": -0.22
   },
   "NAS_FUT": {
-   "price": 29131.25,
-   "chg1d_pct": -0.87
+   "price": 29125.5,
+   "chg1d_pct": -0.89
   }
  },
  "headlines": [
@@ -54,7 +54,7 @@
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
   },
   {
-   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
+   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - dw.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
    "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
@@ -79,6 +79,11 @@
    "pub": "Mon, 24 Aug 2026 19:04:00 GMT"
   },
   {
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Mon, 24 Aug 2026 19:19:00 GMT"
+  },
+  {
    "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
    "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
@@ -94,19 +99,14 @@
    "pub": "Mon, 24 Aug 2026 14:45:46 GMT"
   },
   {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Mon, 24 Aug 2026 16:19:24 GMT"
+   "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT29hQlZoaVRxTlp4OGMyLUhjbktfU0M0SDlaS3k3amFveGRVREhhVVdLUmNDRXQzaTZrdVJhRUMtMDhSMUdfMkttOXdmOXl1RlNPcGFCbTVXM3I4U3lBRlVvVG9WWjQ3NU9xNHFtWjI1VDRzSmY0ZzZzTjJpdWNmUzhQY2NSUlZJMnhrZWM4NGtHTmx2bkRQR1NnSDV6SFIxQUFiTWhJOFVfU0RTNGlQeW9GY2xBRkExOE5aOTBRYkJSZw?oc=5",
+   "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
   },
   {
    "t": "USA wollen Einnahmequellen des Irans trockenlegen +++ Teheran droht mit Gegenmaßnahmen - RND.de",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUVXM241aFlQUkZMWERqMWhpSGVscmZRSXdVa2lKOGkxV3lneGJQNlRFbV9yTkV3cDk2S0NWa2lkaGRqcktQV0I2U2E4NTN0TVZiMm9xRVE4WGdxSVdyR3RqTUlKS2t2M3pYN2ZLNUpHa2Nmd0pfN3BnX2pGMkJ1Q3RuNjJmUTRoUnZQV2toNGpMU3hnMXJkaWxnRWVxY2Q5MTcwbWRSdG9JM2pvWlh6ZkpZVGZsMkJkLXBBYlNSSFZkTTZlSjJ0ZGNPOVN6Z00?oc=5",
    "pub": "Mon, 24 Aug 2026 17:59:25 GMT"
-  },
-  {
-   "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT29hQlZoaVRxTlp4OGMyLUhjbktfU0M0SDlaS3k3amFveGRVREhhVVdLUmNDRXQzaTZrdVJhRUMtMDhSMUdfMkttOXdmOXl1RlNPcGFCbTVXM3I4U3lBRlVvVG9WWjQ3NU9xNHFtWjI1VDRzSmY0ZzZzTjJpdWNmUzhQY2NSUlZJMnhrZWM4NGtHTmx2bkRQR1NnSDV6SFIxQUFiTWhJOFVfU0RTNGlQeW9GY2xBRkExOE5aOTBRYkJSZw?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
   }
  ]
 }
