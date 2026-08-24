@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T15:56:23Z",
+ "collected_at": "2026-08-24T16:55:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8022,
-   "chg1d_pct": 0.33
+   "price": 0.8024,
+   "chg1d_pct": 0.35
   },
   "USDJPY": {
-   "price": 159.157,
-   "chg1d_pct": 0.17
+   "price": 159.102,
+   "chg1d_pct": 0.14
   },
   "GBPCAD": {
-   "price": 1.8864,
-   "chg1d_pct": 0.34
+   "price": 1.8872,
+   "chg1d_pct": 0.38
   },
   "AUDJPY": {
-   "price": 113.805,
-   "chg1d_pct": 0.62
+   "price": 113.756,
+   "chg1d_pct": 0.58
   },
   "EURUSD": {
-   "price": 1.167,
-   "chg1d_pct": -0.15
+   "price": 1.1667,
+   "chg1d_pct": -0.18
   },
   "GBPCHF": {
-   "price": 1.0935,
-   "chg1d_pct": 0.25
+   "price": 1.0937,
+   "chg1d_pct": 0.27
   },
   "WTI": {
-   "price": 84.84,
-   "chg1d_pct": -2.55
+   "price": 85.31,
+   "chg1d_pct": -2.01
   },
   "BRENT": {
-   "price": 92.39,
-   "chg1d_pct": -2.12
+   "price": 92.73,
+   "chg1d_pct": -1.76
   },
   "GOLD": {
-   "price": 4717.6,
-   "chg1d_pct": 2.02
+   "price": 4715.3,
+   "chg1d_pct": 1.97
   },
   "SPX_FUT": {
-   "price": 7678.5,
-   "chg1d_pct": -0.17
+   "price": 7675.75,
+   "chg1d_pct": -0.2
   },
   "NAS_FUT": {
-   "price": 29186.75,
-   "chg1d_pct": -0.68
+   "price": 29179.25,
+   "chg1d_pct": -0.71
   }
  },
  "headlines": [
@@ -59,14 +59,14 @@
    "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
   {
-   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
-  },
-  {
    "t": "Oman unter Druck zwischen USA und Iran lang - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reEtucVAxNWttNjJwanl1eXZBaERlSjlMRGJaeUJub3g2UjZ2RUMxLXhYVzlmdDk1YVU3Ym5XUXRfV2JBOEE2NVhNMjZoNndiR0VjYzBNSVVEekJ6U0t3ZktkTkJKVWpGSWhIS3hB?oc=5",
    "pub": "Mon, 24 Aug 2026 14:22:00 GMT"
+  },
+  {
+   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
+   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   },
   {
    "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
@@ -94,19 +94,19 @@
    "pub": "Mon, 24 Aug 2026 04:50:25 GMT"
   },
   {
+   "t": "Iran: Mullahs drohen Trump-Sohn im Staatsfernsehen mit dem Tod - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUnZzbnZRNUFRcUlqNVBLLVZuMWNOQlIwczh2ZHdvNFNyckNnMXQ4QnEwMjZJS29ZSTBUTF9HUkhwRzVya3B0akVpcGl6M0RsZXZNX0NJY0NEM21mQmdhWnM4ejcyc0ctUEhxU1FqYUoyWjl0bnJzM2RVVXV0MWZ0Y2lxTlhfWTB0MVpaR0NSNHJfRE9TSDk5ZjhxR1J4OGdxelRfbDVaRk14ZTJDbTRadXltaThCYXRSWmVPMWlKNzFrZnRicGJyemR1V0dScVNtdi1kWnoxUVlDUQ?oc=5",
+   "pub": "Mon, 24 Aug 2026 14:49:37 GMT"
+  },
+  {
+   "t": "Forex-Analyse & Wochenausblick: US-Dollar und Devisen bei Börse Aktuell 💱 - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeHk3YVVub3ZyRUdObG5WUkJnN25oVllPdElzNm0yVEFJVG84MDJJbEdzaDh3bVVadjZybE5PMVZiZzFPaUxJRm1CUUpIbmdZMXpXNl81OG9kbWtQcURlNnN0OE0zakRKajJGbFNyS2xSeE9VU2JEbjhtOE9SVVdoeHdJRFJxdURxNnlHWHRxVlVXRmlfUkNOYkxpX0EyWGdEbkN4Q0l2cTRncDRka09jSTJXcUZvN19VLVRF?oc=5",
+   "pub": "Mon, 24 Aug 2026 16:05:00 GMT"
+  },
+  {
    "t": "Barron Trump: Irans Staats-TV verbreitet Morddrohung – 10 Millionen Dollar Belohnung - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkJ4NXltbFVKWjE4TE8wZWpUTzhZeDRyMTRHXy1ScS14bkw3VExyelg2RHljX2VLXzZEWEowZF93djQ5NEd1WHFyZDBJYTlhUTBDbzNpS1dmaWRfQ3pjT0ZWblpwSkREeVFHaE9EZ01MTV9vMk56UTVRRVJRVVhvLXFRMTY4azZxWkdLR3g4VG9lNWpEeFBpRW13?oc=5",
    "pub": "Mon, 24 Aug 2026 11:57:41 GMT"
-  },
-  {
-   "t": "USA: Neue Iran-Sanktionen erhöhen Druck auf Handel und Schifffahrt - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkhnYWZqV28zMjYwNmd5cHVjOHZQOFNqalVySXFlTkp5Z1hSM2dHUEVxbTBjcnQ0T2NaVjZ4S29hU1NnZW1UVkYxbl9FWUVkSmlVbUJQOFpWZUxLaHhZUXNOYVF5M2RHR1BvZUV1SlBFTHdNcG93dU1PRks5ZkJvcHZsTU55SFB4VGUzUFhrLXZES3d5dDFpRnZJUmZjV1FjeHFlbjdzcmV3aFpZMXc?oc=5",
-   "pub": "Mon, 24 Aug 2026 07:32:00 GMT"
-  },
-  {
-   "t": "Iran: Träger-Tausch und Tanker-Transfer - THB - Täglicher Hafenbericht",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ29mT09rNGJLVzVLR2NIU3RWVEoydXBfZGg3SzdJaEprOHVBTG5BcEI5NzdkTDkwLWNreF9xLXZfSlBQSk1QR3ZEOEFpM2hkYTZ6TWU3ZzJvN0N3Q2hoVnBjRzEtTWUtcC1sSkZXQ0o0RlIzWGtTbUQxRFF4Sy1KLW55cEd3NWU0MzdNVkI3ZmYtdDBveTU0ZjNnWTFFZDJQZVZDLS1seEdnZw?oc=5",
-   "pub": "Mon, 24 Aug 2026 13:21:23 GMT"
   }
  ]
 }
