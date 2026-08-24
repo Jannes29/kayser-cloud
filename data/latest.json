@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T07:29:25Z",
+ "collected_at": "2026-08-24T09:05:19Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8014,
-   "chg1d_pct": 0.23
+   "price": 0.8021,
+   "chg1d_pct": 0.31
   },
   "USDJPY": {
-   "price": 159.137,
-   "chg1d_pct": 0.16
+   "price": 159.161,
+   "chg1d_pct": 0.17
   },
   "GBPCAD": {
-   "price": 1.8866,
-   "chg1d_pct": 0.35
+   "price": 1.8859,
+   "chg1d_pct": 0.31
   },
   "AUDJPY": {
-   "price": 114.032,
-   "chg1d_pct": 0.82
+   "price": 113.989,
+   "chg1d_pct": 0.78
   },
   "EURUSD": {
-   "price": 1.1677,
-   "chg1d_pct": -0.09
+   "price": 1.1669,
+   "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.0934,
-   "chg1d_pct": 0.24
+   "price": 1.0931,
+   "chg1d_pct": 0.21
   },
   "WTI": {
-   "price": 85.22,
-   "chg1d_pct": -2.11
+   "price": 84.73,
+   "chg1d_pct": -2.68
   },
   "BRENT": {
-   "price": 92.73,
-   "chg1d_pct": -1.76
+   "price": 92.47,
+   "chg1d_pct": -2.03
   },
   "GOLD": {
-   "price": 4701.6,
-   "chg1d_pct": 1.68
+   "price": 4697.7,
+   "chg1d_pct": 1.59
   },
   "SPX_FUT": {
-   "price": 7677.0,
-   "chg1d_pct": -0.19
+   "price": 7683.25,
+   "chg1d_pct": -0.1
   },
   "NAS_FUT": {
-   "price": 29197.0,
-   "chg1d_pct": -0.65
+   "price": 29230.75,
+   "chg1d_pct": -0.53
   }
  },
  "headlines": [
@@ -54,13 +54,18 @@
    "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   },
   {
+   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
+   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
+  },
+  {
    "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT29hQlZoaVRxTlp4OGMyLUhjbktfU0M0SDlaS3k3amFveGRVREhhVVdLUmNDRXQzaTZrdVJhRUMtMDhSMUdfMkttOXdmOXl1RlNPcGFCbTVXM3I4U3lBRlVvVG9WWjQ3NU9xNHFtWjI1VDRzSmY0ZzZzTjJpdWNmUzhQY2NSUlZJMnhrZWM4NGtHTmx2bkRQR1NnSDV6SFIxQUFiTWhJOFVfU0RTNGlQeW9GY2xBRkExOE5aOTBRYkJSZw?oc=5",
    "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
   },
   {
    "t": "US-Sanktionen gegen Iran: Irans Präsident räumt wirtschaftliche Schwierigkeiten des Landes ein - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2p1RS03bFJJbWkxelZMOWg5a2VxZGotckN5bElSeTBhNEpYVk5mell1X2xabWZseEtGYk9VdUU0NDgzYnBkRGJxR3JvUG5qVU5GTlhSWVpZVVdmWExEc3dhVE45Q09CRDZqMDZIc29RZmpIdEpCamRVeGhhdHVEVEEwOWZtYTROQk9ZR2UyT2ZwZ0NSY0p6ZUZQWjVya2h4MUxZMy1wM3NLdzIweUwzblJET2VSeVk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXJ2MmcxWGJoVEUtX09HR1pxajhVT0FWc0dTTXlyb2lCNzRVZTJTRG5pdUlmT3ZXTU84QTJETXREbEUtVU5HbnQ4cDJuTU1xSXFMaVhGQXZ4ZmpnWm9EUHpGaERieWhDZTlIUXNNYzFUbl8wb05SQ0piakItMVQxV18zcm9wN2w4WW9oZzBGT01fSU5MTkJDT1NnWWV4VlAzTENJU1BWbUgwaFUxeTJ1VGhn?oc=5",
    "pub": "Mon, 24 Aug 2026 04:50:25 GMT"
   },
   {
@@ -74,9 +79,14 @@
    "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
   },
   {
-   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
-   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
+   "t": "USA: Neue Iran-Sanktionen erhöhen Druck auf Handel und Schifffahrt - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkhnYWZqV28zMjYwNmd5cHVjOHZQOFNqalVySXFlTkp5Z1hSM2dHUEVxbTBjcnQ0T2NaVjZ4S29hU1NnZW1UVkYxbl9FWUVkSmlVbUJQOFpWZUxLaHhZUXNOYVF5M2RHR1BvZUV1SlBFTHdNcG93dU1PRks5ZkJvcHZsTU55SFB4VGUzUFhrLXZES3d5dDFpRnZJUmZjV1FjeHFlbjdzcmV3aFpZMXc?oc=5",
+   "pub": "Mon, 24 Aug 2026 07:32:00 GMT"
+  },
+  {
+   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
+   "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
   {
    "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
@@ -84,29 +94,19 @@
    "pub": "Mon, 24 Aug 2026 04:08:49 GMT"
   },
   {
-   "t": "„Den Job zu Ende bringen“: Ex-Vizepräsident Pence drängt Trump zu Militärschlägen gegen den Iran - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOW80SmI4LVBVU2ZyaFVKUFMzQTA0cUxNMjZTRUw5NEpMVWhPaWZHN05DdmdyQmZ3RFlQcFpiWXFnSmhtZEdfd0FHcVEwVTY1VUNVVTR0WXV2LXpHS0lfMGh4aFJISktBRi12YWpCZmRsWnVhRXl2ak9mWFFQZEU0X1N5Q2QzenJHZUt0cFFMejdoQkozblZuQ0tHRkN1RWFZdWtWT1ltckdDdw?oc=5",
-   "pub": "Mon, 24 Aug 2026 07:03:00 GMT"
+   "t": "US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: „Wirtschaftlicher D-Day“ - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
+   "pub": "Mon, 24 Aug 2026 08:57:40 GMT"
+  },
+  {
+   "t": "USA kündigen Start von \"wirtschaftlichem D-Day\" für Iran an - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTNfdlhnQnpNNlBVZTI5c2FPdXNmSm5NRmh1d0EtY2NFRWdCVWMxby1LM3Y2R2tzTWhUdnBVYXg0Sjd3OUpvM2hYVFJjSFc1eGktbjZSbTF5aVJnY0VROXRaa0RCT3B0eHVDYzdrc3B0dDkxQ0JQeW9zWE1jRS1qSWwtLVVPaGM?oc=5",
+   "pub": "Mon, 24 Aug 2026 07:24:00 GMT"
   },
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Mon, 24 Aug 2026 04:07:43 GMT"
-  },
-  {
-   "t": "Präsident: Iran kämpft mit wirtschaftlichen Schwierigkeiten - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWktUk9WQ09rQmhsVmFsSDNfTjVGSU5PdXhMMTluZmU5eGo3VVJUTGV6NFJCMTh2cy1TZlNkNkFnYkUwcl9uSTM3T2JyMmxrSWpSZWNCY2drZ2pVLU9RbnBOVzBtY1FaOGVuaW9COVYxTGs5Y1VRd0RpSnE1S3FGMGpBRlkxU1R1Z1FHQTZiUF9URlFYcGFMdXVjUER4SWRUSGplMQ?oc=5",
-   "pub": "Sun, 23 Aug 2026 23:21:00 GMT"
-  },
-  {
-   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
-   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
-  },
-  {
-   "t": "Iran: Parlamentspräsident droht USA mit Bumerang-Effekt im Wirtschaftskrieg - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVmN2M05oeVhORXgxeGppbng5N29qME0tR21oTnFMQlVuMVlXNWsySTdzMkpIam1ueG10dllCRkVTX25qU3FvanBaVEtUZmN0SzcycEFFMWd2V3RGNGdaQV9TdXBmYmh3a01XM09Hd2U2WkJGTFh3WGdtUXV4TUxJR2hDNTM1MnFqZVJJampONm51MjcyckFVQW03b040M0VxSzJoNGlWcEZNZjRHWnBYV3otcXVmVFpReEp2RWFkbnA0RUZNLU5jUHY2VDNmMEJ0M3hQOE1lamY2Mkp5VWc?oc=5",
-   "pub": "Sun, 23 Aug 2026 18:35:00 GMT"
+   "pub": "Mon, 24 Aug 2026 07:11:11 GMT"
   }
  ]
 }
