@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T10:54:31Z",
+ "collected_at": "2026-08-24T11:44:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8025,
-   "chg1d_pct": 0.36
-  },
-  "USDJPY": {
-   "price": 159.182,
-   "chg1d_pct": 0.19
-  },
-  "GBPCAD": {
-   "price": 1.8854,
+   "price": 0.8019,
    "chg1d_pct": 0.29
   },
+  "USDJPY": {
+   "price": 159.048,
+   "chg1d_pct": 0.1
+  },
+  "GBPCAD": {
+   "price": 1.8875,
+   "chg1d_pct": 0.4
+  },
   "AUDJPY": {
-   "price": 113.98,
-   "chg1d_pct": 0.77
+   "price": 113.945,
+   "chg1d_pct": 0.74
   },
   "EURUSD": {
-   "price": 1.1669,
-   "chg1d_pct": -0.16
+   "price": 1.167,
+   "chg1d_pct": -0.15
   },
   "GBPCHF": {
-   "price": 1.0935,
-   "chg1d_pct": 0.25
+   "price": 1.0934,
+   "chg1d_pct": 0.24
   },
   "WTI": {
-   "price": 85.2,
-   "chg1d_pct": -2.14
+   "price": 85.29,
+   "chg1d_pct": -2.03
   },
   "BRENT": {
-   "price": 92.93,
-   "chg1d_pct": -1.55
+   "price": 93.0,
+   "chg1d_pct": -1.47
   },
   "GOLD": {
-   "price": 4701.5,
-   "chg1d_pct": 1.67
+   "price": 4707.6,
+   "chg1d_pct": 1.81
   },
   "SPX_FUT": {
-   "price": 7674.25,
-   "chg1d_pct": -0.22
+   "price": 7676.25,
+   "chg1d_pct": -0.2
   },
   "NAS_FUT": {
-   "price": 29204.75,
-   "chg1d_pct": -0.62
+   "price": 29220.5,
+   "chg1d_pct": -0.57
   }
  },
  "headlines": [
@@ -84,9 +84,19 @@
    "pub": "Mon, 24 Aug 2026 07:32:00 GMT"
   },
   {
-   "t": "US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: „Wirtschaftlicher D-Day“ - Deutschlandfunk",
+   "t": "\"Ultimative Intervention\": Donald Trump droht dem Anleihemarkt mit dem Militär - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDZ6ZlRhUE1vVXNja0VFb0dkNnVRYXQySWRUZUVVSlBld2dSNjJIdnZOUE14MGRSSWEwNVY4Z09kLXJZNFpady1SSnZ5Tnk1S045UFY0MENHRHRMWExDTG96TzU1TjVBSklFMXc5TnNTUTZ0LXBXR254d3VrZVNSd1VjUXdVZDBVcjdma2lBYVhwMURDZnk4MEFNQkNXalVr?oc=5",
+   "pub": "Mon, 24 Aug 2026 10:07:37 GMT"
+  },
+  {
+   "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
    "pub": "Mon, 24 Aug 2026 10:10:22 GMT"
+  },
+  {
+   "t": "Iran warnt USA vor Wirtschaftskrieg - und droht Golfstaaten - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDdVVXlCZGRZWWgwY09Gc0RaVXZfc2FJVmw0TUkwN0t3VXQzV1I1c1AwZDJ4eWhDSTFveUYweUlZREVnQTh4aENrUFkza09faFk0SDJZSTgzTGNKWEJzQzJTSVY2RnF6YUx2YVY1bUVETkVPNU9hbzdGRlJicHBONFFqaElaU0xkQXlDODB0R0JHU2luOFVxUnRqU1dWczVUYlVDOQ?oc=5",
+   "pub": "Mon, 24 Aug 2026 07:34:00 GMT"
   },
   {
    "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
@@ -97,16 +107,6 @@
    "t": "USA kündigen \"Endphase\" des Iran-Kriegs an - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWU0ekRRclg2THF6Q2FiOFd0WlFadnVqUUVBeHFvakhvbGVFYjNtZEk1WHU4RXFUaGxXN0VLTWN4OWRGSDlmbjdHVXlPQVBVc0VETm0tWUhRNmU5WVUxamdJWENIZ3lsN3pfWUFLVkFwTUtEa2l3MDZ1VUQyUWNzZWxrNzZoc0dKdzROa2dSSWNnNVlJbV9PX2tRanZYSG0yOFlmQy1pWUU4LUJTcVpaZl9JRm5zRHhheFo4d19janF0UGNpVHdhY2gtSGFUdy1MV1E?oc=5",
    "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
-  },
-  {
-   "t": "USA kündigen Start von \"wirtschaftlichem D-Day\" für Iran an - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTNfdlhnQnpNNlBVZTI5c2FPdXNmSm5NRmh1d0EtY2NFRWdCVWMxby1LM3Y2R2tzTWhUdnBVYXg0Sjd3OUpvM2hYVFJjSFc1eGktbjZSbTF5aVJnY0VROXRaa0RCT3B0eHVDYzdrc3B0dDkxQ0JQeW9zWE1jRS1qSWwtLVVPaGM?oc=5",
-   "pub": "Mon, 24 Aug 2026 07:24:00 GMT"
-  },
-  {
-   "t": "USA drohen Iran mit „wirtschaftlichem D-Day“: Märkte warten auf Sanktionsplan - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZEJFZTF3MWRDN18tVjFiWmlpRUhEdUozbGlxd0NEemJuWnM3ZFhKZEtrekVTMEE1Q0pFbjlJRndDYXN0YzQwTmM1cy1WUWZ5UGhfNzFObm5tZHNwZE5CQ3dhX3VRX2pUWFkwdE5PQUlodWxZWVdENVFvUGVlR0luMWRFc25waHBEN21Ga05HRXhDcEdtQ3FLbEs0MnJtUUJTdDFETjZIX1FHSW9FSGc?oc=5",
-   "pub": "Mon, 24 Aug 2026 09:02:11 GMT"
   }
  ]
 }
