@@ -1,21 +1,21 @@
 {
- "collected_at": "2026-08-24T01:58:21Z",
+ "collected_at": "2026-08-24T03:17:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8002,
-   "chg1d_pct": 0.08
+   "price": 0.8003,
+   "chg1d_pct": 0.09
   },
   "USDJPY": {
-   "price": 158.844,
-   "chg1d_pct": -0.02
+   "price": 158.911,
+   "chg1d_pct": 0.02
   },
   "GBPCAD": {
-   "price": 1.8823,
+   "price": 1.8822,
    "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 113.85,
+   "price": 113.854,
    "chg1d_pct": 0.66
   },
   "EURUSD": {
@@ -23,28 +23,28 @@
    "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.092,
-   "chg1d_pct": 0.11
+   "price": 1.0922,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 85.27,
-   "chg1d_pct": -2.06
+   "price": 85.73,
+   "chg1d_pct": -1.53
   },
   "BRENT": {
-   "price": 92.59,
-   "chg1d_pct": -1.91
+   "price": 93.14,
+   "chg1d_pct": -1.32
   },
   "GOLD": {
-   "price": 4671.5,
-   "chg1d_pct": 1.03
+   "price": 4691.8,
+   "chg1d_pct": 1.46
   },
   "SPX_FUT": {
-   "price": 7696.25,
-   "chg1d_pct": 0.07
+   "price": 7692.5,
+   "chg1d_pct": 0.02
   },
   "NAS_FUT": {
-   "price": 29385.0,
-   "chg1d_pct": -0.01
+   "price": 29338.75,
+   "chg1d_pct": -0.17
   }
  },
  "headlines": [
@@ -57,6 +57,11 @@
    "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
    "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
+  },
+  {
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Mon, 24 Aug 2026 01:07:14 GMT"
   },
   {
    "t": "Iran: Parlamentspräsident droht USA mit Bumerang-Effekt im Wirtschaftskrieg - Spiegel",
@@ -74,39 +79,34 @@
    "pub": "Sun, 23 Aug 2026 18:23:48 GMT"
   },
   {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Sun, 23 Aug 2026 19:02:41 GMT"
-  },
-  {
-   "t": "Erneut Hinrichtung nach Massenprotesten im Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcEVUdnlSYkc3bEw1bmJUUnI3eXFfak82cy1XYXFZdWd0RkZzWk82c3VsS2p2SEg5aXlLdDJhVV8zV3RXYVpwZzdkQno1TG1GazlzUHAxYkVCSndEb3VZeTBfblEtbVRYb2hzRGtOaDFtcVFIRHkyUmhtczY5YUhMODRWVUJUazllU2xRc3pSckRMWTFJdFlj?oc=5",
-   "pub": "Sun, 23 Aug 2026 15:00:00 GMT"
-  },
-  {
    "t": "Iran plante Angriffe auf Militärziele in Europa - ESUT - Europäische Sicherheit & Technik",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0cxV0VxNEl3am5oeVIwOTFvQmozcUVVNTNyc0pseFRZZERDeTlxZHowN3VBS2tNLWFHeFAwSjRIUHZuMDNFdlNFOFJ3eUFQajVtTUdHTFZVSG1yMHRFV2hDSjRUUDdJWElCczlOMnhuRjV2UmpVbTl5LTl1eFcwaQ?oc=5",
    "pub": "Wed, 19 Aug 2026 14:36:49 GMT"
   },
   {
-   "t": "Iran-Krieg belastet Ölmarkt: Was Trumps \"Wirtschaftskrieg\" für Autofahrer bedeutet - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaG5zMHNJSEt6aFduVE5iRnljNkt6a0hsbG9heHd0UVFkWmZzeDVpVFdwa25fblBwdUJIM3FEektRdHBFVUN6YWlaVkNvRVVsaW9NeE95Mk05VlRiUm1iM3BPaWZlbG1hTDlGN1dGUmsybmg1dkZVVTMydGNnUTQ5OTZRRWcxM1dwNFBtZGVjbThTTzZKQ21oOVB2bnhzTVk?oc=5",
-   "pub": "Sun, 23 Aug 2026 06:45:00 GMT"
+   "t": "Nicht nur die Wirtschaft wackelt: Iran-Präsident räumt Probleme ein - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdS1zcGxzOWhSaTJlMFY2VnI0S1pfMXFUMXVJbTlVeDFTZENydDdKd1hoaWlqaURBX0h2ODlxSlR5SlBGX1VMT1Vpd3J1dUlVcHpMNld4aVd2c2wyY1V5Rlo3eWlXZDJKQy00RU5sa2IyOEpMY0VDanRKdnQyY1hEMGpWZS1GOE9uNjlRZlZhem9oYm01WE9yWGs0ZFFLdjIycDhFLWpZTFRXLXFFOGVjQVFHcTQ0ejF3ekhISGNKYjZIMEZxd0l3czI5YTJfNVVuQlFTWkI5ZmJFYWcwR21HcnZRWQ?oc=5",
+   "pub": "Mon, 24 Aug 2026 03:08:58 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran erlaubt irakischen Öltankern Durchfahrt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT00ybnZRX2F5ZTFJRFBYN3JVcEc2V1Q2NEYtMXdlaUFDa2V1bUI2NllFZEhDRWczcjI1Y0ZXeU9NYm1qNlZfY1d4NWVsdEE3OG94MHZDT2dKclYxOThDWGVaVFhDZTlpTUpINkJRZ1pTNUFEbk45N2dhOWQ0YjBhYjJrX1dqTm9PQ3FVcHg5YkhwVXJqMlprZ0dQVGZiTW1tdm5PZmYzTmY0UGp2SjlfaGpOOWk3UHR3UEdzY3MwM3VkTXhUQVlKSUNORnZHU0E?oc=5",
-   "pub": "Sun, 23 Aug 2026 07:23:00 GMT"
+   "t": "Präsident: Iran kämpft mit wirtschaftlichen Schwierigkeiten - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNWktUk9WQ09rQmhsVmFsSDNfTjVGSU5PdXhMMTluZmU5eGo3VVJUTGV6NFJCMTh2cy1TZlNkNkFnYkUwcl9uSTM3T2JyMmxrSWpSZWNCY2drZ2pVLU9RbnBOVzBtY1FaOGVuaW9COVYxTGs5Y1VRd0RpSnE1S3FGMGpBRlkxU1R1Z1FHQTZiUF9URlFYcGFMdXVjUER4SWRUSGplMQ?oc=5",
+   "pub": "Sun, 23 Aug 2026 23:21:00 GMT"
   },
   {
-   "t": "Todesstrafe im Iran: Iran richtet Mann wegen Beteiligung an Massenprotesten hin - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTlKRGh6OFluWFRkMUxYN2JtOUJlNjM0LUI5NGJfR0ZUUDgwckRpSE1hcUpYVHJSLXNaR09mVVlqYUhhNXAxMF9kZXZZaTNQTjdNckZwLXREMGNKZkI4Q2NtWFdYMmRZZlYyN1ZZa0h3aC0wMkNRMGktaThfaDd4eEpJcE1rMTZuUnVNOGtWVEFtb0pnSnQ1VGNSVVY?oc=5",
-   "pub": "Sun, 23 Aug 2026 09:07:48 GMT"
+   "t": "Iran: Präsident Peseschkian räumt wirtschaftliche Probleme offen ein - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
+   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   },
   {
    "t": "Mit einem Comic warnt der Iran die USA – Präsident räumt „erhebliche Ungleichgewichten“ ein - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWXZ5d0pMWFliLXBfTDRKSlczdVdvUDhhZlNCVnAwWmRCUmkwQU1OX1BRb3c3cVV2QS0teVFwM2NqR0R5THJTUHlvZW5uT3ppWEY1TVE1UGcxYnJMTkJnNDRPdnZOczhRZzg5SXlzaFlMa0t6UmtnZG9neVNEVTJTbW82SWhzLVdrdFhURk9iWFhQd1R2akdkOTRFbklkWnFyd2l3U3BaODg5NWpSMnJzVWNZMC0zOE9RUUZZTHBPLVMyRHZoR0lOeG03QXBWM2ZCbU5pMlE0TmFIOVE1dmlmWDVPXy1PR1NXOGc?oc=5",
    "pub": "Sun, 23 Aug 2026 21:58:18 GMT"
+  },
+  {
+   "t": "Todesstrafe im Iran: Iran richtet Mann wegen Beteiligung an Massenprotesten hin - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYTlKRGh6OFluWFRkMUxYN2JtOUJlNjM0LUI5NGJfR0ZUUDgwckRpSE1hcUpYVHJSLXNaR09mVVlqYUhhNXAxMF9kZXZZaTNQTjdNckZwLXREMGNKZkI4Q2NtWFdYMmRZZlYyN1ZZa0h3aC0wMkNRMGktaThfaDd4eEpJcE1rMTZuUnVNOGtWVEFtb0pnSnQ1VGNSVVY?oc=5",
+   "pub": "Sun, 23 Aug 2026 09:07:48 GMT"
   }
  ]
 }
