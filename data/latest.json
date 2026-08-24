@@ -1,49 +1,49 @@
 {
- "collected_at": "2026-08-24T09:05:19Z",
+ "collected_at": "2026-08-24T10:04:43Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8021,
-   "chg1d_pct": 0.31
+   "price": 0.8022,
+   "chg1d_pct": 0.33
   },
   "USDJPY": {
-   "price": 159.161,
-   "chg1d_pct": 0.17
+   "price": 159.202,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
-   "price": 1.8859,
+   "price": 1.8858,
    "chg1d_pct": 0.31
   },
   "AUDJPY": {
-   "price": 113.989,
-   "chg1d_pct": 0.78
+   "price": 114.058,
+   "chg1d_pct": 0.84
   },
   "EURUSD": {
    "price": 1.1669,
    "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.0931,
-   "chg1d_pct": 0.21
+   "price": 1.0936,
+   "chg1d_pct": 0.26
   },
   "WTI": {
-   "price": 84.73,
-   "chg1d_pct": -2.68
+   "price": 85.11,
+   "chg1d_pct": -2.24
   },
   "BRENT": {
-   "price": 92.47,
-   "chg1d_pct": -2.03
+   "price": 92.91,
+   "chg1d_pct": -1.57
   },
   "GOLD": {
-   "price": 4697.7,
-   "chg1d_pct": 1.59
+   "price": 4699.8,
+   "chg1d_pct": 1.64
   },
   "SPX_FUT": {
-   "price": 7683.25,
-   "chg1d_pct": -0.1
+   "price": 7680.25,
+   "chg1d_pct": -0.14
   },
   "NAS_FUT": {
-   "price": 29230.75,
+   "price": 29233.0,
    "chg1d_pct": -0.53
   }
  },
@@ -52,6 +52,11 @@
    "t": "Iran: Präsident Peseschkian räumt wirtschaftliche Probleme offen ein - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
    "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
+  },
+  {
+   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
+   "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
   {
    "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
@@ -74,19 +79,14 @@
    "pub": "Mon, 24 Aug 2026 04:41:46 GMT"
   },
   {
-   "t": "USA kündigen \"Endphase\" des Iran-Kriegs an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWU0ekRRclg2THF6Q2FiOFd0WlFadnVqUUVBeHFvakhvbGVFYjNtZEk1WHU4RXFUaGxXN0VLTWN4OWRGSDlmbjdHVXlPQVBVc0VETm0tWUhRNmU5WVUxamdJWENIZ3lsN3pfWUFLVkFwTUtEa2l3MDZ1VUQyUWNzZWxrNzZoc0dKdzROa2dSSWNnNVlJbV9PX2tRanZYSG0yOFlmQy1pWUU4LUJTcVpaZl9JRm5zRHhheFo4d19janF0UGNpVHdhY2gtSGFUdy1MV1E?oc=5",
-   "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
-  },
-  {
    "t": "USA: Neue Iran-Sanktionen erhöhen Druck auf Handel und Schifffahrt - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkhnYWZqV28zMjYwNmd5cHVjOHZQOFNqalVySXFlTkp5Z1hSM2dHUEVxbTBjcnQ0T2NaVjZ4S29hU1NnZW1UVkYxbl9FWUVkSmlVbUJQOFpWZUxLaHhZUXNOYVF5M2RHR1BvZUV1SlBFTHdNcG93dU1PRks5ZkJvcHZsTU55SFB4VGUzUFhrLXZES3d5dDFpRnZJUmZjV1FjeHFlbjdzcmV3aFpZMXc?oc=5",
    "pub": "Mon, 24 Aug 2026 07:32:00 GMT"
   },
   {
-   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
-   "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
+   "t": "USA kündigen \"Endphase\" des Iran-Kriegs an - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWU0ekRRclg2THF6Q2FiOFd0WlFadnVqUUVBeHFvakhvbGVFYjNtZEk1WHU4RXFUaGxXN0VLTWN4OWRGSDlmbjdHVXlPQVBVc0VETm0tWUhRNmU5WVUxamdJWENIZ3lsN3pfWUFLVkFwTUtEa2l3MDZ1VUQyUWNzZWxrNzZoc0dKdzROa2dSSWNnNVlJbV9PX2tRanZYSG0yOFlmQy1pWUU4LUJTcVpaZl9JRm5zRHhheFo4d19janF0UGNpVHdhY2gtSGFUdy1MV1E?oc=5",
+   "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
   },
   {
    "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
