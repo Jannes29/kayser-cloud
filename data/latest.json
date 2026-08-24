@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T19:00:41Z",
+ "collected_at": "2026-08-24T19:45:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8025,
-   "chg1d_pct": 0.36
+   "price": 0.8027,
+   "chg1d_pct": 0.39
   },
   "USDJPY": {
-   "price": 159.186,
-   "chg1d_pct": 0.19
+   "price": 159.157,
+   "chg1d_pct": 0.17
   },
   "GBPCAD": {
-   "price": 1.8875,
-   "chg1d_pct": 0.4
+   "price": 1.8868,
+   "chg1d_pct": 0.36
   },
   "AUDJPY": {
-   "price": 113.773,
-   "chg1d_pct": 0.59
+   "price": 113.757,
+   "chg1d_pct": 0.58
   },
   "EURUSD": {
-   "price": 1.1666,
-   "chg1d_pct": -0.19
+   "price": 1.1665,
+   "chg1d_pct": -0.2
   },
   "GBPCHF": {
-   "price": 1.0938,
-   "chg1d_pct": 0.28
+   "price": 1.0939,
+   "chg1d_pct": 0.29
   },
   "WTI": {
-   "price": 85.23,
-   "chg1d_pct": -2.1
+   "price": 85.16,
+   "chg1d_pct": -2.18
   },
   "BRENT": {
-   "price": 92.32,
-   "chg1d_pct": -2.19
+   "price": 92.21,
+   "chg1d_pct": -2.31
   },
   "GOLD": {
-   "price": 4689.8,
-   "chg1d_pct": 1.42
+   "price": 4696.7,
+   "chg1d_pct": 1.57
   },
   "SPX_FUT": {
-   "price": 7678.0,
-   "chg1d_pct": -0.17
+   "price": 7671.75,
+   "chg1d_pct": -0.25
   },
   "NAS_FUT": {
-   "price": 29184.0,
-   "chg1d_pct": -0.69
+   "price": 29137.5,
+   "chg1d_pct": -0.85
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
   },
   {
-   "t": "Oman unter Druck zwischen USA und Iran lang - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reEtucVAxNWttNjJwanl1eXZBaERlSjlMRGJaeUJub3g2UjZ2RUMxLXhYVzlmdDk1YVU3Ym5XUXRfV2JBOEE2NVhNMjZoNndiR0VjYzBNSVVEekJ6U0t3ZktkTkJKVWpGSWhIS3hB?oc=5",
-   "pub": "Mon, 24 Aug 2026 14:22:00 GMT"
-  },
-  {
    "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
    "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
+  },
+  {
+   "t": "Oman unter Druck zwischen USA und Iran lang - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reEtucVAxNWttNjJwanl1eXZBaERlSjlMRGJaeUJub3g2UjZ2RUMxLXhYVzlmdDk1YVU3Ym5XUXRfV2JBOEE2NVhNMjZoNndiR0VjYzBNSVVEekJ6U0t3ZktkTkJKVWpGSWhIS3hB?oc=5",
+   "pub": "Mon, 24 Aug 2026 14:22:00 GMT"
   },
   {
    "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
@@ -69,9 +69,24 @@
    "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   },
   {
+   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
+   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
+  },
+  {
    "t": "US-News: Iran setzt Kopfgeld auf Trump-Sohn Barron aus - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUNSQkR4ZHVWR1VCajlfTXZhMDRwbnlNVDNzZTZRRm51bi1uc2FVQTBlMUZrblVxalF6OXRuQ3EtZnpqZjI5MC1XNDJTbGl1LU10aG0xbUFOak9CLUp4Vjg5N045N3dHaU9rUWh1amxmb0hFZjJweFFUa3FWOWwxTTNqb2NwYnJFUjRHb3BTUjRQZFFzRnBuMTZYNlkyM0t2V3hGamthOUNTOTdhWlFtSnM3RjEwdkZmcjNjUXJudHRMSGJvQXdjeVlkNUxJWWVTcTJtVA?oc=5",
-   "pub": "Mon, 24 Aug 2026 17:54:00 GMT"
+   "pub": "Mon, 24 Aug 2026 19:04:00 GMT"
+  },
+  {
+   "t": "Das offene Fenster - IPG Journal",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmpVMFE0aGJfbXZLTVRES2tEV0hta1AzaGpGSDkzWTRIV0ptNUFSSmd3WnRudVg3Z1BIaFpENW9meGl4SlZ2b1U5N1lobWJNVC1NQWxFdGNoS1BsYnBzTktfSzJHZnpvcGFCQ1pQTW5KckREczVWbGkza3diNktzanMzVDBQLUk?oc=5",
+   "pub": "Mon, 24 Aug 2026 14:45:46 GMT"
+  },
+  {
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Mon, 24 Aug 2026 16:19:24 GMT"
   },
   {
    "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
@@ -79,19 +94,9 @@
    "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
-   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
-  },
-  {
-   "t": "USA kündigen „Endphase“ des Iran-Kriegs an – „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdmxKeWNyanJzc3VtQk1Kdjlnd09ocG5VeVowcVFKMGt3TTFvV1Q3RExIZHhDNFVHNGVnVFBVanN0V0RKbS1JUGRPd1BPWDlIWWcxTEZDVXBBdFJHYzRNOTc3RFlEMFRGV1M1bnBwN3UxZDYyeW1LY3M2ODlNRFAzT2czUWNrcTE1R3MxNjkxZjRuNjE4WlI5MmI1eG43QkhYR2NWVUlXandzd0pZYzJSbFhsTFo2bmNYZDdBdkxLaFp0WkJsV1FYbWM5b2VHaFpTSy01X2FIbU9ZX2MtN0RZdzNSWExrMmV3TE5wX01fNDJVN0o4dlFqYQ?oc=5",
-   "pub": "Mon, 24 Aug 2026 09:27:26 GMT"
-  },
-  {
-   "t": "USA wollen Einnahmequellen des Irans trockenlegen +++ Teheran droht mit Gegenmaßnahmen - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUVXM241aFlQUkZMWERqMWhpSGVscmZRSXdVa2lKOGkxV3lneGJQNlRFbV9yTkV3cDk2S0NWa2lkaGRqcktQV0I2U2E4NTN0TVZiMm9xRVE4WGdxSVdyR3RqTUlKS2t2M3pYN2ZLNUpHa2Nmd0pfN3BnX2pGMkJ1Q3RuNjJmUTRoUnZQV2toNGpMU3hnMXJkaWxnRWVxY2Q5MTcwbWRSdG9JM2pvWlh6ZkpZVGZsMkJkLXBBYlNSSFZkTTZlSjJ0ZGNPOVN6Z00?oc=5",
-   "pub": "Mon, 24 Aug 2026 17:59:25 GMT"
+   "t": "Menschenrechtsaktivistin: Christentum wird im Iran populärer - Katholisch.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2RfamVMcjVIRFJOMjl2UXdQakd5bEJjRGhnSFUtRVJuNXZXUFBKSEV6SGNpdTN0dmRnRERZaVVjZG1RdFM1X1VVczhGZUlXazdiYmp5YnNGWlhMdHhrOUxwcHZ3VUV6UWhKMUViRlRIWmpHakNUdzFSdl9yZlA2a2ljT2s1eWJNbGVHeVdpTGgtd1MzVmNXckdvTzA?oc=5",
+   "pub": "Mon, 24 Aug 2026 16:49:00 GMT"
   },
   {
    "t": "US-Sanktionen gegen Iran: Irans Präsident räumt wirtschaftliche Schwierigkeiten des Landes ein - DIE ZEIT",
@@ -99,14 +104,9 @@
    "pub": "Mon, 24 Aug 2026 04:50:25 GMT"
   },
   {
-   "t": "USA kündigen Start von \"wirtschaftlichem D-Day\" für Iran an - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTNfdlhnQnpNNlBVZTI5c2FPdXNmSm5NRmh1d0EtY2NFRWdCVWMxby1LM3Y2R2tzTWhUdnBVYXg0Sjd3OUpvM2hYVFJjSFc1eGktbjZSbTF5aVJnY0VROXRaa0RCT3B0eHVDYzdrc3B0dDkxQ0JQeW9zWE1jRS1qSWwtLVVPaGM?oc=5",
-   "pub": "Mon, 24 Aug 2026 07:24:00 GMT"
-  },
-  {
-   "t": "US-Finanzminister Bessent will Details zu Sanktionen gegen Iran bekanntgeben, dazu Sandra Ratzow, ARD Washington - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHeExWSnN0Wm9WdmlJUHZfZUFaOUJrOXE2NWtNektFenNTUWc5WUh4b1NjOWR0OE1JTXp0bnhnYmI2a1RHWnhXVUNPQWY4T011NmVDdlB5SUZWblZRRzZIcXd4RzBuYkY4dFp6b0xYVQ?oc=5",
-   "pub": "Mon, 24 Aug 2026 18:10:27 GMT"
+   "t": "Krieg mit dem Iran - US-Finanzminister Bessent droht Teheran erneut mit Wirtschaftssanktionen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEttWFhzQWhtT1pJaEJkOUNwenZZd3hJQmVTbjAycVhLRE00NThyeVZxdUs1RDAyNXljbjNuY2Z0c09LUU14Y0E4QnE1WllBalVmYUh2M3g1VFpTSjVsLUhGQmFvNEtWdi1IZWh2VGdJd1V0TkdpWnhsWXdDelZTZ1NjczFzcGFfLXEtVVdRb1BXNkZYQ1BDckQtdTdBMFRScVJnam5IQ0RyMDVuemU0dDdB?oc=5",
+   "pub": "Mon, 24 Aug 2026 19:00:00 GMT"
   }
  ]
 }
