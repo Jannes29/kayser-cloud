@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T11:44:39Z",
+ "collected_at": "2026-08-24T13:13:51Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8019,
-   "chg1d_pct": 0.29
+   "price": 0.8022,
+   "chg1d_pct": 0.33
   },
   "USDJPY": {
-   "price": 159.048,
-   "chg1d_pct": 0.1
+   "price": 159.09,
+   "chg1d_pct": 0.13
   },
   "GBPCAD": {
-   "price": 1.8875,
-   "chg1d_pct": 0.4
+   "price": 1.8872,
+   "chg1d_pct": 0.38
   },
   "AUDJPY": {
-   "price": 113.945,
-   "chg1d_pct": 0.74
+   "price": 113.982,
+   "chg1d_pct": 0.78
   },
   "EURUSD": {
-   "price": 1.167,
-   "chg1d_pct": -0.15
+   "price": 1.1675,
+   "chg1d_pct": -0.11
   },
   "GBPCHF": {
-   "price": 1.0934,
-   "chg1d_pct": 0.24
+   "price": 1.0947,
+   "chg1d_pct": 0.36
   },
   "WTI": {
-   "price": 85.29,
-   "chg1d_pct": -2.03
+   "price": 85.42,
+   "chg1d_pct": -1.88
   },
   "BRENT": {
-   "price": 93.0,
-   "chg1d_pct": -1.47
+   "price": 93.07,
+   "chg1d_pct": -1.4
   },
   "GOLD": {
-   "price": 4707.6,
-   "chg1d_pct": 1.81
+   "price": 4726.1,
+   "chg1d_pct": 2.21
   },
   "SPX_FUT": {
-   "price": 7676.25,
-   "chg1d_pct": -0.2
+   "price": 7678.0,
+   "chg1d_pct": -0.17
   },
   "NAS_FUT": {
-   "price": 29220.5,
-   "chg1d_pct": -0.57
+   "price": 29204.75,
+   "chg1d_pct": -0.62
   }
  },
  "headlines": [
@@ -84,14 +84,19 @@
    "pub": "Mon, 24 Aug 2026 07:32:00 GMT"
   },
   {
-   "t": "\"Ultimative Intervention\": Donald Trump droht dem Anleihemarkt mit dem Militär - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDZ6ZlRhUE1vVXNja0VFb0dkNnVRYXQySWRUZUVVSlBld2dSNjJIdnZOUE14MGRSSWEwNVY4Z09kLXJZNFpady1SSnZ5Tnk1S045UFY0MENHRHRMWExDTG96TzU1TjVBSklFMXc5TnNTUTZ0LXBXR254d3VrZVNSd1VjUXdVZDBVcjdma2lBYVhwMURDZnk4MEFNQkNXalVr?oc=5",
-   "pub": "Mon, 24 Aug 2026 10:07:37 GMT"
-  },
-  {
    "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
-   "pub": "Mon, 24 Aug 2026 10:10:22 GMT"
+   "pub": "Mon, 24 Aug 2026 12:43:58 GMT"
+  },
+  {
+   "t": "USA kündigen \"Endphase\" des Iran-Kriegs an - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWU0ekRRclg2THF6Q2FiOFd0WlFadnVqUUVBeHFvakhvbGVFYjNtZEk1WHU4RXFUaGxXN0VLTWN4OWRGSDlmbjdHVXlPQVBVc0VETm0tWUhRNmU5WVUxamdJWENIZ3lsN3pfWUFLVkFwTUtEa2l3MDZ1VUQyUWNzZWxrNzZoc0dKdzROa2dSSWNnNVlJbV9PX2tRanZYSG0yOFlmQy1pWUU4LUJTcVpaZl9JRm5zRHhheFo4d19janF0UGNpVHdhY2gtSGFUdy1MV1E?oc=5",
+   "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
+  },
+  {
+   "t": "Barron Trump: Irans Staats-TV verbreitet Morddrohung – 10 Millionen Dollar Belohnung - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkJ4NXltbFVKWjE4TE8wZWpUTzhZeDRyMTRHXy1ScS14bkw3VExyelg2RHljX2VLXzZEWEowZF93djQ5NEd1WHFyZDBJYTlhUTBDbzNpS1dmaWRfQ3pjT0ZWblpwSkREeVFHaE9EZ01MTV9vMk56UTVRRVJRVVhvLXFRMTY4azZxWkdLR3g4VG9lNWpEeFBpRW13?oc=5",
+   "pub": "Mon, 24 Aug 2026 11:57:41 GMT"
   },
   {
    "t": "Iran warnt USA vor Wirtschaftskrieg - und droht Golfstaaten - Jüdische Allgemeine",
@@ -102,11 +107,6 @@
    "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2aXYtdTB1U3VORE1XODdJeTJqWEo0RWxYeXJ0b3hZRFJtR2ZUckEwd0R5SkVCN2pRNmc4NTZCeXh0cGx4ZWc?oc=5",
    "pub": "Mon, 24 Aug 2026 04:08:49 GMT"
-  },
-  {
-   "t": "USA kündigen \"Endphase\" des Iran-Kriegs an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWU0ekRRclg2THF6Q2FiOFd0WlFadnVqUUVBeHFvakhvbGVFYjNtZEk1WHU4RXFUaGxXN0VLTWN4OWRGSDlmbjdHVXlPQVBVc0VETm0tWUhRNmU5WVUxamdJWENIZ3lsN3pfWUFLVkFwTUtEa2l3MDZ1VUQyUWNzZWxrNzZoc0dKdzROa2dSSWNnNVlJbV9PX2tRanZYSG0yOFlmQy1pWUU4LUJTcVpaZl9JRm5zRHhheFo4d19janF0UGNpVHdhY2gtSGFUdy1MV1E?oc=5",
-   "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
   }
  ]
 }
