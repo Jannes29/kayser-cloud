@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T20:49:26Z",
+ "collected_at": "2026-08-24T21:44:43Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8024,
-   "chg1d_pct": 0.22
+   "price": 0.8013,
+   "chg1d_pct": 0.08
   },
   "USDJPY": {
-   "price": 159.107,
-   "chg1d_pct": 0.13
+   "price": 159.051,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8871,
-   "chg1d_pct": 0.22
+   "price": 1.8866,
+   "chg1d_pct": 0.19
   },
   "AUDJPY": {
-   "price": 113.754,
-   "chg1d_pct": -0.17
+   "price": 113.719,
+   "chg1d_pct": -0.2
   },
   "EURUSD": {
-   "price": 1.1667,
-   "chg1d_pct": -0.12
+   "price": 1.1669,
+   "chg1d_pct": -0.11
   },
   "GBPCHF": {
-   "price": 1.0937,
-   "chg1d_pct": 0.05
+   "price": 1.0931,
+   "chg1d_pct": -0.0
   },
   "WTI": {
-   "price": 84.93,
-   "chg1d_pct": -2.45
+   "price": 84.98,
+   "chg1d_pct": -2.39
   },
   "BRENT": {
-   "price": 91.96,
-   "chg1d_pct": -2.57
+   "price": 91.99,
+   "chg1d_pct": -2.54
   },
   "GOLD": {
-   "price": 4704.8,
-   "chg1d_pct": 1.75
+   "price": 4710.0,
+   "chg1d_pct": 1.86
   },
   "SPX_FUT": {
-   "price": 7670.75,
-   "chg1d_pct": -0.27
+   "price": 7674.25,
+   "chg1d_pct": -0.22
   },
   "NAS_FUT": {
-   "price": 29099.0,
-   "chg1d_pct": -0.98
+   "price": 29131.25,
+   "chg1d_pct": -0.87
   }
  },
  "headlines": [
@@ -84,16 +84,6 @@
    "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
   },
   {
-   "t": "Drohung statt „D-Day“: US-Sanktionen gegen Iran als „Warnschuss“ - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rd0V5NjdhVHM0RnkzeUVINTlpbWZ5dGF0UjByTkYtTzdsVUdKQnRBV0hkd1AwcjluY3cwZ2NiSV9BajFQbHc?oc=5",
-   "pub": "Mon, 24 Aug 2026 19:13:42 GMT"
-  },
-  {
-   "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT29hQlZoaVRxTlp4OGMyLUhjbktfU0M0SDlaS3k3amFveGRVREhhVVdLUmNDRXQzaTZrdVJhRUMtMDhSMUdfMkttOXdmOXl1RlNPcGFCbTVXM3I4U3lBRlVvVG9WWjQ3NU9xNHFtWjI1VDRzSmY0ZzZzTjJpdWNmUzhQY2NSUlZJMnhrZWM4NGtHTmx2bkRQR1NnSDV6SFIxQUFiTWhJOFVfU0RTNGlQeW9GY2xBRkExOE5aOTBRYkJSZw?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
-  },
-  {
    "t": "Menschenrechtsaktivistin: Christentum wird im Iran populärer - Katholisch.de",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOak1mWGVWLUQtd3NReHdmU1Bub0NIaXlSbk9mcVczVzhrUG0ydTI5TUlGWUdqVEctTXBVMTJpNWdtcEhxX1VQc1FPckVWbzA5WllTRHZWLXBOWjFUZ1ptaC1aR1pSUUEtRXBFWGlWQTRnWmpOSXZvZFV5dHhzWjRDak1mbURDMDB4STVHMk9XRGFpYV83VlludGNLQWpXRWFUelE?oc=5",
    "pub": "Mon, 24 Aug 2026 16:49:00 GMT"
@@ -107,6 +97,16 @@
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
    "pub": "Mon, 24 Aug 2026 16:19:24 GMT"
+  },
+  {
+   "t": "USA wollen Einnahmequellen des Irans trockenlegen +++ Teheran droht mit Gegenmaßnahmen - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUVXM241aFlQUkZMWERqMWhpSGVscmZRSXdVa2lKOGkxV3lneGJQNlRFbV9yTkV3cDk2S0NWa2lkaGRqcktQV0I2U2E4NTN0TVZiMm9xRVE4WGdxSVdyR3RqTUlKS2t2M3pYN2ZLNUpHa2Nmd0pfN3BnX2pGMkJ1Q3RuNjJmUTRoUnZQV2toNGpMU3hnMXJkaWxnRWVxY2Q5MTcwbWRSdG9JM2pvWlh6ZkpZVGZsMkJkLXBBYlNSSFZkTTZlSjJ0ZGNPOVN6Z00?oc=5",
+   "pub": "Mon, 24 Aug 2026 17:59:25 GMT"
+  },
+  {
+   "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT29hQlZoaVRxTlp4OGMyLUhjbktfU0M0SDlaS3k3amFveGRVREhhVVdLUmNDRXQzaTZrdVJhRUMtMDhSMUdfMkttOXdmOXl1RlNPcGFCbTVXM3I4U3lBRlVvVG9WWjQ3NU9xNHFtWjI1VDRzSmY0ZzZzTjJpdWNmUzhQY2NSUlZJMnhrZWM4NGtHTmx2bkRQR1NnSDV6SFIxQUFiTWhJOFVfU0RTNGlQeW9GY2xBRkExOE5aOTBRYkJSZw?oc=5",
+   "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
   }
  ]
 }
