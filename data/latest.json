@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-24T13:13:51Z",
+ "collected_at": "2026-08-24T14:04:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8022,
-   "chg1d_pct": 0.33
+   "price": 0.8024,
+   "chg1d_pct": 0.35
   },
   "USDJPY": {
-   "price": 159.09,
-   "chg1d_pct": 0.13
+   "price": 159.102,
+   "chg1d_pct": 0.14
   },
   "GBPCAD": {
-   "price": 1.8872,
-   "chg1d_pct": 0.38
+   "price": 1.8864,
+   "chg1d_pct": 0.34
   },
   "AUDJPY": {
-   "price": 113.982,
-   "chg1d_pct": 0.78
+   "price": 113.936,
+   "chg1d_pct": 0.74
   },
   "EURUSD": {
-   "price": 1.1675,
-   "chg1d_pct": -0.11
+   "price": 1.167,
+   "chg1d_pct": -0.15
   },
   "GBPCHF": {
-   "price": 1.0947,
-   "chg1d_pct": 0.36
+   "price": 1.0942,
+   "chg1d_pct": 0.31
   },
   "WTI": {
-   "price": 85.42,
-   "chg1d_pct": -1.88
+   "price": 85.36,
+   "chg1d_pct": -1.95
   },
   "BRENT": {
-   "price": 93.07,
-   "chg1d_pct": -1.4
+   "price": 93.02,
+   "chg1d_pct": -1.45
   },
   "GOLD": {
-   "price": 4726.1,
-   "chg1d_pct": 2.21
+   "price": 4721.5,
+   "chg1d_pct": 2.11
   },
   "SPX_FUT": {
-   "price": 7678.0,
-   "chg1d_pct": -0.17
+   "price": 7666.0,
+   "chg1d_pct": -0.33
   },
   "NAS_FUT": {
-   "price": 29204.75,
-   "chg1d_pct": -0.62
+   "price": 28991.0,
+   "chg1d_pct": -1.35
   }
  },
  "headlines": [
+  {
+   "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
+   "pub": "Mon, 24 Aug 2026 12:43:58 GMT"
+  },
   {
    "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
@@ -59,14 +64,14 @@
    "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
-   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
-  },
-  {
    "t": "US-Finanzminister Bessent droht Iran: „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT29hQlZoaVRxTlp4OGMyLUhjbktfU0M0SDlaS3k3amFveGRVREhhVVdLUmNDRXQzaTZrdVJhRUMtMDhSMUdfMkttOXdmOXl1RlNPcGFCbTVXM3I4U3lBRlVvVG9WWjQ3NU9xNHFtWjI1VDRzSmY0ZzZzTjJpdWNmUzhQY2NSUlZJMnhrZWM4NGtHTmx2bkRQR1NnSDV6SFIxQUFiTWhJOFVfU0RTNGlQeW9GY2xBRkExOE5aOTBRYkJSZw?oc=5",
    "pub": "Mon, 24 Aug 2026 02:48:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
+   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
   },
   {
    "t": "USA kündigen „Endphase“ des Iran-Kriegs an – „Im Morgengrauen beginnt ein wirtschaftlicher D-Day“ - WELT",
@@ -79,14 +84,19 @@
    "pub": "Mon, 24 Aug 2026 04:50:25 GMT"
   },
   {
+   "t": "Barron Trump: Irans Staats-TV verbreitet Morddrohung – 10 Millionen Dollar Belohnung - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkJ4NXltbFVKWjE4TE8wZWpUTzhZeDRyMTRHXy1ScS14bkw3VExyelg2RHljX2VLXzZEWEowZF93djQ5NEd1WHFyZDBJYTlhUTBDbzNpS1dmaWRfQ3pjT0ZWblpwSkREeVFHaE9EZ01MTV9vMk56UTVRRVJRVVhvLXFRMTY4azZxWkdLR3g4VG9lNWpEeFBpRW13?oc=5",
+   "pub": "Mon, 24 Aug 2026 11:57:41 GMT"
+  },
+  {
    "t": "USA: Neue Iran-Sanktionen erhöhen Druck auf Handel und Schifffahrt - Logistik Heute",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkhnYWZqV28zMjYwNmd5cHVjOHZQOFNqalVySXFlTkp5Z1hSM2dHUEVxbTBjcnQ0T2NaVjZ4S29hU1NnZW1UVkYxbl9FWUVkSmlVbUJQOFpWZUxLaHhZUXNOYVF5M2RHR1BvZUV1SlBFTHdNcG93dU1PRks5ZkJvcHZsTU55SFB4VGUzUFhrLXZES3d5dDFpRnZJUmZjV1FjeHFlbjdzcmV3aFpZMXc?oc=5",
    "pub": "Mon, 24 Aug 2026 07:32:00 GMT"
   },
   {
-   "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
-   "pub": "Mon, 24 Aug 2026 12:43:58 GMT"
+   "t": "Iran: Träger-Tausch und Tanker-Transfer - THB - Täglicher Hafenbericht",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ29mT09rNGJLVzVLR2NIU3RWVEoydXBfZGg3SzdJaEprOHVBTG5BcEI5NzdkTDkwLWNreF9xLXZfSlBQSk1QR3ZEOEFpM2hkYTZ6TWU3ZzJvN0N3Q2hoVnBjRzEtTWUtcC1sSkZXQ0o0RlIzWGtTbUQxRFF4Sy1KLW55cEd3NWU0MzdNVkI3ZmYtdDBveTU0ZjNnWTFFZDJQZVZDLS1seEdnZw?oc=5",
+   "pub": "Mon, 24 Aug 2026 13:21:23 GMT"
   },
   {
    "t": "USA kündigen \"Endphase\" des Iran-Kriegs an - T-Online",
@@ -94,19 +104,9 @@
    "pub": "Mon, 24 Aug 2026 05:45:05 GMT"
   },
   {
-   "t": "Barron Trump: Irans Staats-TV verbreitet Morddrohung – 10 Millionen Dollar Belohnung - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkJ4NXltbFVKWjE4TE8wZWpUTzhZeDRyMTRHXy1ScS14bkw3VExyelg2RHljX2VLXzZEWEowZF93djQ5NEd1WHFyZDBJYTlhUTBDbzNpS1dmaWRfQ3pjT0ZWblpwSkREeVFHaE9EZ01MTV9vMk56UTVRRVJRVVhvLXFRMTY4azZxWkdLR3g4VG9lNWpEeFBpRW13?oc=5",
-   "pub": "Mon, 24 Aug 2026 11:57:41 GMT"
-  },
-  {
    "t": "Iran warnt USA vor Wirtschaftskrieg - und droht Golfstaaten - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDdVVXlCZGRZWWgwY09Gc0RaVXZfc2FJVmw0TUkwN0t3VXQzV1I1c1AwZDJ4eWhDSTFveUYweUlZREVnQTh4aENrUFkza09faFk0SDJZSTgzTGNKWEJzQzJTSVY2RnF6YUx2YVY1bUVETkVPNU9hbzdGRlJicHBONFFqaElaU0xkQXlDODB0R0JHU2luOFVxUnRqU1dWczVUYlVDOQ?oc=5",
    "pub": "Mon, 24 Aug 2026 07:34:00 GMT"
-  },
-  {
-   "t": "Vor neuen US-Sanktionen: Peseschkian räumt Probleme im Iran ein - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2aXYtdTB1U3VORE1XODdJeTJqWEo0RWxYeXJ0b3hZRFJtR2ZUckEwd0R5SkVCN2pRNmc4NTZCeXh0cGx4ZWc?oc=5",
-   "pub": "Mon, 24 Aug 2026 04:08:49 GMT"
   }
  ]
 }
