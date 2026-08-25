@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T15:06:32Z",
+ "collected_at": "2026-08-25T16:01:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8029,
-   "chg1d_pct": 0.28
+   "price": 0.8024,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 159.273,
-   "chg1d_pct": 0.23
+   "price": 159.214,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
    "price": 1.8867,
    "chg1d_pct": 0.2
   },
   "AUDJPY": {
-   "price": 113.952,
-   "chg1d_pct": 0.0
+   "price": 113.991,
+   "chg1d_pct": 0.04
   },
   "EURUSD": {
-   "price": 1.1671,
-   "chg1d_pct": -0.09
+   "price": 1.1677,
+   "chg1d_pct": -0.04
   },
   "GBPCHF": {
-   "price": 1.0944,
-   "chg1d_pct": 0.12
+   "price": 1.0945,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 82.37,
-   "chg1d_pct": -3.11
+   "price": 81.93,
+   "chg1d_pct": -3.62
   },
   "BRENT": {
-   "price": 87.84,
-   "chg1d_pct": -4.7
+   "price": 87.14,
+   "chg1d_pct": -5.46
   },
   "GOLD": {
-   "price": 4690.3,
-   "chg1d_pct": 1.07
+   "price": 4706.7,
+   "chg1d_pct": 1.42
   },
   "SPX_FUT": {
-   "price": 7679.0,
-   "chg1d_pct": 0.12
+   "price": 7681.0,
+   "chg1d_pct": 0.15
   },
   "NAS_FUT": {
-   "price": 29237.0,
-   "chg1d_pct": 0.45
+   "price": 29235.0,
+   "chg1d_pct": 0.44
   }
  },
  "headlines": [
@@ -99,14 +99,14 @@
    "pub": "Tue, 25 Aug 2026 05:42:25 GMT"
   },
   {
-   "t": "Irans \"D-Day\"? Warum Trump jetzt auf Wirtschaftskrieg setzt - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3pzdHhBWWFXZU12TjNyLWZobnllTFRSWnN5czA4NEZUYmhlSlNKZk50UXg0b2pkUUpMaV9WaWlSRVZBNDhOOE85S3F0Yl9tM1BxUGF3OVpOR1hDcWU0TWNjTlVlRzR0a3ExNExITTdUcXRTOHJEU0ZjOUNXdUNwME9zQkpDYkVmaTdmR3hEVGR3REx3Q2dn?oc=5",
-   "pub": "Mon, 24 Aug 2026 17:45:00 GMT"
-  },
-  {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
    "pub": "Tue, 25 Aug 2026 10:39:14 GMT"
+  },
+  {
+   "t": "US-Sanktionen gegen Partner des Iran: China will seine Interessen schützen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ24weTJPNFpZWEF6QkpJVDZMczhOLU92RmJ2SkkybGxINzRqbVVCUHFfdXRPSjVQOEg2WnI3V1IyRzZkd1FwS2tfdGhTQWt6VzFLckFDWElaSVZaQWpDYVBaSzJKQjRzZ2s0eHJzaXgwTVZ3VUU4NGxSNTdQZEVxUzJKc2ZTYWtnRGxxNkZRcXlEQ0JBXzB5a2hGZlZRWFFMU3hUME9UR1otMkQ2RXp4RnpUcmN4QQ?oc=5",
+   "pub": "Tue, 25 Aug 2026 12:38:11 GMT"
   }
  ]
 }
