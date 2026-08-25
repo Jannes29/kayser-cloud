@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T16:01:12Z",
+ "collected_at": "2026-08-25T16:56:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8024,
-   "chg1d_pct": 0.22
+   "price": 0.8026,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 159.214,
-   "chg1d_pct": 0.2
+   "price": 159.283,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8867,
-   "chg1d_pct": 0.2
+   "price": 1.8865,
+   "chg1d_pct": 0.19
   },
   "AUDJPY": {
-   "price": 113.991,
-   "chg1d_pct": 0.04
+   "price": 113.963,
+   "chg1d_pct": 0.01
   },
   "EURUSD": {
-   "price": 1.1677,
-   "chg1d_pct": -0.04
+   "price": 1.1673,
+   "chg1d_pct": -0.07
   },
   "GBPCHF": {
-   "price": 1.0945,
-   "chg1d_pct": 0.13
+   "price": 1.0943,
+   "chg1d_pct": 0.11
   },
   "WTI": {
-   "price": 81.93,
-   "chg1d_pct": -3.62
+   "price": 82.24,
+   "chg1d_pct": -3.26
   },
   "BRENT": {
-   "price": 87.14,
-   "chg1d_pct": -5.46
+   "price": 87.27,
+   "chg1d_pct": -5.32
   },
   "GOLD": {
-   "price": 4706.7,
-   "chg1d_pct": 1.42
+   "price": 4701.0,
+   "chg1d_pct": 1.3
   },
   "SPX_FUT": {
-   "price": 7681.0,
-   "chg1d_pct": 0.15
+   "price": 7690.25,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 29235.0,
-   "chg1d_pct": 0.44
+   "price": 29281.0,
+   "chg1d_pct": 0.6
   }
  },
  "headlines": [
@@ -74,14 +74,29 @@
    "pub": "Tue, 25 Aug 2026 10:04:00 GMT"
   },
   {
+   "t": "Iran-Sanktionen – Trump-Regierung kündigt »wirtschaftlichen D-Day« für Iran an - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN25EVEE3TXJHYjN0LUQzZTd4aVBWWTZLVlZWcHN6NWQzOEJpclF1VE1QU0tROVB1eWhTMFRGb0s0ZTF4c0E3NGp4N2lVMUdLdEt2NkpORzhfNElFcTcyb0NqN1hUb1Ffd004dDZJSEd3amFOcm5BVkFMSTFHckFELUdRWGpnT0FRaW85OV9ZVzVzYlN6a3JIVmJ4Ulp0Q3daQlA3N1RTaDE1UEhaWXBkWnl3SFc5Z3AzWUJpMHVLM2U?oc=5",
+   "pub": "Tue, 25 Aug 2026 13:53:02 GMT"
+  },
+  {
    "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDRvcDZvYmx1THhPUmg4YnhIc2dKMTlMNVFOa1YzdWxYRHkycldCS2lRZmVrOUpaZVhjekFYVEpuLUlSdFIwd2V4RVZVQTZUTzdpbWdfTGlRX1NMQmxJT3pnR2h2M3lVNFNTWC1SdFJEUElOMks1Ry1ZVmpIMWZrbWNYRkt5cHNOTGxGbkJPUVdxa3JrTGRGaWxOa2hITWts?oc=5",
    "pub": "Tue, 25 Aug 2026 05:03:46 GMT"
   },
   {
+   "t": "Protestopfer im Iran: \"Sie schossen, um uns zu töten\" - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhFZ28tNmV6TVNQbE5DYVpjdVk2VG1XYUgxSU45LXpGWnhTdzA3bm9abXdabUtRYnFFc3R4VnRZOHJ2OUZRWklrWVpNQTRObDNYRGVSZnZUSFMtTTRiSi1mUnduUi1vTEtaci1wNEtLWHo3TjRGWXZiTEU4Ym9xa01qNWw2dlo3Uy1YcGU4M2_SAZABQVVfeXFMTjFmZEFrVGE4cHpZWmkxbXJyOWJnVFBnZUJHQVZ1TGNjcmJoQnJCQ0Jfb0kyX2ZtY0Q2VkFGM1ZxeHR3SjRGcm5hbmdzVXJhdGVDR2U1bE5ocXpCN1RmQXNSX1VLc2FYMk5rYnVycEFscnplYWZFbElGdF9oVi0wWkVKV1pXQlRoZzRONy1PM3NC?oc=5",
+   "pub": "Tue, 25 Aug 2026 16:18:39 GMT"
+  },
+  {
    "t": "YenDrain: The price of Japan's capital outflows - DWS Asset Management",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYThUWkRydTVNWDRtRXRwVmJ6YVNYT19jTm50NkI2VDZWTUhCWUJNa3RvVWF5bFJWcmdiaUR6d3Z2MWk2M095RGxVY1dsRkJER04wYVpPTmduaHBtV1JCMEtGcTE0RlBER2FERHBFR3dheUdrNjRmTm1sWGNOc2xyLXdHR0pTRWhiNkxXTElFY1Z4UEtINjFSLTI4MmM3OGwzcUFwY3VB?oc=5",
    "pub": "Tue, 25 Aug 2026 14:50:28 GMT"
+  },
+  {
+   "t": "USA sprechen von „Endphase“: Gewinnt Trump den Iran-Krieg jetzt doch? - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDUzN2FJUy1sMTcwZGdDcjFEdVZpQ29vYkxJbHVMcXZKRHFkQ1J0TmFDUi1PYVZZdGRMWFBxWXd5VU9meEtsY01tVjNiS0F4UDJoX1EtdnZJdlFoR29TX3VJRDROTHNzTlRsMkNvOFBUa1l6S0JSaDNUUVpTSmlVWk1DNnczV00zXzl6RlFhemFINTh1dXZvbnkzQk1KUDRMdmVhOFhWMHJuMG13R3FSSWlPMzQydnc0WW94S3pXVjFfNUxKZmNyalZsSDNubjg2eUI2UlRYTVIyZHNSV3Ew?oc=5",
+   "pub": "Tue, 25 Aug 2026 16:01:41 GMT"
   },
   {
    "t": "Ölpreise weiter unter Druck: Keine konkreten US-Maßnahmen gegen Iran - finanzen.net",
@@ -92,21 +107,6 @@
    "t": "++ Info-Date am Morgen, 25.08.26: USA neue Sanktionen Iran ++ - SWR",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnZEVkV1b09QR0Z6NFEyeWo3R0xzNERSLThQd0ptdGJtczFrMDc0bFFGQm5JWXctRXllY1BIZTNYZ3ZFWlZlejY0M3F1dF85ZDd2UlJLOWNEUjhmREQzdEhWelVmWThoWTlnZ19RWVpuMkZsTWdVaXdJUnR4WkRsUGdiNlEybmk4bkZQOXRBdUFuNlJXdENmX3hGTndLcXJ6UXFmN2g1dW1BVEJHMTVadERSdEV5ZXpmM2F1dl9KU09YaVk?oc=5",
    "pub": "Tue, 25 Aug 2026 04:39:54 GMT"
-  },
-  {
-   "t": "Iran-Krieg – USA wollen Teheran mit neuen Sanktionen in die Knie zwingen - nd-aktuell.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNENOVjM1WE5RWURMM1BUSDNkWDB4YUJHVWxqa0tCWGRRSUNQTlU1ZjViaF9RUnlvN2F0c3NkU3MxaHM2SC1LWk9fX21rRng1MU5Rby13TS1RZjZuMnFRNzR0a3h4ZnpYd2JNbmFjQ1BiV1lrbG5rY0hfRlFKVThVQ2k4UVdZRlU1UXA2UEk0U2QwNHNaR0lvWGRWR2phd3RDRS0xaVFqVlpXMHRGRG1Xa2VDZ1BPQVN1?oc=5",
-   "pub": "Tue, 25 Aug 2026 05:42:25 GMT"
-  },
-  {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Tue, 25 Aug 2026 10:39:14 GMT"
-  },
-  {
-   "t": "US-Sanktionen gegen Partner des Iran: China will seine Interessen schützen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ24weTJPNFpZWEF6QkpJVDZMczhOLU92RmJ2SkkybGxINzRqbVVCUHFfdXRPSjVQOEg2WnI3V1IyRzZkd1FwS2tfdGhTQWt6VzFLckFDWElaSVZaQWpDYVBaSzJKQjRzZ2s0eHJzaXgwTVZ3VUU4NGxSNTdQZEVxUzJKc2ZTYWtnRGxxNkZRcXlEQ0JBXzB5a2hGZlZRWFFMU3hUME9UR1otMkQ2RXp4RnpUcmN4QQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 12:38:11 GMT"
   }
  ]
 }
