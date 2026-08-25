@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-25T10:50:34Z",
+ "collected_at": "2026-08-25T11:44:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,44 +7,44 @@
    "chg1d_pct": 0.27
   },
   "USDJPY": {
-   "price": 159.279,
-   "chg1d_pct": 0.24
+   "price": 159.294,
+   "chg1d_pct": 0.25
   },
   "GBPCAD": {
-   "price": 1.8895,
-   "chg1d_pct": 0.35
+   "price": 1.888,
+   "chg1d_pct": 0.27
   },
   "AUDJPY": {
-   "price": 113.915,
-   "chg1d_pct": -0.03
+   "price": 113.962,
+   "chg1d_pct": 0.01
   },
   "EURUSD": {
-   "price": 1.1665,
-   "chg1d_pct": -0.14
+   "price": 1.1663,
+   "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.0947,
-   "chg1d_pct": 0.14
+   "price": 1.094,
+   "chg1d_pct": 0.08
   },
   "WTI": {
-   "price": 82.31,
-   "chg1d_pct": -3.18
+   "price": 82.35,
+   "chg1d_pct": -3.13
   },
   "BRENT": {
-   "price": 87.94,
-   "chg1d_pct": -4.59
+   "price": 88.07,
+   "chg1d_pct": -4.45
   },
   "GOLD": {
-   "price": 4694.6,
-   "chg1d_pct": 1.16
+   "price": 4699.1,
+   "chg1d_pct": 1.26
   },
   "SPX_FUT": {
-   "price": 7703.0,
-   "chg1d_pct": 0.43
+   "price": 7698.75,
+   "chg1d_pct": 0.38
   },
   "NAS_FUT": {
-   "price": 29365.0,
-   "chg1d_pct": 0.89
+   "price": 29345.0,
+   "chg1d_pct": 0.82
   }
  },
  "headlines": [
@@ -74,6 +74,11 @@
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
   },
   {
+   "t": "USA verschärfen ihre Sanktionen gegen Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tOW9vTFJYcVNRTm10UUozMXNDUGEtYk9raGZWQ25EcGtIZHBoLUdKaXc4UXZOZFYwbWo5UHRvSGxGZHRoMkV3OXQ0NGFRNDVWUVE2ZVhJbnVzTHJHemdN?oc=5",
+   "pub": "Mon, 24 Aug 2026 22:36:01 GMT"
+  },
+  {
    "t": "++ Info-Date am Morgen, 25.08.26: USA neue Sanktionen Iran ++ - SWR",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVnZEVkV1b09QR0Z6NFEyeWo3R0xzNERSLThQd0ptdGJtczFrMDc0bFFGQm5JWXctRXllY1BIZTNYZ3ZFWlZlejY0M3F1dF85ZDd2UlJLOWNEUjhmREQzdEhWelVmWThoWTlnZ19RWVpuMkZsTWdVaXdJUnR4WkRsUGdiNlEybmk4bkZQOXRBdUFuNlJXdENmX3hGTndLcXJ6UXFmN2g1dW1BVEJHMTVadERSdEV5ZXpmM2F1dl9KU09YaVk?oc=5",
    "pub": "Tue, 25 Aug 2026 04:39:54 GMT"
@@ -89,24 +94,19 @@
    "pub": "Tue, 25 Aug 2026 10:04:00 GMT"
   },
   {
-   "t": "USA verschärfen Iran-Sanktionen: Folgen für Handel und Trump - SRF",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMG0zejBod1RaZGN1YjE4WnFDNEhYREF1LW1OMGVubU1hbW45eWVyMUJSNmxaMUMyTTM4ejhOMmV6bzdKbV9pNnliQlU2c1kxM0pkWlk4bE85LUFIR2wyQUVMRjlXS1d3WDZpbTdJdzNCalFfUzBEanZ2Vmd6Wi1qWnNxS0FXUVFKcHZxSlJUcjFvQjljRDJHRXBjM2lNZWtKMkd2cWhRaW1uNXNTWnZlMHd2a19hanZJQV9jRzZEYTBYZnhW?oc=5",
-   "pub": "Tue, 25 Aug 2026 04:04:55 GMT"
-  },
-  {
-   "t": "Neue US-Sanktionen gegen Iran: Folgen für Europas Unternehmen - Euronews.com",
+   "t": "Neue US-Sanktionen gegen Iran: Folgen für Europas Unternehmen - Euronews",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjlvRWEwTVNFLUo1aVJUNjhjUFdwOFA4cVFLTXFlVjM0dmdVNUs2ZjV4TkJhVXdXTV9OZ3hlVVBQalBXSFdRUjJKZUdKaVVSS214UFZNOUhCakZ4WURGSzl1cE9WUzVPZUVPcHNnYmpOdzR0LURFdXpNVDRhdmplamVPQ2dxVDA0Y0hyNTJTOVlFMk8xeFNteTdlOUo4ZjcxSzI5V01Naw?oc=5",
    "pub": "Tue, 25 Aug 2026 09:32:43 GMT"
+  },
+  {
+   "t": "Ölpreise weiter unter Druck: Keine konkreten US-Maßnahmen gegen Iran - finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONG5RcmRjWTRvQlRNOWtYTmxodGE0c2xHamNhLURSdkcyWWFuMnQtMVkzNlhiYlJydlRNLXI3QzFxbmd2M0lDOC1tTE1HN2Z1N25jSUtORkJfZkV2eGc4NVVzUFViNHRsbGl5em4yUGxFS2ZqVXh5ZkU5eUtELVZNVDVFOGptMGFUaHFSWUMxV2pTay1DS3p0czZZVVhWdUhaWDB1S3hETGVoMk5hZDRIMzA1SW5MTExNcjFwbkRoU0hqcDVsTTdBLU13cTNUZHlpTUNaTW52ZEwxWTdXLVYyazMxTQ?oc=5",
+   "pub": "Tue, 25 Aug 2026 06:43:20 GMT"
   },
   {
    "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
    "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
-  },
-  {
-   "t": "Ukraine-Krieg und Iran - Bundesaußenminister Wadephul telefoniert mit Amtskollege Rubio - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmFSbC0tRVZ0cTM4dks2RjFFbThOU2ZlSXNlY1hnak9XVXIwSXBYOTBnamZhc0VPVlZZdzBGRklzVnhOOEhPWHdqeFFmYWo4TEM3QVc5eFkwNGJ2aEkydWV1aU9DcWV1a1N0c25kcmtBUlhYcHFnTU5tY1JMVy01S2J1LW4yWUo2RjZ1MUpZeDNJSWgtMmh6UHFCZ3h2MWk3M1JRV0tR?oc=5",
-   "pub": "Tue, 25 Aug 2026 01:00:00 GMT"
   }
  ]
 }
