@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T13:12:04Z",
+ "collected_at": "2026-08-25T14:04:49Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8019,
-   "chg1d_pct": 0.16
+   "price": 0.8026,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 159.169,
-   "chg1d_pct": 0.17
+   "price": 159.28,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8898,
-   "chg1d_pct": 0.36
+   "price": 1.8867,
+   "chg1d_pct": 0.2
   },
   "AUDJPY": {
-   "price": 113.98,
-   "chg1d_pct": 0.03
+   "price": 113.974,
+   "chg1d_pct": 0.02
   },
   "EURUSD": {
-   "price": 1.1675,
-   "chg1d_pct": -0.06
+   "price": 1.1673,
+   "chg1d_pct": -0.07
   },
   "GBPCHF": {
    "price": 1.0946,
    "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 82.27,
-   "chg1d_pct": -3.22
+   "price": 82.3,
+   "chg1d_pct": -3.19
   },
   "BRENT": {
-   "price": 87.85,
-   "chg1d_pct": -4.69
+   "price": 87.88,
+   "chg1d_pct": -4.65
   },
   "GOLD": {
-   "price": 4687.9,
-   "chg1d_pct": 1.01
+   "price": 4665.3,
+   "chg1d_pct": 0.53
   },
   "SPX_FUT": {
-   "price": 7697.0,
-   "chg1d_pct": 0.36
+   "price": 7694.0,
+   "chg1d_pct": 0.32
   },
   "NAS_FUT": {
-   "price": 29321.5,
-   "chg1d_pct": 0.74
+   "price": 29349.5,
+   "chg1d_pct": 0.84
   }
  },
  "headlines": [
@@ -64,24 +64,19 @@
    "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
   },
   {
+   "t": "Iran soll Kopfgeld auf Barron Trump ausgesetzt haben - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElPcGE5bVRaOGluQXFnTTZJTi10ZGRDVmFiZFo4QUI3VnY3elREcmF6VjFyekZNMXJtOEZ6dVlXNDBWb3JJZmd2YThCdWNEVjhoX3FmZTF4VGpvQURhekJvWl81Z2QxbEVVTThwMkdiODBoN2hoRkRDTGhKd2RWbnF2SFZnOU5fU2F6VDloTmEwUkNqRWRmRVVFcjZxUQ?oc=5",
+   "pub": "Tue, 25 Aug 2026 10:04:00 GMT"
+  },
+  {
    "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDRvcDZvYmx1THhPUmg4YnhIc2dKMTlMNVFOa1YzdWxYRHkycldCS2lRZmVrOUpaZVhjekFYVEpuLUlSdFIwd2V4RVZVQTZUTzdpbWdfTGlRX1NMQmxJT3pnR2h2M3lVNFNTWC1SdFJEUElOMks1Ry1ZVmpIMWZrbWNYRkt5cHNOTGxGbkJPUVdxa3JrTGRGaWxOa2hITWts?oc=5",
    "pub": "Tue, 25 Aug 2026 05:03:46 GMT"
   },
   {
-   "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
-   "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
-  },
-  {
    "t": "USA verschärfen ihre Sanktionen gegen Iran - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tOW9vTFJYcVNRTm10UUozMXNDUGEtYk9raGZWQ25EcGtIZHBoLUdKaXc4UXZOZFYwbWo5UHRvSGxGZHRoMkV3OXQ0NGFRNDVWUVE2ZVhJbnVzTHJHemdN?oc=5",
    "pub": "Mon, 24 Aug 2026 22:36:01 GMT"
-  },
-  {
-   "t": "Iran setzt Kopfgeld auf Trump-Sohn Barron aus - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1UwQTBBeUktcFkxdUFnYWRiSkJ6QldRQjVpVm5FZjViZnk1NlJJTTFpTHJveE9IY3N1XzZ0VS02ZTVyY3JXZGxHdmw0Q3lOQmlfRnUwSFVzVkJ4QWtPVXEtaGlpczZnb3NOS3B2TFZ4Y080YXY3RkQ1TzZKSFc4Q1l1WDdFNFc2MzBOaU1fcHNabmxKTGgzcGwxVzhIdmZLdDZDMFYxdEltaF9Qd3BiWVVOLUZkT2pBQUVBZm5VMS1ZMVRBSTVPeEd4VWJKWFN1UlBhNWd3Z2pGel92UEV1b1BR?oc=5",
-   "pub": "Tue, 25 Aug 2026 05:45:00 GMT"
   },
   {
    "t": "Ölpreise weiter unter Druck: Keine konkreten US-Maßnahmen gegen Iran - finanzen.net",
@@ -99,14 +94,19 @@
    "pub": "Tue, 25 Aug 2026 04:39:54 GMT"
   },
   {
-   "t": "Iran soll Kopfgeld auf Barron Trump ausgesetzt haben - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElPcGE5bVRaOGluQXFnTTZJTi10ZGRDVmFiZFo4QUI3VnY3elREcmF6VjFyekZNMXJtOEZ6dVlXNDBWb3JJZmd2YThCdWNEVjhoX3FmZTF4VGpvQURhekJvWl81Z2QxbEVVTThwMkdiODBoN2hoRkRDTGhKd2RWbnF2SFZnOU5fU2F6VDloTmEwUkNqRWRmRVVFcjZxUQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 10:04:00 GMT"
+   "t": "Neue US-Sanktionen gegen Iran: Folgen für Europas Unternehmen - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjlvRWEwTVNFLUo1aVJUNjhjUFdwOFA4cVFLTXFlVjM0dmdVNUs2ZjV4TkJhVXdXTV9OZ3hlVVBQalBXSFdRUjJKZUdKaVVSS214UFZNOUhCakZ4WURGSzl1cE9WUzVPZUVPcHNnYmpOdzR0LURFdXpNVDRhdmplamVPQ2dxVDA0Y0hyNTJTOVlFMk8xeFNteTdlOUo4ZjcxSzI5V01Naw?oc=5",
+   "pub": "Tue, 25 Aug 2026 09:32:43 GMT"
   },
   {
-   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Tue, 25 Aug 2026 10:39:14 GMT"
+  },
+  {
+   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
+   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   }
  ]
 }
