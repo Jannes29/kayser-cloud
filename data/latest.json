@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T18:58:07Z",
+ "collected_at": "2026-08-25T19:46:47Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8019,
-   "chg1d_pct": 0.16
+   "price": 0.8018,
+   "chg1d_pct": 0.15
   },
   "USDJPY": {
-   "price": 159.226,
-   "chg1d_pct": 0.2
+   "price": 159.187,
+   "chg1d_pct": 0.18
   },
   "GBPCAD": {
-   "price": 1.8869,
-   "chg1d_pct": 0.21
+   "price": 1.8872,
+   "chg1d_pct": 0.23
   },
   "AUDJPY": {
-   "price": 113.998,
+   "price": 113.994,
    "chg1d_pct": 0.04
   },
   "EURUSD": {
-   "price": 1.1677,
-   "chg1d_pct": -0.04
+   "price": 1.1674,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.0942,
-   "chg1d_pct": 0.1
+   "price": 1.0941,
+   "chg1d_pct": 0.09
   },
   "WTI": {
-   "price": 82.34,
-   "chg1d_pct": -3.14
+   "price": 82.07,
+   "chg1d_pct": -3.46
   },
   "BRENT": {
-   "price": 87.22,
-   "chg1d_pct": -5.37
+   "price": 87.0,
+   "chg1d_pct": -5.61
   },
   "GOLD": {
-   "price": 4708.2,
-   "chg1d_pct": 1.45
+   "price": 4715.4,
+   "chg1d_pct": 1.61
   },
   "SPX_FUT": {
-   "price": 7690.75,
-   "chg1d_pct": 0.27
+   "price": 7685.25,
+   "chg1d_pct": 0.2
   },
   "NAS_FUT": {
-   "price": 29268.5,
-   "chg1d_pct": 0.56
+   "price": 29237.5,
+   "chg1d_pct": 0.45
   }
  },
  "headlines": [
@@ -69,6 +69,11 @@
    "pub": "Tue, 25 Aug 2026 16:18:39 GMT"
   },
   {
+   "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
+   "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
+  },
+  {
    "t": "US-Sanktionen gegen den Iran: Iransanktionen der USA verschärfen Spannungen mit China - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3hqZXdFcjM5RGpqV1VESHE5V3FkRi1XWjdpVVBPZFFQcFpRMldKVEJrMlpNd3A4ZlZhY2NkdG5kVk42RVQzUzRoLUNPMHpDSjVBbDlCTDNUekVxeFZRWjMtWHBpTC0zTlg5Tm5GOEx5TzhFcUVLOFV4QmZGT2szZ19CQTJQVi1PWDIw?oc=5",
    "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
@@ -82,11 +87,6 @@
    "t": "Iran-Sanktionen – Trump-Regierung kündigt »wirtschaftlichen D-Day« für Iran an - nd-aktuell.de",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN25EVEE3TXJHYjN0LUQzZTd4aVBWWTZLVlZWcHN6NWQzOEJpclF1VE1QU0tROVB1eWhTMFRGb0s0ZTF4c0E3NGp4N2lVMUdLdEt2NkpORzhfNElFcTcyb0NqN1hUb1Ffd004dDZJSEd3amFOcm5BVkFMSTFHckFELUdRWGpnT0FRaW85OV9ZVzVzYlN6a3JIVmJ4Ulp0Q3daQlA3N1RTaDE1UEhaWXBkWnl3SFc5Z3AzWUJpMHVLM2U?oc=5",
    "pub": "Tue, 25 Aug 2026 13:53:02 GMT"
-  },
-  {
-   "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
-   "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
   },
   {
    "t": "YenDrain: The price of Japan's capital outflows - DWS Asset Management",
@@ -104,9 +104,9 @@
    "pub": "Tue, 25 Aug 2026 16:01:41 GMT"
   },
   {
-   "t": "Statt Krieg? US-Regierung will Iran wirtschaftlich komplett isolieren - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0s5d2w1M1RRY2hzQXVjRXEzSnE0TGF4NE9yUjhBTjJHaWdVTURhTTlPLWdSRVROdHpUcTF3REIyUWQyUjBJdzg0aXl3LTZQV21iem4zV3FpTU5WTmROU1hyMXpRQ3MyTC1fNVh4YlFtVDM0LVVub1Y2bGRtTUl6WU9DdjhtZnpQRGdWSQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 17:50:34 GMT"
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Tue, 25 Aug 2026 10:39:14 GMT"
   }
  ]
 }
