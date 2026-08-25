@@ -1,62 +1,62 @@
 {
- "collected_at": "2026-08-25T20:47:07Z",
+ "collected_at": "2026-08-25T21:44:53Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8014,
-   "chg1d_pct": -0.07
+   "price": 0.801,
+   "chg1d_pct": -0.12
   },
   "USDJPY": {
-   "price": 159.188,
-   "chg1d_pct": 0.03
+   "price": 159.198,
+   "chg1d_pct": 0.04
   },
   "GBPCAD": {
-   "price": 1.8886,
-   "chg1d_pct": 0.06
+   "price": 1.8866,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 114.048,
-   "chg1d_pct": 0.17
+   "price": 113.923,
+   "chg1d_pct": 0.06
   },
   "EURUSD": {
-   "price": 1.1678,
-   "chg1d_pct": 0.08
+   "price": 1.168,
+   "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0937,
-   "chg1d_pct": -0.0
+   "price": 1.093,
+   "chg1d_pct": -0.06
   },
   "WTI": {
-   "price": 80.74,
-   "chg1d_pct": -5.02
+   "price": 81.11,
+   "chg1d_pct": -4.59
   },
   "BRENT": {
-   "price": 85.48,
-   "chg1d_pct": -7.26
+   "price": 85.86,
+   "chg1d_pct": -6.85
   },
   "GOLD": {
-   "price": 4718.9,
-   "chg1d_pct": 1.68
+   "price": 4715.9,
+   "chg1d_pct": 1.62
   },
   "SPX_FUT": {
-   "price": 7694.0,
-   "chg1d_pct": 0.32
+   "price": 7690.75,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 29301.0,
-   "chg1d_pct": 0.67
+   "price": 29287.5,
+   "chg1d_pct": 0.62
   }
  },
  "headlines": [
   {
+   "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SRTFQdUNucjM4TlpNZVdEVV8yYlhsSFRKMnAtTkhQSFRhNUQ0N2FNOFBfUlZMZGVqdlA1RnVlNjVDNkJGX3JZLUFTTGZhTU1adExZWDlaM292QUZja2VIT2ZaQnl2VDQ?oc=5",
+   "pub": "Tue, 25 Aug 2026 20:59:10 GMT"
+  },
+  {
    "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
    "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
-  },
-  {
-   "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NmtjeW5mWEV3TG5NeV9GUC1WUTNPemJmZUdqOC1FNjRMYjFDNFBzLTFIRkhhcVFodWJZMlZZREY0VmZrUFNGeGtHRS1sc1NxT2RDOTJXampVZWttVHc0?oc=5",
-   "pub": "Tue, 25 Aug 2026 12:15:01 GMT"
   },
   {
    "t": "Iran: „Plötzlich gab es einen lauten Knall, und ich fiel zu Boden“ - WELT",
@@ -99,14 +99,14 @@
    "pub": "Tue, 25 Aug 2026 17:50:34 GMT"
   },
   {
-   "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVZJVUFXbnR3aURUaHdvcVhWOHYtOVRzR25PaFFBVDcwX192RDVfRWg0aXVmQU83RkJ1Z0FjbmZJYVpjXzJCeGNpTWxmY2cxeG51YUMyWXNuZE9xb3JjUnVNZE0xdXZjMGRKZ2tidEhNZlYwc2lJVkp3Vmtraml5dHJFaFNJZEpYUjRkZUFUcHRiaFhxbk5iYzctMkhGa2ZS?oc=5",
-   "pub": "Tue, 25 Aug 2026 17:00:00 GMT"
-  },
-  {
    "t": "YenDrain: The price of Japan's capital outflows - DWS Asset Management",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYThUWkRydTVNWDRtRXRwVmJ6YVNYT19jTm50NkI2VDZWTUhCWUJNa3RvVWF5bFJWcmdiaUR6d3Z2MWk2M095RGxVY1dsRkJER04wYVpPTmduaHBtV1JCMEtGcTE0RlBER2FERHBFR3dheUdrNjRmTm1sWGNOc2xyLXdHR0pTRWhiNkxXTElFY1Z4UEtINjFSLTI4MmM3OGwzcUFwY3VB?oc=5",
    "pub": "Tue, 25 Aug 2026 14:50:28 GMT"
+  },
+  {
+   "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVZJVUFXbnR3aURUaHdvcVhWOHYtOVRzR25PaFFBVDcwX192RDVfRWg0aXVmQU83RkJ1Z0FjbmZJYVpjXzJCeGNpTWxmY2cxeG51YUMyWXNuZE9xb3JjUnVNZE0xdXZjMGRKZ2tidEhNZlYwc2lJVkp3Vmtraml5dHJFaFNJZEpYUjRkZUFUcHRiaFhxbk5iYzctMkhGa2ZS?oc=5",
+   "pub": "Tue, 25 Aug 2026 17:00:00 GMT"
   }
  ]
 }
