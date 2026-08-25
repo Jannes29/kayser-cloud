@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-24T23:37:10Z",
+ "collected_at": "2026-08-25T01:53:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8023,
-   "chg1d_pct": 0.21
+   "price": 0.8031,
+   "chg1d_pct": 0.31
   },
   "USDJPY": {
-   "price": 159.128,
-   "chg1d_pct": 0.14
+   "price": 159.235,
+   "chg1d_pct": 0.21
   },
   "GBPCAD": {
-   "price": 1.8874,
-   "chg1d_pct": 0.24
+   "price": 1.8882,
+   "chg1d_pct": 0.28
   },
   "AUDJPY": {
-   "price": 113.783,
-   "chg1d_pct": -0.15
+   "price": 113.919,
+   "chg1d_pct": -0.03
   },
   "EURUSD": {
-   "price": 1.1669,
-   "chg1d_pct": -0.11
+   "price": 1.1667,
+   "chg1d_pct": -0.12
   },
   "GBPCHF": {
-   "price": 1.0939,
-   "chg1d_pct": 0.07
+   "price": 1.0949,
+   "chg1d_pct": 0.16
   },
   "WTI": {
-   "price": 85.18,
-   "chg1d_pct": -2.16
+   "price": 85.32,
+   "chg1d_pct": -2.0
   },
   "BRENT": {
-   "price": 92.13,
-   "chg1d_pct": -2.39
+   "price": 92.25,
+   "chg1d_pct": -2.27
   },
   "GOLD": {
-   "price": 4728.5,
-   "chg1d_pct": 2.26
+   "price": 4729.0,
+   "chg1d_pct": 2.27
   },
   "SPX_FUT": {
-   "price": 7673.75,
+   "price": 7673.5,
    "chg1d_pct": -0.23
   },
   "NAS_FUT": {
-   "price": 29113.25,
-   "chg1d_pct": -0.93
+   "price": 29127.25,
+   "chg1d_pct": -0.89
   }
  },
  "headlines": [
@@ -52,11 +52,6 @@
    "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
-  },
-  {
-   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
-   "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
   {
    "t": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden - DIE ZEIT",
@@ -69,19 +64,24 @@
    "pub": "Mon, 24 Aug 2026 14:22:00 GMT"
   },
   {
+   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
+   "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
+  },
+  {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
    "pub": "Mon, 24 Aug 2026 22:24:37 GMT"
   },
   {
+   "t": "Irankrieg: USA reden von wirtschaftlichem »D-Day« gegen Iran – doch was ist mit China? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
+   "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
+  },
+  {
    "t": "US-News: Iran setzt Kopfgeld auf Trump-Sohn Barron aus - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaUNSQkR4ZHVWR1VCajlfTXZhMDRwbnlNVDNzZTZRRm51bi1uc2FVQTBlMUZrblVxalF6OXRuQ3EtZnpqZjI5MC1XNDJTbGl1LU10aG0xbUFOak9CLUp4Vjg5N045N3dHaU9rUWh1amxmb0hFZjJweFFUa3FWOWwxTTNqb2NwYnJFUjRHb3BTUjRQZFFzRnBuMTZYNlkyM0t2V3hGamthOUNTOTdhWlFtSnM3RjEwdkZmcjNjUXJudHRMSGJvQXdjeVlkNUxJWWVTcTJtVA?oc=5",
    "pub": "Mon, 24 Aug 2026 19:04:00 GMT"
-  },
-  {
-   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   },
   {
    "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
@@ -94,19 +94,19 @@
    "pub": "Mon, 24 Aug 2026 19:13:42 GMT"
   },
   {
-   "t": "Menschenrechtsaktivistin: Christentum wird im Iran populärer - Katholisch.de",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOak1mWGVWLUQtd3NReHdmU1Bub0NIaXlSbk9mcVczVzhrUG0ydTI5TUlGWUdqVEctTXBVMTJpNWdtcEhxX1VQc1FPckVWbzA5WllTRHZWLXBOWjFUZ1ptaC1aR1pSUUEtRXBFWGlWQTRnWmpOSXZvZFV5dHhzWjRDak1mbURDMDB4STVHMk9XRGFpYV83VlludGNLQWpXRWFUelE?oc=5",
-   "pub": "Mon, 24 Aug 2026 16:49:00 GMT"
-  },
-  {
    "t": "Das offene Fenster - IPG Journal",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmpVMFE0aGJfbXZLTVRES2tEV0hta1AzaGpGSDkzWTRIV0ptNUFSSmd3WnRudVg3Z1BIaFpENW9meGl4SlZ2b1U5N1lobWJNVC1NQWxFdGNoS1BsYnBzTktfSzJHZnpvcGFCQ1pQTW5KckREczVWbGkza3diNktzanMzVDBQLUk?oc=5",
    "pub": "Mon, 24 Aug 2026 14:45:46 GMT"
   },
   {
-   "t": "USA wollen Einnahmequellen des Irans trockenlegen +++ Teheran droht mit Gegenmaßnahmen - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUVXM241aFlQUkZMWERqMWhpSGVscmZRSXdVa2lKOGkxV3lneGJQNlRFbV9yTkV3cDk2S0NWa2lkaGRqcktQV0I2U2E4NTN0TVZiMm9xRVE4WGdxSVdyR3RqTUlKS2t2M3pYN2ZLNUpHa2Nmd0pfN3BnX2pGMkJ1Q3RuNjJmUTRoUnZQV2toNGpMU3hnMXJkaWxnRWVxY2Q5MTcwbWRSdG9JM2pvWlh6ZkpZVGZsMkJkLXBBYlNSSFZkTTZlSjJ0ZGNPOVN6Z00?oc=5",
-   "pub": "Mon, 24 Aug 2026 17:59:25 GMT"
+   "t": "Krieg mit dem Iran - US-Finanzminister Bessent droht Teheran erneut mit Wirtschaftssanktionen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmhTN1ZhUFF3b2VtZmwzYUpGbUpQWUZLUDFJc3dyc1pkSXhXbk5LUGoyOFNqWFJZWFRvd19BZ0IyQllqQXYtckNsdGU5ajBkdHRaRVNONmFYN3RYLU5fckhTS19OX2p2LXVyVzFBc2dLQVBjdHUtUzVfeWNXS1hjbUpBSV96YUlrbHg1eW1McF9Nb1ZFUWlzYVdVTjF1RzhOalljOWx4QXNvRC12QjZRV2Fn?oc=5",
+   "pub": "Mon, 24 Aug 2026 22:00:00 GMT"
+  },
+  {
+   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
+   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   }
  ]
 }
