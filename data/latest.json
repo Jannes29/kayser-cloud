@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-25T14:04:49Z",
+ "collected_at": "2026-08-25T15:06:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8026,
-   "chg1d_pct": 0.25
+   "price": 0.8029,
+   "chg1d_pct": 0.28
   },
   "USDJPY": {
-   "price": 159.28,
-   "chg1d_pct": 0.24
+   "price": 159.273,
+   "chg1d_pct": 0.23
   },
   "GBPCAD": {
    "price": 1.8867,
    "chg1d_pct": 0.2
   },
   "AUDJPY": {
-   "price": 113.974,
-   "chg1d_pct": 0.02
+   "price": 113.952,
+   "chg1d_pct": 0.0
   },
   "EURUSD": {
-   "price": 1.1673,
-   "chg1d_pct": -0.07
+   "price": 1.1671,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0946,
-   "chg1d_pct": 0.14
+   "price": 1.0944,
+   "chg1d_pct": 0.12
   },
   "WTI": {
-   "price": 82.3,
-   "chg1d_pct": -3.19
+   "price": 82.37,
+   "chg1d_pct": -3.11
   },
   "BRENT": {
-   "price": 87.88,
-   "chg1d_pct": -4.65
+   "price": 87.84,
+   "chg1d_pct": -4.7
   },
   "GOLD": {
-   "price": 4665.3,
-   "chg1d_pct": 0.53
+   "price": 4690.3,
+   "chg1d_pct": 1.07
   },
   "SPX_FUT": {
-   "price": 7694.0,
-   "chg1d_pct": 0.32
+   "price": 7679.0,
+   "chg1d_pct": 0.12
   },
   "NAS_FUT": {
-   "price": 29349.5,
-   "chg1d_pct": 0.84
+   "price": 29237.0,
+   "chg1d_pct": 0.45
   }
  },
  "headlines": [
+  {
+   "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NmtjeW5mWEV3TG5NeV9GUC1WUTNPemJmZUdqOC1FNjRMYjFDNFBzLTFIRkhhcVFodWJZMlZZREY0VmZrUFNGeGtHRS1sc1NxT2RDOTJXampVZWttVHc0?oc=5",
+   "pub": "Tue, 25 Aug 2026 12:15:01 GMT"
+  },
   {
    "t": "Iran: „Plötzlich gab es einen lauten Knall, und ich fiel zu Boden“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSzlnMUFkbUlvTjRkUjBRX0ZRZW9aRmo4dk1qYnNRNUkzUm5LZzVXa0tkMGpnOEczVXBjVjlzVWVmWGFBalVtYk9uU2Z6cno0Z1BoNFoxQXNRRFVDTldOdGNMY3g5UUVtSVRfc1lwU0lnaTNWUkY4RzNuUDVsclo3MVJZUWx0M0VpZHRUVnA3ZXV5NWctY0JtZTM1REZ5QjZ1Rm13Z0s1Z0JPd1R0YU9xNVcyWjA2WU0tWFhlblJkMXFIb0VkM3h1TUw2d3RQUQ?oc=5",
@@ -74,19 +79,14 @@
    "pub": "Tue, 25 Aug 2026 05:03:46 GMT"
   },
   {
-   "t": "USA verschärfen ihre Sanktionen gegen Iran - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tOW9vTFJYcVNRTm10UUozMXNDUGEtYk9raGZWQ25EcGtIZHBoLUdKaXc4UXZOZFYwbWo5UHRvSGxGZHRoMkV3OXQ0NGFRNDVWUVE2ZVhJbnVzTHJHemdN?oc=5",
-   "pub": "Mon, 24 Aug 2026 22:36:01 GMT"
+   "t": "YenDrain: The price of Japan's capital outflows - DWS Asset Management",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYThUWkRydTVNWDRtRXRwVmJ6YVNYT19jTm50NkI2VDZWTUhCWUJNa3RvVWF5bFJWcmdiaUR6d3Z2MWk2M095RGxVY1dsRkJER04wYVpPTmduaHBtV1JCMEtGcTE0RlBER2FERHBFR3dheUdrNjRmTm1sWGNOc2xyLXdHR0pTRWhiNkxXTElFY1Z4UEtINjFSLTI4MmM3OGwzcUFwY3VB?oc=5",
+   "pub": "Tue, 25 Aug 2026 14:50:28 GMT"
   },
   {
    "t": "Ölpreise weiter unter Druck: Keine konkreten US-Maßnahmen gegen Iran - finanzen.net",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONG5RcmRjWTRvQlRNOWtYTmxodGE0c2xHamNhLURSdkcyWWFuMnQtMVkzNlhiYlJydlRNLXI3QzFxbmd2M0lDOC1tTE1HN2Z1N25jSUtORkJfZkV2eGc4NVVzUFViNHRsbGl5em4yUGxFS2ZqVXh5ZkU5eUtELVZNVDVFOGptMGFUaHFSWUMxV2pTay1DS3p0czZZVVhWdUhaWDB1S3hETGVoMk5hZDRIMzA1SW5MTExNcjFwbkRoU0hqcDVsTTdBLU13cTNUZHlpTUNaTW52ZEwxWTdXLVYyazMxTQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 06:43:20 GMT"
-  },
-  {
-   "t": "Iran-Krieg – USA wollen Teheran mit neuen Sanktionen in die Knie zwingen - nd-aktuell.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNENOVjM1WE5RWURMM1BUSDNkWDB4YUJHVWxqa0tCWGRRSUNQTlU1ZjViaF9RUnlvN2F0c3NkU3MxaHM2SC1LWk9fX21rRng1MU5Rby13TS1RZjZuMnFRNzR0a3h4ZnpYd2JNbmFjQ1BiV1lrbG5rY0hfRlFKVThVQ2k4UVdZRlU1UXA2UEk0U2QwNHNaR0lvWGRWR2phd3RDRS0xaVFqVlpXMHRGRG1Xa2VDZ1BPQVN1?oc=5",
-   "pub": "Tue, 25 Aug 2026 05:42:25 GMT"
+   "pub": "Tue, 25 Aug 2026 14:13:15 GMT"
   },
   {
    "t": "++ Info-Date am Morgen, 25.08.26: USA neue Sanktionen Iran ++ - SWR",
@@ -94,19 +94,19 @@
    "pub": "Tue, 25 Aug 2026 04:39:54 GMT"
   },
   {
-   "t": "Neue US-Sanktionen gegen Iran: Folgen für Europas Unternehmen - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjlvRWEwTVNFLUo1aVJUNjhjUFdwOFA4cVFLTXFlVjM0dmdVNUs2ZjV4TkJhVXdXTV9OZ3hlVVBQalBXSFdRUjJKZUdKaVVSS214UFZNOUhCakZ4WURGSzl1cE9WUzVPZUVPcHNnYmpOdzR0LURFdXpNVDRhdmplamVPQ2dxVDA0Y0hyNTJTOVlFMk8xeFNteTdlOUo4ZjcxSzI5V01Naw?oc=5",
-   "pub": "Tue, 25 Aug 2026 09:32:43 GMT"
+   "t": "Iran-Krieg – USA wollen Teheran mit neuen Sanktionen in die Knie zwingen - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNENOVjM1WE5RWURMM1BUSDNkWDB4YUJHVWxqa0tCWGRRSUNQTlU1ZjViaF9RUnlvN2F0c3NkU3MxaHM2SC1LWk9fX21rRng1MU5Rby13TS1RZjZuMnFRNzR0a3h4ZnpYd2JNbmFjQ1BiV1lrbG5rY0hfRlFKVThVQ2k4UVdZRlU1UXA2UEk0U2QwNHNaR0lvWGRWR2phd3RDRS0xaVFqVlpXMHRGRG1Xa2VDZ1BPQVN1?oc=5",
+   "pub": "Tue, 25 Aug 2026 05:42:25 GMT"
+  },
+  {
+   "t": "Irans \"D-Day\"? Warum Trump jetzt auf Wirtschaftskrieg setzt - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3pzdHhBWWFXZU12TjNyLWZobnllTFRSWnN5czA4NEZUYmhlSlNKZk50UXg0b2pkUUpMaV9WaWlSRVZBNDhOOE85S3F0Yl9tM1BxUGF3OVpOR1hDcWU0TWNjTlVlRzR0a3ExNExITTdUcXRTOHJEU0ZjOUNXdUNwME9zQkpDYkVmaTdmR3hEVGR3REx3Q2dn?oc=5",
+   "pub": "Mon, 24 Aug 2026 17:45:00 GMT"
   },
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
    "pub": "Tue, 25 Aug 2026 10:39:14 GMT"
-  },
-  {
-   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   }
  ]
 }
