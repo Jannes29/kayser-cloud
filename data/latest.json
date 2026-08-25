@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T07:59:26Z",
+ "collected_at": "2026-08-25T09:00:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8041,
-   "chg1d_pct": 0.43
+   "price": 0.8027,
+   "chg1d_pct": 0.26
   },
   "USDJPY": {
-   "price": 159.439,
-   "chg1d_pct": 0.34
+   "price": 159.343,
+   "chg1d_pct": 0.28
   },
   "GBPCAD": {
-   "price": 1.8903,
-   "chg1d_pct": 0.39
+   "price": 1.8909,
+   "chg1d_pct": 0.42
   },
   "AUDJPY": {
-   "price": 113.901,
+   "price": 113.905,
    "chg1d_pct": -0.04
   },
   "EURUSD": {
-   "price": 1.1662,
-   "chg1d_pct": -0.17
+   "price": 1.1671,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0966,
-   "chg1d_pct": 0.32
+   "price": 1.0952,
+   "chg1d_pct": 0.19
   },
   "WTI": {
-   "price": 84.46,
-   "chg1d_pct": -0.65
+   "price": 83.33,
+   "chg1d_pct": -1.98
   },
   "BRENT": {
-   "price": 89.91,
-   "chg1d_pct": -2.45
+   "price": 88.91,
+   "chg1d_pct": -3.54
   },
   "GOLD": {
-   "price": 4691.3,
-   "chg1d_pct": 1.09
+   "price": 4683.3,
+   "chg1d_pct": 0.92
   },
   "SPX_FUT": {
-   "price": 7683.0,
-   "chg1d_pct": 0.17
+   "price": 7696.75,
+   "chg1d_pct": 0.35
   },
   "NAS_FUT": {
-   "price": 29237.75,
-   "chg1d_pct": 0.45
+   "price": 29304.5,
+   "chg1d_pct": 0.68
   }
  },
  "headlines": [
@@ -64,14 +64,9 @@
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
   },
   {
-   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
-  },
-  {
-   "t": "Das offene Fenster - IPG Journal",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmpVMFE0aGJfbXZLTVRES2tEV0hta1AzaGpGSDkzWTRIV0ptNUFSSmd3WnRudVg3Z1BIaFpENW9meGl4SlZ2b1U5N1lobWJNVC1NQWxFdGNoS1BsYnBzTktfSzJHZnpvcGFCQ1pQTW5KckREczVWbGkza3diNktzanMzVDBQLUk?oc=5",
-   "pub": "Tue, 25 Aug 2026 06:59:00 GMT"
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Tue, 25 Aug 2026 07:35:02 GMT"
   },
   {
    "t": "++ Info-Date am Morgen, 25.08.26: USA neue Sanktionen Iran ++ - SWR",
@@ -104,9 +99,14 @@
    "pub": "Tue, 25 Aug 2026 04:04:55 GMT"
   },
   {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Tue, 25 Aug 2026 03:27:36 GMT"
+   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
+   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
+  },
+  {
+   "t": "Ukraine-Krieg und Iran - Bundesaußenminister Wadephul telefoniert mit Amtskollege Rubio - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmd1Q0tFaDFZbVBBa3RTSGptSVU2a3Jzd0FId2hKVjJCRUFYd0p6ZDRrRnltNHJWZ3pWNWRfcUhLLXdPbUNtalZkQURMQUpnSDZSdUo3bmI3dWRHRHhmbnFYMENZOUpnbjBSRUhQajZGYUZMRDhVVl9fckhpd1lxUFdBcHkxY1plTEZ2MktkVDEyLWJqb0JXWFFYQ2NpdWxRMGROZUtn?oc=5",
+   "pub": "Tue, 25 Aug 2026 03:00:00 GMT"
   }
  ]
 }
