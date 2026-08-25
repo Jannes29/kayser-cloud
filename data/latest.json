@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T21:44:53Z",
+ "collected_at": "2026-08-25T22:46:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.801,
-   "chg1d_pct": -0.12
+   "price": 0.8012,
+   "chg1d_pct": -0.1
   },
   "USDJPY": {
-   "price": 159.198,
-   "chg1d_pct": 0.04
+   "price": 159.192,
+   "chg1d_pct": 0.03
   },
   "GBPCAD": {
-   "price": 1.8866,
-   "chg1d_pct": -0.05
+   "price": 1.8883,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 113.923,
-   "chg1d_pct": 0.06
+   "price": 114.058,
+   "chg1d_pct": 0.18
   },
   "EURUSD": {
-   "price": 1.168,
-   "chg1d_pct": 0.1
+   "price": 1.1681,
+   "chg1d_pct": 0.11
   },
   "GBPCHF": {
-   "price": 1.093,
-   "chg1d_pct": -0.06
+   "price": 1.0937,
+   "chg1d_pct": -0.0
   },
   "WTI": {
-   "price": 81.11,
-   "chg1d_pct": -4.59
+   "price": 80.97,
+   "chg1d_pct": -4.75
   },
   "BRENT": {
-   "price": 85.86,
-   "chg1d_pct": -6.85
+   "price": 86.15,
+   "chg1d_pct": -6.53
   },
   "GOLD": {
-   "price": 4715.9,
-   "chg1d_pct": 1.62
+   "price": 4726.8,
+   "chg1d_pct": 1.85
   },
   "SPX_FUT": {
-   "price": 7690.75,
-   "chg1d_pct": 0.27
+   "price": 7693.0,
+   "chg1d_pct": 0.3
   },
   "NAS_FUT": {
-   "price": 29287.5,
-   "chg1d_pct": 0.62
+   "price": 29290.0,
+   "chg1d_pct": 0.63
   }
  },
  "headlines": [
@@ -79,9 +79,9 @@
    "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
   },
   {
-   "t": "Iran soll Kopfgeld auf Barron Trump ausgesetzt haben - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElPcGE5bVRaOGluQXFnTTZJTi10ZGRDVmFiZFo4QUI3VnY3elREcmF6VjFyekZNMXJtOEZ6dVlXNDBWb3JJZmd2YThCdWNEVjhoX3FmZTF4VGpvQURhekJvWl81Z2QxbEVVTThwMkdiODBoN2hoRkRDTGhKd2RWbnF2SFZnOU5fU2F6VDloTmEwUkNqRWRmRVVFcjZxUQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 10:04:00 GMT"
+   "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlpM3I2VUY4U3lpVEd0NXM3MmJNdWpieGFIc2RTMmVJNFBfamRwTHpUZW9mUkt0aGdDRTVwMXM2SEE0cjJ4Rl92N3FyZkRWWk9hY2Z5VDNpb3EtWHRobzhzbXFSZmJiX09EYktDbmU4MlBRU2VjWnVGNHFIZ0JsQWd2S1k1ZF9Ic3lvZWxmbGhybk1WRGcwUktsdEtSY01BTUJRTGI3QWM?oc=5",
+   "pub": "Tue, 25 Aug 2026 15:31:00 GMT"
   },
   {
    "t": "Iran verhöhnt Donald Trump mit legendärem Plakat der Band Nirvana - BILD",
@@ -99,14 +99,14 @@
    "pub": "Tue, 25 Aug 2026 17:50:34 GMT"
   },
   {
-   "t": "YenDrain: The price of Japan's capital outflows - DWS Asset Management",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYThUWkRydTVNWDRtRXRwVmJ6YVNYT19jTm50NkI2VDZWTUhCWUJNa3RvVWF5bFJWcmdiaUR6d3Z2MWk2M095RGxVY1dsRkJER04wYVpPTmduaHBtV1JCMEtGcTE0RlBER2FERHBFR3dheUdrNjRmTm1sWGNOc2xyLXdHR0pTRWhiNkxXTElFY1Z4UEtINjFSLTI4MmM3OGwzcUFwY3VB?oc=5",
-   "pub": "Tue, 25 Aug 2026 14:50:28 GMT"
-  },
-  {
    "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVZJVUFXbnR3aURUaHdvcVhWOHYtOVRzR25PaFFBVDcwX192RDVfRWg0aXVmQU83RkJ1Z0FjbmZJYVpjXzJCeGNpTWxmY2cxeG51YUMyWXNuZE9xb3JjUnVNZE0xdXZjMGRKZ2tidEhNZlYwc2lJVkp3Vmtraml5dHJFaFNJZEpYUjRkZUFUcHRiaFhxbk5iYzctMkhGa2ZS?oc=5",
    "pub": "Tue, 25 Aug 2026 17:00:00 GMT"
+  },
+  {
+   "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NmtjeW5mWEV3TG5NeV9GUC1WUTNPemJmZUdqOC1FNjRMYjFDNFBzLTFIRkhhcVFodWJZMlZZREY0VmZrUFNGeGtHRS1sc1NxT2RDOTJXampVZWttVHc0?oc=5",
+   "pub": "Tue, 25 Aug 2026 12:15:01 GMT"
   }
  ]
 }
