@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T03:13:06Z",
+ "collected_at": "2026-08-25T04:01:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8034,
-   "chg1d_pct": 0.35
+   "price": 0.8036,
+   "chg1d_pct": 0.37
   },
   "USDJPY": {
-   "price": 159.367,
-   "chg1d_pct": 0.29
-  },
-  "GBPCAD": {
-   "price": 1.8881,
+   "price": 159.34,
    "chg1d_pct": 0.27
   },
+  "GBPCAD": {
+   "price": 1.8879,
+   "chg1d_pct": 0.26
+  },
   "AUDJPY": {
-   "price": 114.019,
-   "chg1d_pct": 0.06
+   "price": 113.924,
+   "chg1d_pct": -0.02
   },
   "EURUSD": {
-   "price": 1.1665,
-   "chg1d_pct": -0.14
+   "price": 1.1663,
+   "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.0951,
-   "chg1d_pct": 0.18
+   "price": 1.095,
+   "chg1d_pct": 0.17
   },
   "WTI": {
-   "price": 85.52,
-   "chg1d_pct": 0.6
+   "price": 85.43,
+   "chg1d_pct": -1.87
   },
   "BRENT": {
-   "price": 92.53,
-   "chg1d_pct": 0.39
+   "price": 92.47,
+   "chg1d_pct": -2.03
   },
   "GOLD": {
-   "price": 4682.3,
-   "chg1d_pct": 0.89
+   "price": 4688.8,
+   "chg1d_pct": 1.4
   },
   "SPX_FUT": {
-   "price": 7670.5,
-   "chg1d_pct": 0.01
+   "price": 7673.75,
+   "chg1d_pct": -0.23
   },
   "NAS_FUT": {
-   "price": 29122.5,
-   "chg1d_pct": 0.06
+   "price": 29154.75,
+   "chg1d_pct": -0.79
   }
  },
  "headlines": [
@@ -57,6 +57,11 @@
    "t": "Irankrieg: USA reden von wirtschaftlichem »D-Day« gegen Iran – doch was ist mit China? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
    "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
+  },
+  {
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Tue, 25 Aug 2026 00:27:36 GMT"
   },
   {
    "t": "Oman unter Druck zwischen USA und Iran lang - tagesschau.de",
@@ -74,9 +79,9 @@
    "pub": "Mon, 24 Aug 2026 09:04:46 GMT"
   },
   {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Mon, 24 Aug 2026 22:24:37 GMT"
+   "t": "Erneut Tanker in Straße von Hormus angegriffen +++ Syrien nicht mehr auf US-Liste der Terrorunterstützer - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGNhU3hwTlpUb21xM2xUaEdnWFRpTFhkYS1uc2x6Um9BQ09xa3lLRHZkSnFXQXE0X1NxMC1KQTJ5dkR4Q1JUSWRab0VDT29wNkZpdTkyQmFJaXc2UnJnVFQ5RnAyVFB0dzBRZlM3VDJ6RXlBaVNzTjdVMmUxWG05Y3JzZWNUX25QcWVRbHJaanVjM3lCT3NPX0xkdmJ3YjZ6NjNUa1lvanJUTTJvSXc5MTUxdmNqV1NfR0pJWjlubWtNRUV1SzRkb2dkR0o?oc=5",
+   "pub": "Tue, 25 Aug 2026 00:50:06 GMT"
   },
   {
    "t": "US-News: Iran setzt Kopfgeld auf Trump-Sohn Barron aus - T-Online",
@@ -89,24 +94,19 @@
    "pub": "Mon, 24 Aug 2026 19:13:42 GMT"
   },
   {
-   "t": "Straße von Hormus: Trump erneuert Ansprüche, Iran hält dagegen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hRE9abk5lT3ZSbzluY0RmelRWV3dzY1hjWGZBcVVwUzFpTEJEc0RqUXhwTzBwR1kwQWk0ZU1scGpxejJ4VWc2QU5ZYWg4bWUtcVR4RGR4MXdDbU4zankzSXlrNHhyUWE4UXM1R2xVbThQWEkydEE?oc=5",
-   "pub": "Mon, 24 Aug 2026 05:32:01 GMT"
-  },
-  {
    "t": "Das offene Fenster - IPG Journal",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmpVMFE0aGJfbXZLTVRES2tEV0hta1AzaGpGSDkzWTRIV0ptNUFSSmd3WnRudVg3Z1BIaFpENW9meGl4SlZ2b1U5N1lobWJNVC1NQWxFdGNoS1BsYnBzTktfSzJHZnpvcGFCQ1pQTW5KckREczVWbGkza3diNktzanMzVDBQLUk?oc=5",
    "pub": "Mon, 24 Aug 2026 14:45:46 GMT"
   },
   {
+   "t": "Menschenrechtsaktivistin: Christentum wird im Iran populärer - Katholisch.de",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOak1mWGVWLUQtd3NReHdmU1Bub0NIaXlSbk9mcVczVzhrUG0ydTI5TUlGWUdqVEctTXBVMTJpNWdtcEhxX1VQc1FPckVWbzA5WllTRHZWLXBOWjFUZ1ptaC1aR1pSUUEtRXBFWGlWQTRnWmpOSXZvZFV5dHhzWjRDak1mbURDMDB4STVHMk9XRGFpYV83VlludGNLQWpXRWFUelE?oc=5",
+   "pub": "Mon, 24 Aug 2026 16:49:00 GMT"
+  },
+  {
    "t": "Ukraine-Krieg und Iran - Bundesaußenminister Wadephul telefoniert mit Amtskollege Rubio - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmd1Q0tFaDFZbVBBa3RTSGptSVU2a3Jzd0FId2hKVjJCRUFYd0p6ZDRrRnltNHJWZ3pWNWRfcUhLLXdPbUNtalZkQURMQUpnSDZSdUo3bmI3dWRHRHhmbnFYMENZOUpnbjBSRUhQajZGYUZMRDhVVl9fckhpd1lxUFdBcHkxY1plTEZ2MktkVDEyLWJqb0JXWFFYQ2NpdWxRMGROZUtn?oc=5",
    "pub": "Tue, 25 Aug 2026 03:00:00 GMT"
-  },
-  {
-   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   }
  ]
 }
