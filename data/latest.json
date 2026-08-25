@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T09:52:06Z",
+ "collected_at": "2026-08-25T10:50:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8023,
-   "chg1d_pct": 0.21
+   "price": 0.8028,
+   "chg1d_pct": 0.27
   },
   "USDJPY": {
-   "price": 159.276,
-   "chg1d_pct": 0.23
+   "price": 159.279,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8904,
-   "chg1d_pct": 0.4
+   "price": 1.8895,
+   "chg1d_pct": 0.35
   },
   "AUDJPY": {
-   "price": 113.982,
-   "chg1d_pct": 0.03
+   "price": 113.915,
+   "chg1d_pct": -0.03
   },
   "EURUSD": {
-   "price": 1.1675,
-   "chg1d_pct": -0.06
+   "price": 1.1665,
+   "chg1d_pct": -0.14
   },
   "GBPCHF": {
    "price": 1.0947,
    "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 82.26,
-   "chg1d_pct": -3.23
+   "price": 82.31,
+   "chg1d_pct": -3.18
   },
   "BRENT": {
-   "price": 87.89,
-   "chg1d_pct": -4.64
+   "price": 87.94,
+   "chg1d_pct": -4.59
   },
   "GOLD": {
-   "price": 4690.4,
-   "chg1d_pct": 1.07
+   "price": 4694.6,
+   "chg1d_pct": 1.16
   },
   "SPX_FUT": {
-   "price": 7707.75,
-   "chg1d_pct": 0.5
+   "price": 7703.0,
+   "chg1d_pct": 0.43
   },
   "NAS_FUT": {
-   "price": 29370.75,
-   "chg1d_pct": 0.91
+   "price": 29365.0,
+   "chg1d_pct": 0.89
   }
  },
  "headlines": [
@@ -54,24 +54,24 @@
    "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
   },
   {
+   "t": "Iran: „Plötzlich gab es einen lauten Knall, und ich fiel zu Boden“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSzlnMUFkbUlvTjRkUjBRX0ZRZW9aRmo4dk1qYnNRNUkzUm5LZzVXa0tkMGpnOEczVXBjVjlzVWVmWGFBalVtYk9uU2Z6cno0Z1BoNFoxQXNRRFVDTldOdGNMY3g5UUVtSVRfc1lwU0lnaTNWUkY4RzNuUDVsclo3MVJZUWx0M0VpZHRUVnA3ZXV5NWctY0JtZTM1REZ5QjZ1Rm13Z0s1Z0JPd1R0YU9xNVcyWjA2WU0tWFhlblJkMXFIb0VkM3h1TUw2d3RQUQ?oc=5",
+   "pub": "Tue, 25 Aug 2026 10:05:17 GMT"
+  },
+  {
+   "t": "US-Sanktionen gegen den Iran: Iransanktionen der USA verschärfen Spannungen mit China - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3hqZXdFcjM5RGpqV1VESHE5V3FkRi1XWjdpVVBPZFFQcFpRMldKVEJrMlpNd3A4ZlZhY2NkdG5kVk42RVQzUzRoLUNPMHpDSjVBbDlCTDNUekVxeFZRWjMtWHBpTC0zTlg5Tm5GOEx5TzhFcUVLOFV4QmZGT2szZ19CQTJQVi1PWDIw?oc=5",
+   "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
+  },
+  {
    "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRDRvcDZvYmx1THhPUmg4YnhIc2dKMTlMNVFOa1YzdWxYRHkycldCS2lRZmVrOUpaZVhjekFYVEpuLUlSdFIwd2V4RVZVQTZUTzdpbWdfTGlRX1NMQmxJT3pnR2h2M3lVNFNTWC1SdFJEUElOMks1Ry1ZVmpIMWZrbWNYRkt5cHNOTGxGbkJPUVdxa3JrTGRGaWxOa2hITWts?oc=5",
    "pub": "Tue, 25 Aug 2026 05:03:46 GMT"
   },
   {
-   "t": "US-Sanktionen gegen den Iran: Iransanktionen der USA verschärfen Spannungen mit China - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT2FuYUR4d2hLaDYzbXBZTnNsS3kwMUNETUNNb1JQcmlHZzFBaDIwSkRQbS1MOWRPeDRRRTdzaDliWm1PZ2VJLXgyZmlpTWFnZkw1eW84ZGNJdGp0dndQNzdWanU0QXh2RXdvTTJ5aDROc2xWSFJVNmlkZmNWa0xRODhmaGVRQQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
-  },
-  {
    "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
-  },
-  {
-   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
   },
   {
    "t": "++ Info-Date am Morgen, 25.08.26: USA neue Sanktionen Iran ++ - SWR",
@@ -84,19 +84,14 @@
    "pub": "Tue, 25 Aug 2026 05:42:25 GMT"
   },
   {
+   "t": "Iran soll Kopfgeld auf Barron Trump ausgesetzt haben - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTElPcGE5bVRaOGluQXFnTTZJTi10ZGRDVmFiZFo4QUI3VnY3elREcmF6VjFyekZNMXJtOEZ6dVlXNDBWb3JJZmd2YThCdWNEVjhoX3FmZTF4VGpvQURhekJvWl81Z2QxbEVVTThwMkdiODBoN2hoRkRDTGhKd2RWbnF2SFZnOU5fU2F6VDloTmEwUkNqRWRmRVVFcjZxUQ?oc=5",
+   "pub": "Tue, 25 Aug 2026 10:04:00 GMT"
+  },
+  {
    "t": "USA verschärfen Iran-Sanktionen: Folgen für Handel und Trump - SRF",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMG0zejBod1RaZGN1YjE4WnFDNEhYREF1LW1OMGVubU1hbW45eWVyMUJSNmxaMUMyTTM4ejhOMmV6bzdKbV9pNnliQlU2c1kxM0pkWlk4bE85LUFIR2wyQUVMRjlXS1d3WDZpbTdJdzNCalFfUzBEanZ2Vmd6Wi1qWnNxS0FXUVFKcHZxSlJUcjFvQjljRDJHRXBjM2lNZWtKMkd2cWhRaW1uNXNTWnZlMHd2a19hanZJQV9jRzZEYTBYZnhW?oc=5",
    "pub": "Tue, 25 Aug 2026 04:04:55 GMT"
-  },
-  {
-   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
-   "pub": "Mon, 24 Aug 2026 12:05:18 GMT"
-  },
-  {
-   "t": "Oman unter Druck zwischen USA und Iran lang - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reEtucVAxNWttNjJwanl1eXZBaERlSjlMRGJaeUJub3g2UjZ2RUMxLXhYVzlmdDk1YVU3Ym5XUXRfV2JBOEE2NVhNMjZoNndiR0VjYzBNSVVEekJ6U0t3ZktkTkJKVWpGSWhIS3hB?oc=5",
-   "pub": "Mon, 24 Aug 2026 14:22:00 GMT"
   },
   {
    "t": "Neue US-Sanktionen gegen Iran: Folgen für Europas Unternehmen - Euronews.com",
@@ -104,9 +99,14 @@
    "pub": "Tue, 25 Aug 2026 09:32:43 GMT"
   },
   {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Tue, 25 Aug 2026 03:27:36 GMT"
+   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
+   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
+  },
+  {
+   "t": "Ukraine-Krieg und Iran - Bundesaußenminister Wadephul telefoniert mit Amtskollege Rubio - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmFSbC0tRVZ0cTM4dks2RjFFbThOU2ZlSXNlY1hnak9XVXIwSXBYOTBnamZhc0VPVlZZdzBGRklzVnhOOEhPWHdqeFFmYWo4TEM3QVc5eFkwNGJ2aEkydWV1aU9DcWV1a1N0c25kcmtBUlhYcHFnTU5tY1JMVy01S2J1LW4yWUo2RjZ1MUpZeDNJSWgtMmh6UHFCZ3h2MWk3M1JRV0tR?oc=5",
+   "pub": "Tue, 25 Aug 2026 01:00:00 GMT"
   }
  ]
 }
