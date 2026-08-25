@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-25T07:09:12Z",
+ "collected_at": "2026-08-25T07:59:26Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8036,
-   "chg1d_pct": 0.37
+   "price": 0.8041,
+   "chg1d_pct": 0.43
   },
   "USDJPY": {
-   "price": 159.358,
-   "chg1d_pct": 0.29
+   "price": 159.439,
+   "chg1d_pct": 0.34
   },
   "GBPCAD": {
-   "price": 1.8901,
-   "chg1d_pct": 0.38
+   "price": 1.8903,
+   "chg1d_pct": 0.39
   },
   "AUDJPY": {
-   "price": 113.858,
-   "chg1d_pct": -0.08
+   "price": 113.901,
+   "chg1d_pct": -0.04
   },
   "EURUSD": {
-   "price": 1.166,
-   "chg1d_pct": -0.18
+   "price": 1.1662,
+   "chg1d_pct": -0.17
   },
   "GBPCHF": {
-   "price": 1.0959,
-   "chg1d_pct": 0.25
+   "price": 1.0966,
+   "chg1d_pct": 0.32
   },
   "WTI": {
-   "price": 84.23,
-   "chg1d_pct": -0.92
+   "price": 84.46,
+   "chg1d_pct": -0.65
   },
   "BRENT": {
-   "price": 91.35,
-   "chg1d_pct": -0.89
+   "price": 89.91,
+   "chg1d_pct": -2.45
   },
   "GOLD": {
-   "price": 4694.1,
-   "chg1d_pct": 1.15
+   "price": 4691.3,
+   "chg1d_pct": 1.09
   },
   "SPX_FUT": {
-   "price": 7688.5,
-   "chg1d_pct": 0.24
+   "price": 7683.0,
+   "chg1d_pct": 0.17
   },
   "NAS_FUT": {
-   "price": 29253.0,
-   "chg1d_pct": 0.51
+   "price": 29237.75,
+   "chg1d_pct": 0.45
   }
  },
  "headlines": [
@@ -64,14 +64,14 @@
    "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
   },
   {
+   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
+   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
+  },
+  {
    "t": "Das offene Fenster - IPG Journal",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmpVMFE0aGJfbXZLTVRES2tEV0hta1AzaGpGSDkzWTRIV0ptNUFSSmd3WnRudVg3Z1BIaFpENW9meGl4SlZ2b1U5N1lobWJNVC1NQWxFdGNoS1BsYnBzTktfSzJHZnpvcGFCQ1pQTW5KckREczVWbGkza3diNktzanMzVDBQLUk?oc=5",
    "pub": "Tue, 25 Aug 2026 06:59:00 GMT"
-  },
-  {
-   "t": "US-News: Iran setzt Millionen-Kopfgeld auf Trump-Sohn Barron aus - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1UwQTBBeUktcFkxdUFnYWRiSkJ6QldRQjVpVm5FZjViZnk1NlJJTTFpTHJveE9IY3N1XzZ0VS02ZTVyY3JXZGxHdmw0Q3lOQmlfRnUwSFVzVkJ4QWtPVXEtaGlpczZnb3NOS3B2TFZ4Y080YXY3RkQ1TzZKSFc4Q1l1WDdFNFc2MzBOaU1fcHNabmxKTGgzcGwxVzhIdmZLdDZDMFYxdEltaF9Qd3BiWVVOLUZkT2pBQUVBZm5VMS1ZMVRBSTVPeEd4VWJKWFN1UlBhNWd3Z2pGel92UEV1b1BR?oc=5",
-   "pub": "Tue, 25 Aug 2026 05:45:00 GMT"
   },
   {
    "t": "++ Info-Date am Morgen, 25.08.26: USA neue Sanktionen Iran ++ - SWR",
@@ -79,7 +79,17 @@
    "pub": "Tue, 25 Aug 2026 04:39:54 GMT"
   },
   {
-   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - dw.com",
+   "t": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzl2aFM4VTQ2b2RFQVBVVV9iTzRReTlfRHRhYzUtTGhhR3ZXVEdiOWNKOU1CZTY2RENkLWJWWG1yaDI2bnZ1SVlwVlBEUlN5bHl1YWtiSEE1a1ltQjBsNkdrVWlDNnE5VTF0b0VsQ2RMZkZfMXp6TlhfTC1RQ0FHZFZDTWIxUGh1R2FnUnBOc1QxdXZMaGRDVVF4d0VDV2xfdVRFTw?oc=5",
+   "pub": "Mon, 24 Aug 2026 21:33:48 GMT"
+  },
+  {
+   "t": "Iran-Krieg – USA wollen Teheran mit neuen Sanktionen in die Knie zwingen - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNENOVjM1WE5RWURMM1BUSDNkWDB4YUJHVWxqa0tCWGRRSUNQTlU1ZjViaF9RUnlvN2F0c3NkU3MxaHM2SC1LWk9fX21rRng1MU5Rby13TS1RZjZuMnFRNzR0a3h4ZnpYd2JNbmFjQ1BiV1lrbG5rY0hfRlFKVThVQ2k4UVdZRlU1UXA2UEk0U2QwNHNaR0lvWGRWR2phd3RDRS0xaVFqVlpXMHRGRG1Xa2VDZ1BPQVN1?oc=5",
+   "pub": "Tue, 25 Aug 2026 05:42:25 GMT"
+  },
+  {
+   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
    "pub": "Mon, 24 Aug 2026 12:05:18 GMT"
   },
@@ -94,19 +104,9 @@
    "pub": "Tue, 25 Aug 2026 04:04:55 GMT"
   },
   {
-   "t": "Irankrieg: USA wollen Iran mit neuen Sanktionen von allen Einnahmen abschneiden - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzl2aFM4VTQ2b2RFQVBVVV9iTzRReTlfRHRhYzUtTGhhR3ZXVEdiOWNKOU1CZTY2RENkLWJWWG1yaDI2bnZ1SVlwVlBEUlN5bHl1YWtiSEE1a1ltQjBsNkdrVWlDNnE5VTF0b0VsQ2RMZkZfMXp6TlhfTC1RQ0FHZFZDTWIxUGh1R2FnUnBOc1QxdXZMaGRDVVF4d0VDV2xfdVRFTw?oc=5",
-   "pub": "Mon, 24 Aug 2026 21:33:48 GMT"
-  },
-  {
-   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Tue, 25 Aug 2026 03:20:16 GMT"
-  },
-  {
-   "t": "Erneut Tanker in Straße von Hormus angegriffen +++ Syrien nicht mehr auf US-Liste der Terrorunterstützer - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGNhU3hwTlpUb21xM2xUaEdnWFRpTFhkYS1uc2x6Um9BQ09xa3lLRHZkSnFXQXE0X1NxMC1KQTJ5dkR4Q1JUSWRab0VDT29wNkZpdTkyQmFJaXc2UnJnVFQ5RnAyVFB0dzBRZlM3VDJ6RXlBaVNzTjdVMmUxWG05Y3JzZWNUX25QcWVRbHJaanVjM3lCT3NPX0xkdmJ3YjZ6NjNUa1lvanJUTTJvSXc5MTUxdmNqV1NfR0pJWjlubWtNRUV1SzRkb2dkR0o?oc=5",
-   "pub": "Tue, 25 Aug 2026 00:50:06 GMT"
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Tue, 25 Aug 2026 03:27:36 GMT"
   }
  ]
 }
