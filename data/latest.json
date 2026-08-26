@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-26T04:56:53Z",
+ "collected_at": "2026-08-26T05:50:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8035,
-   "chg1d_pct": 0.19
+   "price": 0.8033,
+   "chg1d_pct": 0.16
   },
   "USDJPY": {
-   "price": 159.015,
-   "chg1d_pct": -0.08
+   "price": 158.981,
+   "chg1d_pct": -0.1
   },
   "GBPCAD": {
-   "price": 1.8899,
-   "chg1d_pct": 0.13
+   "price": 1.8898,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 114.116,
-   "chg1d_pct": 0.23
+   "price": 114.189,
+   "chg1d_pct": 0.3
   },
   "EURUSD": {
-   "price": 1.1666,
-   "chg1d_pct": -0.02
+   "price": 1.1669,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0953,
-   "chg1d_pct": 0.15
+   "price": 1.0952,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 80.27,
-   "chg1d_pct": -2.54
+   "price": 80.84,
+   "chg1d_pct": -1.85
   },
   "BRENT": {
-   "price": 85.23,
-   "chg1d_pct": -3.78
+   "price": 85.9,
+   "chg1d_pct": -3.03
   },
   "GOLD": {
-   "price": 4697.6,
-   "chg1d_pct": 1.28
+   "price": 4700.5,
+   "chg1d_pct": 1.35
   },
   "SPX_FUT": {
-   "price": 7684.75,
-   "chg1d_pct": -0.09
+   "price": 7685.75,
+   "chg1d_pct": -0.08
   },
   "NAS_FUT": {
-   "price": 29234.0,
-   "chg1d_pct": -0.15
+   "price": 29244.5,
+   "chg1d_pct": -0.11
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SRTFQdUNucjM4TlpNZVdEVV8yYlhsSFRKMnAtTkhQSFRhNUQ0N2FNOFBfUlZMZGVqdlA1RnVlNjVDNkJGX3JZLUFTTGZhTU1adExZWDlaM292QUZja2VIT2ZaQnl2VDQ?oc=5",
    "pub": "Tue, 25 Aug 2026 20:59:10 GMT"
+  },
+  {
+   "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3RBZU5Nb29hVGRQTnBtNFBDWjdYeDRoV1J1SVJiRnl2NWRvNFNTRjlrYjJYTXZZZHF2QU1sTGFNTFpEWUxMUUExX2w1STRRdzlLVVoyODlTbi0zX1JRNjJiX3BuNURSeUtBdTdtYnVPbGdrQ1AtX1VmWkhJZVJMTTJOVEV2YXNTcWxfTGZRcVFCVkk4bnVmaHEzRlFlR3NN?oc=5",
+   "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
   },
   {
    "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
@@ -64,14 +69,14 @@
    "pub": "Wed, 26 Aug 2026 04:34:15 GMT"
   },
   {
+   "t": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
+   "pub": "Wed, 26 Aug 2026 04:51:00 GMT"
+  },
+  {
    "t": "Iran: „Plötzlich gab es einen lauten Knall, und ich fiel zu Boden“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSzlnMUFkbUlvTjRkUjBRX0ZRZW9aRmo4dk1qYnNRNUkzUm5LZzVXa0tkMGpnOEczVXBjVjlzVWVmWGFBalVtYk9uU2Z6cno0Z1BoNFoxQXNRRFVDTldOdGNMY3g5UUVtSVRfc1lwU0lnaTNWUkY4RzNuUDVsclo3MVJZUWx0M0VpZHRUVnA3ZXV5NWctY0JtZTM1REZ5QjZ1Rm13Z0s1Z0JPd1R0YU9xNVcyWjA2WU0tWFhlblJkMXFIb0VkM3h1TUw2d3RQUQ?oc=5",
    "pub": "Tue, 25 Aug 2026 10:05:17 GMT"
-  },
-  {
-   "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3RBZU5Nb29hVGRQTnBtNFBDWjdYeDRoV1J1SVJiRnl2NWRvNFNTRjlrYjJYTXZZZHF2QU1sTGFNTFpEWUxMUUExX2w1STRRdzlLVVoyODlTbi0zX1JRNjJiX3BuNURSeUtBdTdtYnVPbGdrQ1AtX1VmWkhJZVJMTTJOVEV2YXNTcWxfTGZRcVFCVkk4bnVmaHEzRlFlR3NN?oc=5",
-   "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
   },
   {
    "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
@@ -84,12 +89,7 @@
    "pub": "Wed, 26 Aug 2026 03:44:35 GMT"
   },
   {
-   "t": "Iran: USA reden von wirtschaftlichem »D-Day« gegen Teheran – doch was ist mit China? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
-   "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
-  },
-  {
-   "t": "Protestopfer im Iran: \"Sie schossen, um uns zu töten\" - DW.com",
+   "t": "Protestopfer im Iran: \"Sie schossen, um uns zu töten\" - dw.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhFZ28tNmV6TVNQbE5DYVpjdVk2VG1XYUgxSU45LXpGWnhTdzA3bm9abXdabUtRYnFFc3R4VnRZOHJ2OUZRWklrWVpNQTRObDNYRGVSZnZUSFMtTTRiSi1mUnduUi1vTEtaci1wNEtLWHo3TjRGWXZiTEU4Ym9xa01qNWw2dlo3Uy1YcGU4M2_SAZABQVVfeXFMTjFmZEFrVGE4cHpZWmkxbXJyOWJnVFBnZUJHQVZ1TGNjcmJoQnJCQ0Jfb0kyX2ZtY0Q2VkFGM1ZxeHR3SjRGcm5hbmdzVXJhdGVDR2U1bE5ocXpCN1RmQXNSX1VLc2FYMk5rYnVycEFscnplYWZFbElGdF9oVi0wWkVKV1pXQlRoZzRONy1PM3NC?oc=5",
    "pub": "Tue, 25 Aug 2026 16:06:01 GMT"
   },
@@ -99,14 +99,14 @@
    "pub": "Tue, 25 Aug 2026 13:53:02 GMT"
   },
   {
+   "t": "IWF: Wirtschaft verkraftet Energieschock besser als gedacht - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVVmMXZZU0dWcEdIWFdvNW9teXU4TTl3cm5aR3hOa0N6WG1CUFhGNEt1YkxYUjAyZTlVSkUtcHhFU21BY09iaDAySEFfVVQxc1lHaFNYUnRDZFNpNzRGT2dfTFFmLVc1SXNYY2VYajB5NV9Xa0lnLUJ1NGczUk1BMDc4aw?oc=5",
+   "pub": "Wed, 26 Aug 2026 02:02:00 GMT"
+  },
+  {
    "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NmtjeW5mWEV3TG5NeV9GUC1WUTNPemJmZUdqOC1FNjRMYjFDNFBzLTFIRkhhcVFodWJZMlZZREY0VmZrUFNGeGtHRS1sc1NxT2RDOTJXampVZWttVHc0?oc=5",
    "pub": "Tue, 25 Aug 2026 12:15:01 GMT"
-  },
-  {
-   "t": "Iran: Präsident Masoud Pezeshkian räumt wirtschaftliche Probleme offen ein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZVVzb01YaWtmRTZscW05d3J1SUZiel9XN1JLeXRKX3IxdjUxLWRPTzVuZkw1UzI0NUZ6djJZT0VzZFZFWUwxdDJFMnlNOGVyVUhmVGZjODRHdmZleFlEUy1OZzJwcEZtaHVvQkc0dkplWTQ2WUYxLXQ1ZDFEWURQb0tDeGpGV0NndkFxSDNzMTR1ZnlQanhvaEZQcnBxdWlhQjFNMzAxMTQ0dEtwenFWTTJGMjdnUVptNzFxTERSelNvOWNtSFcwWlA1WjgtUUZ5YUVlV01n?oc=5",
-   "pub": "Mon, 24 Aug 2026 02:37:00 GMT"
   }
  ]
 }
