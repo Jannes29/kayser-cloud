@@ -1,58 +1,53 @@
 {
- "collected_at": "2026-08-26T07:09:41Z",
+ "collected_at": "2026-08-26T08:00:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8034,
-   "chg1d_pct": 0.17
+   "price": 0.803,
+   "chg1d_pct": 0.12
   },
   "USDJPY": {
-   "price": 159.002,
+   "price": 159.003,
    "chg1d_pct": -0.09
   },
   "GBPCAD": {
-   "price": 1.8903,
-   "chg1d_pct": 0.15
+   "price": 1.8894,
+   "chg1d_pct": 0.1
   },
   "AUDJPY": {
-   "price": 114.151,
+   "price": 114.16,
    "chg1d_pct": 0.27
   },
   "EURUSD": {
-   "price": 1.1671,
-   "chg1d_pct": 0.02
+   "price": 1.1674,
+   "chg1d_pct": 0.05
   },
   "GBPCHF": {
-   "price": 1.0954,
-   "chg1d_pct": 0.16
+   "price": 1.0946,
+   "chg1d_pct": 0.08
   },
   "WTI": {
-   "price": 80.46,
-   "chg1d_pct": -2.31
+   "price": 79.97,
+   "chg1d_pct": -2.9
   },
   "BRENT": {
-   "price": 85.62,
-   "chg1d_pct": -3.34
+   "price": 85.09,
+   "chg1d_pct": -3.94
   },
   "GOLD": {
-   "price": 4689.1,
-   "chg1d_pct": 1.1
+   "price": 4687.2,
+   "chg1d_pct": 1.06
   },
   "SPX_FUT": {
-   "price": 7687.75,
-   "chg1d_pct": -0.06
+   "price": 7683.5,
+   "chg1d_pct": -0.11
   },
   "NAS_FUT": {
-   "price": 29249.0,
-   "chg1d_pct": -0.09
+   "price": 29193.5,
+   "chg1d_pct": -0.28
   }
  },
  "headlines": [
-  {
-   "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
-   "pub": "Wed, 26 Aug 2026 06:14:22 GMT"
-  },
   {
    "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SRTFQdUNucjM4TlpNZVdEVV8yYlhsSFRKMnAtTkhQSFRhNUQ0N2FNOFBfUlZMZGVqdlA1RnVlNjVDNkJGX3JZLUFTTGZhTU1adExZWDlaM292QUZja2VIT2ZaQnl2VDQ?oc=5",
@@ -74,14 +69,19 @@
    "pub": "Wed, 26 Aug 2026 04:12:11 GMT"
   },
   {
-   "t": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
-   "pub": "Wed, 26 Aug 2026 04:51:00 GMT"
+   "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
+   "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
   },
   {
    "t": "Straße von Hormus: Iran und Oman beraten über temporären Korridor - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6N3hERkxkU0ZiQjJxY2J2U09KY3o4cVYtMkNaZXkzN1ZSWm9hYlV5QXhvenFkSG5BazRDeUZjY0ZVUmt6ZWk3OHo0UzIzZzlMZkhfZXZIYy1LQVZ0X1paRzFvQ0l5UG56Tm84WW5Wd2czUmZDYUtz?oc=5",
    "pub": "Wed, 26 Aug 2026 04:34:15 GMT"
+  },
+  {
+   "t": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
+   "pub": "Wed, 26 Aug 2026 04:51:00 GMT"
   },
   {
    "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
@@ -94,14 +94,14 @@
    "pub": "Wed, 26 Aug 2026 03:44:35 GMT"
   },
   {
-   "t": "Protestopfer im Iran: \"Sie schossen, um uns zu töten\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhFZ28tNmV6TVNQbE5DYVpjdVk2VG1XYUgxSU45LXpGWnhTdzA3bm9abXdabUtRYnFFc3R4VnRZOHJ2OUZRWklrWVpNQTRObDNYRGVSZnZUSFMtTTRiSi1mUnduUi1vTEtaci1wNEtLWHo3TjRGWXZiTEU4Ym9xa01qNWw2dlo3Uy1YcGU4M2_SAZABQVVfeXFMTjFmZEFrVGE4cHpZWmkxbXJyOWJnVFBnZUJHQVZ1TGNjcmJoQnJCQ0Jfb0kyX2ZtY0Q2VkFGM1ZxeHR3SjRGcm5hbmdzVXJhdGVDR2U1bE5ocXpCN1RmQXNSX1VLc2FYMk5rYnVycEFscnplYWZFbElGdF9oVi0wWkVKV1pXQlRoZzRONy1PM3NC?oc=5",
-   "pub": "Tue, 25 Aug 2026 16:06:01 GMT"
-  },
-  {
    "t": "IWF: Wirtschaft verkraftet Energieschock besser als gedacht - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVVmMXZZU0dWcEdIWFdvNW9teXU4TTl3cm5aR3hOa0N6WG1CUFhGNEt1YkxYUjAyZTlVSkUtcHhFU21BY09iaDAySEFfVVQxc1lHaFNYUnRDZFNpNzRGT2dfTFFmLVc1SXNYY2VYajB5NV9Xa0lnLUJ1NGczUk1BMDc4aw?oc=5",
    "pub": "Wed, 26 Aug 2026 02:02:00 GMT"
+  },
+  {
+   "t": "Protestopfer im Iran: \"Sie schossen, um uns zu töten\" - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhFZ28tNmV6TVNQbE5DYVpjdVk2VG1XYUgxSU45LXpGWnhTdzA3bm9abXdabUtRYnFFc3R4VnRZOHJ2OUZRWklrWVpNQTRObDNYRGVSZnZUSFMtTTRiSi1mUnduUi1vTEtaci1wNEtLWHo3TjRGWXZiTEU4Ym9xa01qNWw2dlo3Uy1YcGU4M2_SAZABQVVfeXFMTjFmZEFrVGE4cHpZWmkxbXJyOWJnVFBnZUJHQVZ1TGNjcmJoQnJCQ0Jfb0kyX2ZtY0Q2VkFGM1ZxeHR3SjRGcm5hbmdzVXJhdGVDR2U1bE5ocXpCN1RmQXNSX1VLc2FYMk5rYnVycEFscnplYWZFbElGdF9oVi0wWkVKV1pXQlRoZzRONy1PM3NC?oc=5",
+   "pub": "Tue, 25 Aug 2026 16:06:01 GMT"
   },
   {
    "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
