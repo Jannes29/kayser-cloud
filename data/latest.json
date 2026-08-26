@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-26T09:58:17Z",
+ "collected_at": "2026-08-26T10:52:06Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8038,
-   "chg1d_pct": 0.22
+   "price": 0.804,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 158.985,
-   "chg1d_pct": -0.1
+   "price": 159.087,
+   "chg1d_pct": -0.03
   },
   "GBPCAD": {
-   "price": 1.8896,
-   "chg1d_pct": 0.11
+   "price": 1.8887,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 114.173,
-   "chg1d_pct": 0.28
+   "price": 114.236,
+   "chg1d_pct": 0.34
   },
   "EURUSD": {
-   "price": 1.167,
-   "chg1d_pct": 0.01
+   "price": 1.1667,
+   "chg1d_pct": -0.01
   },
   "GBPCHF": {
-   "price": 1.0953,
-   "chg1d_pct": 0.15
+   "price": 1.0951,
+   "chg1d_pct": 0.13
   },
   "WTI": {
-   "price": 79.95,
-   "chg1d_pct": -2.93
+   "price": 80.09,
+   "chg1d_pct": -2.76
   },
   "BRENT": {
-   "price": 85.0,
-   "chg1d_pct": -4.04
+   "price": 84.93,
+   "chg1d_pct": -4.12
   },
   "GOLD": {
-   "price": 4680.0,
+   "price": 4679.8,
    "chg1d_pct": 0.9
   },
   "SPX_FUT": {
-   "price": 7687.0,
-   "chg1d_pct": -0.07
+   "price": 7688.75,
+   "chg1d_pct": -0.04
   },
   "NAS_FUT": {
-   "price": 29219.0,
-   "chg1d_pct": -0.2
+   "price": 29237.0,
+   "chg1d_pct": -0.14
   }
  },
  "headlines": [
   {
    "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Wed, 26 Aug 2026 09:48:38 GMT"
+   "pub": "Wed, 26 Aug 2026 10:48:52 GMT"
+  },
+  {
+   "t": "Munition und Drohnenbauteile: Putins abgeschirmte Route nach Iran hat eine Schwachstelle - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPemJrMk1PVGlEY055RWd1elc5R3RtT29yZVdiU0NXdkZzcEpZd2VZc0ZyRmd4Q2tiMHE3dnBXbWtlV19OMDNnakhZUmU3ZTBRcUM4MENkbVB4UmgxamVDMDlqdW5nbkdJa3lkdmZVeVlzd18xRXpiRnZzUW94MnNXQ1FLbW9UVkhRdDJnN3VhMmhRS1IzNk81cGhiQ0FxcjBMVVROWk5LZHhTazFUaHR1c3B2YXhIOW5MemJyc0NHT0xjNmlUUWdXV1lBY2tLd3lwbTN2TmxGcFN6YWNCSnp3?oc=5",
+   "pub": "Wed, 26 Aug 2026 09:56:46 GMT"
   },
   {
    "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
@@ -64,19 +69,9 @@
    "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
   },
   {
-   "t": "Newsblog zur Lage im Nahen Osten - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiVG1GRzBENlZyT0FWMUJZaW5DaTRVaUR5alhlc1Rhc1J1d1lZd1BadUY5UG5UTFBva1FXenhuWk1aNFdoMXV3UFpPT2V6UWxmM1lzU1J6MkxhYTUzZmljVzl3R1VnS3BldDdGZTJJbmJiNTA?oc=5",
-   "pub": "Wed, 26 Aug 2026 01:56:11 GMT"
-  },
-  {
    "t": "Straße von Hormus in Iran: 20 Tote und 6000 gestrandete Seeleute - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
    "pub": "Wed, 26 Aug 2026 08:59:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran und Oman beraten über temporären Korridor - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6N3hERkxkU0ZiQjJxY2J2U09KY3o4cVYtMkNaZXkzN1ZSWm9hYlV5QXhvenFkSG5BazRDeUZjY0ZVUmt6ZWk3OHo0UzIzZzlMZkhfZXZIYy1LQVZ0X1paRzFvQ0l5UG56Tm84WW5Wd2czUmZDYUtz?oc=5",
-   "pub": "Wed, 26 Aug 2026 04:34:15 GMT"
   },
   {
    "t": "Christentum wird laut Menschenrechtsaktivistin im Iran populärer - Domradio.de",
@@ -89,14 +84,19 @@
    "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
   },
   {
-   "t": "Iranisches Öl: Am Ende ist die Welt wieder ein Stück chinesischer - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkc5bFRFY0RBekNvX2lBT0J3XzF2U1NSNDBoMUF1dVg1Mms3ZnI4WUFRSW8wMmtINFBtM1NhZzdRRDJwa1Z2d1FCR2JhNjZNY1Y3WjNQczlXdE5OVXcySEM4UzJiOUdJRGRzR2x3T1pLM282ZGMzaVRTZ0d1eEItRHdtYw?oc=5",
-   "pub": "Wed, 26 Aug 2026 03:44:35 GMT"
+   "t": "Straße von Hormus: Iran und Oman beraten über temporären Korridor - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6N3hERkxkU0ZiQjJxY2J2U09KY3o4cVYtMkNaZXkzN1ZSWm9hYlV5QXhvenFkSG5BazRDeUZjY0ZVUmt6ZWk3OHo0UzIzZzlMZkhfZXZIYy1LQVZ0X1paRzFvQ0l5UG56Tm84WW5Wd2czUmZDYUtz?oc=5",
+   "pub": "Wed, 26 Aug 2026 04:34:15 GMT"
   },
   {
-   "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlpM3I2VUY4U3lpVEd0NXM3MmJNdWpieGFIc2RTMmVJNFBfamRwTHpUZW9mUkt0aGdDRTVwMXM2SEE0cjJ4Rl92N3FyZkRWWk9hY2Z5VDNpb3EtWHRobzhzbXFSZmJiX09EYktDbmU4MlBRU2VjWnVGNHFIZ0JsQWd2S1k1ZF9Ic3lvZWxmbGhybk1WRGcwUktsdEtSY01BTUJRTGI3QWM?oc=5",
-   "pub": "Tue, 25 Aug 2026 15:31:00 GMT"
+   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
+   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
+  },
+  {
+   "t": "Iran zerstört US E-3 AWACS bei Prince Sultan - MiGFlug",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNVC1sdmszUTd2eGdSTUhqbUhuRzNpbmVyYlVObDJMNWplOW9adnFoNmFGcm1kWXpaYnRub01pX3p3QllPZWpwOF9ueFRVTXdaU2Vhak5PcFBSZEZNc2I1anlNQVROc1lpcVZSek9SY3RDbXR0ZXBESHV4VTlkcW8?oc=5",
+   "pub": "Wed, 26 Aug 2026 09:56:15 GMT"
   },
   {
    "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - dw.com",
@@ -104,9 +104,9 @@
    "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
   {
-   "t": "IWF: Wirtschaft verkraftet Energieschock besser als gedacht - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVVmMXZZU0dWcEdIWFdvNW9teXU4TTl3cm5aR3hOa0N6WG1CUFhGNEt1YkxYUjAyZTlVSkUtcHhFU21BY09iaDAySEFfVVQxc1lHaFNYUnRDZFNpNzRGT2dfTFFmLVc1SXNYY2VYajB5NV9Xa0lnLUJ1NGczUk1BMDc4aw?oc=5",
-   "pub": "Wed, 26 Aug 2026 02:02:00 GMT"
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Wed, 26 Aug 2026 04:12:11 GMT"
   }
  ]
 }
