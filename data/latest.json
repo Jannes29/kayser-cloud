@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-08-26T09:03:33Z",
+ "collected_at": "2026-08-26T09:58:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8037,
-   "chg1d_pct": 0.21
+   "price": 0.8038,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 159.016,
-   "chg1d_pct": -0.08
+   "price": 158.985,
+   "chg1d_pct": -0.1
   },
   "GBPCAD": {
-   "price": 1.8894,
-   "chg1d_pct": 0.1
+   "price": 1.8896,
+   "chg1d_pct": 0.11
   },
   "AUDJPY": {
-   "price": 114.18,
-   "chg1d_pct": 0.29
+   "price": 114.173,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.1673,
-   "chg1d_pct": 0.04
+   "price": 1.167,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0952,
-   "chg1d_pct": 0.14
+   "price": 1.0953,
+   "chg1d_pct": 0.15
   },
   "WTI": {
-   "price": 79.78,
-   "chg1d_pct": -3.13
+   "price": 79.95,
+   "chg1d_pct": -2.93
   },
   "BRENT": {
-   "price": 84.8,
-   "chg1d_pct": -4.27
+   "price": 85.0,
+   "chg1d_pct": -4.04
   },
   "GOLD": {
-   "price": 4683.2,
-   "chg1d_pct": 0.97
+   "price": 4680.0,
+   "chg1d_pct": 0.9
   },
   "SPX_FUT": {
-   "price": 7689.25,
-   "chg1d_pct": -0.04
+   "price": 7687.0,
+   "chg1d_pct": -0.07
   },
   "NAS_FUT": {
-   "price": 29234.0,
-   "chg1d_pct": -0.15
+   "price": 29219.0,
+   "chg1d_pct": -0.2
   }
  },
  "headlines": [
+  {
+   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
+   "pub": "Wed, 26 Aug 2026 09:48:38 GMT"
+  },
   {
    "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SRTFQdUNucjM4TlpNZVdEVV8yYlhsSFRKMnAtTkhQSFRhNUQ0N2FNOFBfUlZMZGVqdlA1RnVlNjVDNkJGX3JZLUFTTGZhTU1adExZWDlaM292QUZja2VIT2ZaQnl2VDQ?oc=5",
@@ -59,14 +64,14 @@
    "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
   },
   {
-   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
-   "pub": "Wed, 26 Aug 2026 04:12:11 GMT"
-  },
-  {
    "t": "Newsblog zur Lage im Nahen Osten - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiVG1GRzBENlZyT0FWMUJZaW5DaTRVaUR5alhlc1Rhc1J1d1lZd1BadUY5UG5UTFBva1FXenhuWk1aNFdoMXV3UFpPT2V6UWxmM1lzU1J6MkxhYTUzZmljVzl3R1VnS3BldDdGZTJJbmJiNTA?oc=5",
    "pub": "Wed, 26 Aug 2026 01:56:11 GMT"
+  },
+  {
+   "t": "Straße von Hormus in Iran: 20 Tote und 6000 gestrandete Seeleute - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
+   "pub": "Wed, 26 Aug 2026 08:59:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran und Oman beraten über temporären Korridor - Euronews.com",
@@ -74,19 +79,14 @@
    "pub": "Wed, 26 Aug 2026 04:34:15 GMT"
   },
   {
+   "t": "Christentum wird laut Menschenrechtsaktivistin im Iran populärer - Domradio.de",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakUwXzBvTmFDRUR3cFdJRVdDODNXcm5TQWtnNGUycmYyTFJyZG5wMWN0SUdkZWhvM3hvei1OaFBHSlpiN0JzbjNkanhiTmFRUlhUVXNVaGQ2SnJsRGpfVnBidFpHNkhwemZqZGtaek8tcTJJMkQtTzM0XzdmMFlOelA4cEh1WkxyRXg0Q2hEVUxCR0tLdUQ3R2M1V1pQUQ?oc=5",
+   "pub": "Wed, 26 Aug 2026 03:00:00 GMT"
+  },
+  {
    "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
    "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
-  },
-  {
-   "t": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
-   "pub": "Wed, 26 Aug 2026 04:51:00 GMT"
-  },
-  {
-   "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlpM3I2VUY4U3lpVEd0NXM3MmJNdWpieGFIc2RTMmVJNFBfamRwTHpUZW9mUkt0aGdDRTVwMXM2SEE0cjJ4Rl92N3FyZkRWWk9hY2Z5VDNpb3EtWHRobzhzbXFSZmJiX09EYktDbmU4MlBRU2VjWnVGNHFIZ0JsQWd2S1k1ZF9Ic3lvZWxmbGhybk1WRGcwUktsdEtSY01BTUJRTGI3QWM?oc=5",
-   "pub": "Tue, 25 Aug 2026 15:31:00 GMT"
   },
   {
    "t": "Iranisches Öl: Am Ende ist die Welt wieder ein Stück chinesischer - DIE ZEIT",
@@ -94,19 +94,19 @@
    "pub": "Wed, 26 Aug 2026 03:44:35 GMT"
   },
   {
+   "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlpM3I2VUY4U3lpVEd0NXM3MmJNdWpieGFIc2RTMmVJNFBfamRwTHpUZW9mUkt0aGdDRTVwMXM2SEE0cjJ4Rl92N3FyZkRWWk9hY2Z5VDNpb3EtWHRobzhzbXFSZmJiX09EYktDbmU4MlBRU2VjWnVGNHFIZ0JsQWd2S1k1ZF9Ic3lvZWxmbGhybk1WRGcwUktsdEtSY01BTUJRTGI3QWM?oc=5",
+   "pub": "Tue, 25 Aug 2026 15:31:00 GMT"
+  },
+  {
+   "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
+   "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
+  },
+  {
    "t": "IWF: Wirtschaft verkraftet Energieschock besser als gedacht - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVVmMXZZU0dWcEdIWFdvNW9teXU4TTl3cm5aR3hOa0N6WG1CUFhGNEt1YkxYUjAyZTlVSkUtcHhFU21BY09iaDAySEFfVVQxc1lHaFNYUnRDZFNpNzRGT2dfTFFmLVc1SXNYY2VYajB5NV9Xa0lnLUJ1NGczUk1BMDc4aw?oc=5",
    "pub": "Wed, 26 Aug 2026 02:02:00 GMT"
-  },
-  {
-   "t": "Protestopfer im Iran: \"Sie schossen, um uns zu töten\" - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhFZ28tNmV6TVNQbE5DYVpjdVk2VG1XYUgxSU45LXpGWnhTdzA3bm9abXdabUtRYnFFc3R4VnRZOHJ2OUZRWklrWVpNQTRObDNYRGVSZnZUSFMtTTRiSi1mUnduUi1vTEtaci1wNEtLWHo3TjRGWXZiTEU4Ym9xa01qNWw2dlo3Uy1YcGU4M2_SAZABQVVfeXFMTjFmZEFrVGE4cHpZWmkxbXJyOWJnVFBnZUJHQVZ1TGNjcmJoQnJCQ0Jfb0kyX2ZtY0Q2VkFGM1ZxeHR3SjRGcm5hbmdzVXJhdGVDR2U1bE5ocXpCN1RmQXNSX1VLc2FYMk5rYnVycEFscnplYWZFbElGdF9oVi0wWkVKV1pXQlRoZzRONy1PM3NC?oc=5",
-   "pub": "Tue, 25 Aug 2026 16:06:01 GMT"
-  },
-  {
-   "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NmtjeW5mWEV3TG5NeV9GUC1WUTNPemJmZUdqOC1FNjRMYjFDNFBzLTFIRkhhcVFodWJZMlZZREY0VmZrUFNGeGtHRS1sc1NxT2RDOTJXampVZWttVHc0?oc=5",
-   "pub": "Tue, 25 Aug 2026 12:15:01 GMT"
   }
  ]
 }
