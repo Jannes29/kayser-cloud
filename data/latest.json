@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-08-26T11:46:06Z",
+ "collected_at": "2026-08-26T13:17:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8042,
-   "chg1d_pct": 0.27
+   "price": 0.805,
+   "chg1d_pct": 0.37
   },
   "USDJPY": {
-   "price": 159.125,
-   "chg1d_pct": -0.01
+   "price": 159.291,
+   "chg1d_pct": 0.1
   },
   "GBPCAD": {
-   "price": 1.889,
-   "chg1d_pct": 0.08
-  },
-  "AUDJPY": {
-   "price": 114.281,
-   "chg1d_pct": 0.38
-  },
-  "EURUSD": {
-   "price": 1.1669,
+   "price": 1.8876,
    "chg1d_pct": 0.01
   },
+  "AUDJPY": {
+   "price": 114.307,
+   "chg1d_pct": 0.4
+  },
+  "EURUSD": {
+   "price": 1.1658,
+   "chg1d_pct": -0.09
+  },
   "GBPCHF": {
-   "price": 1.0957,
-   "chg1d_pct": 0.18
+   "price": 1.0953,
+   "chg1d_pct": 0.15
   },
   "WTI": {
-   "price": 80.3,
-   "chg1d_pct": -2.5
+   "price": 80.79,
+   "chg1d_pct": -1.91
   },
   "BRENT": {
-   "price": 85.31,
-   "chg1d_pct": -3.69
+   "price": 85.82,
+   "chg1d_pct": -3.12
   },
   "GOLD": {
-   "price": 4675.4,
-   "chg1d_pct": 0.8
+   "price": 4667.3,
+   "chg1d_pct": 0.63
   },
   "SPX_FUT": {
-   "price": 7689.0,
-   "chg1d_pct": -0.04
+   "price": 7680.0,
+   "chg1d_pct": -0.16
   },
   "NAS_FUT": {
-   "price": 29240.0,
-   "chg1d_pct": -0.13
+   "price": 29154.5,
+   "chg1d_pct": -0.42
   }
  },
  "headlines": [
   {
    "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Wed, 26 Aug 2026 10:48:52 GMT"
+   "pub": "Wed, 26 Aug 2026 12:48:56 GMT"
+  },
+  {
+   "t": "USA sprechen von „Endphase“: Gewinnt Trump den Iran-Krieg jetzt doch? - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDUzN2FJUy1sMTcwZGdDcjFEdVZpQ29vYkxJbHVMcXZKRHFkQ1J0TmFDUi1PYVZZdGRMWFBxWXd5VU9meEtsY01tVjNiS0F4UDJoX1EtdnZJdlFoR29TX3VJRDROTHNzTlRsMkNvOFBUa1l6S0JSaDNUUVpTSmlVWk1DNnczV00zXzl6RlFhemFINTh1dXZvbnkzQk1KUDRMdmVhOFhWMHJuMG13R3FSSWlPMzQydnc0WW94S3pXVjFfNUxKZmNyalZsSDNubjg2eUI2UlRYTVIyZHNSV3Ew?oc=5",
+   "pub": "Wed, 26 Aug 2026 11:04:21 GMT"
   },
   {
    "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
@@ -69,7 +74,7 @@
    "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
   },
   {
-   "t": "Christentum wird laut Menschenrechtsaktivistin im Iran populärer - Domradio.de",
+   "t": "Christentum wird laut Menschenrechtsaktivistin im Iran populärer - domradio.de",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakUwXzBvTmFDRUR3cFdJRVdDODNXcm5TQWtnNGUycmYyTFJyZG5wMWN0SUdkZWhvM3hvei1OaFBHSlpiN0JzbjNkanhiTmFRUlhUVXNVaGQ2SnJsRGpfVnBidFpHNkhwemZqZGtaek8tcTJJMkQtTzM0XzdmMFlOelA4cEh1WkxyRXg0Q2hEVUxCR0tLdUQ3R2M1V1pQUQ?oc=5",
    "pub": "Wed, 26 Aug 2026 03:00:00 GMT"
   },
@@ -94,19 +99,14 @@
    "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
   },
   {
-   "t": "Iran zerstört US E-3 AWACS bei Prince Sultan - MiGFlug",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNVC1sdmszUTd2eGdSTUhqbUhuRzNpbmVyYlVObDJMNWplOW9adnFoNmFGcm1kWXpaYnRub01pX3p3QllPZWpwOF9ueFRVTXdaU2Vhak5PcFBSZEZNc2I1anlNQVROc1lpcVZSek9SY3RDbXR0ZXBESHV4VTlkcW8?oc=5",
-   "pub": "Wed, 26 Aug 2026 09:56:15 GMT"
-  },
-  {
    "t": "USA wollen Iran mit massiven Sanktionen in die Knie zwingen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPXzRJTVdpN3J2Y0lSOTJxaXBTcV84OE5JUHlLcDl1elllU0lZRk5BM1FnalJyV2lnNlBBQUVvWUtCb2VRWHdLeHlLVEJhTTBnS1RZWXBuVUZTcFduSjRuMUVLbWxGS09xc3pJODZYMlhXTXkwSlJCdC1LZkppcjNoZGtseVdlOGktZW01T3YyaVctQjh5Z25OTUJhOVM5akk3aFZVTjBiZkVGcVlBazAyMkJrZ1RYcXoxNjhQaWpwLTVYeHNYLXfSAcYBQVVfeXFMTVMwSmhRenBkNDRqUU96UERRMTNJLVYyT25xdnFyem1KenpKZ2xKeGVHMW1iTTdJUV9QMmRLbUg2SV8wSTJyd3ZBUW4yOU15WXMzamhFa0lyVVFXS0xkenVEdWc2OENrZFBwZzBZVEdETlc4SEdGMUlKa0tpbzgxZ2loX3gzbFJhN29pOThkMDYxbXNnUWNEZzZNMnpzNU9Wc2hTcW96elRIeXhLYkNDX3N6Skl4dW5XNWR3X2kxaFY1YV8yYUFR?oc=5",
    "pub": "Mon, 24 Aug 2026 08:46:46 GMT"
   },
   {
-   "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzlpM3I2VUY4U3lpVEd0NXM3MmJNdWpieGFIc2RTMmVJNFBfamRwTHpUZW9mUkt0aGdDRTVwMXM2SEE0cjJ4Rl92N3FyZkRWWk9hY2Z5VDNpb3EtWHRobzhzbXFSZmJiX09EYktDbmU4MlBRU2VjWnVGNHFIZ0JsQWd2S1k1ZF9Ic3lvZWxmbGhybk1WRGcwUktsdEtSY01BTUJRTGI3QWM?oc=5",
-   "pub": "Tue, 25 Aug 2026 15:31:00 GMT"
+   "t": "Iran zerstört US E-3 AWACS bei Prince Sultan - MiGFlug",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNVC1sdmszUTd2eGdSTUhqbUhuRzNpbmVyYlVObDJMNWplOW9adnFoNmFGcm1kWXpaYnRub01pX3p3QllPZWpwOF9ueFRVTXdaU2Vhak5PcFBSZEZNc2I1anlNQVROc1lpcVZSek9SY3RDbXR0ZXBESHV4VTlkcW8?oc=5",
+   "pub": "Wed, 26 Aug 2026 09:56:15 GMT"
   }
  ]
 }
