@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-26T08:00:44Z",
+ "collected_at": "2026-08-26T09:03:33Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.803,
-   "chg1d_pct": 0.12
+   "price": 0.8037,
+   "chg1d_pct": 0.21
   },
   "USDJPY": {
-   "price": 159.003,
-   "chg1d_pct": -0.09
+   "price": 159.016,
+   "chg1d_pct": -0.08
   },
   "GBPCAD": {
    "price": 1.8894,
    "chg1d_pct": 0.1
   },
   "AUDJPY": {
-   "price": 114.16,
-   "chg1d_pct": 0.27
+   "price": 114.18,
+   "chg1d_pct": 0.29
   },
   "EURUSD": {
-   "price": 1.1674,
-   "chg1d_pct": 0.05
+   "price": 1.1673,
+   "chg1d_pct": 0.04
   },
   "GBPCHF": {
-   "price": 1.0946,
-   "chg1d_pct": 0.08
+   "price": 1.0952,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 79.97,
-   "chg1d_pct": -2.9
+   "price": 79.78,
+   "chg1d_pct": -3.13
   },
   "BRENT": {
-   "price": 85.09,
-   "chg1d_pct": -3.94
+   "price": 84.8,
+   "chg1d_pct": -4.27
   },
   "GOLD": {
-   "price": 4687.2,
-   "chg1d_pct": 1.06
+   "price": 4683.2,
+   "chg1d_pct": 0.97
   },
   "SPX_FUT": {
-   "price": 7683.5,
-   "chg1d_pct": -0.11
+   "price": 7689.25,
+   "chg1d_pct": -0.04
   },
   "NAS_FUT": {
-   "price": 29193.5,
-   "chg1d_pct": -0.28
+   "price": 29234.0,
+   "chg1d_pct": -0.15
   }
  },
  "headlines": [
@@ -59,24 +59,24 @@
    "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
   },
   {
-   "t": "Newsblog zur Lage im Nahen Osten - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiVG1GRzBENlZyT0FWMUJZaW5DaTRVaUR5alhlc1Rhc1J1d1lZd1BadUY5UG5UTFBva1FXenhuWk1aNFdoMXV3UFpPT2V6UWxmM1lzU1J6MkxhYTUzZmljVzl3R1VnS3BldDdGZTJJbmJiNTA?oc=5",
-   "pub": "Wed, 26 Aug 2026 01:56:11 GMT"
-  },
-  {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
    "pub": "Wed, 26 Aug 2026 04:12:11 GMT"
   },
   {
-   "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
-   "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
+   "t": "Newsblog zur Lage im Nahen Osten - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiVG1GRzBENlZyT0FWMUJZaW5DaTRVaUR5alhlc1Rhc1J1d1lZd1BadUY5UG5UTFBva1FXenhuWk1aNFdoMXV3UFpPT2V6UWxmM1lzU1J6MkxhYTUzZmljVzl3R1VnS3BldDdGZTJJbmJiNTA?oc=5",
+   "pub": "Wed, 26 Aug 2026 01:56:11 GMT"
   },
   {
    "t": "Straße von Hormus: Iran und Oman beraten über temporären Korridor - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6N3hERkxkU0ZiQjJxY2J2U09KY3o4cVYtMkNaZXkzN1ZSWm9hYlV5QXhvenFkSG5BazRDeUZjY0ZVUmt6ZWk3OHo0UzIzZzlMZkhfZXZIYy1LQVZ0X1paRzFvQ0l5UG56Tm84WW5Wd2czUmZDYUtz?oc=5",
    "pub": "Wed, 26 Aug 2026 04:34:15 GMT"
+  },
+  {
+   "t": "Vorübergehende Schiffspassage: Iran und Oman nähern sich Hormus-Abkommen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2IxM3g0SnlzSGt4VS01TWNVdTduS0daNWhoaWJvV2NwV2U2TTNQRWp0bWVCYkVEZWhwb3g2c3ZJR2ppLXQtbEE0dGk5MHRVVHB4bUVJTHdlQlJJNno0Mm5mVG9kcUJKR3BrMndIUDJ1Y01HNllva3JTLXAzWTZNZEtNSHhvd2M2YTM1N3dyMA?oc=5",
+   "pub": "Tue, 25 Aug 2026 18:23:16 GMT"
   },
   {
    "t": "Straße von Hormus in Iran: 20 Tote und Tausende gestrandete Seeleute - Spiegel",
