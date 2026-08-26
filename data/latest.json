@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-08-26T01:59:12Z",
+ "collected_at": "2026-08-26T03:19:20Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8022,
-   "chg1d_pct": 0.02
+   "price": 0.803,
+   "chg1d_pct": 0.12
   },
   "USDJPY": {
-   "price": 159.06,
-   "chg1d_pct": -0.05
+   "price": 159.003,
+   "chg1d_pct": -0.09
   },
   "GBPCAD": {
-   "price": 1.889,
-   "chg1d_pct": 0.08
+   "price": 1.8901,
+   "chg1d_pct": 0.14
   },
   "AUDJPY": {
-   "price": 114.141,
-   "chg1d_pct": 0.26
+   "price": 114.179,
+   "chg1d_pct": 0.29
   },
   "EURUSD": {
-   "price": 1.1674,
-   "chg1d_pct": 0.05
+   "price": 1.167,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0944,
-   "chg1d_pct": 0.06
+   "price": 1.0952,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 80.64,
-   "chg1d_pct": -5.14
+   "price": 80.25,
+   "chg1d_pct": -2.56
   },
   "BRENT": {
-   "price": 85.5,
-   "chg1d_pct": -7.24
+   "price": 85.22,
+   "chg1d_pct": -3.79
   },
   "GOLD": {
-   "price": 4705.3,
-   "chg1d_pct": 1.39
+   "price": 4706.8,
+   "chg1d_pct": 1.48
   },
   "SPX_FUT": {
-   "price": 7672.25,
-   "chg1d_pct": 0.03
+   "price": 7685.5,
+   "chg1d_pct": -0.08
   },
   "NAS_FUT": {
-   "price": 29108.75,
-   "chg1d_pct": 0.01
+   "price": 29218.25,
+   "chg1d_pct": -0.2
   }
  },
  "headlines": [
@@ -69,9 +69,9 @@
    "pub": "Tue, 25 Aug 2026 16:06:01 GMT"
   },
   {
-   "t": "US-Sanktionen gegen den Iran: Iransanktionen der USA verschärfen Spannungen mit China - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3hqZXdFcjM5RGpqV1VESHE5V3FkRi1XWjdpVVBPZFFQcFpRMldKVEJrMlpNd3A4ZlZhY2NkdG5kVk42RVQzUzRoLUNPMHpDSjVBbDlCTDNUekVxeFZRWjMtWHBpTC0zTlg5Tm5GOEx5TzhFcUVLOFV4QmZGT2szZ19CQTJQVi1PWDIw?oc=5",
-   "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
+   "t": "Iran: USA reden von wirtschaftlichem »D-Day« gegen Teheran – doch was ist mit China? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
+   "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
   },
   {
    "t": "Trump droht Iran mit Zerstörung von Minenbooten und -schiffen - Jüdische Allgemeine",
@@ -79,14 +79,9 @@
    "pub": "Tue, 25 Aug 2026 15:31:00 GMT"
   },
   {
-   "t": "Iran: USA reden von wirtschaftlichem »D-Day« gegen Teheran – doch was ist mit China? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
-   "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
-  },
-  {
-   "t": "Iran verhöhnt Donald Trump mit legendärem Plakat der Band Nirvana - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVpDV2VoMl9BdlBRZS0wTnBNOXVyTDFfbVMyT1hValNyQkNTTjJfWWVsN1piNGswbi0xTFdfZXNOZ2k0b19ZOTVwMEFNZlFidzIyYURKZXd6LURIRHlST0hLeV8zekJqS0xJMFhvcjlDdXh0ZkFKMzVrcmFsb1lSNzFDbExiVFF1bEIxUWctcGl3Mjd6MnRBZTZxZHBGc25aTElLQ2EteTVJeHhtVTlhZVZZSUZIbmxTU1l4T3EtX2tHS1B2Y2hHZkVZbXlvV1luNEw2VDV0Z2JFVFFwZ3BBVUtR?oc=5",
-   "pub": "Tue, 25 Aug 2026 12:27:17 GMT"
+   "t": "US-Sanktionen gegen den Iran: Iransanktionen der USA verschärfen Spannungen mit China - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3hqZXdFcjM5RGpqV1VESHE5V3FkRi1XWjdpVVBPZFFQcFpRMldKVEJrMlpNd3A4ZlZhY2NkdG5kVk42RVQzUzRoLUNPMHpDSjVBbDlCTDNUekVxeFZRWjMtWHBpTC0zTlg5Tm5GOEx5TzhFcUVLOFV4QmZGT2szZ19CQTJQVi1PWDIw?oc=5",
+   "pub": "Tue, 25 Aug 2026 09:33:18 GMT"
   },
   {
    "t": "Iran-Sanktionen – Trump-Regierung kündigt »wirtschaftlichen D-Day« für Iran an - nd-aktuell.de",
@@ -94,19 +89,24 @@
    "pub": "Tue, 25 Aug 2026 13:53:02 GMT"
   },
   {
-   "t": "Nur noch 31 Prozent: Iran-Krieg lässt Trumps Basis bröckeln – Carlson macht jetzt Erns - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWthSnQyN1haY01QR0ctd0Ffd1ZrRUxkdlFrSi1zWEVtVjh3VHhqRXRZZEFkS19zek5EVGRkRWpBTHp4R1RMRzZqcXdLcmdTTzhYVU5nTGJHTHN3OERkQnJWUmVjeGhrTFh3T1gtSEZLRmNxRVVRcE9lSmxXWUJCM0ZXRnF2TUZoWWlVMlNFNW1FYnFYOEJMdHpB?oc=5",
-   "pub": "Tue, 25 Aug 2026 21:42:48 GMT"
+   "t": "IWF: Wirtschaft verkraftet Energieschock besser als gedacht - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVVmMXZZU0dWcEdIWFdvNW9teXU4TTl3cm5aR3hOa0N6WG1CUFhGNEt1YkxYUjAyZTlVSkUtcHhFU21BY09iaDAySEFfVVQxc1lHaFNYUnRDZFNpNzRGT2dfTFFmLVc1SXNYY2VYajB5NV9Xa0lnLUJ1NGczUk1BMDc4aw?oc=5",
+   "pub": "Wed, 26 Aug 2026 02:02:00 GMT"
   },
   {
-   "t": "YenDrain: The price of Japan's capital outflows - DWS Asset Management",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYThUWkRydTVNWDRtRXRwVmJ6YVNYT19jTm50NkI2VDZWTUhCWUJNa3RvVWF5bFJWcmdiaUR6d3Z2MWk2M095RGxVY1dsRkJER04wYVpPTmduaHBtV1JCMEtGcTE0RlBER2FERHBFR3dheUdrNjRmTm1sWGNOc2xyLXdHR0pTRWhiNkxXTElFY1Z4UEtINjFSLTI4MmM3OGwzcUFwY3VB?oc=5",
+   "t": "Iran verhöhnt Donald Trump mit legendärem Plakat der Band Nirvana - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVpDV2VoMl9BdlBRZS0wTnBNOXVyTDFfbVMyT1hValNyQkNTTjJfWWVsN1piNGswbi0xTFdfZXNOZ2k0b19ZOTVwMEFNZlFidzIyYURKZXd6LURIRHlST0hLeV8zekJqS0xJMFhvcjlDdXh0ZkFKMzVrcmFsb1lSNzFDbExiVFF1bEIxUWctcGl3Mjd6MnRBZTZxZHBGc25aTElLQ2EteTVJeHhtVTlhZVZZSUZIbmxTU1l4T3EtX2tHS1B2Y2hHZkVZbXlvV1luNEw2VDV0Z2JFVFFwZ3BBVUtR?oc=5",
+   "pub": "Tue, 25 Aug 2026 12:27:17 GMT"
+  },
+  {
+   "t": "Yen unter Druck: Der Preis von Japans Kapitalexporten - DWS Asset Management",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUJfSzNlaDNid1A3NnNMQ2xwRkJhYy1ISl9adzNkbUlRVktzRjhWNmRNSkdaMDZqZ0dqZm1WdXYxNDJHVFZDS24zRlNKMjdYZndLd2MxYTNGNVRqOVJhVFNCeTFLOUsyN1BCQ2J5N0puX0ozUWZ0cGtQLXVPTXBzVnRQbll3NTJ0anRnVHJETG9vZEs5UkNvZHAwQVp0YXhZQkJXUUdn?oc=5",
    "pub": "Tue, 25 Aug 2026 14:50:28 GMT"
   },
   {
-   "t": "USA drohen Partnerländern des Iran mit Sanktionen - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10NmtjeW5mWEV3TG5NeV9GUC1WUTNPemJmZUdqOC1FNjRMYjFDNFBzLTFIRkhhcVFodWJZMlZZREY0VmZrUFNGeGtHRS1sc1NxT2RDOTJXampVZWttVHc0?oc=5",
-   "pub": "Tue, 25 Aug 2026 12:15:01 GMT"
+   "t": "Nur noch 31 Prozent: Iran-Krieg lässt Trumps Basis bröckeln – Carlson macht jetzt Erns - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWthSnQyN1haY01QR0ctd0Ffd1ZrRUxkdlFrSi1zWEVtVjh3VHhqRXRZZEFkS19zek5EVGRkRWpBTHp4R1RMRzZqcXdLcmdTTzhYVU5nTGJHTHN3OERkQnJWUmVjeGhrTFh3T1gtSEZLRmNxRVVRcE9lSmxXWUJCM0ZXRnF2TUZoWWlVMlNFNW1FYnFYOEJMdHpB?oc=5",
+   "pub": "Tue, 25 Aug 2026 21:42:48 GMT"
   }
  ]
 }
