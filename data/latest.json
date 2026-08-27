@@ -1,97 +1,87 @@
 {
- "collected_at": "2026-08-26T23:35:07Z",
+ "collected_at": "2026-08-27T09:51:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8049,
-   "chg1d_pct": 0.4
+   "price": 0.8058,
+   "chg1d_pct": 0.51
   },
   "USDJPY": {
-   "price": 159.231,
-   "chg1d_pct": 0.01
+   "price": 159.455,
+   "chg1d_pct": 0.15
   },
   "GBPCAD": {
-   "price": 1.8862,
-   "chg1d_pct": -0.09
+   "price": 1.8847,
+   "chg1d_pct": -0.17
   },
   "AUDJPY": {
-   "price": 114.351,
-   "chg1d_pct": 0.26
+   "price": 114.434,
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
-   "price": 1.1659,
-   "chg1d_pct": -0.13
+   "price": 1.1648,
+   "chg1d_pct": -0.23
   },
   "GBPCHF": {
-   "price": 1.0942,
-   "chg1d_pct": 0.01
+   "price": 1.0939,
+   "chg1d_pct": -0.02
   },
   "WTI": {
-   "price": 81.83,
-   "chg1d_pct": -0.64
+   "price": 82.06,
+   "chg1d_pct": -0.21
   },
   "BRENT": {
-   "price": 86.59,
-   "chg1d_pct": -2.25
+   "price": 86.92,
+   "chg1d_pct": -1.05
   },
   "GOLD": {
-   "price": 4675.6,
+   "price": 4635.6,
    "chg1d_pct": 0.81
   },
   "SPX_FUT": {
-   "price": 7734.25,
-   "chg1d_pct": 0.55
+   "price": 7727.5,
+   "chg1d_pct": 0.49
   },
   "NAS_FUT": {
-   "price": 29597.75,
-   "chg1d_pct": 1.1
+   "price": 29619.0,
+   "chg1d_pct": 1.12
   }
  },
  "headlines": [
   {
+   "t": "Vor Deal mit Oman: Iran verbannt Militärschiffe aus Straße von Hormus - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUNfd0tIZDA3czBkZ2ZKZFBFQlhuRl9leFpMQ256ZF9hWTZpajdBM2o0cjVWa0h1NTlpbDhFaXZKTUNYQU9uenlUZ1lzNzJsRzJkU0d0RjQ2R1NHWnVTbkNoNTBXOWt1SlYweEM2cGtKT29zZWFQY2RqczdmWnlXVGJsaDhEcktuZlE?oc=5",
+   "pub": "Thu, 27 Aug 2026 05:33:40 GMT"
+  },
+  {
    "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Wed, 26 Aug 2026 22:48:53 GMT"
+   "pub": "Thu, 27 Aug 2026 07:00:36 GMT"
   },
   {
-   "t": "(S+) Iran-Krise: Stimmen aus einem Land im Überlebensmodus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHVYandjN1BFUTNwVWFwZVJxWDJQb0lQbGlHZW5XWFVCaVlTMzZCM0ViYzdRWEE5Q3BYV0xwRlVoS1VpUzVyTWJBX1F2NTZISDVWUHVrNEVsamxUWnBNZG1VaXM2NUo2TWdMcmo4ZkhKYV9Fcld5TnhXd2R5Q1E0V2dPUmMyOGV6R2Z5QWZ0ZGFqNzhMWlNvbEJUbUhERm1CcGQyX2NWWHdLZzQ5b1czazc2VHVWYzdLTHZ2bXN1V3Q?oc=5",
-   "pub": "Wed, 26 Aug 2026 17:47:00 GMT"
+   "t": "Ein halbes Jahr Krieg im Iran: Trumps Vorgehen hat einen hohen Preis - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObU93UzBiOXVVZ3JvcEhENjJKSTYzMkZlRUtzRTFhd2dadUJBSUNGeWRab0NFUG5sMm9MaXZxcm5HbmlqbFhSbFZEQzlNV0R2dnVsTExsazI5aHRTbEFWMklBRXVYSkRncGRRVEJFcXllcHVvLUxCZVdqSGc0TUxrNHJNUGc1TUlQMWJkbTZVYWkxWHp0RGZkSzNtdHBGNkhSNThKVWQtVEIySE1jYmxiUlNrNEM0SnMyUHh4QWtZNzJEaDk5MWRRbGJ4RE1iQlRzYlhHeXp2bFBPUTkzeFYyaUJ0a2NJRXZIVW00?oc=5",
+   "pub": "Thu, 27 Aug 2026 06:25:03 GMT"
   },
   {
-   "t": "USA sprechen von „Endphase“: Gewinnt Trump den Iran-Krieg jetzt doch? - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDUzN2FJUy1sMTcwZGdDcjFEdVZpQ29vYkxJbHVMcXZKRHFkQ1J0TmFDUi1PYVZZdGRMWFBxWXd5VU9meEtsY01tVjNiS0F4UDJoX1EtdnZJdlFoR29TX3VJRDROTHNzTlRsMkNvOFBUa1l6S0JSaDNUUVpTSmlVWk1DNnczV00zXzl6RlFhemFINTh1dXZvbnkzQk1KUDRMdmVhOFhWMHJuMG13R3FSSWlPMzQydnc0WW94S3pXVjFfNUxKZmNyalZsSDNubjg2eUI2UlRYTVIyZHNSV3Ew?oc=5",
-   "pub": "Wed, 26 Aug 2026 11:04:21 GMT"
+   "t": "Iran bezeichnet US-Sanktionen als Wirtschaftsterrorismus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2JLSGpDUmxrczkwOHh2cG5zTlBHZm9aUlVnWGV6VktINXBMX3l0VFZKTW5DWGJqS0haODZqeUVDcW9MTy1LTUJzRW0teXMtcTRaWmJCcVV4N21Ra1M0TG5zbV8ycjZ4eVZ5MVczSGVlVnpmMHdCM1c4ZUdJR0VYYnNSenhmMlh2NUo0OVRHYU42RV96Y1I5V2RoaW16ZkxwN3pnS1pZWUp6Tjcxdy1kdG5aV2xMWkZVU0pDX1hkclZ3RjNr?oc=5",
+   "pub": "Thu, 27 Aug 2026 00:22:00 GMT"
   },
   {
-   "t": "Iran und Oman verhandeln über Hormus-Korridor – aber Experten zweifeln, ob das reicht - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkhRSU10ZldrbTBpSkNjRlp4UVo5M2NWWW1lUnkydkY5dHREVm16TXFhblNEV1kteldzeUlJeWU1QVUweExrLXRTM0dQSkhyR1dXaS1ucDdDd0ZfbW1ocThvMFFWRnBCaHZaY1VleDNhaF9wTWpGTTlJaVNwSDdxVzJaa3QzSld6QmdHSHdQVWRzVnQtbU8teE15UHlqZG9SMEZ2ZVRQVWpiUFp3T3VIUg?oc=5",
-   "pub": "Wed, 26 Aug 2026 12:04:35 GMT"
+   "t": "Iran bezeichnet US-Sanktionen als Wirtschaftsterrorismus +++ Erneut Tanker in Straße von Hormus angegriffen - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY1pyeDZhamwyTkRVeUZ1YXQ1VHM0aGwzd0N0R3lGVzZFRzlGdmtxaFcwa2RpM0RIbVFJaHFuTFNQUHZzWEIxM1dzU0NtSU91elhtU3dPVDEzWENuWjN6aDZvMDFGUXB4ZzZzZ29wd0JOaUpJX3ZwVTNXaFpJa1BZNU1BMlRqRW05UmhVOVJISEJ0TW1HTW1yVXhWVlpfckJITHhRWmtRTWdjZU8tVDR3QjU2M2p1MWRuNHh1UG51Yk56SjZkZDFVQ2QybUxXcU9PTmI4eTQ0X1Q?oc=5",
+   "pub": "Thu, 27 Aug 2026 01:25:05 GMT"
   },
   {
-   "t": "Munition und Drohnenbauteile: Putins abgeschirmte Route nach Iran hat eine Schwachstelle - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPemJrMk1PVGlEY055RWd1elc5R3RtT29yZVdiU0NXdkZzcEpZd2VZc0ZyRmd4Q2tiMHE3dnBXbWtlV19OMDNnakhZUmU3ZTBRcUM4MENkbVB4UmgxamVDMDlqdW5nbkdJa3lkdmZVeVlzd18xRXpiRnZzUW94MnNXQ1FLbW9UVkhRdDJnN3VhMmhRS1IzNk81cGhiQ0FxcjBMVVROWk5LZHhTazFUaHR1c3B2YXhIOW5MemJyc0NHT0xjNmlUUWdXV1lBY2tLd3lwbTN2TmxGcFN6YWNCSnp3?oc=5",
-   "pub": "Wed, 26 Aug 2026 09:56:46 GMT"
+   "t": "Iran-Konflikt: Wie viele Kosten erneuerbare Energien einsparen - Table.Briefings",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVlhQmNraUJGTkdrbkswZFhmUWc1M2VVaWdWWC1UN0NmMk1TQUJZSm1HRFlzMWhRNU9tZVNLN1NIdTluMGQwc3ZQcXRiUFd4NEJWc3lramtOTlNPc2UyUnBpcDV2WjJDZTZsSE9EdE1hR1N4YXhnbXFiWVc5V2dSVUhPbE1UYnRZZ05pclYxUnJZYlhaazJydEtR?oc=5",
+   "pub": "Thu, 27 Aug 2026 03:14:45 GMT"
   },
   {
-   "t": "Washingtons „wirtschaftlicher D-Day“ gegen den Iran verschärft den Konflikt mit China - World Socialist Web Site",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43alBZQnVxZXJIbjAtLVlodXVTTHJNVmJPbjVhdnBoZUp6cG04S0xYVS1pMnNYelY0ZDAzdk1QWUV6SXNBd3VLMXYtWHYwZkk2dmZac3lJTEV4aW1nN1pWZVZvcHJ1ZXQt?oc=5",
-   "pub": "Wed, 26 Aug 2026 22:10:38 GMT"
-  },
-  {
-   "t": "Wirtschaftliche Krise in Iran wird für die Bevölkerung immer mehr zur Belastung - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SRTFQdUNucjM4TlpNZVdEVV8yYlhsSFRKMnAtTkhQSFRhNUQ0N2FNOFBfUlZMZGVqdlA1RnVlNjVDNkJGX3JZLUFTTGZhTU1adExZWDlaM292QUZja2VIT2ZaQnl2VDQ?oc=5",
-   "pub": "Tue, 25 Aug 2026 20:59:10 GMT"
-  },
-  {
-   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
-   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
-  },
-  {
-   "t": "Sanktionen - US-Finanzminister Bessent will heute Sanktionen gegen Iran bekanntgeben: \"Wirtschaftlicher D-Day\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcUpBWkF3UVFpWUgyclYydmVER3NRbGpQVGprUi1hcDhVX0tQS1VfNHdfRE9mcTdveEZtcUxhME1fOVpmZXZxQjRrRFFCUG1odzBvdUg0dWZaMzdiY2RQRGM5cWl5R21ydEZoaFlmaHdaOXJaMU0xQXp2QXd5V2hWVVBoMDc5eUFnR0hNNWFSWWRLejZoRk1iWVplUHZUYllQTjhJcmtHRVZtMWdMcEFTUWJZV21zQkxubEVzUTBnVmFSVzBwdXNKbUgxMnhoR3c?oc=5",
-   "pub": "Mon, 24 Aug 2026 17:15:23 GMT"
+   "t": "Sechs Monate Iran-Krieg – eine Bilanz: Das Regime in Teheran könnte sich zu früh freuen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGxGQ2pjREQ1UGc5alFBRHQtS0NVMzNBbXZzNUp1UkRVaDlLaThfbmtlSzV5MmtRTHV0MENoU0J6cUhHM0FqdFk3VU5rYmRwLVI4QmtWbFQ4aFN6SFR6UWpNaUF5WHBoRkRycmtiYWtjdU02cl9lZkRlMjYtR2o4OTJ0TWNVQlNkYnJTTXpZOFpfSDlUbUZyaExEajF5UFlVXzdNUk12LWc1djltWDFlQlU3QTBCcVlEcXQ4NHp3N2paTXJSdWtWMjFfdERNeERBNTk3SUpvUEpSYTQ?oc=5",
+   "pub": "Thu, 27 Aug 2026 09:33:32 GMT"
   },
   {
    "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
@@ -99,14 +89,24 @@
    "pub": "Wed, 26 Aug 2026 19:59:32 GMT"
   },
   {
-   "t": "Straße von Hormus in Iran: 20 Tote und 6000 gestrandete Seeleute - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeXdzeDFfakJvbW9EMXVsbURzT29xb29EZDlEeHhpMlpHeVk3MlhDZnZfdkZyaVljaDlfclRYVDNzZVU2NzRJc09JcU9ySVVqejRpcHhGNzVseWdCZktRUFpQWmxLdnUwQk5lcXQ5Z1BMakhLbnVpekZTN3hORzloQTlxblR6OFVEMG16em1sdlphWjdCMnIzclJNWF9nandFbVZGSzlTRHJlNDRZOHdPa1Fmenk2OFEwelJrU1dBek9yUEc1ZXdOWGVlMUNkZDBxYXJoTy1qODRaaUZ5OFZvT0dINFY?oc=5",
-   "pub": "Wed, 26 Aug 2026 04:51:00 GMT"
+   "t": "(S+) Iran-Krise: Stimmen aus einem Land im Überlebensmodus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHVYandjN1BFUTNwVWFwZVJxWDJQb0lQbGlHZW5XWFVCaVlTMzZCM0ViYzdRWEE5Q3BYV0xwRlVoS1VpUzVyTWJBX1F2NTZISDVWUHVrNEVsamxUWnBNZG1VaXM2NUo2TWdMcmo4ZkhKYV9Fcld5TnhXd2R5Q1E0V2dPUmMyOGV6R2Z5QWZ0ZGFqNzhMWlNvbEJUbUhERm1CcGQyX2NWWHdLZzQ5b1czazc2VHVWYzdLTHZ2bXN1V3Q?oc=5",
+   "pub": "Wed, 26 Aug 2026 17:47:00 GMT"
   },
   {
-   "t": "Trump droht dem Iran mit „Wirtschaftskrieg“ – doch Teheran prophezeit den USA eine „neue Niederlage“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3RBZU5Nb29hVGRQTnBtNFBDWjdYeDRoV1J1SVJiRnl2NWRvNFNTRjlrYjJYTXZZZHF2QU1sTGFNTFpEWUxMUUExX2w1STRRdzlLVVoyODlTbi0zX1JRNjJiX3BuNURSeUtBdTdtYnVPbGdrQ1AtX1VmWkhJZVJMTTJOVEV2YXNTcWxfTGZRcVFCVkk4bnVmaHEzRlFlR3NN?oc=5",
-   "pub": "Wed, 26 Aug 2026 02:45:00 GMT"
+   "t": "Iran: USA reden von wirtschaftlichem »D-Day« gegen Teheran – doch was ist mit China? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
+   "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Katar spricht mit dem Iran über Deeskalation - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjR5VV9QZERSSlpIUHJibTBmM0E3WW5FNnNLelFqLTc2MDZJV0Myd1oyM2NNbmhlVHBFNGNxQ2pwLXNybEs2c01yV0I1OHduOFh1bks5dGZkSkRTd3BZT2FITEVTYS1nR05rcW5iZXctZDhlSXNBOGN3SzhpLVd6WVRDN1VqTlpiSnJPQzhVRTdSZVphN04tdlJjaFIwZVhONjZXajNiRzBTNkxnS2tiYTFWYw?oc=5",
+   "pub": "Thu, 27 Aug 2026 05:22:36 GMT"
+  },
+  {
+   "t": "»Wirtschaftskrieg« der USA: Iran droht Unterstützern von US-Wirtschaftsmaßnahmen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTC0xSkpIeEtva1BsYmdweG8zXzc4cElEUzAzU01CVWRRZFZPRkFPQTh5c3FucTdoUjVUVDBXb3hfVnZYcWJMT3hycndxdmNfa1pXSFgtc0FJUUl1aEV2QVdHVThlaHFkLVdCWjVtdkdFM2VzOGtTVWlGTWpnZ0pjU2VVQVlOeVlTd2hNTTlIWk0zR3pKRWN5TVMxdjBxZw?oc=5",
+   "pub": "Sun, 23 Aug 2026 07:08:36 GMT"
   }
  ]
 }
