@@ -1,62 +1,72 @@
 {
- "collected_at": "2026-08-27T20:31:56Z",
+ "collected_at": "2026-08-28T05:25:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8043,
-   "chg1d_pct": -0.09
+   "price": 0.8048,
+   "chg1d_pct": -0.03
   },
   "USDJPY": {
-   "price": 159.395,
-   "chg1d_pct": 0.09
+   "price": 159.548,
+   "chg1d_pct": 0.18
   },
   "GBPCAD": {
-   "price": 1.8827,
-   "chg1d_pct": -0.18
+   "price": 1.8821,
+   "chg1d_pct": -0.22
   },
   "AUDJPY": {
-   "price": 114.678,
-   "chg1d_pct": 0.28
+   "price": 114.8,
+   "chg1d_pct": 0.39
   },
   "EURUSD": {
-   "price": 1.1654,
-   "chg1d_pct": -0.01
+   "price": 1.1648,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.0929,
-   "chg1d_pct": -0.13
+   "price": 1.0934,
+   "chg1d_pct": -0.09
   },
   "WTI": {
-   "price": 83.6,
-   "chg1d_pct": 1.67
+   "price": 83.28,
+   "chg1d_pct": -0.3
   },
   "BRENT": {
-   "price": 88.59,
-   "chg1d_pct": 0.85
+   "price": 88.38,
+   "chg1d_pct": -1.47
   },
   "GOLD": {
-   "price": 4658.7,
-   "chg1d_pct": 1.32
+   "price": 4631.7,
+   "chg1d_pct": 0.48
   },
   "SPX_FUT": {
-   "price": 7735.75,
-   "chg1d_pct": 0.59
+   "price": 7736.0,
+   "chg1d_pct": -0.08
   },
   "NAS_FUT": {
-   "price": 29649.5,
-   "chg1d_pct": 1.23
+   "price": 29624.75,
+   "chg1d_pct": -0.24
   }
  },
  "headlines": [
   {
    "t": "Iran-Krieg - Trump sieht keine Eile für weitere Gespräche mit Teheran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmlwYlQ1elFySnZ4UHctbnF4NnYwVUd4SHRJTTd1anA5b0hDb1o5ZGkzcm9aeVgybzNxc2tUWjktS0ZWMHBYQV94SlJaQmoxLWNwaXBEWGlGbDBjdmY5eUxRaWNlMmtkdEtFZV9icHpvMFExdzQ2TmpjVFktWE9XRi1QakVlVUtoU1dnNzAtdzJYX0J4UDNEMjF6SlROOTQ?oc=5",
-   "pub": "Thu, 27 Aug 2026 18:40:00 GMT"
+   "pub": "Thu, 27 Aug 2026 19:19:39 GMT"
   },
   {
-   "t": "Martialische Rhetorik: Wie die Hilflosigkeit der USA im Iran-Krieg zutage tritt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMURybTRDOXdRNEhJV3ptdnhYZ1dDd29TMVlqWHU2eXY4ZDFsalE0dW5ZY1MycFZoVHBhNUZsWTE3bEctOUtLMDI4Y3I0aEpvek1XRUFWQ1A5TGFsMEg5V2lMTi1EYnFEMnRGMXFmbWJfcVpFMUt1aUpDdTlDZ01BSnVBaDh3bm85MTgyNVdiZ25DdV85eEZvNEs0TlUwYlNPVjkxaG8xLWJoQWlrQ3JLSlR5LU13dy1oelgycnI4YTBiVWJVMm01Wk9DZXlmNVJ4Qkl0eC1SLWs5bUFnaV9LM1h3?oc=5",
-   "pub": "Thu, 27 Aug 2026 16:49:01 GMT"
+   "t": "Kein Ende in Sicht: Zermürbt der Iran-Krieg letztlich Trump selbst? - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR3RvYXppT3Y0M2cwczV5SzJTOGJ3SndGOU5DRUx0OXJhNERqbWR6RDAxd3d5Umd3VHlVa1BuVVRpNjV2dWJBaVpYMmtpOGNxdHFzV0NPYkxlY3hPQ1dGQUpHcWNfUDh5eUhKUWNHZ1FJSGpPUVN0YjVYZU8tMkNPSnZycEs1Y2RnZDZyRHhfWWZnbWRHeXc?oc=5",
+   "pub": "Fri, 28 Aug 2026 02:40:07 GMT"
+  },
+  {
+   "t": "Neuer Fed-Chef Kevin Warsh: Der große Irrtum der US-Geldpolitik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQmxVRDVrLTA4cDJyZTdERXl3UlpHemttdm1EUmlHQUs3VVZZN3k5aWJpbU5sOEpfYUpCaDRZeGQtYkhLNkNQcXJGLWpId3p3T2dJa3VXSzNvbkl2NU13S2UwUlVLQTQxNnlPWW84RGdmVF9GNzdwbFVNUXpzUGlkZnBBZWNOTm1talRtbk13dFBoc1gxcW5QY3VWbmZsRVByNkY5N1BIam1ncjdrX3YycHZmSmczUnBVeUtXMlNnNlhpcldXV0gw?oc=5",
+   "pub": "Thu, 27 Aug 2026 18:59:45 GMT"
+  },
+  {
+   "t": "Kevin Warsh: Der Fed-Chef, der nicht eingreifen will - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFhZM2VQNnJxLWVuODlKSW9RRmw1QUZJSlpUNmV4TGZIMU9IdHJuYUttd2VVNEJzd3RBQ3pYaDE3MEVSdnEtLW1uUzJrTG9HbHdhVFM2OHBMenZVcGZRMkI5aDlaak9hMnJkcEZOaTd1eExKY0NOQkpPMjlDVW9xZUVzZVdPN01Rbk1ydmxTVld6MzJTSUZRYkVJQTdUai11dXBn?oc=5",
+   "pub": "Thu, 27 Aug 2026 15:36:42 GMT"
   },
   {
    "t": "Iraner waren Schachspieler, jetzt spielen sie Poker: USA setzt auf Sanktionen, Teheran sucht Alternativen - Frankfurter Rundschau",
@@ -64,9 +74,19 @@
    "pub": "Thu, 27 Aug 2026 14:36:53 GMT"
   },
   {
-   "t": "Kevin Warsh: Der Fed-Chef, der nicht eingreifen will - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFhZM2VQNnJxLWVuODlKSW9RRmw1QUZJSlpUNmV4TGZIMU9IdHJuYUttd2VVNEJzd3RBQ3pYaDE3MEVSdnEtLW1uUzJrTG9HbHdhVFM2OHBMenZVcGZRMkI5aDlaak9hMnJkcEZOaTd1eExKY0NOQkpPMjlDVW9xZUVzZVdPN01Rbk1ydmxTVld6MzJTSUZRYkVJQTdUai11dXBn?oc=5",
-   "pub": "Thu, 27 Aug 2026 15:36:42 GMT"
+   "t": "US-Finanzminister will G20-Vorsitz für Durchsetzung von Sanktionen gegen Iran nutzen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTlqaWFWd0RFZ2czZWozS2k3eXNDRmIzVVB3VzViMEZLT082djNZaGFhVTJ5cU9YTjRYOFRfSTJmc1lnanpyNjBKWGRwVEo0Tmx4X203eWViYkQ1MGNVZ3dINFRxbXhFQW5CTGQ1MTBWWEdIQWxaRmxpZkJ3X2hMZmIzcjhzTW0wN3pDRGdvT2pMcTBxMlRMRXM4bmc4eDdtaTVWcGZBc184LUctSjRZbWZtQWtrMl9DeUJBVzhGdEF2M0k?oc=5",
+   "pub": "Fri, 28 Aug 2026 00:50:45 GMT"
+  },
+  {
+   "t": "Ex-General: John Ratcliffe sprach in Moskau womöglich über Iran - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWktVWUlCd2tPTU5Xd3AxSnVjZ096cGh2bHhYQ3EyWUt0QnNvdEdqZmJ1M1VwUGxnYkNrOFVDYzVzNzMzYVE1VlNuTXdQQnNGUm1STGVUSHNSNmh0ME9zcDJnRWVKWGVLdzRSanQ4cGdCWmZpdXdoWFVhXy0wNFlEZXRRaUxhWmg3NzFlZ3RqZ2RhUQ?oc=5",
+   "pub": "Fri, 28 Aug 2026 00:24:00 GMT"
+  },
+  {
+   "t": "Sechs Monate Krieg im Iran und kein Ende in Sicht - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDRqS1NKYVJjaFp2a2xOMExpcWcxSWh1SndiemUzUTktNXdkZ3JBUnJQaURUQk14c0xvSFl4MERCZVRWLThmNHJKOEw1Y2hkYUVWdGJ5VEF6YlB3UkRTYUw4TzZJSjhYZUtQYnlEa1FyLTIyXzNOWktGYXBoM2J2Z2o4dmpycW1aaFQ5cnBWc013UUx2WWxIT0VPMlM0N0REdWpNaTNVZWdmNW9rWVFXbnBFRFlwVEJpMmd2c1pyRTJ6SVhlaTZyRVl2dw?oc=5",
+   "pub": "Fri, 28 Aug 2026 03:00:00 GMT"
   },
   {
    "t": "Sechs Monate Iran-Krieg – eine Bilanz: Das Regime in Teheran könnte sich zu früh freuen - Tagesspiegel",
@@ -79,34 +99,14 @@
    "pub": "Thu, 27 Aug 2026 18:41:00 GMT"
   },
   {
-   "t": "Vor Deal mit Oman: Iran verbannt Militärschiffe aus Straße von Hormus - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUNfd0tIZDA3czBkZ2ZKZFBFQlhuRl9leFpMQ256ZF9hWTZpajdBM2o0cjVWa0h1NTlpbDhFaXZKTUNYQU9uenlUZ1lzNzJsRzJkU0d0RjQ2R1NHWnVTbkNoNTBXOWt1SlYweEM2cGtKT29zZWFQY2RqczdmWnlXVGJsaDhEcktuZlE?oc=5",
-   "pub": "Thu, 27 Aug 2026 05:33:40 GMT"
+   "t": "Iran: USA reden von wirtschaftlichem »D-Day« gegen Teheran – doch was ist mit China? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbl8wZ1lESHRTWUZHc1ZuejRvbnRwaEctdGU1TW42MkhWN2R6Xzd5RlA5LWVvYmdVWF91WWxleEotaHViLUxoR0xyWTQxMnViV1otcFBkMjhkUjMtYU9IOTlIZXd5amhtMkc1V1ctWlQwY0cxYlZ1QndSaWFPRXB3bWY1QnRHWlNWcC14MW43dnpsZDVJNHd0MldIYUdMQW11ekhTR21yOFlVVE5taE51NnJuallRSS13c0VfNVhtSFo3OGFmUWh3TGlYNW4xZFI5ZU5RTlNqaGZJWkFHNWdsbWlham0?oc=5",
+   "pub": "Tue, 25 Aug 2026 01:32:00 GMT"
   },
   {
    "t": "Fed-Chef Warsh: Paukenschlag in Jackson Hole? Märkte vor Weichenstellung - Der Aktionär",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdW14TkNNS0p2ZU4xVk9pbGp2cjJHOE5KTFEybkVDYWdEQ1Uyc1Z6WmstWUtGUWktdGxPa0VRbzFxUzRDYUU3U3hnN0NvZE9fRUJodVBUd3lTOTNndllGQnRnTkw0LUZpUkNwVTZlUC1paV91Z0hpbDEtRW5nTVdwYVVPOUhYZVI4enJyanFWd1pGU2VQd1pEbWtFM3U3YnliTzJBQU1MZDFXNVdsb1RMcVdCaWVjM0tjSzZHVVRWdTQ1YWJQYTIxQQ?oc=5",
-   "pub": "Thu, 27 Aug 2026 15:57:05 GMT"
-  },
-  {
-   "t": "Ein halbes Jahr Krieg im Iran: Trumps Vorgehen hat einen hohen Preis - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObU93UzBiOXVVZ3JvcEhENjJKSTYzMkZlRUtzRTFhd2dadUJBSUNGeWRab0NFUG5sMm9MaXZxcm5HbmlqbFhSbFZEQzlNV0R2dnVsTExsazI5aHRTbEFWMklBRXVYSkRncGRRVEJFcXllcHVvLUxCZVdqSGc0TUxrNHJNUGc1TUlQMWJkbTZVYWkxWHp0RGZkSzNtdHBGNkhSNThKVWQtVEIySE1jYmxiUlNrNEM0SnMyUHh4QWtZNzJEaDk5MWRRbGJ4RE1iQlRzYlhHeXp2bFBPUTkzeFYyaUJ0a2NJRXZIVW00?oc=5",
-   "pub": "Thu, 27 Aug 2026 06:25:03 GMT"
-  },
-  {
-   "t": "CIA warnt Putin vor Angriffen auf Nato und drängt auf neue Iran-Politik - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTlJqUFB5SWdEWUhhZk1jMi1LZDBIdG55dDhjZm9BZXZqVDZHR3dDSmJUSUh4Wll2TnUyZDBFSk96X2taMVlYOGZTNHpoaV92X29jVXlLeExQbUFHQXVIcmN4OXJFZXhDeHJYbnp1TTFBM181T0NDQmNLU1hDNml2ZW90UzdxSWNqaE1UVHg0RUtMTDhRUk5qcHd1RGNjNjhmdlc2V1pwSVBzVkp6TUhuMXE3NEx0ck0?oc=5",
-   "pub": "Thu, 27 Aug 2026 11:45:00 GMT"
-  },
-  {
-   "t": "Iran: UN-Beschwerde gegen US-Sanktionen - THB - Täglicher Hafenbericht",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGNVME1HdGhFT0FrSzVsMGNYekU2cDN3VDllUmxKT05OM0lFenNtbXR3SENhLV9LUUwtQzBnel9ZYXk0NlFMbnp4RnFvblhOWGJzeWhZSXRDRkZfdjR1S3k0aDBzZlBFSkZhdTEzY1U5bGhKcG9sX2o2Rk1qV01rYk8tZVgyWERQV0xqZTJ0am9pckVPZE1yekk4cWVLeXlxNU91cmxPX0g?oc=5",
-   "pub": "Thu, 27 Aug 2026 16:00:02 GMT"
-  },
-  {
-   "t": "Iran, Inflation und KI: Wo die größten Marktrisiken derzeit liegen - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN09maUwwZ2xKb1pkSE96d0F1XzExU1ZiSkpzRmNNQ3preFN2ajRkeHR6RU41UUVkd3NxSkNDS3B6bEthb3ZpLVBIRERTd0t6ZjRxckRJMTNLbzFEc0FlSno2a3hrVGJzVnA0VEJ6WmgyZXV3ZVFQUWR4X3F1UEg4NEt4cmNGUFRoVUdfQ1d3dUpEdGVVbDN0YjBDWUpPVUFZbzdqRFJILXZtaGRJU1JlbHlGNEQtSDJQQS1WTC05b3J6OUhabVM4OXFzTkY2QzFYcHBacTA0LXdacWsteWJDQ2h3?oc=5",
-   "pub": "Thu, 27 Aug 2026 13:33:00 GMT"
+   "pub": "Thu, 27 Aug 2026 15:51:00 GMT"
   }
  ]
 }
