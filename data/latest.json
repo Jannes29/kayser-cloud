@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-29T02:12:41Z",
+ "collected_at": "2026-08-29T09:05:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -27,36 +27,41 @@
    "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 83.44,
-   "chg1d_pct": -0.11
+   "price": 83.4,
+   "chg1d_pct": 1.42
   },
   "BRENT": {
-   "price": 88.29,
-   "chg1d_pct": -1.57
+   "price": 88.1,
+   "chg1d_pct": 0.3
   },
   "GOLD": {
-   "price": 4504.1,
-   "chg1d_pct": -2.29
+   "price": 4529.9,
+   "chg1d_pct": -1.49
   },
   "SPX_FUT": {
-   "price": 7724.75,
-   "chg1d_pct": -0.23
+   "price": 7722.0,
+   "chg1d_pct": 0.42
   },
   "NAS_FUT": {
-   "price": 29509.5,
-   "chg1d_pct": -0.63
+   "price": 29491.75,
+   "chg1d_pct": 0.69
   }
  },
  "headlines": [
   {
+   "t": "Iran-Krieg - Iranische Künstlerin Forouhar bezweifelt Krieg als Mittel zum Umsturz des Regimes - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlldWs1UjdoWUpfMVFIWXllUmhCNXpQb1U5eTRKWW5fLUFYWFhJUkZoVGZ5c1QwM3V0dDhENE1YbVVxcGU3bkVmcU9odEpWTDl3NENVVVVraVlxM0NxTm51eTh3RnZ4STZmRUJUSkhhRGZZdlJuemJKaFJVQ0wwYVNyblRGSk9JeUZxaUMxS1BJSDJFLWZzYWVhVkUzWDBoTVhLQ2dLakQ2QXZneU1LU3NGbjB6UWtxLVhSYTJRRQ?oc=5",
+   "pub": "Sat, 29 Aug 2026 05:31:31 GMT"
+  },
+  {
+   "t": "19 Filialen, kein Investor: Große Feinkostkette gibt in Deutschland auf - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnVEMTU3cldCMVRGcjBXcVY2dDB4c1J1WFg1cXlNUG1xTUU5Ylh1UldyZUh1V0VPXy1OV3BJelY5LU90UEktZDRWMHU4MXZzUTlsNDZFLWg4aGZMSWFKdENEcE1DUExydVhYakxSeXdndG85c2xVUjZtUnhEb1RZUjVFU0t0bHpEODVFRVRUaG1Say1CWVFwZjNodjFVdy1VOHRqZWFzYw?oc=5",
+   "pub": "Sat, 29 Aug 2026 08:07:37 GMT"
+  },
+  {
    "t": "Jackson Hole: Fed-Chef Warsh signalisiert Bereitschaft zur Zinserhöhung - Manager Magazin",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMnc1eTZqNVlUV0Iwdl9FN3pFUEk3VUZ4LW1BRWV1bXJ0S1JVVVBQMjRXMWIyLThOV0I2UjB4c3ZtUUdrcV9KQ3lBTkZVYWxZeVlkbmp1dmN1VzVGY1dpYl95OWVCZDZhakVFVDhLc2ZJUDRYNG9nck52V2ZqaUwtb1dGcVhUWDR1YTk3eEJQS2NUX2dGV3BxNVFudFZOeFNjQ1VPYVAxeEdKVkhOYnM5dGJEbVI4bEZPZ0JQVlI1SURoR3l2emx4d2FXdHRrNkw4Sm15OEJ2YmlQVXVzMDBhdk1CVHVwMU5VYU1CTXpMM0JTaFpUaC1N?oc=5",
    "pub": "Fri, 28 Aug 2026 15:04:00 GMT"
-  },
-  {
-   "t": "„Sie haben ihre gesamten Waffen verschossen, ihre Schiffe ruiniert“: Iran-Krieg zehrt an Trumps Kriegskasse - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmNqcXJVN2x1cW5lTG1hY3lqN1FSYl9ISUZ6MUg2MDFETmFLazg2dHV0WTBRUU95T09YSTlnX2podHZxa29rb2JnNldYTWlqaXJjaTRjWGI0cFVxY2FlR1RLSXltSmRyWnJkWFV2azRtME00TG9McGJRbHRNUXhhc0FwcjNSSHplS2JhQzhCSmwyWXhucmgySlp1am1IX0lqOHZGODROY1JzQjJqU21lV0N2emlfYnpaT0FPTTdBemo?oc=5",
-   "pub": "Fri, 28 Aug 2026 18:51:12 GMT"
   },
   {
    "t": "Kommt die Zinsanhebung?: Fed-Chef Warsh hadert mit hoher Inflationsrate - n-tv.de",
@@ -74,39 +79,34 @@
    "pub": "Fri, 28 Aug 2026 15:33:00 GMT"
   },
   {
-   "t": "Iran-Krieg - Trump sieht keine Eile für weitere Gespräche mit Teheran - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmlwYlQ1elFySnZ4UHctbnF4NnYwVUd4SHRJTTd1anA5b0hDb1o5ZGkzcm9aeVgybzNxc2tUWjktS0ZWMHBYQV94SlJaQmoxLWNwaXBEWGlGbDBjdmY5eUxRaWNlMmtkdEtFZV9icHpvMFExdzQ2TmpjVFktWE9XRi1QakVlVUtoU1dnNzAtdzJYX0J4UDNEMjF6SlROOTQ?oc=5",
-   "pub": "Thu, 27 Aug 2026 19:19:39 GMT"
-  },
-  {
    "t": "FED-Chef Warsh hält Rede am Notenbanker-Treffen in Jackson Hole - SRF",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1MzNXZjZlRhZ3ppcmEyRFAxSkpEQW4zSFNLa3BCUXhVd2EzWjRKNS1fSm8wZkV0b2kyOV9UdTdHMTNZcTJUZEt0VXFWNzA2ZDNUT0N4THRUTkdMOEZkZFM0dDdVdFk3TmdobW9tQ0cyMVBsQ25JMDVLcnFfeHdROVRxUWxEOXpqLUdWbTRzMkFrRFQtTWdHdzRFYmZoeTcybEM4aE9FdWRETkdqMkp0OGplcFAzUF9LWXF0bzV3?oc=5",
    "pub": "Fri, 28 Aug 2026 18:10:03 GMT"
   },
   {
-   "t": "Legen neue US-Sanktionen Irans Wirtschaft lahm? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLV92Y1JDbUt2cDNzdGo2VUE2V1NPM3ZhVGVrTTRuLXFweGhlN2dpdjhOQU1QRk90VHowdV9TV1plRGFESE9nU2JFZUlHeUl2RDVJdUU5OUpqaC1ZVWVTODhtZVU4dU5CT2JXYS0wb2sxcTk4ZTkydUhXUnQxZWNWQVZYMThYVDgxN3R2bUJJTFpwVW9Bc2tfb0p0M0jSAZwBQVVfeXFMT2xFWDkxZEtQbnR3SkVVdEZneDgzREI3UUNDdTJVT2JTQTVtZXJNLUY0WTVjS25STmFJdFdmeHROQmc5WWFrR2tnZHM0dlBQTXRnenpsbnFfOTZSRHJGWGRXOUdkRTlxQ0hENTUtel9MWXNEUV9zTkhMQmhrcVVjclJTMTBLaGk3d0pULWJzZ3daeUNfMGM0ZXdRVGR4?oc=5",
-   "pub": "Fri, 28 Aug 2026 15:11:46 GMT"
+   "t": "Fed-Chef Kevin Warsh verweigert Märkten den erhofften Zinspfad für September - finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZW5BTW9rbHBvYTBlQkxzTlNVaGpDSU9HQ2x3U2xyZ0lGMEdEaDBHSW1KTDVMLWxmR01rbGV3UlU5b0lfWkVsbmpJbHlTMmZjVUxpR19FTjIzNDZSQ090M0VwdWxId1pka0EyZmJyVjJrRXNqTUtGUkw3cmFYdUVsYjNudkMxZEM2UzVSb09wdUhQTE1EdE1NRnlBcGRJd05XY0hkNHVUYjZXLUhFNGEwMzc4UXVncHJYRU12VzlWOXN0TVphYzJxTXJDWUJGeDltYmp3ZHNJdEJqZ2ZHRzZKY1psOUhUTEE?oc=5",
+   "pub": "Fri, 28 Aug 2026 19:03:00 GMT"
   },
   {
-   "t": "Verbessert ausgerechnet der Iran-Krieg das Geschäftsklima in der Chemie-Industrie? - SWR",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzYzZHozMHdDdHFxUlpNOUMzZlVfOV9XTmVBeTA1aTRPTDdBbUdmWGwzTkZUaENCUmpIR3JyYTVDR2hXWElBLWFHRDU3M2o2eU9abTY1dmVaMVNzVy0xejRuWDBSckJZNW5tWGlSaDh3NmlkUm5QZ2R6UVg0OVd6OW9xY2p1ajE5RkxFbHNwSFJ6U0poRFpYNGxQQzNtY1FNcmdSUGxqR0llS05ZNExkaHNB?oc=5",
-   "pub": "Fri, 28 Aug 2026 13:54:00 GMT"
+   "t": "EURUSD gerät unter Druck: Hawkish-Signale der Fed belasten Börse Aktuell 💵 - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjBRRjQxQmZQV3hXR1RnLUpNU2F1elY5UzZqVU9aZ1E3UEw4NjJ2anU3RWVWR2JiRWdOa3hkc2M3R2tUcFA3Vk9jaWhrMWltUkhPS3ZfNHlPZnJCN1Vfa2U5Uk11ZUc0emMzdU55RUZrelA4TjV3eWQtWGlCaFRUWXVoU3VHQjgwR1V3ZkdZQ19mODJQcUx3eHVOMWRhajVwSlZLazJmZkczVTZLSDdEMlprWG1zTzNGTC1iZVdQUUg?oc=5",
+   "pub": "Fri, 28 Aug 2026 14:31:00 GMT"
   },
   {
-   "t": "Warsh warnt vor Inflation und lehnt Fed-Ausblick ab - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHRHTkE5MktZYnVTRzdfV2hpYmVBU0hyOUlVZ1RjZFh6aERxT1lMeWdBcVZJSXNkbWRvYktOSDFidURrTEVkc3NhX3dDY015a21WVmVURUFUVDJDamFsZkdicGZoelNKNlEyODgyOXNKaEJsVm1lM1N0cGxTSWVYbmV5ek9DY3RkUTl3TU0xR3lsTEU5US1jNHpDOA?oc=5",
-   "pub": "Fri, 28 Aug 2026 15:17:59 GMT"
+   "t": "Iran-Krieg nach sechs Monaten in der Sackgasse - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2daUGVOQlQ4bERjQUd0YmZCdV8tLTFFc1JiaEtCMlhTc2RfTW16RHRSeWFWVC13ZVJjZEVObFZOOWxOVGc1UjZVOF9YUlNLSmRnZFE4aHRweTNXYzVpc2VzSEtDUzBDWnhQQThVallqdi1UZjRXMmlhYmczbFgyZmducmVfMzVNMXpqX2YwOUlBRGdPeGlBM3JObDE3SEVRM1Fkb1oyMA?oc=5",
+   "pub": "Fri, 28 Aug 2026 15:36:56 GMT"
   },
   {
-   "t": "Iran-Krieg: Irans Außenminister: «Druck funktioniert nicht» - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEwwYUw4UDdDeUY0WG90ejlnUllzZ2hveDVqUmlRSmZkam93OHVIZ01PRWhHeVdBWlJpLUVYRVdrWlVOZWUzXzlqZzRCdjRUT0hpSnljenVTcXlMTHpwREszVDNtY3JYS2JtSmd1WjljWEVDRFdUcENGaDBMQk13SjFvNFNORTFF?oc=5",
-   "pub": "Fri, 28 Aug 2026 07:57:57 GMT"
+   "t": "„Sie haben ihre gesamten Waffen verschossen, ihre Schiffe ruiniert“: Iran-Krieg zehrt an Trumps Kriegskasse - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmNqcXJVN2x1cW5lTG1hY3lqN1FSYl9ISUZ6MUg2MDFETmFLazg2dHV0WTBRUU95T09YSTlnX2podHZxa29rb2JnNldYTWlqaXJjaTRjWGI0cFVxY2FlR1RLSXltSmRyWnJkWFV2azRtME00TG9McGJRbHRNUXhhc0FwcjNSSHplS2JhQzhCSmwyWXhucmgySlp1am1IX0lqOHZGODROY1JzQjJqU21lV0N2emlfYnpaT0FPTTdBemo?oc=5",
+   "pub": "Fri, 28 Aug 2026 18:51:12 GMT"
   },
   {
-   "t": "Börse heute: Hawkish Fed-Chef Warsh setzt Märkte unter Druck - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDE3NU8xczY5WktvNGpBdW9zenk5U29SVXppeVFjWFgzal9xdTVndl94ZVRjQjlRNkZ0SWtWUHpCUjJVS2VxU29aQjBpOE1yRm5fX1hQMEtGSWh1MHI0OEg3ZDRaa3VtdFE0SkNWdllGdWREaHUtNGo5bVJJT09mWEFtcUhfemt3NE1jdFd5Wnkyd09PMlV6cktzM0JhZnVVTGN6M1RqV1E1R2FIR21ldA?oc=5",
-   "pub": "Fri, 28 Aug 2026 18:16:00 GMT"
+   "t": "US-Anleger fürchten Zinserhöhung: Fed-Chef Warsh dämpft Kauflaune an der Wall Street - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPamtyeHZaa0ZqZy1PZDJELU1CajNNaWdaZWJHZ3IyTExsMDNVcjVrSGh2VVk2OEtiSzVhSmFha1dVVTFCUTZnMFg1bHVoeVZtUGZzOWxHOUhWT1NiZHJCX2sxVU5ySnZDVHpCeXF3Y2FHTzZQX3czbnNYZGQ0R2ozR05LcUktRlo4bTRFbU1tZi0zRWlLQ19uMDNILWp3bkE?oc=5",
+   "pub": "Fri, 28 Aug 2026 21:04:21 GMT"
   }
  ]
 }
