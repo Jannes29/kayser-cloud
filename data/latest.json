@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-30T00:21:35Z",
+ "collected_at": "2026-08-30T06:41:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,6 +49,16 @@
  },
  "headlines": [
   {
+   "t": "Iran sendet Signale: Diplomatie treibt Ölpreis – Hormus bleibt unsicher - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa01pd3RsZ2JyQnNvdlU4aVlOVzUwNmtQalA2NEMtVzh4eEkxVTZBQmxJUTgxTjVkUFRFNFJfb2JRRm8xVHE2U0lKbFNpM0Rxb2RSdnNVRFdHQnNiX0ZsckFfYlBKdnAtV3ZRSWpKNmZLUDBYcU40MGFQSklHeEdMd050YlZQajQtSkVrOWJkSGgyYWxDNEs2N1VnT2lrbUdYRUpRNXd2V2pLdTk4MmRGTjE0dUhMZUNNMFlaanFB?oc=5",
+   "pub": "Sun, 30 Aug 2026 05:48:45 GMT"
+  },
+  {
+   "t": "Inflation über drei Prozent bis 2027: Ökonom prognostiziert \"Verbraucherstreik\" - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckczSUhRV0RXM2hzaGZ1ZXVfeVBmcjZkRGpyMW1tc0oxc3lwZUhIMXRKdFVGN2o0VjZ2dUVQcEprUl94R1lvXzFkbGVuRFExbDczcFJPMXU1UnVrUzBqcnhhN1ZMSE1ULVZiVmwxOURhMjUzMlBlUU0xX0VjZXVKQ2dNLWNSOXI2a0RXMk5BaXBEaDZobE0wX0tRdi15WnR3Y0daeURRN0p2Z3ZQS3VxTkhuTUFBUm00RUlHd1NXaTV6MmdYejdVNw?oc=5",
+   "pub": "Sun, 30 Aug 2026 03:00:00 GMT"
+  },
+  {
    "t": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\" - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxTRmRRRGpoYlFuV3RBTnNrWEFZWVNOWjEwUm50dXFxREtYakE4WU5WQWQyMlA0bzA0eFpFN3FMa3JwMXYwNnRGR3pxbzdqelJkUDIyanV2QndqNmFSZUl0ZlpyY3RXSE5SNFU0YXR5ejBHNk5MUmJwTFFzSHZpYjd5cHllUTRXLWh1ZWR2RkhfV3ZOMGxZa2VXbEh4ZzR1dVVEYVF3?oc=5",
    "pub": "Sat, 29 Aug 2026 21:05:46 GMT"
@@ -69,14 +79,14 @@
    "pub": "Sat, 29 Aug 2026 17:00:00 GMT"
   },
   {
-   "t": "Iran: Haben volle Kontrolle über Hormus - USA \"lügen\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTUpyTjlGX2xfNWxMOU9vVm9mUGJidUhNa3ZmMElYWXIzNGxMZDc1TGZoOEtkMk81VkJyYWZoVTNIaWQyZ0NST3ViTXZ1UUNLZ0RKaDlGZmlpWGwzV0tMdDJKMUo5djA4NTB4ZW8xazBNd2s1REwtcUQ5bUcwVjg?oc=5",
-   "pub": "Sat, 29 Aug 2026 10:11:43 GMT"
-  },
-  {
    "t": "Außenhandel eingebrochen: Iran räumt schwere Schäden durch Krieg mit den USA ein - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM2N3VnUtLTg1ZG9WNWVGbFFLWWs3T0Voc1N0RjlSOFpCb1lIemhOSnNkV1ZONjdBYUJFUEVJV2tVVG8zMGhyM3Q1UUZSNEJKRHI3czNqUGpOazYySmNfWlNGMkt4dUo1TmREaGlHWVpINHpWRnhxVzZOdXlxVjNRYTlLUnprTHlNTGtCR1VTT1JQdWlLRG8xdFF6d2Q0OVN6bG5aN2d6dmNTSi02V0F3Vi1pZU1Yb0RmZGx4TFZhRWo4V3hVbGI5Vy1XRUtFTzNGOGFV?oc=5",
    "pub": "Sat, 29 Aug 2026 11:17:00 GMT"
+  },
+  {
+   "t": "Jackson Hole: Fed-Chef Warsh signalisiert Bereitschaft zur Zinserhöhung - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMnc1eTZqNVlUV0Iwdl9FN3pFUEk3VUZ4LW1BRWV1bXJ0S1JVVVBQMjRXMWIyLThOV0I2UjB4c3ZtUUdrcV9KQ3lBTkZVYWxZeVlkbmp1dmN1VzVGY1dpYl95OWVCZDZhakVFVDhLc2ZJUDRYNG9nck52V2ZqaUwtb1dGcVhUWDR1YTk3eEJQS2NUX2dGV3BxNVFudFZOeFNjQ1VPYVAxeEdKVkhOYnM5dGJEbVI4bEZPZ0JQVlI1SURoR3l2emx4d2FXdHRrNkw4Sm15OEJ2YmlQVXVzMDBhdk1CVHVwMU5VYU1CTXpMM0JTaFpUaC1N?oc=5",
+   "pub": "Fri, 28 Aug 2026 15:04:00 GMT"
   },
   {
    "t": "Niemand weiß, wie der Krieg gegen Iran enden soll - rollingstone.de",
@@ -89,19 +99,9 @@
    "pub": "Sat, 29 Aug 2026 22:00:07 GMT"
   },
   {
-   "t": "Jackson Hole: Fed-Chef Warsh signalisiert Bereitschaft zur Zinserhöhung - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMnc1eTZqNVlUV0Iwdl9FN3pFUEk3VUZ4LW1BRWV1bXJ0S1JVVVBQMjRXMWIyLThOV0I2UjB4c3ZtUUdrcV9KQ3lBTkZVYWxZeVlkbmp1dmN1VzVGY1dpYl95OWVCZDZhakVFVDhLc2ZJUDRYNG9nck52V2ZqaUwtb1dGcVhUWDR1YTk3eEJQS2NUX2dGV3BxNVFudFZOeFNjQ1VPYVAxeEdKVkhOYnM5dGJEbVI4bEZPZ0JQVlI1SURoR3l2emx4d2FXdHRrNkw4Sm15OEJ2YmlQVXVzMDBhdk1CVHVwMU5VYU1CTXpMM0JTaFpUaC1N?oc=5",
-   "pub": "Fri, 28 Aug 2026 15:04:00 GMT"
-  },
-  {
-   "t": "Sechs Monate Iran-USA Krieg: Die Golfstaaten suchen einen Ausweg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pejJhSU1NVWtOckxxMFFISXlTVlgwWWUxNEVjVTBrczJvdGhtR2gtRWQ3ZmRMeDhUUGdOYXRNZm1OaWdORWhHMVV4V0hSR0hZWE1SZ3d1blA2ck12UklmaFlXRmEzTHV2dHN2T0RR?oc=5",
-   "pub": "Fri, 28 Aug 2026 12:48:00 GMT"
-  },
-  {
-   "t": "Jackson Hole: Restriktive Töne von Fed-Chef Warsh belasten Börse Aktuell 📈 - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1FCTlFVMGEzZXlYVGpnYnVMQkgwY1ZSR2M5RGdSNzR4QnVEVlFTSW9ZVXA3anVOX2JXOXM0aTgwXzJ4Z1h4ODVXWHlZdzN1cUhuZDV5aVRtTTh0UDd2eFRzYlFQTkZDM1dpQ1Uxbm5ZQ2VVVS0tQUVoYVlzYXo5b3ZKbHVEV0c0aW1WR2cwQklkYnJvM3pGNUJmVDgyenBRVHVOdnN1dF9yaFFQU3ZyVzFHeHlYRURLZ2dnelJOZkM?oc=5",
-   "pub": "Fri, 28 Aug 2026 14:20:00 GMT"
+   "t": "Trump verbraucht „Munition für Jahre“ – der Iran protzt mit versteckten Reserven - DerWesten",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeU9VVFY1OVk1TnAteVZZam5ONE5QZThiZGVmVVFESGNNbHhudEFaR0NLelN0LVFqc0dYUVJiOUhJYkhwbXJCeWIzS3dHMTR5eEZLeUVTV3VPdW9UMzdxcnBPSlB0NWRuVzZMbmYtY05SRWZrTXJqQTJiZEdZRmZNNS1ic2stQklrMzF1T0NtdXdMTDJiM3ZyWFBlMV85NTNuWVh4NU5vcG5PQQ?oc=5",
+   "pub": "Sun, 30 Aug 2026 02:02:18 GMT"
   },
   {
    "t": "Kein Einlenken im Konflikt: Iran räumt Kriegsfolgen für Wirtschaft ein - n-tv.de",
