@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-08-29T21:45:23Z",
+ "collected_at": "2026-08-30T00:21:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,6 +49,11 @@
  },
  "headlines": [
   {
+   "t": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\" - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxTRmRRRGpoYlFuV3RBTnNrWEFZWVNOWjEwUm50dXFxREtYakE4WU5WQWQyMlA0bzA0eFpFN3FMa3JwMXYwNnRGR3pxbzdqelJkUDIyanV2QndqNmFSZUl0ZlpyY3RXSE5SNFU0YXR5ejBHNk5MUmJwTFFzSHZpYjd5cHllUTRXLWh1ZWR2RkhfV3ZOMGxZa2VXbEh4ZzR1dVVEYVF3?oc=5",
+   "pub": "Sat, 29 Aug 2026 21:05:46 GMT"
+  },
+  {
    "t": "Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGdHN2FKT3dXcWRaRXlVSnhQZ0FQTmhRLVpvZTRobHpIUVNVQ1hVQ1JxRDBGOXIzazhTMzE1NzBFN3o2Q3YyUUxTQ1ZIU0VmSDlJZnBrWlRvY0hqQ2ItQ2pvYklTNVFnbmV2M0xEbVJ2bENBN3VOS1ZxYzQ1bkRoVFpPV0Z3MTNVZVRvdU1ZMXRBTzBITWVQQnF6SDVjd1psWWFCRFZVbWR2NVdVVzRJVlRNQVpaTG5WYUpqRFY1cXN5VHFOMlI1RkRjQ1hhZHBlbjhR?oc=5",
    "pub": "Sat, 29 Aug 2026 09:41:00 GMT"
@@ -59,9 +64,14 @@
    "pub": "Sat, 29 Aug 2026 17:07:39 GMT"
   },
   {
-   "t": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxTRmRRRGpoYlFuV3RBTnNrWEFZWVNOWjEwUm50dXFxREtYakE4WU5WQWQyMlA0bzA0eFpFN3FMa3JwMXYwNnRGR3pxbzdqelJkUDIyanV2QndqNmFSZUl0ZlpyY3RXSE5SNFU0YXR5ejBHNk5MUmJwTFFzSHZpYjd5cHllUTRXLWh1ZWR2RkhfV3ZOMGxZa2VXbEh4ZzR1dVVEYVF3?oc=5",
-   "pub": "Sat, 29 Aug 2026 18:54:52 GMT"
+   "t": "„Sie haben ihre gesamten Waffen verschossen, ihre Schiffe ruiniert“: Iran-Krieg zehrt an Trumps Kriegskasse - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOHgtMlpKUUFJQ2N1VTJRYi12TkdtZmh4N1JRdGk1N1FjVDdJRm1GSkFQM3JULWdDU3RmSjVIZ1BIZlU4MEY2QnFtSmNWaEdEZTZjYkxNMDR3TGZJV1A4YnBBbDlLUEpmcFVXdEx2cWw5c1BYQS1OVjFnVG9VbVRwQWlRbm9PMHkwRThIclhVaDZqWnZUMFZpaHJwU2tHTExVZmNPLTIya3J4LU9kT01TZ0I0b1cxM1N5cHdxdmNlSmE?oc=5",
+   "pub": "Sat, 29 Aug 2026 17:00:00 GMT"
+  },
+  {
+   "t": "Iran: Haben volle Kontrolle über Hormus - USA \"lügen\" - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTUpyTjlGX2xfNWxMOU9vVm9mUGJidUhNa3ZmMElYWXIzNGxMZDc1TGZoOEtkMk81VkJyYWZoVTNIaWQyZ0NST3ViTXZ1UUNLZ0RKaDlGZmlpWGwzV0tMdDJKMUo5djA4NTB4ZW8xazBNd2s1REwtcUQ5bUcwVjg?oc=5",
+   "pub": "Sat, 29 Aug 2026 10:11:43 GMT"
   },
   {
    "t": "Außenhandel eingebrochen: Iran räumt schwere Schäden durch Krieg mit den USA ein - Tagesspiegel",
@@ -74,14 +84,9 @@
    "pub": "Sat, 29 Aug 2026 18:01:42 GMT"
   },
   {
-   "t": "Iraner waren Schachspieler, jetzt spielen sie Poker: USA setzt auf Sanktionen, Teheran sucht Alternativen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMlJzOXRNSkIwcVh4ODFWa2tkYjZBY2NySnFYdUQtSUVZZm1jcVFna012WHlmR2JoejdKZTExUzVJcmNWMDJoOElPTmlqZnJIdFRwSEZpcE56emlXMjA4MkNaMThCcnV4S0ZTX1g2WHI1dkZ0cGVuMC1USnB5SDdFSmxpcjFPNXdlaWJ3aFBEUjRwZ0JRMkhwNi1wSGdRRFMxQ3ZfblRhampmNFZuXzA3QXUyUQ?oc=5",
-   "pub": "Sat, 29 Aug 2026 02:45:00 GMT"
-  },
-  {
    "t": "Iranischer Sänger Mohsen Namjoo nach rund 20 Jahren im Exil zurück im Iran - Deutschlandfunk Kultur",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFhmRVBiTDI4X0ZnVzBldkJWa0o5WDN0Ym1ZX3pEVk05YkhYc1NBUWZnYjRqN25fX0JFUC0zcV91MGVMNk9Eb01xakRzSW81VDhQM2JIWkRnRWw5U1BHM1ItUDBQWGFKSTdkRmNidW9jcWdWeHdUZUh2ZEpsc0FGOHRuRFdsdWNJY3FYRmwwUmtVVkdlRnZFLUJtcWp6OGRJOVA5ZXFqSlhwRWxsVDJ6OGpNNUY3NDZOMnNhd25ldw?oc=5",
-   "pub": "Sat, 29 Aug 2026 14:39:20 GMT"
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnhZN0haNGtaQTBWRVN3SzZTLVhFOEktd2ZqeFAwU1BDOHVueFEwN1NzdFRiSUswMEZkSE00NkVqSXMtMWJVeF9qaUszRnZzc3NlakxBeVJaRmtFQ3NDaTlUQkgxWWFBZXVMd1VtbGZBeGdQODZMV2puT3l6OWhvRTFtUkpIbWVubGtMQTlTVVhZM3dKY0VMT3Zwal9XenBlaEVRVHgzdV9EdThvQmI3MkRzUVY4NUlCUm5CQUc5MA?oc=5",
+   "pub": "Sat, 29 Aug 2026 22:00:07 GMT"
   },
   {
    "t": "Jackson Hole: Fed-Chef Warsh signalisiert Bereitschaft zur Zinserhöhung - Manager Magazin",
@@ -94,14 +99,9 @@
    "pub": "Fri, 28 Aug 2026 12:48:00 GMT"
   },
   {
-   "t": "Iran unter wachsendem Druck: Handel bricht ein, Hormus-Streit dauert an - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEt1dk1wWmxjSnFBQlRoOEtMcmVLSkpVaEg2Z1hGRzBJM3NvZ1E5Z1ljc2lyVVU0UXB3WDExaHpjOFRCekVNQks1ZVBJeW5YeXNNc1JieXk5enRNclJWZlViN2U2djdLUE5NamN5TVVNSXVwVXF3U25hM3dycG85ZkI2bERBN3VhbldjUkhaTXZxeVdfcjFyTnNodngxcXVxRndtRkZPTHAyVWxpMWVkUl9tOUNDSzVQNXc?oc=5",
-   "pub": "Sat, 29 Aug 2026 13:24:57 GMT"
-  },
-  {
-   "t": "Iran räumt wirtschaftliche Folgen des Krieges ein - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vM3ktY3htdG4wVkZtT1AzNkUyN2R6YmVzdTRRMFM1SjRJY3IyMk5CakZuOVEycVo5ZDM2SjZHZDJPQVlkTFE?oc=5",
-   "pub": "Sat, 29 Aug 2026 14:23:43 GMT"
+   "t": "Jackson Hole: Restriktive Töne von Fed-Chef Warsh belasten Börse Aktuell 📈 - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1FCTlFVMGEzZXlYVGpnYnVMQkgwY1ZSR2M5RGdSNzR4QnVEVlFTSW9ZVXA3anVOX2JXOXM0aTgwXzJ4Z1h4ODVXWHlZdzN1cUhuZDV5aVRtTTh0UDd2eFRzYlFQTkZDM1dpQ1Uxbm5ZQ2VVVS0tQUVoYVlzYXo5b3ZKbHVEV0c0aW1WR2cwQklkYnJvM3pGNUJmVDgyenBRVHVOdnN1dF9yaFFQU3ZyVzFHeHlYRURLZ2dnelJOZkM?oc=5",
+   "pub": "Fri, 28 Aug 2026 14:20:00 GMT"
   },
   {
    "t": "Kein Einlenken im Konflikt: Iran räumt Kriegsfolgen für Wirtschaft ein - n-tv.de",
