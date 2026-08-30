@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-08-30T17:30:47Z",
+ "collected_at": "2026-08-30T21:07:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8093,
-   "chg1d_pct": 0.69
+   "price": 0.8073,
+   "chg1d_pct": 0.44
   },
   "USDJPY": {
-   "price": 160.038,
-   "chg1d_pct": 0.45
+   "price": 160.01,
+   "chg1d_pct": 0.43
   },
   "GBPCAD": {
-   "price": 1.8815,
-   "chg1d_pct": -0.08
+   "price": 1.8817,
+   "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 114.634,
-   "chg1d_pct": 0.01
+   "price": 114.474,
+   "chg1d_pct": -0.13
   },
   "EURUSD": {
-   "price": 1.1587,
-   "chg1d_pct": -0.6
+   "price": 1.1585,
+   "chg1d_pct": -0.61
   },
   "GBPCHF": {
-   "price": 1.0951,
-   "chg1d_pct": 0.22
+   "price": 1.0933,
+   "chg1d_pct": 0.05
   },
   "WTI": {
    "price": 83.4,
@@ -49,9 +49,24 @@
  },
  "headlines": [
   {
-   "t": "Iran: Chamenei ruft Muslime zur Einheit gegen USA auf - DW.com",
+   "t": "Erster US-Angriff seit einem Monat – Iran droht Vergeltung - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjN5TlBNbjhmVDFGN3E2N1NoQm81eDlRSlVVeV9YRjFEd0hOTk8zaGl6UE15Y3d2Ti0wWU9XcW1jWlRTMnpJVmhvRWVTRDJEMFdoWlBOMm1qYXpTckVYaDNUaUNwZDA0VWItR09XZlhwczJlMmcwT0tFVkU4THJXd25wdmtIR25ZS09ucGdwSldzYjlHV29GdmVVTXplSXAtcUE0cEhQTU44WHV6Sm1UUzZCeEFOLUo3TnpsRHJVSndEWlNrUkMxSUVFczBFb2hxV2pyQndFNA?oc=5",
+   "pub": "Sun, 30 Aug 2026 20:35:04 GMT"
+  },
+  {
+   "t": "Iran-Krieg: US-Medien: US-Militär greift iranische Raketenwerfer an - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzR5dEtfTVBOTUNaeFdGR2pBdFNJNlU3NURkcVRSSzRuRW9UWVNKcFk0SldnQWR1MkUtTzdhZ3lPM0RiX2YwZnF5c1NIUDExTUw1amNKSzJCZlltMlVwYWVWbFNwNUlFSEUzeXQ0eEVlRDRWNkRseU5lV1lRZjRRV3puX25BeWxmRTVuUmhvZ1FpdFlpYmc?oc=5",
+   "pub": "Sun, 30 Aug 2026 20:51:00 GMT"
+  },
+  {
+   "t": "Iran: Chamenei ruft Muslime zur Einheit gegen USA auf - dw.com",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5DYUFnUVdIeXRUZWZuWnBfeU91RDc5ck9HZHNOcjJrMWJURUdBWVF5ZlVVLUoxUmVuYVg4UExROWJPN1NtWjFORzJoSWtUWHVsd0ZZdFZHYjFQSE5kVFFhTVRnem9qZE5iZHdYR1p6YzlxenFNT1Fiby11VklHcTV3T2gxcmdHX3BUYmh0dlBzSW550gGUAUFVX3lxTFBJd3lsbTg1d1FvcmtMNWRQUFRuajdydUJvVzk0QlQ4eU1aaDZWM2g3aF9wOHNZbTZhTHBJSzRQSHRxWEw2VkNwRzR6UHpLbzN4STZFSWFKY0xNMFF2cjZCMl9lbElmbHMwOXpSTUFRZ2ZtdjkyekJiQy1TUEoyeTJnRnBYRVdWdTg0dXNWeWFwUVRDQUU?oc=5",
    "pub": "Sun, 30 Aug 2026 09:51:24 GMT"
+  },
+  {
+   "t": "USA greifen erstmals seit Wochen militärische Ziele im Iran an - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdml2NHVxeEZkVTNDTG5MODAtaXRFNGdrTG1TbEZrQzhhQXM4N3hHYkpCQjdwbERTeElUZzZsNjdYbkdURDEtbV90emFxVW5lM2VLQUZUOGNMSkJrSV9qU2xPYVRDU2xHMUs2NllkMUJtNkg2aV9iX29UUVZBemlQdVFVX0V3VDhTaldCdllBOFJTeUFoMWNKU0F6SURmWGhDRGtEendGRUZXVjdTcWdWSXkzZGdJWmdWRmhwM0FBVHYtcFcxS2l1UUMwd3RCMnBvTDJ1Y3NMQWJYVEFOZTgzd3dyTG0zYjA?oc=5",
+   "pub": "Sun, 30 Aug 2026 20:28:31 GMT"
   },
   {
    "t": "Cyberangriffe auf Wasser, Strom und Pipelines: Iran eröffnet eine neue Front gegen die USA - Frankfurter Rundschau",
@@ -64,9 +79,9 @@
    "pub": "Sun, 30 Aug 2026 05:49:20 GMT"
   },
   {
-   "t": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxTRmRRRGpoYlFuV3RBTnNrWEFZWVNOWjEwUm50dXFxREtYakE4WU5WQWQyMlA0bzA0eFpFN3FMa3JwMXYwNnRGR3pxbzdqelJkUDIyanV2QndqNmFSZUl0ZlpyY3RXSE5SNFU0YXR5ejBHNk5MUmJwTFFzSHZpYjd5cHllUTRXLWh1ZWR2RkhfV3ZOMGxZa2VXbEh4ZzR1dVVEYVF3?oc=5",
-   "pub": "Sat, 29 Aug 2026 21:05:46 GMT"
+   "t": "Iran-Krieg: 400 Schiffe stecken noch im Persischen Golf fest – erneut Tanker in Straße von Hormus angegriffen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOW9ob0Z2U1JCbXlERFBJWmRqTl9adExtV1REM0pzTTlEMU1qQTdjMVJtRXRNQUdfTE44M0pkVnRHWFMzU2drVTlRRU5KVC1EUlJPMFU0SjN1WUZOMUtLT1RlYVV0c1Focml6dTBqaHdGM2hBTFFoUmdHSk9xc2VVdkJkRWNWOGpKemdQY2o2b0plbkJ1T2hBd1phc2J0NVMxNW05TE4tdkR2WTctWjZsdmRyQ0FaNHRodGIyOTJTYWJfX1hTZi1fNUNRMFJBcTljVHhLOUgtOEFid2ZmamhLWUV3Uk5uY050U3YtM1VxSFFxTC04dlQ5WU1IbUpGZHVuTHc?oc=5",
+   "pub": "Sun, 30 Aug 2026 18:26:56 GMT"
   },
   {
    "t": "Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest - Spiegel",
@@ -74,39 +89,24 @@
    "pub": "Sat, 29 Aug 2026 09:41:00 GMT"
   },
   {
-   "t": "Inflation über drei Prozent bis 2027: Ökonom prognostiziert \"Verbraucherstreik\" - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckczSUhRV0RXM2hzaGZ1ZXVfeVBmcjZkRGpyMW1tc0oxc3lwZUhIMXRKdFVGN2o0VjZ2dUVQcEprUl94R1lvXzFkbGVuRFExbDczcFJPMXU1UnVrUzBqcnhhN1ZMSE1ULVZiVmwxOURhMjUzMlBlUU0xX0VjZXVKQ2dNLWNSOXI2a0RXMk5BaXBEaDZobE0wX0tRdi15WnR3Y0daeURRN0p2Z3ZQS3VxTkhuTUFBUm00RUlHd1NXaTV6MmdYejdVNw?oc=5",
-   "pub": "Sun, 30 Aug 2026 03:00:00 GMT"
+   "t": "\"Zu viel und zu lange\": Top-Militärs warnen Hegseth vor Fortsetzung des Iran-Krieges - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGdTV2dJNlk3b1F2SmZhN2twdEhzNzJNSkU3YXFzSDZ5M21JZzAzSWNRcVlfelVPUnpCbTVfZGtJX2k1Ui04T1o0cTd6eWhCUXhFMy15OE5yeUZGMzdlLTI3RTA4VE1zNTdHUEVjdDlZM3ktaWlZdGxjZk9wbmhaTTdwUXdrM2hkTGhTUF9ZS0FSYndOV3pITFZwUWdPYVQ0R21pU2F6MGk?oc=5",
+   "pub": "Sun, 30 Aug 2026 16:31:28 GMT"
   },
   {
-   "t": "Jackson Hole: Fed-Chef Warsh signalisiert Bereitschaft zur Zinserhöhung - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMnc1eTZqNVlUV0Iwdl9FN3pFUEk3VUZ4LW1BRWV1bXJ0S1JVVVBQMjRXMWIyLThOV0I2UjB4c3ZtUUdrcV9KQ3lBTkZVYWxZeVlkbmp1dmN1VzVGY1dpYl95OWVCZDZhakVFVDhLc2ZJUDRYNG9nck52V2ZqaUwtb1dGcVhUWDR1YTk3eEJQS2NUX2dGV3BxNVFudFZOeFNjQ1VPYVAxeEdKVkhOYnM5dGJEbVI4bEZPZ0JQVlI1SURoR3l2emx4d2FXdHRrNkw4Sm15OEJ2YmlQVXVzMDBhdk1CVHVwMU5VYU1CTXpMM0JTaFpUaC1N?oc=5",
-   "pub": "Fri, 28 Aug 2026 15:04:00 GMT"
+   "t": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\" - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxTRmRRRGpoYlFuV3RBTnNrWEFZWVNOWjEwUm50dXFxREtYakE4WU5WQWQyMlA0bzA0eFpFN3FMa3JwMXYwNnRGR3pxbzdqelJkUDIyanV2QndqNmFSZUl0ZlpyY3RXSE5SNFU0YXR5ejBHNk5MUmJwTFFzSHZpYjd5cHllUTRXLWh1ZWR2RkhfV3ZOMGxZa2VXbEh4ZzR1dVVEYVF3?oc=5",
+   "pub": "Sat, 29 Aug 2026 21:05:46 GMT"
   },
   {
-   "t": "Kein Einlenken im Konflikt: Iran räumt Kriegsfolgen für Wirtschaft ein - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUdDeDRrd1VvZ1ZaWGgzMENRcV9EYUMzVllwdkRfdWx1M0tEeUpEVG4wRncxcktxb25FNkVfaFZjTS16dFNsdm1VcUZDTWlIZURXanpkQVFBMkRoeEItcXZ5dDBMUEJKVTVyRm9sX0duQVBvdldJOUZ5MDdXX1ZLb1ZBMUh1emU3ekRUYzcyYldGQQ?oc=5",
-   "pub": "Sat, 29 Aug 2026 11:07:32 GMT"
+   "t": "Iran nach sechs Monaten Krieg - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbHdHay1Gai1taDIwVWRXVEt2THF5WGZqSHpMM2tacnluRlZMaXN2dzVuTEkxeGhBcEkzM2tIaDNMN0hTa0Z1MmF2UmNLYWU1Y1pvRkl1VVpLQ21uMDdoUjhsYWZlXzZTek54MVhEUlZxV28zU3ZoQTNSa2E1SlU?oc=5",
+   "pub": "Sun, 30 Aug 2026 19:45:00 GMT"
   },
   {
-   "t": "Kreativität an der Abbruchkante: Zwischen stochastischer Parität und unberechenbarer Emergenz - art-in.de",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rQW56WldDdWFTWGtFMVRLeTBkX0tfNHNOVHQ2MHhySVdTQTRuSWV1aUFmbnRsc2NNRXdLQUwtZXA5cUZ1OXYzY1M0MmtKLWhQRzZaTFdremRaZnZBWU5EV0Fn?oc=5",
-   "pub": "Sun, 30 Aug 2026 11:50:38 GMT"
-  },
-  {
-   "t": "„Sie haben ihre gesamten Waffen verschossen, ihre Schiffe ruiniert“: Iran-Krieg zehrt an Trumps Kriegskasse - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1ZDc3Y0TlBIbnpOd0xDMkdGRGsyMk4xZHlrS0lUUldrZlVNRmcwVmN4aHdFRm5HMVdyYV9nOWswdjI3UG5IN1RKNHlfbkRYVjZsbVNRVnhKTnJ5N2J3b1daTV81MUxvd3pIckcwb09OX3VQeVFHYmRfWGE0VzE5SWlIZER4bnJqcTFuV1BkT2pYZ3E2MnRmd204WHBsRnl1dkhvOTA1UE5IdDAtX3llVVpxUjNZUnV0Mi1iVTN6LVA?oc=5",
-   "pub": "Sun, 30 Aug 2026 02:46:00 GMT"
-  },
-  {
-   "t": "Iran: Haben volle Kontrolle über Hormus - USA \"lügen\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTUpyTjlGX2xfNWxMOU9vVm9mUGJidUhNa3ZmMElYWXIzNGxMZDc1TGZoOEtkMk81VkJyYWZoVTNIaWQyZ0NST3ViTXZ1UUNLZ0RKaDlGZmlpWGwzV0tMdDJKMUo5djA4NTB4ZW8xazBNd2s1REwtcUQ5bUcwVjg?oc=5",
-   "pub": "Sat, 29 Aug 2026 10:11:43 GMT"
-  },
-  {
-   "t": "(S+) Afghanistan: Hessischer Unternehmer baut Eisenbahn am Hindukusch - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcU9zS0RIdmRQakx4N2RWTE5nTnAyVUdBOF94MjdmNDY0a3BYMHVyTjlzaFFaeXF4MVNsNHc0bDEwMVVTRU1RNWdJQUxmaHA3SEk0TWVkZVFsZ1RrekdnekxEeFc4ZkRnclZnY09NU2hsZEFtclRwVTh0RHdXcHBIc1RjMmlDV2daN0QyNzNiWDU1WXNJWjRvd1R1ak01c0x4SlF6eWJnOUozT0M1NFBENXgyTUxERUgtWF8zZjVPd3o3VHFJZXotZUgxTHp1Zw?oc=5",
-   "pub": "Sun, 30 Aug 2026 10:21:00 GMT"
+   "t": "Krieg in Nahost: US-Militär greift iranische Raketenwerfer an – Iran kündigt „Reaktion und Bestrafung“ an - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcmZZWi04ejUyZTRoTUtsZEgzdHQ4YUdDODM5eERhcUlRSHRWZzlsVi1qSmNDSE5acFczTTktdWZhQjN2UlhoU1hUTkJHbDMzdXJ3ZHZQbklmakdUZVIzMXJRMFcxQUVCaWFXa2tDNW9DaERsTWNkajQtV21lekZIV3oyOVFYS045QnR2ZWctV1doT01nVHNIR0tpRUQwcEVhV0J2cWh2SUlKZnU1ZTRjWVZieXlKMy1LUGJZVUViYnRGZF9Qa3d4UDdrS0xWdW8wNGNIbnBjYmZNVzFoeDNCRHU4Ni01elFqX2tPT1BRc2pYdTdPYTBXbV9UMA?oc=5",
+   "pub": "Sun, 30 Aug 2026 21:03:57 GMT"
   }
  ]
 }
