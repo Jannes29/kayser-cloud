@@ -1,62 +1,67 @@
 {
- "collected_at": "2026-08-30T21:07:57Z",
+ "collected_at": "2026-08-30T23:30:59Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8073,
-   "chg1d_pct": 0.44
+   "price": 0.8092,
+   "chg1d_pct": 0.68
   },
   "USDJPY": {
-   "price": 160.01,
-   "chg1d_pct": 0.43
+   "price": 160.153,
+   "chg1d_pct": 0.52
   },
   "GBPCAD": {
-   "price": 1.8817,
-   "chg1d_pct": -0.07
+   "price": 1.8816,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 114.474,
-   "chg1d_pct": -0.13
+   "price": 114.674,
+   "chg1d_pct": 0.04
   },
   "EURUSD": {
-   "price": 1.1585,
-   "chg1d_pct": -0.61
+   "price": 1.1589,
+   "chg1d_pct": -0.58
   },
   "GBPCHF": {
-   "price": 1.0933,
-   "chg1d_pct": 0.05
+   "price": 1.0954,
+   "chg1d_pct": 0.25
   },
   "WTI": {
-   "price": 83.4,
-   "chg1d_pct": -0.16
+   "price": 84.8,
+   "chg1d_pct": 1.68
   },
   "BRENT": {
-   "price": 88.1,
-   "chg1d_pct": -1.78
+   "price": 89.69,
+   "chg1d_pct": 0.43
   },
   "GOLD": {
-   "price": 4529.9,
-   "chg1d_pct": -1.73
+   "price": 4513.5,
+   "chg1d_pct": 0.79
   },
   "SPX_FUT": {
-   "price": 7722.0,
-   "chg1d_pct": -0.26
+   "price": 7706.25,
+   "chg1d_pct": -0.2
   },
   "NAS_FUT": {
-   "price": 29491.75,
-   "chg1d_pct": -0.69
+   "price": 29412.0,
+   "chg1d_pct": -0.27
   }
  },
  "headlines": [
   {
+   "t": "US-Militär fliegt erstmals seit Juli Angriffe in Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTlR0cHI0WjYwNDlDWEVpNlRKaGhDWkpNbGhQSDloZmdTR3JCaDIwSk5RNVBFaEd4MnBGUnZVMGdCUGk5a3ZaemprU3ZtTWZIMGpBUWVkQ0ZXZ2daWXZ0RmNVbDVjUWJRVFlhYlhFNEM3U0JTZXg0ZDJTeHBBcDFubWprdHh4YVF5ZS1Razk5eG9FZ0xweVo5U1JuNVRGU2Fvc29RUXA0MEF4cVY5dmduQ25HRGVWUUZrbHdtcUdZWHo0UQ?oc=5",
+   "pub": "Sun, 30 Aug 2026 21:14:00 GMT"
+  },
+  {
+   "t": "USA und Iran: USA greifen erstmals seit Wochen neue Ziele im Iran an - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYXliak1UT29QSjhvRXpXNGw4RjQ0c1NEYTQ3MVBDZDZCLWU4U2Y5UXZxYWFqaGNfNTJ1OUN5ZmxBeDZ0Z21aYWZJSy15MkpoMkhjOV9yTW5NUTV4aFllRWpnY2p5ZlAzSE1VQ19IUktLUkVlek9HQ1dfMmRXTkNmemlOVmduMHpBVFlISHFDR3VtTGh5dGdzaVFiRTJCU2JxUm5zclBn?oc=5",
+   "pub": "Sun, 30 Aug 2026 22:24:15 GMT"
+  },
+  {
    "t": "Erster US-Angriff seit einem Monat – Iran droht Vergeltung - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjN5TlBNbjhmVDFGN3E2N1NoQm81eDlRSlVVeV9YRjFEd0hOTk8zaGl6UE15Y3d2Ti0wWU9XcW1jWlRTMnpJVmhvRWVTRDJEMFdoWlBOMm1qYXpTckVYaDNUaUNwZDA0VWItR09XZlhwczJlMmcwT0tFVkU4THJXd25wdmtIR25ZS09ucGdwSldzYjlHV29GdmVVTXplSXAtcUE0cEhQTU44WHV6Sm1UUzZCeEFOLUo3TnpsRHJVSndEWlNrUkMxSUVFczBFb2hxV2pyQndFNA?oc=5",
    "pub": "Sun, 30 Aug 2026 20:35:04 GMT"
-  },
-  {
-   "t": "Iran-Krieg: US-Medien: US-Militär greift iranische Raketenwerfer an - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzR5dEtfTVBOTUNaeFdGR2pBdFNJNlU3NURkcVRSSzRuRW9UWVNKcFk0SldnQWR1MkUtTzdhZ3lPM0RiX2YwZnF5c1NIUDExTUw1amNKSzJCZlltMlVwYWVWbFNwNUlFSEUzeXQ0eEVlRDRWNkRseU5lV1lRZjRRV3puX25BeWxmRTVuUmhvZ1FpdFlpYmc?oc=5",
-   "pub": "Sun, 30 Aug 2026 20:51:00 GMT"
   },
   {
    "t": "Iran: Chamenei ruft Muslime zur Einheit gegen USA auf - dw.com",
@@ -64,9 +69,19 @@
    "pub": "Sun, 30 Aug 2026 09:51:24 GMT"
   },
   {
-   "t": "USA greifen erstmals seit Wochen militärische Ziele im Iran an - RND.de",
+   "t": "Nahost - USA greifen erstmals seit Wochen wieder Ziele im Iran an; weitere Sanktionen angekündigt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc09YV1Y3Nm9nbEI2bGdzWDRmTlN2Vkh1WlV4QzZiUUtDR2VwR0taZ3IxMXo3akVTMTBLaXNfSUNqVTVwbjdfcUlranJXZUFmWjdLYXdFYTM2R2wxV0YxZnk4QklYS2c1M09EekFKb1NIYVJ5LWREUVp4X0hVdEF3bXlUUy1kQ2hnZTE5aFc5eU91cEowV3N4NDM5amJ2cFpGbkhsVUNVZV9Nd0xxU0lTV3pMem1wYVBlZUdaYTJUNHFnRGZhTTRr?oc=5",
+   "pub": "Sun, 30 Aug 2026 22:11:35 GMT"
+  },
+  {
+   "t": "US-Militär greift iranische Raketenwerfer an der Straße von Hormus an - RND.de",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdml2NHVxeEZkVTNDTG5MODAtaXRFNGdrTG1TbEZrQzhhQXM4N3hHYkpCQjdwbERTeElUZzZsNjdYbkdURDEtbV90emFxVW5lM2VLQUZUOGNMSkJrSV9qU2xPYVRDU2xHMUs2NllkMUJtNkg2aV9iX29UUVZBemlQdVFVX0V3VDhTaldCdllBOFJTeUFoMWNKU0F6SURmWGhDRGtEendGRUZXVjdTcWdWSXkzZGdJWmdWRmhwM0FBVHYtcFcxS2l1UUMwd3RCMnBvTDJ1Y3NMQWJYVEFOZTgzd3dyTG0zYjA?oc=5",
    "pub": "Sun, 30 Aug 2026 20:28:31 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: US-Militär greift iranische Raketenwerfer an – Iran kündigt „Reaktion und Bestrafung“ an - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcmZZWi04ejUyZTRoTUtsZEgzdHQ4YUdDODM5eERhcUlRSHRWZzlsVi1qSmNDSE5acFczTTktdWZhQjN2UlhoU1hUTkJHbDMzdXJ3ZHZQbklmakdUZVIzMXJRMFcxQUVCaWFXa2tDNW9DaERsTWNkajQtV21lekZIV3oyOVFYS045QnR2ZWctV1doT01nVHNIR0tpRUQwcEVhV0J2cWh2SUlKZnU1ZTRjWVZieXlKMy1LUGJZVUViYnRGZF9Qa3d4UDdrS0xWdW8wNGNIbnBjYmZNVzFoeDNCRHU4Ni01elFqX2tPT1BRc2pYdTdPYTBXbV9UMA?oc=5",
+   "pub": "Sun, 30 Aug 2026 21:03:57 GMT"
   },
   {
    "t": "Cyberangriffe auf Wasser, Strom und Pipelines: Iran eröffnet eine neue Front gegen die USA - Frankfurter Rundschau",
@@ -79,24 +94,9 @@
    "pub": "Sun, 30 Aug 2026 05:49:20 GMT"
   },
   {
-   "t": "Iran-Krieg: 400 Schiffe stecken noch im Persischen Golf fest – erneut Tanker in Straße von Hormus angegriffen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOW9ob0Z2U1JCbXlERFBJWmRqTl9adExtV1REM0pzTTlEMU1qQTdjMVJtRXRNQUdfTE44M0pkVnRHWFMzU2drVTlRRU5KVC1EUlJPMFU0SjN1WUZOMUtLT1RlYVV0c1Focml6dTBqaHdGM2hBTFFoUmdHSk9xc2VVdkJkRWNWOGpKemdQY2o2b0plbkJ1T2hBd1phc2J0NVMxNW05TE4tdkR2WTctWjZsdmRyQ0FaNHRodGIyOTJTYWJfX1hTZi1fNUNRMFJBcTljVHhLOUgtOEFid2ZmamhLWUV3Uk5uY050U3YtM1VxSFFxTC04dlQ5WU1IbUpGZHVuTHc?oc=5",
-   "pub": "Sun, 30 Aug 2026 18:26:56 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Rund 400 Schiffe stecken noch im Persischen Golf fest - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGdHN2FKT3dXcWRaRXlVSnhQZ0FQTmhRLVpvZTRobHpIUVNVQ1hVQ1JxRDBGOXIzazhTMzE1NzBFN3o2Q3YyUUxTQ1ZIU0VmSDlJZnBrWlRvY0hqQ2ItQ2pvYklTNVFnbmV2M0xEbVJ2bENBN3VOS1ZxYzQ1bkRoVFpPV0Z3MTNVZVRvdU1ZMXRBTzBITWVQQnF6SDVjd1psWWFCRFZVbWR2NVdVVzRJVlRNQVpaTG5WYUpqRFY1cXN5VHFOMlI1RkRjQ1hhZHBlbjhR?oc=5",
-   "pub": "Sat, 29 Aug 2026 09:41:00 GMT"
-  },
-  {
-   "t": "\"Zu viel und zu lange\": Top-Militärs warnen Hegseth vor Fortsetzung des Iran-Krieges - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGdTV2dJNlk3b1F2SmZhN2twdEhzNzJNSkU3YXFzSDZ5M21JZzAzSWNRcVlfelVPUnpCbTVfZGtJX2k1Ui04T1o0cTd6eWhCUXhFMy15OE5yeUZGMzdlLTI3RTA4VE1zNTdHUEVjdDlZM3ktaWlZdGxjZk9wbmhaTTdwUXdrM2hkTGhTUF9ZS0FSYndOV3pITFZwUWdPYVQ0R21pU2F6MGk?oc=5",
-   "pub": "Sun, 30 Aug 2026 16:31:28 GMT"
-  },
-  {
-   "t": "Iran - Präsident Peseschkian: \"US-Sanktionen schaden unserer Wirtschaft\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxTRmRRRGpoYlFuV3RBTnNrWEFZWVNOWjEwUm50dXFxREtYakE4WU5WQWQyMlA0bzA0eFpFN3FMa3JwMXYwNnRGR3pxbzdqelJkUDIyanV2QndqNmFSZUl0ZlpyY3RXSE5SNFU0YXR5ejBHNk5MUmJwTFFzSHZpYjd5cHllUTRXLWh1ZWR2RkhfV3ZOMGxZa2VXbEh4ZzR1dVVEYVF3?oc=5",
-   "pub": "Sat, 29 Aug 2026 21:05:46 GMT"
+   "t": "USA: Neue Angriffe auf den Iran! - BILD",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelNyeGNMU0xnZjc0SkQzN0tsQXFkRk5RR1VWLVNFd0ZZSlNmdm4tczQ1M09BY0daS1lWRkF3dGJ6cW9nLVpLZEM0cFBTMjhOZE9lUXJpN25CdUpWTUFiYXJDR2ZEN2J3YnNpeWNaZldsQ3ZZcm91ajhqUmFkb3VBRDFmOGRUejNWUWprejVWaTVyYW9Lek5fNUtBZVAxWk1FR0NHeVA3NTRLd0JQZ1hqbg?oc=5",
+   "pub": "Sun, 30 Aug 2026 22:35:00 GMT"
   },
   {
    "t": "Iran nach sechs Monaten Krieg - ZDFheute",
@@ -104,9 +104,9 @@
    "pub": "Sun, 30 Aug 2026 19:45:00 GMT"
   },
   {
-   "t": "Krieg in Nahost: US-Militär greift iranische Raketenwerfer an – Iran kündigt „Reaktion und Bestrafung“ an - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcmZZWi04ejUyZTRoTUtsZEgzdHQ4YUdDODM5eERhcUlRSHRWZzlsVi1qSmNDSE5acFczTTktdWZhQjN2UlhoU1hUTkJHbDMzdXJ3ZHZQbklmakdUZVIzMXJRMFcxQUVCaWFXa2tDNW9DaERsTWNkajQtV21lekZIV3oyOVFYS045QnR2ZWctV1doT01nVHNIR0tpRUQwcEVhV0J2cWh2SUlKZnU1ZTRjWVZieXlKMy1LUGJZVUViYnRGZF9Qa3d4UDdrS0xWdW8wNGNIbnBjYmZNVzFoeDNCRHU4Ni01elFqX2tPT1BRc2pYdTdPYTBXbV9UMA?oc=5",
-   "pub": "Sun, 30 Aug 2026 21:03:57 GMT"
+   "t": "USA greifen erstmals seit Wochen Ziele im Iran an - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWEoyclpEckhCanJPU2VUb3FKTjMxYnpqNEZjNHM2bl9yNllfN280Y1BKX29ud2R2czJYcXpYM2cxUFVId1RiTXZ5RVh3LS10Z0ZueE9yWS1HQ2tXcHQzbmpZRFdaY3E3WS1iYjVDZVByWUVxV1pyN29qUGJRazJwQ25fcXdjRVZmeXZaZmxvNWdOVUNheWc?oc=5",
+   "pub": "Sun, 30 Aug 2026 22:49:40 GMT"
   }
  ]
 }
