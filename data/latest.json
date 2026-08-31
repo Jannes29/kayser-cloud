@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-08-31T13:54:11Z",
+ "collected_at": "2026-08-31T20:06:56Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8085,
-   "chg1d_pct": 0.59
+   "price": 0.8082,
+   "chg1d_pct": 0.55
   },
   "USDJPY": {
-   "price": 159.862,
-   "chg1d_pct": 0.34
+   "price": 159.738,
+   "chg1d_pct": 0.26
   },
   "GBPCAD": {
-   "price": 1.8793,
-   "chg1d_pct": -0.2
+   "price": 1.8776,
+   "chg1d_pct": -0.29
   },
   "AUDJPY": {
-   "price": 114.489,
-   "chg1d_pct": -0.12
+   "price": 114.477,
+   "chg1d_pct": -0.13
   },
   "EURUSD": {
-   "price": 1.16,
-   "chg1d_pct": -0.48
+   "price": 1.1621,
+   "chg1d_pct": -0.3
   },
   "GBPCHF": {
-   "price": 1.0949,
-   "chg1d_pct": 0.2
+   "price": 1.0951,
+   "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 86.19,
-   "chg1d_pct": 3.35
+   "price": 85.98,
+   "chg1d_pct": 3.09
   },
   "BRENT": {
-   "price": 88.72,
-   "chg1d_pct": -0.66
+   "price": 88.3,
+   "chg1d_pct": -1.13
   },
   "GOLD": {
-   "price": 4483.8,
-   "chg1d_pct": 0.13
+   "price": 4497.8,
+   "chg1d_pct": 0.44
   },
   "SPX_FUT": {
-   "price": 7686.75,
-   "chg1d_pct": -0.46
+   "price": 7700.5,
+   "chg1d_pct": -0.28
   },
   "NAS_FUT": {
-   "price": 29418.5,
-   "chg1d_pct": -0.25
+   "price": 29512.75,
+   "chg1d_pct": 0.07
   }
  },
  "headlines": [
   {
-   "t": "Iran: Satellitenbilder zeigen Wiederaufbau von Atomanlagen und militärischen Einrichtungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVkFrVmY3bVZ2TGI4OVBSZWFOV192ZjBlcm0yYlg4bEptcjZKbEhUa09mTklJRFFGa0tGX0JZVDluYXBOaV9KREFmeGZFZFRFblV0azFkRnBWSmVvS0E4YWdJZk5NaHlFc2lzdXdQOTJvaFhCaFgzdzBxdGJVdmdhVWlRbUx6VG9LaTVEX0VEV3lwb1h0bzh4Vk85MjZEcFFMcEdiZ0tOS2h2NjkxVzY2M2NHd25mTFkwckkyWXVYN1ZvNnpHWGNDZ0VaUGZMbGVqNElHekd0TkdfVEREODc4MmlDYWdtUXJlcURmcTdSa0V0dw?oc=5",
-   "pub": "Mon, 31 Aug 2026 11:19:00 GMT"
+   "t": "Meinung: News des Tages: Iran, Wahlkampf mit Merz, Nosferatu-Spinne - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN2hLNHRaVGZrM2xNTFpUZkFGaktnbzNQUHJ1V1ROanhqZ25jMUFLOXFlYkw0eHFsQ2dTNWpQUE01RkdqYm9lUllldWpaWU1KeUY2MFRsbFMyTmNuYWluRWp4WVJtLUJEbWRpZlVuSE1xeDByZXoxYzNDa042aU1wR1R3ekEwNUg4b2pMSWJPSGVwWlZydjlZNUpWVUtQZE03aVBMSXdQWHRpN1RQSHBDVUFxYzBzU3pIR21pQ1J2Qnk0cmVSVlctRUU0ZHdfc29fRUIw?oc=5",
+   "pub": "Mon, 31 Aug 2026 15:38:00 GMT"
   },
   {
-   "t": "News kompakt: USA und Iran attackieren sich wieder - DW.com",
+   "t": "USA und Iran greifen sich weiter gegenseitig an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeUFOZkU2eWc1TDdpSlpJdEtnTnBxbG9uRkVoU05ieTJubS03dF9mSHB1WGRzV3QtQVh5Wl9aR2FUR0xGOEo3S1A3c1lObkUxR1VRUm9vMUZPQzJqdUZtZnpuSUd6b0lYV1RPanZvQQ?oc=5",
+   "pub": "Mon, 31 Aug 2026 18:49:58 GMT"
+  },
+  {
+   "t": "Niedergeschlagene Proteste: Trump fordert Prozess gegen Iran wegen „Kriegsverbrechen gegen die Menschlichkeit“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOajBkTlZuYUNZWVhRSlA2a25ESjl5TWxTekFjdHVGQU1YSU1NT3BIYmJDWDBvN05BVmFzbUpkQnk2cHppV2dYVVRFMl8yNE11azNvbzF2aXZqVm5DMDJGdUM5T3FONHBJYUgySm0tQ29sOFpYRDI5VF90eUVzdzBmeC1ZdUZ1cVlyWWxDR2xnaGpaT2d5bUtMdUVrSUx4NGRyd19sTkN6UU5lUHBRT2hEMTdsZ0ZGUXZ2MVpMNjRRQnIxSnNxQ3haY2JKOW5yRm5GVmsyTUxDR2gxRF9aVFZLOThXTWFQQVkyandyMnZQS25KLWo1NkJTLWdBSjFpTm1fdnpwZnVaOUtkYzZL?oc=5",
+   "pub": "Mon, 31 Aug 2026 15:00:21 GMT"
+  },
+  {
+   "t": "News kompakt: USA und Iran attackieren sich wieder - dw.com",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdXZDbm81ekVhelczTG5XSUNYSVRMUjFhR1RhSmFPZ1ZLMDlHaEtnSGlkMVNOR3dQaWN4QWZ6ZFR5TEdBdWdRWjBTa2VfZ2dPVUJzcXhPWTZTOHVhNG1kLUxHZEFySUFHejFYSzItNThJMzBwdzl4ODluQlpVQ3RwcjJHa0t6SWdEQjNsWjVPSDRTbzZEM2FFd1lRd0FBZm1LZ1ZyM0dR0gGmAUFVX3lxTFBUN0NiZTlmZ1JET08yeTNBZTlJSGN4dDZtU0ZRM1pGM25YdjdkaWdrQjlDakU0a0c2ZXlGbGRkR0JpMEpMelliTHpZcGswTkxvSXhMVVJIaS1mdWd1SDJ6YnZuWEl6R3J5Z3BmNXZJbG0ta2RGWlJmQlVzelN4M0UtblZEakdfV2k1aUd2OHMyU0lWaVk5OU9IMWhXZWNadGtuZmtNY1E?oc=5",
    "pub": "Mon, 31 Aug 2026 07:01:10 GMT"
   },
   {
-   "t": "USA greifen erneut Ziele in Iran an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KdTNxSldqUGs1S3dfRy1CS1hYV0NjUWdSQncyRTZqUGtnY0E1MkpxZF82RXpZSUw4WnJTelFoeUZSZ1JPNTVpUXRVc3Y0VHNKbEYxYTFLb0F6NnhBVXpZ?oc=5",
-   "pub": "Mon, 31 Aug 2026 10:43:05 GMT"
+   "t": "Energiekrise: Ölpreise steigen nach Militärschlägen im Iran-Krieg - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXFCSWx6aHhZbzg3dDJldV9JMWhVczlHaU12RnpFaGpMajBaT1F2LXBSa292N3dqWXl6VUFxTnpHYlBnRlRLVmRWVENkSlcxNHZESGNLMXdhODJoWTlSb3RTbWp0UnZYZjF5SWNEdktTYTJqd2ZycEJRMjdlWFlRY1AxYnFBWGJQbVNtbWJ2T2NzMHdFdHRhQm1LaElvMzF5VjFnQVRNakQ2TVI4OEFj?oc=5",
+   "pub": "Mon, 31 Aug 2026 13:11:00 GMT"
   },
   {
-   "t": "Drohung - oder Verwechslung?: Iran-Angriff: Trumps martialisches Video wirft Fragen auf - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVk1kWHN1M0ZmNXZwZEhlZUJpZWY3WWY0cnk3clpWTXdEMkdRSC1XeWZ3akVZQTJUbHhCYWlwby1DcXdPcDY4SkpndExnbmxlbXloaXd6TWNod3lmV3l2MFhBeTRYSXdLa0ZDZndMVFhkOVVzMTJuNFdHMjRXdThQb0Yyc0NBeEJkY0hlQmlWUnlSeXpkVmxDclBLUndaWUo1Q2NJdGZBd2VaVHNBSjUycjdDbFY0cjBo?oc=5",
-   "pub": "Mon, 31 Aug 2026 11:06:32 GMT"
+   "t": "Jäger über jüngste Angriffe: Sieg der USA im Iran-Krieg ist \"keine realistische Option\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlRmMUlFSm96UFdVODNfYlA4ODBFS05xQ0h5VkF4TTJ5ZXFQMzVZbHp0aHZMVmcwUEVQQ3ZpemxhX1dtRmJmbmZaeHg2ckFROWo0RFNBNVE4R1VvXzF6VmZLR29nV2Q1YWxxcGdYY2drdlIwQjZ1Zk9zM2p5My1ieGREUTB4WV94VVduc1dEZU9NaDMybG1JZ1NLblF2dUYzamd1a1h2cHB2TDF0RUFuWUNzNU9LMFRR?oc=5",
+   "pub": "Mon, 31 Aug 2026 16:16:02 GMT"
   },
   {
-   "t": "Nahost - USA greifen erstmals seit Wochen wieder Ziele im Iran an; weitere Sanktionen angekündigt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbjFOYW8wbVdZRGtFNllZQU1hRGlnaHRTRVFWQ0Z1VzdLVGllX1Fnc3pTWmdIQzJueTBBejRZczM4MmszczRKaFU2RG5TdmlPUmh0WlItV0hSTldVRExOSXQ4cWJ6dFdYSkdveHhzeDROU1BmTklIMThjTEIwd0NQOWFVcWZwTHVDZW01bXAxQWE3dF9TbTc0R1NJSUdIOTE2LWp4VXBRX09SMldQLTNkYnlLQ1V6TGhGZ1hKSU44S1RHUUZSYVNF?oc=5",
-   "pub": "Mon, 31 Aug 2026 04:00:00 GMT"
+   "t": "Video: Neue US-Angriffe aus den Iran - MDR.de",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX19uZTZZM0NFUmdHMHAtTzJ4dm9ibGJ6YkJJbXZqZkhReXJTcTMxQ21kWThpd3QtcFVwdWw3Nl9CLTk4NGtDd1R2bVBHQU9kN000U2FrZ2hlNTFkMlUtMThOZy1fVFZ1Ym1uX2VvTUpWeTBXWUl3TFZoaE9GaXpNTTdub2VhaWp1MENRdk1wRHQ?oc=5",
+   "pub": "Mon, 31 Aug 2026 14:58:27 GMT"
   },
   {
-   "t": "Iran greift US-Stützpunkte in Jordanien an – Krieg flammt neu auf - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnNFQzFJcFdpZEtRbHl6ZEZWeWw0c05IakZqOGI3eEJ1dkRINEtzQ0lFRk5RbU5HLXZYRW5TZ19mWTM0RjU1RWFoaFZ5c2UxaC11UHJJTDJIQUk5TkpOYTl6ME44eURGZzA2TlV0UGZCNzNoN0NTNTdwMXdWQmFVNS1aaGdJZDZ3V1djbGswdkZRa0RDZjZjV01uVFJOX0k?oc=5",
-   "pub": "Mon, 31 Aug 2026 05:06:57 GMT"
+   "t": "Iran-Krieg: Satellitenbilder zeigen Wiederaufbau von Atomanlagen und militärischen Einrichtungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeVdFWHlYUDhZbFFiN0lqWkRNYU9SNUNEeW5YVENoMmlZeEhlOHRIU1RodEFhWk1iNVk0OHV0UUtQMmZnTUJzbjVKQlFwU0lORUdhanlMa0xoUDRwSk5sNjdybk16VElCSF92ZmtsZ21PYklBenp5VEphSVpmS3hFLXJ1VVpCTzJJb19LcjdHWm9jSXpsWktDdnduTGRwN0RQeGFfTlNaRVoxbHFoLXR5ZjQxM1RSdGdxbGdzdWlGanhlVjQ0b3pLM0VydURHTWViVWVtdUpXdkVMLWRIMHBhcVFXbURwcHJ5M0pDalEzM2ZuN29JRTZYU3hR?oc=5",
+   "pub": "Mon, 31 Aug 2026 11:19:00 GMT"
   },
   {
-   "t": "„Wird mit der Bestrafung des Aggressors beantwortet“: Iran schwört Vergeltung – US-Militärchefs zweifeln - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFY1S21jMGxONkoyMldlUEpYSUd4RngzTzVRQk9TdkhSdVdyR3lNNENOUGVTc3dCSWFFY2NFczcwLVNyQ2hLUS14RjFCdkd2LTFJR1dLTS1aZnJ0SUVVc1N1aEtERjVSQ3hOZElyMHJPVXZ3cjY2aGtxTnI5U04wVmkzTkFuclRRZThBX0Y2VEN4Z1g2cnpnbEFMdGZIMFRsM0dtaTJzanVkRjJkcWpSS3dCWHZkM0FaUjdiOUZocw?oc=5",
-   "pub": "Mon, 31 Aug 2026 07:41:52 GMT"
-  },
-  {
-   "t": "USA greifen Ziele im Iran an - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uNC03Zl9FeTNXenZId1k4UFlid0Z4VHBQdFpvZ1dXeG5hckFmaWg5OVJvbi1lSWNPdllDVTE3YTdsTGtkejR5QzBUekVlbVVMOU1uYUFMY3RvWWpPWExqRlhTTDFWU3hlQnVJSXRfNmJyY044Wk9UVTdNbXNhUQ?oc=5",
-   "pub": "Mon, 31 Aug 2026 07:34:00 GMT"
-  },
-  {
-   "t": "USA und Iran: USA greifen erstmals seit Wochen neue Ziele im Iran an - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYXliak1UT29QSjhvRXpXNGw4RjQ0c1NEYTQ3MVBDZDZCLWU4U2Y5UXZxYWFqaGNfNTJ1OUN5ZmxBeDZ0Z21aYWZJSy15MkpoMkhjOV9yTW5NUTV4aFllRWpnY2p5ZlAzSE1VQ19IUktLUkVlek9HQ1dfMmRXTkNmemlOVmduMHpBVFlISHFDR3VtTGh5dGdzaVFiRTJCU2JxUm5zclBn?oc=5",
-   "pub": "Sun, 30 Aug 2026 22:24:15 GMT"
-  },
-  {
-   "t": "Erstmals seit Wochen wieder Angriffe zwischen Iran und USA - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PSVFhWG5HVGd6TjdMbHpWUzh3U2ZVaWdUbExlbUM1czFzemlZOWcybXZIMWNQQnp5T3FfYTNBYjZsQzdhSkg1MGhvTFhXNmsxd1JtWFkwX1p5bEhtcXVyZlhPWEVxN0w0N0tjUzZoUHlZdTJ5Z2Y2ejRROFRvZw?oc=5",
-   "pub": "Mon, 31 Aug 2026 07:09:00 GMT"
-  },
-  {
-   "t": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeGg1b1Y3b21ERU43M3h5aE9fSlR0VE5Ib0I2NzlTNld3cm90SXF2YWpGZm9YZXdIdk9PUUtrajhoTUxkUGIxcXY2Q3dxOVBXbDRDUEo4NXBUbWNtLW5xUWVWMTJkMk9CSy1OVnJ1Ym54cGVEUDJtUmdabHNzZU04NXZ5SUhQUFJqTjQ3REFiUUVNc296NVZBLXdJUkhmTVZoa0ZVM2FUYU5ORGF2RWxfTV82UF9sRnJSOUFNWnVnRjZHN19Ub3J4ZWpkTWZSRU9UWWFFTUV6NUNsaXhsMkdJMUxUOGNwck5iVlBCdEt6VnUwZw?oc=5",
-   "pub": "Mon, 31 Aug 2026 01:51:00 GMT"
+   "t": "\"Eher Jahre als Monate\": Experte Stephan Bierling glaubt nicht an schnelles Kriegende in Iran - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkRmTVhxWVpLdXdnSXVITU1UU3dvRFkybnJVc2ZxTEk4QmJqaDJwV0lMMWI0M3JVWWV6YUJQM3VxOTNPUkR2NTJRR3pRWnRlRlpRb2VYTWpHQkJEYmItUmd6cjMybFd4ZTdnMmVhVk1vVjBZWTUySmF1blRhRE5rZkl3NVJFd1RvelN2dHJUWjhoeEQwM3lKVXZR?oc=5",
+   "pub": "Mon, 31 Aug 2026 12:13:00 GMT"
   },
   {
    "t": "Erste Attacken seit Wochen: USA und Iran führen auch militärisch wieder Krieg - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnBPOGRKY19IXzdmQk5JRmxrdUhFaGhDQS1OUDFfU3JHazNsY2RaanhJYm9XRExrMzlyVEtVd0ItQVM5TlJ5WDI0akVwN3ZuNElHRmtVcC1ycHh0UVp1eFRRazJoalczcnlvVTRaVkhsZkxLQW1zcE9OYXdWM290TlJVekVQeWF5WjRVQnRDalRzU0w0dmJnNXViQQ?oc=5",
    "pub": "Mon, 31 Aug 2026 06:49:52 GMT"
+  },
+  {
+   "t": "Erstmals seit Wochen wieder Angriffe zwischen Iran und USA - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PSVFhWG5HVGd6TjdMbHpWUzh3U2ZVaWdUbExlbUM1czFzemlZOWcybXZIMWNQQnp5T3FfYTNBYjZsQzdhSkg1MGhvTFhXNmsxd1JtWFkwX1p5bEhtcXVyZlhPWEVxN0w0N0tjUzZoUHlZdTJ5Z2Y2ejRROFRvZw?oc=5",
+   "pub": "Mon, 31 Aug 2026 14:53:00 GMT"
+  },
+  {
+   "t": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcXhYUnlpZjc3dldLcDg0ZzE1b0tzcU1RWE5xQnh2VnNzNzFaRk5hdHdubmNmUC1pTnl1TE10Nzk5Rks0cWZFRWhEOXRnZnF4ZHpHNTBDdTBjWnlJRW03dXRxTmFaNEVlZldIS1BQTkRmV2VQcDF2Y1B6NXUzb1lnNWJhWUVrR0tnRmFicmZfbS1EN0hfY1dGLURUdVdBaW51R0lDRG1xVUtaN2s5VHBkbkFSd3l6blc5Y0FsZVJCZ3BPVkZ5R2YtVi14cGZvMUpYZmljUmlPQWdwTlI0dkMwX1hEbUx6QkxKcnln?oc=5",
+   "pub": "Mon, 31 Aug 2026 01:51:00 GMT"
   }
  ]
 }
