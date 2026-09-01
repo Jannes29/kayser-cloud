@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-01T10:08:50Z",
+ "collected_at": "2026-09-01T14:55:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8098,
-   "chg1d_pct": 0.12
+   "price": 0.8116,
+   "chg1d_pct": 0.34
   },
   "USDJPY": {
-   "price": 160.028,
-   "chg1d_pct": -0.06
+   "price": 160.039,
+   "chg1d_pct": -0.05
   },
   "GBPCAD": {
-   "price": 1.8781,
-   "chg1d_pct": -0.19
+   "price": 1.8812,
+   "chg1d_pct": -0.03
   },
   "AUDJPY": {
-   "price": 114.311,
-   "chg1d_pct": -0.28
+   "price": 114.47,
+   "chg1d_pct": -0.15
   },
   "EURUSD": {
-   "price": 1.1597,
-   "chg1d_pct": 0.07
+   "price": 1.1601,
+   "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0961,
-   "chg1d_pct": 0.09
+   "price": 1.0989,
+   "chg1d_pct": 0.35
   },
   "WTI": {
-   "price": 87.95,
-   "chg1d_pct": 2.55
+   "price": 87.82,
+   "chg1d_pct": 2.4
   },
   "BRENT": {
-   "price": 92.26,
-   "chg1d_pct": 1.96
+   "price": 92.28,
+   "chg1d_pct": 1.98
   },
   "GOLD": {
-   "price": 4417.5,
-   "chg1d_pct": -0.31
+   "price": 4415.2,
+   "chg1d_pct": -0.36
   },
   "SPX_FUT": {
-   "price": 7654.5,
-   "chg1d_pct": -0.58
+   "price": 7668.5,
+   "chg1d_pct": -0.4
   },
   "NAS_FUT": {
-   "price": 29217.75,
-   "chg1d_pct": -1.0
+   "price": 29235.0,
+   "chg1d_pct": -0.94
   }
  },
  "headlines": [
@@ -54,29 +54,24 @@
    "pub": "Tue, 01 Sep 2026 09:29:45 GMT"
   },
   {
+   "t": "Neue Eskalation im Krieg: „Iran ist tot!“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblV6cmhaVHM1N2k1dGxCbTdiQWhZRHVZeVB2RjdVZkFfY2R4UHJQR1JwWk5ZNkNfS1lOZFBfUGtUWWQzZ3dkc3c1X0toV1ZyVlV3aWEtTWpmTm5zdjM0SDlKeDVYUm1JalZrU2dkM0RudVJ2RTNvSi1uUU10N0NoQWRWUHlnUGcwTkhwNkdEZ0lWRG9Xbk9UREpxaGxrWkRvaVVyRmdvM0EzQUt3bHRwaHIteFNpc2ZTSVE?oc=5",
+   "pub": "Tue, 01 Sep 2026 10:10:15 GMT"
+  },
+  {
+   "t": "»Der Krieg gegen Iran hat die Abschreckung im Indopazifik geschwächt« - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUjlJTVU5TGltanJOamZGSlJqb3JocGtUNGZTcDFRdFgyYkxmMkY1YWp2LXlKYjRvLWdPLXNMLWdlR2tQQXE3YTJrbVdsVkd0UmxPT3FCRk1QUFdCU0RLdDBxajB6S1ZGaHcxVVcwcFVrMWFWYmk3cE1xa3RMNEZSWkxZMnExTFdMUVFQcjY5cXJkeDhFY01LS1lLR2xpUDNlV2gxRHQ3OV83amZuOUsyeDEyUGxFNzQ3OVNQUExEbHZydHNacklWSGRtMzVnaTh6UXhJNk9jQWZMM1ZqS0k3LTFJdXRBNFl0NFItZjJNSVpQUTlFaDNqNDNqZVlHcnR0RXpocGN5OTZRVUdVZkg4OE5tdmozdw?oc=5",
+   "pub": "Tue, 01 Sep 2026 13:40:00 GMT"
+  },
+  {
    "t": "USA und Iran greifen sich weiter gegenseitig an - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeUFOZkU2eWc1TDdpSlpJdEtnTnBxbG9uRkVoU05ieTJubS03dF9mSHB1WGRzV3QtQVh5Wl9aR2FUR0xGOEo3S1A3c1lObkUxR1VRUm9vMUZPQzJqdUZtZnpuSUd6b0lYV1RPanZvQQ?oc=5",
    "pub": "Mon, 31 Aug 2026 18:49:58 GMT"
   },
   {
-   "t": "Neue Eskalation im Krieg: Trump: „Iran ist tot!“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR2hjdjd1OFlpY05xTnZTa1MxTjBucEthenNqNjhGdTAzc2NfTnRoZEZuR0FjYVlla0FBRTR4QkFldWhIeGtQVlIyQmFFNGQ1ZTBvYVkzUlhHdW0zclpFcG9BbWVjVHYtWmJoSGl5YXlYR09Xenp6MldXV0thLXcxWjBSYjA4ZjBBeDNsS09mYkh6VU5IWE12QVJKb2JOd0o3MUJKNUFiajNVVC1fS2xyeEVoQ2VNcmJyeEtHMTZndHk3QQ?oc=5",
-   "pub": "Tue, 01 Sep 2026 06:58:23 GMT"
-  },
-  {
-   "t": "Meinung: News des Tages: Iran, Wahlkampf mit Merz, Nosferatu-Spinne - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN2hLNHRaVGZrM2xNTFpUZkFGaktnbzNQUHJ1V1ROanhqZ25jMUFLOXFlYkw0eHFsQ2dTNWpQUE01RkdqYm9lUllldWpaWU1KeUY2MFRsbFMyTmNuYWluRWp4WVJtLUJEbWRpZlVuSE1xeDByZXoxYzNDa042aU1wR1R3ekEwNUg4b2pMSWJPSGVwWlZydjlZNUpWVUtQZE03aVBMSXdQWHRpN1RQSHBDVUFxYzBzU3pIR21pQ1J2Qnk0cmVSVlctRUU0ZHdfc29fRUIw?oc=5",
-   "pub": "Mon, 31 Aug 2026 15:38:00 GMT"
-  },
-  {
-   "t": "„In Stücke zerrissen“: Trump prahlt mit der Zerstörung der Iran-Insel Chark – und zwei bizarren KI-Videos - fr.de",
+   "t": "„In Stücke zerrissen“: Trump prahlt mit der Zerstörung der Iran-Insel Chark – und zwei bizarren KI-Videos - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNHIyVmw1eENaa1FRWXZGWXdCWUJwZVRsVTZHN2U5SUdJamxfRTUzZXdXUXIwSGRPR2p4RzVhX3Qyb3dZT0o1WUdmeEh3NmxDMnUwaEJMSUxaYTcyd3lreV9GOERmV3dWWEllS09scVpTT0g1MWl2dWp1WlNDMVM0YVRxS0h2Rk1tU29lOTU4T1h0MlMzeUdhM2loTUN2WENDSXlQTW1TTXI5aElHVHJ0cUxnTWlXTmlFYUl5ZnZsVXJYXzFSc2RDNE5XX2RHU2VYWmR2S2NR?oc=5",
    "pub": "Mon, 31 Aug 2026 21:12:42 GMT"
-  },
-  {
-   "t": "Trump pöbelt Reporterin im Oval Office an: Atomwaffen-Frage über Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkh1ZjJXUFFSQk5jbmpmNzNzM1BwbjBhTXQtMGdkX0ZqdEtCU2Y0eHR6Q0d6ZTJMX08wQzFvenYzd2FyRlZQUXhBYnNZenFHaVBQOGU1Q3g5aWlDd3RSRE9lVG1qbWJ2U1hrMjJCai0tOWxmQ0VqLXl5aTB0YmRzakpMVGY3eUI3NHFBMHo4SEpCNnpqdThsUklnaWZYckV6NG5TWHl5QlYwaVNWbFZjWThvRXUtQWFuUDlRSjNfZGE3Umo4U0RmY1RvMGpZQQ?oc=5",
-   "pub": "Tue, 01 Sep 2026 08:25:49 GMT"
   },
   {
    "t": "Gold: Kippt Fed-Chef Warsh den Goldsommer am Freitag? - Der Aktionär",
@@ -84,29 +79,34 @@
    "pub": "Tue, 01 Sep 2026 08:48:13 GMT"
   },
   {
-   "t": "Iran-Krieg: Teheran kann auf seine Verbündeten zählen - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHhkbE91WE1DNDRFdGFCZXFBR2ZWSWdVeHgtWjNtSDlwUjR1LURFdllmSURKZHhYWENVbVJnLWtLWGxCak8zT0ZrV1p3dWNNb1lMMjB3S2QzeFJQcm5YcExDeUxieEJqOHJFVk1KMDh2VnRnRXdLVmgtcVoxa3cyd3pvZnpnSzRyMXhqZ01xc3BsUHE1OE0tT1ZRdWJOeEtTcGFyTTVTdDd2YjhOMXRXWUJxQQ?oc=5",
-   "pub": "Mon, 31 Aug 2026 18:33:26 GMT"
+   "t": "Trump pöbelt Reporterin im Oval Office an: Atomwaffen-Frage über Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSkh1ZjJXUFFSQk5jbmpmNzNzM1BwbjBhTXQtMGdkX0ZqdEtCU2Y0eHR6Q0d6ZTJMX08wQzFvenYzd2FyRlZQUXhBYnNZenFHaVBQOGU1Q3g5aWlDd3RSRE9lVG1qbWJ2U1hrMjJCai0tOWxmQ0VqLXl5aTB0YmRzakpMVGY3eUI3NHFBMHo4SEpCNnpqdThsUklnaWZYckV6NG5TWHl5QlYwaVNWbFZjWThvRXUtQWFuUDlRSjNfZGE3Umo4U0RmY1RvMGpZQQ?oc=5",
+   "pub": "Tue, 01 Sep 2026 08:25:49 GMT"
   },
   {
-   "t": "(S+) Irankrieg: Satellitenbilder zeigen Wiederaufbau von Atomanlagen und militärischen Einrichtungen - Spiegel",
+   "t": "(S+) Irankrieg: Satellitenbilder zeigen Wiederaufbau von Atomanlagen und militärischen Einrichtungen - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeVdFWHlYUDhZbFFiN0lqWkRNYU9SNUNEeW5YVENoMmlZeEhlOHRIU1RodEFhWk1iNVk0OHV0UUtQMmZnTUJzbjVKQlFwU0lORUdhanlMa0xoUDRwSk5sNjdybk16VElCSF92ZmtsZ21PYklBenp5VEphSVpmS3hFLXJ1VVpCTzJJb19LcjdHWm9jSXpsWktDdnduTGRwN0RQeGFfTlNaRVoxbHFoLXR5ZjQxM1RSdGdxbGdzdWlGanhlVjQ0b3pLM0VydURHTWViVWVtdUpXdkVMLWRIMHBhcVFXbURwcHJ5M0pDalEzM2ZuN29JRTZYU3hR?oc=5",
    "pub": "Mon, 31 Aug 2026 11:19:00 GMT"
   },
   {
-   "t": "Erstmals seit Wochen wieder Angriffe zwischen Iran und USA - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PSVFhWG5HVGd6TjdMbHpWUzh3U2ZVaWdUbExlbUM1czFzemlZOWcybXZIMWNQQnp5T3FfYTNBYjZsQzdhSkg1MGhvTFhXNmsxd1JtWFkwX1p5bEhtcXVyZlhPWEVxN0w0N0tjUzZoUHlZdTJ5Z2Y2ejRROFRvZw?oc=5",
-   "pub": "Mon, 31 Aug 2026 14:53:00 GMT"
+   "t": "Treffen in Kirgistan: Peseschkian dankt Putin für Russlands Haltung zu Iran-Krieg - stern.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV3NsM1BsSWhWTS1FQ29lQk91YWZIaklPTjRROGxqNkJjdHJEZzcxNlkwT3k1ZU5zdHNXbTNTVk42VXZTUnYxQVgyMHMzSUZZMjA1aHJMLUJ0dF9sTUZyeXBOdUpaOHFGSF9XTnZCMGRXdnlOeWlXRDNYQzVnWWNYSFNqMVNVRVE2UTNQTXJyMDVFWFZMYTRQOTAwUnNxTk5lOWdpNThUREI1eFc3UjZxUzVDRlRBZGtIMldxVmhLYw?oc=5",
+   "pub": "Tue, 01 Sep 2026 13:21:12 GMT"
   },
   {
-   "t": "Alarmstufe in der Straße von Hormus: Ein Öltanker von „drei unbekannten Geschossen“ getroffen - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1lJa29hZE1nN0czb3VXdmY4Tkk1a2JwVzczdkRpaWVpZ0VoeWFqMmktUmhCRVFtaElYMFJfdkNWUG1USTQydkdrNWVYUno5TDBQY2ItdUlLQVZFcXRaTHlGN3VPMC11UDg1R3RnRExkMHZvV2lKTmtGU19iSlpkQWkyUVRrX0lBMmxOajJCZVh2WWhDN2tPTm9ubEVIbklLR1E?oc=5",
-   "pub": "Tue, 01 Sep 2026 04:31:21 GMT"
+   "t": "News kompakt: USA und Iran attackieren sich wieder - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdXZDbm81ekVhelczTG5XSUNYSVRMUjFhR1RhSmFPZ1ZLMDlHaEtnSGlkMVNOR3dQaWN4QWZ6ZFR5TEdBdWdRWjBTa2VfZ2dPVUJzcXhPWTZTOHVhNG1kLUxHZEFySUFHejFYSzItNThJMzBwdzl4ODluQlpVQ3RwcjJHa0t6SWdEQjNsWjVPSDRTbzZEM2FFd1lRd0FBZm1LZ1ZyM0dR0gGmAUFVX3lxTFBUN0NiZTlmZ1JET08yeTNBZTlJSGN4dDZtU0ZRM1pGM25YdjdkaWdrQjlDakU0a0c2ZXlGbGRkR0JpMEpMelliTHpZcGswTkxvSXhMVVJIaS1mdWd1SDJ6YnZuWEl6R3J5Z3BmNXZJbG0ta2RGWlJmQlVzelN4M0UtblZEakdfV2k1aUd2OHMyU0lWaVk5OU9IMWhXZWNadGtuZmtNY1E?oc=5",
+   "pub": "Mon, 31 Aug 2026 10:12:27 GMT"
   },
   {
-   "t": "„EZB-Zinserhöhung überfällig“: Iran-Krieg treibt Inflation im Euroraum auf 3,3 Prozent - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYWZuTVhPT3ZXRExRTVFNNjRweXhWX3VWWngwYlBZWG5Za2ZNSnloUVgzZVdWQXBYUWtnb3pOM19vcDRLQ05tN0dtMlNtb0ZKUEtpU29Bb1l3enpoLVJEU1ZoNjJwQmZmTC1NaU54NElaTVd0MzRlU0hIUHN3aU0tM3FsQ0V0MldUenZpdmNWeXJXVU1nV2VkMXZUZkh6YVk0eHFOVFlhbmdTcWJscGduRTdZbW5xdU9xemdGYjRqUG9LcGF4SUczRTFLTXZaeTRBNi1nRGlXVQ?oc=5",
-   "pub": "Tue, 01 Sep 2026 09:34:56 GMT"
+   "t": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeGg1b1Y3b21ERU43M3h5aE9fSlR0VE5Ib0I2NzlTNld3cm90SXF2YWpGZm9YZXdIdk9PUUtrajhoTUxkUGIxcXY2Q3dxOVBXbDRDUEo4NXBUbWNtLW5xUWVWMTJkMk9CSy1OVnJ1Ym54cGVEUDJtUmdabHNzZU04NXZ5SUhQUFJqTjQ3REFiUUVNc296NVZBLXdJUkhmTVZoa0ZVM2FUYU5ORGF2RWxfTV82UF9sRnJSOUFNWnVnRjZHN19Ub3J4ZWpkTWZSRU9UWWFFTUV6NUNsaXhsMkdJMUxUOGNwck5iVlBCdEt6VnUwZw?oc=5",
+   "pub": "Mon, 31 Aug 2026 01:51:00 GMT"
+  },
+  {
+   "t": "Peseschkian: Iran wird Verpflichtungen aus Vereinbarung wieder erfüllen - wenn USA es tun - stern.de",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUGhzazQwdjVTd0JSb3ZRT0dxQXZ3bFBiZExwZVlvR1FyOXBCRmxYMTNUS1hrQ3hndjMtMlN6aGpFV01VWTJ0U1A0NVZ4b0t6UXpWcVJ5V0VlODh6d0tPVXJSLTBoTnBCa29nLXJZQ09KRHFCbDRyUjhzOTdoODlVazJGbE9RdTc5MGFSQWtPVk5pLXEzLUJ4dU5VVWg1VFp0VzhDVnZibkRJal94ZEdYVEo2azV3b3g1U0V4UVh6LTVMaU9mOHpmTGd3?oc=5",
+   "pub": "Tue, 01 Sep 2026 11:25:11 GMT"
   }
  ]
 }
