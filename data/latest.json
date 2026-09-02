@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-02T18:44:02Z",
+ "collected_at": "2026-09-02T21:50:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8133,
-   "chg1d_pct": 0.63
+   "price": 0.8126,
+   "chg1d_pct": 0.11
   },
   "USDJPY": {
-   "price": 158.933,
-   "chg1d_pct": -0.51
+   "price": 158.67,
+   "chg1d_pct": -0.95
   },
   "GBPCAD": {
-   "price": 1.8662,
-   "chg1d_pct": -0.55
+   "price": 1.866,
+   "chg1d_pct": -0.62
   },
   "AUDJPY": {
-   "price": 113.93,
-   "chg1d_pct": -0.54
+   "price": 113.715,
+   "chg1d_pct": -0.68
   },
   "EURUSD": {
-   "price": 1.1589,
-   "chg1d_pct": -0.25
+   "price": 1.1592,
+   "chg1d_pct": -0.03
   },
   "GBPCHF": {
-   "price": 1.0969,
-   "chg1d_pct": 0.17
+   "price": 1.0956,
+   "chg1d_pct": -0.13
   },
   "WTI": {
-   "price": 90.75,
-   "chg1d_pct": 0.59
+   "price": 90.63,
+   "chg1d_pct": 0.45
   },
   "BRENT": {
-   "price": 95.35,
-   "chg1d_pct": 0.74
+   "price": 95.23,
+   "chg1d_pct": 0.61
   },
   "GOLD": {
-   "price": 4424.4,
-   "chg1d_pct": 1.76
+   "price": 4434.3,
+   "chg1d_pct": 1.98
   },
   "SPX_FUT": {
-   "price": 7681.25,
-   "chg1d_pct": 0.5
+   "price": 7669.25,
+   "chg1d_pct": 0.35
   },
   "NAS_FUT": {
-   "price": 29171.75,
-   "chg1d_pct": 0.16
+   "price": 29141.0,
+   "chg1d_pct": 0.05
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
   {
-   "t": "Iran und USA greifen sich nach mehrwöchiger Feuerpause wieder an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tczBKcGt1ekxnVk1jSzVHbDFEU2FnSzJzdEgxS1gycVFadWhwZHZDaVczNW1JMXE0WlZsNXUzRFl2OWJabjB4bGREenF0NHp4NDhDZXpfeE1xM0VlcmFjUG90T0NpbkRZYU92dUR0WQ?oc=5",
-   "pub": "Wed, 02 Sep 2026 18:29:21 GMT"
+   "t": "USA und Iran greifen sich seit wenigen Tagen nach mehreren Wochen Pause erneut an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kSFJzYl82QWhsa09yd0RPV3RlbGw2ZnVPb3pjOWh1Sk9EOG1CeXdUSGhfc3BENEZmSVhQaFZPbXlsYXAySWp6aTNJeFJfeFUyVENZS3RRa0pZWU9SbEI0?oc=5",
+   "pub": "Wed, 02 Sep 2026 10:20:48 GMT"
   },
   {
-   "t": "Iran: \"Illegale Route\" genutzt: Zwei Tanker laufen in Straße von Hormus auf Minen auf - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLU9WbHowVk4xdTZLY0NVdVlvTm13N0NNNm00S1g0aUc5TDdETElMTHcyUVA4RHJFSW91X2VBX0ZCTnFQdjQxWGxCbzBQd3JyQ0dYVzhzblJZN29IbkxyMFhwY1U3Q1NOY0NscWZ2eGw4XzRtcHFXQWo3QV9reDdlaC1oYTJUTUNDdHJxNUoxNVA4VUY3RkVXeDlXcUtscGs?oc=5",
-   "pub": "Wed, 02 Sep 2026 12:04:00 GMT"
+   "t": "Nahost - Iran wirft USA tödlichen Angriff auf Hochzeit vor - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXBIdUZGc0w3TWZfZU5zZ2hDS1JGSjlOWXZuTzRkY1d1UW9CVDRuVV84YkhOUDJiYmdpRmhkV0ZwVUNtX1R1NEVMaEhYdmlab1hJUzBKT2tTbDE0TVliWHlaS3g5MkJJRTQ5cnFLN3hKYTdIaml4aE9XMmZiZzhPUG8zMHZDemhMUGtLZnRIdjA2MENW?oc=5",
+   "pub": "Wed, 02 Sep 2026 19:00:00 GMT"
   },
   {
    "t": "Spritkrise im Iran - DW.com",
@@ -69,34 +69,29 @@
    "pub": "Wed, 02 Sep 2026 13:00:13 GMT"
   },
   {
+   "t": "Krieg in Nahost: USA greifen Iran an – angeblich Tote bei Hochzeitsfeier, darunter Kleinkind - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPanM2SFFKR0hqVy16eVlxOHphVmhUZnlIN2dTZ2xmYUxnbmNsemtnZk1rUzR5c1htdnJtZHRDZEh1RWJaQmNPS2xNTHdUNnNWQWJCYk95RHAxUnl0bDU2Z1ZBQ0F0dUFhaDBQaGEzbkIzTWJERjZIRGxZREhKUkM1RnNOeTFodVdNQW12VUpEUFhMeERRY3RkWnRfSnpYUG1VTi1tZ3VBRjFLMy1ldzFYRXloNFZHNHVvamZXT2RBek9CVU9HVFNpTkt6dnFMVmhoUG1uUGRYa0c4SEFBbDlsYjJTelZjUmp4MWp6Z29ybGtia0E?oc=5",
+   "pub": "Wed, 02 Sep 2026 04:44:16 GMT"
+  },
+  {
    "t": "(S+) Irankrieg: Satellitenbilder zeigen Wiederaufbau von Atomanlagen und militärischen Einrichtungen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeVdFWHlYUDhZbFFiN0lqWkRNYU9SNUNEeW5YVENoMmlZeEhlOHRIU1RodEFhWk1iNVk0OHV0UUtQMmZnTUJzbjVKQlFwU0lORUdhanlMa0xoUDRwSk5sNjdybk16VElCSF92ZmtsZ21PYklBenp5VEphSVpmS3hFLXJ1VVpCTzJJb19LcjdHWm9jSXpsWktDdnduTGRwN0RQeGFfTlNaRVoxbHFoLXR5ZjQxM1RSdGdxbGdzdWlGanhlVjQ0b3pLM0VydURHTWViVWVtdUpXdkVMLWRIMHBhcVFXbURwcHJ5M0pDalEzM2ZuN29JRTZYU3hR?oc=5",
    "pub": "Mon, 31 Aug 2026 11:19:00 GMT"
   },
   {
-   "t": "USA greifen erneut Ziele im Iran an – Trump droht mit noch härteren Schlägen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQjdYVVdRT2J5Ni0wVlNFRlo0UmRaRWtDRGV0M0dBNGVHTUVhV1FZekJIRE9vSlhHakt0WFNSWHhQRkNPVElHMUxna2FBSWVZN2lpV0dWQ0RhaHppQ2xVdjJIakdZYjY2MkpSWjJ3blFBeDBuTmQ3cXFqbm5iSTI2bE9wZ1RnM2Rpd3JXZ0p5SXprWkIxTGp0dnFmaGk1dUJMcGJiWmFRQWpUbG5NTGVhdXIzQ1Z5cWJSa0FMaWxR?oc=5",
-   "pub": "Wed, 02 Sep 2026 07:51:00 GMT"
-  },
-  {
-   "t": "Iran-Friedensgebet in der Mauritiuskirche Hittfeld (Do., 03.09.2026, 18:30 Uhr) - Gemeinde Neu Wulmstorf",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkJ6VGFnWHBHUGtDYlo0VEswN294NjFmNThqRnVidEdMLWctVTR0c0R5UXppU1prUllUR2N0YnpGbjhKeVZ2WFFNN1I2R1lBbHYwWHMtN3RyRG9PMFdybkJUWi1ZTHlESGNsMmM5VTUtWmkwc2VpQmstR2U4ak0wUmZaWGxQamFQZlJRck9aZENCNXhoeVVCZ1V6VEJYRWtxMk5jRG5obkpzQ2plQlU4VkZxNHVJQnZwTXdFVElwSkNnazQ?oc=5",
-   "pub": "Tue, 01 Sep 2026 22:40:59 GMT"
-  },
-  {
-   "t": "Angriff auf US-Kriegsschiffe? Putins geheime Raketenhilfe für Iran - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGQzbHE2X1Z5X1g5YjM0UVdGTzN2Ykh1dkhiSWk4S0dHZ0JXTEt6dTNKZjVTMTdJT2UyNTZiUXY1ZkNrTlUwVWtCS2RoMFZvXzF2VXBBYlp2WDM5b0l6UzlsVDF3YXFsejFpRlFEd190ZVVUdjIwM3pLQkxhU3VHbEhIRzJ4WXMxc3RyWjlvMHhRQUpSbFM0bWt3dVRNRjBwUU1zcXlSYU9oNUprZ2VvN3FEQ0k0c2s?oc=5",
-   "pub": "Wed, 02 Sep 2026 14:39:06 GMT"
-  },
-  {
-   "t": "Trump und der Iran: Die USA können alles. Außer Kriege gewinnen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVFZeHV2YlZ3d2Z4Qk9majFPal8zTVVmeWNtMmdBZ1c0ZzdLYUtHR1ZLLU5ZdGpVUjdVRWZQRlJGT0JURFhPeVZTZkllVDBPc01zYmpXMEpDNjVEakJVblJNS0dtOGJqWS0wVmJUV0RmSVNzWmx5bm93T1RZUmd5MXFDcllJRW96clNZLUpLTzlGZW0zdW5UNTFZbFhPQU5Va3RvTzZZeEpZR3FIWGhoaFhaOUU4M1E?oc=5",
-   "pub": "Wed, 02 Sep 2026 18:09:00 GMT"
+   "t": "Video: USA und Iran greifen sich gegenseitig an - MDR.de",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0k4TWJUTUxoWHBmNmNrSUVEZHFhX3Z0WGdjT1pQcUllWDNEUkJ2QllIQ2pNRWttcWtRNWxHYTVESzl5YkJNVGJIeG1ULW9OTDdaOHJ3M3paSWFxMGZla0VjcW9sV0h6ZXVwMWhOSWQtaHJrWF9wSnp0bFd1TUdNNklSR2NJMThTOHhLenh0akhoYUJhVzBLQjJBUmxCWk1qNnc4SjBpTQ?oc=5",
+   "pub": "Wed, 02 Sep 2026 08:41:36 GMT"
   },
   {
    "t": "»Der Krieg gegen Iran hat die Abschreckung im Indopazifik geschwächt« - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUjlJTVU5TGltanJOamZGSlJqb3JocGtUNGZTcDFRdFgyYkxmMkY1YWp2LXlKYjRvLWdPLXNMLWdlR2tQQXE3YTJrbVdsVkd0UmxPT3FCRk1QUFdCU0RLdDBxajB6S1ZGaHcxVVcwcFVrMWFWYmk3cE1xa3RMNEZSWkxZMnExTFdMUVFQcjY5cXJkeDhFY01LS1lLR2xpUDNlV2gxRHQ3OV83amZuOUsyeDEyUGxFNzQ3OVNQUExEbHZydHNacklWSGRtMzVnaTh6UXhJNk9jQWZMM1ZqS0k3LTFJdXRBNFl0NFItZjJNSVpQUTlFaDNqNDNqZVlHcnR0RXpocGN5OTZRVUdVZkg4OE5tdmozdw?oc=5",
    "pub": "Tue, 01 Sep 2026 13:40:00 GMT"
+  },
+  {
+   "t": "Antje Erhard, HR, zu den Auswirkungen des Iran-Kriegs auf die Ölpreise - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLd3VDWlFkSGdyNWVaVDVGa2I2ZUo3aFFMLW85VHI1MURMLVY3X05fRGY0bnpDZ0F5cUZ1cndnUUd0N2JMQ0F6Wi1iN1JxWmU4N2pzY0hIX1h0eEVFRVM0?oc=5",
+   "pub": "Wed, 02 Sep 2026 15:23:54 GMT"
   },
   {
    "t": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - Spiegel",
@@ -107,6 +102,11 @@
    "t": "Iran kritisiert US-Sanktionen: »Verhalten aus der Steinzeit« - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZV9KdmF6cGtvOUxpLTFuZlFaeFV3cDNfNHBiUElkdk1UUU5RRnRqUUdjWXBNRWRINEFGVHMxTjhWNjNhcUhWWExfRGJVSjlNSnpFVE94TFFBSENKcFZfM1otTDkxM3EtZjhRazA4c0psSUVrSmRONjVlanBWUzZ6ZGdEM2FLT2o0ckJDSktKeVBaX2hPTGtYZ0Y3dzNoU0dqYTZKMkMwTzJsV0pic1lCcXh6S1lTR2dmdnRSbTFwdEV1U3d5X0E?oc=5",
    "pub": "Wed, 02 Sep 2026 04:23:00 GMT"
+  },
+  {
+   "t": "USA greifen Iran erneut an – und treffen wohl Hochzeit - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYVo2RzhDcXRRcjB6Z3pqYjRSSEdVemZfNXcxdklQLXdORHBZZnlKcUdlcFZtTzRjT1RReEcxS1BnbWVtNWd2TlJtM0ZZMDBTMTZXVTlFQmlCdm50ZVZtUEpsTW85OEwyaTlqQWx5LUdybTF3TEJEc1FvQU9EaDhTWTlXNnJ5blVudHdTdUVYU05CS19h?oc=5",
+   "pub": "Wed, 02 Sep 2026 14:32:00 GMT"
   }
  ]
 }
