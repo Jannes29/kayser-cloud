@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-09-02T00:15:57Z",
+ "collected_at": "2026-09-02T04:43:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8121,
-   "chg1d_pct": 0.48
+   "price": 0.8132,
+   "chg1d_pct": 0.62
   },
   "USDJPY": {
-   "price": 160.193,
-   "chg1d_pct": 0.28
+   "price": 160.166,
+   "chg1d_pct": 0.26
   },
   "GBPCAD": {
-   "price": 1.8775,
-   "chg1d_pct": 0.05
+   "price": 1.8788,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 114.438,
-   "chg1d_pct": -0.09
+   "price": 114.253,
+   "chg1d_pct": -0.25
   },
   "EURUSD": {
-   "price": 1.1593,
-   "chg1d_pct": -0.21
+   "price": 1.1579,
+   "chg1d_pct": -0.33
   },
   "GBPCHF": {
-   "price": 1.0971,
-   "chg1d_pct": 0.19
+   "price": 1.0976,
+   "chg1d_pct": 0.23
   },
   "WTI": {
-   "price": 91.05,
-   "chg1d_pct": 6.17
+   "price": 90.5,
+   "chg1d_pct": 0.31
   },
   "BRENT": {
-   "price": 95.5,
-   "chg1d_pct": 5.54
+   "price": 95.26,
+   "chg1d_pct": 0.64
   },
   "GOLD": {
-   "price": 4371.8,
-   "chg1d_pct": -1.34
+   "price": 4351.9,
+   "chg1d_pct": 0.09
   },
   "SPX_FUT": {
-   "price": 7643.75,
-   "chg1d_pct": -0.72
+   "price": 7634.5,
+   "chg1d_pct": -0.11
   },
   "NAS_FUT": {
-   "price": 29122.25,
-   "chg1d_pct": -1.32
+   "price": 29050.25,
+   "chg1d_pct": -0.26
   }
  },
  "headlines": [
   {
-   "t": "»Der Krieg gegen Iran hat die Abschreckung im Indopazifik geschwächt« - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUjlJTVU5TGltanJOamZGSlJqb3JocGtUNGZTcDFRdFgyYkxmMkY1YWp2LXlKYjRvLWdPLXNMLWdlR2tQQXE3YTJrbVdsVkd0UmxPT3FCRk1QUFdCU0RLdDBxajB6S1ZGaHcxVVcwcFVrMWFWYmk3cE1xa3RMNEZSWkxZMnExTFdMUVFQcjY5cXJkeDhFY01LS1lLR2xpUDNlV2gxRHQ3OV83amZuOUsyeDEyUGxFNzQ3OVNQUExEbHZydHNacklWSGRtMzVnaTh6UXhJNk9jQWZMM1ZqS0k3LTFJdXRBNFl0NFItZjJNSVpQUTlFaDNqNDNqZVlHcnR0RXpocGN5OTZRVUdVZkg4OE5tdmozdw?oc=5",
-   "pub": "Tue, 01 Sep 2026 13:40:00 GMT"
+   "t": "USA bombardieren nahe Straße von Hormus, Iran startet Vergeltungsangriffe - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNejFtMkwyWjZHNVJPcFdNOTBaNDB5OEdfVzNTeVZtUEkxTENYakNPdWJqUFlqUWZjOUxhN2VMWjBXSFFIVTJDQjV2Q2FmYm03RFJCd1FRM3JiNHlNUWp0SkdMSFB0ckQ1anlMUHZEbm9RaHRmcUFIMzRUdE13N0FwUk5qOERJOFE4UzFEc3BkVUp4SUVqQkpadnhqd0lsa0xqdlhzWmlQLUJTOXpzbTlZSUlZQXlJQW5TTDk4dmRSeE9SVDRDaE5aZWlJQmRaN1dhcmxQVHAyc2JwUQ?oc=5",
+   "pub": "Tue, 01 Sep 2026 21:25:00 GMT"
   },
   {
    "t": "USA und Iran greifen sich in Nahost erneut gegenseitig an - tagesschau.de",
@@ -59,9 +59,24 @@
    "pub": "Tue, 01 Sep 2026 22:30:00 GMT"
   },
   {
+   "t": "Teheran meldet Vergeltungsschlag: Trump verkündet \"große und gewaltige\" Angriffe gegen Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlpGeVNWSXZ4Ry1NaWhHaXU4dVUydlJ2Y2pLU0JHazByT2RfQXpON1VfNWhSc2dKRlJxckxhallIY2JRRXF1dlVreklBWlB6cU9kNE5TOVM4RTJsNkJpR1YwZldHLTBvMUlaYmhaeGZWZU9CVm5xdVRyd0hWTVVrVlhJaE9rZmhMcmFyLWZGekp6TjZXSUdacl9YRHhfRFlCQjVR?oc=5",
+   "pub": "Tue, 01 Sep 2026 20:01:03 GMT"
+  },
+  {
+   "t": "Iran bietet Rückkehr zu Waffenstillstandsabkommen von Juni an, falls USA nachziehen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTJjV0tjaDJDLUNKNTUxRnJSbDl6MlY3TzZncElEWFN3b0dfeHlLbkU2TTJMWDZmQVZmN21jTnhMNUhZTGlCcTZrS1JmdDFZdnBncXBmVGk4alhvNUc3eHdfU0tyYzFWNVV5eFdRb0RoRGM1SG9UaFNGM1d2cTF6aE1jbl9YdlJvaG9YdGN0bFhDVjBvamhEODBITDdXLU11eDh0R2UwV29sSXl3TTluUlJ4VE1yYzVM?oc=5",
+   "pub": "Tue, 01 Sep 2026 14:16:54 GMT"
+  },
+  {
    "t": "Drohnenbeschuss - Iran meldet Gegenangriffe nach US-Attacken auf Radaranlagen - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSGxFRUpoeUs2YkZ0d1BVUWFSMDV2MFJsR2pWYmJlU3FEb3Uwa0ZDZ2ZacnItZDBsdU9HYURLeGtvOWVwRzVXTkp5UXJpa2pDcWVfenY3cWxmSE04a1pzeldIX2c1VjhiaVZZTkZrbWdWR1kweVU3RWg3YjFwU0VHdjA3T0lsbC1tWHY1N1R1STVjMFIzTzZmT29XTV9ydERY?oc=5",
-   "pub": "Tue, 01 Sep 2026 21:42:44 GMT"
+   "pub": "Tue, 01 Sep 2026 23:06:26 GMT"
+  },
+  {
+   "t": "Iran signalisiert Bereitschaft zu Diplomatie mit USA - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREV3LW1lX2diOWVjWXJUZzI5SzNjU1lTRmk4NVJiZjh1WmdnWW5XZmI2cnB2M05BNXFqY0ZrMDZmMXBtTkU1WmlBYllLQ0JoUzBVLU5wLTFQZUFLZnA2aEJpSlJGT0pEanFDNXNVX0ZQS3k2TVdZc0l5ZEtIcGJuZkxoMNIBgwFBVV95cUxPQ0E1OXRpX2NLTUx5YXlxNUFhd05SbUFtVzZxblVCZnhWMnY3U09aT1dmRnp6bmNCRE1aZGR1ZDh6WFEtVHAyT2FEd241SU96dnk3aG5GOWZRUmZxTWZ0WVRoblFJWE0xQ1ZCQUJwc0l4RjltaWY3bGIzbWgyM1Vfc0R4SQ?oc=5",
+   "pub": "Tue, 01 Sep 2026 09:54:47 GMT"
   },
   {
    "t": "Sanktionen wegen Iran-Verbindung: Hilton-Hotel Gravenbruch nimmt keine Gäste mehr auf - hessenschau.de",
@@ -74,39 +89,24 @@
    "pub": "Tue, 01 Sep 2026 15:10:10 GMT"
   },
   {
-   "t": "USA-News | Trump startet neue Angriffswelle gegen Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd0ZFRDBGZXdwQzNMMjdUUnlraVcyNUtacGF5bGtTWm94TlZUMDEwZjVFTlhwUHJBUnNZN2JsTktLNlkxdjBHVG5seXEtbVhTTFo0LTd5WmJINUVkOFd2WEtDTGV0Z1NQcmktU0VPVGUtWjJzNTlocndmTDc5VFZRdTFJM1BmbUQzcVF0WHI0eDVnQ1ZVdm5pZXJkb1RfSjcwT3c2UGJmeUVEckJqRjlpa3lmRUV2ZnFlMWF1WWRvVlhSbVZXR25xclMtX1cyWTQ3V2Vn?oc=5",
-   "pub": "Tue, 01 Sep 2026 17:31:00 GMT"
-  },
-  {
-   "t": "Neue Eskalation im Krieg: „Iran ist tot!“ - bild.de",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblV6cmhaVHM1N2k1dGxCbTdiQWhZRHVZeVB2RjdVZkFfY2R4UHJQR1JwWk5ZNkNfS1lOZFBfUGtUWWQzZ3dkc3c1X0toV1ZyVlV3aWEtTWpmTm5zdjM0SDlKeDVYUm1JalZrU2dkM0RudVJ2RTNvSi1uUU10N0NoQWRWUHlnUGcwTkhwNkdEZ0lWRG9Xbk9UREpxaGxrWkRvaVVyRmdvM0EzQUt3bHRwaHIteFNpc2ZTSVE?oc=5",
-   "pub": "Tue, 01 Sep 2026 10:10:15 GMT"
-  },
-  {
    "t": "USA beenden neue Angriffswelle im Iran +++ Teheran reagiert mit Raketen und Drohnen - RND.de",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQklLdTdMZ1pQVzBpSFlqNWhlWU1JMFBXWGF0M0oxVFYzaG9jdVotZTVSeFpJTzBnY2xKakJoVEJ2ZHRQUE9CTzVQczJ6NWNuX1RFR0htb1dBNE9Zc0tITjFSSHpmQXlfRk12bndxaHpIZllzenczMFZCa2FkQk9ROWlfckRNaGxjUjJHNWFLMkM4VVFDYlBLNnY1N1J6b2xMQU9QclN1d25kZkhUUmo1b0N1Ym9CZw?oc=5",
    "pub": "Tue, 01 Sep 2026 23:33:21 GMT"
   },
   {
-   "t": "Donald Trump und die Solarenergie: Der unfreiwillige Helfer - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjNMR2FUejBOX2xlSVpCQXpfTndpeHV1NzFIUEwxMVA4aE55VHlEZnNzVEVqT042NUhvYi11V3EwOWlacmZzMzluMGFIUEFIaFJ3X1hRVDlPUmdsNVRPN25POWJwcE5lMGR1cXBtV3ZBeGlYWWRsQW91QmhCbVV6aXBkakowODF4UzVZcUdYQWNTaE4zXy03YTM3RHJ6ZVBIRzVKbndCX19nQlhycFlHNDNMb1JtMENjN19jQXRELVh2UzF5OV9qdGJCY3d2V2FOMzNnM1N1NnF3SHc4?oc=5",
-   "pub": "Tue, 01 Sep 2026 19:21:00 GMT"
+   "t": "USA-News | Trump startet neue Angriffswelle gegen Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd0ZFRDBGZXdwQzNMMjdUUnlraVcyNUtacGF5bGtTWm94TlZUMDEwZjVFTlhwUHJBUnNZN2JsTktLNlkxdjBHVG5seXEtbVhTTFo0LTd5WmJINUVkOFd2WEtDTGV0Z1NQcmktU0VPVGUtWjJzNTlocndmTDc5VFZRdTFJM1BmbUQzcVF0WHI0eDVnQ1ZVdm5pZXJkb1RfSjcwT3c2UGJmeUVEckJqRjlpa3lmRUV2ZnFlMWF1WWRvVlhSbVZXR25xclMtX1cyWTQ3V2Vn?oc=5",
+   "pub": "Tue, 01 Sep 2026 17:31:00 GMT"
   },
   {
-   "t": "Straße von Hormus - USA greifen nach eigener Aussage erneut Ziele im Iran an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFNXM0xwMXNSemFDMGRwb2ZneVYweG9oNDJSbTVUQTM0bVExRTBCV3BlQXdGQ1pNVjB2ZUQxMDhuNk9PNi1YeWtJZ201NGNlVzZJODhsNnBiVTQ2LWc1cndpWkVEeDRBaDN5dW1KT09yUnBnbUNFUVRYOWJ1S1VsWWxUVUN4NTJaQ0ptLTRJd2Z1dExmUFRfRHVhTTE?oc=5",
-   "pub": "Tue, 01 Sep 2026 19:00:00 GMT"
+   "t": "Neue Eskalation im Krieg: „Iran ist tot!“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblV6cmhaVHM1N2k1dGxCbTdiQWhZRHVZeVB2RjdVZkFfY2R4UHJQR1JwWk5ZNkNfS1lOZFBfUGtUWWQzZ3dkc3c1X0toV1ZyVlV3aWEtTWpmTm5zdjM0SDlKeDVYUm1JalZrU2dkM0RudVJ2RTNvSi1uUU10N0NoQWRWUHlnUGcwTkhwNkdEZ0lWRG9Xbk9UREpxaGxrWkRvaVVyRmdvM0EzQUt3bHRwaHIteFNpc2ZTSVE?oc=5",
+   "pub": "Tue, 01 Sep 2026 10:10:15 GMT"
   },
   {
-   "t": "Krieg - USA und Iran verkünden neue gegenseitige Angriffe - Politik - SZ.de - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVWJZaE80NEt3bDRmenJHUHpjR3ItTGZUZDRVaXkzdkFER2dJNVl0TXY2ZTZkM3Q0bDNoT3IwLWl2SXVhZGVZTVI3Sy1nTllqQUJUX2ZQdnVWUjRtZ3ZUVUduQl9ubm9ZUjJFcE9yVVRaUWstSS12SHBlXy1rT2tvNVZvQzNLUjFxRkxIS2toMWpkY0ZCQzBKYjJsQ2l4REN0a0hHejZRRFBwMklfNUhjZFBzVmM0d3lHSTc2WHo2U0VjdG1RcS1RczRpTjZoZzAzN05LVDFTblNudw?oc=5",
-   "pub": "Tue, 01 Sep 2026 21:36:27 GMT"
-  },
-  {
-   "t": "USA und Iran greifen sich weiter gegenseitig an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yeUFOZkU2eWc1TDdpSlpJdEtnTnBxbG9uRkVoU05ieTJubS03dF9mSHB1WGRzV3QtQVh5Wl9aR2FUR0xGOEo3S1A3c1lObkUxR1VRUm9vMUZPQzJqdUZtZnpuSUd6b0lYV1RPanZvQQ?oc=5",
-   "pub": "Mon, 31 Aug 2026 18:49:58 GMT"
+   "t": "Iran kritisiert US-Sanktionen: »Verhalten aus der Steinzeit« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZV9KdmF6cGtvOUxpLTFuZlFaeFV3cDNfNHBiUElkdk1UUU5RRnRqUUdjWXBNRWRINEFGVHMxTjhWNjNhcUhWWExfRGJVSjlNSnpFVE94TFFBSENKcFZfM1otTDkxM3EtZjhRazA4c0psSUVrSmRONjVlanBWUzZ6ZGdEM2FLT2o0ckJDSktKeVBaX2hPTGtYZ0Y3dzNoU0dqYTZKMkMwTzJsV0pic1lCcXh6S1lTR2dmdnRSbTFwdEV1U3d5X0E?oc=5",
+   "pub": "Wed, 02 Sep 2026 04:23:00 GMT"
   }
  ]
 }
