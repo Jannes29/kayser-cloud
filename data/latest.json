@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-09-03T05:49:49Z",
+ "collected_at": "2026-09-03T11:16:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8112,
-   "chg1d_pct": -0.06
+   "price": 0.8087,
+   "chg1d_pct": -0.37
   },
   "USDJPY": {
-   "price": 157.55,
-   "chg1d_pct": -1.65
+   "price": 156.043,
+   "chg1d_pct": -2.59
   },
   "GBPCAD": {
-   "price": 1.8661,
-   "chg1d_pct": -0.61
+   "price": 1.8627,
+   "chg1d_pct": -0.79
   },
   "AUDJPY": {
-   "price": 112.809,
-   "chg1d_pct": -1.47
+   "price": 112.231,
+   "chg1d_pct": -1.97
   },
   "EURUSD": {
-   "price": 1.1602,
-   "chg1d_pct": 0.06
+   "price": 1.1612,
+   "chg1d_pct": 0.14
   },
   "GBPCHF": {
-   "price": 1.0944,
-   "chg1d_pct": -0.24
+   "price": 1.0915,
+   "chg1d_pct": -0.5
   },
   "WTI": {
-   "price": 89.96,
-   "chg1d_pct": -1.15
+   "price": 92.55,
+   "chg1d_pct": 1.69
   },
   "BRENT": {
-   "price": 94.32,
-   "chg1d_pct": -1.37
+   "price": 97.03,
+   "chg1d_pct": 1.46
   },
   "GOLD": {
-   "price": 4474.4,
-   "chg1d_pct": 2.48
+   "price": 4473.2,
+   "chg1d_pct": 2.45
   },
   "SPX_FUT": {
-   "price": 7670.25,
-   "chg1d_pct": -0.08
+   "price": 7678.0,
+   "chg1d_pct": 0.02
   },
   "NAS_FUT": {
-   "price": 29137.75,
-   "chg1d_pct": -0.17
+   "price": 29152.5,
+   "chg1d_pct": -0.12
   }
  },
  "headlines": [
   {
-   "t": "Nahost - Iran wirft USA tödlichen Angriff auf Hochzeit vor - deutschlandfunk.de",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajI2U3Q4aTVvcU9UUGN5ZWIyY25NbXN0WEVNVXIwVW5RV3djSUs3ZmhYaUZzdW9BZ2tRcm0zVEw3eTBqMjhycFBaYUcyMEN1bTVIZkdHdVRJMktQSXd4Vk5pZmZkSXZMZmEzbFlvd3d0Wk0zQ29BQjNla1ZyTjRJVlQtQWN5dzBDOVlmbUI5eEpkNVBW?oc=5",
-   "pub": "Thu, 03 Sep 2026 03:02:19 GMT"
+   "t": "Benzinpreis in Deutschland: Benzinpreis erreicht nach neuen Angriffen auf den Iran Höchststand - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkN6R1R1dGZESDRsM3dIV0VMSWdjdUJUbk5uY0F1ZmMwNldEcWc4ak5uakR2VHNuOTUwdlpjR3hPajdsUms0cGI2MzN2QWdOdDNvSFBTXzBGaXdjeDJvUXRkSVhwZkpFeXhDb2dUQkVEbWtSM2o4LTdJQjV1QjJfT19JQ1p6OGk4MHIzZUVqbmV4YjlZ?oc=5",
+   "pub": "Thu, 03 Sep 2026 08:06:33 GMT"
   },
   {
-   "t": "Liveticker zum Iran-Krieg: Iran greift erneut Ziele in Kuwait an - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEgyWlg1MGUwaWg1cmFxcHpBR1ZNcmQxQVVkNmkyR3FWRzVKWGRkb2U1bmJBc2EyRzk3dFlxeG05T2huWi0yU081dHM4S0tXcGRuNWdTQjl3Ymh0dlA0My03ekhwbmlTR0V5Qlp4SVhCUzl4VkR6Ry1NWDl0WlBZZ25ZZmhaS0RBNG14QmhhWG9jREZ1M2N3UHFWR2I4ZEd4TlZZNktUTVRUNWh2MWhVUFlpTVRjaWxqTE4tUnJTUQ?oc=5",
-   "pub": "Thu, 03 Sep 2026 02:29:06 GMT"
+   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
+   "pub": "Thu, 03 Sep 2026 10:42:04 GMT"
   },
   {
-   "t": "Iran-Krieg: Iran greift erneut Ziele in Kuwait an - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kdG1IOW9qSGNQVlBoTkwwLWRnRmJHOC1JUTBmeWZWSnlWQVEwMGFsQlRjLU5EQ3ZWajAxZ19oQm5UTUl4ejNrVXdRbFF1dmluTVdBM1daSlVjR2dtZG5RaFhZcnU1dXVHc1pQWTJ4Q0d1cXJwYkZGVm0zdVY?oc=5",
-   "pub": "Thu, 03 Sep 2026 02:14:08 GMT"
+   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
+   "pub": "Wed, 02 Sep 2026 16:38:04 GMT"
   },
   {
-   "t": "Iran: \"Illegale Route\" genutzt: Zwei Tanker laufen in Straße von Hormus auf Minen auf - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLU9WbHowVk4xdTZLY0NVdVlvTm13N0NNNm00S1g0aUc5TDdETElMTHcyUVA4RHJFSW91X2VBX0ZCTnFQdjQxWGxCbzBQd3JyQ0dYVzhzblJZN29IbkxyMFhwY1U3Q1NOY0NscWZ2eGw4XzRtcHFXQWo3QV9reDdlaC1oYTJUTUNDdHJxNUoxNVA4VUY3RkVXeDlXcUtscGs?oc=5",
-   "pub": "Wed, 02 Sep 2026 12:04:00 GMT"
+   "t": "Trump droht Iran mit neuen Angriffen und verspricht Israel Schutz - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdjR1hNQUJyU1ctTGtRcEZFa2tBbWxiRDZkaWMwUENLcTNnX09VdldWSUN6WnZhT1RDTDBqS3o3NHVsZG4wYUhYcnpWMGVKX3pEUnNzOVBaLUZhY1E3emRTZlJnWUZmaVRXZlJnbUoyS1l6UHhWSVU3VEVWUjFmTUVuNGp0SU9KS3l1VGthWllLdmptR3daYXVxeE1zRGZqekc3RVc2czJpNTBITkVV?oc=5",
+   "pub": "Thu, 03 Sep 2026 06:54:00 GMT"
   },
   {
-   "t": "USDJPY sackt ab: Spekulationen über Yen-Intervention nach 160er-Marke - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzRjcGhwN0JVakFDMUQ2cWhvbDFxZ3V4UVBfTm5ZTWFkNUZUMk15NFEtUTdzN2l2WndQa0hVWE9ZQTA5SmkxUkdMdVFCMUNmQXJ0clB6dHJDRUg5eGRUcjBXZGhVT3JSZDFNa1hqSzhyNGZyQWRUWE1zVDJpdExkRFZDaTh6aHdLVkVyV3p4M3JvTGFaTDYtMm1seF9HckxGMV9jSFU2Wm9keUZwN0dSaG43Ym1RS3B5M2tz?oc=5",
-   "pub": "Wed, 02 Sep 2026 14:05:00 GMT"
+   "t": "Antje Erhard, HR, zu den Auswirkungen des Iran-Kriegs auf die Ölpreise - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLd3VDWlFkSGdyNWVaVDVGa2I2ZUo3aFFMLW85VHI1MURMLVY3X05fRGY0bnpDZ0F5cUZ1cndnUUd0N2JMQ0F6Wi1iN1JxWmU4N2pzY0hIX1h0eEVFRVM0?oc=5",
+   "pub": "Wed, 02 Sep 2026 15:23:54 GMT"
   },
   {
-   "t": "\"Satan\": Iran wütet gegen USA nach Berichten über Angriff auf Hochzeitsfeier - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZl9lclRtZjBYU053RFBqNEtWNVJ0WnBRaFp3dEpRQ001amcxUVBfRDE5ZEtIU0hZSnNLOXA5STMtbEhvU3F6cDRQNmVTdkxPcC0xMTE3LUhSeDRzbXBoTmxHZW1aY0w1cGIzTFA4U3d5ckVsRk5nN01QOGh1Nl9xMTc1TVVtUGhFc05rZXBWS2xBLTlVaWxIcjRNakMyMWlSWXExSW9TYlJlQ3hLajkzRnBkWnhBazdqWFZJT2FfbFU4cnBHUDA4X25yU0JOOEZfQXM2Nm1IU2dFaWNqejZVMHpGd2lNemM?oc=5",
-   "pub": "Wed, 02 Sep 2026 10:58:21 GMT"
+   "t": "Trump will Straße von Hormus umbenennen - und droht dem Iran mit neuer Angriffswelle - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVU2d1RvWEw4NGRfZHFhcUFXNy1IYS1rLXJVQ045dVROYS1DcU92M08wSWE5VHRabW9DVEdJYWhlMDhXWDZOMUUzTzZtV2xOWlQzamd6RERxcGVucllaWUlWWWNNbWRWZ3V6YkIxTVlEd3B4YnhVeWtiU29QNG5iYTh4aF9uWVkwczcyRnB0aXZLd2p0TXBrTk1B?oc=5",
+   "pub": "Thu, 03 Sep 2026 06:41:33 GMT"
   },
   {
-   "t": "Eskalation im Nahen Osten: USA greifen erstmals seit Wochen Iran an – Regime reagiert mit Gegenschlägen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeGg1b1Y3b21ERU43M3h5aE9fSlR0VE5Ib0I2NzlTNld3cm90SXF2YWpGZm9YZXdIdk9PUUtrajhoTUxkUGIxcXY2Q3dxOVBXbDRDUEo4NXBUbWNtLW5xUWVWMTJkMk9CSy1OVnJ1Ym54cGVEUDJtUmdabHNzZU04NXZ5SUhQUFJqTjQ3REFiUUVNc296NVZBLXdJUkhmTVZoa0ZVM2FUYU5ORGF2RWxfTV82UF9sRnJSOUFNWnVnRjZHN19Ub3J4ZWpkTWZSRU9UWWFFTUV6NUNsaXhsMkdJMUxUOGNwck5iVlBCdEt6VnUwZw?oc=5",
-   "pub": "Mon, 31 Aug 2026 01:51:00 GMT"
+   "t": "Spritpreis: Super E10 wegen Iran-Krieg auf neuem Höchststand - zdfheute.de",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQm9EaDV6VExFdWtRajJUUEkyWkNLcWpwd2pwaDlMWGk4NnZsZ3pBN1BUdGZDUUV6aWQzeTJHZUtlVmxLZTZFTm5yR1JaSGlKRHR0N3FxYVEwd2FMNVNzbUlXMDl5ME9UWEJfSU1rRHljS1ZFZFVIbTI4VlNWZGVwaWx2dGRuV19YWVVwbzhXMmFJUzg?oc=5",
+   "pub": "Thu, 03 Sep 2026 09:30:00 GMT"
   },
   {
-   "t": "Spritkrise im Iran - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qU2VZMXJJRV9VeWJHS2IxRF90QUxGX3d0WVVvaW0zODFRRDYzN2ZmWnpNVkFHMjhfdExsRHVzSDBNNGp5VktnbmZLMVNWcmZBY0k4S3I3eW9Ed2VSQlFfb9IBYEFVX3lxTFBlaVRRd2MyWG9PQTVETU94c3dSU2MzSDVrRW9hRU5idTJpVUphQmdrVmtQSW1hd2xzOEtHeGtIdGluUkY2d3FxczlYTHc3T2JUWUFzdE1MQXRnTzJPQ1Y3SA?oc=5",
-   "pub": "Wed, 02 Sep 2026 13:00:13 GMT"
+   "t": "Iran-Krieg: Wiederaufflammen treibt Benzinpreis auf Höchststand - VISION mobility",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0MyaVY2RFctaEZrYjE1N281RDE1VkxzSkU5Y3VHZ28tUTJIT2FzVW1qVExDZ2NhMXhhS0p1T0lQS1lHOEF3ODJwWnJpaUpZTGFvdHd5bElXcWxvUXd5NFduTklNcWFzRjljUVZDVGh2S3hyX3ZUeUNnV1V1WThxQnU5NHpsMktKRllGc3B0dEZWci1wakF0V3lCZ0pNVXZHR3VYZFJEYTkyYWM?oc=5",
+   "pub": "Thu, 03 Sep 2026 10:44:00 GMT"
   },
   {
-   "t": "Vorschusslorbeeren beim Yen - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObXBqRmFNVnNmZDFnSWJkRWpES193WjhfQUNJWEFZOU83QWlheXBvX2VOZk1STklQTWJKYkplRmxxcmxqeGJuOUp5ODBEUHZ6bm9Sempzc2FxaGhmYXg2V1lHTkIwemNMV2xPaEExQXZHUDRQaVRvbE5OZTNXcW9KMk9LczFDd2RkeUE?oc=5",
-   "pub": "Thu, 03 Sep 2026 05:00:19 GMT"
+   "t": "»Der Krieg gegen Iran hat die Abschreckung im Indopazifik geschwächt« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUjlJTVU5TGltanJOamZGSlJqb3JocGtUNGZTcDFRdFgyYkxmMkY1YWp2LXlKYjRvLWdPLXNMLWdlR2tQQXE3YTJrbVdsVkd0UmxPT3FCRk1QUFdCU0RLdDBxajB6S1ZGaHcxVVcwcFVrMWFWYmk3cE1xa3RMNEZSWkxZMnExTFdMUVFQcjY5cXJkeDhFY01LS1lLR2xpUDNlV2gxRHQ3OV83amZuOUsyeDEyUGxFNzQ3OVNQUExEbHZydHNacklWSGRtMzVnaTh6UXhJNk9jQWZMM1ZqS0k3LTFJdXRBNFl0NFItZjJNSVpQUTlFaDNqNDNqZVlHcnR0RXpocGN5OTZRVUdVZkg4OE5tdmozdw?oc=5",
+   "pub": "Tue, 01 Sep 2026 13:40:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Teheran kann auf seine Verbündeten zählen - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHhkbE91WE1DNDRFdGFCZXFBR2ZWSWdVeHgtWjNtSDlwUjR1LURFdllmSURKZHhYWENVbVJnLWtLWGxCak8zT0ZrV1p3dWNNb1lMMjB3S2QzeFJQcm5YcExDeUxieEJqOHJFVk1KMDh2VnRnRXdLVmgtcVoxa3cyd3pvZnpnSzRyMXhqZ01xc3BsUHE1OE0tT1ZRdWJOeEtTcGFyTTVTdDd2YjhOMXRXWUJxQQ?oc=5",
-   "pub": "Mon, 31 Aug 2026 18:33:26 GMT"
+   "t": "Keine US-Attacken in dieser Nacht: Iran greift wieder Ziele in Kuwait an - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEJrOTRZVE9jek9oQzBBdVVVS1hzN0NvSzlMWGZZSUdoWnUwcjBVN2hVdnQ5djdTcHFOT2JTb3dNa190TzNGMGZJMmZzZ1lCZTc5RE44aksybTF4X1BhOFZ2UDBJTzF1clJ2cmc0dmh2YUJucFBEakNjRXktTHFvQmc5NUlaUjRw?oc=5",
+   "pub": "Thu, 03 Sep 2026 03:00:49 GMT"
   },
   {
-   "t": "Iran greift erneut Ziele in Kuwait an - Der Patriot",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbEZXdVhHMmp2OUFHUTV4U2VhTVJQWVZtLWxzTHpkUTIwajlRUWthcFI0bF90RmZLMkFvYmNkcXhvZm5UcERkOEJMSTdaeV9sQVRFMlpySEVpU2lMUmp1UENSa0UtMThvU1FzM0hlMkhpbFl5bTB2Zkp6a3ZtMm5xcA?oc=5",
-   "pub": "Thu, 03 Sep 2026 02:12:00 GMT"
+   "t": "Krieg im Mittleren Osten - Iran greift erneut Ziele in Kuwait an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTNTYkUxbFc3RXBaeDF3dERIcEdKQ1NEVTR3ZmVHSnBfVlFJdjh5ZkVRU3dSTldlX0dteW5EaGZTbWl0UElycGRZU3k2MFlvMzNWM0Y5OHpZNGxWaXNkZEV4bWhGNDRQcEoyOC0wcWdyNERQcmNwZ21XSU5sZVlkeWtPUQ?oc=5",
+   "pub": "Thu, 03 Sep 2026 08:11:01 GMT"
   },
   {
-   "t": "Iran: USA bombardieren nahe Straße von Hormus, Teheran startet Vergeltungsangriffe - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNejFtMkwyWjZHNVJPcFdNOTBaNDB5OEdfVzNTeVZtUEkxTENYakNPdWJqUFlqUWZjOUxhN2VMWjBXSFFIVTJDQjV2Q2FmYm03RFJCd1FRM3JiNHlNUWp0SkdMSFB0ckQ1anlMUHZEbm9RaHRmcUFIMzRUdE13N0FwUk5qOERJOFE4UzFEc3BkVUp4SUVqQkpadnhqd0lsa0xqdlhzWmlQLUJTOXpzbTlZSUlZQXlJQW5TTDk4dmRSeE9SVDRDaE5aZWlJQmRaN1dhcmxQVHAyc2JwUQ?oc=5",
-   "pub": "Tue, 01 Sep 2026 21:25:00 GMT"
+   "t": "Krieg in Nahost: USA und Iran greifen sich gegenseitig an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RTB5TFpoYUZDNE1BTExPS3pJdFZkeDNuMjl3UGJDYlBpU0JjcHhsOS1fSmtDZDI4dDA3U09HVVJYaTNnOTBwVTFPQURzbGI1cnBMTllNbWx5NnhpQmhF?oc=5",
+   "pub": "Tue, 01 Sep 2026 22:30:00 GMT"
   }
  ]
 }
