@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-03T18:41:22Z",
+ "collected_at": "2026-09-03T21:43:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8068,
-   "chg1d_pct": -0.6
+   "price": 0.8065,
+   "chg1d_pct": -0.8
   },
   "USDJPY": {
-   "price": 155.512,
-   "chg1d_pct": -2.92
+   "price": 155.845,
+   "chg1d_pct": -1.94
   },
   "GBPCAD": {
-   "price": 1.8663,
-   "chg1d_pct": -0.6
+   "price": 1.8655,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 112.063,
-   "chg1d_pct": -2.12
+   "price": 112.125,
+   "chg1d_pct": -1.51
   },
   "EURUSD": {
-   "price": 1.1637,
-   "chg1d_pct": 0.36
+   "price": 1.1629,
+   "chg1d_pct": 0.38
   },
   "GBPCHF": {
-   "price": 1.0922,
-   "chg1d_pct": -0.44
+   "price": 1.0914,
+   "chg1d_pct": -0.43
   },
   "WTI": {
-   "price": 91.35,
-   "chg1d_pct": 0.37
+   "price": 91.67,
+   "chg1d_pct": 0.73
   },
   "BRENT": {
-   "price": 95.52,
-   "chg1d_pct": -0.12
+   "price": 95.82,
+   "chg1d_pct": 0.2
   },
   "GOLD": {
-   "price": 4524.6,
-   "chg1d_pct": 3.63
+   "price": 4520.3,
+   "chg1d_pct": 3.53
   },
   "SPX_FUT": {
-   "price": 7762.0,
-   "chg1d_pct": 1.11
+   "price": 7749.25,
+   "chg1d_pct": 0.95
   },
   "NAS_FUT": {
-   "price": 29567.75,
-   "chg1d_pct": 1.31
+   "price": 29502.25,
+   "chg1d_pct": 1.08
   }
  },
  "headlines": [
@@ -59,9 +59,9 @@
    "pub": "Thu, 03 Sep 2026 16:04:00 GMT"
   },
   {
-   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - deutschlandfunk.de",
+   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
-   "pub": "Thu, 03 Sep 2026 17:45:41 GMT"
+   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
   },
   {
    "t": "Bei einem Angriff auf Israel: Katz droht: Würden Iran \"tief in Steinzeit zurückversetzen\" - n-tv.de",
@@ -74,24 +74,19 @@
    "pub": "Thu, 03 Sep 2026 17:16:34 GMT"
   },
   {
-   "t": "Benzinpreis in Deutschland: Benzinpreis erreicht nach neuen Angriffen auf den Iran Höchststand - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkN6R1R1dGZESDRsM3dIV0VMSWdjdUJUbk5uY0F1ZmMwNldEcWc4ak5uakR2VHNuOTUwdlpjR3hPajdsUms0cGI2MzN2QWdOdDNvSFBTXzBGaXdjeDJvUXRkSVhwZkpFeXhDb2dUQkVEbWtSM2o4LTdJQjV1QjJfT19JQ1p6OGk4MHIzZUVqbmV4YjlZ?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:06:33 GMT"
+   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
+   "pub": "Thu, 03 Sep 2026 01:19:11 GMT"
   },
   {
-   "t": "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOC1iRFJhbUNVdHo4bmwxQXVkcW9ETkw4WDhBelpfNWdjVWowN19adXZZZGJwbjBXWUlwbkhlamtXUWhBaEVyRXNtWUkxVWc0QVRpVmRSRnJObEZsQUhGUzRjRTA0cktHeXRpNFpoZEQ4ZTl0Ui1CVTRoWVdkdnVhazJ4eGdKQWJ4SENIU191WGo0ZnpzNWJyR1J6YnhSWGVORENZSmhNQkRZbXVTbkJ5RjBIQXJmc2tvQ3lxaGNodXhaMkc3VTVZ?oc=5",
-   "pub": "Thu, 03 Sep 2026 04:37:36 GMT"
+   "t": "Dow Jones, S&P 500, Nasdaq: Dow schließt 1,2 Prozent höher – Fed-Reden dämpfen Zinshoffnung - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbWFLc2xWQ3J3UkQwdzdnNXNhMVdOQjFsd2lySU1QVU9FUUlvM1NXdEFWWHppbTdtb0tma1Y4NWNFRHhpM2ptMkZtSkkzeXNzNVNRMUF4OWpEczJ6eHNZT3BlQ1NHV1E5MjN4OGlkZ3pGd2xqSk9SLWpRQ044WnRjOGdDUlJyVXNuZEFrUzNVbkJVX1VXc2lURDFIODJtSDlhUjVCQjZiR0luUDVScDEtdERKSzVhR252VTM5RUhjcGJkaHBlaGpBWFd5ekNZYk9MVzcyX0FZeTFKVHpRWE1aSEptMkZSYUo5ZVEtMHZXS3JWY0xq?oc=5",
+   "pub": "Thu, 03 Sep 2026 18:37:00 GMT"
   },
   {
-   "t": "Iran: Die Stunde der Schattenhändler - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pa1Q1eUJJb2FFeDB2Xy04R0g4cmtmYm1fNXpDSFd1S2lQZTU4dzFZb0c2bHVkMUFQajNscmZpZmpiX1BnRXM5RjE4OEItbHVxTVAtMUZzTFpPNV9NblBLT3pCbXoyblV4TGNQQmlGM3NZVnc1NG5DeFNYWjN2UdIBfkFVX3lxTFBKdkh2Tk9NY1NKWDFicGJuZ0tRcG4yRlo5RWU1MWt2VDBwYjBDeVBsR1RxUHY5dFRlOFNUbGtxQndhdUlXT2JQdS1TNkZUcHZmSzViZWo1c3JaTVpzOXhkeHJSTG96RDB2a1hMMEswazMxVHI5RXJpS01rRVp2UQ?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:32:12 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Wiederaufflammen treibt Benzinpreis auf Höchststand - VISION mobility",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0MyaVY2RFctaEZrYjE1N281RDE1VkxzSkU5Y3VHZ28tUTJIT2FzVW1qVExDZ2NhMXhhS0p1T0lQS1lHOEF3ODJwWnJpaUpZTGFvdHd5bElXcWxvUXd5NFduTklNcWFzRjljUVZDVGh2S3hyX3ZUeUNnV1V1WThxQnU5NHpsMktKRllGc3B0dEZWci1wakF0V3lCZ0pNVXZHR3VYZFJEYTkyYWM?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:44:00 GMT"
+   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
+   "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
   {
    "t": "Raketen auf Kuwait, Minen in Hormus: Experte zweifelt an Trumps Strategie für Ende des Iran-Kriegs - Frankfurter Rundschau",
@@ -99,14 +94,19 @@
    "pub": "Thu, 03 Sep 2026 09:27:43 GMT"
   },
   {
-   "t": "E10 so teuer wie nie: ADAC meldet 2,22 Euro je Liter - Iran-Krieg und Rohöl treiben Preise - SWR",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhVc2VZTnJNTXNYN3VlN0RLa2ZIUVNTR2EtV1A5T2FCeWF1V0tmN2NMdHJFMjIwX1ZIWmFJLU9PTG83RElqdU1yVUJ0NWVDaE9QWGx4b2JRWlI5WHhNQ2o0Y29FalVYVlU4cEMtSi05WEV0TnFwbks1bTBjeDVMdlQ3U0twZ3d4U2NTVjB6VW94czdxcnByb2d1N1dHdU93d2dCaE1YcGtDUDBBWFlWTXB1aGZWaXM?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:55:51 GMT"
+   "t": "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOC1iRFJhbUNVdHo4bmwxQXVkcW9ETkw4WDhBelpfNWdjVWowN19adXZZZGJwbjBXWUlwbkhlamtXUWhBaEVyRXNtWUkxVWc0QVRpVmRSRnJObEZsQUhGUzRjRTA0cktHeXRpNFpoZEQ4ZTl0Ui1CVTRoWVdkdnVhazJ4eGdKQWJ4SENIU191WGo0ZnpzNWJyR1J6YnhSWGVORENZSmhNQkRZbXVTbkJ5RjBIQXJmc2tvQ3lxaGNodXhaMkc3VTVZ?oc=5",
+   "pub": "Thu, 03 Sep 2026 04:37:36 GMT"
   },
   {
-   "t": "Zwei Tanker laufen in Straße von Hormus auf Minen auf - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUlGMHNYc0wxMVNPOHh6RG00c21FRGhLdWp2QlpybHYxOTg0T2hVeWZ0TEZOOHdQUV9vNHdzei1WZmsyVnVrdzJRMUE3al9lYm9TSDhjOFNFYVlJb1NiYmI5dXdGeW9SaUdKLTFVWVhvT0IxQjFqbUJTM0VPNnZfZ0RwV1BEaWpObUlTZFQ1THJWc2RIMm9PbzJ5TEdxaXRSbnp1RjVSZjBSQ0N3dHdZcHhRbDVRQ09GOVozUUdPQQ?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:05:00 GMT"
+   "t": "Iran-Krieg: Wiederaufflammen treibt Benzinpreis auf Höchststand - VISION mobility",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0MyaVY2RFctaEZrYjE1N281RDE1VkxzSkU5Y3VHZ28tUTJIT2FzVW1qVExDZ2NhMXhhS0p1T0lQS1lHOEF3ODJwWnJpaUpZTGFvdHd5bElXcWxvUXd5NFduTklNcWFzRjljUVZDVGh2S3hyX3ZUeUNnV1V1WThxQnU5NHpsMktKRllGc3B0dEZWci1wakF0V3lCZ0pNVXZHR3VYZFJEYTkyYWM?oc=5",
+   "pub": "Thu, 03 Sep 2026 10:44:00 GMT"
+  },
+  {
+   "t": "Keine US-Attacken in dieser Nacht: Iran greift wieder Ziele in Kuwait an - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEJrOTRZVE9jek9oQzBBdVVVS1hzN0NvSzlMWGZZSUdoWnUwcjBVN2hVdnQ5djdTcHFOT2JTb3dNa190TzNGMGZJMmZzZ1lCZTc5RE44aksybTF4X1BhOFZ2UDBJTzF1clJ2cmc0dmh2YUJucFBEakNjRXktTHFvQmc5NUlaUjRw?oc=5",
+   "pub": "Thu, 03 Sep 2026 03:00:49 GMT"
   }
  ]
 }
