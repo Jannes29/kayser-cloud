@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-03T11:16:54Z",
+ "collected_at": "2026-09-03T15:02:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,106 +7,45 @@
    "chg1d_pct": -0.37
   },
   "USDJPY": {
-   "price": 156.043,
-   "chg1d_pct": -2.59
+   "price": 155.394,
+   "chg1d_pct": -3.0
   },
   "GBPCAD": {
-   "price": 1.8627,
-   "chg1d_pct": -0.79
+   "price": 1.864,
+   "chg1d_pct": -0.72
   },
   "AUDJPY": {
-   "price": 112.231,
-   "chg1d_pct": -1.97
+   "price": 111.812,
+   "chg1d_pct": -2.34
   },
   "EURUSD": {
-   "price": 1.1612,
-   "chg1d_pct": 0.14
+   "price": 1.1625,
+   "chg1d_pct": 0.25
   },
   "GBPCHF": {
-   "price": 1.0915,
-   "chg1d_pct": -0.5
+   "price": 1.0934,
+   "chg1d_pct": -0.33
   },
   "WTI": {
-   "price": 92.55,
-   "chg1d_pct": 1.69
+   "price": 92.11,
+   "chg1d_pct": 1.21
   },
   "BRENT": {
-   "price": 97.03,
-   "chg1d_pct": 1.46
+   "price": 96.54,
+   "chg1d_pct": 0.95
   },
   "GOLD": {
-   "price": 4473.2,
-   "chg1d_pct": 2.45
+   "price": 4521.9,
+   "chg1d_pct": 3.56
   },
   "SPX_FUT": {
-   "price": 7678.0,
-   "chg1d_pct": 0.02
+   "price": 7709.25,
+   "chg1d_pct": 0.43
   },
   "NAS_FUT": {
-   "price": 29152.5,
-   "chg1d_pct": -0.12
+   "price": 29300.25,
+   "chg1d_pct": 0.39
   }
  },
- "headlines": [
-  {
-   "t": "Benzinpreis in Deutschland: Benzinpreis erreicht nach neuen Angriffen auf den Iran Höchststand - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkN6R1R1dGZESDRsM3dIV0VMSWdjdUJUbk5uY0F1ZmMwNldEcWc4ak5uakR2VHNuOTUwdlpjR3hPajdsUms0cGI2MzN2QWdOdDNvSFBTXzBGaXdjeDJvUXRkSVhwZkpFeXhDb2dUQkVEbWtSM2o4LTdJQjV1QjJfT19JQ1p6OGk4MHIzZUVqbmV4YjlZ?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:06:33 GMT"
-  },
-  {
-   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:42:04 GMT"
-  },
-  {
-   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
-   "pub": "Wed, 02 Sep 2026 16:38:04 GMT"
-  },
-  {
-   "t": "Trump droht Iran mit neuen Angriffen und verspricht Israel Schutz - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORVdjR1hNQUJyU1ctTGtRcEZFa2tBbWxiRDZkaWMwUENLcTNnX09VdldWSUN6WnZhT1RDTDBqS3o3NHVsZG4wYUhYcnpWMGVKX3pEUnNzOVBaLUZhY1E3emRTZlJnWUZmaVRXZlJnbUoyS1l6UHhWSVU3VEVWUjFmTUVuNGp0SU9KS3l1VGthWllLdmptR3daYXVxeE1zRGZqekc3RVc2czJpNTBITkVV?oc=5",
-   "pub": "Thu, 03 Sep 2026 06:54:00 GMT"
-  },
-  {
-   "t": "Antje Erhard, HR, zu den Auswirkungen des Iran-Kriegs auf die Ölpreise - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLd3VDWlFkSGdyNWVaVDVGa2I2ZUo3aFFMLW85VHI1MURMLVY3X05fRGY0bnpDZ0F5cUZ1cndnUUd0N2JMQ0F6Wi1iN1JxWmU4N2pzY0hIX1h0eEVFRVM0?oc=5",
-   "pub": "Wed, 02 Sep 2026 15:23:54 GMT"
-  },
-  {
-   "t": "Trump will Straße von Hormus umbenennen - und droht dem Iran mit neuer Angriffswelle - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVU2d1RvWEw4NGRfZHFhcUFXNy1IYS1rLXJVQ045dVROYS1DcU92M08wSWE5VHRabW9DVEdJYWhlMDhXWDZOMUUzTzZtV2xOWlQzamd6RERxcGVucllaWUlWWWNNbWRWZ3V6YkIxTVlEd3B4YnhVeWtiU29QNG5iYTh4aF9uWVkwczcyRnB0aXZLd2p0TXBrTk1B?oc=5",
-   "pub": "Thu, 03 Sep 2026 06:41:33 GMT"
-  },
-  {
-   "t": "Spritpreis: Super E10 wegen Iran-Krieg auf neuem Höchststand - zdfheute.de",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQm9EaDV6VExFdWtRajJUUEkyWkNLcWpwd2pwaDlMWGk4NnZsZ3pBN1BUdGZDUUV6aWQzeTJHZUtlVmxLZTZFTm5yR1JaSGlKRHR0N3FxYVEwd2FMNVNzbUlXMDl5ME9UWEJfSU1rRHljS1ZFZFVIbTI4VlNWZGVwaWx2dGRuV19YWVVwbzhXMmFJUzg?oc=5",
-   "pub": "Thu, 03 Sep 2026 09:30:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Wiederaufflammen treibt Benzinpreis auf Höchststand - VISION mobility",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0MyaVY2RFctaEZrYjE1N281RDE1VkxzSkU5Y3VHZ28tUTJIT2FzVW1qVExDZ2NhMXhhS0p1T0lQS1lHOEF3ODJwWnJpaUpZTGFvdHd5bElXcWxvUXd5NFduTklNcWFzRjljUVZDVGh2S3hyX3ZUeUNnV1V1WThxQnU5NHpsMktKRllGc3B0dEZWci1wakF0V3lCZ0pNVXZHR3VYZFJEYTkyYWM?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:44:00 GMT"
-  },
-  {
-   "t": "»Der Krieg gegen Iran hat die Abschreckung im Indopazifik geschwächt« - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUjlJTVU5TGltanJOamZGSlJqb3JocGtUNGZTcDFRdFgyYkxmMkY1YWp2LXlKYjRvLWdPLXNMLWdlR2tQQXE3YTJrbVdsVkd0UmxPT3FCRk1QUFdCU0RLdDBxajB6S1ZGaHcxVVcwcFVrMWFWYmk3cE1xa3RMNEZSWkxZMnExTFdMUVFQcjY5cXJkeDhFY01LS1lLR2xpUDNlV2gxRHQ3OV83amZuOUsyeDEyUGxFNzQ3OVNQUExEbHZydHNacklWSGRtMzVnaTh6UXhJNk9jQWZMM1ZqS0k3LTFJdXRBNFl0NFItZjJNSVpQUTlFaDNqNDNqZVlHcnR0RXpocGN5OTZRVUdVZkg4OE5tdmozdw?oc=5",
-   "pub": "Tue, 01 Sep 2026 13:40:00 GMT"
-  },
-  {
-   "t": "Keine US-Attacken in dieser Nacht: Iran greift wieder Ziele in Kuwait an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEJrOTRZVE9jek9oQzBBdVVVS1hzN0NvSzlMWGZZSUdoWnUwcjBVN2hVdnQ5djdTcHFOT2JTb3dNa190TzNGMGZJMmZzZ1lCZTc5RE44aksybTF4X1BhOFZ2UDBJTzF1clJ2cmc0dmh2YUJucFBEakNjRXktTHFvQmc5NUlaUjRw?oc=5",
-   "pub": "Thu, 03 Sep 2026 03:00:49 GMT"
-  },
-  {
-   "t": "Krieg im Mittleren Osten - Iran greift erneut Ziele in Kuwait an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZTNTYkUxbFc3RXBaeDF3dERIcEdKQ1NEVTR3ZmVHSnBfVlFJdjh5ZkVRU3dSTldlX0dteW5EaGZTbWl0UElycGRZU3k2MFlvMzNWM0Y5OHpZNGxWaXNkZEV4bWhGNDRQcEoyOC0wcWdyNERQcmNwZ21XSU5sZVlkeWtPUQ?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:11:01 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: USA und Iran greifen sich gegenseitig an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RTB5TFpoYUZDNE1BTExPS3pJdFZkeDNuMjl3UGJDYlBpU0JjcHhsOS1fSmtDZDI4dDA3U09HVVJYaTNnOTBwVTFPQURzbGI1cnBMTllNbWx5NnhpQmhF?oc=5",
-   "pub": "Tue, 01 Sep 2026 22:30:00 GMT"
-  }
- ]
+ "headlines": []
 }
