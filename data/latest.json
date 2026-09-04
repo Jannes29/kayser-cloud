@@ -1,55 +1,70 @@
 {
- "collected_at": "2026-09-04T09:41:39Z",
+ "collected_at": "2026-09-04T14:22:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8093,
-   "chg1d_pct": -0.45
+   "price": 0.8098,
+   "chg1d_pct": -0.39
   },
   "USDJPY": {
-   "price": 156.54,
-   "chg1d_pct": -1.5
+   "price": 156.071,
+   "chg1d_pct": -1.79
   },
   "GBPCAD": {
-   "price": 1.8669,
-   "chg1d_pct": 0.03
+   "price": 1.8719,
+   "chg1d_pct": 0.3
   },
   "AUDJPY": {
-   "price": 112.692,
-   "chg1d_pct": -1.01
+   "price": 112.392,
+   "chg1d_pct": -1.27
   },
   "EURUSD": {
-   "price": 1.1625,
-   "chg1d_pct": 0.34
+   "price": 1.162,
+   "chg1d_pct": 0.3
   },
   "GBPCHF": {
-   "price": 1.0946,
-   "chg1d_pct": -0.14
+   "price": 1.0942,
+   "chg1d_pct": -0.17
   },
   "WTI": {
-   "price": 90.72,
-   "chg1d_pct": -0.64
+   "price": 89.24,
+   "chg1d_pct": -2.26
   },
   "BRENT": {
-   "price": 95.1,
-   "chg1d_pct": -0.44
+   "price": 93.88,
+   "chg1d_pct": -1.72
   },
   "GOLD": {
-   "price": 4513.7,
-   "chg1d_pct": 0.49
+   "price": 4468.6,
+   "chg1d_pct": -0.51
   },
   "SPX_FUT": {
-   "price": 7755.75,
-   "chg1d_pct": 0.01
+   "price": 7731.5,
+   "chg1d_pct": -0.3
   },
   "NAS_FUT": {
-   "price": 29623.0,
-   "chg1d_pct": 0.33
+   "price": 29601.5,
+   "chg1d_pct": 0.26
   }
  },
  "headlines": [
   {
-   "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - Euronews.com",
+   "t": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXpKOFlpOUhsMXItWUNMSFdUM3RucDVuaUlkTklmR3BSaVVTV25OY0lCWmZmbWVpU0dYU1RwU3BYc1lySGdfOUxfZF9tbDZaU25UNEhvLWg4Sll4NjF3X1F2Q2Q4TFZ6RXdSVjZOQ2RYRGlzcnBucW1MQmlIbDZrVGZNYnptQzRvcHozX2xxc1U2ZmtTZkVGOV9ka2RNaDByMDNWbjhVQ2lXbkhEd2tGV1NWV0ZYVnE4LUlFTlQ4X0xXSUswa1JDTlNvTG5JME9MMmk4T29aU3p6WTFKRGZQamxVWW9zTTc0UC1uR0NxRmJfY2staDNsaXhtdTdyYWk4eXlhdmtvaXBxaFN6?oc=5",
+   "pub": "Fri, 04 Sep 2026 11:07:00 GMT"
+  },
+  {
+   "t": "Wie die Müllstadt in Kairo vom Iran-Krieg profitiert - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jck1uRFFJeDU0amZWM080ZXNsc1hlMXpUZHpHN2xzcVRLR2FiQUxnVXdsV05xUkd0MV84ODB4UU0yOHB5enJCaFdKMkpMdW91c2cta2VmVi04bGxXUUxOTGxKUmVwN09UbTBBM0ln?oc=5",
+   "pub": "Fri, 04 Sep 2026 10:41:00 GMT"
+  },
+  {
+   "t": "Börse Aktuell: Fed-Zinsentscheid & US-Arbeitsmarktdaten - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1pJc2lBNmJscm53ekxNOWNxOFk4QTdGNkNrRTFJVlhTR3ByelpBb19zWUhuMUxVdnRTVDZfdTVSb2dZMFpMOV9sc2p5RnN4eTVrajVQZkFrQUdfZ0RDWlNMSFZmZEhjYTJCQVhzemc0VXVYa0hVTVd6Mk1fWW8wbmxOSDlJeG52OFJsUGdhYU1JNERWaHlTdlp0OA?oc=5",
+   "pub": "Fri, 04 Sep 2026 12:05:00 GMT"
+  },
+  {
+   "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - Euronews",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDAybEMxbEpZa1o2UkcxNll2aC01QVA3XzFra09YMUd2c2ZvaWVMUll4M1VDc0RjbEdXNldWbEFMMUFDUHpMbmRvVndDcVQ4NnJlOVVlYnk4elFlZFJUYzZvbDNNRnY3N0VMSXk4Z05ZOXZER3d5bmZhcXAxTzNqTE9iQ3Z4VHZaMFFDU3B4Q052OGJObk5QZWh3NVlvem9xMHdqaUxDeGlzUHFqaWNOMVZmVlZvQVRicmtpSkp6dzVua0t2LXVz?oc=5",
    "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
   },
@@ -59,19 +74,14 @@
    "pub": "Fri, 04 Sep 2026 07:53:00 GMT"
   },
   {
-   "t": "Experten machen US-Munition für Tote auf Hochzeit in Iran verantwortlich - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnQtQ1QtNjhidzMwaDl3dXhiVDRBZS1tNTFyNEhZMC1XTS1hSGQ2ZlRycjcyQk5aWUdqSXVnUjNkZ1gzY0tjN0lmYjltWkJxaVhYWnd3bW5NLTVVc1VTT1p4b2RwRzZlcVZaRlk0b1N3OGMxY0pBSGNQeDJZMlhROUZ6TXM1eDhBZVBQdWltRnR3bnFMcW13REFwT3p0UGRnRnhfZHBkSHVTb3ZkaTQ4MnF5QnFkZWx1ai1mX055NkszdWJSZTU0dUNGc2lKNXU1SmdLamJyUlZSLVE?oc=5",
-   "pub": "Fri, 04 Sep 2026 09:38:00 GMT"
+   "t": "Iran-Krieg: US-Dieselpreis auf Höchststand - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON1N2OHFrNGxHWFFOTkx6djhSZ2xpSGNtRDBuVDlocmZ0WDlGTERfR2NuRGpKc0QwaEZQZ0RCQTBVQ2FQWWtEajVqb1ppX0VoMTczXzhZclY4UzZacmw4dVJzS0hseEFONE5UOWVVTkpqVGpQUktSTFY4VFpfRlRnbzMtdGlNRHdIRVE4?oc=5",
+   "pub": "Fri, 04 Sep 2026 13:42:24 GMT"
   },
   {
-   "t": "»Wir werden den Iran in die Steinzeit zurückversetzen« - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTRhTWtJTVB0dmx1THgxcU8xUDN4TlJJSy1aRGxXTlI3UFJpa2NVOUQ1NjAyNGh1dlV6ZkJMR0phRDJmMi1SMm5vaEc0OWNaNERvZFZpUWVmY1lBWDlRQnJfaG9jV2ZVeGFNa1hZVHlXay1PVHRqUnZFa2tWM2pyT3BySERLbzlKSmhwMm1RZmJkVkRwazEtaEJqcnMtQQ?oc=5",
-   "pub": "Fri, 04 Sep 2026 09:15:00 GMT"
-  },
-  {
-   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
-   "pub": "Thu, 03 Sep 2026 14:42:44 GMT"
+   "t": "»... dann werden wir Iran in die Steinzeit zurückversetzen« - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFJWN2RZbF9ac19ORkJoODJ3dndFd3pQVjFKdDhvMjVuV2lBNzBXNG1UQmVNcGxabVNWOExsNG5QLTZfMVZvRXFiQW5XWnJ5LTdaaVRrZ3A1RDd5RmJHWnU4TXJUajBYbDRyUXNZV3l4aGctUFZwZzNNcDJwSmRxdHd5OW5QNUFMLXplMDdjZ0hqQWNkNFZuVC10SDZrV28?oc=5",
+   "pub": "Fri, 04 Sep 2026 11:04:00 GMT"
   },
   {
    "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
@@ -79,34 +89,24 @@
    "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
   {
-   "t": "Iran attackiert erneut Kuwait - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkandDbmVzSUJMbDdiMDBsWGtRaGlNdl9SRnlETVRUbnhvSGVxa2dacTJET0xVUVVvY1hWU1RRamI3UU5jYmNPSnJKSC1FcnltM0RjWmRGc2xuVXlPNmFB?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:19:03 GMT"
+   "t": "Ein normales Leben im Iran wird unbezahlbar - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWctMU9ScHhYamRLd0l3UGxFaDM1dmw1dThfTkN5ekJ2LTNfR2k4S0FLRkV0VzByQWlSWXlOWnp6SHdVc2FLVDRJemtZZUdHdk5NclUzZ3gxMHRXMlNlck45TXgySWp6cE54ZDhpampMUDUtU2xueHBSMmNGeXhXSFQ5Rzc5Z0ZkUi14bTlpNGw?oc=5",
+   "pub": "Fri, 04 Sep 2026 12:58:59 GMT"
   },
   {
-   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
-   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
+   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
+   "pub": "Thu, 03 Sep 2026 14:42:44 GMT"
   },
   {
-   "t": "JD Vance im Weißen Haus: Warum der US-Vizepräsident den Iran-Konflikt nicht als Krieg bezeichnet - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWxXeVU0eVpxYlktZzl0bDlpTjMwMzZscE5ZSHFMOTVFSC1tNDdDWjExVmU3M2J1REg1aTdENm1ZSFhhQk1sOWJteXoyZ09EbXdvX0VwUklJWVdCeFl5U0tKY21fdGxqWHBOeXNUc2o1OUNuNjI4d2YtMEhZd052TnBzUGQyTFBKTVptU0tvcVR4OE45S3c?oc=5",
-   "pub": "Fri, 04 Sep 2026 08:56:29 GMT"
+   "t": "Angriff auf Hochzeitsfeier? Iran übt Vergeltung - USA ermitteln - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGlpRFRxdU1jR1A2bWJnT0F3QW5maFRyOXpDcVJDLVBpZUltcjVpRFhJY0lTVzhVMHlCSlpKS1EyajdvMFJFYU13UFZVSThvWmFaNjNaZVQ0TXVZbm8xUkp0TFFEWnc1RTBob3RDTmllUGxTbzBwUi1tTm00Z19iczl6VFRkTWtiZC12dF9yT2RBSUxLR0JaVVBadw?oc=5",
+   "pub": "Fri, 04 Sep 2026 10:06:35 GMT"
   },
   {
-   "t": "Goslar: Friedensgespräche zu Iran, China und Krieg - goslarsche.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlp1aUF5TTVvOVZ5T0JXOUJDeHBTSXp4SGZWVXpyNS14QWt5cy1wVzVzRnN2UkZZM2phQ210MktzYTg2dkxpMEhQNVJyLXJxOWNENFQ3cko1ZmhMQmRSVmxGVl92UG05WHB2czNjRlU5ZlV4TkFrcEdNQWFBQm1tTkFXTWF5WFFYVVAzZlhLRnVucnZuR0lNM3ZRcTVlR2wwUy1weFBudDlRZWk5cXJWMw?oc=5",
-   "pub": "Thu, 03 Sep 2026 17:16:34 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: USA und Iran greifen sich gegenseitig an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RTB5TFpoYUZDNE1BTExPS3pJdFZkeDNuMjl3UGJDYlBpU0JjcHhsOS1fSmtDZDI4dDA3U09HVVJYaTNnOTBwVTFPQURzbGI1cnBMTllNbWx5NnhpQmhF?oc=5",
-   "pub": "Tue, 01 Sep 2026 22:30:00 GMT"
-  },
-  {
-   "t": "Iran: Mindestens 15 Tote nach US-Attacken - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2syZHA1S18tX2hOdGIwTUY4al9oTUhXa05rYWFPWm5lQl9QbG1BemJlWGZhcFBwc2ZtcmtubmJmQS1XSkw5SzlaU05xWkVSS0NWaXFvUk9TTjVfX2pJM0x2VTdGUzMzX0w5X2UyREJMX2hmTGlrQ2dITVd5QzhlZHJmVE4weVFtUDlHSllSX2NkZjg2RllSOTl2dnJ0MGR4R1Q0THdvRW9XREQzLXfSAa4BQVVfeXFMTldUc1VoblBqcVZxWjVJeDJNSnNPU1FVRlJSQk4zSTNZOXk1ZEdCbGJpM19mM1F1ZDBacGxVMjlYbzF1VnhOSFdraGcybHc3aWxmMlhvYXhLTU9kM1NxRnNQQ201elg1TWZLMTRCb0ZfTWVVa1cxak1zVnlzbkxDbjY2ZlliZHlfdjhyM1VmYVNLdnZFRzVjclA4NWxCcWRXQUFMUnFDalh3R0RxbTh3?oc=5",
-   "pub": "Wed, 02 Sep 2026 09:38:38 GMT"
+   "t": "Experten machen US-Munition für Tote auf Hochzeit in Iran verantwortlich - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnQtQ1QtNjhidzMwaDl3dXhiVDRBZS1tNTFyNEhZMC1XTS1hSGQ2ZlRycjcyQk5aWUdqSXVnUjNkZ1gzY0tjN0lmYjltWkJxaVhYWnd3bW5NLTVVc1VTT1p4b2RwRzZlcVZaRlk0b1N3OGMxY0pBSGNQeDJZMlhROUZ6TXM1eDhBZVBQdWltRnR3bnFMcW13REFwT3p0UGRnRnhfZHBkSHVTb3ZkaTQ4MnF5QnFkZWx1ai1mX055NkszdWJSZTU0dUNGc2lKNXU1SmdLamJyUlZSLVE?oc=5",
+   "pub": "Fri, 04 Sep 2026 02:08:00 GMT"
   }
  ]
 }
