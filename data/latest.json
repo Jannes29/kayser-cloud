@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-03T21:43:22Z",
+ "collected_at": "2026-09-04T00:07:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8065,
-   "chg1d_pct": -0.8
+   "price": 0.8072,
+   "chg1d_pct": -0.71
   },
   "USDJPY": {
-   "price": 155.845,
-   "chg1d_pct": -1.94
+   "price": 155.302,
+   "chg1d_pct": -2.28
   },
   "GBPCAD": {
-   "price": 1.8655,
-   "chg1d_pct": -0.05
+   "price": 1.8657,
+   "chg1d_pct": -0.04
   },
   "AUDJPY": {
-   "price": 112.125,
-   "chg1d_pct": -1.51
+   "price": 111.842,
+   "chg1d_pct": -1.76
   },
   "EURUSD": {
-   "price": 1.1629,
-   "chg1d_pct": 0.38
+   "price": 1.1635,
+   "chg1d_pct": 0.43
   },
   "GBPCHF": {
-   "price": 1.0914,
-   "chg1d_pct": -0.43
+   "price": 1.0921,
+   "chg1d_pct": -0.36
   },
   "WTI": {
-   "price": 91.67,
-   "chg1d_pct": 0.73
+   "price": 91.79,
+   "chg1d_pct": 0.86
   },
   "BRENT": {
-   "price": 95.82,
-   "chg1d_pct": 0.2
+   "price": 95.92,
+   "chg1d_pct": 0.3
   },
   "GOLD": {
-   "price": 4520.3,
-   "chg1d_pct": 3.53
+   "price": 4525.7,
+   "chg1d_pct": 3.65
   },
   "SPX_FUT": {
-   "price": 7749.25,
-   "chg1d_pct": 0.95
+   "price": 7752.75,
+   "chg1d_pct": 0.99
   },
   "NAS_FUT": {
-   "price": 29502.25,
-   "chg1d_pct": 1.08
+   "price": 29507.0,
+   "chg1d_pct": 1.1
   }
  },
  "headlines": [
@@ -69,24 +69,14 @@
    "pub": "Thu, 03 Sep 2026 13:08:02 GMT"
   },
   {
-   "t": "Goslar: Friedensgespräche zu Iran, China und Krieg - Goslarsche.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlp1aUF5TTVvOVZ5T0JXOUJDeHBTSXp4SGZWVXpyNS14QWt5cy1wVzVzRnN2UkZZM2phQ210MktzYTg2dkxpMEhQNVJyLXJxOWNENFQ3cko1ZmhMQmRSVmxGVl92UG05WHB2czNjRlU5ZlV4TkFrcEdNQWFBQm1tTkFXTWF5WFFYVVAzZlhLRnVucnZuR0lNM3ZRcTVlR2wwUy1weFBudDlRZWk5cXJWMw?oc=5",
-   "pub": "Thu, 03 Sep 2026 17:16:34 GMT"
-  },
-  {
-   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
-   "pub": "Thu, 03 Sep 2026 01:19:11 GMT"
-  },
-  {
-   "t": "Dow Jones, S&P 500, Nasdaq: Dow schließt 1,2 Prozent höher – Fed-Reden dämpfen Zinshoffnung - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbWFLc2xWQ3J3UkQwdzdnNXNhMVdOQjFsd2lySU1QVU9FUUlvM1NXdEFWWHppbTdtb0tma1Y4NWNFRHhpM2ptMkZtSkkzeXNzNVNRMUF4OWpEczJ6eHNZT3BlQ1NHV1E5MjN4OGlkZ3pGd2xqSk9SLWpRQ044WnRjOGdDUlJyVXNuZEFrUzNVbkJVX1VXc2lURDFIODJtSDlhUjVCQjZiR0luUDVScDEtdERKSzVhR252VTM5RUhjcGJkaHBlaGpBWFd5ekNZYk9MVzcyX0FZeTFKVHpRWE1aSEptMkZSYUo5ZVEtMHZXS3JWY0xq?oc=5",
-   "pub": "Thu, 03 Sep 2026 18:37:00 GMT"
-  },
-  {
    "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
    "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
+  },
+  {
+   "t": "Goslar: Friedensgespräche zu Iran, China und Krieg - Goslarsche.de",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlp1aUF5TTVvOVZ5T0JXOUJDeHBTSXp4SGZWVXpyNS14QWt5cy1wVzVzRnN2UkZZM2phQ210MktzYTg2dkxpMEhQNVJyLXJxOWNENFQ3cko1ZmhMQmRSVmxGVl92UG05WHB2czNjRlU5ZlV4TkFrcEdNQWFBQm1tTkFXTWF5WFFYVVAzZlhLRnVucnZuR0lNM3ZRcTVlR2wwUy1weFBudDlRZWk5cXJWMw?oc=5",
+   "pub": "Thu, 03 Sep 2026 17:16:34 GMT"
   },
   {
    "t": "Raketen auf Kuwait, Minen in Hormus: Experte zweifelt an Trumps Strategie für Ende des Iran-Kriegs - Frankfurter Rundschau",
@@ -94,19 +84,29 @@
    "pub": "Thu, 03 Sep 2026 09:27:43 GMT"
   },
   {
+   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
+   "pub": "Thu, 03 Sep 2026 01:19:11 GMT"
+  },
+  {
    "t": "„Abscheuliche Aggression“: Iran greift erneut US-Stützpunkte in Kuwait an - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOC1iRFJhbUNVdHo4bmwxQXVkcW9ETkw4WDhBelpfNWdjVWowN19adXZZZGJwbjBXWUlwbkhlamtXUWhBaEVyRXNtWUkxVWc0QVRpVmRSRnJObEZsQUhGUzRjRTA0cktHeXRpNFpoZEQ4ZTl0Ui1CVTRoWVdkdnVhazJ4eGdKQWJ4SENIU191WGo0ZnpzNWJyR1J6YnhSWGVORENZSmhNQkRZbXVTbkJ5RjBIQXJmc2tvQ3lxaGNodXhaMkc3VTVZ?oc=5",
    "pub": "Thu, 03 Sep 2026 04:37:36 GMT"
   },
   {
-   "t": "Iran-Krieg: Wiederaufflammen treibt Benzinpreis auf Höchststand - VISION mobility",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0MyaVY2RFctaEZrYjE1N281RDE1VkxzSkU5Y3VHZ28tUTJIT2FzVW1qVExDZ2NhMXhhS0p1T0lQS1lHOEF3ODJwWnJpaUpZTGFvdHd5bElXcWxvUXd5NFduTklNcWFzRjljUVZDVGh2S3hyX3ZUeUNnV1V1WThxQnU5NHpsMktKRllGc3B0dEZWci1wakF0V3lCZ0pNVXZHR3VYZFJEYTkyYWM?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:44:00 GMT"
-  },
-  {
    "t": "Keine US-Attacken in dieser Nacht: Iran greift wieder Ziele in Kuwait an - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEJrOTRZVE9jek9oQzBBdVVVS1hzN0NvSzlMWGZZSUdoWnUwcjBVN2hVdnQ5djdTcHFOT2JTb3dNa190TzNGMGZJMmZzZ1lCZTc5RE44aksybTF4X1BhOFZ2UDBJTzF1clJ2cmc0dmh2YUJucFBEakNjRXktTHFvQmc5NUlaUjRw?oc=5",
    "pub": "Thu, 03 Sep 2026 03:00:49 GMT"
+  },
+  {
+   "t": "Benzinpreis in Deutschland: Benzinpreis erreicht nach neuen Angriffen auf den Iran Höchststand - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkN6R1R1dGZESDRsM3dIV0VMSWdjdUJUbk5uY0F1ZmMwNldEcWc4ak5uakR2VHNuOTUwdlpjR3hPajdsUms0cGI2MzN2QWdOdDNvSFBTXzBGaXdjeDJvUXRkSVhwZkpFeXhDb2dUQkVEbWtSM2o4LTdJQjV1QjJfT19JQ1p6OGk4MHIzZUVqbmV4YjlZ?oc=5",
+   "pub": "Thu, 03 Sep 2026 08:06:33 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: USA und Iran greifen sich gegenseitig an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RTB5TFpoYUZDNE1BTExPS3pJdFZkeDNuMjl3UGJDYlBpU0JjcHhsOS1fSmtDZDI4dDA3U09HVVJYaTNnOTBwVTFPQURzbGI1cnBMTllNbWx5NnhpQmhF?oc=5",
+   "pub": "Tue, 01 Sep 2026 22:30:00 GMT"
   }
  ]
 }
