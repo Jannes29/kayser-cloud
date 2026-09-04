@@ -1,58 +1,53 @@
 {
- "collected_at": "2026-09-04T14:22:54Z",
+ "collected_at": "2026-09-04T18:25:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8098,
-   "chg1d_pct": -0.39
+   "price": 0.8101,
+   "chg1d_pct": -0.35
   },
   "USDJPY": {
-   "price": 156.071,
-   "chg1d_pct": -1.79
+   "price": 156.161,
+   "chg1d_pct": -1.74
   },
   "GBPCAD": {
-   "price": 1.8719,
-   "chg1d_pct": 0.3
+   "price": 1.8701,
+   "chg1d_pct": 0.2
   },
   "AUDJPY": {
-   "price": 112.392,
-   "chg1d_pct": -1.27
+   "price": 112.485,
+   "chg1d_pct": -1.19
   },
   "EURUSD": {
-   "price": 1.162,
-   "chg1d_pct": 0.3
+   "price": 1.1614,
+   "chg1d_pct": 0.25
   },
   "GBPCHF": {
-   "price": 1.0942,
-   "chg1d_pct": -0.17
+   "price": 1.0946,
+   "chg1d_pct": -0.14
   },
   "WTI": {
-   "price": 89.24,
-   "chg1d_pct": -2.26
+   "price": 91.06,
+   "chg1d_pct": -0.26
   },
   "BRENT": {
-   "price": 93.88,
-   "chg1d_pct": -1.72
+   "price": 95.8,
+   "chg1d_pct": 0.29
   },
   "GOLD": {
-   "price": 4468.6,
-   "chg1d_pct": -0.51
+   "price": 4467.9,
+   "chg1d_pct": -0.53
   },
   "SPX_FUT": {
-   "price": 7731.5,
-   "chg1d_pct": -0.3
+   "price": 7718.5,
+   "chg1d_pct": -0.47
   },
   "NAS_FUT": {
-   "price": 29601.5,
-   "chg1d_pct": 0.26
+   "price": 29489.25,
+   "chg1d_pct": -0.12
   }
  },
  "headlines": [
-  {
-   "t": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXpKOFlpOUhsMXItWUNMSFdUM3RucDVuaUlkTklmR3BSaVVTV25OY0lCWmZmbWVpU0dYU1RwU3BYc1lySGdfOUxfZF9tbDZaU25UNEhvLWg4Sll4NjF3X1F2Q2Q4TFZ6RXdSVjZOQ2RYRGlzcnBucW1MQmlIbDZrVGZNYnptQzRvcHozX2xxc1U2ZmtTZkVGOV9ka2RNaDByMDNWbjhVQ2lXbkhEd2tGV1NWV0ZYVnE4LUlFTlQ4X0xXSUswa1JDTlNvTG5JME9MMmk4T29aU3p6WTFKRGZQamxVWW9zTTc0UC1uR0NxRmJfY2staDNsaXhtdTdyYWk4eXlhdmtvaXBxaFN6?oc=5",
-   "pub": "Fri, 04 Sep 2026 11:07:00 GMT"
-  },
   {
    "t": "Wie die Müllstadt in Kairo vom Iran-Krieg profitiert - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jck1uRFFJeDU0amZWM080ZXNsc1hlMXpUZHpHN2xzcVRLR2FiQUxnVXdsV05xUkd0MV84ODB4UU0yOHB5enJCaFdKMkpMdW91c2cta2VmVi04bGxXUUxOTGxKUmVwN09UbTBBM0ln?oc=5",
@@ -69,9 +64,24 @@
    "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
   },
   {
-   "t": "„USA bloßgestellt”: Trump gehen im Iran-Krieg Optionen aus - FOCUS online",
+   "t": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXpKOFlpOUhsMXItWUNMSFdUM3RucDVuaUlkTklmR3BSaVVTV25OY0lCWmZmbWVpU0dYU1RwU3BYc1lySGdfOUxfZF9tbDZaU25UNEhvLWg4Sll4NjF3X1F2Q2Q4TFZ6RXdSVjZOQ2RYRGlzcnBucW1MQmlIbDZrVGZNYnptQzRvcHozX2xxc1U2ZmtTZkVGOV9ka2RNaDByMDNWbjhVQ2lXbkhEd2tGV1NWV0ZYVnE4LUlFTlQ4X0xXSUswa1JDTlNvTG5JME9MMmk4T29aU3p6WTFKRGZQamxVWW9zTTc0UC1uR0NxRmJfY2staDNsaXhtdTdyYWk4eXlhdmtvaXBxaFN6?oc=5",
+   "pub": "Fri, 04 Sep 2026 11:07:00 GMT"
+  },
+  {
+   "t": "„USA bloßgestellt”: Trump gehen im Iran-Krieg Optionen aus - focus.de",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYzgzMGw0RmZsM2RaN21aSGNZUzl0ajgwWVdjeXQ0QlpFb25wLV9jeFZTNmRMX1l3YTk2RWk0WExoT200OTNPR1E5LUNOY3VzV0kxOVlsb2dnLWJheVMwY1hfRHNMbGF0cmFaNm5MeHJJRkhaMDA0LVNRMXB5c0Z6ajN1NGdadzYzelZRclRxalVWWXhUYm05c2dPVVF2ekU4Z0JfRW9xZDc4YkI0UU9hT3dpYTI3Tk5wQ1E1S0NpUWxYbkl3NTREeEVrNUpqdnJx?oc=5",
    "pub": "Fri, 04 Sep 2026 07:53:00 GMT"
+  },
+  {
+   "t": "\"Kollaps ist nur eine Frage der Zeit\": Experte gibt Einblick in Zerfall des Iran-Regimes - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTJUYklLbkJTUXo0YTB6WmU4ZEZfd2UtRDdPOW9kTk5qaHRab3g0YW52M0hxNTNsMUs2ZkhsS3NFS1VmRlVOR1FTTlNJTk9mcDhIZzBtWnl2enluVFdPY2FYUFpLYjJjUlgzVVZHakZjVE9hUUlfZHNTZlczVFktUnR1Szg0dXB1bXE1NS1OLW03NDBzX2dueWtnY0pxRnFTZWxKaWRJMlRPbU5zdXRiNU0zUWxULXVBcTFLbm1uYms0MzZZX2VUNlFpb0UydWVo?oc=5",
+   "pub": "Fri, 04 Sep 2026 13:14:19 GMT"
+  },
+  {
+   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
+   "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
   {
    "t": "Iran-Krieg: US-Dieselpreis auf Höchststand - STERN.de",
@@ -84,9 +94,9 @@
    "pub": "Fri, 04 Sep 2026 11:04:00 GMT"
   },
   {
-   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
-   "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
+   "t": "US-Leitzins: Trump droht der Fed mit Handelstopp - wiwo.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanFOWlhqbE9ESk5CVzh3dGg0NGt6X1Myck1nT2QyX0xYWFA0NzRwZ0FaOTZFcnJtRmU3bGJKQjJkZm45d2ZuVGc1RFA4Nm5qZzZGT1VQbFgybklPa0dybk1LVXBVdkN1aEMtQm90b05tZHhkZHJHOVlxbDFkMERSMG9jeVEtcW1vcHlUY01lSTQ1VGVXWmtJc1RXM05RaGs?oc=5",
+   "pub": "Fri, 04 Sep 2026 16:42:32 GMT"
   },
   {
    "t": "Ein normales Leben im Iran wird unbezahlbar - WEB.DE",
@@ -94,19 +104,9 @@
    "pub": "Fri, 04 Sep 2026 12:58:59 GMT"
   },
   {
-   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - DW.com",
+   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - dw.com",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
    "pub": "Thu, 03 Sep 2026 14:42:44 GMT"
-  },
-  {
-   "t": "Angriff auf Hochzeitsfeier? Iran übt Vergeltung - USA ermitteln - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGlpRFRxdU1jR1A2bWJnT0F3QW5maFRyOXpDcVJDLVBpZUltcjVpRFhJY0lTVzhVMHlCSlpKS1EyajdvMFJFYU13UFZVSThvWmFaNjNaZVQ0TXVZbm8xUkp0TFFEWnc1RTBob3RDTmllUGxTbzBwUi1tTm00Z19iczl6VFRkTWtiZC12dF9yT2RBSUxLR0JaVVBadw?oc=5",
-   "pub": "Fri, 04 Sep 2026 10:06:35 GMT"
-  },
-  {
-   "t": "Experten machen US-Munition für Tote auf Hochzeit in Iran verantwortlich - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnQtQ1QtNjhidzMwaDl3dXhiVDRBZS1tNTFyNEhZMC1XTS1hSGQ2ZlRycjcyQk5aWUdqSXVnUjNkZ1gzY0tjN0lmYjltWkJxaVhYWnd3bW5NLTVVc1VTT1p4b2RwRzZlcVZaRlk0b1N3OGMxY0pBSGNQeDJZMlhROUZ6TXM1eDhBZVBQdWltRnR3bnFMcW13REFwT3p0UGRnRnhfZHBkSHVTb3ZkaTQ4MnF5QnFkZWx1ai1mX055NkszdWJSZTU0dUNGc2lKNXU1SmdLamJyUlZSLVE?oc=5",
-   "pub": "Fri, 04 Sep 2026 02:08:00 GMT"
   }
  ]
 }
