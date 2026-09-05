@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-05T04:32:22Z",
+ "collected_at": "2026-09-05T09:06:40Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -35,8 +35,8 @@
    "chg1d_pct": 0.8
   },
   "GOLD": {
-   "price": 4477.2,
-   "chg1d_pct": -0.32
+   "price": 4476.6,
+   "chg1d_pct": -0.34
   },
   "SPX_FUT": {
    "price": 7722.0,
@@ -49,14 +49,24 @@
  },
  "headlines": [
   {
+   "t": "Trump prahlt mit „unbegrenzter“ Munition – doch Iran-Krieg legt Amerikas Schwäche bloß - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlZGYlhJNnZIMG9pVXhiaXIxVGdTYWRoWTVXeGFmLVVzV0UwZTdYMHpkMFhNX29naWZkVk8xNy1MaElQQjduY3dHSXF5dm1VaTB2ZmpUTmNmN0o3T2RaZm5XQzhNMXhTTGlLeThiMTJrU1lEUnlVT2FHRjNXQWNkSm9HeFVHRmhwd0lqWl94SU5Iem05aTN3Z0ZDUmZnaW8yWnhoTG02X2o?oc=5",
+   "pub": "Sat, 05 Sep 2026 04:16:25 GMT"
+  },
+  {
    "t": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXpKOFlpOUhsMXItWUNMSFdUM3RucDVuaUlkTklmR3BSaVVTV25OY0lCWmZmbWVpU0dYU1RwU3BYc1lySGdfOUxfZF9tbDZaU25UNEhvLWg4Sll4NjF3X1F2Q2Q4TFZ6RXdSVjZOQ2RYRGlzcnBucW1MQmlIbDZrVGZNYnptQzRvcHozX2xxc1U2ZmtTZkVGOV9ka2RNaDByMDNWbjhVQ2lXbkhEd2tGV1NWV0ZYVnE4LUlFTlQ4X0xXSUswa1JDTlNvTG5JME9MMmk4T29aU3p6WTFKRGZQamxVWW9zTTc0UC1uR0NxRmJfY2staDNsaXhtdTdyYWk4eXlhdmtvaXBxaFN6?oc=5",
    "pub": "Fri, 04 Sep 2026 11:07:00 GMT"
   },
   {
-   "t": "Wie die Müllstadt in Kairo vom Iran-Krieg profitiert - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jck1uRFFJeDU0amZWM080ZXNsc1hlMXpUZHpHN2xzcVRLR2FiQUxnVXdsV05xUkd0MV84ODB4UU0yOHB5enJCaFdKMkpMdW91c2cta2VmVi04bGxXUUxOTGxKUmVwN09UbTBBM0ln?oc=5",
-   "pub": "Fri, 04 Sep 2026 10:41:00 GMT"
+   "t": "US-Leitzins: Trump droht der Fed mit Handelstopp - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanFOWlhqbE9ESk5CVzh3dGg0NGt6X1Myck1nT2QyX0xYWFA0NzRwZ0FaOTZFcnJtRmU3bGJKQjJkZm45d2ZuVGc1RFA4Nm5qZzZGT1VQbFgybklPa0dybk1LVXBVdkN1aEMtQm90b05tZHhkZHJHOVlxbDFkMERSMG9jeVEtcW1vcHlUY01lSTQ1VGVXWmtJc1RXM05RaGs?oc=5",
+   "pub": "Fri, 04 Sep 2026 16:42:32 GMT"
+  },
+  {
+   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
+   "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
   {
    "t": "Börse Aktuell: Fed-Zinsentscheid & US-Arbeitsmarktdaten - XTB.com",
@@ -64,14 +74,9 @@
    "pub": "Fri, 04 Sep 2026 12:05:00 GMT"
   },
   {
-   "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - de.euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDAybEMxbEpZa1o2UkcxNll2aC01QVA3XzFra09YMUd2c2ZvaWVMUll4M1VDc0RjbEdXNldWbEFMMUFDUHpMbmRvVndDcVQ4NnJlOVVlYnk4elFlZFJUYzZvbDNNRnY3N0VMSXk4Z05ZOXZER3d5bmZhcXAxTzNqTE9iQ3Z4VHZaMFFDU3B4Q052OGJObk5QZWh3NVlvem9xMHdqaUxDeGlzUHFqaWNOMVZmVlZvQVRicmtpSkp6dzVua0t2LXVz?oc=5",
-   "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
-  },
-  {
-   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - zeit.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
-   "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
+   "t": "Wie die Müllstadt in Kairo vom Iran-Krieg profitiert - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jck1uRFFJeDU0amZWM080ZXNsc1hlMXpUZHpHN2xzcVRLR2FiQUxnVXdsV05xUkd0MV84ODB4UU0yOHB5enJCaFdKMkpMdW91c2cta2VmVi04bGxXUUxOTGxKUmVwN09UbTBBM0ln?oc=5",
+   "pub": "Fri, 04 Sep 2026 10:41:00 GMT"
   },
   {
    "t": "Iran: Mindestens 15 Tote nach US-Attacken - dw.com",
@@ -79,19 +84,14 @@
    "pub": "Wed, 02 Sep 2026 09:38:38 GMT"
   },
   {
-   "t": "„USA bloßgestellt”: Trump gehen im Iran-Krieg Optionen aus - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYzgzMGw0RmZsM2RaN21aSGNZUzl0ajgwWVdjeXQ0QlpFb25wLV9jeFZTNmRMX1l3YTk2RWk0WExoT200OTNPR1E5LUNOY3VzV0kxOVlsb2dnLWJheVMwY1hfRHNMbGF0cmFaNm5MeHJJRkhaMDA0LVNRMXB5c0Z6ajN1NGdadzYzelZRclRxalVWWXhUYm05c2dPVVF2ekU4Z0JfRW9xZDc4YkI0UU9hT3dpYTI3Tk5wQ1E1S0NpUWxYbkl3NTREeEVrNUpqdnJx?oc=5",
-   "pub": "Fri, 04 Sep 2026 07:53:00 GMT"
+   "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDAybEMxbEpZa1o2UkcxNll2aC01QVA3XzFra09YMUd2c2ZvaWVMUll4M1VDc0RjbEdXNldWbEFMMUFDUHpMbmRvVndDcVQ4NnJlOVVlYnk4elFlZFJUYzZvbDNNRnY3N0VMSXk4Z05ZOXZER3d5bmZhcXAxTzNqTE9iQ3Z4VHZaMFFDU3B4Q052OGJObk5QZWh3NVlvem9xMHdqaUxDeGlzUHFqaWNOMVZmVlZvQVRicmtpSkp6dzVua0t2LXVz?oc=5",
+   "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
   },
   {
-   "t": "\"Kollaps ist nur eine Frage der Zeit\": Experte gibt Einblick in Zerfall des Iran-Regimes - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTJUYklLbkJTUXo0YTB6WmU4ZEZfd2UtRDdPOW9kTk5qaHRab3g0YW52M0hxNTNsMUs2ZkhsS3NFS1VmRlVOR1FTTlNJTk9mcDhIZzBtWnl2enluVFdPY2FYUFpLYjJjUlgzVVZHakZjVE9hUUlfZHNTZlczVFktUnR1Szg0dXB1bXE1NS1OLW03NDBzX2dueWtnY0pxRnFTZWxKaWRJMlRPbU5zdXRiNU0zUWxULXVBcTFLbm1uYms0MzZZX2VUNlFpb0UydWVo?oc=5",
-   "pub": "Fri, 04 Sep 2026 13:14:19 GMT"
-  },
-  {
-   "t": "Trump spielt Iran-Krieg herunter: \"Für uns eine Kleinigkeit\" - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUIxR09hUUdscGl4MXd0ZjBfSnlUQU1aLTdyZW44X1hxN25taUdvS0lVX1hwNm42LW50UkFvUzJYSXQ2WE80blB6czFsc202MWNKZHNfbkFyaW1menRXS3ZydHpXbEFQWjczRV9leXN4Z0FfemZuQ3RWWlVNVG01ZFdvbUsxdl84Q1VJVjc1aU5YV0prcmVSRlQ3VW1VOXdDVXc?oc=5",
-   "pub": "Fri, 04 Sep 2026 19:45:34 GMT"
+   "t": "„Keine große Sache“: Trump spielt Iran-Krieg herunter - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzBnSGNKOFpOamV1dWhfVjJQeDhkSFVobWNwUHg4N3dTVkoxWktSM1QwU0xja0pMazhNRmwxNjBrcXpJSGFKM1RwTkZ5M3ZndllpYzlBNkR6WDNrMU9IaHROVlpERnNTcmNPTW94LWZoV2xxLTBFV0NuYjNkUy1QdTBwU01vcjUyc29VTDFqa2ZVam1SVVc4VGZBaC14eHRQUGgzWDgyamJwdm5uejdCY0g0YkFGNEdHNnlZWnBiS09ncnF4?oc=5",
+   "pub": "Sat, 05 Sep 2026 08:42:39 GMT"
   },
   {
    "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - dw.com",
@@ -104,9 +104,9 @@
    "pub": "Tue, 01 Sep 2026 13:40:00 GMT"
   },
   {
-   "t": "US-Arbeitsmarkt im August robuster: Trump droht Notenbank Fed - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEE5Y1Y5RVg5YVB2ZmVaczVYd3BiWWZGYXMyTjB5ZmdfRFgxaExwa2dXU0xMeENuSlBTQ0tlZ0Q3ZGs2UmhSTUZ5VTJuN0FzTDd0WnQyM1JkWWd4QVRSUDFzbERTZUE0Z3VhcTNackY0TVNKOWR4c2FfZmd3amJDdVl2SzM4dFBFbU9kTlc5U1FBc1BwbjY0MTh6M1dRMExLeU1F?oc=5",
-   "pub": "Fri, 04 Sep 2026 16:08:38 GMT"
+   "t": "Iran: USA bombardieren nahe Straße von Hormus, Teheran startet Vergeltungsangriffe - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNejFtMkwyWjZHNVJPcFdNOTBaNDB5OEdfVzNTeVZtUEkxTENYakNPdWJqUFlqUWZjOUxhN2VMWjBXSFFIVTJDQjV2Q2FmYm03RFJCd1FRM3JiNHlNUWp0SkdMSFB0ckQ1anlMUHZEbm9RaHRmcUFIMzRUdE13N0FwUk5qOERJOFE4UzFEc3BkVUp4SUVqQkpadnhqd0lsa0xqdlhzWmlQLUJTOXpzbTlZSUlZQXlJQW5TTDk4dmRSeE9SVDRDaE5aZWlJQmRaN1dhcmxQVHAyc2JwUQ?oc=5",
+   "pub": "Tue, 01 Sep 2026 21:25:00 GMT"
   }
  ]
 }
