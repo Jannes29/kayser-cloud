@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-04T21:30:32Z",
+ "collected_at": "2026-09-05T00:07:51Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -23,8 +23,8 @@
    "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.0946,
-   "chg1d_pct": 0.21
+   "price": 1.0945,
+   "chg1d_pct": 0.2
   },
   "WTI": {
    "price": 91.22,
@@ -39,13 +39,74 @@
    "chg1d_pct": -0.32
   },
   "SPX_FUT": {
-   "price": 7715.0,
-   "chg1d_pct": -0.51
+   "price": 7722.0,
+   "chg1d_pct": -0.42
   },
   "NAS_FUT": {
-   "price": 29523.0,
-   "chg1d_pct": -0.01
+   "price": 29565.25,
+   "chg1d_pct": 0.14
   }
  },
- "headlines": []
+ "headlines": [
+  {
+   "t": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXpKOFlpOUhsMXItWUNMSFdUM3RucDVuaUlkTklmR3BSaVVTV25OY0lCWmZmbWVpU0dYU1RwU3BYc1lySGdfOUxfZF9tbDZaU25UNEhvLWg4Sll4NjF3X1F2Q2Q4TFZ6RXdSVjZOQ2RYRGlzcnBucW1MQmlIbDZrVGZNYnptQzRvcHozX2xxc1U2ZmtTZkVGOV9ka2RNaDByMDNWbjhVQ2lXbkhEd2tGV1NWV0ZYVnE4LUlFTlQ4X0xXSUswa1JDTlNvTG5JME9MMmk4T29aU3p6WTFKRGZQamxVWW9zTTc0UC1uR0NxRmJfY2staDNsaXhtdTdyYWk4eXlhdmtvaXBxaFN6?oc=5",
+   "pub": "Fri, 04 Sep 2026 11:07:00 GMT"
+  },
+  {
+   "t": "Wie die Müllstadt in Kairo vom Iran-Krieg profitiert - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jck1uRFFJeDU0amZWM080ZXNsc1hlMXpUZHpHN2xzcVRLR2FiQUxnVXdsV05xUkd0MV84ODB4UU0yOHB5enJCaFdKMkpMdW91c2cta2VmVi04bGxXUUxOTGxKUmVwN09UbTBBM0ln?oc=5",
+   "pub": "Fri, 04 Sep 2026 10:41:00 GMT"
+  },
+  {
+   "t": "Börse Aktuell: Fed-Zinsentscheid & US-Arbeitsmarktdaten - xtb.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY1pJc2lBNmJscm53ekxNOWNxOFk4QTdGNkNrRTFJVlhTR3ByelpBb19zWUhuMUxVdnRTVDZfdTVSb2dZMFpMOV9sc2p5RnN4eTVrajVQZkFrQUdfZ0RDWlNMSFZmZEhjYTJCQVhzemc0VXVYa0hVTVd6Mk1fWW8wbmxOSDlJeG52OFJsUGdhYU1JNERWaHlTdlp0OA?oc=5",
+   "pub": "Fri, 04 Sep 2026 12:05:00 GMT"
+  },
+  {
+   "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDAybEMxbEpZa1o2UkcxNll2aC01QVA3XzFra09YMUd2c2ZvaWVMUll4M1VDc0RjbEdXNldWbEFMMUFDUHpMbmRvVndDcVQ4NnJlOVVlYnk4elFlZFJUYzZvbDNNRnY3N0VMSXk4Z05ZOXZER3d5bmZhcXAxTzNqTE9iQ3Z4VHZaMFFDU3B4Q052OGJObk5QZWh3NVlvem9xMHdqaUxDeGlzUHFqaWNOMVZmVlZvQVRicmtpSkp6dzVua0t2LXVz?oc=5",
+   "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
+  },
+  {
+   "t": "„USA bloßgestellt”: Trump gehen im Iran-Krieg Optionen aus - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYzgzMGw0RmZsM2RaN21aSGNZUzl0ajgwWVdjeXQ0QlpFb25wLV9jeFZTNmRMX1l3YTk2RWk0WExoT200OTNPR1E5LUNOY3VzV0kxOVlsb2dnLWJheVMwY1hfRHNMbGF0cmFaNm5MeHJJRkhaMDA0LVNRMXB5c0Z6ajN1NGdadzYzelZRclRxalVWWXhUYm05c2dPVVF2ekU4Z0JfRW9xZDc4YkI0UU9hT3dpYTI3Tk5wQ1E1S0NpUWxYbkl3NTREeEVrNUpqdnJx?oc=5",
+   "pub": "Fri, 04 Sep 2026 07:53:00 GMT"
+  },
+  {
+   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
+   "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
+  },
+  {
+   "t": "Trump spielt Iran-Krieg herunter: \"Für uns eine Kleinigkeit\" - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUIxR09hUUdscGl4MXd0ZjBfSnlUQU1aLTdyZW44X1hxN25taUdvS0lVX1hwNm42LW50UkFvUzJYSXQ2WE80blB6czFsc202MWNKZHNfbkFyaW1menRXS3ZydHpXbEFQWjczRV9leXN4Z0FfemZuQ3RWWlVNVG01ZFdvbUsxdl84Q1VJVjc1aU5YV0prcmVSRlQ3VW1VOXdDVXc?oc=5",
+   "pub": "Fri, 04 Sep 2026 19:45:34 GMT"
+  },
+  {
+   "t": "\"Kollaps ist nur eine Frage der Zeit\": Experte gibt Einblick in Zerfall des Iran-Regimes - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTJUYklLbkJTUXo0YTB6WmU4ZEZfd2UtRDdPOW9kTk5qaHRab3g0YW52M0hxNTNsMUs2ZkhsS3NFS1VmRlVOR1FTTlNJTk9mcDhIZzBtWnl2enluVFdPY2FYUFpLYjJjUlgzVVZHakZjVE9hUUlfZHNTZlczVFktUnR1Szg0dXB1bXE1NS1OLW03NDBzX2dueWtnY0pxRnFTZWxKaWRJMlRPbU5zdXRiNU0zUWxULXVBcTFLbm1uYms0MzZZX2VUNlFpb0UydWVo?oc=5",
+   "pub": "Fri, 04 Sep 2026 13:14:19 GMT"
+  },
+  {
+   "t": "Iran: Mindestens 15 Tote nach US-Attacken - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2syZHA1S18tX2hOdGIwTUY4al9oTUhXa05rYWFPWm5lQl9QbG1BemJlWGZhcFBwc2ZtcmtubmJmQS1XSkw5SzlaU05xWkVSS0NWaXFvUk9TTjVfX2pJM0x2VTdGUzMzX0w5X2UyREJMX2hmTGlrQ2dITVd5QzhlZHJmVE4weVFtUDlHSllSX2NkZjg2RllSOTl2dnJ0MGR4R1Q0THdvRW9XREQzLXfSAa4BQVVfeXFMTldUc1VoblBqcVZxWjVJeDJNSnNPU1FVRlJSQk4zSTNZOXk1ZEdCbGJpM19mM1F1ZDBacGxVMjlYbzF1VnhOSFdraGcybHc3aWxmMlhvYXhLTU9kM1NxRnNQQ201elg1TWZLMTRCb0ZfTWVVa1cxak1zVnlzbkxDbjY2ZlliZHlfdjhyM1VmYVNLdnZFRzVjclA4NWxCcWRXQUFMUnFDalh3R0RxbTh3?oc=5",
+   "pub": "Wed, 02 Sep 2026 09:38:38 GMT"
+  },
+  {
+   "t": "US-Arbeitsmarkt im August robuster: Trump droht Notenbank Fed - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEE5Y1Y5RVg5YVB2ZmVaczVYd3BiWWZGYXMyTjB5ZmdfRFgxaExwa2dXU0xMeENuSlBTQ0tlZ0Q3ZGs2UmhSTUZ5VTJuN0FzTDd0WnQyM1JkWWd4QVRSUDFzbERTZUE0Z3VhcTNackY0TVNKOWR4c2FfZmd3amJDdVl2SzM4dFBFbU9kTlc5U1FBc1BwbjY0MTh6M1dRMExLeU1F?oc=5",
+   "pub": "Fri, 04 Sep 2026 16:08:38 GMT"
+  },
+  {
+   "t": "„Dieser Ruf nach Verhandlungen ist für die Innenpolitik, aber nicht für den Iran“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZE42eWM2eUlQVU9rbDBBZUxfV0pIWm9nSWxIM2lSbGlvbnlLMGxUaExTV0FLa0NyYlZIMk5zaFNEYkZUZ2JPUG9udld4VW9RWDF0OFNXUWg2TTNxUi1iRTBTdkRPWU1KLXo5OVNUckJKZUdlV0pyYnZ0WDJPOEEyMk93NlMzbkYtRWlmRUJIUlljTm50Q1puRHhxRnVCTDFBbWQ0TUNsVjVVYkZWRUlIaDdTNExoOENybzV6RG1JeHBSa0dVbGRuckc5TzFJa3ZrWUIyRXQtVHBrSW1kOGsyOU90aFdsekN6Y1hCUm1JMA?oc=5",
+   "pub": "Fri, 04 Sep 2026 17:11:22 GMT"
+  },
+  {
+   "t": "Krieg in Nahost: USA und Iran greifen sich gegenseitig an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RTB5TFpoYUZDNE1BTExPS3pJdFZkeDNuMjl3UGJDYlBpU0JjcHhsOS1fSmtDZDI4dDA3U09HVVJYaTNnOTBwVTFPQURzbGI1cnBMTllNbWx5NnhpQmhF?oc=5",
+   "pub": "Tue, 01 Sep 2026 22:30:00 GMT"
+  }
+ ]
 }
