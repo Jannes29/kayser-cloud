@@ -1,58 +1,53 @@
 {
- "collected_at": "2026-09-06T21:23:13Z",
+ "collected_at": "2026-09-06T23:56:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.809,
-   "chg1d_pct": 0.18
+   "price": 0.8098,
+   "chg1d_pct": 0.28
   },
   "USDJPY": {
-   "price": 156.015,
-   "chg1d_pct": 0.23
+   "price": 156.158,
+   "chg1d_pct": 0.32
   },
   "GBPCAD": {
-   "price": 1.8682,
-   "chg1d_pct": 0.15
+   "price": 1.8698,
+   "chg1d_pct": 0.24
   },
   "AUDJPY": {
-   "price": 112.263,
-   "chg1d_pct": 0.15
+   "price": 112.551,
+   "chg1d_pct": 0.41
   },
   "EURUSD": {
-   "price": 1.1617,
-   "chg1d_pct": -0.1
+   "price": 1.1618,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0941,
-   "chg1d_pct": 0.16
+   "price": 1.0948,
+   "chg1d_pct": 0.22
   },
   "WTI": {
    "price": 91.48,
-   "chg1d_pct": 0.2
+   "chg1d_pct": -0.0
   },
   "BRENT": {
    "price": 96.28,
-   "chg1d_pct": 0.8
+   "chg1d_pct": 0.0
   },
   "GOLD": {
    "price": 4476.6,
-   "chg1d_pct": -0.34
+   "chg1d_pct": 1.06
   },
   "SPX_FUT": {
    "price": 7722.0,
-   "chg1d_pct": -0.42
+   "chg1d_pct": 0.0
   },
   "NAS_FUT": {
    "price": 29565.25,
-   "chg1d_pct": 0.14
+   "chg1d_pct": 0.0
   }
  },
  "headlines": [
-  {
-   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
-   "pub": "Sun, 06 Sep 2026 19:41:59 GMT"
-  },
   {
    "t": "\"Schmerzhaftere Reaktion\": Iran spricht von neuen \"Spielregeln\" im Konflikt mit USA - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1BXZFM4S2o2SDByQVl5S0V6MGNEV2ZxQ3lBakpSNEl2VHBDYjIzNUYtM24taXJ1dHlMZml5VEY5Q1R3TndlY2lCdUVqR09MYkRfbUlLSEFHRFNhVkRzLXBSRHBRcnduS20tSVl5Q1Bfcm9WVS12dDNBdDF0cmROQUZnTHlTX1Zsb3FRS0hscE02WVowb05tR1BjTUpIUmM?oc=5",
@@ -64,14 +59,14 @@
    "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
   },
   {
+   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
+   "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
+  },
+  {
    "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
    "pub": "Sat, 05 Sep 2026 23:09:59 GMT"
-  },
-  {
-   "t": "USA und Iran eskalieren den Krieg auf See: Neue Gefechte um Straße von Hormus - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWFpQUJrdkZEempnUGo2R3J2S3hCN1JkYXM5N0c3LW43ZDJFQlR2VEdyMFRVQ2w0NXlEZFFlZlJPLXdXd0FybmQzaFhfX0ZZdnFlOVR6LVYxYXVUV2NGc1Q0cGVKRkd5QU91MWtzTkVGZUJrNV9QWEtRV0NrR3FFZ1JBUGZqVVBXamxHc2FvU29ITm5ZNXctZ2wxSW03OTd4bEdvUE05WHBoR0ZpNDFpQ3JNSGRyU0FFLVRUVncyRWY5RE9E?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:58:17 GMT"
   },
   {
    "t": "Ex-Trump-Vertrauter rechnet ab: Republikaner nennt Iran-Politik ein „Desaster“ - Merkur",
@@ -79,12 +74,22 @@
    "pub": "Sun, 06 Sep 2026 11:02:12 GMT"
   },
   {
-   "t": "Iran, der Krieg und die Sanktionen: 366 Quadratmeter, fünf Schlafzimmer, ein dubioser Bankier - taz.de",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SMzB0ZEt1bXhubmU3TXJnR2RBVUloLUkxSl9iOG1QUEdJcHRpbl96cndaMDgzM0dSOUlYSzFkd3MwdGcwWWlCRHhOandFZDZZeUwtZ1dPT1F3WlVyWWpESElUdU1POGtNeUE?oc=5",
-   "pub": "Sun, 06 Sep 2026 16:08:38 GMT"
+   "t": "USA und Iran eskalieren den Krieg auf See: Neue Gefechte um Straße von Hormus - berliner-zeitung.de",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWFpQUJrdkZEempnUGo2R3J2S3hCN1JkYXM5N0c3LW43ZDJFQlR2VEdyMFRVQ2w0NXlEZFFlZlJPLXdXd0FybmQzaFhfX0ZZdnFlOVR6LVYxYXVUV2NGc1Q0cGVKRkd5QU91MWtzTkVGZUJrNV9QWEtRV0NrR3FFZ1JBUGZqVVBXamxHc2FvU29ITm5ZNXctZ2wxSW03OTd4bEdvUE05WHBoR0ZpNDFpQ3JNSGRyU0FFLVRUVncyRWY5RE9E?oc=5",
+   "pub": "Sun, 06 Sep 2026 07:58:17 GMT"
   },
   {
-   "t": "Erneute Eskalation am Persischen Golf USA versenken iranischen Öltanker – Iran beschoss US-Flugzeugträger - tagesspiegel.de",
+   "t": "„Geänderte Spielregeln“: Iran will härter und schneller auf US-Angriffe reagieren - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDZSUkVrNk9MVzQ0bnpkVVYyTG1qSTBpQXZqQTkxUHFMVFliSTQwcG5SLTZPX19NaGtlU21KQ2prVjh6TVlBSE9VNVZTV01fTXZBclE4OHN4NlZmQU1aYmViSHR5Zm14N05iVFA5TE02ZExtUkF4RDY2dGl3VzkyVWNtelBsZ295WWlDOXU0QjkwS2pWbVJMM3ZldXdqVXF4MFpwbTQxNDZidVNMa28xX3J1OGIxSjV5NW00OFI2cDNDQjRM?oc=5",
+   "pub": "Sun, 06 Sep 2026 21:28:19 GMT"
+  },
+  {
+   "t": "„Potenziell sogar Jahre“ – Wie der Iran trotz der katastrophalen Lage verteidigungsfähig bleibt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY21jaHhBcWhqWURYX2xaeWcyNnppQVF4aDB5dmRTQ0l0Y3Q3c3I3SlVxSlZnZVFIY3JpX0FWMTRWN2YzUU5pdmh4ZjJ5SzdQbnpYY1lJOWFLUWhjbEdFbG1CQzNJNUlYVWVUTUg0cmNJdDhCWTkyRXN6ZHRNUE9QdXZLRE1iZWFzWThaaFVKTE9OR2UyaG9Qc0RYNnhfS0U1eENndS1wRHNIVU1VTUhsRllQZDROdWlYNUVNOFEyb2czRFZ4UGRXVVNORlFqcU9LLTJsN2JPWE9yYTM1ellVTnFVYzY4bC1FS2NHQlA3MGNIV2J6SXJxTmJmN2tRUQ?oc=5",
+   "pub": "Sat, 05 Sep 2026 10:45:56 GMT"
+  },
+  {
+   "t": "Erneute Eskalation am Persischen Golf USA versenken iranischen Öltanker – Iran beschoss US-Flugzeugträger - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON1oyZjNpbEtXbFcxRjdrUGhZRVVhQ01CaHp5MXhER3JOVmhacUM3NnRacUJKZ1lpNzlNVEVDZkRYMk9NQXZnUmF3ZFkydnJQc2RTV0JzZjhnNjR5UHFfR1p3RE9qcGVXLUpFTHNIZVc0UXpKeGtCMEs3YnJJNTRMRDR0RkM4M3M3dDZ6VDE0M3Zfb0ItM1BFb01zelZqRlphYkNyelFUZzNEOW1ubXZ3NWNQdEYtbkFsUy1FWkh1S3lZcDd4SWlfa0NSMHJuVFkwTnlfSnJjNDZoNS16NUVnNXhGMGJIczlsTjBfUXcxcjFFMmxY?oc=5",
    "pub": "Sun, 06 Sep 2026 07:27:26 GMT"
   },
@@ -99,14 +104,9 @@
    "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
   },
   {
-   "t": "„Potenziell sogar Jahre“ – Wie der Iran trotz der katastrophalen Lage verteidigungsfähig bleibt - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY21jaHhBcWhqWURYX2xaeWcyNnppQVF4aDB5dmRTQ0l0Y3Q3c3I3SlVxSlZnZVFIY3JpX0FWMTRWN2YzUU5pdmh4ZjJ5SzdQbnpYY1lJOWFLUWhjbEdFbG1CQzNJNUlYVWVUTUg0cmNJdDhCWTkyRXN6ZHRNUE9QdXZLRE1iZWFzWThaaFVKTE9OR2UyaG9Qc0RYNnhfS0U1eENndS1wRHNIVU1VTUhsRllQZDROdWlYNUVNOFEyb2czRFZ4UGRXVVNORlFqcU9LLTJsN2JPWE9yYTM1ellVTnFVYzY4bC1FS2NHQlA3MGNIV2J6SXJxTmJmN2tRUQ?oc=5",
-   "pub": "Sat, 05 Sep 2026 10:45:56 GMT"
-  },
-  {
-   "t": "US-Armee versenkt iranischen Öltanker „M/T Kylo“ – Revolutionsgarden feuern Raketen auf Flugzeugträger - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjVKc1lYYnhmeF9tWUdld1ZkbVcxOFk3VHc1M09OSEZDTXZOc3JLZzRNeW9xclRDQ3FCMV8zVENLR3diRHo0aGcxVTY0TGwwUm02Uk5wWUx1Q1AwVk5HZVF6dWNUeVo4U1RTcU1zVGY4WXY1ajdWWDhXSmpPdUU1ampuaWZvVWduWFdLZjFDd2lSX0ZWOFdVMEdFMHpyV0t5SUVfSDVJYw?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:50:57 GMT"
+   "t": "Iran meldet Beschuss auf US‑Träger und Zerstörer - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFZIR0M4STdHRzVtTnNpSVhNbTBkaDdzYnJaSEZtX3k4eEtLem9ZTDdzUXoxREZDRGhhNWx2RnY4TU9feEhtZVZQMGJaSFE3RUg4SjNzek9UVldpWmY2MmtwcGhEakJnT2pGeXl1VFpIRkc4OVo2NVdmaFZGVGMtQ3FjcmhnSVBYMUdXS1djTnlubzNZekt6bDVYNlFTUl9GRlpPSkNZNFJfUUhRMXZtNzdiM0ZwMTByRnJVVExqX3FuX2ZtRDdubXZFRVdNcmNjVVVwTjV2RFJUMGs?oc=5",
+   "pub": "Sun, 06 Sep 2026 11:37:02 GMT"
   }
  ]
 }
