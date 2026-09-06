@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-05T22:58:13Z",
+ "collected_at": "2026-09-06T00:59:29Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - dw.com",
+   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
    "pub": "Sat, 05 Sep 2026 09:57:16 GMT"
   },
@@ -59,22 +59,17 @@
    "pub": "Sat, 05 Sep 2026 10:45:56 GMT"
   },
   {
-   "t": "Trumps Vorgehen im Iran führt offenbar langsam zum Erfolg - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkdjUWg4WHoweXQwN05LRWIxZ3QzS1FMYWU1cUZSZVZQTGJsbWVLemxLdmVVb1NyUGctXzgzZUtJb0V2SmhJTVVQZ0EwcmZ0QzhCT2xDLXEyN1djR1dEeHhLZlg1Q1d0SW9UOXdLVG1fTDdueG5oTHZXTWdIb0RkaW5GS2c2RmIxU2lkdHVkUUNXa3FFV0h0SFdDTE9XWXlfRzctNWZKR2cxbUw5STNpVDlVQnJYMWFyVDJLX19VRHFrYU41ZFdrSFln?oc=5",
-   "pub": "Sat, 05 Sep 2026 13:38:38 GMT"
-  },
-  {
-   "t": "Iran attackiert erneut Kuwait - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkandDbmVzSUJMbDdiMDBsWGtRaGlNdl9SRnlETVRUbnhvSGVxa2dacTJET0xVUVVvY1hWU1RRamI3UU5jYmNPSnJKSC1FcnltM0RjWmRGc2xuVXlPNmFB?oc=5",
-   "pub": "Thu, 03 Sep 2026 08:19:03 GMT"
-  },
-  {
    "t": "Revolutionsgarden: Iran nimmt nach US-Angriff Tanker in Hormus-Meerenge ins Visier - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDcwdzRZM1FQcDladlNhd1lTTm1PZXJndDQtaVo1Y1BXOVBZVk1iWEFNdUVzVFBVZ0R2NXB2M1dJNG9hVS1xMHMzemVMM1lYbV9rUzNxVkQybUV1a2dIVzc1RlUxWFpPSE5ySm5UcWszbE5EQ0Q5WHBYYUJ0X3ZlTDlTQnFKd2ZLUHNVdWFORGVQenFWRjZGWjhMS0xPM3RvRVJWYXlBSEd2d0ZRUWdrSEZ0RzlpZXI3UnViTVl3RQ?oc=5",
    "pub": "Sat, 05 Sep 2026 22:35:50 GMT"
   },
   {
-   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - DIE ZEIT",
+   "t": "Trumps Vorgehen im Iran führt offenbar langsam zum Erfolg - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkdjUWg4WHoweXQwN05LRWIxZ3QzS1FMYWU1cUZSZVZQTGJsbWVLemxLdmVVb1NyUGctXzgzZUtJb0V2SmhJTVVQZ0EwcmZ0QzhCT2xDLXEyN1djR1dEeHhLZlg1Q1d0SW9UOXdLVG1fTDdueG5oTHZXTWdIb0RkaW5GS2c2RmIxU2lkdHVkUUNXa3FFV0h0SFdDTE9XWXlfRzctNWZKR2cxbUw5STNpVDlVQnJYMWFyVDJLX19VRHFrYU41ZFdrSFln?oc=5",
+   "pub": "Sat, 05 Sep 2026 13:38:38 GMT"
+  },
+  {
+   "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - zeit.de",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa25PTEZNT29YSUlRQnhBRnhjNUhSNkpVQ0M4MGRoN0RzajB5eUIxcnhoNFVweEFhUEhkS1hNZ1RzVXF4WGM4d0NVaDVrT1JEWk9yM1gxcXR4UUpiQ3BWWVloMDRHckliSjZCVFlyNkFoX19PbWRRTmVXcDNISG9vNGtyc2l3UjRyZWE3RmZPbk1YWFJwSGdJNTZyandRdlNRVS01a3ZsajZPclBkV3N3bg?oc=5",
    "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
@@ -84,14 +79,14 @@
    "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
   },
   {
-   "t": "Trump prahlt mit „unbegrenzter“ Munition – doch Iran-Krieg legt Amerikas Schwäche bloß - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlZGYlhJNnZIMG9pVXhiaXIxVGdTYWRoWTVXeGFmLVVzV0UwZTdYMHpkMFhNX29naWZkVk8xNy1MaElQQjduY3dHSXF5dm1VaTB2ZmpUTmNmN0o3T2RaZm5XQzhNMXhTTGlLeThiMTJrU1lEUnlVT2FHRjNXQWNkSm9HeFVHRmhwd0lqWl94SU5Iem05aTN3Z0ZDUmZnaW8yWnhoTG02X2o?oc=5",
-   "pub": "Sat, 05 Sep 2026 04:16:25 GMT"
-  },
-  {
    "t": "Kurzes Aufatmen war trügerisch: Hinter dem Kampf gegen \"Nacktheit\" steckt im Iran mehr - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzUyQUkwRnBEXzVwMzdTZzBVRlJJVWdldDRqdGg2S193YmhUSW9UbjByd2tQMUFuNmFHWG95djZhRjdMdHc2QUhNZ2Y5WGYzVTlNQ29DQTBhWGRMcFl3MTFvYjJYdGF6ejFTU2x2NEtna1Y0RTdENVVuXzhhLVMtRFpLVkJ0NnphY0swOXAzWGRNNE11Q1JLUnVRN3FUVjlmOFVnMnIySVNTTTREMklTRXZLbks?oc=5",
    "pub": "Sat, 05 Sep 2026 11:41:29 GMT"
+  },
+  {
+   "t": "Trump prahlt mit „unbegrenzter“ Munition – doch Iran-Krieg legt Amerikas Schwäche bloß - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUlZGYlhJNnZIMG9pVXhiaXIxVGdTYWRoWTVXeGFmLVVzV0UwZTdYMHpkMFhNX29naWZkVk8xNy1MaElQQjduY3dHSXF5dm1VaTB2ZmpUTmNmN0o3T2RaZm5XQzhNMXhTTGlLeThiMTJrU1lEUnlVT2FHRjNXQWNkSm9HeFVHRmhwd0lqWl94SU5Iem05aTN3Z0ZDUmZnaW8yWnhoTG02X2o?oc=5",
+   "pub": "Sat, 05 Sep 2026 04:16:25 GMT"
   },
   {
    "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - Euronews.com",
@@ -99,14 +94,19 @@
    "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
   },
   {
-   "t": "Iran hat die USA vor diesem Schritt gewarnt – Israel meldet Räumung von strategischer Hisbollah-Untergrundbasis - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPYXpKOFlpOUhsMXItWUNMSFdUM3RucDVuaUlkTklmR3BSaVVTV25OY0lCWmZmbWVpU0dYU1RwU3BYc1lySGdfOUxfZF9tbDZaU25UNEhvLWg4Sll4NjF3X1F2Q2Q4TFZ6RXdSVjZOQ2RYRGlzcnBucW1MQmlIbDZrVGZNYnptQzRvcHozX2xxc1U2ZmtTZkVGOV9ka2RNaDByMDNWbjhVQ2lXbkhEd2tGV1NWV0ZYVnE4LUlFTlQ4X0xXSUswa1JDTlNvTG5JME9MMmk4T29aU3p6WTFKRGZQamxVWW9zTTc0UC1uR0NxRmJfY2staDNsaXhtdTdyYWk4eXlhdmtvaXBxaFN6?oc=5",
-   "pub": "Fri, 04 Sep 2026 11:07:00 GMT"
-  },
-  {
    "t": "Wie die Müllstadt in Kairo vom Iran-Krieg profitiert - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jck1uRFFJeDU0amZWM080ZXNsc1hlMXpUZHpHN2xzcVRLR2FiQUxnVXdsV05xUkd0MV84ODB4UU0yOHB5enJCaFdKMkpMdW91c2cta2VmVi04bGxXUUxOTGxKUmVwN09UbTBBM0ln?oc=5",
    "pub": "Fri, 04 Sep 2026 10:41:00 GMT"
+  },
+  {
+   "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
+   "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
+  },
+  {
+   "t": "Trumps Iran-Strategie: Droht ein Krieg ohne Ende? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWU1S0JGNHhISTd1UTlQTEVROWhwOTJkQVBjT3pyOGxlZGRjdzdWNXJWZG5SZ3FoUXRVNWU5dVpBMGlvOG5tZ3BfTWpIRF91eEFWSkhualk4TzNFZTdicDUxeWpNTDNrakR1VTJRMnN2ZG1kQmVtVEpITHVOYTNTX3MtSkJBbTjSAYcBQVVfeXFMUGlhMllRMXh1OEZiNktrV0NNSnFLRGsxUXh0STIxZ1hsQnY2RVdtRUdUU0ZVcFZFVzdMR3FJeDVHWkJqamozNEZMUjEtaUZ2RnRna0c3WXA5N1FXdjgtZGd4MFByNVZiRU55UjR5WEUzQzFjNHNDd3BYODRpWEoxTTJrdjYxREhV?oc=5",
+   "pub": "Wed, 02 Sep 2026 15:07:06 GMT"
   }
  ]
 }
