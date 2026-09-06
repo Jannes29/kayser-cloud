@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-06T17:04:39Z",
+ "collected_at": "2026-09-06T19:12:56Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -15,8 +15,8 @@
    "chg1d_pct": 0.31
   },
   "AUDJPY": {
-   "price": 112.543,
-   "chg1d_pct": 0.4
+   "price": 112.15,
+   "chg1d_pct": 0.05
   },
   "EURUSD": {
    "price": 1.1621,
@@ -64,14 +64,9 @@
    "pub": "Sat, 05 Sep 2026 23:09:59 GMT"
   },
   {
-   "t": "Ex-Trump-Vertrauter rechnet ab: Republikaner nennt Iran-Politik ein „Desaster“ - Merkur",
+   "t": "Ex-Trump-Vertrauter rechnet ab: Republikaner nennt Iran-Politik ein „Desaster“ - merkur.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUJLOUJaT3lnUU9jQkxtWXVTMjVxOGN2ekdHWUxQMjlSR1R2NVVwQ3otaW5rMGNwWG04Z0tZNUJTNmFfZlI1Q3FNanBKY0thUmdnX2owT0pZd0MycWd6Vzk5U0RwVFd4T2xKLUx6X2tCamYtcjlkcFREaHJsZ0hCSjFWZHd4Y21jZkFHR3F4WU1aZG8ySXprOHl0cWRMT25wdXJXMUVRV3c1b1FBRjR5YkIteFR5YUtzU2hJQVZ4Zw?oc=5",
    "pub": "Sun, 06 Sep 2026 11:02:12 GMT"
-  },
-  {
-   "t": "US-Armee veröffentlicht Videos: USA attackieren Öltanker – Iran greift US-Schiffe an - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOGRaLVViaTBENkpoSnNxdWtzbGRJSVVJNWRja2Vld2FhWWxydGVuLW5ZNzZVT1otaG9HYlRnemV2bTF4bkpCdzlwdmxZM0FrekJ2TGxvME1CVkd5dXdaNXhKVDdvZzNJTkt5YWxVZUU5T3R5ODZjbUw4Q3dTLXZ1a3NneE5MWkNza2U1a2RleHRYUFpmanpmUks4WkNlS2g2Sm11QjhFVGUwajI4bWFLSk1ma3Qtc0F5QlBZSVpJUGVVVC0yaW9HNEdOQWY2ZXY4T3dHMnVmMG8zN3hidC1ocGxyUG01NFZRRjR6eFNaaFpUU08x?oc=5",
-   "pub": "Sun, 06 Sep 2026 06:39:00 GMT"
   },
   {
    "t": "USA und Iran eskalieren den Krieg auf See: Neue Gefechte um Straße von Hormus - Berliner Zeitung",
@@ -84,19 +79,14 @@
    "pub": "Sun, 06 Sep 2026 07:27:26 GMT"
   },
   {
-   "t": "US-Armee versenkt iranischen Öltanker „M/T Kylo“ – Revolutionsgarden feuern Raketen auf Flugzeugträger - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjVKc1lYYnhmeF9tWUdld1ZkbVcxOFk3VHc1M09OSEZDTXZOc3JLZzRNeW9xclRDQ3FCMV8zVENLR3diRHo0aGcxVTY0TGwwUm02Uk5wWUx1Q1AwVk5HZVF6dWNUeVo4U1RTcU1zVGY4WXY1ajdWWDhXSmpPdUU1ampuaWZvVWduWFdLZjFDd2lSX0ZWOFdVMEdFMHpyV0t5SUVfSDVJYw?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:50:57 GMT"
+   "t": "Iran, der Krieg und die Sanktionen: 366 Quadratmeter, fünf Schlafzimmer, ein dubioser Bankier - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SMzB0ZEt1bXhubmU3TXJnR2RBVUloLUkxSl9iOG1QUEdJcHRpbl96cndaMDgzM0dSOUlYSzFkd3MwdGcwWWlCRHhOandFZDZZeUwtZ1dPT1F3WlVyWWpESElUdU1POGtNeUE?oc=5",
+   "pub": "Sun, 06 Sep 2026 16:08:38 GMT"
   },
   {
-   "t": "Iran-Krieg: Mehrere Öltanker und andere Schiffe attackiert - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamZxZHpVSTBuVGZvTVFHamdic3dkU2FtOE5GSTA1WkhQZDV3WUFRbVZSWGY5VlY4TnBWQUFjZmgzSENqWmpPYWFVUU9vRE8ybHlnaWJaRno1c0hQLTExVWwyV0ptZk1FSk9ndS1FaVctankzWm5qR1dfMjczQm5fMU5YTzdJT1hhdURhendYWkI1a203SXdOSzVOWjVPbjJl?oc=5",
-   "pub": "Sun, 06 Sep 2026 11:46:55 GMT"
-  },
-  {
-   "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
-   "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
+   "t": "„Geänderte Spielregeln“: Iran will härter und schneller auf US-Angriffe reagieren - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDZSUkVrNk9MVzQ0bnpkVVYyTG1qSTBpQXZqQTkxUHFMVFliSTQwcG5SLTZPX19NaGtlU21KQ2prVjh6TVlBSE9VNVZTV01fTXZBclE4OHN4NlZmQU1aYmViSHR5Zm14N05iVFA5TE02ZExtUkF4RDY2dGl3VzkyVWNtelBsZ295WWlDOXU0QjkwS2pWbVJMM3ZldXdqVXF4MFpwbTQxNDZidVNMa28xX3J1OGIxSjV5NW00OFI2cDNDQjRM?oc=5",
+   "pub": "Sun, 06 Sep 2026 15:18:50 GMT"
   },
   {
    "t": "Iran-Krieg: Iran droht den USA mit Eskalation - FAZ",
@@ -104,9 +94,19 @@
    "pub": "Sun, 06 Sep 2026 15:09:38 GMT"
   },
   {
+   "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
+   "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
+  },
+  {
    "t": "Iran meldet Beschuss auf US‑Träger und Zerstörer - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFZIR0M4STdHRzVtTnNpSVhNbTBkaDdzYnJaSEZtX3k4eEtLem9ZTDdzUXoxREZDRGhhNWx2RnY4TU9feEhtZVZQMGJaSFE3RUg4SjNzek9UVldpWmY2MmtwcGhEakJnT2pGeXl1VFpIRkc4OVo2NVdmaFZGVGMtQ3FjcmhnSVBYMUdXS1djTnlubzNZekt6bDVYNlFTUl9GRlpPSkNZNFJfUUhRMXZtNzdiM0ZwMTByRnJVVExqX3FuX2ZtRDdubXZFRVdNcmNjVVVwTjV2RFJUMGs?oc=5",
    "pub": "Sun, 06 Sep 2026 09:37:48 GMT"
+  },
+  {
+   "t": "„Potenziell sogar Jahre“ – Wie der Iran trotz der katastrophalen Lage verteidigungsfähig bleibt - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY21jaHhBcWhqWURYX2xaeWcyNnppQVF4aDB5dmRTQ0l0Y3Q3c3I3SlVxSlZnZVFIY3JpX0FWMTRWN2YzUU5pdmh4ZjJ5SzdQbnpYY1lJOWFLUWhjbEdFbG1CQzNJNUlYVWVUTUg0cmNJdDhCWTkyRXN6ZHRNUE9QdXZLRE1iZWFzWThaaFVKTE9OR2UyaG9Qc0RYNnhfS0U1eENndS1wRHNIVU1VTUhsRllQZDROdWlYNUVNOFEyb2czRFZ4UGRXVVNORlFqcU9LLTJsN2JPWE9yYTM1ellVTnFVYzY4bC1FS2NHQlA3MGNIV2J6SXJxTmJmN2tRUQ?oc=5",
+   "pub": "Sat, 05 Sep 2026 10:45:56 GMT"
   }
  ]
 }
