@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-06T05:58:44Z",
+ "collected_at": "2026-09-06T10:59:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,34 @@
  },
  "headlines": [
   {
+   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
+   "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
+  },
+  {
+   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
+   "pub": "Sat, 05 Sep 2026 19:28:53 GMT"
+  },
+  {
    "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
    "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
   },
   {
-   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
-   "pub": "Sat, 05 Sep 2026 09:57:16 GMT"
+   "t": "Erneute Eskalation am Persischen Golf USA versenken iranischen Öltanker – Iran beschoss US-Flugzeugträger - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON1oyZjNpbEtXbFcxRjdrUGhZRVVhQ01CaHp5MXhER3JOVmhacUM3NnRacUJKZ1lpNzlNVEVDZkRYMk9NQXZnUmF3ZFkydnJQc2RTV0JzZjhnNjR5UHFfR1p3RE9qcGVXLUpFTHNIZVc0UXpKeGtCMEs3YnJJNTRMRDR0RkM4M3M3dDZ6VDE0M3Zfb0ItM1BFb01zelZqRlphYkNyelFUZzNEOW1ubXZ3NWNQdEYtbkFsUy1FWkh1S3lZcDd4SWlfa0NSMHJuVFkwTnlfSnJjNDZoNS16NUVnNXhGMGJIczlsTjBfUXcxcjFFMmxY?oc=5",
+   "pub": "Sun, 06 Sep 2026 07:27:26 GMT"
+  },
+  {
+   "t": "US-Armee versenkt iranischen Öltanker „M/T Kylo“ – Revolutionsgarden feuern Raketen auf Flugzeugträger - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjVKc1lYYnhmeF9tWUdld1ZkbVcxOFk3VHc1M09OSEZDTXZOc3JLZzRNeW9xclRDQ3FCMV8zVENLR3diRHo0aGcxVTY0TGwwUm02Uk5wWUx1Q1AwVk5HZVF6dWNUeVo4U1RTcU1zVGY4WXY1ajdWWDhXSmpPdUU1ampuaWZvVWduWFdLZjFDd2lSX0ZWOFdVMEdFMHpyV0t5SUVfSDVJYw?oc=5",
+   "pub": "Sun, 06 Sep 2026 07:50:57 GMT"
+  },
+  {
+   "t": "Iran: US-Militär zerstört iranische Öltanker in der Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTEwdWtnY2RJY0NOWkxkTUhfYmRQYXVKMThUNDM2eDZyV3I1a2NPYnRpQnFSbnpZbXFLY0U1aVVUbVpwck5xWXE3bnlWUUNvVXJqMk12QW93LXQ1LTNWSnhzd1pPMlRWdDRFOHVDZ3NTNXk3RjFHbjdIeTZ4ZFozdHNDOGZjVGVLbE1xOXZzWS1wSUxPN1JiUUVkX2pTM2NIRHZEbHRoSkxKZjY0ZkhHVnh2Y2xqczJ0Q29rWFcxdVh6R3hncUhUcXpB?oc=5",
+   "pub": "Sat, 05 Sep 2026 17:14:00 GMT"
   },
   {
    "t": "„Potenziell sogar Jahre“ – Wie der Iran trotz der katastrophalen Lage verteidigungsfähig bleibt - welt.de",
@@ -64,14 +84,14 @@
    "pub": "Sat, 05 Sep 2026 10:45:56 GMT"
   },
   {
-   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96YVhzY25odTJCUkdjZDMzdFhGV0RYMGxYS0NtR1Q1VzdoVmRtWFhuRlV6UTFUNTBsZnprNTdNVXFzc2pBaXlxMnVYdlNhNkpXYzkzS0F2Q0FnZk9rV2VB?oc=5",
-   "pub": "Sun, 06 Sep 2026 04:13:29 GMT"
+   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
+   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
   },
   {
-   "t": "Revolutionsgarden: Iran nimmt nach US-Angriff Tanker in Hormus-Meerenge ins Visier - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDcwdzRZM1FQcDladlNhd1lTTm1PZXJndDQtaVo1Y1BXOVBZVk1iWEFNdUVzVFBVZ0R2NXB2M1dJNG9hVS1xMHMzemVMM1lYbV9rUzNxVkQybUV1a2dIVzc1RlUxWFpPSE5ySm5UcWszbE5EQ0Q5WHBYYUJ0X3ZlTDlTQnFKd2ZLUHNVdWFORGVQenFWRjZGWjhMS0xPM3RvRVJWYXlBSEd2d0ZRUWdrSEZ0RzlpZXI3UnViTVl3RQ?oc=5",
-   "pub": "Sat, 05 Sep 2026 22:35:50 GMT"
+   "t": "Rohstoffe: 95 statt 200 Dollar – warum der Öl-Schock im Iran-Krieg ausbleibt - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNkNvZ2tLS2pwdWtaLTZrbC05azAwTWR0TTJhY09zVHdHMjNJeE5yQlNld2ZqbEJ1UTVDYW52ZmNBZ1p4SFd4YldrYi12LUIwVkZlNVpqR0IzTTA4VkNTb0lqQVY0OEp5N3lIU1M0YmdvN0VOR0RjbFpTXzFpa3RrREh6enAwNW42XzM1N1FIZVVwN0VvZEFrWmxxWWZuSF9vX20tcWN1X3ZmV2RTUzBCdWJsdmwxRnFCMzJSUzl6U25OWF84alVyeEtZQzMtOERfNWtONnd1a0QtWEhkbmpkUFdsUHk0bzZB?oc=5",
+   "pub": "Sun, 06 Sep 2026 10:03:18 GMT"
   },
   {
    "t": "Krieg im Iran: USA und Iran greifen sich gegenseitig an - zeit.de",
@@ -79,34 +99,14 @@
    "pub": "Wed, 02 Sep 2026 03:18:28 GMT"
   },
   {
-   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
-   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
+   "t": "Revolutionsgarden: Iran nimmt nach US-Angriff Tanker in Hormus-Meerenge ins Visier - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDcwdzRZM1FQcDladlNhd1lTTm1PZXJndDQtaVo1Y1BXOVBZVk1iWEFNdUVzVFBVZ0R2NXB2M1dJNG9hVS1xMHMzemVMM1lYbV9rUzNxVkQybUV1a2dIVzc1RlUxWFpPSE5ySm5UcWszbE5EQ0Q5WHBYYUJ0X3ZlTDlTQnFKd2ZLUHNVdWFORGVQenFWRjZGWjhMS0xPM3RvRVJWYXlBSEd2d0ZRUWdrSEZ0RzlpZXI3UnViTVl3RQ?oc=5",
+   "pub": "Sat, 05 Sep 2026 22:35:50 GMT"
   },
   {
-   "t": "Trumps Vorgehen im Iran führt offenbar langsam zum Erfolg - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkdjUWg4WHoweXQwN05LRWIxZ3QzS1FMYWU1cUZSZVZQTGJsbWVLemxLdmVVb1NyUGctXzgzZUtJb0V2SmhJTVVQZ0EwcmZ0QzhCT2xDLXEyN1djR1dEeHhLZlg1Q1d0SW9UOXdLVG1fTDdueG5oTHZXTWdIb0RkaW5GS2c2RmIxU2lkdHVkUUNXa3FFV0h0SFdDTE9XWXlfRzctNWZKR2cxbUw5STNpVDlVQnJYMWFyVDJLX19VRHFrYU41ZFdrSFln?oc=5",
-   "pub": "Sat, 05 Sep 2026 13:38:38 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTBPZ0dqZFNmdU5uTDlLMngxSVctbDF0RWZfM3owOFl4WFJWU1p4bHNKQThqWVRSZmNfME1va2hwaEJJX0hRTFZMbGw2TzkyX3FLcmV5UzhrcW9aOUYxTU1CR0pWRzVKa3R1TWpiQkVsZFlHNzNlM1JqQU8zbm5JVjZYZWdKb1JUTHQ0S2JzUFY2SkxaU0FFWnZJZDRjUURxNFFoVUJzd0VTQ0hzSGEzclIxVExpTVppdlozcV9SaVBNeEs4VnNvZDh3MXZoTUE?oc=5",
-   "pub": "Sun, 06 Sep 2026 03:16:14 GMT"
-  },
-  {
-   "t": "US-Militär greift drei iranische Öltanker in Persischen Golf und Golf von Oman an - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzBnSGNKOFpOamV1dWhfVjJQeDhkSFVobWNwUHg4N3dTVkoxWktSM1QwU0xja0pMazhNRmwxNjBrcXpJSGFKM1RwTkZ5M3ZndllpYzlBNkR6WDNrMU9IaHROVlpERnNTcmNPTW94LWZoV2xxLTBFV0NuYjNkUy1QdTBwU01vcjUyc29VTDFqa2ZVam1SVVc4VGZBaC14eHRQUGgzWDgyamJwdm5uejdCY0g0YkFGNEdHNnlZWnBiS09ncnF4?oc=5",
-   "pub": "Sun, 06 Sep 2026 04:23:07 GMT"
-  },
-  {
-   "t": "USA: EU schließt sich neuen Iran-Sanktionen an – Brüssel spricht nur Unterstützung aus - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeDAybEMxbEpZa1o2UkcxNll2aC01QVA3XzFra09YMUd2c2ZvaWVMUll4M1VDc0RjbEdXNldWbEFMMUFDUHpMbmRvVndDcVQ4NnJlOVVlYnk4elFlZFJUYzZvbDNNRnY3N0VMSXk4Z05ZOXZER3d5bmZhcXAxTzNqTE9iQ3Z4VHZaMFFDU3B4Q052OGJObk5QZWh3NVlvem9xMHdqaUxDeGlzUHFqaWNOMVZmVlZvQVRicmtpSkp6dzVua0t2LXVz?oc=5",
-   "pub": "Fri, 04 Sep 2026 07:57:17 GMT"
-  },
-  {
-   "t": "Golf von Oman: USA und Iran beschießen gegenseitig Schiffe – Centcom veröffentlicht Video von sinkendem Tanker - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdUU5MXloTlFEc3VUdmRzV0lyT1RIRmQ3MGF2YlJKOVFiZldoeGdPbFk3dmp6NjY0UWV6ZGpjQlZMTC1qTXdsNTZiZkZfNkMyRUs2aWlXX1BtYm5BTTVrMDg2UWFBazdROWJVM081VW83NGtjbHZuV2d0LTl4Z2NLblFoNzJ2bmNWdWlLUlk5a2h4T1V6YWlxYnJJVkVuaW81WWxGVm0yQ2t0Q180QWE4eFFMSDMwemlQYWRyRjc5MlVabE5IRzcxU3ZwMEhhb0h1dmlDMnFMZDRDREwzcjdlU0cxRzQ4eWpja1JoN3hiWE1pU00zVDFLVHZGWkNIYkM4b2ZnRHNIT0tsTU9QREJJ?oc=5",
-   "pub": "Sun, 06 Sep 2026 03:14:40 GMT"
+   "t": "Iran meldet Beschuss auf US‑Träger und Zerstörer - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFZIR0M4STdHRzVtTnNpSVhNbTBkaDdzYnJaSEZtX3k4eEtLem9ZTDdzUXoxREZDRGhhNWx2RnY4TU9feEhtZVZQMGJaSFE3RUg4SjNzek9UVldpWmY2MmtwcGhEakJnT2pGeXl1VFpIRkc4OVo2NVdmaFZGVGMtQ3FjcmhnSVBYMUdXS1djTnlubzNZekt6bDVYNlFTUl9GRlpPSkNZNFJfUUhRMXZtNzdiM0ZwMTByRnJVVExqX3FuX2ZtRDdubXZFRVdNcmNjVVVwTjV2RFJUMGs?oc=5",
+   "pub": "Sun, 06 Sep 2026 09:37:48 GMT"
   }
  ]
 }
