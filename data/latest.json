@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-09-07T10:20:50Z",
+ "collected_at": "2026-09-07T16:28:29Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8085,
-   "chg1d_pct": 0.12
+   "price": 0.8092,
+   "chg1d_pct": 0.21
   },
   "USDJPY": {
-   "price": 154.578,
-   "chg1d_pct": -0.7
+   "price": 154.366,
+   "chg1d_pct": -0.83
   },
   "GBPCAD": {
-   "price": 1.8709,
-   "chg1d_pct": 0.3
+   "price": 1.8705,
+   "chg1d_pct": 0.27
   },
   "AUDJPY": {
-   "price": 111.581,
-   "chg1d_pct": -0.46
+   "price": 111.428,
+   "chg1d_pct": -0.59
   },
   "EURUSD": {
-   "price": 1.1628,
-   "chg1d_pct": -0.0
+   "price": 1.1631,
+   "chg1d_pct": 0.02
   },
   "GBPCHF": {
-   "price": 1.0946,
-   "chg1d_pct": 0.21
+   "price": 1.0958,
+   "chg1d_pct": 0.31
   },
   "WTI": {
    "price": 91.48,
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - spiegel.de",
+   "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjY0ZU5NMlVkdGt1b1hKYXBYMFRNWW1LX0pjNFdEeHFSeGY1eVlCRnBlVnJ1OEhKalhvUkcyMGY5TU51Tnl2TGVBVWQtTGVZeWJIdWlZa0ljZWJQTmJvZlRUaTk0NFR6YUZRYXJGX2EzZDhfeF94R3pjeExjZVEtSU15QXZHLTZZc1AwOHAwNmtPa2JjQWllb3NrQk1SdHBnQzRfemROQnJrYm12cS1oY0dsLXIzbVF1YktzaFBBM29XSW04T3R3Nnp6bXV4cWNVenp3UjVtaXBQVzBKNzVQNnlZN1ZQNnc?oc=5",
    "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
   },
@@ -59,14 +59,19 @@
    "pub": "Mon, 07 Sep 2026 06:57:29 GMT"
   },
   {
-   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - juedische-allgemeine.de",
+   "t": "Nach Iran-Einsatz: Ehefrau enthüllt, warum tausende US-Soldaten immer noch nicht nach Hause dürfen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTdnLVdZN25HbHdPcDVfWFltWEtCbzcxaURMWEw3UDVmQ2ZwLUhBcFdKbU9rTnRCX2dZbXBRUXBrTUgxWnpGZWp1Vk5HcFl2UmR4aFRTMnVOM0FXQjdIQlA1S3BhOWZJTnE1WjZBX084azRiaWs3MzhGSGhzQmNCZUJUUV9aMkNQaU9wVXlNVXRQTkdhdGVlTlFLTUI2YVM4UEJz?oc=5",
+   "pub": "Mon, 07 Sep 2026 05:00:00 GMT"
+  },
+  {
+   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
    "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
   },
   {
-   "t": "Nach Iran-Einsatz: Ehefrau enthüllt, warum tausende US-Soldaten immer noch nicht nach Hause dürfen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTdnLVdZN25HbHdPcDVfWFltWEtCbzcxaURMWEw3UDVmQ2ZwLUhBcFdKbU9rTnRCX2dZbXBRUXBrTUgxWnpGZWp1Vk5HcFl2UmR4aFRTMnVOM0FXQjdIQlA1S3BhOWZJTnE1WjZBX084azRiaWs3MzhGSGhzQmNCZUJUUV9aMkNQaU9wVXlNVXRQTkdhdGVlTlFLTUI2YVM4UEJz?oc=5",
-   "pub": "Mon, 07 Sep 2026 05:00:00 GMT"
+   "t": "Iran: Neue Anti-Schiffs-Rakete im Einsatz - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNjhfNUFJbkFkUDUzem1xeUtVUnBzcWxucUk1bE5Ud21YVWVrWFZPTWpHalU5bEJJQS1keGlnajJtZTdUbEVhQU1lbWREbzBmUFk2MGZCVlVwUDRvVGZFckgtdlo1Ql9QY2RkbFAyeXIwamlaU053RFc3S2swdFZFcnJhT29PdFhZRkJhNW85MkdXSHIzNTlScm05QnNrMllDMGNKTlpxOTZvdGN6RTdkbDlWcE9BNTM0TkpsbUVLQmZ4YVpqUThRdVBNS2FZQXZCcldIRWdtTjhYT3NtNVlj?oc=5",
+   "pub": "Mon, 07 Sep 2026 09:46:14 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -74,29 +79,14 @@
    "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
   },
   {
-   "t": "„Jedes Schiff auf Sanktionsliste“ – Iran plant „Sperrzone“ um Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZHFkclVIYXVvR1I5ZGp4UUw0QXBVTmxHTHVqWjQwMVM3ajlWM1RvNDJ5RnhUdFhHaEZlNEpSTUJNcURKZjhTS194SmVnX0cteHJ2MjluNVJmcGtrZFpvN0kwNTJhc1Nma3N2T3hTVC1VQVgyY3BtT3VEYmplcnp5amQ2bGdfNWNtalNiamt6M3ZDRTBoMjNTT0JVUGM3LXRrd1VRaHI2UjVBNTlUcFRsTXRpTmI1N19lWWFOR2dPTUdNSUJWNHlDUk40QjlVclZUYXBGU2puQzlwZ09FckotU3VOTnZ6cWFRU2g3UzdoRWR5ZmZxSVQ2cFFwc0w?oc=5",
-   "pub": "Mon, 07 Sep 2026 04:26:41 GMT"
-  },
-  {
    "t": "US-Arbeitsmarkt: Gute Daten setzen FED unter Druck - e-fundresearch.com",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGZBZ2ZYdzR4bE9BTVFpYnlNNkVXREd6R0ktYURVZmVfT283TEE1Rm1HaTZXX08tbTBHY0xjX1VIbHhzUDA1WktFWFo5NW1BaGltaWNMSXNkUG5wU3BTR1JCdDJPSVNfZkQ4REs5cW4yc1B3VzAyNnZtT2F1STlESG9tQWpPMVNKSmJWU09vRTg4X3dnWHFKSjVNWGlTUkwydTVrcHh2dllRLVdDZU9SLWpWSmVWUmI3NEE?oc=5",
    "pub": "Mon, 07 Sep 2026 06:37:00 GMT"
   },
   {
-   "t": "\"Schmerzhaftere Reaktion\": Iran spricht von neuen \"Spielregeln\" im Konflikt mit USA - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1BXZFM4S2o2SDByQVl5S0V6MGNEV2ZxQ3lBakpSNEl2VHBDYjIzNUYtM24taXJ1dHlMZml5VEY5Q1R3TndlY2lCdUVqR09MYkRfbUlLSEFHRFNhVkRzLXBSRHBRcnduS20tSVl5Q1Bfcm9WVS12dDNBdDF0cmROQUZnTHlTX1Zsb3FRS0hscE02WVowb05tR1BjTUpIUmM?oc=5",
-   "pub": "Sun, 06 Sep 2026 13:38:20 GMT"
-  },
-  {
-   "t": "Iran: Neue Anti-Schiffs-Rakete im Einsatz - Baden Online",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WMjE2aGJCTHROclE4ejNNQlNJczVReEl5ZFpkeV93a0pEZ1BqV291TEgtQ3pMZE52ZnRHOFdldVIya3V5RC05Q1dyVERTVWZrNkw5SE5kQW5ObUk2RkcxWVN5dWUtZw?oc=5",
-   "pub": "Mon, 07 Sep 2026 09:52:52 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Iran: Neue Anti-Schiffs-Rakete im Einsatz - Saarbrücker Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdko5d2w0Mlhya0JlbE11OU1sdTNMMHpydjF0cVhQc3BKZzFWSm5tRk5jZjJpZDNrTmRsUWQyYmZtZ3N3bXgtNWFwTFVmaV9Oc01WZjgtekczd1lFUElUdVJQQ1ZGZ1lTNVpWdXRiN3Z5Y05mQU9KU0p0UkszUjVwSlVzSnVDRjA1SnhROVhnUUNtVENjZjR1Zl8zbmMwRUp3N0VvcDFOcXQyM21ZcGgzU3d1TjVTYW05QlE?oc=5",
-   "pub": "Mon, 07 Sep 2026 09:42:00 GMT"
+   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaE9ReDhPR1k4YVlPUGVJZ1liM3NlbWxfRHp2aXJMNlpieUl5TXZZLWtrZGlSY0x6Y3F3WFZORkNiU0I0a1lBeHk5OVNRNWpTdnJOdnhUZ1JPOFZRVl9RZ3p1SlFKRUpGZzlYd1hrLWdmQlI2UlI2OUVES1Zydi1PRlFBVlIxNmdlN1dtWWI3SFBWcVVienlaczEzczNXYVBjWHl3TVJLbmZRT2VWWGw5aWhBZWtxNk9yZGpZ?oc=5",
+   "pub": "Mon, 07 Sep 2026 14:00:00 GMT"
   },
   {
    "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
@@ -104,9 +94,19 @@
    "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
   },
   {
-   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - DW.com",
+   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - dw.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
    "pub": "Sat, 05 Sep 2026 09:57:00 GMT"
+  },
+  {
+   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
+   "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
+  },
+  {
+   "t": "Der Börsen-Tag: Zinsen runter oder Handelsstopp: Trump erpresst die Fed - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEwzZDFIWTF6SVR3TWI0TnlOdnhJbFp3VVJtUDhFMjNjS256elZYd0NTakdOczJJN2NzWkFkUnozQ3d3cWNveXRHSHFCMkpIcVNfNDBTUHFCRnA1aExtTGE0ZTJzNnlDOG5DbXBkZHlfdl9pSnFmWWk5NnJZdjNiM2ZDUVZfbnJDZ3FHUnRWd1V0UjUzZWJLckYxZ2ZjcFZ4S1gycHFoRE5WdzFqeFBKZ1cxQjRCV2hw?oc=5",
+   "pub": "Mon, 07 Sep 2026 14:16:57 GMT"
   }
  ]
 }
