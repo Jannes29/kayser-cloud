@@ -1,55 +1,60 @@
 {
- "collected_at": "2026-09-07T20:35:03Z",
+ "collected_at": "2026-09-07T23:30:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8095,
-   "chg1d_pct": -0.05
+   "price": 0.809,
+   "chg1d_pct": -0.11
   },
   "USDJPY": {
-   "price": 154.34,
-   "chg1d_pct": -1.19
+   "price": 153.908,
+   "chg1d_pct": -1.47
   },
   "GBPCAD": {
    "price": 1.8703,
    "chg1d_pct": 0.03
   },
   "AUDJPY": {
-   "price": 111.409,
-   "chg1d_pct": -1.02
+   "price": 111.133,
+   "chg1d_pct": -1.26
   },
   "EURUSD": {
-   "price": 1.1625,
-   "chg1d_pct": 0.09
+   "price": 1.1632,
+   "chg1d_pct": 0.16
   },
   "GBPCHF": {
-   "price": 1.0961,
-   "chg1d_pct": 0.12
+   "price": 1.0959,
+   "chg1d_pct": 0.11
   },
   "WTI": {
-   "price": 91.48,
-   "chg1d_pct": -0.0
+   "price": 92.6,
+   "chg1d_pct": 1.22
   },
   "BRENT": {
-   "price": 96.28,
-   "chg1d_pct": 0.0
+   "price": 97.22,
+   "chg1d_pct": 0.98
   },
   "GOLD": {
-   "price": 4476.6,
-   "chg1d_pct": 1.06
+   "price": 4457.7,
+   "chg1d_pct": 0.63
   },
   "SPX_FUT": {
-   "price": 7722.0,
-   "chg1d_pct": 0.0
+   "price": 7703.5,
+   "chg1d_pct": -0.24
   },
   "NAS_FUT": {
-   "price": 29565.25,
-   "chg1d_pct": 0.0
+   "price": 29542.75,
+   "chg1d_pct": -0.08
   }
  },
  "headlines": [
   {
-   "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
+   "t": "Iran: Neue Eskalation im Krieg mit USA möglich - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RdGpBUkZHQUNZckVOZHh6NHVmdTg5WEhQNEE5Q195dTNDLXE3UDVtQVFUalJwaGZyQ0Rpdm9VM0cxbkk3M0lGS0x3Z3JCakdEUUtIQ0wtdk83Yml5c3h0c043R2RQNDhZSFREbFdB?oc=5",
+   "pub": "Mon, 07 Sep 2026 23:03:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - spiegel.de",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjY0ZU5NMlVkdGt1b1hKYXBYMFRNWW1LX0pjNFdEeHFSeGY1eVlCRnBlVnJ1OEhKalhvUkcyMGY5TU51Tnl2TGVBVWQtTGVZeWJIdWlZa0ljZWJQTmJvZlRUaTk0NFR6YUZRYXJGX2EzZDhfeF94R3pjeExjZVEtSU15QXZHLTZZc1AwOHAwNmtPa2JjQWllb3NrQk1SdHBnQzRfemROQnJrYm12cS1oY0dsLXIzbVF1YktzaFBBM29XSW04T3R3Nnp6bXV4cWNVenp3UjVtaXBQVzBKNzVQNnlZN1ZQNnc?oc=5",
    "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
   },
@@ -59,14 +64,14 @@
    "pub": "Mon, 07 Sep 2026 06:57:29 GMT"
   },
   {
-   "t": "US-Arbeitsmarkt: Gute Daten setzen FED unter Druck - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGZBZ2ZYdzR4bE9BTVFpYnlNNkVXREd6R0ktYURVZmVfT283TEE1Rm1HaTZXX08tbTBHY0xjX1VIbHhzUDA1WktFWFo5NW1BaGltaWNMSXNkUG5wU3BTR1JCdDJPSVNfZkQ4REs5cW4yc1B3VzAyNnZtT2F1STlESG9tQWpPMVNKSmJWU09vRTg4X3dnWHFKSjVNWGlTUkwydTVrcHh2dllRLVdDZU9SLWpWSmVWUmI3NEE?oc=5",
-   "pub": "Mon, 07 Sep 2026 06:37:00 GMT"
-  },
-  {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
    "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "t": "US-Arbeitsmarkt: Gute Daten setzen FED unter Druck - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGZBZ2ZYdzR4bE9BTVFpYnlNNkVXREd6R0ktYURVZmVfT283TEE1Rm1HaTZXX08tbTBHY0xjX1VIbHhzUDA1WktFWFo5NW1BaGltaWNMSXNkUG5wU3BTR1JCdDJPSVNfZkQ4REs5cW4yc1B3VzAyNnZtT2F1STlESG9tQWpPMVNKSmJWU09vRTg4X3dnWHFKSjVNWGlTUkwydTVrcHh2dllRLVdDZU9SLWpWSmVWUmI3NEE?oc=5",
+   "pub": "Mon, 07 Sep 2026 06:37:00 GMT"
   },
   {
    "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
@@ -74,19 +79,9 @@
    "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
   },
   {
-   "t": "Iran: Neue Anti-Schiffs-Rakete im Einsatz - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNjhfNUFJbkFkUDUzem1xeUtVUnBzcWxucUk1bE5Ud21YVWVrWFZPTWpHalU5bEJJQS1keGlnajJtZTdUbEVhQU1lbWREbzBmUFk2MGZCVlVwUDRvVGZFckgtdlo1Ql9QY2RkbFAyeXIwamlaU053RFc3S2swdFZFcnJhT29PdFhZRkJhNW85MkdXSHIzNTlScm05QnNrMllDMGNKTlpxOTZvdGN6RTdkbDlWcE9BNTM0TkpsbUVLQmZ4YVpqUThRdVBNS2FZQXZCcldIRWdtTjhYT3NtNVlj?oc=5",
-   "pub": "Mon, 07 Sep 2026 09:46:14 GMT"
-  },
-  {
    "t": "Iran plant Repressionsgesetz: Medienkontakte ins Ausland verboten - SRF",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2hSSnh0cEpVVndZcnE1dkRWclVBUERUbHg0RVFJRTBjSFJBdXZJYS1fSnZ4Q3VQVHhYZ2dIa2pOLXc4X05aaVppY2dRRzlfTmhrV29wV0hxZVk3b1B5NDdWNmF5RmFxSEk4bE5Uak4yZTE0TFcxTS1ZTHpYWTA1SU5BS0o1RFVoSXU4M0xOMy1tUFZYQ2hRbnljU01YRUxFOGpidGpMTDVYTXVpcGF1OQ?oc=5",
    "pub": "Mon, 07 Sep 2026 18:37:40 GMT"
-  },
-  {
-   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
   },
   {
    "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - dw.com",
@@ -94,19 +89,24 @@
    "pub": "Sat, 05 Sep 2026 09:57:00 GMT"
   },
   {
-   "t": "Park in Hamburg trägt nun den Namen der im Iran getöteten Jina Mahsa Amini - Hamburger Abendblatt",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUlHV1pjY01nS0RMd0R2TlNfd2R2U092YkZYVlJXQU1EcUFubTl2MVBCV1lXekF5QWl6cEtzenJFTFFfNzdlT1ZBVjJTNWdLX3dWT2FIU1hrb0t1dTRDT0J0REZlRzhTU0t2blA3SGl0UF9Nb2VQM1lLdkN3TUR4VHFTb2NqYnBMLXRqd0syUDVoaWJoRVVjYlIzanhNN0xwNEUzWVZyXzBrVlFveG8yMkw2aHlINUpPMWM1RUhubkhUSGx5Rm12ZWRuQ3NhY3N3dWN0cXgwdDNBb29NMFE?oc=5",
-   "pub": "Mon, 07 Sep 2026 17:30:00 GMT"
+   "t": "Iran kündigt Sperrzone an der Straße von Hormus an – „Jedes Schiff auf die Sanktionsliste“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONEFZUXBBNFRUYVRnUU42MEhoaFBRVHhGMW9VOGNwME1XZlpZQTBHQXpKVXRoQVRsN1dvQU4tTTduYkpyNi13YUZGN0M4aTMxT1d2eFpwQmtCZVIzOU5RcjAzREpTeEk4aGNRZVhuUG01VEc0VzM5d0tXNDNMVEJiSENSb25wUEgxY1lyWE4tY1hmTTlQRUxUY29XczFUTk03MVZBUktfdWRwNzBjUkxPNHhFV3BIR0VPNzNCa0pB?oc=5",
+   "pub": "Mon, 07 Sep 2026 18:27:58 GMT"
   },
   {
-   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
-   "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
+   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
+   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
   },
   {
-   "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
-   "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
+   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
+   "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Iran droht den USA mit Eskalation - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEg3czl3V2MwREJaZjFlLUt5bmhZSHJjcjhzbTBNczIxazY4V0VJaE93Q1VubU84NkMyZFg3bzBYb2ZkaHhrTUVxWWROc0RMWnhGdl9Rc21NY1l5V2V5NlFXYlFTZVYtZ1FYWlV4TWhiSWlXbDJ2QjVMNzAzVGU5RXBZRDVYVDN0cGhwMVloRUM2SHdJSGF3VkVaNGJrSHdwQWFrVUV2OHgydFpP?oc=5",
+   "pub": "Sun, 06 Sep 2026 15:09:38 GMT"
   }
  ]
 }
