@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-09-07T16:28:29Z",
+ "collected_at": "2026-09-07T20:35:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8092,
-   "chg1d_pct": 0.21
+   "price": 0.8095,
+   "chg1d_pct": -0.05
   },
   "USDJPY": {
-   "price": 154.366,
-   "chg1d_pct": -0.83
+   "price": 154.34,
+   "chg1d_pct": -1.19
   },
   "GBPCAD": {
-   "price": 1.8705,
-   "chg1d_pct": 0.27
+   "price": 1.8703,
+   "chg1d_pct": 0.03
   },
   "AUDJPY": {
-   "price": 111.428,
-   "chg1d_pct": -0.59
+   "price": 111.409,
+   "chg1d_pct": -1.02
   },
   "EURUSD": {
-   "price": 1.1631,
-   "chg1d_pct": 0.02
+   "price": 1.1625,
+   "chg1d_pct": 0.09
   },
   "GBPCHF": {
-   "price": 1.0958,
-   "chg1d_pct": 0.31
+   "price": 1.0961,
+   "chg1d_pct": 0.12
   },
   "WTI": {
    "price": 91.48,
@@ -59,9 +59,14 @@
    "pub": "Mon, 07 Sep 2026 06:57:29 GMT"
   },
   {
-   "t": "Nach Iran-Einsatz: Ehefrau enthüllt, warum tausende US-Soldaten immer noch nicht nach Hause dürfen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTdnLVdZN25HbHdPcDVfWFltWEtCbzcxaURMWEw3UDVmQ2ZwLUhBcFdKbU9rTnRCX2dZbXBRUXBrTUgxWnpGZWp1Vk5HcFl2UmR4aFRTMnVOM0FXQjdIQlA1S3BhOWZJTnE1WjZBX084azRiaWs3MzhGSGhzQmNCZUJUUV9aMkNQaU9wVXlNVXRQTkdhdGVlTlFLTUI2YVM4UEJz?oc=5",
-   "pub": "Mon, 07 Sep 2026 05:00:00 GMT"
+   "t": "US-Arbeitsmarkt: Gute Daten setzen FED unter Druck - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGZBZ2ZYdzR4bE9BTVFpYnlNNkVXREd6R0ktYURVZmVfT283TEE1Rm1HaTZXX08tbTBHY0xjX1VIbHhzUDA1WktFWFo5NW1BaGltaWNMSXNkUG5wU3BTR1JCdDJPSVNfZkQ4REs5cW4yc1B3VzAyNnZtT2F1STlESG9tQWpPMVNKSmJWU09vRTg4X3dnWHFKSjVNWGlTUkwydTVrcHh2dllRLVdDZU9SLWpWSmVWUmI3NEE?oc=5",
+   "pub": "Mon, 07 Sep 2026 06:37:00 GMT"
+  },
+  {
+   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
+   "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
   },
   {
    "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
@@ -74,19 +79,9 @@
    "pub": "Mon, 07 Sep 2026 09:46:14 GMT"
   },
   {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
-  },
-  {
-   "t": "US-Arbeitsmarkt: Gute Daten setzen FED unter Druck - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGZBZ2ZYdzR4bE9BTVFpYnlNNkVXREd6R0ktYURVZmVfT283TEE1Rm1HaTZXX08tbTBHY0xjX1VIbHhzUDA1WktFWFo5NW1BaGltaWNMSXNkUG5wU3BTR1JCdDJPSVNfZkQ4REs5cW4yc1B3VzAyNnZtT2F1STlESG9tQWpPMVNKSmJWU09vRTg4X3dnWHFKSjVNWGlTUkwydTVrcHh2dllRLVdDZU9SLWpWSmVWUmI3NEE?oc=5",
-   "pub": "Mon, 07 Sep 2026 06:37:00 GMT"
-  },
-  {
-   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaE9ReDhPR1k4YVlPUGVJZ1liM3NlbWxfRHp2aXJMNlpieUl5TXZZLWtrZGlSY0x6Y3F3WFZORkNiU0I0a1lBeHk5OVNRNWpTdnJOdnhUZ1JPOFZRVl9RZ3p1SlFKRUpGZzlYd1hrLWdmQlI2UlI2OUVES1Zydi1PRlFBVlIxNmdlN1dtWWI3SFBWcVVienlaczEzczNXYVBjWHl3TVJLbmZRT2VWWGw5aWhBZWtxNk9yZGpZ?oc=5",
-   "pub": "Mon, 07 Sep 2026 14:00:00 GMT"
+   "t": "Iran plant Repressionsgesetz: Medienkontakte ins Ausland verboten - SRF",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2hSSnh0cEpVVndZcnE1dkRWclVBUERUbHg0RVFJRTBjSFJBdXZJYS1fSnZ4Q3VQVHhYZ2dIa2pOLXc4X05aaVppY2dRRzlfTmhrV29wV0hxZVk3b1B5NDdWNmF5RmFxSEk4bE5Uak4yZTE0TFcxTS1ZTHpYWTA1SU5BS0o1RFVoSXU4M0xOMy1tUFZYQ2hRbnljU01YRUxFOGpidGpMTDVYTXVpcGF1OQ?oc=5",
+   "pub": "Mon, 07 Sep 2026 18:37:40 GMT"
   },
   {
    "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
@@ -99,14 +94,19 @@
    "pub": "Sat, 05 Sep 2026 09:57:00 GMT"
   },
   {
-   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews.com",
+   "t": "Park in Hamburg trägt nun den Namen der im Iran getöteten Jina Mahsa Amini - Hamburger Abendblatt",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdUlHV1pjY01nS0RMd0R2TlNfd2R2U092YkZYVlJXQU1EcUFubTl2MVBCV1lXekF5QWl6cEtzenJFTFFfNzdlT1ZBVjJTNWdLX3dWT2FIU1hrb0t1dTRDT0J0REZlRzhTU0t2blA3SGl0UF9Nb2VQM1lLdkN3TUR4VHFTb2NqYnBMLXRqd0syUDVoaWJoRVVjYlIzanhNN0xwNEUzWVZyXzBrVlFveG8yMkw2aHlINUpPMWM1RUhubkhUSGx5Rm12ZWRuQ3NhY3N3dWN0cXgwdDNBb29NMFE?oc=5",
+   "pub": "Mon, 07 Sep 2026 17:30:00 GMT"
+  },
+  {
+   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
    "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
   },
   {
-   "t": "Der Börsen-Tag: Zinsen runter oder Handelsstopp: Trump erpresst die Fed - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEwzZDFIWTF6SVR3TWI0TnlOdnhJbFp3VVJtUDhFMjNjS256elZYd0NTakdOczJJN2NzWkFkUnozQ3d3cWNveXRHSHFCMkpIcVNfNDBTUHFCRnA1aExtTGE0ZTJzNnlDOG5DbXBkZHlfdl9pSnFmWWk5NnJZdjNiM2ZDUVZfbnJDZ3FHUnRWd1V0UjUzZWJLckYxZ2ZjcFZ4S1gycHFoRE5WdzFqeFBKZ1cxQjRCV2hw?oc=5",
-   "pub": "Mon, 07 Sep 2026 14:16:57 GMT"
+   "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
+   "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
   }
  ]
 }
