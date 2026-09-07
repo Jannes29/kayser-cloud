@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-09-06T23:56:02Z",
+ "collected_at": "2026-09-07T04:44:36Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8098,
-   "chg1d_pct": 0.28
+   "price": 0.8107,
+   "chg1d_pct": 0.4
   },
   "USDJPY": {
-   "price": 156.158,
-   "chg1d_pct": 0.32
+   "price": 156.079,
+   "chg1d_pct": 0.27
   },
   "GBPCAD": {
-   "price": 1.8698,
-   "chg1d_pct": 0.24
+   "price": 1.8693,
+   "chg1d_pct": 0.21
   },
   "AUDJPY": {
-   "price": 112.551,
-   "chg1d_pct": 0.41
+   "price": 112.408,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.1618,
-   "chg1d_pct": -0.09
+   "price": 1.1613,
+   "chg1d_pct": -0.13
   },
   "GBPCHF": {
-   "price": 1.0948,
-   "chg1d_pct": 0.22
+   "price": 1.0951,
+   "chg1d_pct": 0.25
   },
   "WTI": {
    "price": 91.48,
@@ -49,19 +49,34 @@
  },
  "headlines": [
   {
+   "t": "Iran plant offenbar Sperrzone außerhalb der Straße von Hormus am Persischen Golf - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjY0ZU5NMlVkdGt1b1hKYXBYMFRNWW1LX0pjNFdEeHFSeGY1eVlCRnBlVnJ1OEhKalhvUkcyMGY5TU51Tnl2TGVBVWQtTGVZeWJIdWlZa0ljZWJQTmJvZlRUaTk0NFR6YUZRYXJGX2EzZDhfeF94R3pjeExjZVEtSU15QXZHLTZZc1AwOHAwNmtPa2JjQWllb3NrQk1SdHBnQzRfemROQnJrYm12cS1oY0dsLXIzbVF1YktzaFBBM29XSW04T3R3Nnp6bXV4cWNVenp3UjVtaXBQVzBKNzVQNnlZN1ZQNnc?oc=5",
+   "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
+  },
+  {
    "t": "\"Schmerzhaftere Reaktion\": Iran spricht von neuen \"Spielregeln\" im Konflikt mit USA - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1BXZFM4S2o2SDByQVl5S0V6MGNEV2ZxQ3lBakpSNEl2VHBDYjIzNUYtM24taXJ1dHlMZml5VEY5Q1R3TndlY2lCdUVqR09MYkRfbUlLSEFHRFNhVkRzLXBSRHBRcnduS20tSVl5Q1Bfcm9WVS12dDNBdDF0cmROQUZnTHlTX1Zsb3FRS0hscE02WVowb05tR1BjTUpIUmM?oc=5",
    "pub": "Sun, 06 Sep 2026 13:38:20 GMT"
   },
   {
+   "t": "„Jedes Schiff auf Sanktionsliste“ – Iran plant „Sperrzone“ um Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZHFkclVIYXVvR1I5ZGp4UUw0QXBVTmxHTHVqWjQwMVM3ajlWM1RvNDJ5RnhUdFhHaEZlNEpSTUJNcURKZjhTS194SmVnX0cteHJ2MjluNVJmcGtrZFpvN0kwNTJhc1Nma3N2T3hTVC1VQVgyY3BtT3VEYmplcnp5amQ2bGdfNWNtalNiamt6M3ZDRTBoMjNTT0JVUGM3LXRrd1VRaHI2UjVBNTlUcFRsTXRpTmI1N19lWWFOR2dPTUdNSUJWNHlDUk40QjlVclZUYXBGU2puQzlwZ09FckotU3VOTnZ6cWFRU2g3UzdoRWR5ZmZxSVQ2cFFwc0w?oc=5",
+   "pub": "Mon, 07 Sep 2026 04:26:41 GMT"
+  },
+  {
+   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
+   "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
+   "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
+  },
+  {
    "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
    "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
-  },
-  {
-   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
-   "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
   },
   {
    "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - DW.com",
@@ -74,7 +89,12 @@
    "pub": "Sun, 06 Sep 2026 11:02:12 GMT"
   },
   {
-   "t": "USA und Iran eskalieren den Krieg auf See: Neue Gefechte um Straße von Hormus - berliner-zeitung.de",
+   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
+   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
+  },
+  {
+   "t": "USA und Iran eskalieren den Krieg auf See: Neue Gefechte um Straße von Hormus - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWFpQUJrdkZEempnUGo2R3J2S3hCN1JkYXM5N0c3LW43ZDJFQlR2VEdyMFRVQ2w0NXlEZFFlZlJPLXdXd0FybmQzaFhfX0ZZdnFlOVR6LVYxYXVUV2NGc1Q0cGVKRkd5QU91MWtzTkVGZUJrNV9QWEtRV0NrR3FFZ1JBUGZqVVBXamxHc2FvU29ITm5ZNXctZ2wxSW03OTd4bEdvUE05WHBoR0ZpNDFpQ3JNSGRyU0FFLVRUVncyRWY5RE9E?oc=5",
    "pub": "Sun, 06 Sep 2026 07:58:17 GMT"
   },
@@ -84,29 +104,9 @@
    "pub": "Sun, 06 Sep 2026 21:28:19 GMT"
   },
   {
-   "t": "„Potenziell sogar Jahre“ – Wie der Iran trotz der katastrophalen Lage verteidigungsfähig bleibt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY21jaHhBcWhqWURYX2xaeWcyNnppQVF4aDB5dmRTQ0l0Y3Q3c3I3SlVxSlZnZVFIY3JpX0FWMTRWN2YzUU5pdmh4ZjJ5SzdQbnpYY1lJOWFLUWhjbEdFbG1CQzNJNUlYVWVUTUg0cmNJdDhCWTkyRXN6ZHRNUE9QdXZLRE1iZWFzWThaaFVKTE9OR2UyaG9Qc0RYNnhfS0U1eENndS1wRHNIVU1VTUhsRllQZDROdWlYNUVNOFEyb2czRFZ4UGRXVVNORlFqcU9LLTJsN2JPWE9yYTM1ellVTnFVYzY4bC1FS2NHQlA3MGNIV2J6SXJxTmJmN2tRUQ?oc=5",
-   "pub": "Sat, 05 Sep 2026 10:45:56 GMT"
-  },
-  {
-   "t": "Erneute Eskalation am Persischen Golf USA versenken iranischen Öltanker – Iran beschoss US-Flugzeugträger - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON1oyZjNpbEtXbFcxRjdrUGhZRVVhQ01CaHp5MXhER3JOVmhacUM3NnRacUJKZ1lpNzlNVEVDZkRYMk9NQXZnUmF3ZFkydnJQc2RTV0JzZjhnNjR5UHFfR1p3RE9qcGVXLUpFTHNIZVc0UXpKeGtCMEs3YnJJNTRMRDR0RkM4M3M3dDZ6VDE0M3Zfb0ItM1BFb01zelZqRlphYkNyelFUZzNEOW1ubXZ3NWNQdEYtbkFsUy1FWkh1S3lZcDd4SWlfa0NSMHJuVFkwTnlfSnJjNDZoNS16NUVnNXhGMGJIczlsTjBfUXcxcjFFMmxY?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:27:26 GMT"
-  },
-  {
    "t": "Iran-Krieg: Iran droht den USA mit Eskalation - FAZ",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEg3czl3V2MwREJaZjFlLUt5bmhZSHJjcjhzbTBNczIxazY4V0VJaE93Q1VubU84NkMyZFg3bzBYb2ZkaHhrTUVxWWROc0RMWnhGdl9Rc21NY1l5V2V5NlFXYlFTZVYtZ1FYWlV4TWhiSWlXbDJ2QjVMNzAzVGU5RXBZRDVYVDN0cGhwMVloRUM2SHdJSGF3VkVaNGJrSHdwQWFrVUV2OHgydFpP?oc=5",
    "pub": "Sun, 06 Sep 2026 15:09:38 GMT"
-  },
-  {
-   "t": "Wohl mehrere Tanker getroffen: Iran und USA beschießen gegenseitig Schiffe - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXFiSGtVeTh2dWNGNDBqdVpNRWgxR09PeEl1ZzE4UjJ0aW54U2pQX3B0VlBwZFpzLXoxczRhMFJQNFU0MnNtWEF0N1JlQlF2bU5tMXhGcHBZei1jbGwzalplTkJhTUxScWRSdWlwV0drZ0hybHE0cVROaXdSRGpMUkY1OVA4clMyWTI4NWNXYktLQQ?oc=5",
-   "pub": "Sun, 06 Sep 2026 00:43:12 GMT"
-  },
-  {
-   "t": "Iran meldet Beschuss auf US‑Träger und Zerstörer - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVFZIR0M4STdHRzVtTnNpSVhNbTBkaDdzYnJaSEZtX3k4eEtLem9ZTDdzUXoxREZDRGhhNWx2RnY4TU9feEhtZVZQMGJaSFE3RUg4SjNzek9UVldpWmY2MmtwcGhEakJnT2pGeXl1VFpIRkc4OVo2NVdmaFZGVGMtQ3FjcmhnSVBYMUdXS1djTnlubzNZekt6bDVYNlFTUl9GRlpPSkNZNFJfUUhRMXZtNzdiM0ZwMTByRnJVVExqX3FuX2ZtRDdubXZFRVdNcmNjVVVwTjV2RFJUMGs?oc=5",
-   "pub": "Sun, 06 Sep 2026 11:37:02 GMT"
   }
  ]
 }
