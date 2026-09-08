@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-08T18:42:02Z",
+ "collected_at": "2026-09-08T21:52:20Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8088,
-   "chg1d_pct": -0.14
+   "price": 0.8086,
+   "chg1d_pct": -0.05
   },
   "USDJPY": {
-   "price": 154.078,
-   "chg1d_pct": -1.36
+   "price": 153.869,
+   "chg1d_pct": 0.01
   },
   "GBPCAD": {
-   "price": 1.8666,
-   "chg1d_pct": -0.17
+   "price": 1.8648,
+   "chg1d_pct": -0.27
   },
   "AUDJPY": {
-   "price": 111.328,
-   "chg1d_pct": -1.09
+   "price": 111.068,
+   "chg1d_pct": -0.02
   },
   "EURUSD": {
-   "price": 1.1633,
-   "chg1d_pct": 0.16
+   "price": 1.1629,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0958,
-   "chg1d_pct": 0.1
-  },
-  "WTI": {
-   "price": 92.9,
-   "chg1d_pct": 1.55
-  },
-  "BRENT": {
-   "price": 97.74,
-   "chg1d_pct": 1.52
-  },
-  "GOLD": {
-   "price": 4426.5,
+   "price": 1.095,
    "chg1d_pct": -0.07
   },
+  "WTI": {
+   "price": 94.25,
+   "chg1d_pct": 3.03
+  },
+  "BRENT": {
+   "price": 99.31,
+   "chg1d_pct": 3.15
+  },
+  "GOLD": {
+   "price": 4400.0,
+   "chg1d_pct": -0.67
+  },
   "SPX_FUT": {
-   "price": 7696.5,
-   "chg1d_pct": -0.33
+   "price": 7678.25,
+   "chg1d_pct": -0.57
   },
   "NAS_FUT": {
-   "price": 29593.75,
-   "chg1d_pct": 0.1
+   "price": 29525.75,
+   "chg1d_pct": -0.13
   }
  },
  "headlines": [
@@ -54,19 +54,19 @@
    "pub": "Mon, 07 Sep 2026 23:03:00 GMT"
   },
   {
-   "t": "Der Iran greift die USA jetzt auch auf See an - augsburger-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURsa2c0Rm44NjIydmEyR0YtSnREN01tdmNlTVc1c24wa2dlazFFelBUaUFBbDdIdTVxX2NhR2tGeGhtc1NoTVVtUDBmYWtVN0dpdkk0TzkyeFZGZG1NSFdOVnlQSzhiUXRsU3BjaUhydXRyQUlkODc3MkJPdU5TTktrb1pmS2pKWHJ6Sm5uTmFURDk5X2xkU2FsSTZBaEw4aWl6NFhVcGViNjA1RTJKMkhpVV9yWFFMVmRVbVVn?oc=5",
-   "pub": "Tue, 08 Sep 2026 07:42:45 GMT"
-  },
-  {
    "t": "Krieg in Golfregion: Iran spricht von Fortschritten bei Gesprächen mit Oman über Straße von Hormus - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM080QXpLMEVKcGVneDl0bFFLckMxSWU4amh5VUlaMUIyZGhpcDc3UGtWQ08wMWRjb0VSZF90WlA0WDFUTGNKUzRvem0zNWxzbjk4RTU2Ujd3V05pMENDbjdObHVxUU1aeTdjMFMyTzhkbzNGSjNEcmVZRzFUaHpZTzI1bFREVXdUVnM5YnZUR25vSmR0aHZsYjh1NElCcHFaMHlUaVVBY21xMlotbUlMVVFnWHhGTVFZMkVHcng0Q0o?oc=5",
    "pub": "Tue, 08 Sep 2026 13:46:09 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran meldet Einsatz neuer Anti-Schiffs-Rakete - Logistik Heute",
+   "t": "Straße von Hormus: Iran meldet Einsatz neuer Anti-Schiffs-Rakete - logistik-heute.de",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdrNkdZTlVialVydjFlN3JpY2ZuVVdZcFNrcVVKanVCOEc5TTBPTlpmTmhoMnBUZVRWOXJZUUE0NmdjQXZqNXdQcXdHY0lQQWl4czZqQVNjQWt2T3VIaU9UeDVQem1BVjZWa3VYSWdkQ2FETTlmZWZlR1piaWhyaDhJTkpxS0RuRms4TDBqZHQ0aUR2TmVoQm00ZFJkVW1NLXp3dE5MV29FZE0?oc=5",
    "pub": "Mon, 07 Sep 2026 13:11:00 GMT"
+  },
+  {
+   "t": "Macht Trump seine Drohung wahr? Iran meldet Explosionen auf Öl-Insel Charg - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjh3T3RGcFRVNkxQeDhrTGZKWXdTcUtFUEhTdUdGcHNvOGtTTVFPTnAzVGNRSHBWeUZHU0FnTDdnSUgwa051M0d5SXR2dnBrYmo1ZElLa21vdUd5dXVzQThKTEFZbENjMG5wcDJ4aTZTZUprenhRVDAxTTNiWV9JZFZmRVMxX2Z6YzQzRjVJRnp6cDEzZFlJb3Mzdzd3OGVBX1RVSE92TUtuQ3FjMzlHRWRMdGM?oc=5",
+   "pub": "Tue, 08 Sep 2026 20:08:49 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -74,9 +74,9 @@
    "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
   },
   {
-   "t": "Iran: US-Israelische Angriffe im März 2026 verursachten verheerende zivile Schäden – Amnesty fordert Untersuchung möglicher Kriegsverbrechen - Amnesty International Österreich",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM2hFbnVJRi1xdENyeFhzamgtTjNIbEhSdHBKYV9OVU5fQTc2eFZrZHRtazBjelpNbGozaXcwd2Z0NG1LMHNENHRGSVJYZklZMFhSZllhZFc1dk5PRlctV0toMTgzaldsN2RoWF9IOG1HY2hvbHp4OTJBU0NPOWE5eVpMTXRVajU1dXRrTDAwbjlMblBpcEg3VEZlbWw2OVFpNWJ6SFpfOEs2WXZ6blExZWJiRDBIREZKMWZ5aGFhcGIxWlF6ZzVwMXVlcFZMUW9sQkU0WG1aUzBoNU1MVVg0VDhUVzJyMTQwMlQ4UldMcHZWTHJJNEJNYjRVRlZrd1Ey?oc=5",
-   "pub": "Tue, 08 Sep 2026 11:05:22 GMT"
+   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
+   "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
@@ -84,9 +84,9 @@
    "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
   },
   {
-   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
-   "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
+   "t": "Iran: US-Israelische Angriffe im März 2026 verursachten verheerende zivile Schäden – Amnesty fordert Untersuchung möglicher Kriegsverbrechen - Amnesty International Österreich",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM2hFbnVJRi1xdENyeFhzamgtTjNIbEhSdHBKYV9OVU5fQTc2eFZrZHRtazBjelpNbGozaXcwd2Z0NG1LMHNENHRGSVJYZklZMFhSZllhZFc1dk5PRlctV0toMTgzaldsN2RoWF9IOG1HY2hvbHp4OTJBU0NPOWE5eVpMTXRVajU1dXRrTDAwbjlMblBpcEg3VEZlbWw2OVFpNWJ6SFpfOEs2WXZ6blExZWJiRDBIREZKMWZ5aGFhcGIxWlF6ZzVwMXVlcFZMUW9sQkU0WG1aUzBoNU1MVVg0VDhUVzJyMTQwMlQ4UldMcHZWTHJJNEJNYjRVRlZrd1Ey?oc=5",
+   "pub": "Tue, 08 Sep 2026 11:05:22 GMT"
   },
   {
    "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - Frankfurter Rundschau",
@@ -94,19 +94,19 @@
    "pub": "Tue, 08 Sep 2026 03:07:33 GMT"
   },
   {
-   "t": "Iran feuert Anti-Schiffs-Raketen - THB - Täglicher Hafenbericht",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUFKRmRkYWhyN1FpUTg4LUFwVkVVY2lIdkc3RUJOYU10ZmhMalFwTkhhSVhwZ3o2cUd1Z1hCalVWVFlCa2hCSktnYkJUSVprYW9rWV9DRlNwOGRHWkc1ZDZ6ZFlualVSbmltUmVIc3VHZHJtbWRPVEJGMzFzNDFZOWZJRVRxUVRZTmdoU2k5SUJtbVdTVF9rbFNmS0VxSmZ5?oc=5",
-   "pub": "Tue, 08 Sep 2026 13:21:31 GMT"
+   "t": "Iran: »Dank an die Regierung: Wenn ich protestiere, wird sie mich hinrichten« - Mena-Watch",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pbGZPLXhXSTJEN1Z2OERWSDB3RlB5YTg0VDhHT2gwYnNDckNwcmxQTkhsV1FIT3cxOUZzRnl5elR4UEZRSmE4aW1ucGo1d0pFNkZWeFhNQm1neW1yQ3R3?oc=5",
+   "pub": "Tue, 08 Sep 2026 14:12:02 GMT"
   },
   {
-   "t": "Yen und Japans Zinswende: Was Tech-Anleger jetzt wissen müssen - Der Aktionär",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcG0xQXRJWjY5bkk3NDREclByazc3N0xzc0pqZ1ZTcURma051MHM4azVFZ2RLQ2o4WnBDOXcyLWlOQ1IzS21lZlhHUkJMaU50dnVGc2lpaWd1OFJPVzBUajQtOHVQbHcyVEhMUkFpWlVmcVBOVTZ0a3RFQUFocnpQM0dXYXR4c1RidWhsZmtidXFZZGgxT1RYbG5oU2pfcS1ucnM2amVLMUxJblVBQmRtSnU5TW54MU9adGwzTUVaZldBTEVmTzNkcTlFdXNYNU0?oc=5",
-   "pub": "Tue, 08 Sep 2026 07:27:40 GMT"
+   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURsa2c0Rm44NjIydmEyR0YtSnREN01tdmNlTVc1c24wa2dlazFFelBUaUFBbDdIdTVxX2NhR2tGeGhtc1NoTVVtUDBmYWtVN0dpdkk0TzkyeFZGZG1NSFdOVnlQSzhiUXRsU3BjaUhydXRyQUlkODc3MkJPdU5TTktrb1pmS2pKWHJ6Sm5uTmFURDk5X2xkU2FsSTZBaEw4aWl6NFhVcGViNjA1RTJKMkhpVV9yWFFMVmRVbVVn?oc=5",
+   "pub": "Tue, 08 Sep 2026 07:42:45 GMT"
   },
   {
-   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
-   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
+   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
+   "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
   }
  ]
 }
