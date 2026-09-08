@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-08T14:33:38Z",
+ "collected_at": "2026-09-08T18:42:02Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8089,
-   "chg1d_pct": -0.13
+   "price": 0.8088,
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
-   "price": 153.946,
-   "chg1d_pct": -1.44
+   "price": 154.078,
+   "chg1d_pct": -1.36
   },
   "GBPCAD": {
-   "price": 1.8654,
-   "chg1d_pct": -0.23
+   "price": 1.8666,
+   "chg1d_pct": -0.17
   },
   "AUDJPY": {
-   "price": 111.267,
-   "chg1d_pct": -1.15
+   "price": 111.328,
+   "chg1d_pct": -1.09
   },
   "EURUSD": {
-   "price": 1.1631,
-   "chg1d_pct": 0.15
+   "price": 1.1633,
+   "chg1d_pct": 0.16
   },
   "GBPCHF": {
-   "price": 1.0964,
-   "chg1d_pct": 0.15
+   "price": 1.0958,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 93.45,
-   "chg1d_pct": 2.15
+   "price": 92.9,
+   "chg1d_pct": 1.55
   },
   "BRENT": {
-   "price": 98.29,
-   "chg1d_pct": 2.09
+   "price": 97.74,
+   "chg1d_pct": 1.52
   },
   "GOLD": {
-   "price": 4442.4,
-   "chg1d_pct": 0.28
+   "price": 4426.5,
+   "chg1d_pct": -0.07
   },
   "SPX_FUT": {
-   "price": 7686.5,
-   "chg1d_pct": -0.46
+   "price": 7696.5,
+   "chg1d_pct": -0.33
   },
   "NAS_FUT": {
-   "price": 29501.5,
-   "chg1d_pct": -0.22
+   "price": 29593.75,
+   "chg1d_pct": 0.1
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Mon, 07 Sep 2026 23:03:00 GMT"
   },
   {
-   "t": "Krieg in Golfregion: Iran spricht von Fortschritten bei Gesprächen mit Oman über Straße von Hormus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM080QXpLMEVKcGVneDl0bFFLckMxSWU4amh5VUlaMUIyZGhpcDc3UGtWQ08wMWRjb0VSZF90WlA0WDFUTGNKUzRvem0zNWxzbjk4RTU2Ujd3V05pMENDbjdObHVxUU1aeTdjMFMyTzhkbzNGSjNEcmVZRzFUaHpZTzI1bFREVXdUVnM5YnZUR25vSmR0aHZsYjh1NElCcHFaMHlUaVVBY21xMlotbUlMVVFnWHhGTVFZMkVHcng0Q0o?oc=5",
-   "pub": "Tue, 08 Sep 2026 13:46:09 GMT"
-  },
-  {
    "t": "Der Iran greift die USA jetzt auch auf See an - augsburger-allgemeine.de",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURsa2c0Rm44NjIydmEyR0YtSnREN01tdmNlTVc1c24wa2dlazFFelBUaUFBbDdIdTVxX2NhR2tGeGhtc1NoTVVtUDBmYWtVN0dpdkk0TzkyeFZGZG1NSFdOVnlQSzhiUXRsU3BjaUhydXRyQUlkODc3MkJPdU5TTktrb1pmS2pKWHJ6Sm5uTmFURDk5X2xkU2FsSTZBaEw4aWl6NFhVcGViNjA1RTJKMkhpVV9yWFFMVmRVbVVn?oc=5",
    "pub": "Tue, 08 Sep 2026 07:42:45 GMT"
+  },
+  {
+   "t": "Krieg in Golfregion: Iran spricht von Fortschritten bei Gesprächen mit Oman über Straße von Hormus - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM080QXpLMEVKcGVneDl0bFFLckMxSWU4amh5VUlaMUIyZGhpcDc3UGtWQ08wMWRjb0VSZF90WlA0WDFUTGNKUzRvem0zNWxzbjk4RTU2Ujd3V05pMENDbjdObHVxUU1aeTdjMFMyTzhkbzNGSjNEcmVZRzFUaHpZTzI1bFREVXdUVnM5YnZUR25vSmR0aHZsYjh1NElCcHFaMHlUaVVBY21xMlotbUlMVVFnWHhGTVFZMkVHcng0Q0o?oc=5",
+   "pub": "Tue, 08 Sep 2026 13:46:09 GMT"
   },
   {
    "t": "Straße von Hormus: Iran meldet Einsatz neuer Anti-Schiffs-Rakete - Logistik Heute",
@@ -69,14 +69,14 @@
    "pub": "Mon, 07 Sep 2026 13:11:00 GMT"
   },
   {
-   "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWjRXWHNtaFdISmxCU1liZF9uX1lFdENicGFBR2FlYjJ6TjMtOVdjelM3UHJjY0FJX0c5SjRIZk41T014WWNQLUNXNmowRkZUVjhaMTdjcVVsa21wdnZNNkFvQkFLTXJwVktsQVZyVTdsUGpRak1KbU1Qb3VtRGtqRWhNNnlCcDJGYlJFZDFRY0l6a1EwR0UtOEZ1bnFIaHJDTk9OZDluQzhiWEVUSjlCRlUxUDF4dDlvanFvamdOQzlzbGxsNjdGLXJWTGp5N0VHVkVreHQ1ekZ5OWM?oc=5",
-   "pub": "Tue, 08 Sep 2026 03:07:33 GMT"
+   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
+   "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
   },
   {
    "t": "Iran: US-Israelische Angriffe im März 2026 verursachten verheerende zivile Schäden – Amnesty fordert Untersuchung möglicher Kriegsverbrechen - Amnesty International Österreich",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM2hFbnVJRi1xdENyeFhzamgtTjNIbEhSdHBKYV9OVU5fQTc2eFZrZHRtazBjelpNbGozaXcwd2Z0NG1LMHNENHRGSVJYZklZMFhSZllhZFc1dk5PRlctV0toMTgzaldsN2RoWF9IOG1HY2hvbHp4OTJBU0NPOWE5eVpMTXRVajU1dXRrTDAwbjlMblBpcEg3VEZlbWw2OVFpNWJ6SFpfOEs2WXZ6blExZWJiRDBIREZKMWZ5aGFhcGIxWlF6ZzVwMXVlcFZMUW9sQkU0WG1aUzBoNU1MVVg0VDhUVzJyMTQwMlQ4UldMcHZWTHJJNEJNYjRVRlZrd1Ey?oc=5",
-   "pub": "Tue, 08 Sep 2026 11:05:26 GMT"
+   "pub": "Tue, 08 Sep 2026 11:05:22 GMT"
   },
   {
    "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
@@ -84,14 +84,14 @@
    "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
   },
   {
-   "t": "Yen und Japans Zinswende: Was Tech-Anleger jetzt wissen müssen - Der Aktionär",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcG0xQXRJWjY5bkk3NDREclByazc3N0xzc0pqZ1ZTcURma051MHM4azVFZ2RLQ2o4WnBDOXcyLWlOQ1IzS21lZlhHUkJMaU50dnVGc2lpaWd1OFJPVzBUajQtOHVQbHcyVEhMUkFpWlVmcVBOVTZ0a3RFQUFocnpQM0dXYXR4c1RidWhsZmtidXFZZGgxT1RYbG5oU2pfcS1ucnM2amVLMUxJblVBQmRtSnU5TW54MU9adGwzTUVaZldBTEVmTzNkcTlFdXNYNU0?oc=5",
-   "pub": "Tue, 08 Sep 2026 07:27:40 GMT"
-  },
-  {
    "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
    "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
+  },
+  {
+   "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWjRXWHNtaFdISmxCU1liZF9uX1lFdENicGFBR2FlYjJ6TjMtOVdjelM3UHJjY0FJX0c5SjRIZk41T014WWNQLUNXNmowRkZUVjhaMTdjcVVsa21wdnZNNkFvQkFLTXJwVktsQVZyVTdsUGpRak1KbU1Qb3VtRGtqRWhNNnlCcDJGYlJFZDFRY0l6a1EwR0UtOEZ1bnFIaHJDTk9OZDluQzhiWEVUSjlCRlUxUDF4dDlvanFvamdOQzlzbGxsNjdGLXJWTGp5N0VHVkVreHQ1ekZ5OWM?oc=5",
+   "pub": "Tue, 08 Sep 2026 03:07:33 GMT"
   },
   {
    "t": "Iran feuert Anti-Schiffs-Raketen - THB - Täglicher Hafenbericht",
@@ -99,14 +99,14 @@
    "pub": "Tue, 08 Sep 2026 13:21:31 GMT"
   },
   {
-   "t": "Die Fed macht Ernst – und die UBS sieht darin eine Chance - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMzB1SDdrSE9xNkhVUDIzeGVRS2Z2NE9VcFA5VVctblV5V0hldHdBZlE3dDlGUmFFekpGMGY1WHJlYVZYNVh2SWE3cUZzTVpWU0t3alJxWGJHMmpYUnJDWGRZSVd5Tmo2OHEwbFZSU1JUaG1saGRpY2p4OTVMMVI3Q3haRWVSVHJSdnM0OFFXNA?oc=5",
-   "pub": "Tue, 08 Sep 2026 13:22:00 GMT"
+   "t": "Yen und Japans Zinswende: Was Tech-Anleger jetzt wissen müssen - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcG0xQXRJWjY5bkk3NDREclByazc3N0xzc0pqZ1ZTcURma051MHM4azVFZ2RLQ2o4WnBDOXcyLWlOQ1IzS21lZlhHUkJMaU50dnVGc2lpaWd1OFJPVzBUajQtOHVQbHcyVEhMUkFpWlVmcVBOVTZ0a3RFQUFocnpQM0dXYXR4c1RidWhsZmtidXFZZGgxT1RYbG5oU2pfcS1ucnM2amVLMUxJblVBQmRtSnU5TW54MU9adGwzTUVaZldBTEVmTzNkcTlFdXNYNU0?oc=5",
+   "pub": "Tue, 08 Sep 2026 07:27:40 GMT"
   },
   {
-   "t": "Iran kündigt Sperrzone nahe der Straße von Hormus an - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWlYLVZOckxxWWxnSDFadTR0ZDMwWWdWdThVT3VyZjlSX2hIMkpmZjFEMkd3ZHd5SXZxWl9MdUY4S2RzU2tDNm9vRlFGMVRwVFZlYUhmOHFZdzIxWnRQQjdmV2Y0eG9uWWpkUGlLZFFQQmZyd28tbkFBTVlMVGpIaTBrQ0JtbTFGakxhSm1UU2N6X011SjQzM01tdmRuaGg4azVUTlVjLUtOU0dIU0FzZXhKVQ?oc=5",
-   "pub": "Tue, 08 Sep 2026 08:01:11 GMT"
+   "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUtPMFJka21CSmFZVkhtYjROSFJJT0FVTDQwbndTM1NRWjlYakc5XzMyaV81X0JNMk9RYnZoVFlvT1RnM0lTZXc1cmU1RHlQTzlwWGJ6VXhLNXc0ejh1bEx0YXhHdHIycDNGcEFoZU5MdGM0WHp2UXNZcG93N041am1zQWd3OUdYbUNaLThFWUNOUWdyRzVoak5jVjdUdw?oc=5",
+   "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
   }
  ]
 }
