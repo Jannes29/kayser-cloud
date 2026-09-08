@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-08T04:39:07Z",
+ "collected_at": "2026-09-08T09:43:14Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8094,
-   "chg1d_pct": -0.07
+   "price": 0.8112,
+   "chg1d_pct": 0.16
   },
   "USDJPY": {
-   "price": 153.542,
-   "chg1d_pct": -1.7
+   "price": 153.863,
+   "chg1d_pct": -1.49
   },
   "GBPCAD": {
-   "price": 1.8685,
-   "chg1d_pct": -0.07
+   "price": 1.8676,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 110.747,
-   "chg1d_pct": -1.61
+   "price": 110.941,
+   "chg1d_pct": -1.43
   },
   "EURUSD": {
-   "price": 1.1627,
-   "chg1d_pct": 0.11
+   "price": 1.162,
+   "chg1d_pct": 0.05
   },
   "GBPCHF": {
-   "price": 1.0955,
-   "chg1d_pct": 0.07
+   "price": 1.0976,
+   "chg1d_pct": 0.26
   },
   "WTI": {
-   "price": 92.96,
-   "chg1d_pct": 1.62
+   "price": 94.04,
+   "chg1d_pct": 2.8
   },
   "BRENT": {
-   "price": 97.58,
-   "chg1d_pct": 1.35
+   "price": 98.65,
+   "chg1d_pct": 2.46
   },
   "GOLD": {
-   "price": 4477.4,
-   "chg1d_pct": 1.07
+   "price": 4441.3,
+   "chg1d_pct": 0.26
   },
   "SPX_FUT": {
-   "price": 7723.75,
-   "chg1d_pct": 0.02
+   "price": 7702.5,
+   "chg1d_pct": -0.25
   },
   "NAS_FUT": {
-   "price": 29742.25,
-   "chg1d_pct": 0.6
+   "price": 29565.5,
+   "chg1d_pct": 0.0
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Iran: Neue Eskalation im Krieg mit USA möglich - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RdGpBUkZHQUNZckVOZHh6NHVmdTg5WEhQNEE5Q195dTNDLXE3UDVtQVFUalJwaGZyQ0Rpdm9VM0cxbkk3M0lGS0x3Z3JCakdEUUtIQ0wtdk83Yml5c3h0c043R2RQNDhZSFREbFdB?oc=5",
    "pub": "Mon, 07 Sep 2026 23:03:00 GMT"
+  },
+  {
+   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURsa2c0Rm44NjIydmEyR0YtSnREN01tdmNlTVc1c24wa2dlazFFelBUaUFBbDdIdTVxX2NhR2tGeGhtc1NoTVVtUDBmYWtVN0dpdkk0TzkyeFZGZG1NSFdOVnlQSzhiUXRsU3BjaUhydXRyQUlkODc3MkJPdU5TTktrb1pmS2pKWHJ6Sm5uTmFURDk5X2xkU2FsSTZBaEw4aWl6NFhVcGViNjA1RTJKMkhpVV9yWFFMVmRVbVVn?oc=5",
+   "pub": "Tue, 08 Sep 2026 07:42:45 GMT"
   },
   {
    "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - Frankfurter Rundschau",
@@ -64,9 +69,9 @@
    "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
   },
   {
-   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
-   "pub": "Sat, 05 Sep 2026 09:57:00 GMT"
+   "t": "Yen und Japans Zinswende: Was Tech-Anleger jetzt wissen müssen - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcG0xQXRJWjY5bkk3NDREclByazc3N0xzc0pqZ1ZTcURma051MHM4azVFZ2RLQ2o4WnBDOXcyLWlOQ1IzS21lZlhHUkJMaU50dnVGc2lpaWd1OFJPVzBUajQtOHVQbHcyVEhMUkFpWlVmcVBOVTZ0a3RFQUFocnpQM0dXYXR4c1RidWhsZmtidXFZZGgxT1RYbG5oU2pfcS1ucnM2amVLMUxJblVBQmRtSnU5TW54MU9adGwzTUVaZldBTEVmTzNkcTlFdXNYNU0?oc=5",
+   "pub": "Tue, 08 Sep 2026 07:27:40 GMT"
   },
   {
    "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
@@ -74,9 +79,14 @@
    "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran will nahe Straße von Hormus »Sperrzone« einrichten - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRWpUdHhPdWt0V1Y1RWtfWE4xWGFmbWlxNWNpVWNndFVJSTR2Y0VMRlNGM2FqTDhRQWtLTVdMZExDYXkxdWQ0MDBLLWd2MUxSdmpWWkpVelhHLVpUUlVyVFFUYzlHbFdjTVpOWk1CMTlGOGpzcEQxLTFXQ2ZDb3RxUDctNHBWcENDM2p6ZG9VbjdEd0NXbDNsVnNyOHhMR3FGZnZsY1VR?oc=5",
-   "pub": "Mon, 07 Sep 2026 06:57:29 GMT"
+   "t": "Trumps Druck auf Iran: Drei Länder, drei Reaktionen - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZklTSS0ycDNtQzRPVlBhZE9WUVREbHVLYVo5LVBldkdlR0VDbi03ZWxTXzFCV3Vqb0lqU3ZFQmx4dmVsZG51dndUNl9xcFR4cW5SRTgyU2lObHM5S1JSV1NybkljRks4d2J4S1RFakhhczJLN1BXSldlQ3diQmJUMU5faWtvYUxXdllTSkpwMVTSAZABQVVfeXFMTWtURkFyRXRrR2l3ZXVzRFYtbTI1c3ZDT041bTJrSWNHZkkycEhoQnZDZDJxODNtODJtUEQyMzhhc0VtVGJFdHBhYlBoMTB0QTJUaWxvbzk5dUZqOW9VemxRRllsOWwtY2t0eFJyb3RHdE8tbmpfU0x3cmZHOUQ5SC1PbDZzZ1c5a0hiRGVDeS1n?oc=5",
+   "pub": "Sat, 05 Sep 2026 09:57:00 GMT"
+  },
+  {
+   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
+   "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
   },
   {
    "t": "Lage am Golf - Iran greift US-Stützpunkte in Kuwait und den Emiraten an - Deutschlandfunk",
@@ -84,29 +94,19 @@
    "pub": "Thu, 03 Sep 2026 20:32:00 GMT"
   },
   {
-   "t": "US-Arbeitsmarkt: Gute Daten setzen FED unter Druck - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdGZBZ2ZYdzR4bE9BTVFpYnlNNkVXREd6R0ktYURVZmVfT283TEE1Rm1HaTZXX08tbTBHY0xjX1VIbHhzUDA1WktFWFo5NW1BaGltaWNMSXNkUG5wU3BTR1JCdDJPSVNfZkQ4REs5cW4yc1B3VzAyNnZtT2F1STlESG9tQWpPMVNKSmJWU09vRTg4X3dnWHFKSjVNWGlTUkwydTVrcHh2dllRLVdDZU9SLWpWSmVWUmI3NEE?oc=5",
-   "pub": "Mon, 07 Sep 2026 06:37:00 GMT"
+   "t": "Marktbericht Börse: Asien-Rallye, Rohstoffe stark & Yen legt zu - xtb.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT2E4R0Rxdy13US00eEtONDdqLVhaYkJoUEdfaS1PUHRXRmFjTWk1VWFTWS1pNlRJb0p5MGlndndmNlFlaG91WTlCSDE5cDlCYmp6NlZlYUxyRUdFTkFfNk5tbDFkS1RFNy14X25PSjlkVzhoTzFNa1cxbDQyeHdweVM1cTNTMTU4Y2RsTkVfUFdKZ2d2SVdXTHB2UFRtNkh1dTJfdllYajNQRl9TNHRNQlNVR0o2Z09pZktBV09HT0tTOWFibms4Tm5vck9VckYzR3RiZEVCOF93bjNKWUxETTVHS2ZnbENzS3c?oc=5",
+   "pub": "Tue, 08 Sep 2026 06:06:00 GMT"
   },
   {
-   "t": "Iran meldet Angriff auf US-Marine-Drohne, USA nennen das „völlige Lüge“ - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFMVFV1T1ZwX2FPbDZETHBoOHdpT0YxS1JnN2JkX1RrZmJENWIwYzhoVlFBejdYc0p2XzdWZUh2UkdnTWlRdVUwM2NLRHJCREt5WEp1NFhfYS1adS1zV21jY1ZlLWtTR3RESG85TVRKcVQ1S3VvUEJ6c29feURoaHlEYmtGd0J5LWZ2d2RlUVZ5U2x5SVZDYjZHSkFTdzk0dUc3VTd3?oc=5",
-   "pub": "Sun, 06 Sep 2026 09:34:24 GMT"
+   "t": "Iran kündigt Sperrzone nahe der Straße von Hormus an - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWlYLVZOckxxWWxnSDFadTR0ZDMwWWdWdThVT3VyZjlSX2hIMkpmZjFEMkd3ZHd5SXZxWl9MdUY4S2RzU2tDNm9vRlFGMVRwVFZlYUhmOHFZdzIxWnRQQjdmV2Y0eG9uWWpkUGlLZFFQQmZyd28tbkFBTVlMVGpIaTBrQ0JtbTFGakxhSm1UU2N6X011SjQzM01tdmRuaGg4azVUTlVjLUtOU0dIU0FzZXhKVQ?oc=5",
+   "pub": "Tue, 08 Sep 2026 08:01:11 GMT"
   },
   {
-   "t": "\"Schmerzhaftere Reaktion\": Iran spricht von neuen \"Spielregeln\" im Konflikt mit USA - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1BXZFM4S2o2SDByQVl5S0V6MGNEV2ZxQ3lBakpSNEl2VHBDYjIzNUYtM24taXJ1dHlMZml5VEY5Q1R3TndlY2lCdUVqR09MYkRfbUlLSEFHRFNhVkRzLXBSRHBRcnduS20tSVl5Q1Bfcm9WVS12dDNBdDF0cmROQUZnTHlTX1Zsb3FRS0hscE02WVowb05tR1BjTUpIUmM?oc=5",
-   "pub": "Sun, 06 Sep 2026 13:38:20 GMT"
-  },
-  {
-   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
-  },
-  {
-   "t": "Experten machen US-Munition für Tote auf Hochzeit in Iran verantwortlich - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnQtQ1QtNjhidzMwaDl3dXhiVDRBZS1tNTFyNEhZMC1XTS1hSGQ2ZlRycjcyQk5aWUdqSXVnUjNkZ1gzY0tjN0lmYjltWkJxaVhYWnd3bW5NLTVVc1VTT1p4b2RwRzZlcVZaRlk0b1N3OGMxY0pBSGNQeDJZMlhROUZ6TXM1eDhBZVBQdWltRnR3bnFMcW13REFwT3p0UGRnRnhfZHBkSHVTb3ZkaTQ4MnF5QnFkZWx1ai1mX055NkszdWJSZTU0dUNGc2lKNXU1SmdLamJyUlZSLVE?oc=5",
-   "pub": "Fri, 04 Sep 2026 02:08:00 GMT"
+   "t": "Iran – USA: die Weltwirtschaft als Schlachtfeld - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGxkVFhqTnZmU01vT3BmeDlEVUNYQXI4V0VLOUp5dFJ5cjY0SGR4ZENQdHY4REcwLW5ZUWdteFNWTUJlV2h5RlZ3MTJnMGFubHByVXdQRDZHZko4azZQalJKMG50cjBUUU0xNE5WakZ4VXh5Q3VBR3lJdFhGTU5rb3lfQURCeTVwNnk2bG5CRGludzNRdG5RSUswZC1uYVIzY2c?oc=5",
+   "pub": "Tue, 08 Sep 2026 06:48:40 GMT"
   }
  ]
 }
