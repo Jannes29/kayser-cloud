@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-09-09T04:51:38Z",
+ "collected_at": "2026-09-09T09:48:14Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8089,
-   "chg1d_pct": -0.01
+   "price": 0.8101,
+   "chg1d_pct": 0.14
   },
   "USDJPY": {
-   "price": 153.444,
-   "chg1d_pct": -0.27
+   "price": 153.488,
+   "chg1d_pct": -0.24
   },
   "GBPCAD": {
-   "price": 1.866,
-   "chg1d_pct": -0.21
+   "price": 1.8657,
+   "chg1d_pct": -0.22
   },
   "AUDJPY": {
-   "price": 110.88,
-   "chg1d_pct": -0.19
+   "price": 110.796,
+   "chg1d_pct": -0.27
   },
   "EURUSD": {
-   "price": 1.1635,
-   "chg1d_pct": 0.06
+   "price": 1.1633,
+   "chg1d_pct": 0.05
   },
   "GBPCHF": {
-   "price": 1.0958,
-   "chg1d_pct": -0.0
+   "price": 1.0969,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 94.06,
-   "chg1d_pct": 1.11
+   "price": 95.17,
+   "chg1d_pct": 2.3
   },
   "BRENT": {
-   "price": 99.09,
-   "chg1d_pct": 1.19
+   "price": 100.67,
+   "chg1d_pct": 2.81
   },
   "GOLD": {
-   "price": 4420.5,
-   "chg1d_pct": 0.61
+   "price": 4442.5,
+   "chg1d_pct": 1.11
   },
   "SPX_FUT": {
-   "price": 7687.0,
-   "chg1d_pct": 0.08
+   "price": 7673.25,
+   "chg1d_pct": -0.09
   },
   "NAS_FUT": {
-   "price": 29600.25,
-   "chg1d_pct": 0.21
+   "price": 29494.25,
+   "chg1d_pct": -0.15
   }
  },
  "headlines": [
+  {
+   "t": "USA und Iran attackieren einander wieder - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTJFdlBPMWtfVFpqczJtMzFkQWh6R0xxWElpdi1GZXYxRUM5c08wSzhtcFc2NG5FcF8wbEtxNlBQaVVFWm9wMXdEcjlwYXdVY2JiV3c4dHNJdl9Dem5YT0VVLTZVckdnZmY0bGdpYTdCeEFBNktTUTFrODEzc01DYVluSGM0eE81WndOZHJUQ3VEOVB0SDhZQ0JvdTI3d2x5czBDTzNjazViNlpLLVVnQtIBsAFBVV95cUxPeE04Y2lLU0ZpY0Z4eGZnZFY5SjZOTHJBd2tyaGhMd2pxOFJXYXJOTHl5dmplakZKbXZZcUpzelhVSnQ0MjVmZTY0cWNUYjgwbVY5T0c2VDVXWXJBNUVJTlJNaHBHUUhsSUl1WENxS09yb3BwR0ZZNFNFQjJsMElaazZBbUlHcnNGSDZJV2tXeC1MckdsNTJ4SlBvYUVRZklfRDdXd1d1RGlINm1kb3hOWQ?oc=5",
+   "pub": "Wed, 09 Sep 2026 07:42:56 GMT"
+  },
+  {
+   "t": "Iran-Krieg: USA zerstören fünf iranische Tanker - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXVjNlRUY29NMjlmZm95a1pHRnQ4b01WVmxJWmlnVzRKSVNPTkExZVJBNUN4OW03Yk9WOUlqbGdvZllFdVktYXRFVWE5bXpmalZndm1PQ1QzeG0wYmV5ejdiU0FqNkRnUmxfdFhFNXA5dU5vY3M5OVphMXdLNjRYd2t1cFlBNWkyY3VUbzh2RXU3VGR1OG9IdTlQZ1V1MXVpNWRpc1g4SkNvS2RweE9GbnNB?oc=5",
+   "pub": "Wed, 09 Sep 2026 03:39:28 GMT"
+  },
+  {
+   "t": "Reaktion auf vorherige Luftschläge: Iran will 20 US-Schiffe angegriffen haben - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZjh3RlpJVmd4OWJmQVpDclFONjJLZ3lvbnpWZUU0d1BrcGZmMmE3THRJZDdaazhqd3NnRDh1NWREaXZUVEZSbUhVcU96TTRSSDdSTDRaWVgzX21yN2NtRFAtNGsxRjB0WklCNkQyQXljSGVoY2tpcEgyYU90VmVlOGFISC1UcFRYSEt5dDZn?oc=5",
+   "pub": "Wed, 09 Sep 2026 06:58:22 GMT"
+  },
+  {
+   "t": "Irankrieg: USA beschießen Tanker – Teheran feuert Raketen auf Jordanien - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGNNYU9vYVRfcVJ5eWNLUWVvWHh4NnFqZ2EzSEU4TjVUb2puN19uNnhyVTAwSml4TWZ6RFJCNDNZM1pXQmNGbEdtbXVhYkxZZmlxZ0JDQ2pnUFk2UHR0MnZnUU5xeXFFazJxUjlRdldGSjIwVC03ZktzUDA5QV90b0dFS1hMbFlxUjZJOV9Cd1lTbHN1SEhCZEY5ZFFQSnhjRE91N3Rpbl9BT2JVUzhCZkNqNk96c2Q3aW9fSlRkMHJqOUV2VUQ2ZzlodjZBRHM1WERNNkNn?oc=5",
+   "pub": "Wed, 09 Sep 2026 02:29:00 GMT"
+  },
+  {
+   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQckFOV2RyZWtGOWJ5R1gwX1JZcFhGMndtVkp6TDhrWThkcXhGWnpOZ2JvZ2dIWDhlQWljVVdNdllVNUxPcUptUm56cmVQVllzei1BRVFmOFdGYnV2bUVPcm5hZlpnWlhJNGdKdDNHT0ZINXZNMXZhUXhGS3V5RTROaEtZZGJWeGItSFpaR0dwUGFJOWpoRzV0Zk1ybU1QTTRoNXVqTWNsSXpKSnBfWHk0R3hfRjNlcmk0dlZOREdR?oc=5",
+   "pub": "Wed, 09 Sep 2026 07:21:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg treibt Spritpreise: So viel kostet ein Liter Benzin oder Diesel an der Zapfsäule - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2U3dU9PRGo3MmlMdG55WU1Nb2xmR2FnREZ1cWZfdmZPS0Q1RUdmSGoyUHpZU0FCNGJEYXZLUFcxa2k4Slo5anFpaDRTNDdLcnN5dS1SMzZYQkdUNi1xOXliYkRfWjFtUlhodXNObE8xZnE0aEZnOEl1T0NkUXJXdUh6VXZTaU43T1NMWkZvcFloTm5fbjlfeHVSenEtcDJtTFZnZUtUTlI5STVxMGpfTVFvM2x0cUhSeVFn?oc=5",
+   "pub": "Wed, 09 Sep 2026 07:48:21 GMT"
+  },
   {
    "t": "Macht Trump seine Drohung wahr? Iran meldet Explosionen auf Öl-Insel Charg - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjh3T3RGcFRVNkxQeDhrTGZKWXdTcUtFUEhTdUdGcHNvOGtTTVFPTnAzVGNRSHBWeUZHU0FnTDdnSUgwa051M0d5SXR2dnBrYmo1ZElLa21vdUd5dXVzQThKTEFZbENjMG5wcDJ4aTZTZUprenhRVDAxTTNiWV9JZFZmRVMxX2Z6YzQzRjVJRnp6cDEzZFlJb3Mzdzd3OGVBX1RVSE92TUtuQ3FjMzlHRWRMdGM?oc=5",
    "pub": "Tue, 08 Sep 2026 20:08:49 GMT"
   },
   {
-   "t": "Huawei in den USA wegen Iran-Geschäften vor Gericht - heise online",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnVkbWdza0o4MGl0QWFVUFBXNzI5N0xiczQzZGN3TU50bUVjZlFsMEIyYzV5QThGWV9KZWdxenpRYjNtTlRJSnJFN3dacjExcFIzd3k1RmdOY0duQW9xem84RXBNQ0RzanQ5NHB1OVZ3TUNLLXI5Z2RGNm9aOG1ueE01MV9TOWx3eGdEVGdjVDlVb0NxWUJR?oc=5",
-   "pub": "Tue, 08 Sep 2026 21:56:00 GMT"
-  },
-  {
-   "t": "Iran: Neue Eskalation im Krieg mit USA möglich - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RdGpBUkZHQUNZckVOZHh6NHVmdTg5WEhQNEE5Q195dTNDLXE3UDVtQVFUalJwaGZyQ0Rpdm9VM0cxbkk3M0lGS0x3Z3JCakdEUUtIQ0wtdk83Yml5c3h0c043R2RQNDhZSFREbFdB?oc=5",
-   "pub": "Mon, 07 Sep 2026 23:03:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg eskaliert erneut: USA „zerstören“ iranische Tanker – Teheran feuert Raketen ab - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43endsdERDWjV2TkZtYWxNSzJxT19iZ0dEMTVjNG45MXpyRnR1eGp2MUFvQWVLM0xpQVF0SHNMZERGSThhZEJibTlvQ3JvZkRBVFllbGt5OWNQb2sxRVVRMkxQVnJwTE1LS3pxQ2NnX0FRYWtEX04zSFdKOHU?oc=5",
-   "pub": "Wed, 09 Sep 2026 03:14:04 GMT"
-  },
-  {
-   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - juedische-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
-   "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
-  },
-  {
-   "t": "Krieg in Golfregion: Iran spricht von Fortschritten bei Gesprächen mit Oman über Straße von Hormus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM080QXpLMEVKcGVneDl0bFFLckMxSWU4amh5VUlaMUIyZGhpcDc3UGtWQ08wMWRjb0VSZF90WlA0WDFUTGNKUzRvem0zNWxzbjk4RTU2Ujd3V05pMENDbjdObHVxUU1aeTdjMFMyTzhkbzNGSjNEcmVZRzFUaHpZTzI1bFREVXdUVnM5YnZUR25vSmR0aHZsYjh1NElCcHFaMHlUaVVBY21xMlotbUlMVVFnWHhGTVFZMkVHcng0Q0o?oc=5",
-   "pub": "Tue, 08 Sep 2026 13:46:09 GMT"
-  },
-  {
-   "t": "Straße von Hormus: USA greifen erneut iranische Tanker an - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmxuVmdrUk1XcmxEWTlEbHFPT1FkMk1kS1dIUGtyLWNva3lUQ0ZYSkozY2c3TFBTeVRSN2FaYUxoWFFEVXlPZ0FidDJ2N25JZW91dURaVWVfZzA0THRiQ1hfd0wySjVUWmwtRjA4R1JKam9uSC16bGI2M1NYaHg4UE5ZeGhCbnBzTWNYM2dnOVI3RHRaNzJLVmpkY01LQ3c?oc=5",
-   "pub": "Tue, 08 Sep 2026 22:13:28 GMT"
-  },
-  {
-   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURsa2c0Rm44NjIydmEyR0YtSnREN01tdmNlTVc1c24wa2dlazFFelBUaUFBbDdIdTVxX2NhR2tGeGhtc1NoTVVtUDBmYWtVN0dpdkk0TzkyeFZGZG1NSFdOVnlQSzhiUXRsU3BjaUhydXRyQUlkODc3MkJPdU5TTktrb1pmS2pKWHJ6Sm5uTmFURDk5X2xkU2FsSTZBaEw4aWl6NFhVcGViNjA1RTJKMkhpVV9yWFFMVmRVbVVn?oc=5",
-   "pub": "Tue, 08 Sep 2026 07:42:45 GMT"
-  },
-  {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWjY0ZU5NMlVkdGt1b1hKYXBYMFRNWW1LX0pjNFdEeHFSeGY1eVlCRnBlVnJ1OEhKalhvUkcyMGY5TU51Tnl2TGVBVWQtTGVZeWJIdWlZa0ljZWJQTmJvZlRUaTk0NFR6YUZRYXJGX2EzZDhfeF94R3pjeExjZVEtSU15QXZHLTZZc1AwOHAwNmtPa2JjQWllb3NrQk1SdHBnQzRfemROQnJrYm12cS1oY0dsLXIzbVF1YktzaFBBM29XSW04T3R3Nnp6bXV4cWNVenp3UjVtaXBQVzBKNzVQNnlZN1ZQNnc?oc=5",
-   "pub": "Mon, 07 Sep 2026 01:41:00 GMT"
-  },
-  {
-   "t": "USA zerstören fünf Tanker des Iran - BILD",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXpUaWlXaFhnMXl5X1I2U1g4cUpQZ3BGQkxMTENsZXlsZHlLcHhPMGpHNkpaaXh4TTdZeklIc0RXOGNrdzFTMG5JU1kzRi01V01ZZ05kUk9rckE0S1A5aU1RVkdOb0VkNGJlVEVYLUx6QnNyVmhtT3FsYTNnR29WX1Z5bjNZanB3Mlpyd0c1UnZNN0dVel9YTF94NzJVaDduUnJlSjhZYnRfWXVYZXRSWUd5aGV5LWtr?oc=5",
-   "pub": "Wed, 09 Sep 2026 02:35:56 GMT"
+   "t": "Ölpreis steigt erneut über 100 Dollar je Barrel bei eskalierendem US-Iran-Konflikt - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNXl3Sy1lRWlJWWJ1OEhMOHdLcHNlcU5BbHd5MVBhME9OSWU0RHd0T3QwRVg3RjBwbUdxWVNSSm9wSzBhNFlCYzk4SE5zeXNyLWVCdWlMbUZWajBCSE1WMS0tbTdRVGdab0pmTWVQUVZ2NkxKMHUwM3dpNmwyUXB6Ukp3ZXpILTEyaHFrdUZCaU5OcDNEU0VKNlpRNmpHLVIzczk3MC1JRUw4N0VwTk5KVGRNWXI2T29NZGhrUXJ3UWNjR0lS?oc=5",
+   "pub": "Wed, 09 Sep 2026 08:17:57 GMT"
   },
   {
    "t": "USA zerstören iranische Öltanker - Iran reagiert mit Angriffen - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0I4dGpmUS1IYktRQ1JOY3Zhci1Wc05NeXpPMlNMYnFYRTVYbktTaXptMG53WTROSFNnZTBkMldzX3Rwa1BiZWNTVUJwSWpFTDV0dXdDdTlTYnB0MjRPQWtwVGQyelRESmp5UmlKazg4ZnQzcG55a190WUp2eHpXQmM0bnlBdnZJSnVVVW1zWGdyNm1GQ1hNQm0wYw?oc=5",
    "pub": "Wed, 09 Sep 2026 03:28:42 GMT"
+  },
+  {
+   "t": "Angriffe eskalieren erneut: USA zerstören iranische Öltanker - Iran feuert Raketen ab - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczYxV2hscmZvOWY2eTJIaUh6eHZGWmZCMzVPNmNKRmVIRWhpTW9ETkxIb2l3SGpYQTI1c3EzMGxyLV93NnNhcmZBUVNWdWlkZFV0S3RnQUs5N2JxSUxrY2R2V2pGeU9RMi1JN1hwbjRwYmVKc3lUVW9uaWgzNnF6SmZKVHpYZi1oemlQSmVCdmg1US1kbkVLN1pOVGtKdV9qaG12ZEI0M2w5UExYQ05wN3pwTG9mM0hRUEE?oc=5",
+   "pub": "Wed, 09 Sep 2026 08:06:00 GMT"
+  },
+  {
+   "t": "News kompakt: Trump gratuliert AfD nach Wahlsieg - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ2MyMnM5Qy0yUGJ2eEh1X01NSEJ4QVZUQkg2bUZEZGNfVHBUOEtQQ21NNVF1Mld6UUJMSXlaY29QSnpiYzZPZXhmNlFGS2tEUE5rQUk3SmVmV0hLR1E4VUtFQW9DUXhxVHNNRkNWeDNRV0xieGc1aUlrUnplWWFsWUpFQVp2OGZ4cUI1RWo0YmpYR3lHUzBJajRfSnJTSVFteFJ6SFNjS2FvLTNXZDVNcUl0ZWVJeFZUSWlmVVNheXlMdWRSSTMxWG9R0gHKAUFVX3lxTE1nMDJtRGxreHNEeEM3X09SUFRnOUZEeDVfZFkyeVZWMzRjZllmU3BsTmpCVklFVFlvQlhpQjM5aHVHckJxNVlQVmJuVV9BMFNjZkJQVi16cGNCMEYyQmx5S2Nxc0R3YVQ4UXJzZHdXWWU5bzFjdTBUYS1nREJlaEFRbzRPdzJYcE91c0czRVRpYkQyNWdWT3BUcGN0UzJFR3lNNi1TcVFMSHhGS1BMakZQdGt6bjVBQXlsU0ZsLW41TmtncGpWRWdpWmc?oc=5",
+   "pub": "Wed, 09 Sep 2026 07:01:09 GMT"
+  },
+  {
+   "t": "USA belegen 27 iranische Airlines mit neuen Sanktionen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1BUTDB4MDNjanllVWlIZzVxYmxtYy1CblFxZC1FaHczYzdYZElKN05tVzl0SlJ4WG5xRWI4MTBRYXN6M2dudVk3clJtMXZKcjVUdXRwdTMzbWlNWk9RRjZKNXNibUdVMlo1V2dUYnF3bHQ2N3A1WExub3kwT01WUlAzSEFxRll3ZjJfOHJKejdlU0FIcjlzeld5eEc3SkJzeTFINGswWVdKYzVmenFFdzBMaUtQQnNSY0NEeGpZYUt1dw?oc=5",
+   "pub": "Wed, 09 Sep 2026 04:15:00 GMT"
   }
  ]
 }
