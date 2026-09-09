@@ -1,53 +1,73 @@
 {
- "collected_at": "2026-09-08T21:52:20Z",
+ "collected_at": "2026-09-09T00:16:25Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8086,
-   "chg1d_pct": -0.05
+   "price": 0.8087,
+   "chg1d_pct": -0.04
   },
   "USDJPY": {
-   "price": 153.869,
-   "chg1d_pct": 0.01
+   "price": 153.315,
+   "chg1d_pct": -0.35
   },
   "GBPCAD": {
-   "price": 1.8648,
-   "chg1d_pct": -0.27
+   "price": 1.8658,
+   "chg1d_pct": -0.22
   },
   "AUDJPY": {
-   "price": 111.068,
-   "chg1d_pct": -0.02
+   "price": 110.766,
+   "chg1d_pct": -0.29
   },
   "EURUSD": {
-   "price": 1.1629,
-   "chg1d_pct": 0.01
+   "price": 1.1633,
+   "chg1d_pct": 0.05
   },
   "GBPCHF": {
-   "price": 1.095,
-   "chg1d_pct": -0.07
+   "price": 1.0954,
+   "chg1d_pct": -0.04
   },
   "WTI": {
-   "price": 94.25,
-   "chg1d_pct": 3.03
+   "price": 94.48,
+   "chg1d_pct": 3.28
   },
   "BRENT": {
-   "price": 99.31,
-   "chg1d_pct": 3.15
+   "price": 99.36,
+   "chg1d_pct": 3.2
   },
   "GOLD": {
-   "price": 4400.0,
-   "chg1d_pct": -0.67
+   "price": 4388.7,
+   "chg1d_pct": -0.93
   },
   "SPX_FUT": {
-   "price": 7678.25,
-   "chg1d_pct": -0.57
+   "price": 7683.0,
+   "chg1d_pct": -0.51
   },
   "NAS_FUT": {
-   "price": 29525.75,
-   "chg1d_pct": -0.13
+   "price": 29555.0,
+   "chg1d_pct": -0.03
   }
  },
  "headlines": [
+  {
+   "t": "Iran-Krieg: Iranische Medien melden Raketenangriffe auf Jordanien - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONnphQ3BQZEpoX0FtTVRfVU5HQXBubEJfZHZxb2Vpd0p0eVl1SnZfV3Y4ZmI4VDJJTjFqWTNqc1lENnpXaXZ5THZNUU9iN253S1FZbnJTLXdVdm5fN3RnS290Qm1Hc3lqNEZDV1hoWmp1b2U0Z1NKRjk5V01SN3diTm9jNkN1SkpKRzZVOGJ3TnFDOGs?oc=5",
+   "pub": "Tue, 08 Sep 2026 22:29:15 GMT"
+  },
+  {
+   "t": "Macht Trump seine Drohung wahr? Iran meldet Explosionen auf Öl-Insel Charg - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjh3T3RGcFRVNkxQeDhrTGZKWXdTcUtFUEhTdUdGcHNvOGtTTVFPTnAzVGNRSHBWeUZHU0FnTDdnSUgwa051M0d5SXR2dnBrYmo1ZElLa21vdUd5dXVzQThKTEFZbENjMG5wcDJ4aTZTZUprenhRVDAxTTNiWV9JZFZmRVMxX2Z6YzQzRjVJRnp6cDEzZFlJb3Mzdzd3OGVBX1RVSE92TUtuQ3FjMzlHRWRMdGM?oc=5",
+   "pub": "Tue, 08 Sep 2026 20:08:49 GMT"
+  },
+  {
+   "t": "Huawei in den USA wegen Iran-Geschäften vor Gericht - heise online",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnVkbWdza0o4MGl0QWFVUFBXNzI5N0xiczQzZGN3TU50bUVjZlFsMEIyYzV5QThGWV9KZWdxenpRYjNtTlRJSnJFN3dacjExcFIzd3k1RmdOY0duQW9xem84RXBNQ0RzanQ5NHB1OVZ3TUNLLXI5Z2RGNm9aOG1ueE01MV9TOWx3eGdEVGdjVDlVb0NxWUJR?oc=5",
+   "pub": "Tue, 08 Sep 2026 21:56:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran meldet Einsatz neuer Anti-Schiffs-Rakete - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdrNkdZTlVialVydjFlN3JpY2ZuVVdZcFNrcVVKanVCOEc5TTBPTlpmTmhoMnBUZVRWOXJZUUE0NmdjQXZqNXdQcXdHY0lQQWl4czZqQVNjQWt2T3VIaU9UeDVQem1BVjZWa3VYSWdkQ2FETTlmZWZlR1piaWhyaDhJTkpxS0RuRms4TDBqZHQ0aUR2TmVoQm00ZFJkVW1NLXp3dE5MV29FZE0?oc=5",
+   "pub": "Mon, 07 Sep 2026 13:11:00 GMT"
+  },
   {
    "t": "Iran: Neue Eskalation im Krieg mit USA möglich - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RdGpBUkZHQUNZckVOZHh6NHVmdTg5WEhQNEE5Q195dTNDLXE3UDVtQVFUalJwaGZyQ0Rpdm9VM0cxbkk3M0lGS0x3Z3JCakdEUUtIQ0wtdk83Yml5c3h0c043R2RQNDhZSFREbFdB?oc=5",
@@ -59,24 +79,14 @@
    "pub": "Tue, 08 Sep 2026 13:46:09 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran meldet Einsatz neuer Anti-Schiffs-Rakete - logistik-heute.de",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdrNkdZTlVialVydjFlN3JpY2ZuVVdZcFNrcVVKanVCOEc5TTBPTlpmTmhoMnBUZVRWOXJZUUE0NmdjQXZqNXdQcXdHY0lQQWl4czZqQVNjQWt2T3VIaU9UeDVQem1BVjZWa3VYSWdkQ2FETTlmZWZlR1piaWhyaDhJTkpxS0RuRms4TDBqZHQ0aUR2TmVoQm00ZFJkVW1NLXp3dE5MV29FZE0?oc=5",
-   "pub": "Mon, 07 Sep 2026 13:11:00 GMT"
-  },
-  {
-   "t": "Macht Trump seine Drohung wahr? Iran meldet Explosionen auf Öl-Insel Charg - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjh3T3RGcFRVNkxQeDhrTGZKWXdTcUtFUEhTdUdGcHNvOGtTTVFPTnAzVGNRSHBWeUZHU0FnTDdnSUgwa051M0d5SXR2dnBrYmo1ZElLa21vdUd5dXVzQThKTEFZbENjMG5wcDJ4aTZTZUprenhRVDAxTTNiWV9JZFZmRVMxX2Z6YzQzRjVJRnp6cDEzZFlJb3Mzdzd3OGVBX1RVSE92TUtuQ3FjMzlHRWRMdGM?oc=5",
-   "pub": "Tue, 08 Sep 2026 20:08:49 GMT"
+   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
+   "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
    "pub": "Thu, 03 Sep 2026 10:00:00 GMT"
-  },
-  {
-   "t": "Iran soll Angriff mehrerer Terrorgruppen auf Israel planen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUlkVDliY2FpTFZ2Y2ZyQjk2MjhTOFcydXBKN0FWc0xhN3FDR3JtSUpWRUVDd2U4WldJRHctY1dfTXd5SDNKQkZQWHUtcmE4bk1FNEY0aGdyS216cnBGZFZNZHV0Nk1neFBLS1E3XzRTSTljenZfeWN5ZGUtUThCNFFqWUZOWG1FZGltZWxYLVdsWmlSclNxMmJKb3dWRDdUSUNndg?oc=5",
-   "pub": "Mon, 07 Sep 2026 07:59:00 GMT"
   },
   {
    "t": "Straße von Hormus: Iran plant offenbar Sperrzone außerhalb der Meerenge am Persischen Golf - Spiegel",
@@ -89,24 +99,14 @@
    "pub": "Tue, 08 Sep 2026 11:05:22 GMT"
   },
   {
-   "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWjRXWHNtaFdISmxCU1liZF9uX1lFdENicGFBR2FlYjJ6TjMtOVdjelM3UHJjY0FJX0c5SjRIZk41T014WWNQLUNXNmowRkZUVjhaMTdjcVVsa21wdnZNNkFvQkFLTXJwVktsQVZyVTdsUGpRak1KbU1Qb3VtRGtqRWhNNnlCcDJGYlJFZDFRY0l6a1EwR0UtOEZ1bnFIaHJDTk9OZDluQzhiWEVUSjlCRlUxUDF4dDlvanFvamdOQzlzbGxsNjdGLXJWTGp5N0VHVkVreHQ1ekZ5OWM?oc=5",
-   "pub": "Tue, 08 Sep 2026 03:07:33 GMT"
-  },
-  {
-   "t": "Iran: »Dank an die Regierung: Wenn ich protestiere, wird sie mich hinrichten« - Mena-Watch",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pbGZPLXhXSTJEN1Z2OERWSDB3RlB5YTg0VDhHT2gwYnNDckNwcmxQTkhsV1FIT3cxOUZzRnl5elR4UEZRSmE4aW1ucGo1d0pFNkZWeFhNQm1neW1yQ3R3?oc=5",
-   "pub": "Tue, 08 Sep 2026 14:12:02 GMT"
+   "t": "„Technologie zu verbieten funktioniert nicht“: Irans Vizepräsident erklärt die Internetsperren für gescheitert - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzhHcXhUN1NneUo3cHo3aXAweUE4SDhycjZTZndWMl9CVjhXNG43RWR0VVJNbGZJUHgwRUJBbWh4Wm81ZUlMTTd0cS1IdUNQZUFRUTRtOUJTNG9qcWt3UzhpWkh4ek5mYnp5cUFMUV9PTHZMMU9JUHB4QktGTmFieTdXU0tPUDJpSURnS1hSOEszWHNrWkxVendGWWxIMENqaEFVZDdoQVI1TFU?oc=5",
+   "pub": "Tue, 08 Sep 2026 21:41:30 GMT"
   },
   {
    "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURsa2c0Rm44NjIydmEyR0YtSnREN01tdmNlTVc1c24wa2dlazFFelBUaUFBbDdIdTVxX2NhR2tGeGhtc1NoTVVtUDBmYWtVN0dpdkk0TzkyeFZGZG1NSFdOVnlQSzhiUXRsU3BjaUhydXRyQUlkODc3MkJPdU5TTktrb1pmS2pKWHJ6Sm5uTmFURDk5X2xkU2FsSTZBaEw4aWl6NFhVcGViNjA1RTJKMkhpVV9yWFFMVmRVbVVn?oc=5",
    "pub": "Tue, 08 Sep 2026 07:42:45 GMT"
-  },
-  {
-   "t": "USA und Iran beschießen gegenseitig Schiffe - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSHVCbmxVQlA2cHg1TVJqR2ZSTmdXeVo3dUJlZ2Jjc25sMUF1Umo5a3paRkcwdTQ4OU14ajNCQlVwNlpiQ3VWendHdXpLMV90QXhhTHpnODBEcFZwdzQ0?oc=5",
-   "pub": "Sun, 06 Sep 2026 07:17:25 GMT"
   }
  ]
 }
