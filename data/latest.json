@@ -1,97 +1,62 @@
 {
- "collected_at": "2026-09-10T00:16:22Z",
+ "collected_at": "2026-09-10T04:52:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8099,
-   "chg1d_pct": 0.1
+   "price": 0.8091,
+   "chg1d_pct": -0.0
   },
   "USDJPY": {
-   "price": 153.522,
-   "chg1d_pct": 0.03
+   "price": 153.448,
+   "chg1d_pct": -0.02
   },
   "GBPCAD": {
-   "price": 1.87,
-   "chg1d_pct": 0.24
+   "price": 1.8712,
+   "chg1d_pct": 0.3
   },
   "AUDJPY": {
-   "price": 110.859,
-   "chg1d_pct": 0.04
+   "price": 110.776,
+   "chg1d_pct": -0.04
   },
   "EURUSD": {
-   "price": 1.1637,
-   "chg1d_pct": 0.08
+   "price": 1.164,
+   "chg1d_pct": 0.11
   },
   "GBPCHF": {
-   "price": 1.0973,
-   "chg1d_pct": 0.15
+   "price": 1.0966,
+   "chg1d_pct": 0.09
   },
   "WTI": {
-   "price": 97.03,
-   "chg1d_pct": 4.3
+   "price": 96.16,
+   "chg1d_pct": 0.11
   },
   "BRENT": {
-   "price": 101.82,
-   "chg1d_pct": 3.98
+   "price": 101.08,
+   "chg1d_pct": -0.13
   },
   "GOLD": {
-   "price": 4435.1,
-   "chg1d_pct": 0.94
+   "price": 4449.1,
+   "chg1d_pct": 0.75
   },
   "SPX_FUT": {
-   "price": 7653.25,
-   "chg1d_pct": -0.35
+   "price": 7657.0,
+   "chg1d_pct": 0.17
   },
   "NAS_FUT": {
-   "price": 29472.0,
-   "chg1d_pct": -0.23
+   "price": 29440.25,
+   "chg1d_pct": -0.03
   }
  },
  "headlines": [
   {
-   "t": "Erneute Angriffe zwischen USA und Iran in der Straße von Hormus - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzVEhwUFo5WC1tZnNybWFfQ2NsbUlCWTZhMXpGdVE4TUNMMkFoTVNYZm94RjlZaklPZi12UE1CZWZkQmlhWngzUUxIUE1pdFRLNjJJeld4bjMyekVTU09lR0pYSmNlV1RuSDBMMGJ5SQ?oc=5",
-   "pub": "Wed, 09 Sep 2026 19:09:08 GMT"
+   "t": "Bis zum Ende der Amtszeit: Bericht: Berater bereiten Trump auf jahrelangen Iran-Krieg vor - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXJVY0RkZkZ0X3pNaVJnNGxxalFDVTZlRTlFYkRTY1FscGxrR1pCRUhlVDY3QXkxVEJHZFZqUEYwTEZSOW00b0l6eVY2Zzlyb2oyUWlYMk5kSk8zdmhDRnVsUFp6Mk12UF83OUttN1hYb2J6WHp0d0FkeUhaWllUT2xBQU5NVkw0M3ZtYlZmbW8xa2N5ZXdVSGNJRzhBMlhoNFEtaUJfekY?oc=5",
+   "pub": "Thu, 10 Sep 2026 03:30:43 GMT"
   },
   {
-   "t": "USA und Iran attackieren einander wieder - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTJFdlBPMWtfVFpqczJtMzFkQWh6R0xxWElpdi1GZXYxRUM5c08wSzhtcFc2NG5FcF8wbEtxNlBQaVVFWm9wMXdEcjlwYXdVY2JiV3c4dHNJdl9Dem5YT0VVLTZVckdnZmY0bGdpYTdCeEFBNktTUTFrODEzc01DYVluSGM0eE81WndOZHJUQ3VEOVB0SDhZQ0JvdTI3d2x5czBDTzNjazViNlpLLVVnQtIBsAFBVV95cUxPeE04Y2lLU0ZpY0Z4eGZnZFY5SjZOTHJBd2tyaGhMd2pxOFJXYXJOTHl5dmplakZKbXZZcUpzelhVSnQ0MjVmZTY0cWNUYjgwbVY5T0c2VDVXWXJBNUVJTlJNaHBHUUhsSUl1WENxS09yb3BwR0ZZNFNFQjJsMElaazZBbUlHcnNGSDZJV2tXeC1MckdsNTJ4SlBvYUVRZklfRDdXd1d1RGlINm1kb3hOWQ?oc=5",
-   "pub": "Wed, 09 Sep 2026 07:42:56 GMT"
-  },
-  {
-   "t": "Naher Osten - Berichte: Iran und USA greifen gegenseitig Schiffe an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGF4OWZ1MFM5SnRDS3U3Z0ZwVnplc0d0Z2ZOV0c4R0h4eFM3em9qTWhWdEZLcENGOW1pcWg5eDVnb21XQzJkT3hwUWgzU192VmRWVU9DWmNzdlUweWtmanlFOWlqeWMwaVRYYi1ZS3JKXy1vXzJ3N1IwM1ZGaWVpTW5maWVaWERXa3BSS3dQNnFsbXNrUGFn?oc=5",
-   "pub": "Wed, 09 Sep 2026 18:17:30 GMT"
-  },
-  {
-   "t": "USA belegen 27 iranische Airlines mit neuen Sanktionen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1BUTDB4MDNjanllVWlIZzVxYmxtYy1CblFxZC1FaHczYzdYZElKN05tVzl0SlJ4WG5xRWI4MTBRYXN6M2dudVk3clJtMXZKcjVUdXRwdTMzbWlNWk9RRjZKNXNibUdVMlo1V2dUYnF3bHQ2N3A1WExub3kwT01WUlAzSEFxRll3ZjJfOHJKejdlU0FIcjlzeld5eEc3SkJzeTFINGswWVdKYzVmenFFdzBMaUtQQnNSY0NEeGpZYUt1dw?oc=5",
-   "pub": "Wed, 09 Sep 2026 04:15:00 GMT"
-  },
-  {
-   "t": "USA zerstören iranische Öltanker - Iran reagiert mit Angriffen - zdfheute.de",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0I4dGpmUS1IYktRQ1JOY3Zhci1Wc05NeXpPMlNMYnFYRTVYbktTaXptMG53WTROSFNnZTBkMldzX3Rwa1BiZWNTVUJwSWpFTDV0dXdDdTlTYnB0MjRPQWtwVGQyelRESmp5UmlKazg4ZnQzcG55a190WUp2eHpXQmM0bnlBdnZJSnVVVW1zWGdyNm1GQ1hNQm0wYw?oc=5",
-   "pub": "Wed, 09 Sep 2026 03:28:42 GMT"
-  },
-  {
-   "t": "IAEA verweist Iran wegen Nichteinhaltung von Atom-Vereinbarungen an UN-Sicherheitsrat - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTF9TdnJvbngxdUUtdFVWMkVIS0pjeFpwTFoyQVAydEVTTFlFNEswQk55NUFxdFl6VUgtdzV0Z1V2TnZYWFFwYzJDaEozT0xxbmFpb1J3d0REdF9Jb3VZZF81QVFZdV9zTHdITEthdXI4M0hTR2dEOEtIaHF2aUplbjNqODhTc3BPVVhfeWpOdnBrSmFWY3NsbndLYjdQSFFTckJGcC13SDFiREpfRnhOaWoxa0h3b2VCR1F6dGlJUWFjQzg?oc=5",
-   "pub": "Wed, 09 Sep 2026 20:28:03 GMT"
-  },
-  {
-   "t": "Iran-Krieg treibt Spritpreise: So viel kostet ein Liter Benzin oder Diesel an der Zapfsäule - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2U3dU9PRGo3MmlMdG55WU1Nb2xmR2FnREZ1cWZfdmZPS0Q1RUdmSGoyUHpZU0FCNGJEYXZLUFcxa2k4Slo5anFpaDRTNDdLcnN5dS1SMzZYQkdUNi1xOXliYkRfWjFtUlhodXNObE8xZnE0aEZnOEl1T0NkUXJXdUh6VXZTaU43T1NMWkZvcFloTm5fbjlfeHVSenEtcDJtTFZnZUtUTlI5STVxMGpfTVFvM2x0cUhSeVFn?oc=5",
-   "pub": "Wed, 09 Sep 2026 20:50:15 GMT"
-  },
-  {
-   "t": "Nach Hinrichtung eines jungen Rappers: Berlin veranstaltet „Abend für den Iran“ - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0lsNVBVTzEzQng5NzBaMDlheUN2VDVHTFpZNm5vZHVSWWgwRTN3ZDVkLVJjQkJRLWRVZEFvY3RMaXJoWUJIM2V6clpReUoxS1hwMzU3TDJzYzJjbXVSVVIwTFU1UGlPbEVVZWxtVXppbC12ZE43YkNiYjRjZ3dKOTV6T2FoVFg5R2RUMXFSSGFTTTVEeDZDNG01LS01VHR0S0YyMDZ2UmxiRlNjdWtlVmcxM1JxVzFEQ3c3Tw?oc=5",
-   "pub": "Wed, 09 Sep 2026 17:05:21 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Angriffe treiben Ölpreis auf 100 Dollar - zdfheute.de",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalY5aEpJWDhkSVJRNURXd2FSY2FZdDI5cGpBWjVmaEpHT3FGUjFGRzdvbDA0bTNRcU5sNEZjTGZ5dUx3dmFWYkc1RlFDLWExdmhFWWFMc3A0ZEtmU2lqOVZ0UXEzVHN5VEVhdmJWcGdIV0RMTTlNZUVhVlpsQzEyY1JVcy1NaFNDS3JBb19Ea1VrUzg?oc=5",
-   "pub": "Wed, 09 Sep 2026 08:08:00 GMT"
+   "t": "Erneute Angriffe zwischen Iran und den USA in der Straße von Hormus - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XLXBldFZ5bGJWMDNDUUJValdrUVVvLTVBQWFnR3JHVkJjZ2oteERWQnl3MXhyc0FJckttN2JUOWhtdGN4alVmT3ZUTW5pd21vTWFyM0JkSTU1dW1INzE0?oc=5",
+   "pub": "Wed, 09 Sep 2026 15:47:56 GMT"
   },
   {
    "t": "Trump: Iran-Krieg endet „sofort“ nach US-Kongresswahlen im November - STERN.de",
@@ -99,14 +64,49 @@
    "pub": "Wed, 09 Sep 2026 19:38:19 GMT"
   },
   {
-   "t": "Der Iran greift die USA jetzt auch auf See an - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQckFOV2RyZWtGOWJ5R1gwX1JZcFhGMndtVkp6TDhrWThkcXhGWnpOZ2JvZ2dIWDhlQWljVVdNdllVNUxPcUptUm56cmVQVllzei1BRVFmOFdGYnV2bUVPcm5hZlpnWlhJNGdKdDNHT0ZINXZNMXZhUXhGS3V5RTROaEtZZGJWeGItSFpaR0dwUGFJOWpoRzV0Zk1ybU1QTTRoNXVqTWNsSXpKSnBfWHk0R3hfRjNlcmk0dlZOREdR?oc=5",
-   "pub": "Wed, 09 Sep 2026 07:21:00 GMT"
+   "t": "USA und Iran attackieren einander wieder - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTJFdlBPMWtfVFpqczJtMzFkQWh6R0xxWElpdi1GZXYxRUM5c08wSzhtcFc2NG5FcF8wbEtxNlBQaVVFWm9wMXdEcjlwYXdVY2JiV3c4dHNJdl9Dem5YT0VVLTZVckdnZmY0bGdpYTdCeEFBNktTUTFrODEzc01DYVluSGM0eE81WndOZHJUQ3VEOVB0SDhZQ0JvdTI3d2x5czBDTzNjazViNlpLLVVnQtIBsAFBVV95cUxPeE04Y2lLU0ZpY0Z4eGZnZFY5SjZOTHJBd2tyaGhMd2pxOFJXYXJOTHl5dmplakZKbXZZcUpzelhVSnQ0MjVmZTY0cWNUYjgwbVY5T0c2VDVXWXJBNUVJTlJNaHBHUUhsSUl1WENxS09yb3BwR0ZZNFNFQjJsMElaazZBbUlHcnNGSDZJV2tXeC1MckdsNTJ4SlBvYUVRZklfRDdXd1d1RGlINm1kb3hOWQ?oc=5",
+   "pub": "Wed, 09 Sep 2026 11:36:29 GMT"
   },
   {
-   "t": "Iran-Krieg: USA zerstören fünf iranische Tanker - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXVjNlRUY29NMjlmZm95a1pHRnQ4b01WVmxJWmlnVzRKSVNPTkExZVJBNUN4OW03Yk9WOUlqbGdvZllFdVktYXRFVWE5bXpmalZndm1PQ1QzeG0wYmV5ejdiU0FqNkRnUmxfdFhFNXA5dU5vY3M5OVphMXdLNjRYd2t1cFlBNWkyY3VUbzh2RXU3VGR1OG9IdTlQZ1V1MXVpNWRpc1g4SkNvS2RweE9GbnNB?oc=5",
-   "pub": "Wed, 09 Sep 2026 03:39:28 GMT"
+   "t": "Naher Osten - Berichte: Iran und USA greifen gegenseitig Schiffe an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbGF4OWZ1MFM5SnRDS3U3Z0ZwVnplc0d0Z2ZOV0c4R0h4eFM3em9qTWhWdEZLcENGOW1pcWg5eDVnb21XQzJkT3hwUWgzU192VmRWVU9DWmNzdlUweWtmanlFOWlqeWMwaVRYYi1ZS3JKXy1vXzJ3N1IwM1ZGaWVpTW5maWVaWERXa3BSS3dQNnFsbXNrUGFn?oc=5",
+   "pub": "Wed, 09 Sep 2026 21:13:30 GMT"
+  },
+  {
+   "t": "Iran-Krieg treibt Spritpreise: So viel kostet ein Liter Benzin oder Diesel an der Zapfsäule - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ2U3dU9PRGo3MmlMdG55WU1Nb2xmR2FnREZ1cWZfdmZPS0Q1RUdmSGoyUHpZU0FCNGJEYXZLUFcxa2k4Slo5anFpaDRTNDdLcnN5dS1SMzZYQkdUNi1xOXliYkRfWjFtUlhodXNObE8xZnE0aEZnOEl1T0NkUXJXdUh6VXZTaU43T1NMWkZvcFloTm5fbjlfeHVSenEtcDJtTFZnZUtUTlI5STVxMGpfTVFvM2x0cUhSeVFn?oc=5",
+   "pub": "Wed, 09 Sep 2026 22:26:03 GMT"
+  },
+  {
+   "t": "Nach dem landesweiten Aufstand - Hinrichtungswelle im Iran ebbt nicht ab - rbb | radio3",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazV4NUR5SGVhRU9pY2tza0x6ejFVUmNkS1dhcEd5UVFWdXBVcTFyUGN0TERWUlJwRjdyMk9Ld01Mc1ZtUFJwRlF6bWFUaE9SbzBqRDRWNVl3Qi03cUhTc3liSXhKcXZaYTl1bFZwNmpReGt6UEs2N1Rud1NEX1F1S1JXZlJkNHAtWk9JSE85eVI1MU10VUhDZUVpdk1XZDV5bWFobENWTWd5dW1PYTBtV2dJNA?oc=5",
+   "pub": "Thu, 10 Sep 2026 04:04:21 GMT"
+  },
+  {
+   "t": "Nach Hinrichtung eines jungen Rappers: Berlin veranstaltet „Abend für den Iran“ - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0lsNVBVTzEzQng5NzBaMDlheUN2VDVHTFpZNm5vZHVSWWgwRTN3ZDVkLVJjQkJRLWRVZEFvY3RMaXJoWUJIM2V6clpReUoxS1hwMzU3TDJzYzJjbXVSVVIwTFU1UGlPbEVVZWxtVXppbC12ZE43YkNiYjRjZ3dKOTV6T2FoVFg5R2RUMXFSSGFTTTVEeDZDNG01LS01VHR0S0YyMDZ2UmxiRlNjdWtlVmcxM1JxVzFEQ3c3Tw?oc=5",
+   "pub": "Wed, 09 Sep 2026 17:05:21 GMT"
+  },
+  {
+   "t": "USA belegen 27 iranische Airlines mit neuen Sanktionen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1BUTDB4MDNjanllVWlIZzVxYmxtYy1CblFxZC1FaHczYzdYZElKN05tVzl0SlJ4WG5xRWI4MTBRYXN6M2dudVk3clJtMXZKcjVUdXRwdTMzbWlNWk9RRjZKNXNibUdVMlo1V2dUYnF3bHQ2N3A1WExub3kwT01WUlAzSEFxRll3ZjJfOHJKejdlU0FIcjlzeld5eEc3SkJzeTFINGswWVdKYzVmenFFdzBMaUtQQnNSY0NEeGpZYUt1dw?oc=5",
+   "pub": "Wed, 09 Sep 2026 04:15:00 GMT"
+  },
+  {
+   "t": "IAEA verweist Iran wegen Nichteinhaltung von Atom-Vereinbarungen an UN-Sicherheitsrat - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTF9TdnJvbngxdUUtdFVWMkVIS0pjeFpwTFoyQVAydEVTTFlFNEswQk55NUFxdFl6VUgtdzV0Z1V2TnZYWFFwYzJDaEozT0xxbmFpb1J3d0REdF9Jb3VZZF81QVFZdV9zTHdITEthdXI4M0hTR2dEOEtIaHF2aUplbjNqODhTc3BPVVhfeWpOdnBrSmFWY3NsbndLYjdQSFFTckJGcC13SDFiREpfRnhOaWoxa0h3b2VCR1F6dGlJUWFjQzg?oc=5",
+   "pub": "Wed, 09 Sep 2026 20:28:03 GMT"
+  },
+  {
+   "t": "Iran-Krieg: USA zerstören fünf iranische Öltanker - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWItT1ZUYTNDdVB3X3czNXhMQWFuZVRJbGt5c0pSdW1MNTVSSkJsUE5wRXNGX04xSjd0My14Q3ZWTHZIQlA2SmJQNWt4NzkyTHZjdlpzUFU3UDhSeHdQMHVEYjFiOFJtMkhYUmVtN1A3U0diWWtEQzBCVGpiRmJiU3c3ZDhQWmFnZmk2MXdPUnIxR0F3QXJz?oc=5",
+   "pub": "Wed, 09 Sep 2026 08:00:00 GMT"
+  },
+  {
+   "t": "USA zerstören iranische Öltanker - Iran reagiert mit Angriffen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0I4dGpmUS1IYktRQ1JOY3Zhci1Wc05NeXpPMlNMYnFYRTVYbktTaXptMG53WTROSFNnZTBkMldzX3Rwa1BiZWNTVUJwSWpFTDV0dXdDdTlTYnB0MjRPQWtwVGQyelRESmp5UmlKazg4ZnQzcG55a190WUp2eHpXQmM0bnlBdnZJSnVVVW1zWGdyNm1GQ1hNQm0wYw?oc=5",
+   "pub": "Wed, 09 Sep 2026 03:28:42 GMT"
   }
  ]
 }
