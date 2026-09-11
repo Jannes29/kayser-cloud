@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-11T00:11:36Z",
+ "collected_at": "2026-09-11T04:43:04Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8128,
-   "chg1d_pct": 0.35
+   "price": 0.8133,
+   "chg1d_pct": 0.41
   },
   "USDJPY": {
-   "price": 154.376,
-   "chg1d_pct": 0.52
+   "price": 154.316,
+   "chg1d_pct": 0.48
   },
   "GBPCAD": {
-   "price": 1.8693,
-   "chg1d_pct": -0.04
+   "price": 1.8688,
+   "chg1d_pct": -0.07
   },
   "AUDJPY": {
-   "price": 110.527,
+   "price": 110.531,
    "chg1d_pct": -0.32
   },
   "EURUSD": {
-   "price": 1.1616,
-   "chg1d_pct": -0.15
+   "price": 1.1609,
+   "chg1d_pct": -0.21
   },
   "GBPCHF": {
-   "price": 1.0983,
-   "chg1d_pct": 0.08
+   "price": 1.0982,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 103.75,
-   "chg1d_pct": 8.02
+   "price": 102.45,
+   "chg1d_pct": -0.03
   },
   "BRENT": {
-   "price": 108.81,
-   "chg1d_pct": 7.51
+   "price": 107.84,
+   "chg1d_pct": 0.2
   },
   "GOLD": {
-   "price": 4358.6,
-   "chg1d_pct": -1.3
+   "price": 4370.6,
+   "chg1d_pct": 0.14
   },
   "SPX_FUT": {
-   "price": 7598.5,
-   "chg1d_pct": -0.59
+   "price": 7611.0,
+   "chg1d_pct": 0.16
   },
   "NAS_FUT": {
-   "price": 29087.75,
-   "chg1d_pct": -1.23
+   "price": 29123.25,
+   "chg1d_pct": -0.04
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Thu, 10 Sep 2026 21:21:00 GMT"
   },
   {
+   "t": "Helfer der Proxies im Fokus: USA fahren im Wirtschaftskrieg gegen Iran weitere Geschütze auf - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDNlbm5qMmE0dFZjaEpFOU9Ia0NtY0lVUXl2NXNjUE5IdUdxTDFyS1k0QldWNE1NWTlzNUhaZmxJTV9FcnJJRGNXRnR2NnZRNW5ib0tuSHBIMXZfYVUzQ3I5c0J5ZE5PRFBTUV9ic2kyX2QxNzM2eWhWNTk0U2xoZFBUWEdtOVhOOE1ITUZ0VzNfYnF2NVpFNDdZSWZUcWxZSjhsbGNManRsVkZ3?oc=5",
+   "pub": "Thu, 10 Sep 2026 22:44:49 GMT"
+  },
+  {
    "t": "„Wird sofort nach der Wahl enden“: Trump sagt vor Parteitag der Republikaner Ende des Iran-Kriegs voraus - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXFMMDFJOExXeW1ZUEM3WVkzODg4NHFybl90RTUxUDk2YkVFUXFaOXRubDZSV29LeHUwOXpiVW0yUFBHNWNuWU1IRG1HT29kMExZZHJpR2dNNFBMam40VUEzZ1E5V2dxdUV3OGstdDhtQ2ZSYThjUkJmYTJlQndPRks4NW9lRHowbFZRd281emx1VXdVZzVfOVdSMEloN2RYajRUNjlkSTg?oc=5",
    "pub": "Thu, 10 Sep 2026 18:05:44 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Huthi nehmen wichtige Hafenstadt Mokka im Jemen ein - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXNiODVxUmxGeTVWLUh1bTAyR051b3BqQU5yMjc1S1pCdUdNSlVWSnNYYlpPdmt0OUw3VWktM1RiclNsWUc2RzBzY19uX2xzbERTbm9kUm5VeWY4SGpDYm1tSG5CeVM0QVpzbkdYMmxiQ1RiRGpZSGsyLWppV0hDZ1Ywd0NCTFBrSklPMC0zRzdIUWM1dVItTnVOMFhhZjQ5TTBVVHliMk9DN1dCVEg4RFZ3Wnh3eE9zTGsxeFdOU1ZoaDVPMHdR?oc=5",
-   "pub": "Thu, 10 Sep 2026 14:51:56 GMT"
   },
   {
    "t": "Iran bereit für »Blitzoffensive« - Jüdische Allgemeine",
@@ -79,19 +79,14 @@
    "pub": "Thu, 10 Sep 2026 01:23:15 GMT"
   },
   {
-   "t": "Bis zum Ende der Amtszeit: Bericht: Berater bereiten Trump auf jahrelangen Iran-Krieg vor - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXJVY0RkZkZ0X3pNaVJnNGxxalFDVTZlRTlFYkRTY1FscGxrR1pCRUhlVDY3QXkxVEJHZFZqUEYwTEZSOW00b0l6eVY2Zzlyb2oyUWlYMk5kSk8zdmhDRnVsUFp6Mk12UF83OUttN1hYb2J6WHp0d0FkeUhaWllUT2xBQU5NVkw0M3ZtYlZmbW8xa2N5ZXdVSGNJRzhBMlhoNFEtaUJfekY?oc=5",
-   "pub": "Thu, 10 Sep 2026 03:30:43 GMT"
+   "t": "Bankkonto wegen Iran-Bezug gekündigt? Ihre Rechte in Deutschland - Anwalt.de",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUIwdy1KSy1OSUU0TEE1bUhXNnVVTE4yWHYwQllFWkt4bDNfdzBzOGtILU9JN1lSVm54MTA1QndEN3hHS1pCYksyc1Jyb0FMZlMtdUhPRmNPNXNkaEc3SVkyM2g3Uk15aUFxMVpJSGs1bDMxMnBDOXJUT2hjOXcxWFplYmQ4WFpJdTZuNE1ITElidThYOURiZUszdlVfSlc2Ym1VdU1uMVVrZ1BxYWZZ?oc=5",
+   "pub": "Thu, 10 Sep 2026 23:43:24 GMT"
   },
   {
-   "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZl9EMTJSV3pyWW8yRG5yN1hmeXVWMTNBaHJuZ3JUSFZRRFY4SmZlZTg5UFF4U3hBaTFBdWo1a3R2WEhhU3JUYVBuVWt4bVJ1a1RfNHg0OTV4cWxkLVk3d21QdlBlR3N6WWZkeGhQeFlqRkllTmdJSWR1Ykh2U1RpWXE4azhfS0JYQmZsaWFKSTRYMkt4bEpwRkE4V3EwbTZNNTVxbFNOdm5DV2Z3Q29SZ0VLOWlOeUJFS2F4QkMzNm5ySklGczZkc3NiVmJTMm5INTRxQUdqN2EyU1E?oc=5",
-   "pub": "Thu, 10 Sep 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Trump: Krieg mit Iran soll kurz nach der Wahl enden - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnEzNzlKampSYmdaSTlmWk1VSmJGMDQ5TGV0SzVEU0RyTGptZ0VvdjBBckFtRW5CcjRvVENYODhrUnM0ZWF0N1cyS0k2YW1SNV8yMWJhTE9yNTNuRGMwQS1WWkRZWWJRZTR3TlluRGRuWGVBcGRLMW0wdmg3LTBhbGY3cnR2STl0aW5CUkROc2wyZUtlMHEyV2RLdw?oc=5",
-   "pub": "Thu, 10 Sep 2026 07:17:00 GMT"
+   "t": "USA zerstören iranische Öltanker - Iran reagiert mit Angriffen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0I4dGpmUS1IYktRQ1JOY3Zhci1Wc05NeXpPMlNMYnFYRTVYbktTaXptMG53WTROSFNnZTBkMldzX3Rwa1BiZWNTVUJwSWpFTDV0dXdDdTlTYnB0MjRPQWtwVGQyelRESmp5UmlKazg4ZnQzcG55a190WUp2eHpXQmM0bnlBdnZJSnVVVW1zWGdyNm1GQ1hNQm0wYw?oc=5",
+   "pub": "Wed, 09 Sep 2026 03:28:42 GMT"
   },
   {
    "t": "Saudi-Arabien unter Beschuss: Pakistan warnt Iran wegen Huthi-Attacken – „Ihr bekommt es mit uns zu tun“ - Frankfurter Rundschau",
@@ -99,14 +94,19 @@
    "pub": "Thu, 10 Sep 2026 10:09:37 GMT"
   },
   {
-   "t": "„Dieser Krieg wird unmittelbar nach unserer Wahl enden“ – Trump macht neue Ansage zum Iran-Konflikt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTFUT2xmdmtKZ1BHLVlWM0lCbDl4bDdjMWFoMUxqREhSdjBMVl95UndMUVhQbC03YnZZRVlrMmRKRFY4b1VVMEJXMUJWbUlzREhQbjZ5SHRodFFsU09Beml6T2ZRekV1Z2tnRVlKemNHVHlaeWNnM0toOTJ6RFB3Z1FSSFNCRkwyeG9tdnpJZG9lQlYxblhzTnEwcmYydWwxMmFPeg?oc=5",
-   "pub": "Thu, 10 Sep 2026 08:26:26 GMT"
+   "t": "Trump: Iran-Krieg endet „sofort“ nach US-Kongresswahlen im November - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjZpMXBnaWlaa1VLRDVrU21FYUJIMk5OSk4xSHk5dmVBSkRVcl9SX3BYTlFXZFc0SHFsTXd5NDFwX1BXUUNxNXQzQVlTUWdleWJnRHJWbVFqaUE2eG5aVzR3WlE5b1FQZHZvZ0pnYnVQakVnV2NhdDloMmRoNUdQel9UYmotVE16aDEzVEJ6UldOaTF3ZmVwandlSXFoTU1MQ1N5di1EMU1zamM?oc=5",
+   "pub": "Wed, 09 Sep 2026 19:38:19 GMT"
   },
   {
    "t": "„Satanfisch“ gekapert: Iran erbeutet geheimes US-Minenräum-U-Boot in der Hormus-Straße - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmtoZzVsNklvTFZEV3dfb1g0dnNFMS02QnQ1bmhycW1rNzhleTVXTUVWeW9XLWJZQWVRMjNoMkw3OHdrTFlSUE1SeVpxX0VNVVJtNUY5ekdUb1FHNl9hS29ocVE4bjZmei1XOXRLVVd0dzZlQWtqR1ZWWWpPMVNZUlRwcm1aekNCQzR2NFRudHl1LWhHVEVFUEFYX2ZaWHlRNS13?oc=5",
    "pub": "Thu, 10 Sep 2026 09:14:07 GMT"
+  },
+  {
+   "t": "USA beschießen iranische Tanker – Teheran feuert Raketen auf Jordanien - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGNNYU9vYVRfcVJ5eWNLUWVvWHh4NnFqZ2EzSEU4TjVUb2puN19uNnhyVTAwSml4TWZ6RFJCNDNZM1pXQmNGbEdtbXVhYkxZZmlxZ0JDQ2pnUFk2UHR0MnZnUU5xeXFFazJxUjlRdldGSjIwVC03ZktzUDA5QV90b0dFS1hMbFlxUjZJOV9Cd1lTbHN1SEhCZEY5ZFFQSnhjRE91N3Rpbl9BT2JVUzhCZkNqNk96c2Q3aW9fSlRkMHJqOUV2VUQ2ZzlodjZBRHM1WERNNkNn?oc=5",
+   "pub": "Wed, 09 Sep 2026 02:29:00 GMT"
   }
  ]
 }
