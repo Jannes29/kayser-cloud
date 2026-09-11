@@ -1,67 +1,72 @@
 {
- "collected_at": "2026-09-11T14:27:11Z",
+ "collected_at": "2026-09-11T18:34:46Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8149,
-   "chg1d_pct": 0.6
+   "price": 0.8168,
+   "chg1d_pct": 0.84
   },
   "USDJPY": {
-   "price": 153.541,
-   "chg1d_pct": -0.02
+   "price": 153.718,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8756,
-   "chg1d_pct": 0.3
+   "price": 1.8748,
+   "chg1d_pct": 0.25
   },
   "AUDJPY": {
-   "price": 110.233,
-   "chg1d_pct": -0.59
+   "price": 110.237,
+   "chg1d_pct": -0.58
   },
   "EURUSD": {
-   "price": 1.1612,
-   "chg1d_pct": -0.19
+   "price": 1.1597,
+   "chg1d_pct": -0.32
   },
   "GBPCHF": {
-   "price": 1.1022,
-   "chg1d_pct": 0.44
+   "price": 1.1045,
+   "chg1d_pct": 0.65
   },
   "WTI": {
-   "price": 99.65,
-   "chg1d_pct": -2.76
+   "price": 100.31,
+   "chg1d_pct": -2.12
   },
   "BRENT": {
-   "price": 105.02,
-   "chg1d_pct": -2.42
+   "price": 104.93,
+   "chg1d_pct": -2.51
   },
   "GOLD": {
-   "price": 4420.9,
-   "chg1d_pct": 1.29
+   "price": 4391.3,
+   "chg1d_pct": 0.61
   },
   "SPX_FUT": {
-   "price": 7665.5,
-   "chg1d_pct": 0.88
+   "price": 7671.0,
+   "chg1d_pct": 0.95
   },
   "NAS_FUT": {
-   "price": 29384.5,
-   "chg1d_pct": 0.86
+   "price": 29429.5,
+   "chg1d_pct": 1.01
   }
  },
  "headlines": [
+  {
+   "t": "Irans Kalkül vor den US-Zwischenwahlen - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWFzT25wYmlUdTVjSWEtNlBoaXEzNEt1QkhzcFI0WEpJZUJKQnFreTl3SWwxRzd3WXBCaGhFWUo4TllLblB4VUZ5RVF1bVQwM1ROYzdVVnBrZEdaRFZrYVZoTTlPQ3d4VHFkNUxobThZc0ZTZXhDVWE0TFVuN2htZ1V30gGCAUFVX3lxTE5jUFJlSkFfV0R2SzJlLUZ1WFd2eHJ4WFpFZmZYRXRwQTNkNGJjVGFsc3JVbVNIcFhfc29pRVBfbWxULVRVUzdDdS1aSldQaGJLdmg1aEZCeHppaU5uZEMwSlBtR18yR3ZwNWxGT2tSZlVCUDFDMkR2bWc4WXlRVWg4Mmc?oc=5",
+   "pub": "Fri, 11 Sep 2026 13:59:57 GMT"
+  },
+  {
+   "t": "Jemen/Iran: Donald Trump hat direkte Angriffe auf Huthis trotz Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeHZzVnRlTmZXM1lsZjBFYl96b001anZvbWZxMkhYYXFybDJlQm5Hd3pKUXVuaTVKWXhGejk2a0lFSUJyajJ5a3NUYTJYMFdaazRWUzNKOGdzb2NLeUdBYTIxdllOZ19MZHdNT2RCdDByajB6U1ZaSE51dUdmRnNtUFRpSl90S0NQZEpSMXRhZEpTd0pYdlVaQUNtV085b2hzWUlxQ1VqRndYRTBERkRRMklDVEpRS1QxSlJabTVGNDNLUklKS3UzWGFQRnVkejV3Z0hnOWdlakhaMU1XYnk0SV9uemdVZ2d3SnE3Ymd2QUN4cUpSem5JOU1md21WamtMWTFLNlFHajJnWXND?oc=5",
+   "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
+  },
   {
    "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
    "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
   },
   {
-   "t": "Jemen/Iran: Donald Trump hat direkte Angriffe auf Huthis trotz Bitte von Mohammed bin Salman offenbar abgelehnt - spiegel.de",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeHZzVnRlTmZXM1lsZjBFYl96b001anZvbWZxMkhYYXFybDJlQm5Hd3pKUXVuaTVKWXhGejk2a0lFSUJyajJ5a3NUYTJYMFdaazRWUzNKOGdzb2NLeUdBYTIxdllOZ19MZHdNT2RCdDByajB6U1ZaSE51dUdmRnNtUFRpSl90S0NQZEpSMXRhZEpTd0pYdlVaQUNtV085b2hzWUlxQ1VqRndYRTBERkRRMklDVEpRS1QxSlJabTVGNDNLUklKS3UzWGFQRnVkejV3Z0hnOWdlakhaMU1XYnk0SV9uemdVZ2d3SnE3Ymd2QUN4cUpSem5JOU1md21WamtMWTFLNlFHajJnWXND?oc=5",
-   "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
-  },
-  {
-   "t": "„Keine große Sache“? Vance und Rubio glauben intern, dass der Iran-Krieg Trumps Amtszeit überdauert - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTNuSXNFMXMwOU4yWm9OUmJNVV9JdEJkZ2RTTW9DTTFlMEd4ODd1Rk1MLVdvM2xrRmQ3dDgyLTA1UkpPeEVpZWNyTDdaT3Y4SDlTU0xiTEotUkJQR3I4NGhyT2pfZVhMRDVQUjR2cFlMRjJCaUlOd3NXdlc5ekRfRXlvM2JKQTRNVHI1S0wtTGN5dEt0OHpzYVh5MzZoM014ZXF6aE9pTXE?oc=5",
-   "pub": "Fri, 11 Sep 2026 11:31:26 GMT"
+   "t": "„Deshalb kämpfen wir heute“ – Trump rechtfertigt Iran-Krieg mit 9/11 - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFpFMTJ4MFNESTdGVkhvdm00cUl4WE41Sm9TblUxYmZTSFhZUkRlN1E4c1JpQXhZY3NSbGFfMld4elo2ZWpwRkkwTmZZTENKVnRyWTJ3ZWtKSmRjX0VEVFNJal9DN3FFNzI0VF9KX01HQUNfeUlxRi1UdTA1TGw3S2JQeXNGRDJoR1ozaGFqeXNyel9qdDM0T3FXYlBSM3ZqVVRlWFdxaGhSUVdWWlJMZW1XSFgxTmszOXlYYUsxVjhmY1Nlb1lEemhNSnFKamlZUGlmbmJBV0ZpY1R6WUFVVVByOXM?oc=5",
+   "pub": "Fri, 11 Sep 2026 16:14:40 GMT"
   },
   {
    "t": "Bericht: Berater bereiten Trump auf jahrelangen Iran-Krieg vor - n-tv.de",
@@ -69,24 +74,14 @@
    "pub": "Fri, 11 Sep 2026 06:45:00 GMT"
   },
   {
-   "t": "Bericht: Trump lehnt saudische Bitte zum Jemen-Krieg ab - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamt1Q2hMa1M2bzhUSnJhbXo1STd3ZjRQWmVnZmhHUGdiT0FWRzgwUWM5S3RiNndGb2FTR1Eta01MQlQyRmRrdUg4aUc5SkNyUVdvR0xZcHROWURPRVpkRlFkcUJlUnpnaGY2TWd1emUwZjQ0Unlzb2hFUGhmb0ozVDE1dkFiMXppTEZTUGN4aU51d3I3WHhKNHVFdWVyc2ZRNXQ0QUV5WV9hb1ZxYU9nc0pRcl9BQlhOYjB5alp5MGs2dy1QT0txSjRnSdIBywFBVV95cUxOU0hiYl95QXZmSGFVelhrZUN0c3RyTy1pVUY4MTNBeTFhZy1GUmlLeEFpaXZPLWM2bExIQUdFS1Vad1RUWWN0YmhTWENIRUZ1WEFKbWJYaEUwdk94d29nRG92VXU3LUFjdi1wMnRVclVjcjVxMkh5eGtya3B0Y2tDbHY1dlNDSXVPMzhrejdDMFh0SFNidGZwY3UwNEJpNzBzNFdJMjB3UW40TTdaVG9CdVVZZWVodDhfRWx5cUlXSXAzRFJlbVRlUEZ0QQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 10:16:45 GMT"
+   "t": "„Keine große Sache“? Vance und Rubio glauben intern, dass der Iran-Krieg Trumps Amtszeit überdauert - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTNuSXNFMXMwOU4yWm9OUmJNVV9JdEJkZ2RTTW9DTTFlMEd4ODd1Rk1MLVdvM2xrRmQ3dDgyLTA1UkpPeEVpZWNyTDdaT3Y4SDlTU0xiTEotUkJQR3I4NGhyT2pfZVhMRDVQUjR2cFlMRjJCaUlOd3NXdlc5ekRfRXlvM2JKQTRNVHI1S0wtTGN5dEt0OHpzYVh5MzZoM014ZXF6aE9pTXE?oc=5",
+   "pub": "Fri, 11 Sep 2026 11:31:26 GMT"
   },
   {
    "t": "Erfolg für Verbündete des Iran: Huthi-Rebellen greifen nach wichtiger Meerenge Bab al-Mandab - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0dVbkIyRU9oOVRsMXEtdkNJOTlORWJWSmlKMHA2dWV5RVFvWDJ4d25ubHdLbmtOZEZiclJfSmMyWE1HOUFvYlNMZERSR1JjZnEzT3Jidi1BTDlpemtzaDItSzVsdUtDMms1enVrWmU0RTNMNXFsdzlIbkM4VjBleThBbWdQOWtRamtVeDFOQnZ0ckpsTU1YemV4d2o?oc=5",
-   "pub": "Fri, 11 Sep 2026 14:04:09 GMT"
-  },
-  {
-   "t": "Iran: Krieg, Sanktionen, Inflation verschärfen Medikamenten-Engpäss - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWG53LXBYZkdkZ09LekJqa0NPNVZjMldOVUhIMFE2YUE0aTlFVHd4MjgzVF9tS1Vyb2JiRmRPM29tc3N2OGF1a0NkQkQzZ2dSX3NZMjA1aUhjOEJKcThtTElaYWt2dTllM0FWN3pNZTBQZHBobmMzbmJqaXBUUFdOS0ItQmxQbUtLV2pVWTQ2elVjNm9pRTNsejFiUXNQWENyZ1l2dlFXNFBDMTNxWUJVLXB4eTA4dw?oc=5",
-   "pub": "Fri, 11 Sep 2026 09:18:43 GMT"
-  },
-  {
-   "t": "Folgen des Iran-Kriegs: IEA senkt erneut Prognose für Ölnachfrage - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU21IZ0E1YjZIejdNUVVnbHBpa1lLY0p3bjF2UTJmWENPbkY1eHM0dXQwMUNyaEFheEoybWlMUUdfZUVaY2pvVGZUb1g1b3pnc3FOVnRMX1kzUHVaTTVpWkZzNkVQcUJLQkJCNGRySUNBNk9ZeFp3aF84MDZtV3BkZHJ0bmd3RFpGY1R4RTNmN2ZFa0lHTDFXVDIteUVyc1ZFeURMZXNjWmZDSnh1eHlEMDdOb3hVaGV0?oc=5",
-   "pub": "Fri, 11 Sep 2026 09:38:13 GMT"
+   "pub": "Fri, 11 Sep 2026 14:44:12 GMT"
   },
   {
    "t": "US VPI im August: Folgen für die Fed und die Goldpreis Prognose - XTB.com",
@@ -99,14 +94,19 @@
    "pub": "Fri, 11 Sep 2026 11:31:11 GMT"
   },
   {
-   "t": "\"Operation Economic Outcast\": USA verhängen neue Sanktionen gegen Iran-nahe Gruppen - spiegel.de",
+   "t": "\"Operation Economic Outcast\": USA verhängen neue Sanktionen gegen Iran-nahe Gruppen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWRGQS1OUFhVbGZZWEpXbWJZXy02d0ZrRmFLV2s4YWtWRGhsd1VWVU5VQzFaZlpOcktWa09JbFRSN0YxSEJKcWRoSG5ZbnVlYnpDc3l0VVp4S0E4Z3E0algzLVRaLXkxckdqNUtfR2twd2x1N2JlM2MzR040VmxfWU93bzZVRTQxTU04aFhFVzJvUWxmaC1fQzg3b2VRa2c5aVpydURPSEpuVG43TGFiVkhhSmFxd1QxQTdoWHEtOGlQUkY3UG9haQ?oc=5",
    "pub": "Thu, 10 Sep 2026 21:21:00 GMT"
   },
   {
-   "t": "Iran: Kalkül vor US-Zwischenwahlen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JNEFaczlRX3VMVjRjSXdDR3Exa0JiTVhIRzh2RGZ6MFpxc0s2MnUxYjRHemFESWpfWXJncU5TdlpWRnVfMzVPTnhpcF93ZjRFNG5JcmlvQVRJbm5DOF9uRndUWkRsSjVsVk80QXpLT1hidUc4LU5KQWtUSdIBe0FVX3lxTFBYVG1DSFd4aWhtSWJHUTRjUm1aa0RqYjEwX000TzByTUZNREtNU0l3aEdQVTcxT3VJZ3FLbE1yU0lJVEQtcnhIVk5UM0ltLXJ4RWtZcy1Eem9OUGRJcFNDM0VNOVloREsyYTJMcHRLNHBvci1LYXBQUHpaQQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 09:34:48 GMT"
+   "t": "\"Wir haben keine Wahl\": Trump: Im Iran-Krieg kann es \"nur den Sieg geben\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbUtDVzV0a3pTd1VidnRKMmR3TEwzNUZEWU5GRERDQnAzWV9FY09McXdwMzdvV0FTQU41UEtBVk1KenhucVN0OGhvUEVnbW8yQ2NlUzIydVJLcmN4RDd6aFNBWlpkNVlzWDVXSUF3VlhLZ25OTk1JVXNrYmZUWjV0V1JINzNsSXRCRk9UOWczbVl5d1Fv?oc=5",
+   "pub": "Fri, 11 Sep 2026 16:04:15 GMT"
+  },
+  {
+   "t": "Bericht: Trump lehnt saudische Bitte zum Jemen-Krieg ab - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQamt1Q2hMa1M2bzhUSnJhbXo1STd3ZjRQWmVnZmhHUGdiT0FWRzgwUWM5S3RiNndGb2FTR1Eta01MQlQyRmRrdUg4aUc5SkNyUVdvR0xZcHROWURPRVpkRlFkcUJlUnpnaGY2TWd1emUwZjQ0Unlzb2hFUGhmb0ozVDE1dkFiMXppTEZTUGN4aU51d3I3WHhKNHVFdWVyc2ZRNXQ0QUV5WV9hb1ZxYU9nc0pRcl9BQlhOYjB5alp5MGs2dy1QT0txSjRnSdIBywFBVV95cUxOU0hiYl95QXZmSGFVelhrZUN0c3RyTy1pVUY4MTNBeTFhZy1GUmlLeEFpaXZPLWM2bExIQUdFS1Vad1RUWWN0YmhTWENIRUZ1WEFKbWJYaEUwdk94d29nRG92VXU3LUFjdi1wMnRVclVjcjVxMkh5eGtya3B0Y2tDbHY1dlNDSXVPMzhrejdDMFh0SFNidGZwY3UwNEJpNzBzNFdJMjB3UW40TTdaVG9CdVVZZWVodDhfRWx5cUlXSXAzRFJlbVRlUEZ0QQ?oc=5",
+   "pub": "Fri, 11 Sep 2026 10:01:37 GMT"
   }
  ]
 }
