@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-10T21:39:14Z",
+ "collected_at": "2026-09-11T00:11:36Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,71 +7,76 @@
    "chg1d_pct": 0.35
   },
   "USDJPY": {
-   "price": 154.374,
+   "price": 154.376,
    "chg1d_pct": 0.52
   },
   "GBPCAD": {
-   "price": 1.8676,
-   "chg1d_pct": -0.13
+   "price": 1.8693,
+   "chg1d_pct": -0.04
   },
   "AUDJPY": {
-   "price": 110.405,
-   "chg1d_pct": -0.43
+   "price": 110.527,
+   "chg1d_pct": -0.32
   },
   "EURUSD": {
-   "price": 1.1613,
-   "chg1d_pct": -0.18
+   "price": 1.1616,
+   "chg1d_pct": -0.15
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": 0.03
+   "price": 1.0983,
+   "chg1d_pct": 0.08
   },
   "WTI": {
-   "price": 103.93,
-   "chg1d_pct": 8.2
+   "price": 103.75,
+   "chg1d_pct": 8.02
   },
   "BRENT": {
-   "price": 108.95,
-   "chg1d_pct": 7.65
+   "price": 108.81,
+   "chg1d_pct": 7.51
   },
   "GOLD": {
-   "price": 4358.5,
+   "price": 4358.6,
    "chg1d_pct": -1.3
   },
   "SPX_FUT": {
-   "price": 7602.0,
-   "chg1d_pct": -0.55
+   "price": 7598.5,
+   "chg1d_pct": -0.59
   },
   "NAS_FUT": {
-   "price": 29143.25,
-   "chg1d_pct": -1.04
+   "price": 29087.75,
+   "chg1d_pct": -1.23
   }
  },
  "headlines": [
-  {
-   "t": "„Wird sofort nach der Wahl enden“: Trump sagt vor Parteitag der Republikaner Ende des Iran-Kriegs voraus - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXFMMDFJOExXeW1ZUEM3WVkzODg4NHFybl90RTUxUDk2YkVFUXFaOXRubDZSV29LeHUwOXpiVW0yUFBHNWNuWU1IRG1HT29kMExZZHJpR2dNNFBMam40VUEzZ1E5V2dxdUV3OGstdDhtQ2ZSYThjUkJmYTJlQndPRks4NW9lRHowbFZRd281emx1VXdVZzVfOVdSMEloN2RYajRUNjlkSTg?oc=5",
-   "pub": "Thu, 10 Sep 2026 18:05:44 GMT"
-  },
-  {
-   "t": "Iran bereit für »Blitzoffensive« - juedische-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclNjazdBMzMzVm5sZmxQa0VxMkp6SXJ1enFNVUk2dzBRWDY0eEdZSF9oOXQzQVNhd2xoTTNlNkhkSHNxVEk5ekc5YzNWZmdOZ0UxeGs3SWhnNUNCN0tEdEpBdjF3enV2dmdlTG1VNzJQOUdnekRHcEdQYnQ3dmNsd3V3?oc=5",
-   "pub": "Thu, 10 Sep 2026 08:23:18 GMT"
-  },
   {
    "t": "\"Operation Economic Outcast\": USA verhängen neue Sanktionen gegen Iran-nahe Gruppen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWRGQS1OUFhVbGZZWEpXbWJZXy02d0ZrRmFLV2s4YWtWRGhsd1VWVU5VQzFaZlpOcktWa09JbFRSN0YxSEJKcWRoSG5ZbnVlYnpDc3l0VVp4S0E4Z3E0algzLVRaLXkxckdqNUtfR2twd2x1N2JlM2MzR040VmxfWU93bzZVRTQxTU04aFhFVzJvUWxmaC1fQzg3b2VRa2c5aVpydURPSEpuVG43TGFiVkhhSmFxd1QxQTdoWHEtOGlQUkY3UG9haQ?oc=5",
    "pub": "Thu, 10 Sep 2026 21:21:00 GMT"
   },
   {
-   "t": "USA und Iran attackieren einander wieder - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTJFdlBPMWtfVFpqczJtMzFkQWh6R0xxWElpdi1GZXYxRUM5c08wSzhtcFc2NG5FcF8wbEtxNlBQaVVFWm9wMXdEcjlwYXdVY2JiV3c4dHNJdl9Dem5YT0VVLTZVckdnZmY0bGdpYTdCeEFBNktTUTFrODEzc01DYVluSGM0eE81WndOZHJUQ3VEOVB0SDhZQ0JvdTI3d2x5czBDTzNjazViNlpLLVVnQtIBsAFBVV95cUxPeE04Y2lLU0ZpY0Z4eGZnZFY5SjZOTHJBd2tyaGhMd2pxOFJXYXJOTHl5dmplakZKbXZZcUpzelhVSnQ0MjVmZTY0cWNUYjgwbVY5T0c2VDVXWXJBNUVJTlJNaHBHUUhsSUl1WENxS09yb3BwR0ZZNFNFQjJsMElaazZBbUlHcnNGSDZJV2tXeC1MckdsNTJ4SlBvYUVRZklfRDdXd1d1RGlINm1kb3hOWQ?oc=5",
-   "pub": "Thu, 10 Sep 2026 01:23:15 GMT"
+   "t": "„Wird sofort nach der Wahl enden“: Trump sagt vor Parteitag der Republikaner Ende des Iran-Kriegs voraus - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXFMMDFJOExXeW1ZUEM3WVkzODg4NHFybl90RTUxUDk2YkVFUXFaOXRubDZSV29LeHUwOXpiVW0yUFBHNWNuWU1IRG1HT29kMExZZHJpR2dNNFBMam40VUEzZ1E5V2dxdUV3OGstdDhtQ2ZSYThjUkJmYTJlQndPRks4NW9lRHowbFZRd281emx1VXdVZzVfOVdSMEloN2RYajRUNjlkSTg?oc=5",
+   "pub": "Thu, 10 Sep 2026 18:05:44 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Huthi nehmen wichtige Hafenstadt Mokka im Jemen ein - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXNiODVxUmxGeTVWLUh1bTAyR051b3BqQU5yMjc1S1pCdUdNSlVWSnNYYlpPdmt0OUw3VWktM1RiclNsWUc2RzBzY19uX2xzbERTbm9kUm5VeWY4SGpDYm1tSG5CeVM0QVpzbkdYMmxiQ1RiRGpZSGsyLWppV0hDZ1Ywd0NCTFBrSklPMC0zRzdIUWM1dVItTnVOMFhhZjQ5TTBVVHliMk9DN1dCVEg4RFZ3Wnh3eE9zTGsxeFdOU1ZoaDVPMHdR?oc=5",
+   "pub": "Thu, 10 Sep 2026 14:51:56 GMT"
+  },
+  {
+   "t": "Iran bereit für »Blitzoffensive« - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclNjazdBMzMzVm5sZmxQa0VxMkp6SXJ1enFNVUk2dzBRWDY0eEdZSF9oOXQzQVNhd2xoTTNlNkhkSHNxVEk5ekc5YzNWZmdOZ0UxeGs3SWhnNUNCN0tEdEpBdjF3enV2dmdlTG1VNzJQOUdnekRHcEdQYnQ3dmNsd3V3?oc=5",
+   "pub": "Thu, 10 Sep 2026 08:23:18 GMT"
   },
   {
    "t": "Erneute Angriffe zwischen Iran und den USA in der Straße von Hormus - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XLXBldFZ5bGJWMDNDUUJValdrUVVvLTVBQWFnR3JHVkJjZ2oteERWQnl3MXhyc0FJckttN2JUOWhtdGN4alVmT3ZUTW5pd21vTWFyM0JkSTU1dW1INzE0?oc=5",
    "pub": "Wed, 09 Sep 2026 15:47:56 GMT"
+  },
+  {
+   "t": "USA und Iran attackieren einander wieder - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTJFdlBPMWtfVFpqczJtMzFkQWh6R0xxWElpdi1GZXYxRUM5c08wSzhtcFc2NG5FcF8wbEtxNlBQaVVFWm9wMXdEcjlwYXdVY2JiV3c4dHNJdl9Dem5YT0VVLTZVckdnZmY0bGdpYTdCeEFBNktTUTFrODEzc01DYVluSGM0eE81WndOZHJUQ3VEOVB0SDhZQ0JvdTI3d2x5czBDTzNjazViNlpLLVVnQtIBsAFBVV95cUxPeE04Y2lLU0ZpY0Z4eGZnZFY5SjZOTHJBd2tyaGhMd2pxOFJXYXJOTHl5dmplakZKbXZZcUpzelhVSnQ0MjVmZTY0cWNUYjgwbVY5T0c2VDVXWXJBNUVJTlJNaHBHUUhsSUl1WENxS09yb3BwR0ZZNFNFQjJsMElaazZBbUlHcnNGSDZJV2tXeC1MckdsNTJ4SlBvYUVRZklfRDdXd1d1RGlINm1kb3hOWQ?oc=5",
+   "pub": "Thu, 10 Sep 2026 01:23:15 GMT"
   },
   {
    "t": "Bis zum Ende der Amtszeit: Bericht: Berater bereiten Trump auf jahrelangen Iran-Krieg vor - n-tv.de",
@@ -84,14 +89,9 @@
    "pub": "Thu, 10 Sep 2026 17:00:00 GMT"
   },
   {
-   "t": "Trump: Krieg mit Iran soll kurz nach der Wahl enden - juedische-allgemeine.de",
+   "t": "Trump: Krieg mit Iran soll kurz nach der Wahl enden - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUnEzNzlKampSYmdaSTlmWk1VSmJGMDQ5TGV0SzVEU0RyTGptZ0VvdjBBckFtRW5CcjRvVENYODhrUnM0ZWF0N1cyS0k2YW1SNV8yMWJhTE9yNTNuRGMwQS1WWkRZWWJRZTR3TlluRGRuWGVBcGRLMW0wdmg3LTBhbGY3cnR2STl0aW5CUkROc2wyZUtlMHEyV2RLdw?oc=5",
    "pub": "Thu, 10 Sep 2026 07:17:00 GMT"
-  },
-  {
-   "t": "Iran: Cafés im Visier der Sicherheitsapparate - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdGlRVFhyZXpEUHAxc3VoVjBIZHJUTklqeWRpa2ZmZE9QRWRmZUtKWkc1N1F3cXFxT2hrdl9fZkpZVHdOUll4QzhCNldpZHFZbXoxMEJ6RnlwckF5T0Z1N09LNkd4U2lkWTBYZGJiN2o2NnRrWXBGWWhrS1pXRlNpNlZ0VWMxMGc4T2fSAYoBQVVfeXFMUEdJVUNOSnBHb3hNcEpYeFZhbXRzQTVnb1B6ZnlqMXBZcGlXYXg1NldDY2NGUks0ZWlvWUwxNjI3QTRmYmpjckFCbTdYZnhQNUotbEVPVjZ0TGFSOTl0N003UDBtaGFBY25aaVpnbloyeXRzcloyNHpkX2U0azhLaGdyUWJyV1FSb1p3?oc=5",
-   "pub": "Thu, 10 Sep 2026 08:07:21 GMT"
   },
   {
    "t": "Saudi-Arabien unter Beschuss: Pakistan warnt Iran wegen Huthi-Attacken – „Ihr bekommt es mit uns zu tun“ - Frankfurter Rundschau",
