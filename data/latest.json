@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-12T14:09:28Z",
+ "collected_at": "2026-09-12T17:12:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,54 +49,19 @@
  },
  "headlines": [
   {
-   "t": "Ticker zum Iran-Krieg: Iran stellt Öffnung der Straße von Hormus in Aussicht - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODlibGNsSjdSWHMyZ0FKcHJnQTlLdVhQRTQ5cFdTNXBoaUVKZUkzSmREOTB4cHhWdWZ3aldfbkU5N1h1RDNRakwzbzJ0SklJNGJpYnpSSmVFWGh5SW94bHRSMlFVQXlEaWZ0NS1jMFZHbmJ6Q24yMWI2LUcyaEpzYnNXQW5qTlVYYlRmUTludTY2X2x3VFpnaEdKcl91dFZ3V3BLSDdaUncwNEZINVlob19vWWd6QnlqOWd3WGN0b3IwZ1lzaFcweGxMVkJQbEhibkE?oc=5",
-   "pub": "Sat, 12 Sep 2026 07:28:32 GMT"
-  },
-  {
-   "t": "Irans Kalkül vor den US-Zwischenwahlen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWFzT25wYmlUdTVjSWEtNlBoaXEzNEt1QkhzcFI0WEpJZUJKQnFreTl3SWwxRzd3WXBCaGhFWUo4TllLblB4VUZ5RVF1bVQwM1ROYzdVVnBrZEdaRFZrYVZoTTlPQ3d4VHFkNUxobThZc0ZTZXhDVWE0TFVuN2htZ1V30gGCAUFVX3lxTE5jUFJlSkFfV0R2SzJlLUZ1WFd2eHJ4WFpFZmZYRXRwQTNkNGJjVGFsc3JVbVNIcFhfc29pRVBfbWxULVRVUzdDdS1aSldQaGJLdmg1aEZCeHppaU5uZEMwSlBtR18yR3ZwNWxGT2tSZlVCUDFDMkR2bWc4WXlRVWg4Mmc?oc=5",
-   "pub": "Fri, 11 Sep 2026 21:19:31 GMT"
-  },
-  {
-   "t": "Iran-Konflikt: Iran stellt Öffnung der Straße von Hormus in Aussicht - Stuttgarter Nachrichten",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWW9OQnhvQWYwSTl6QkxHWGIxSGlvTUJkWVlyOXM3Vl8zamtQekNNbHIwSUk4Qk5idmNIRUtNdHBHdDdTRlhqZktqdUQyRXNyc3hobnV4U0s1S3dMMkllZWg0NU1nR2FQdWVJeTVGTmpIdW5oNGJocjREX0RYc1VwQkIyWjRxdzI4cGdKN2hxZWpKWXhXTXJUanByLUlKZmdJOXFBdUhxZm5GVkdMZUlHR09ab19VRmxzM2wyWDB4cmE1T1hOTFNuQnB3?oc=5",
-   "pub": "Sat, 12 Sep 2026 08:30:48 GMT"
-  },
-  {
-   "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
-  },
-  {
-   "t": "USA versenken Iran-Tanker: Jetzt breitet sich auch noch ein Ölteppich in Hormus aus - BILD",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2xOR0FOSFdMeExfQ1pUMC1fZ2ZGNHRoV3I2N0N1RlFORWFZR1Q2bTFUVnVVYUlibF9GMG0wV0ZIWVpGQnhwRWRkY3V3QmdhRmhMSWtyR240SVFsN2g1SjZmMGprUlE4cG9zdEI3MnczVUtMbnRpaVM3ZFBhbjJFMnYzME0tMG5OMmpxbURFdjZ6V2JiX0J4VUtJZnYtQlRjQWpoa2hHZmZhel9tMDNsTy1aMC0xWEs2V1JXRVVn?oc=5",
-   "pub": "Sat, 12 Sep 2026 12:29:39 GMT"
-  },
-  {
-   "t": "(S+) Iran-Krieg: Ölteppich breitet sich nach US-Angriff in der Straße von Hormus aus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQalZ6YkRfZE9KOEJrU0lGSTRxdXdfenFlVE5wa01WRlVmZmI5MWNwS0lkTWRJTWd4aWdLWWJ4OHFyQXptWExPRGg1UGc4T2FKNVdBY3VTR2V4TkRraHdCRjJhdkFvVHNLejk0Qko3ZEd2VTlmYXZRb2JSbDBlSE5TeENLZDJnVzdWYnR4MUhDNng2Y2RyQTVzSFUzbzk0OUdZN0doWGdaOWFUQktRcVNvZUZYc3dUSU11T0VUbmpHQ3VtWUJ2aXdSdVE5Qnp1MDZyLUMzQ3Nab0d3c0RJakZjTnZJcmdzVXN6ZWlR?oc=5",
-   "pub": "Fri, 11 Sep 2026 19:01:00 GMT"
-  },
-  {
    "t": "Saudi-Arabien in Bedrängnis – Iran macht Angebot - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1E4NUMzVXd1S3F3SF9sbFpBank2aGw1a1laVDZxdGI2a2Q0eXFTdTFETTN4cDFYZVZhRWhYcGUyT0Rrczlsb0xfQ0l6RGNtTGJoTXh6dDFLYzVOS3JTbjV2S0FSbERZSGNVNUR5UXM4WHNMb2JVbWlVNUJVWThWZnFfQ25NN0M2c3pmbTVsbDBmNkVneldpaE1B?oc=5",
    "pub": "Sat, 12 Sep 2026 11:25:55 GMT"
   },
   {
-   "t": "Erneute Angriffe zwischen Iran und den USA in der Straße von Hormus - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XLXBldFZ5bGJWMDNDUUJValdrUVVvLTVBQWFnR3JHVkJjZ2oteERWQnl3MXhyc0FJckttN2JUOWhtdGN4alVmT3ZUTW5pd21vTWFyM0JkSTU1dW1INzE0?oc=5",
-   "pub": "Wed, 09 Sep 2026 15:47:56 GMT"
+   "t": "BRICS-Staaten fordern \"maximale Zurückhaltung\" in Nahost - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXJObEt4djlQV3NwbmxLdXl6cjdka1J2Z01ZUGRRQzlJdGt0eEgtd3Z1SHJNRC1zZmtYeDlvWGhKRktMZkp3ZVJ5Ny1jclNVb1FCLVFsd09LaVUzcG1LTkJ1amFiYW1lMjRkVWs3eU1iSTVLMHV0OElBQVh6akFmSXRBQWxpZ2pqSnVmNXNVYUJ1cnVPanZCT3lrTW5OZGtMa01SaS1hSHVsdFVlWXBXSW1lWklDaGgxVjg0a3ZkblDSAcABQVVfeXFMTXRCTFk5dm01TDhMVlRHalBJU3FrY3kxV3dtcXdONEVQaGRRVDFsdFpzQUQ4NzhxN2NFUDh5U2JyclpiLVBsQl9vZkRZMkozYXE2elRCLXZ0RXgyeThCdUhDdGh1N0RLeUFWTjBJRFZmNnJ5ejI4T0ZyXzJBTVg4SHdaZlZsMjVkQmxCc3p0UnFTSW43dWRjYWlpZjVybFhIeC1wUnlJYmt0LU9NNVl5Z0ozaURnbTRhbUR5M3dXV0xX?oc=5",
+   "pub": "Sat, 12 Sep 2026 15:47:54 GMT"
   },
   {
-   "t": "Saudis legen Ost-West-Ölpipeline nach Angriffen still - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd284OENfMHdvbG0wamY0aDRpMVFMVlc2anRwX3J5NV9LbUM0eUR6ZkJhcl9qMHdNSEthc2lZbnNNZUFFNXhGOHNuem1mQ1QzSmJNQWlMbWVwbHkxZnd1eTN2UHZLeVc2aWdzMXlocF92VnZWU2kxNVhIelRFQ2RCZ1lycFZ4TVczYnJHS3ZGdmNXV1drRTVnOERmNUxhMzhJX0ZLcmotanJuR1FfOGVva1NzN0UzUDY2cFRYVHhRTHpObnFZMWVfetIByAFBVV95cUxONWFVR1kzcXA2SlFxNTVxSnFqSzllSGlsNlZpTXJiSUVwV1plQW9DdjJtb1BoTHd5MmxCZUpZQnZZcGhjTXhXVXhzV3hGSi1MMWFybkl0ajl5dEFBaWNnNUxfZGh4eUNmMEJKaGNwMzBCWmEzb3RyNFNuSUxPRXFna3Izc0ZDTl9PMEViMm9YNHUxRlNpU3JhVjR6dFMzbnFFRXJaUzliel85SFNpUWNjWUR4anNoQnlQRXVGdFdKaGdHZFhFbEtWeA?oc=5",
-   "pub": "Sat, 12 Sep 2026 10:15:20 GMT"
-  },
-  {
-   "t": "Jemen/Iran: Donald Trump hat direkte Angriffe auf Huthis trotz Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeHZzVnRlTmZXM1lsZjBFYl96b001anZvbWZxMkhYYXFybDJlQm5Hd3pKUXVuaTVKWXhGejk2a0lFSUJyajJ5a3NUYTJYMFdaazRWUzNKOGdzb2NLeUdBYTIxdllOZ19MZHdNT2RCdDByajB6U1ZaSE51dUdmRnNtUFRpSl90S0NQZEpSMXRhZEpTd0pYdlVaQUNtV085b2hzWUlxQ1VqRndYRTBERkRRMklDVEpRS1QxSlJabTVGNDNLUklKS3UzWGFQRnVkejV3Z0hnOWdlakhaMU1XYnk0SV9uemdVZ2d3SnE3Ymd2QUN4cUpSem5JOU1md21WamtMWTFLNlFHajJnWXND?oc=5",
-   "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
+   "t": "Ticker zum Iran-Krieg: Iran stellt Öffnung der Straße von Hormus in Aussicht - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODlibGNsSjdSWHMyZ0FKcHJnQTlLdVhQRTQ5cFdTNXBoaUVKZUkzSmREOTB4cHhWdWZ3aldfbkU5N1h1RDNRakwzbzJ0SklJNGJpYnpSSmVFWGh5SW94bHRSMlFVQXlEaWZ0NS1jMFZHbmJ6Q24yMWI2LUcyaEpzYnNXQW5qTlVYYlRmUTludTY2X2x3VFpnaEdKcl91dFZ3V3BLSDdaUncwNEZINVlob19vWWd6QnlqOWd3WGN0b3IwZ1lzaFcweGxMVkJQbEhibkE?oc=5",
+   "pub": "Sat, 12 Sep 2026 07:28:32 GMT"
   },
   {
    "t": "Iran-Krieg und Gaspreis: Verivox rechnet mit bis zu 20 Prozent höheren Kosten - Spiegel",
@@ -104,9 +69,44 @@
    "pub": "Sat, 12 Sep 2026 07:08:00 GMT"
   },
   {
-   "t": "\"Operation Economic Outcast\": USA verhängen neue Sanktionen gegen Iran-nahe Gruppen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWRGQS1OUFhVbGZZWEpXbWJZXy02d0ZrRmFLV2s4YWtWRGhsd1VWVU5VQzFaZlpOcktWa09JbFRSN0YxSEJKcWRoSG5ZbnVlYnpDc3l0VVp4S0E4Z3E0algzLVRaLXkxckdqNUtfR2twd2x1N2JlM2MzR040VmxfWU93bzZVRTQxTU04aFhFVzJvUWxmaC1fQzg3b2VRa2c5aVpydURPSEpuVG43TGFiVkhhSmFxd1QxQTdoWHEtOGlQUkY3UG9haQ?oc=5",
-   "pub": "Thu, 10 Sep 2026 21:21:00 GMT"
+   "t": "USA versenken Iran-Tanker: Jetzt breitet sich auch noch ein Ölteppich in Hormus aus - BILD",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2xOR0FOSFdMeExfQ1pUMC1fZ2ZGNHRoV3I2N0N1RlFORWFZR1Q2bTFUVnVVYUlibF9GMG0wV0ZIWVpGQnhwRWRkY3V3QmdhRmhMSWtyR240SVFsN2g1SjZmMGprUlE4cG9zdEI3MnczVUtMbnRpaVM3ZFBhbjJFMnYzME0tMG5OMmpxbURFdjZ6V2JiX0J4VUtJZnYtQlRjQWpoa2hHZmZhel9tMDNsTy1aMC0xWEs2V1JXRVVn?oc=5",
+   "pub": "Sat, 12 Sep 2026 14:39:01 GMT"
+  },
+  {
+   "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - juedische-allgemeine.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
+   "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
+  },
+  {
+   "t": "Ost-West-Pipeline: Irak entdeckt offenbar Drohnen-Startvorrichtung nahe iranischer Grenze - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUm5fazRDbHZhd2lWRE0xNHhpRHhvVHpUU1B6c2pnWldkZXBYY25WZ0JvQzF2TG1qenp5bFE3U0JXeU54VV9jWnlRYXFUWmtYeTh2dlJyS1hncVJGQU5jbkpMZ3ZnM09MVHljekZrb192MzhBV0ZVYS1OazlHUFVuTW5DMWtDbmpDVTd5N255TzVQUXk4MkVBVG5n?oc=5",
+   "pub": "Sat, 12 Sep 2026 15:55:21 GMT"
+  },
+  {
+   "t": "Erneute Angriffe zwischen Iran und den USA in der Straße von Hormus - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XLXBldFZ5bGJWMDNDUUJValdrUVVvLTVBQWFnR3JHVkJjZ2oteERWQnl3MXhyc0FJckttN2JUOWhtdGN4alVmT3ZUTW5pd21vTWFyM0JkSTU1dW1INzE0?oc=5",
+   "pub": "Wed, 09 Sep 2026 15:47:56 GMT"
+  },
+  {
+   "t": "„Die Huthi haben uns angerufen, und sie wollen nicht gegen uns kämpfen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeUR0Q3h5OFJDRVBfc2M2WGhFS25IZDhvQTR2QTE5X19aNm1rMVM2MzdfU05falpSVENwbzFpcldpRHVldWdJekRnVVk0eUFpNGlIMjhwVjNaZmpWcVdDYXk2LTdZczRkQWZ6eU1OSWFmbWFTbTBsTTZfaTFGcGNOUTdzUnA5b19MNTNpMWZjQjJlZGV1dXFOZlZkdmRaUlkwYXRPZUxKOWxXV0FVZjQ0by1UTVIxOEpERmRiZ01VZ1RNdVlPcHo0Tms1Vno0THAxMl9Kcm1mUkUyUlBsVEoyTm9GZ0swNktub0tvM094NlE4VDRKam9nMTNmNA?oc=5",
+   "pub": "Sat, 12 Sep 2026 13:00:38 GMT"
+  },
+  {
+   "t": "Irans Kalkül vor den US-Zwischenwahlen - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWFzT25wYmlUdTVjSWEtNlBoaXEzNEt1QkhzcFI0WEpJZUJKQnFreTl3SWwxRzd3WXBCaGhFWUo4TllLblB4VUZ5RVF1bVQwM1ROYzdVVnBrZEdaRFZrYVZoTTlPQ3d4VHFkNUxobThZc0ZTZXhDVWE0TFVuN2htZ1V30gGCAUFVX3lxTE5jUFJlSkFfV0R2SzJlLUZ1WFd2eHJ4WFpFZmZYRXRwQTNkNGJjVGFsc3JVbVNIcFhfc29pRVBfbWxULVRVUzdDdS1aSldQaGJLdmg1aEZCeHppaU5uZEMwSlBtR18yR3ZwNWxGT2tSZlVCUDFDMkR2bWc4WXlRVWg4Mmc?oc=5",
+   "pub": "Fri, 11 Sep 2026 21:19:31 GMT"
+  },
+  {
+   "t": "Jemen/Iran: Donald Trump hat direkte Angriffe auf Huthis trotz Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeHZzVnRlTmZXM1lsZjBFYl96b001anZvbWZxMkhYYXFybDJlQm5Hd3pKUXVuaTVKWXhGejk2a0lFSUJyajJ5a3NUYTJYMFdaazRWUzNKOGdzb2NLeUdBYTIxdllOZ19MZHdNT2RCdDByajB6U1ZaSE51dUdmRnNtUFRpSl90S0NQZEpSMXRhZEpTd0pYdlVaQUNtV085b2hzWUlxQ1VqRndYRTBERkRRMklDVEpRS1QxSlJabTVGNDNLUklKS3UzWGFQRnVkejV3Z0hnOWdlakhaMU1XYnk0SV9uemdVZ2d3SnE3Ymd2QUN4cUpSem5JOU1md21WamtMWTFLNlFHajJnWXND?oc=5",
+   "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
+  },
+  {
+   "t": "Saudis legen Ost-West-Ölpipeline nach Angriffen still - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd284OENfMHdvbG0wamY0aDRpMVFMVlc2anRwX3J5NV9LbUM0eUR6ZkJhcl9qMHdNSEthc2lZbnNNZUFFNXhGOHNuem1mQ1QzSmJNQWlMbWVwbHkxZnd1eTN2UHZLeVc2aWdzMXlocF92VnZWU2kxNVhIelRFQ2RCZ1lycFZ4TVczYnJHS3ZGdmNXV1drRTVnOERmNUxhMzhJX0ZLcmotanJuR1FfOGVva1NzN0UzUDY2cFRYVHhRTHpObnFZMWVfetIByAFBVV95cUxONWFVR1kzcXA2SlFxNTVxSnFqSzllSGlsNlZpTXJiSUVwV1plQW9DdjJtb1BoTHd5MmxCZUpZQnZZcGhjTXhXVXhzV3hGSi1MMWFybkl0ajl5dEFBaWNnNUxfZGh4eUNmMEJKaGNwMzBCWmEzb3RyNFNuSUxPRXFna3Izc0ZDTl9PMEViMm9YNHUxRlNpU3JhVjR6dFMzbnFFRXJaUzliel85SFNpUWNjWUR4anNoQnlQRXVGdFdKaGdHZFhFbEtWeA?oc=5",
+   "pub": "Sat, 12 Sep 2026 10:15:20 GMT"
   }
  ]
 }
