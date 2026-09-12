@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-12T19:23:03Z",
+ "collected_at": "2026-09-12T22:19:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -23,8 +23,8 @@
    "chg1d_pct": -0.08
   },
   "GBPCHF": {
-   "price": 1.1036,
-   "chg1d_pct": 0.47
+   "price": 1.1032,
+   "chg1d_pct": 0.43
   },
   "WTI": {
    "price": 100.05,
@@ -49,6 +49,16 @@
  },
  "headlines": [
   {
+   "t": "Für Trumps riskante Iran-Rechnung zahlen wir jetzt den Preis - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEhYczRsSFlFUU9BdUxrN2hoMDlCTkRXbjVkMHJtaVFJREp1dF91R3MxbDIyTTVmR3ViRzVhNExBRHNnemlOTWJPZEhnNXhveUF5bkowVkZFV0hhazhkWVNPR2I2eGdMdVoxZ2h5T0haRGdsZjZ6dktrUF9hejEtUllKdVZBa01mSWMyWUV6SFNQdXZzV2V1anRJQmtNaVdJNTA1cXFQeHRHbFVrdWZMWkpFUUFISzRpcnRPaVo2Zzk4LVpiOTkxcmJoTnRtbnViUUxFRXRVQQ?oc=5",
+   "pub": "Sat, 12 Sep 2026 17:14:00 GMT"
+  },
+  {
+   "t": "Rivalität und Einigkeit: Brics-Gipfel im Zeichen des Iran-Kriegs - SRF",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWENybDRWSVVaa1BuX0diYl9xa3Uyd3lQc1VjSFM2X0VlRWk4b0ZmQjhfV0R2WWp0Zms2bE0zNFBHcnkyMGttN1dlNjZnT01DdUd6c1N1eDk5T1JQRXRpZldVUE9MQmdJNEpPVkotalExY08yeERObjU0QVVtNmw1bWIzR1MxN1l2TU5rd1N2U09FVWc?oc=5",
+   "pub": "Sat, 12 Sep 2026 17:54:26 GMT"
+  },
+  {
    "t": "Saudi-Arabien in Bedrängnis – Iran macht Angebot - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1E4NUMzVXd1S3F3SF9sbFpBank2aGw1a1laVDZxdGI2a2Q0eXFTdTFETTN4cDFYZVZhRWhYcGUyT0Rrczlsb0xfQ0l6RGNtTGJoTXh6dDFLYzVOS3JTbjV2S0FSbERZSGNVNUR5UXM4WHNMb2JVbWlVNUJVWThWZnFfQ25NN0M2c3pmbTVsbDBmNkVneldpaE1B?oc=5",
    "pub": "Sat, 12 Sep 2026 11:25:55 GMT"
@@ -66,12 +76,17 @@
   {
    "t": "Iran \"stranguliert\" Saudi-Handel: Umbach: \"Sehr gefährliche Eskalation für Weltwirtschaft\" - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnpUOEw1VFFfVTA5dW54dG8yT0dZRWtEY0lPMzV4eFRTbVBmOHdlTHI5WEJTZHpITENGdXNZbDFPbTR5bTVySmtnUjR2TE1UYVk0ZVM5bHJkLXVZRWZfWXdJeXBfaFdPaS05ZU5MSUdLUXNlZGVkOTJJVjRQZmdvd3JIbENoLUI2VGpWRUJLVC1IV01vd2xiYWRJMHhFLVFpek11cUtIcDdtUWJwUzF3UmlBX3Uzams?oc=5",
-   "pub": "Sat, 12 Sep 2026 19:15:54 GMT"
+   "pub": "Sat, 12 Sep 2026 19:40:00 GMT"
   },
   {
    "t": "Ost-West-Pipeline: Irak entdeckt offenbar Drohnen-Startvorrichtung nahe iranischer Grenze - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUm5fazRDbHZhd2lWRE0xNHhpRHhvVHpUU1B6c2pnWldkZXBYY25WZ0JvQzF2TG1qenp5bFE3U0JXeU54VV9jWnlRYXFUWmtYeTh2dlJyS1hncVJGQU5jbkpMZ3ZnM09MVHljekZrb192MzhBV0ZVYS1OazlHUFVuTW5DMWtDbmpDVTd5N255TzVQUXk4MkVBVG5n?oc=5",
    "pub": "Sat, 12 Sep 2026 17:48:31 GMT"
+  },
+  {
+   "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
+   "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
   },
   {
    "t": "Iran-Krieg und Gaspreis: Verivox rechnet mit bis zu 20 Prozent höheren Kosten - Spiegel",
@@ -84,24 +99,9 @@
    "pub": "Sat, 12 Sep 2026 14:39:01 GMT"
   },
   {
-   "t": "Rivalität und Einigkeit: Brics-Gipfel im Zeichen des Iran-Kriegs - SRF",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWENybDRWSVVaa1BuX0diYl9xa3Uyd3lQc1VjSFM2X0VlRWk4b0ZmQjhfV0R2WWp0Zms2bE0zNFBHcnkyMGttN1dlNjZnT01DdUd6c1N1eDk5T1JQRXRpZldVUE9MQmdJNEpPVkotalExY08yeERObjU0QVVtNmw1bWIzR1MxN1l2TU5rd1N2U09FVWc?oc=5",
-   "pub": "Sat, 12 Sep 2026 17:54:00 GMT"
-  },
-  {
-   "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
-  },
-  {
-   "t": "Für Trumps riskante Iran-Rechnung zahlen wir jetzt den Preis - focus.de",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEhYczRsSFlFUU9BdUxrN2hoMDlCTkRXbjVkMHJtaVFJREp1dF91R3MxbDIyTTVmR3ViRzVhNExBRHNnemlOTWJPZEhnNXhveUF5bkowVkZFV0hhazhkWVNPR2I2eGdMdVoxZ2h5T0haRGdsZjZ6dktrUF9hejEtUllKdVZBa01mSWMyWUV6SFNQdXZzV2V1anRJQmtNaVdJNTA1cXFQeHRHbFVrdWZMWkpFUUFISzRpcnRPaVo2Zzk4LVpiOTkxcmJoTnRtbnViUUxFRXRVQQ?oc=5",
-   "pub": "Sat, 12 Sep 2026 17:14:00 GMT"
-  },
-  {
-   "t": "Erneute Angriffe zwischen Iran und den USA in der Straße von Hormus - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XLXBldFZ5bGJWMDNDUUJValdrUVVvLTVBQWFnR3JHVkJjZ2oteERWQnl3MXhyc0FJckttN2JUOWhtdGN4alVmT3ZUTW5pd21vTWFyM0JkSTU1dW1INzE0?oc=5",
-   "pub": "Wed, 09 Sep 2026 15:47:56 GMT"
+   "t": "Jemen - Iran: Donald Trump hat direkte Angriffe auf Huthis nach Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNX1NicXMtVkNHa2hrcEpoQXF3eGVmREpCVG5ETTFBeVpXd1pmd3B2VzFHUGR2OHJPSjZSS0tHLUlOUzBNUFd5UTVMU0NtWjMxd054U2ZrUG4tQ1NXbExNSDZnLVVSTlFuQUMwRGFaLUdoaGEzVTBSdTRhVy1jbmdCOFg4WHdNTEFSQS04bVVMcFJVS2lyM01kVjRHQi0xUGstc2tXV2w3ZjcwN2RBbnUxVXY2dlN5QXNJbW5zSDRsR3hSN01hRlNBTU9kdjRqb1N3enlMTGRwWlB0dE45azhERWswbW5LaFBhTFZDWmlIUjgwU0tOTXZfSEVMWThhWklrM1JkMGFQZG1pR1E?oc=5",
+   "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
   },
   {
    "t": "Irans Kalkül vor den US-Zwischenwahlen - DW.com",
