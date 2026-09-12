@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-12T05:48:50Z",
+ "collected_at": "2026-09-12T10:49:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,64 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Irans Kalkül vor den US-Zwischenwahlen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVWFzT25wYmlUdTVjSWEtNlBoaXEzNEt1QkhzcFI0WEpJZUJKQnFreTl3SWwxRzd3WXBCaGhFWUo4TllLblB4VUZ5RVF1bVQwM1ROYzdVVnBrZEdaRFZrYVZoTTlPQ3d4VHFkNUxobThZc0ZTZXhDVWE0TFVuN2htZ1V30gGCAUFVX3lxTE5jUFJlSkFfV0R2SzJlLUZ1WFd2eHJ4WFpFZmZYRXRwQTNkNGJjVGFsc3JVbVNIcFhfc29pRVBfbWxULVRVUzdDdS1aSldQaGJLdmg1aEZCeHppaU5uZEMwSlBtR18yR3ZwNWxGT2tSZlVCUDFDMkR2bWc4WXlRVWg4Mmc?oc=5",
-   "pub": "Fri, 11 Sep 2026 14:30:23 GMT"
-  },
-  {
-   "t": "(S+) Iran-Krieg: Ölteppich breitet sich nach US-Angriff in der Straße von Hormus aus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQalZ6YkRfZE9KOEJrU0lGSTRxdXdfenFlVE5wa01WRlVmZmI5MWNwS0lkTWRJTWd4aWdLWWJ4OHFyQXptWExPRGg1UGc4T2FKNVdBY3VTR2V4TkRraHdCRjJhdkFvVHNLejk0Qko3ZEd2VTlmYXZRb2JSbDBlSE5TeENLZDJnVzdWYnR4MUhDNng2Y2RyQTVzSFUzbzk0OUdZN0doWGdaOWFUQktRcVNvZUZYc3dUSU11T0VUbmpHQ3VtWUJ2aXdSdVE5Qnp1MDZyLUMzQ3Nab0d3c0RJakZjTnZJcmdzVXN6ZWlR?oc=5",
-   "pub": "Fri, 11 Sep 2026 19:01:00 GMT"
-  },
-  {
-   "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
-  },
-  {
-   "t": "Erneute Angriffe zwischen Iran und den USA in der Straße von Hormus - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XLXBldFZ5bGJWMDNDUUJValdrUVVvLTVBQWFnR3JHVkJjZ2oteERWQnl3MXhyc0FJckttN2JUOWhtdGN4alVmT3ZUTW5pd21vTWFyM0JkSTU1dW1INzE0?oc=5",
-   "pub": "Wed, 09 Sep 2026 15:47:56 GMT"
-  },
-  {
-   "t": "„Deshalb kämpfen wir heute“ – Trump rechtfertigt Iran-Krieg mit 9/11 - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFpFMTJ4MFNESTdGVkhvdm00cUl4WE41Sm9TblUxYmZTSFhZUkRlN1E4c1JpQXhZY3NSbGFfMld4elo2ZWpwRkkwTmZZTENKVnRyWTJ3ZWtKSmRjX0VEVFNJal9DN3FFNzI0VF9KX01HQUNfeUlxRi1UdTA1TGw3S2JQeXNGRDJoR1ozaGFqeXNyel9qdDM0T3FXYlBSM3ZqVVRlWFdxaGhSUVdWWlJMZW1XSFgxTmszOXlYYUsxVjhmY1Nlb1lEemhNSnFKamlZUGlmbmJBV0ZpY1R6WUFVVVByOXM?oc=5",
-   "pub": "Fri, 11 Sep 2026 16:14:40 GMT"
-  },
-  {
-   "t": "Bericht: Berater bereiten Trump auf jahrelangen Iran-Krieg vor - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUVRhbER3QWRwZEFTV29Cbm12Q2pOUUd3Q0J1OFh0VjBMLTkwODdUWlA3VHk1WDhsWVUwNFFGUG94MlBhT3lVdmpEc3oyNlJMTm82OXI4XzI5c0otUm5pUnlqbnQ3NnhBOXJ6V25NTGtVUWpUeWM4Q0NVaGdmcWxySUxDRU1BMHJRTklaUExOYmhsbFpCWURmME5feDNwMzd6V1I3djR1UE5DdTVVTlhhUzlCUFhvODZMalNxVlczYmhzSnZZcDJmU1dvYVQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 06:45:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: UN-Gesandter warnt vor Gefahr für Schifffahrt durch Huthi-Vormarsch - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSzhpLW1oaF94WXlqYzdRMURjRDlWTTZKR3pVQm5NR3VFRXp6OXA0bzdJZGdPbWk5alZWSnlDbWJINkJVTGZ1aTFyZjVBS05LRGRTRndoQjlJY3h4MVFiRVpqTTVabHhNX3NmQnBqNzQ5QzJuUmFhYUp6YWdaNU5rakJZUTdrTmtGRXpvaVNmZUo5dlpxQWRBRV96MW1CSC1CNV9YWkR2T2hRbWZNOU9kSy05NlAtTFJXN1QzcHVJX0hnQ05maG9mUXhJTGczbmp2bFpnWlFxTmsyeG9XYXc?oc=5",
-   "pub": "Fri, 11 Sep 2026 00:46:08 GMT"
-  },
-  {
-   "t": "Nahost-Konflikt: Iran und Golfstaaten wollen über Lage an Straße von Hormus sprechen - TAG24",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHA5N3R6ZUJ2Sy03NFNKbGZ5YUdYWDg3MnAxWTJMUzBiWV9ILWJONGtUb1hVeGQ1c0VWRHZlOV8tSVVyS190ZUR0VWRKV0dLU2YwUmF1Q2xCeWFnV2JWS2hVREZycV9aX09jVUFUX0lMUjhmNzdMaE1nX09RczE1QS1QQk11ZU1QOGM0S0FSQ3RjR3QxM0g4M3NVUlRyTlhTUUhHTzlIbXg1Sm5KT1pXNmROdXRoRWtqWGRIb0VGTHgwd0ZTbFhpLUkxU2ZYaGZzR3ljOXUtaw?oc=5",
-   "pub": "Sat, 12 Sep 2026 03:55:22 GMT"
-  },
-  {
-   "t": "Irankrieg: Huthi-Miliz erobert eine strategisch wichtige Insel in der Meerenge Bab al-Mandab - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdTBSLUVRWXdtTU53RENueGtoN0d2V0liVDN4bUswbXdETjRScDZCWW0wWkVuLVBRMm9rd2g4ZDh6QnliX2NmOFR1Mzh3NlhTQ2ZWUV80b2NDdGlzZVp5WjZHWXlkenh0cjJtU28yaFVpTlNKMUV0X25tbm1lMjdRWVRQNTg2V1prUWZjSFlIM2s?oc=5",
-   "pub": "Fri, 11 Sep 2026 11:31:11 GMT"
-  },
-  {
-   "t": "Jemen/Iran: Donald Trump hat direkte Angriffe auf Huthis trotz Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeHZzVnRlTmZXM1lsZjBFYl96b001anZvbWZxMkhYYXFybDJlQm5Hd3pKUXVuaTVKWXhGejk2a0lFSUJyajJ5a3NUYTJYMFdaazRWUzNKOGdzb2NLeUdBYTIxdllOZ19MZHdNT2RCdDByajB6U1ZaSE51dUdmRnNtUFRpSl90S0NQZEpSMXRhZEpTd0pYdlVaQUNtV085b2hzWUlxQ1VqRndYRTBERkRRMklDVEpRS1QxSlJabTVGNDNLUklKS3UzWGFQRnVkejV3Z0hnOWdlakhaMU1XYnk0SV9uemdVZ2d3SnE3Ymd2QUN4cUpSem5JOU1md21WamtMWTFLNlFHajJnWXND?oc=5",
-   "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
-  },
-  {
-   "t": "Wie Huthi-Vormarsch Ausweichroute für Hormus gefährdet - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNLWNaRWxEbWF5ME14dTV4T0I3TGFCVXhMTGhwTExSaGtEaXdfNFA4bEpCVDRZT3lFQ0ZMVHdVQmFQZ1RfTFlJVl82TjVDMTYwTThUSVNpWEx0VG1JXzAxYUNMRDdpLUNiUm5sdU5tRGpuaEkwSXd0cjFkZ1VKcUczZDJNRGpVdHNOMmR1Mkw5QWctSzFtcC1IR0VtUlN4cUJENE1pRWtYNnhnNHg5d0dfVHZkNXA4NXpDSHM3eGZqZUotSkt5V01IakhnS05KVk9wSVVFRjk0dlNoRVYyUEw5Rm1JVGdoNVJteVBSaDNpb2N2a3BCXy1aRW5R?oc=5",
-   "pub": "Fri, 11 Sep 2026 20:26:22 GMT"
-  },
-  {
-   "t": "Iran bereit für »Blitzoffensive« - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclNjazdBMzMzVm5sZmxQa0VxMkp6SXJ1enFNVUk2dzBRWDY0eEdZSF9oOXQzQVNhd2xoTTNlNkhkSHNxVEk5ekc5YzNWZmdOZ0UxeGs3SWhnNUNCN0tEdEpBdjF3enV2dmdlTG1VNzJQOUdnekRHcEdQYnQ3dmNsd3V3?oc=5",
-   "pub": "Thu, 10 Sep 2026 08:23:18 GMT"
+   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
   }
  ]
 }
