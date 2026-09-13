@@ -1,57 +1,67 @@
 {
- "collected_at": "2026-09-13T19:28:17Z",
+ "collected_at": "2026-09-13T22:25:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8156,
-   "chg1d_pct": 0.29
+   "price": 0.8167,
+   "chg1d_pct": 0.43
   },
   "USDJPY": {
-   "price": 153.554,
-   "chg1d_pct": -0.6
+   "price": 153.689,
+   "chg1d_pct": -0.51
   },
   "GBPCAD": {
-   "price": 1.8751,
-   "chg1d_pct": 0.34
+   "price": 1.8742,
+   "chg1d_pct": 0.29
   },
   "AUDJPY": {
-   "price": 109.821,
-   "chg1d_pct": -0.65
+   "price": 110.03,
+   "chg1d_pct": -0.46
   },
   "EURUSD": {
-   "price": 1.1601,
-   "chg1d_pct": -0.08
+   "price": 1.1594,
+   "chg1d_pct": -0.14
   },
   "GBPCHF": {
-   "price": 1.1036,
-   "chg1d_pct": 0.47
+   "price": 1.1035,
+   "chg1d_pct": 0.46
   },
   "WTI": {
-   "price": 100.05,
-   "chg1d_pct": -2.37
+   "price": 103.19,
+   "chg1d_pct": 3.14
   },
   "BRENT": {
-   "price": 104.61,
-   "chg1d_pct": -2.81
+   "price": 108.11,
+   "chg1d_pct": 3.35
   },
   "GOLD": {
-   "price": 4408.9,
-   "chg1d_pct": 1.02
+   "price": 4372.6,
+   "chg1d_pct": 0.15
   },
   "SPX_FUT": {
-   "price": 7659.5,
-   "chg1d_pct": 0.8
+   "price": 7612.5,
+   "chg1d_pct": -0.61
   },
   "NAS_FUT": {
-   "price": 29387.0,
-   "chg1d_pct": 0.86
+   "price": 29025.75,
+   "chg1d_pct": -1.23
   }
  },
  "headlines": [
   {
    "t": "Konflikt um Straße von Hormus - US-Militär stoppt nach eigenen Angaben 100 Schiffe bei Seeblockade gegen Iran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnhTT3JhM2p3VXhpOHg4Um1LZkVDdGJyZFV3UTNjWnNmOVR2dWtrUnlYOGI2YUpRaW45d3oyMnpIeGhmb3NLODVOaFpwVGp2d3R5cEVBalBINEszZWdscFp0anZWekRpb29iS2NpbDQ5RjhqczcwUVJ4RmlxeV9fUWdwTmFneVJYTkphbTVveGFGa25ZNmExWjd0N3JrcGhZSlNwRXR4SzJBUnJSNk5jMHcwbFhDUU9naFE?oc=5",
-   "pub": "Sun, 13 Sep 2026 17:00:03 GMT"
+   "pub": "Sun, 13 Sep 2026 20:10:15 GMT"
+  },
+  {
+   "t": "Brics-Gipfel in Indien: Staaten mahnen zu »maximaler Zurückhaltung« im Iran-Krieg - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSEhCejg1cGhrRnVMbmh1N0haRExoX01qa1pBVERzT2U4bzNhdWxzdXJNNWg3NldvQlNrVUt6V2ZDQW9qZk51dWdZcEJvQlBFZzh5ZEw5S19OYkE3S2pYVXNMb3Q5MXppMDVTUzJINVNQYmpSZFJTeVJtQ09oSWQ4ME9WQWt0UEwzQUxxVjVWM1hqVWVVc280dFlYdnItYlhyYjZFQjF4aGRPY280WF9PY1hmVWlGeVg0LU1mdlVpY2pjU0hfWXowVDR2RHluTlNGTTE4eGNmQ3FMWE4teU1vVGxSTQ?oc=5",
+   "pub": "Sun, 13 Sep 2026 10:44:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Omans Außenminister: Treffen zu Straße von Hormus verschoben - zeit.de",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlJZNFZTckdwWnFTMFJmT0pjU2dsOVdrU2JUekhnUU5sd2E5LURmRUF0VHg2VjNOY3Z3NTZTaURJNTR2SUlMNFFjc3JCV2wzWGo2X0RCVTFQUlBVai1WS2M2cjZ4WXhva1E5bmI1UjA2Ny05MXk2OURzbUNpdjlFNXphVTFnNElBZjBCR1dKNVdMb0ZvWmQ2T1JYVHljUQ?oc=5",
+   "pub": "Sun, 13 Sep 2026 21:37:58 GMT"
   },
   {
    "t": "Ein Toter: Iran meldet Angriff auf Frachtschiff in der Straße von Hormus – Sorge um Ölversorgung wächst - WELT",
@@ -79,34 +89,24 @@
    "pub": "Sun, 13 Sep 2026 14:44:00 GMT"
   },
   {
+   "t": "Pipeline in Saudi-Arabien: So schwerwiegend ist der Ausfall - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnVnSGlXNVUwVlR3bFFlTHVPN1RPa2QxTnB2cWJWeGM0dkUybC15a2dqdVpmcWJ4b1FDOG5YTU93S3JQcURCTTRPcTVpUUNOelFQNkhrVlJJandVV21DdFBmY2NWSFdYSUZHek5jTVRkOS04X053NGp1RkFiUk1NQ2F3Rm1fbzVnXzh1MnlrSHl6bmRZSk5FRWJVUDJQcWtfanJRZUNrR3Uwc04xX1BWMUdydEJ0bDFHRE54QnJqeEpmX2c?oc=5",
+   "pub": "Sun, 13 Sep 2026 21:20:15 GMT"
+  },
+  {
    "t": "USA-News aktuell | US-Konzerne warnen: Trumps Iran-Krieg könnte den Einkauf verteuern - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVZdFNpd3VlbHh3b1J2NGNlTEtQWEZ4anVpWWM4LXVpaXhMRHhHV1REVnJ3eWRyYmpHaHNVLUxTSHBIQUItcGM1bkZILVc3SkZQdzJJZ01IV0tVVy1Oa1pDcHJadXptc3lmRE5YWEVfOVdONUVkV1pTaWZKTGd0eWZBYm5VaF9IMnRSUnRMenRScHN5ZUZuOGxrSmFDdkJLVHpNQU5YNTdFVWFGVzQ4a2w2QVI5cnJ0bU91bmtfM2R2SzhGLWJTdnZGYURjMEZkbTZDX09JYVF3N0paTG9INA?oc=5",
    "pub": "Sun, 13 Sep 2026 04:40:00 GMT"
   },
   {
-   "t": "Erstmals seit Iran-Krieg: Treffen zwischen VAE und Iran - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRy01ckxndEtwa3hFV2g4VkEwejdfTU9mNlV2MGwtNGVObVpFTHJDMnVfa0ExZUQzNzZ5SU5pY3Z5MGdqbFpLQXJKM2NiNWd4aENCM3M1dl9xVVhZWW9BTnFIVnhTMEFQUFNQV1lKd0hWWEc4aThuT090TU5KYU5uaVZXTXJNUEdneXc?oc=5",
-   "pub": "Sun, 13 Sep 2026 11:38:00 GMT"
-  },
-  {
-   "t": "Pipeline in Saudi-Arabien: So schwerwiegend ist der Ausfall - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnVnSGlXNVUwVlR3bFFlTHVPN1RPa2QxTnB2cWJWeGM0dkUybC15a2dqdVpmcWJ4b1FDOG5YTU93S3JQcURCTTRPcTVpUUNOelFQNkhrVlJJandVV21DdFBmY2NWSFdYSUZHek5jTVRkOS04X053NGp1RkFiUk1NQ2F3Rm1fbzVnXzh1MnlrSHl6bmRZSk5FRWJVUDJQcWtfanJRZUNrR3Uwc04xX1BWMUdydEJ0bDFHRE54QnJqeEpmX2c?oc=5",
-   "pub": "Sun, 13 Sep 2026 18:18:36 GMT"
+   "t": "Nach Angriffen - Warum die Abschaltung der saudischen Ost-West-Pipeline für den weltweiten Ölmarkt so relevant ist - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEFMVDhQOVI5SS1pQ3VzWWFtdjVxeXhOOXFBMFJHRTI5YUFvWmRnTTZHNDdzeGJ1MEdHRG9mNjQxcHpGMG9DV0ZaOWZKUENzLXJmYXFvVHpWdGw0SHVpTk83Y05JSU82RlNOQ0paYklUS2g0dG9feFR0YVpGMHpKWW05Mm1NaGs5WlpGNXVUdDNxUFJFUF9hdE5lWXAxTDRtREVDSFRWNThlenlBVWxhT0Iyc0ZScUc2NUR1aTIwRnhSQ2xwMFl2MkNxQ081QXRwTjJsc2ZR?oc=5",
+   "pub": "Sun, 13 Sep 2026 19:33:45 GMT"
   },
   {
    "t": "Jemen - Iran: Donald Trump hat direkte Angriffe auf Huthis nach Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNX1NicXMtVkNHa2hrcEpoQXF3eGVmREpCVG5ETTFBeVpXd1pmd3B2VzFHUGR2OHJPSjZSS0tHLUlOUzBNUFd5UTVMU0NtWjMxd054U2ZrUG4tQ1NXbExNSDZnLVVSTlFuQUMwRGFaLUdoaGEzVTBSdTRhVy1jbmdCOFg4WHdNTEFSQS04bVVMcFJVS2lyM01kVjRHQi0xUGstc2tXV2w3ZjcwN2RBbnUxVXY2dlN5QXNJbW5zSDRsR3hSN01hRlNBTU9kdjRqb1N3enlMTGRwWlB0dE45azhERWswbW5LaFBhTFZDWmlIUjgwU0tOTXZfSEVMWThhWklrM1JkMGFQZG1pR1E?oc=5",
    "pub": "Fri, 11 Sep 2026 05:37:00 GMT"
-  },
-  {
-   "t": "Nach Angriffen - Warum die Abschaltung der saudischen Ost-West-Pipeline für den weltweiten Ölmarkt so relevant ist - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEFMVDhQOVI5SS1pQ3VzWWFtdjVxeXhOOXFBMFJHRTI5YUFvWmRnTTZHNDdzeGJ1MEdHRG9mNjQxcHpGMG9DV0ZaOWZKUENzLXJmYXFvVHpWdGw0SHVpTk83Y05JSU82RlNOQ0paYklUS2g0dG9feFR0YVpGMHpKWW05Mm1NaGs5WlpGNXVUdDNxUFJFUF9hdE5lWXAxTDRtREVDSFRWNThlenlBVWxhT0Iyc0ZScUc2NUR1aTIwRnhSQ2xwMFl2MkNxQ081QXRwTjJsc2ZR?oc=5",
-   "pub": "Sun, 13 Sep 2026 16:46:06 GMT"
-  },
-  {
-   "t": "Ein Toter: Iran meldet Angriff auf Frachtschiff in der Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU1BVNDZwa0tob1Y0SWhFWWZhZzF2QXhVak00dVZzQ1pVUVE5WmJuaWZPWm5XX1ROSjgzUzJLRlBqMnd0LWlxOFhPZ3FPRVRJM2I0UVZLMFJHOXJ5SF9BNTlVRXIwdVh0eEk1eVhvZ3FxUzVTR1lXU2huVHVCWDRPUWZrZmlIVEZydkJPR1ZLb3V5OWt6c1Q0UU1lemYzTG5nTFU0bUVDN3FIckQtTzFBRkxFTEVPYVB3UV9TbkJIVTM5VUlYNW9rVU1mbmhlWTdDLXZN?oc=5",
-   "pub": "Sun, 13 Sep 2026 06:56:54 GMT"
   }
  ]
 }
