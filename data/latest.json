@@ -1,72 +1,92 @@
 {
- "collected_at": "2026-09-14T06:19:12Z",
+ "collected_at": "2026-09-14T14:05:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8185,
-   "chg1d_pct": 0.65
+   "price": 0.8187,
+   "chg1d_pct": 0.67
   },
   "USDJPY": {
-   "price": 154.202,
-   "chg1d_pct": -0.18
+   "price": 154.906,
+   "chg1d_pct": 0.27
   },
   "GBPCAD": {
-   "price": 1.8717,
-   "chg1d_pct": 0.16
+   "price": 1.8751,
+   "chg1d_pct": 0.34
   },
   "AUDJPY": {
-   "price": 110.107,
-   "chg1d_pct": -0.39
+   "price": 110.182,
+   "chg1d_pct": -0.32
   },
   "EURUSD": {
-   "price": 1.1557,
-   "chg1d_pct": -0.46
+   "price": 1.1529,
+   "chg1d_pct": -0.7
   },
   "GBPCHF": {
-   "price": 1.104,
-   "chg1d_pct": 0.5
+   "price": 1.1026,
+   "chg1d_pct": 0.37
   },
   "WTI": {
-   "price": 102.43,
-   "chg1d_pct": 2.38
+   "price": 104.24,
+   "chg1d_pct": 4.19
   },
   "BRENT": {
-   "price": 107.1,
-   "chg1d_pct": 2.38
+   "price": 109.22,
+   "chg1d_pct": 4.41
   },
   "GOLD": {
-   "price": 4372.1,
-   "chg1d_pct": 0.14
+   "price": 4313.1,
+   "chg1d_pct": -1.22
   },
   "SPX_FUT": {
-   "price": 7622.5,
-   "chg1d_pct": -0.48
+   "price": 7616.5,
+   "chg1d_pct": -0.56
   },
   "NAS_FUT": {
-   "price": 29024.5,
-   "chg1d_pct": -1.23
+   "price": 29016.25,
+   "chg1d_pct": -1.26
   }
  },
  "headlines": [
+  {
+   "t": "Teheran weist Riad zurecht: Iran nennt Grund für Absage der Konferenz im Oman - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3JMbE80Q1k0YzVWLWFHemt2OFVNbEFIM05RT0VYQ1dIR1R3Q3hUZERsYm5CYVZtcjd0SkkzclZQdVRoTThNcUhiT2hRY0QtWHRlNTBNM2VnTl9Yd3JXZFRPcFYyNzVnbGZSYlExVTdXVGJxV2V3dHY1SmhNcmlqWU0tdFV4MFVJcTdxaVNhWnpqb05aWFMzd1JR?oc=5",
+   "pub": "Mon, 14 Sep 2026 08:49:51 GMT"
+  },
+  {
+   "t": "Irankrieg: Abgeschossener Soldat spricht über »das Schrecklichste, was ich je gesehen habe - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS21mVUFieHRGZkR2WE9mT1kwRmV6XzI4Qk5ZYzJQQlFsOUJqNTVxMmhianBRV01pU0o3Q2l3bFpyQ0NRLVphNTVTVWpEMU5aZ0I4YUozQkNPNzBvVXgzaF9NaHlHbU5Gc3lac1pUX2hDSG96UFJmaFAxNGtCM1JUMVhieEN1XzJfM2RIVFBBSi15cTZLbDhhSndyak13M2RSRXkteXBTOERjaGxtT0Q1M3pJdHludDhYWTZfOUw3X3RTVUN3TTJJYTFfN0RKNEdpZTlDZFkwM25aTi1TM2tMYTNMYXNkcjBqSWZZdk8yaw?oc=5",
+   "pub": "Mon, 14 Sep 2026 10:46:00 GMT"
+  },
   {
    "t": "Konflikt um Straße von Hormus - US-Militär stoppt nach eigenen Angaben 100 Schiffe bei Seeblockade gegen Iran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnhTT3JhM2p3VXhpOHg4Um1LZkVDdGJyZFV3UTNjWnNmOVR2dWtrUnlYOGI2YUpRaW45d3oyMnpIeGhmb3NLODVOaFpwVGp2d3R5cEVBalBINEszZWdscFp0anZWekRpb29iS2NpbDQ5RjhqczcwUVJ4RmlxeV9fUWdwTmFneVJYTkphbTVveGFGa25ZNmExWjd0N3JrcGhZSlNwRXR4SzJBUnJSNk5jMHcwbFhDUU9naFE?oc=5",
    "pub": "Sun, 13 Sep 2026 21:51:19 GMT"
   },
   {
-   "t": "Fed-Entscheidung live: Zinsschock voraus? Warsh vor der härtesten Entscheidung seiner Amtszeit - wallstreet-online.de",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLV90c1RhYW04WkVhZldJZlg2TXNBeXNuUjl1c0djeWw2NG9JZGhuSXg4TE15c0lleEt6eHFIWnprQ2htUXhKQ3V0MnYyanBQa0loWHNHcGxqNTJJN2hha092Wk5TZ2FqTVBhZkVFZTNJbFFvWlN5Y2FOSXVDMlJnMkhWYm1IZzZTRDNlNHN2ejRiTFdzSWtVODVYOVhoMlBjNy1aS28tZzRQZ2cwdUNLNV9hams4bFNZeXJtNGxSSjlHLW1RMVdlRzhn?oc=5",
-   "pub": "Mon, 14 Sep 2026 05:21:49 GMT"
+   "t": "Fed Zinsentscheidung: Donald Trump droht mit Handelsstopp - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2l6V3h2Nm5WYlVBV1p2RmdUMXk4SUxRMTdsSkdXT2hDWXQybG1KanZSR09MX01GeGQ2cmRxMkVkZ0ppWkM4R0s3QmJkZEs3cXE2Vk82YmRsbnNfV1dqRVlPRlg1ZVJxRThQOGZQZVBpUzBRWUFMaG9VWTBrMng3Uzl3dkNYd3hDZV9tVi1oUTJRNk0ycVRiZnd0QTJub1QtWkF1Nk9KOGx1Z3M?oc=5",
+   "pub": "Mon, 14 Sep 2026 05:30:50 GMT"
   },
   {
-   "t": "Brics-Gipfel in Indien: Staaten mahnen zu »maximaler Zurückhaltung« im Iran-Krieg - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSEhCejg1cGhrRnVMbmh1N0haRExoX01qa1pBVERzT2U4bzNhdWxzdXJNNWg3NldvQlNrVUt6V2ZDQW9qZk51dWdZcEJvQlBFZzh5ZEw5S19OYkE3S2pYVXNMb3Q5MXppMDVTUzJINVNQYmpSZFJTeVJtQ09oSWQ4ME9WQWt0UEwzQUxxVjVWM1hqVWVVc280dFlYdnItYlhyYjZFQjF4aGRPY280WF9PY1hmVWlGeVg0LU1mdlVpY2pjU0hfWXowVDR2RHluTlNGTTE4eGNmQ3FMWE4teU1vVGxSTQ?oc=5",
-   "pub": "Sun, 13 Sep 2026 10:44:00 GMT"
+   "t": "Trump verweigert Hilfe, Huthi kontrollieren Bab al-Mandab: Saudi-Arabien verliert seine letzte Ölroute - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUk1S0YzX3pUM2llcHpweDVnOTdvTDBKdXdPVUtoRzU0bV9zV0RJVGNWREJaSlVJYlNheXNoZlpFb21mOHZVNnlhb2J1SjJxN1VSSi1WTmNxNDB4X3djWWVmdHJ2NG5BRzZyc1hna18wRVp5dHY4TnRxUkFPdWpGeHloRTJMZlM5cm93Q2JoSW1iR1VSMWUwRi1VN2tMZldZeG14TEEzS0ZHSEdVcTBCNF96aS10N3ZIbVZkb091S3hlYUE?oc=5",
+   "pub": "Mon, 14 Sep 2026 07:19:31 GMT"
   },
   {
-   "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZXk1R1JtLWxTU3pJa3pxMnQwc0ljTTRfU25DU3J0OWNmWjR4MG9MdXlabTEtdDNLeUkza0hHcmdCazlSSVdwZVkyY2p6eURtSG5qOVRfdVRRZC1oZ0YxazZFaElQSGFNZW5LSWFUTFdIcmxfdWFnS3d1ak9zTE5oMkI2dGNmSmpHRGt6OWkzczhUTVdZOUFtV29mRVdGUl9PUXc1ZDRjeHRaclE3TXJwRWR0aWdnX21XcG52bzlGMFU3MU90eC1ERkhUQm5FemozRGpnNE9vQS16M2s?oc=5",
-   "pub": "Mon, 14 Sep 2026 05:00:26 GMT"
+   "t": "„Hoffen wir, dass diese Iran-Oman-Lösung in der Straße von Hormus trägt“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRlN0Qmc5UGhkNklpcVJFY0lzMnQ4Z2NGU08zSDdpUlBtLUpVb01rTzRFWDJyaV9YT3p5SVh6a0J3UFhwdnAyZXV6NFh2UUdFaFl3ek83ZTJOXzdsa2g5U0hiT0RYTkRpOVZWRVRfWUxwZm85eDBlbFN0NVVveHpOdTBGQ0h6d0p3YWNOaE9OcFpqVndXdHRwMmNvLThkbnRocE1JMnlmUU1mWDU2QWN1MlFlVldJTjBCWi1ITzgzWlc4T2pMTF90Mi1UQjJQeHZaUk9RZy1ZRExGYTZNN1JiRVVaOWZ0WGFKcWc?oc=5",
+   "pub": "Mon, 14 Sep 2026 11:52:39 GMT"
+  },
+  {
+   "t": "Fed: Zinserhöhung sehr wahrscheinlich – aber wird die Botschaft klar sein? - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmZ1d3NDa2czNjF0OEhfeGlTRnRfTG05b2tsNjNUai00OUhCSy1zMHhNbDU3N052THlHcW1tWnc1NXJlNFJmSmI1VVNweGZwcXhWUktNOFo3VFlNbkRuV295b2dQN0VkYlJEVnRLLUdXR0V6bko2VmJpQmFPRF9Dd3g5dC1TVGotN1NRd2dPcVY2NTdPY2xoU2VQT215VjlWT2RIMzFCNHBSb2RzRGh4eG9McUFDZUplZHIydzBKUzNpV1FXb21RRlpaUFNWamRMZUhkdVdObXAwR1AzcVRUVjdB?oc=5",
+   "pub": "Mon, 14 Sep 2026 09:51:00 GMT"
+  },
+  {
+   "t": "Golftstaaten: Krisentreffen zur Lage in Straße von Hormus verschoben - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaU1fQS1feDJncFZmZzktRWFEODlCUWF4VmtjbF9xbnV6RUpzTEhjcURrU3llVUtCVWFHY3FzQ0ZLZnctakZEcU5uS1R1cUFYUEE2VjdxS0ZoWVFuVjFZTVBTVTBIV1dtRUlPSHM3WHRBc0xOTzd2bnNJTzN3Ym5Fcm94UQ?oc=5",
+   "pub": "Mon, 14 Sep 2026 10:10:00 GMT"
   },
   {
    "t": "Iran-Krieg: Omans Außenminister: Treffen zu Straße von Hormus verschoben - DIE ZEIT",
@@ -74,39 +94,19 @@
    "pub": "Sun, 13 Sep 2026 21:37:58 GMT"
   },
   {
-   "t": "US-Inflation lässt nach: Warum die Fed trotzdem die Zinsen erhöhen dürfte - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWlZob2dWUEtoMFdPZF9DZ2RSTTBwNkdjZUFZcEtQaXdOT1BwbGNGMFA0ZXFfR3psMml6aGhVVVdIaXlaSk8xZWl4bXNSZG1hV0pnREY2azdqRklvRWZYQUhtajBiTnhEMlVNeVNjb1hEZURhS29BbzdnRTltYVViUFl0cDl3ejMyN1BYZmxIZ0tPMUZLV2hRaVJrRE82N2xFR05KeThoVk5WMEc1eGVlampscEdjRmNYSmJreUlSNUZ5Z2NDWDZ0aTVuZzFMdnVBdHI1X19aY1kxV2Z6OWJQNjlJV2E3dXE4dTljXw?oc=5",
-   "pub": "Mon, 14 Sep 2026 06:02:00 GMT"
+   "t": "GPS unter Beschuss: Russland hilft dem Iran - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aa0JhbmYzZUItNlQ0eGJndXFyVzZ5OTl5ZTNTel9mZ1JwcWc4LW9RdW5BWHdROUl5NjZ1aGVCaXBfU0Fhc3dubTRmd0JKbTFpREVJeEF3SDB0OEtUcFh0eXpCUTRFV1RqRjlEMUJlOURHZkptaEo0b3JSV2t3dw?oc=5",
+   "pub": "Mon, 14 Sep 2026 08:51:27 GMT"
   },
   {
-   "t": "Ein Toter: Iran meldet Angriff auf Frachtschiff in der Straße von Hormus – Sorge um Ölversorgung wächst - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDl6T2FGNjNTVjMxd3BfUEM0c0xxSjc1WU14bFlGa0V6dy15TWluNzZ6VDZIVllIelp5b0R1LWVoVlFHRmRYenBnWnM5OWRwZHdBd3I2aklPWnhrYjYzQ3pGSFR0MnBsUnZuMnhtaGpxc1Fzd3NhaVVqc0RHZmctU2lmT05ONU5Dck5pazFVWmw3NmluVkt1OWJOZ1Frdmk4Q2xPSm1pWjhSS0l5MFZoRWI1OXVUVGVKTVZ2bWF3ZHFyMWF6anpEMDh5T2dJSU9yOXVHNWtldGZ3SnpfYUNvYnE4WXFZWXlxbUw0d3JVOVhGY3loTUVyUkFZYXc?oc=5",
-   "pub": "Sun, 13 Sep 2026 10:53:36 GMT"
+   "t": "US-Soldaten starben bei Angriff: China bestreitet Informationsweitergabe an Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2dUVWswMEdiV1NXalB1VDJwUFpNUFJGZlFaNHlZb0RpWDEtOXJxV2s2V2lNcGNHYl8yWk81WHBzbDNkeTlLQk1YcjUwT1p5Yk9pSGtHV0g5RVBYSTA2aXZVZ1YzaXRBak42dktrV1VoTzVfOEZuVWZwbTZLczBwYksteW5PMlBLTlhwcWRmMTU5RWY3ZlE?oc=5",
+   "pub": "Mon, 14 Sep 2026 11:25:52 GMT"
   },
   {
-   "t": "Nach Treffen mit Scheich: Iran und die Emirate wollen \"neues Kapitel\" in ihren Beziehungen aufschlagen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGpxOTdPeWtMWERQenFhSUcxTWp2OUxCaFplR00zZWtGN1dHbnM1enV4ckYxT2pFUTVFLVBzSmFHMEtoRVJyeDhCWkc5ZlNXTG5LTTZ5ZF9XRVR0Nll6Nkg3eVZxYmtnQ0w4bkt2Nk1ZY21jUzNLbmpma0pibmc0aFNnejVZbjlnNUtWM2Y1MTBGV1dGZEZRRi0tU0l1dnYybkJ3aWhJVEpIX2ZOazRwVnR3eFpJYkhr?oc=5",
-   "pub": "Sun, 13 Sep 2026 14:27:54 GMT"
-  },
-  {
-   "t": "S&P 500 vor Belastungsprobe: Trumps Kurs bringt die Fed in Bedrängnis – und bedroht die Börsenrally - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNTZWalVRZVBMQ3F5RF81ZXNmbHhUNTNVdkw3dlJXZy1jRmIwZkFJVmxoSFBWdEJmRkgwRWlnS0VwdkFXelpMYzZLc01pN1JZR3dmb2d1WjduOWlEQTBaTERZR2hremdoREZ4TFRibTNlelI2REo0c1htSjBZdTN2ZkdFdXotSE1FZXdGM1h1TEFIcm9LenlqVGliUnZQS1RCek1tdU0tNHJwN3FNVi1BcVBfRlFtQXMweDlfNzRMQjQ4NURIZUtPSGd5Ymx6bTNiWF9JUmpHWklOYlAzSnlyYVBCREZ3UUQ0V0lLejFhRTNhaXEzZTdwbFJkcE8?oc=5",
-   "pub": "Mon, 14 Sep 2026 01:29:39 GMT"
-  },
-  {
-   "t": "Trump verteidigt Iran-Krieg und kündigt weiteren wirtschaftlichen Druck an - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29MMU90TGt3SktyT3BEd0VPNndrLTdjQmp6MkE1R21ETlVUWlNYVE9MZU9KWnl2YUVzenFub2dhMEY5UUNUY3Y4aXByRmFZLUhITWV4VU05blZVX2pNUEQ2X2pWM28tTHYxYjloY0p5aEpQejJ3NFlOS253VF9LRGM5b0V0M1pKa1I3NGloeDhJaTV0UzBqLVVvX3BKUkhvMWxTeEVNV3ZrVzlNa0E5ZGo0Q0RQejl3Z1FwLQ?oc=5",
-   "pub": "Fri, 11 Sep 2026 07:48:00 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTUFsRGFIZl80RUV1Z0pKaFBNbVRJMEN0VjJ1Slc2dFk0VGRyZ3VkTmFhaEctN3NMRnpEWjlDUUNKWUxzRTIxQ1V1anRhX1dzRjRULVN1amt0cndYWEYyNWhWZFNjMkM5Rk5PN1FWaEdjSlFLSjFMLTU3SjVabUZqMUFHM1VlOXNESWdCdjFWUE1fQnlVNkdHd3VPYXF0VGp3alpSZkNnWFFJSlpnS3N1MDB2Ql81UW5wYXVzUWdpOXVob1RyZUcwU1h6NnFrc3c?oc=5",
-   "pub": "Mon, 14 Sep 2026 04:38:00 GMT"
-  },
-  {
-   "t": "„Am Ende braucht es für die Huthis nicht viel“: Warum die Seewege im Jemen-Konflikt gefährdet sind - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnVJdlV1Q1dBbjFmaUw3dS1NMW10Q0FvWnVRMXlxM0ZudmF2MmxFalhuX2ZBVlNfMWtUWTZfWWFpN08ySUdySl9oU2k1RHRMQ3UxMmdJX0VaRXJYUENEUFZudDgwN29qVm5DNGdmLTA0M1VxT0kzVXpnSzd0MjVlcjVicDhGdWk5MzFMTGtqVmQtWjlUZUlELXcwMzdmQmptX25qWE9SS3dJMWtVLWNhZzFPSy0?oc=5",
-   "pub": "Sun, 13 Sep 2026 21:07:00 GMT"
+   "t": "Hormus-Krise im FAQ: Warum das Friedenstreffen geplatzt ist und die Ölpreise steigen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0h3WWYzSEJ2d3dWdDB3d0c2OE1ORjdYRmtPT2dERUR2a015MFVlTTZkMDJGRXUyQ0hUazNUTzZSbGNuQ0wya1FGZ1lUdmg3eEl0S0lqWjVWS3ZwdDFyajJwWGtRM043N1AyLWJMVjFsalNMMG5ibDY2MFN2NHdaTGJUNVBHUXNIdks3TnctbjljV01jQlk4?oc=5",
+   "pub": "Mon, 14 Sep 2026 11:01:00 GMT"
   }
  ]
 }
