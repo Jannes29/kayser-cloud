@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-09-13T22:25:31Z",
+ "collected_at": "2026-09-14T01:07:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8167,
-   "chg1d_pct": 0.43
+   "price": 0.8174,
+   "chg1d_pct": 0.51
   },
   "USDJPY": {
-   "price": 153.689,
-   "chg1d_pct": -0.51
+   "price": 153.78,
+   "chg1d_pct": -0.45
   },
   "GBPCAD": {
-   "price": 1.8742,
+   "price": 1.8741,
    "chg1d_pct": 0.29
   },
   "AUDJPY": {
-   "price": 110.03,
-   "chg1d_pct": -0.46
+   "price": 109.858,
+   "chg1d_pct": -0.62
   },
   "EURUSD": {
-   "price": 1.1594,
-   "chg1d_pct": -0.14
+   "price": 1.1589,
+   "chg1d_pct": -0.18
   },
   "GBPCHF": {
-   "price": 1.1035,
-   "chg1d_pct": 0.46
+   "price": 1.1047,
+   "chg1d_pct": 0.57
   },
   "WTI": {
-   "price": 103.19,
-   "chg1d_pct": 3.14
+   "price": 102.83,
+   "chg1d_pct": 2.78
   },
   "BRENT": {
-   "price": 108.11,
-   "chg1d_pct": 3.35
+   "price": 107.64,
+   "chg1d_pct": 2.9
   },
   "GOLD": {
-   "price": 4372.6,
-   "chg1d_pct": 0.15
+   "price": 4381.8,
+   "chg1d_pct": 0.36
   },
   "SPX_FUT": {
-   "price": 7612.5,
-   "chg1d_pct": -0.61
+   "price": 7623.5,
+   "chg1d_pct": -0.47
   },
   "NAS_FUT": {
-   "price": 29025.75,
-   "chg1d_pct": -1.23
+   "price": 29034.75,
+   "chg1d_pct": -1.2
   }
  },
  "headlines": [
   {
    "t": "Konflikt um Straße von Hormus - US-Militär stoppt nach eigenen Angaben 100 Schiffe bei Seeblockade gegen Iran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnhTT3JhM2p3VXhpOHg4Um1LZkVDdGJyZFV3UTNjWnNmOVR2dWtrUnlYOGI2YUpRaW45d3oyMnpIeGhmb3NLODVOaFpwVGp2d3R5cEVBalBINEszZWdscFp0anZWekRpb29iS2NpbDQ5RjhqczcwUVJ4RmlxeV9fUWdwTmFneVJYTkphbTVveGFGa25ZNmExWjd0N3JrcGhZSlNwRXR4SzJBUnJSNk5jMHcwbFhDUU9naFE?oc=5",
-   "pub": "Sun, 13 Sep 2026 20:10:15 GMT"
+   "pub": "Sun, 13 Sep 2026 21:51:19 GMT"
   },
   {
    "t": "Brics-Gipfel in Indien: Staaten mahnen zu »maximaler Zurückhaltung« im Iran-Krieg - Spiegel",
@@ -59,9 +59,14 @@
    "pub": "Sun, 13 Sep 2026 10:44:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Omans Außenminister: Treffen zu Straße von Hormus verschoben - zeit.de",
+   "t": "Iran-Krieg: Omans Außenminister: Treffen zu Straße von Hormus verschoben - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlJZNFZTckdwWnFTMFJmT0pjU2dsOVdrU2JUekhnUU5sd2E5LURmRUF0VHg2VjNOY3Z3NTZTaURJNTR2SUlMNFFjc3JCV2wzWGo2X0RCVTFQUlBVai1WS2M2cjZ4WXhva1E5bmI1UjA2Ny05MXk2OURzbUNpdjlFNXphVTFnNElBZjBCR1dKNVdMb0ZvWmQ2T1JYVHljUQ?oc=5",
    "pub": "Sun, 13 Sep 2026 21:37:58 GMT"
+  },
+  {
+   "t": "„Am Ende braucht es für die Huthis nicht viel“: Warum die Seewege im Jemen-Konflikt gefährdet sind - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnVJdlV1Q1dBbjFmaUw3dS1NMW10Q0FvWnVRMXlxM0ZudmF2MmxFalhuX2ZBVlNfMWtUWTZfWWFpN08ySUdySl9oU2k1RHRMQ3UxMmdJX0VaRXJYUENEUFZudDgwN29qVm5DNGdmLTA0M1VxT0kzVXpnSzd0MjVlcjVicDhGdWk5MzFMTGtqVmQtWjlUZUlELXcwMzdmQmptX25qWE9SS3dJMWtVLWNhZzFPSy0?oc=5",
+   "pub": "Sun, 13 Sep 2026 21:07:00 GMT"
   },
   {
    "t": "Ein Toter: Iran meldet Angriff auf Frachtschiff in der Straße von Hormus – Sorge um Ölversorgung wächst - WELT",
@@ -69,14 +74,14 @@
    "pub": "Sun, 13 Sep 2026 10:53:36 GMT"
   },
   {
+   "t": "Fed-Entscheidung live: Zinsschock voraus? Warsh vor der härtesten Entscheidung seiner Amtszeit - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLV90c1RhYW04WkVhZldJZlg2TXNBeXNuUjl1c0djeWw2NG9JZGhuSXg4TE15c0lleEt6eHFIWnprQ2htUXhKQ3V0MnYyanBQa0loWHNHcGxqNTJJN2hha092Wk5TZ2FqTVBhZkVFZTNJbFFvWlN5Y2FOSXVDMlJnMkhWYm1IZzZTRDNlNHN2ejRiTFdzSWtVODVYOVhoMlBjNy1aS28tZzRQZ2cwdUNLNV9hams4bFNZeXJtNGxSSjlHLW1RMVdlRzhn?oc=5",
+   "pub": "Sun, 13 Sep 2026 19:54:35 GMT"
+  },
+  {
    "t": "Nach Treffen mit Scheich: Iran und die Emirate wollen \"neues Kapitel\" in ihren Beziehungen aufschlagen - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGpxOTdPeWtMWERQenFhSUcxTWp2OUxCaFplR00zZWtGN1dHbnM1enV4ckYxT2pFUTVFLVBzSmFHMEtoRVJyeDhCWkc5ZlNXTG5LTTZ5ZF9XRVR0Nll6Nkg3eVZxYmtnQ0w4bkt2Nk1ZY21jUzNLbmpma0pibmc0aFNnejVZbjlnNUtWM2Y1MTBGV1dGZEZRRi0tU0l1dnYybkJ3aWhJVEpIX2ZOazRwVnR3eFpJYkhr?oc=5",
    "pub": "Sun, 13 Sep 2026 14:27:54 GMT"
-  },
-  {
-   "t": "„Am Ende braucht es für die Huthis nicht viel“: Warum die Seewege im Jemen-Konflikt gefährdet sind - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnVJdlV1Q1dBbjFmaUw3dS1NMW10Q0FvWnVRMXlxM0ZudmF2MmxFalhuX2ZBVlNfMWtUWTZfWWFpN08ySUdySl9oU2k1RHRMQ3UxMmdJX0VaRXJYUENEUFZudDgwN29qVm5DNGdmLTA0M1VxT0kzVXpnSzd0MjVlcjVicDhGdWk5MzFMTGtqVmQtWjlUZUlELXcwMzdmQmptX25qWE9SS3dJMWtVLWNhZzFPSy0?oc=5",
-   "pub": "Sun, 13 Sep 2026 12:09:00 GMT"
   },
   {
    "t": "Schiff in Straße von Hormus angegriffen +++ Huthi-Beschuss in Saudi-Arabien - RND.de",
@@ -94,14 +99,9 @@
    "pub": "Sun, 13 Sep 2026 21:20:15 GMT"
   },
   {
-   "t": "USA-News aktuell | US-Konzerne warnen: Trumps Iran-Krieg könnte den Einkauf verteuern - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWVZdFNpd3VlbHh3b1J2NGNlTEtQWEZ4anVpWWM4LXVpaXhMRHhHV1REVnJ3eWRyYmpHaHNVLUxTSHBIQUItcGM1bkZILVc3SkZQdzJJZ01IV0tVVy1Oa1pDcHJadXptc3lmRE5YWEVfOVdONUVkV1pTaWZKTGd0eWZBYm5VaF9IMnRSUnRMenRScHN5ZUZuOGxrSmFDdkJLVHpNQU5YNTdFVWFGVzQ4a2w2QVI5cnJ0bU91bmtfM2R2SzhGLWJTdnZGYURjMEZkbTZDX09JYVF3N0paTG9INA?oc=5",
-   "pub": "Sun, 13 Sep 2026 04:40:00 GMT"
-  },
-  {
    "t": "Nach Angriffen - Warum die Abschaltung der saudischen Ost-West-Pipeline für den weltweiten Ölmarkt so relevant ist - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEFMVDhQOVI5SS1pQ3VzWWFtdjVxeXhOOXFBMFJHRTI5YUFvWmRnTTZHNDdzeGJ1MEdHRG9mNjQxcHpGMG9DV0ZaOWZKUENzLXJmYXFvVHpWdGw0SHVpTk83Y05JSU82RlNOQ0paYklUS2g0dG9feFR0YVpGMHpKWW05Mm1NaGs5WlpGNXVUdDNxUFJFUF9hdE5lWXAxTDRtREVDSFRWNThlenlBVWxhT0Iyc0ZScUc2NUR1aTIwRnhSQ2xwMFl2MkNxQ081QXRwTjJsc2ZR?oc=5",
-   "pub": "Sun, 13 Sep 2026 19:33:45 GMT"
+   "pub": "Sun, 13 Sep 2026 21:51:19 GMT"
   },
   {
    "t": "Jemen - Iran: Donald Trump hat direkte Angriffe auf Huthis nach Bitte von Mohammed bin Salman offenbar abgelehnt - Spiegel",
