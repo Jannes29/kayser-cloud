@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-09-15T18:12:57Z",
+ "collected_at": "2026-09-15T21:23:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8189,
-   "chg1d_pct": 0.28
+   "price": 0.8178,
+   "chg1d_pct": 0.09
   },
   "USDJPY": {
-   "price": 155.145,
-   "chg1d_pct": 1.12
+   "price": 155.093,
+   "chg1d_pct": 0.46
   },
   "GBPCAD": {
-   "price": 1.8748,
-   "chg1d_pct": -0.03
+   "price": 1.8741,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 110.646,
-   "chg1d_pct": 0.84
+   "price": 110.51,
+   "chg1d_pct": 0.3
   },
   "EURUSD": {
-   "price": 1.1543,
-   "chg1d_pct": -0.44
+   "price": 1.1546,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.1035,
-   "chg1d_pct": -0.09
+   "price": 1.1021,
+   "chg1d_pct": -0.1
   },
   "WTI": {
-   "price": 106.29,
-   "chg1d_pct": 4.83
+   "price": 105.48,
+   "chg1d_pct": 4.03
   },
   "BRENT": {
-   "price": 109.15,
-   "chg1d_pct": 3.28
+   "price": 108.5,
+   "chg1d_pct": 2.67
   },
   "GOLD": {
-   "price": 4334.3,
-   "chg1d_pct": -0.4
+   "price": 4333.4,
+   "chg1d_pct": -0.43
   },
   "SPX_FUT": {
-   "price": 7657.25,
-   "chg1d_pct": 0.42
+   "price": 7663.75,
+   "chg1d_pct": 0.51
   },
   "NAS_FUT": {
-   "price": 29272.0,
-   "chg1d_pct": 0.41
+   "price": 29277.0,
+   "chg1d_pct": 0.43
   }
  },
  "headlines": [
   {
-   "t": "Offizieller US-Bericht räumt Munitionsmangel wegen Irankriegs ein - spiegel.de",
+   "t": "Offizieller US-Bericht räumt Munitionsmangel wegen Irankriegs ein - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkpHUXYyVGZmQlhYQl9qc0JkTEViSWFUaXEtWktGcEw1dHJuS2JsZE94R2ZMODFnQ3pMVFBLZUJmS1l4UzBJRGpCUGJWdnZ2c2dFX2NYdjZkMWVVZWw3MmZ6ZDF6WmtPTDFqUGtHeVVrc2VudTNTSjhxTGRlWFZUVVRKdDhTZkhFYXJSZEhwaTFWNmtQcGdpZVpLR2oxbXBsejVYR1pJOUZRWWdxZkdBSHMtTTNrZldaRWlLVGt4RS1uSW9oNkhNQ3NMMA?oc=5",
    "pub": "Tue, 15 Sep 2026 13:34:00 GMT"
   },
@@ -64,7 +64,17 @@
    "pub": "Tue, 15 Sep 2026 04:49:55 GMT"
   },
   {
-   "t": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - xtb.com",
+   "t": "Fed-Zinsentscheid: Erhöht die US-Notenbank jetzt den Leitzins? - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFXUXFianZBQWpKcHlDdThoc2pra1BPTDJPS1JkTUtKT2hsbFQzWk13SkNFNXJqdkd4Sl9qTFJlUl9mNExCUGoyS3d5NHZyOTZ0bGVQV09qSy0xcHAzWHYyY1RRRG8wR3FNenVFMEpkMUNjeFQyOERpSEVGSWNTRnctdFk3YzR3R2psbEV2cTJiV0E5T2cwUXpaVmlGQS1sMm1EcFdjV3JzWUhBY1lxVE5R?oc=5",
+   "pub": "Tue, 15 Sep 2026 15:54:35 GMT"
+  },
+  {
+   "t": "US-Bericht: Geheimes Militärtreffen – USA berieten offenbar in Deutschland mit arabischen Staaten über Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdmd3X1g0SEdjRzJyckZoQVFKVXR4RC1SVmZacmpNWWN6bFhzbnQ0Z2VUY0V3M1JhSlh4SjBBZmdxcDVOanU5d2w1QzZwNXBRYXN1RkdlZzRET3NWZXNCZ0VlRldnRHVKYlBtQV9nNUY0RTFuTi0tOGdXMVNvOGwxUUFkRHFhR21NZGhsMGhldjFVcHZPcFY0ZjhoX2x4U1Q3em5mUlU3TjVHdTlvTFpJRjdOdGR3NWRMR3FTUmVRQWpBcElNZEdkQU1XNE54bUh1U3BEMDI1RWpkWVFSZThmcEswNWxCNm5PQWJyNmRDTmhsRlF6OWdscF8xZmxJNjcwbnM1RWlnT01oSTl1MHhKVA?oc=5",
+   "pub": "Tue, 15 Sep 2026 19:23:43 GMT"
+  },
+  {
+   "t": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
    "pub": "Tue, 15 Sep 2026 10:11:00 GMT"
   },
@@ -72,6 +82,11 @@
    "t": "Fed-Zinsentscheid am Mittwoch: Klare Prognose – doch eine Frage bleibt - Berliner Morgenpost",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm9NaWc0Y1RvU0M5R2xmSGlDd3R5XzRab0hJSktwci1ualNwZEhiZEF6NUlDU1Y0bzBVRlJxN2ZnSUNPaGstbVZvU1JUVVhTRjUwWTI1NWpnbWYtUnRNeXFnVThoYXoyVm5lUWR5VHlxQi1CZnlienFOSlRuSmRqYUpqYVpabThyWEJuMDNhMTJBbGZCWW02eTR2UzhXd0lEa3Jya0xTTVA0MXpXMnVfRG96VTl4aWpNYnJHREM4NEU2TnZBR2tF?oc=5",
    "pub": "Tue, 15 Sep 2026 10:45:32 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört - heise online",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0dfMm9nUG5aZ0Y0MVlfOEI4RlRnOHZoVGh3b2t1eDNobkZoV1ZWRHpoSmdzLTA4WWJhLV9zYzV0cTMwYkhRSnJmbTlkSEZuQ3h4WGlyYXZKLUFla1JVc21LZi1ENkF2TXlPLUJSXy0tbnRqajVHRXp2NUltbGxod1JqNUREajBsUVZtOFo0dUdPVDNjOEE?oc=5",
+   "pub": "Tue, 15 Sep 2026 20:55:00 GMT"
   },
   {
    "t": "US-Militär räumt Munitionsknappheit wegen Iran-Kriegs ein - FOCUS online",
@@ -84,29 +99,14 @@
    "pub": "Tue, 15 Sep 2026 08:56:53 GMT"
   },
   {
-   "t": "Ticker zum Iran-Krieg: Katar: Schließung von Meerenge Bab al-Mandab wäre „katastrophal“ - rnd.de",
+   "t": "Ticker zum Iran-Krieg: Katar: Schließung von Meerenge Bab al-Mandab wäre „katastrophal“ - RND.de",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVHA2cGdteHlGdlRUa2FSMmg1OVliLWRTQW5kOGp4OFcwWWRfelVHQWM0MGpkdXpzUnBiSUxzQWxiNEd6V1FQcVVSRzR5aVBqOXhGbFcwR3hURjVTVHNKZXNLUHZNa3pKaUNtOWtmM2h1RVZOQUFWOU1mbFRyS25UcDhESS0wOFZEVnV2RTNwQXBBdVJ3aHVIS2hLY1JZYXFuN1dhOEVST1R1Q1JXOGdScW9oc2ZLemF3N1hKTFhlZkFHbC1XTlRXTGw5MW9reXdod3E4dThZcWpaYjd6?oc=5",
    "pub": "Tue, 15 Sep 2026 06:59:59 GMT"
   },
   {
-   "t": "Iran greift nach Protesten durch: 6.000 Festnahmen, 240 beschlagnahmte Vermögen - de.euronews.com",
+   "t": "Iran greift nach Protesten durch: 6.000 Festnahmen, 240 beschlagnahmte Vermögen - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRGZoNEMyb0IyM0o2NVEzWng2WHlxMjV1RFpFeDYtOWhiWVVRZzFSaEtzX3hFdmUwclFjZllLckJrTzUtUmpqekxiTTRMdDRSTzZ5Vzk2U25YbnNxakJnWFpxbXI2MUJGQXNoTXlQbEk0dw?oc=5",
    "pub": "Tue, 15 Sep 2026 05:54:09 GMT"
-  },
-  {
-   "t": "Iran-Krieg kostet USA 33,4 Milliarden US-Dollar – Pentagon-Bericht nennt Munitionslücken - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDBvNGJIWU4zZWplWHRBcWJqalRpOFJ3bnBCdDRNeWFHeHhtTWxJVWFXMlpYM1RNZGNlNk82LW9hTWpaZ3JTaFNPblFYNkUtY1Y0cHpMXzJ4Tzc0SDRoa3VCXzRudVh2YWJjcjFvdmZ5UUZLSDNFanFlUGpBeUNpM0owVmxzMXlBU1phUlRLZnNUTDl1WERzNGdkbndQdWVyUHFiWXJpMUItSi1zWFhubHR6ckoya1hMLWY0R0tiWmJoWnhvaVg0ZTFR?oc=5",
-   "pub": "Tue, 15 Sep 2026 11:06:59 GMT"
-  },
-  {
-   "t": "US-Bericht räumt Munitionsmangel infolge des Iran-Kriegs ein - juedische-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnFwMUh5VGtMbzgxMjl4Zml3VW51NUp4NjdMVW83Ymo0TkJTT0ZnUUdpcUhPTWNJYWwyMUh2TENvaFNnZGZkRjFWYkNBS0hGajVFZTVWWTMwcXo4QlRtQWdqM0VmWW9fN2l3ZEpGMkVNVjZWSDBGbjFXWU9JSHc3TnUyODFuSTdHZDB0SDlVQ2pITV8xeWE5NUF2Z2s1UThBT3ktcy1tNXVTUQ?oc=5",
-   "pub": "Tue, 15 Sep 2026 12:49:00 GMT"
-  },
-  {
-   "t": "Heizölpreise in Schleswig-Holstein seit Iran-Krieg stark gestiegen - SAT.1 Regional",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTdXSlR1ZXRacmFNQjBIVFQyZzAtZHZpWGRGZHFoOGhqdTVaLWQ3U3lzdWVRTUtuMVVpaS1OQWJPcUx0Unc0enU5TVdEaEwxRlVlOHNWaG5oNFo1REZsUkxmbmtVVTFwRXV1YjBYOWd2ZDNBRVVPSnYxdUJyOTFkd19WVS1mRWhHRHZ3X3U1d3gzT3ZfWE9nbTNRWExCcGZ0eDI2TFhB?oc=5",
-   "pub": "Tue, 15 Sep 2026 15:22:52 GMT"
   }
  ]
 }
