@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-15T07:46:37Z",
+ "collected_at": "2026-09-15T13:34:40Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8174,
-   "chg1d_pct": 0.09
+   "price": 0.8188,
+   "chg1d_pct": 0.26
   },
   "USDJPY": {
-   "price": 154.79,
-   "chg1d_pct": 0.89
+   "price": 155.153,
+   "chg1d_pct": 1.13
   },
   "GBPCAD": {
-   "price": 1.8731,
-   "chg1d_pct": -0.13
+   "price": 1.8764,
+   "chg1d_pct": 0.05
   },
   "AUDJPY": {
-   "price": 110.289,
-   "chg1d_pct": 0.51
+   "price": 110.555,
+   "chg1d_pct": 0.75
   },
   "EURUSD": {
-   "price": 1.1543,
-   "chg1d_pct": -0.44
+   "price": 1.1545,
+   "chg1d_pct": -0.42
   },
   "GBPCHF": {
-   "price": 1.1016,
-   "chg1d_pct": -0.26
+   "price": 1.1039,
+   "chg1d_pct": -0.05
   },
   "WTI": {
-   "price": 103.3,
-   "chg1d_pct": 1.88
+   "price": 102.19,
+   "chg1d_pct": 0.79
   },
   "BRENT": {
-   "price": 102.49,
-   "chg1d_pct": -3.02
+   "price": 101.45,
+   "chg1d_pct": -4.0
   },
   "GOLD": {
-   "price": 4326.9,
-   "chg1d_pct": -0.57
+   "price": 4330.5,
+   "chg1d_pct": -0.49
   },
   "SPX_FUT": {
-   "price": 7662.0,
-   "chg1d_pct": 0.49
+   "price": 7690.5,
+   "chg1d_pct": 0.86
   },
   "NAS_FUT": {
-   "price": 29340.25,
-   "chg1d_pct": 0.64
+   "price": 29421.25,
+   "chg1d_pct": 0.92
   }
  },
  "headlines": [
@@ -54,9 +54,29 @@
    "pub": "Tue, 15 Sep 2026 04:49:55 GMT"
   },
   {
-   "t": "Kevin Warsh: Traut sich der Fed-Chef eine Zinserhöhung? - FAZ",
+   "t": "Kevin Warsh: Traut sich der Fed-Chef eine Zinserhöhung? - faz.net",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnh0Yi1oazZoZm9WaVBjZ0RRRkYyb0U2UnJIZ2E2OGdCVFhDdUlBZDVtVkE2WnZKdk9oZTVFb2RvYTQ1a21DelpMTlRxRS12c2xrU0tya2d6NnlfZzdGQzNhSUFjVEF0YVJaTUVVelBqZU53RlpWN0hNYWZvQ280ZEZKM2h0dTZjQTdXZFZtaHpuSUNVVHMzVFV3UFBVNHFNR2dRSHIyVnQ5TUlzLTI1ag?oc=5",
    "pub": "Tue, 15 Sep 2026 05:16:54 GMT"
+  },
+  {
+   "t": "Fed-Zinsentscheid am Mittwoch: Klare Prognose – doch eine Frage bleibt - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm9NaWc0Y1RvU0M5R2xmSGlDd3R5XzRab0hJSktwci1ualNwZEhiZEF6NUlDU1Y0bzBVRlJxN2ZnSUNPaGstbVZvU1JUVVhTRjUwWTI1NWpnbWYtUnRNeXFnVThoYXoyVm5lUWR5VHlxQi1CZnlienFOSlRuSmRqYUpqYVpabThyWEJuMDNhMTJBbGZCWW02eTR2UzhXd0lEa3Jya0xTTVA0MXpXMnVfRG96VTl4aWpNYnJHREM4NEU2TnZBR2tF?oc=5",
+   "pub": "Tue, 15 Sep 2026 10:45:32 GMT"
+  },
+  {
+   "t": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
+   "pub": "Tue, 15 Sep 2026 10:11:00 GMT"
+  },
+  {
+   "t": "Druck auf Partner des Iran: Trumps Wirtschaftskrieg gegen Teheran trifft russische Bank - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTdhT25xVF9tQ2tyTW5mV2lCZHBtZXJlWFRlSXlXcF9Gb1dFbXA5OFJ1M3FCYUFMSHBVelhxR3Fma0F5YVVUMjNjUGZTS0tLVXlrNXRWZ2pjLVp3U3dQLXhCRnVZSm1CTHhfQ18yTl9KdGhNVVpHb3BibEJBSTdKVERnMXIzQ2xrMzBrUjRJa2lCM2Z2Q3FLVEYzaHI4NmhuRTRIakI4VVdRQQ?oc=5",
+   "pub": "Tue, 15 Sep 2026 08:56:53 GMT"
+  },
+  {
+   "t": "US-Militär räumt Munitionsknappheit wegen Iran-Kriegs ein - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckxDYW9iTVNXc1dBdzJsM3hBNVhnejV5bXVqLXI4QTVydDlYdmJyQmw2M0tKTjNSXzI1Y3pVdzRsMjZiZC1OeVhZNnNERnFIOE15YjlJbzRnbklFcmpsZDk0R3I3cVRjQzFHVkJaei1iRk5SSTlCVHpOUm9QSS00N2pXVmdzbS1wSGRQTHk2a01hMnZjQ2xwU2liLVMycmRUOGlfb0wtZmxMZ3V2cC1FZXdZTndaU2I3ZTkzM2VlQnJFX1IyZEtGZTIxYUVnblo2TnFsRg?oc=5",
+   "pub": "Tue, 15 Sep 2026 08:08:00 GMT"
   },
   {
    "t": "Iran greift durch: 6.000 Festnahmen, 240 beschlagnahmte Vermögen - Euronews.com",
@@ -64,49 +84,29 @@
    "pub": "Tue, 15 Sep 2026 05:54:09 GMT"
   },
   {
+   "t": "Iran-Krieg kostet USA 33,4 Milliarden US-Dollar – Pentagon-Bericht nennt Munitionslücken - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVDBvNGJIWU4zZWplWHRBcWJqalRpOFJ3bnBCdDRNeWFHeHhtTWxJVWFXMlpYM1RNZGNlNk82LW9hTWpaZ3JTaFNPblFYNkUtY1Y0cHpMXzJ4Tzc0SDRoa3VCXzRudVh2YWJjcjFvdmZ5UUZLSDNFanFlUGpBeUNpM0owVmxzMXlBU1phUlRLZnNUTDl1WERzNGdkbndQdWVyUHFiWXJpMUItSi1zWFhubHR6ckoya1hMLWY0R0tiWmJoWnhvaVg0ZTFR?oc=5",
+   "pub": "Tue, 15 Sep 2026 11:06:59 GMT"
+  },
+  {
    "t": "Krieg im Iran: Berlin muss mit jahrelanger Verzögerung bei Lieferung von amerikanischen Tomahawk-Raketen rechnen - WELT",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYWt6MkVHR0k1Tl81Sll2VC1uaHI4Y2RvekxCS2JjWUlIWnhtUm1RTE5FMGxheVpqOHFvUTQ1dFJMTU4xbnNBTngxenBadWRhS1BKQTN4cG91QXg5cnhRS3JJVldLWGw2ZHVjQm8tRHBydlNzSlkwV1ptbUZ6aUpkWldTbklzcFBjYm03MVlqWnoxRVM5QWNUb2NsMFVoLXBaUTZTWDJ4VldRTnZsNVJqMk5JUnBtTEZ1VG9Pbkx1bjk1a3NTRHloazkzcG1LTzJSamQxcGE4UUQ3XzRpdFk3dzBhNm1QZzdVTEZ5QlRwazlOVkZ2MlhuM3dsY0NpTVMyZVl1ODJFMkR4cTJ0N0xYaEVraw?oc=5",
    "pub": "Tue, 15 Sep 2026 04:11:34 GMT"
   },
   {
-   "t": "Neue Umfrage enthüllt: Wegen des Iran-Kriegs verliert Donald Trump jetzt seine treuesten Anhänger - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmhwNVNDNmFKX2dqTGZQZGtFRWpnQXFfczlwbF8tek1TY3dtaDhQRXJCVk1SWENnaUFPLVVyNFFlUURCV1pqRm1iNzF2blhDS0hQeGxZU205ckRyQVN2cWRiUmVzXzVVRUZicXhGNm1YeXlQUVJSd25vNmdtLUlSZXhMRUlhamRjMThjZWd1dlk3WTliRllXMFJBSHZlMDdQSEtleklLVVFxZkFFZk5vQi1SUDlmV0RieWRNV04wWTlSb09ORjdLcGpCNS1qZVRXZW5jZnZ3TnlYajQ?oc=5",
-   "pub": "Tue, 15 Sep 2026 05:00:27 GMT"
+   "t": "Inflation bleibt hartnäckig: Warum die Fed jetzt erneut handeln dürfte - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUTNJeElCb29zbWZ4bUNkUDlyNkgweHFOVXhxcG9WZWY2VEFMNVZnU0pEWGFEN0JVNUUzeTVNQkxNMGxoMHNVaEVUR19kU2w3RmpPc1lzdm1tOUtVNnN4LWVicmpIeVNMU25ha3R4NGY0ZE9nQlVQUGxGTWRkZ1MwaFEwVGFZdEljc0xXeklrSVp0Q2JmZm9yRWxqSlBKaER1d1haTnljZHc1VHliYWk0ZWlsdXJWb3pTc3JfLW5fSnEwemllRUtmd1pub0RQejRQakJKcERCZTdDZ29JU0ZPSE94d1l1V2hMamZzd1ZsQWdUMmJVbjA0MVR1dlA?oc=5",
+   "pub": "Tue, 15 Sep 2026 07:04:00 GMT"
   },
   {
-   "t": "Iran-Krieg treibt Preise im Großhandel - OP Online",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNEw0RDNCQWZ6UjU4TmZUX0s2Yk1rY1o1bWx2d0RpbVhXZHFRdGtVMHFkeDE2X1RhN3gyZ0FoX0VDQXRZdUgyai02cHA3NVpVZHNhV04zNG1jSXNsSmp3T2RrVHBRcHNNSUpYc3RhWDNsd3BNWjcyQ24yZkpWYWR2SHNaejU1VU5nM2FadFBiOC0yeTVVeURF?oc=5",
-   "pub": "Tue, 15 Sep 2026 06:49:54 GMT"
+   "t": "Straße von Hormus: Iran meldet Explosion eines Öltankers nach Minentreffer - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWNYMW04Qk9iV3FKNXRDTzdKajFseVpyMGg5SDJsYTRoZEc5NVZZeEVvLTBjR2RVdVpseVNzZG4wSXQzY0ZtaDR3VFB5WmpMTjdQNE5pck1JVXl0U3NkcWVZMGdab2M3WWtscHZ2VzdZemdWTmp1OXpLZHJNSm5vUF80OVRmX3VLOFV4QWdUTUhTaWhTTjFVLXN4WUlRVk1IeHVjOUdLZng2QzFiZmdFSXVfVTk4cEdkTmc?oc=5",
+   "pub": "Tue, 15 Sep 2026 08:58:00 GMT"
   },
   {
-   "t": "Irankrieg: US-Kontrollbehörde beziffert bisherige Folgen des Irankriegs - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3ZybmdOdm5mM2ZYb0FISENGUXRaZ25YNEItUE4yVjNnYWtCdDRQS1ZkRko4QTNSM203cWF6bkJDb3VjV2paWkxUQnc2enhWWXVwMzZpYUZtWkF2V0NGYW9zYUhCbU13UWRIWEM2MkVmRkdVanhUTDc2VHBhazhSS2JnOFhzeVZMVnlGSFZVZ3U1OTh5ODJYeWY4bE91UQ?oc=5",
-   "pub": "Tue, 15 Sep 2026 04:32:05 GMT"
-  },
-  {
-   "t": "USDJPY Analyse: Wohin steuert das Währungspaar Dollar Yen? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXA1TDlMYmlvUndpU1otSWJzU3d1YkVFWk1aNkFLcTdMSXNiNXFZSDBoUTNITksxcVltWWJPbmRZSGVidXh1MUM5dmcwOVh5eTVCdm1KWjRScHktV0Iwa0FHRl9jOHEwVnR6LXEybTJJaldYcDNGS3hsbUVXQVVHa1pKSWdJMzZZM000NU55ZHlhcDlLMVdHSGJHN2RQb3N3Vlhwdm9KTE1qMHc?oc=5",
-   "pub": "Mon, 14 Sep 2026 17:06:00 GMT"
-  },
-  {
-   "t": "Öl-Pipeline in Saudi-Arabien beschädigt: So lange dauert die Reparatur - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWNnWE1zU1Q3dUIwWEpYempYNmxtM0ZocVR0bEtZcmt6Q1FCZ09fUVJrYTY5VHZLSFdLUmhJVEhHMFFfYk9IeWZFWFdhZm9Zcm8yczRfNl9mZ3Jvc2ZOU25KVC1KYW14RV9RWnVRWkE1S3ZJZGFDYlV6Ym9pMzFNMXU5NUp2V0owM1E4Ym9YbHIyUUl3d2hGVm1YNTZjRzJuelZHNy1MMTgydkRGNDBWeFBFZ2QzbDY4NU8wbi1EUllabkhlSHltcEUwRlFtRnNBdEpCZg?oc=5",
-   "pub": "Tue, 15 Sep 2026 05:54:01 GMT"
-  },
-  {
-   "t": "Iran-Krieg – Greenpeace: Fünf größere Ölteppiche in Straße von Hormus - nd-aktuell.de",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaU56TFRtczdZaFRfeVBwdXlPaEdSeTN1aURBNE14OFFJWWZ1VjFuZV9Dd01GbEZ6Vi1OX3dsakNiaDRZTHFmM0RXcDNmS2dWemdBOVBlREJvSm81N3dJN2VxWnVQRkZjX3FjR2ZtdUhmODJpLW9EQW1wUHlHcjdlY3ltWXZ0dGlTNmtwbXhvV01CSXNfUzZ1ZjFnaFQxdTFuTThKSE5LS0VXYTN1eUtvRUpvWkp2VUIyU1E?oc=5",
-   "pub": "Tue, 15 Sep 2026 06:33:25 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Iran meldet Explosion von Öltanker in Straße von Hormus – US-Militär widerspricht - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMFdFVHlhcS1idWNhZjlNdHFOZ1VvWlN5QUQ0cnZSX25JaEJua3kxd2ZIQVRoX2pIbTBsOU5paXM5Wll6NTA1SWRmZXBWSm9LOWFWQlp1a2c1MURzbnJJa1hpZTdSNlV3T2hVTFhDZ2xlOU9wYWl1cXZSYWx3enktNkJaWjhRc3Q0SnhFSy1JMnc5Vy00ZXJKZ1JxUkRBcUpXb0g4bjBmSnlKNnlrdXpLajlzM2U4VGlpd21IS2xYbk1lREZkWnlxVnVWUUtxVk1nQ2d3VkRCR19lTlFZU0ZDR1ZDZWllSEJIYi1vZlIycE9sRVM0ejJnT2tLRU15WE0?oc=5",
-   "pub": "Mon, 14 Sep 2026 20:19:29 GMT"
-  },
-  {
-   "t": "Strafmaßnahmen - USA erhöhen Druck auf Iran - Sanktionen gegen zweitgrößte Bank Russlands - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmt1TXlxTFExdG1OdzY4MUlmbFc0VUZ4QXZFbjdyZFdTN2VYTnNfRzBWcHgxZTQxRVZCamR1cFdOb3VmTlUyY2RsdXpySnR6eXhpR0hncWFNamRvRzRVRVJlMjc2cXo3WkNDSnR6UGRBMlJhNjltNVVmTE1hOVZ2QXVUSWEzdGtmUjFMN0thYVd6Z1NVU0ZHbW13Tk1SYTlxbGs5aHVYcy1aMTJmS2g3aXhoTQ?oc=5",
-   "pub": "Mon, 14 Sep 2026 22:00:00 GMT"
+   "t": "US-Behörde räumt erstmals Munitionsknappheit wegen des Iran-Krieges ein - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFV4WS1tQnFoS1BSNXhKNi1ZcjFLbTN3cmlHR19zTXRQZFkwbWV2TkgtX2FlOUdsZThSOFR2VmxfVzR0N3RKNngtajZkZ1I3U1pqMkJQZUZNTjd6em54STg3OE5rNzJ2Zk1GQWRFRU5iZjFSckRyVER0eG05ODNXSExFNGxhYmttOWppUU9HMFVvTVNKcWZibmpwaENIYnFXNVNJMHUzUFdzd2dVbHVtc18xdw?oc=5",
+   "pub": "Tue, 15 Sep 2026 11:07:32 GMT"
   }
  ]
 }
