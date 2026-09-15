@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-14T23:09:26Z",
+ "collected_at": "2026-09-15T01:29:41Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.817,
-   "chg1d_pct": 0.04
+   "price": 0.8181,
+   "chg1d_pct": 0.18
   },
   "USDJPY": {
-   "price": 154.248,
-   "chg1d_pct": 0.54
+   "price": 154.713,
+   "chg1d_pct": 0.84
   },
   "GBPCAD": {
-   "price": 1.8766,
-   "chg1d_pct": 0.06
+   "price": 1.8757,
+   "chg1d_pct": 0.01
   },
   "AUDJPY": {
-   "price": 110.113,
-   "chg1d_pct": 0.35
+   "price": 110.276,
+   "chg1d_pct": 0.5
   },
   "EURUSD": {
-   "price": 1.1555,
-   "chg1d_pct": -0.34
+   "price": 1.1542,
+   "chg1d_pct": -0.45
   },
   "GBPCHF": {
-   "price": 1.1033,
-   "chg1d_pct": -0.1
+   "price": 1.1034,
+   "chg1d_pct": -0.09
   },
   "WTI": {
-   "price": 101.97,
-   "chg1d_pct": 1.92
+   "price": 102.41,
+   "chg1d_pct": 2.36
   },
   "BRENT": {
-   "price": 106.3,
-   "chg1d_pct": 1.62
+   "price": 106.54,
+   "chg1d_pct": 1.84
   },
   "GOLD": {
-   "price": 4336.6,
-   "chg1d_pct": -1.64
+   "price": 4344.6,
+   "chg1d_pct": -1.46
   },
   "SPX_FUT": {
-   "price": 7697.0,
-   "chg1d_pct": 0.49
+   "price": 7700.25,
+   "chg1d_pct": 0.53
   },
   "NAS_FUT": {
-   "price": 29461.5,
-   "chg1d_pct": 0.25
+   "price": 29488.75,
+   "chg1d_pct": 0.35
   }
  },
  "headlines": [
@@ -59,7 +59,7 @@
    "pub": "Mon, 14 Sep 2026 22:00:00 GMT"
   },
   {
-   "t": "USDJPY Analyse: Wohin steuert das Währungspaar Dollar Yen? - xtb.com",
+   "t": "USDJPY Analyse: Wohin steuert das Währungspaar Dollar Yen? - XTB.com",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWXA1TDlMYmlvUndpU1otSWJzU3d1YkVFWk1aNkFLcTdMSXNiNXFZSDBoUTNITksxcVltWWJPbmRZSGVidXh1MUM5dmcwOVh5eTVCdm1KWjRScHktV0Iwa0FHRl9jOHEwVnR6LXEybTJJaldYcDNGS3hsbUVXQVVHa1pKSWdJMzZZM000NU55ZHlhcDlLMVdHSGJHN2RQb3N3Vlhwdm9KTE1qMHc?oc=5",
    "pub": "Mon, 14 Sep 2026 17:06:00 GMT"
   },
@@ -69,34 +69,19 @@
    "pub": "Mon, 14 Sep 2026 10:46:00 GMT"
   },
   {
-   "t": "Teheran weist Riad zurecht: Iran nennt Grund für Absage der Konferenz im Oman - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3JMbE80Q1k0YzVWLWFHemt2OFVNbEFIM05RT0VYQ1dIR1R3Q3hUZERsYm5CYVZtcjd0SkkzclZQdVRoTThNcUhiT2hRY0QtWHRlNTBNM2VnTl9Yd3JXZFRPcFYyNzVnbGZSYlExVTdXVGJxV2V3dHY1SmhNcmlqWU0tdFV4MFVJcTdxaVNhWnpqb05aWFMzd1JR?oc=5",
-   "pub": "Mon, 14 Sep 2026 08:49:51 GMT"
+   "t": "US-Soldaten starben bei Angriff: China bestreitet Informationsweitergabe an Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2dUVWswMEdiV1NXalB1VDJwUFpNUFJGZlFaNHlZb0RpWDEtOXJxV2s2V2lNcGNHYl8yWk81WHBzbDNkeTlLQk1YcjUwT1p5Yk9pSGtHV0g5RVBYSTA2aXZVZ1YzaXRBak42dktrV1VoTzVfOEZuVWZwbTZLczBwYksteW5PMlBLTlhwcWRmMTU5RWY3ZlE?oc=5",
+   "pub": "Mon, 14 Sep 2026 11:25:52 GMT"
   },
   {
-   "t": "Fed Zinsentscheidung: Donald Trump droht mit Handelsstopp - wiwo.de",
+   "t": "Fed Zinsentscheidung: Donald Trump droht mit Handelsstopp - WiWo",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2l6V3h2Nm5WYlVBV1p2RmdUMXk4SUxRMTdsSkdXT2hDWXQybG1KanZSR09MX01GeGQ2cmRxMkVkZ0ppWkM4R0s3QmJkZEs3cXE2Vk82YmRsbnNfV1dqRVlPRlg1ZVJxRThQOGZQZVBpUzBRWUFMaG9VWTBrMng3Uzl3dkNYd3hDZV9tVi1oUTJRNk0ycVRiZnd0QTJub1QtWkF1Nk9KOGx1Z3M?oc=5",
    "pub": "Mon, 14 Sep 2026 05:30:50 GMT"
-  },
-  {
-   "t": "Fed: Zinserhöhung sehr wahrscheinlich – aber wird die Botschaft klar sein? - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRmZ1d3NDa2czNjF0OEhfeGlTRnRfTG05b2tsNjNUai00OUhCSy1zMHhNbDU3N052THlHcW1tWnc1NXJlNFJmSmI1VVNweGZwcXhWUktNOFo3VFlNbkRuV295b2dQN0VkYlJEVnRLLUdXR0V6bko2VmJpQmFPRF9Dd3g5dC1TVGotN1NRd2dPcVY2NTdPY2xoU2VQT215VjlWT2RIMzFCNHBSb2RzRGh4eG9McUFDZUplZHIydzBKUzNpV1FXb21RRlpaUFNWamRMZUhkdVdObXAwR1AzcVRUVjdB?oc=5",
-   "pub": "Mon, 14 Sep 2026 09:51:00 GMT"
-  },
-  {
-   "t": "Der Iran dreht die Daumenschrauben an, der Westen ist planlos - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc0ktdnExSHh2bzJra1RseDdkQ25ObXljZ1Jqc3hobVFWVXJIbXFlS1Bxd3RCejhJdEl2UHJ2eXgxY0E0Z01PUXVLaVBzVk9PUDhSX2oybm53aDduS1BZNnM4R19XZ0V5ZDRxVHZDUm5vWDR4RWp5NmctZU9FSVdxcjlHRzc0M2hTM0s0TzNVZF9MVjAtd2dYZUNPWXBobXJNd290eklEWE5yc0l1MXVkbTNydlN4QzZRaUZSTmd2dmpHVzQ4UzRQYkItYXh4cWV6cTY2T0MxMGthaVQ2MjhQVFBWcWRPMFk?oc=5",
-   "pub": "Mon, 14 Sep 2026 15:34:53 GMT"
   },
   {
    "t": "Hormus-Krise im FAQ: Warum das Friedenstreffen geplatzt ist und die Ölpreise steigen - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0h3WWYzSEJ2d3dWdDB3d0c2OE1ORjdYRmtPT2dERUR2a015MFVlTTZkMDJGRXUyQ0hUazNUTzZSbGNuQ0wya1FGZ1lUdmg3eEl0S0lqWjVWS3ZwdDFyajJwWGtRM043N1AyLWJMVjFsalNMMG5ibDY2MFN2NHdaTGJUNVBHUXNIdks3TnctbjljV01jQlk4?oc=5",
    "pub": "Mon, 14 Sep 2026 11:01:00 GMT"
-  },
-  {
-   "t": "US-Soldaten starben bei Angriff: China bestreitet Informationsweitergabe an Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2dUVWswMEdiV1NXalB1VDJwUFpNUFJGZlFaNHlZb0RpWDEtOXJxV2s2V2lNcGNHYl8yWk81WHBzbDNkeTlLQk1YcjUwT1p5Yk9pSGtHV0g5RVBYSTA2aXZVZ1YzaXRBak42dktrV1VoTzVfOEZuVWZwbTZLczBwYksteW5PMlBLTlhwcWRmMTU5RWY3ZlE?oc=5",
-   "pub": "Mon, 14 Sep 2026 11:25:52 GMT"
   },
   {
    "t": "Brics-Gipfel in Indien: Staaten mahnen zu »maximaler Zurückhaltung« im Iran-Krieg - Spiegel",
@@ -107,6 +92,21 @@
    "t": "Konflikt um Straße von Hormus - US-Militär stoppt nach eigenen Angaben 100 Schiffe bei Seeblockade gegen Iran - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnhTT3JhM2p3VXhpOHg4Um1LZkVDdGJyZFV3UTNjWnNmOVR2dWtrUnlYOGI2YUpRaW45d3oyMnpIeGhmb3NLODVOaFpwVGp2d3R5cEVBalBINEszZWdscFp0anZWekRpb29iS2NpbDQ5RjhqczcwUVJ4RmlxeV9fUWdwTmFneVJYTkphbTVveGFGa25ZNmExWjd0N3JrcGhZSlNwRXR4SzJBUnJSNk5jMHcwbFhDUU9naFE?oc=5",
    "pub": "Sun, 13 Sep 2026 21:51:19 GMT"
+  },
+  {
+   "t": "Teheran weist Riad zurecht: Iran nennt Grund für Absage der Konferenz im Oman - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3JMbE80Q1k0YzVWLWFHemt2OFVNbEFIM05RT0VYQ1dIR1R3Q3hUZERsYm5CYVZtcjd0SkkzclZQdVRoTThNcUhiT2hRY0QtWHRlNTBNM2VnTl9Yd3JXZFRPcFYyNzVnbGZSYlExVTdXVGJxV2V3dHY1SmhNcmlqWU0tdFV4MFVJcTdxaVNhWnpqb05aWFMzd1JR?oc=5",
+   "pub": "Mon, 14 Sep 2026 08:49:51 GMT"
+  },
+  {
+   "t": "„Hoffen wir, dass diese Iran-Oman-Lösung in der Straße von Hormus trägt“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRlN0Qmc5UGhkNklpcVJFY0lzMnQ4Z2NGU08zSDdpUlBtLUpVb01rTzRFWDJyaV9YT3p5SVh6a0J3UFhwdnAyZXV6NFh2UUdFaFl3ek83ZTJOXzdsa2g5U0hiT0RYTkRpOVZWRVRfWUxwZm85eDBlbFN0NVVveHpOdTBGQ0h6d0p3YWNOaE9OcFpqVndXdHRwMmNvLThkbnRocE1JMnlmUU1mWDU2QWN1MlFlVldJTjBCWi1ITzgzWlc4T2pMTF90Mi1UQjJQeHZaUk9RZy1ZRExGYTZNN1JiRVVaOWZ0WGFKcWc?oc=5",
+   "pub": "Mon, 14 Sep 2026 11:52:39 GMT"
+  },
+  {
+   "t": "Öl-Pipeline in Saudi-Arabien beschädigt: So lange dauert die Reparatur - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWNnWE1zU1Q3dUIwWEpYempYNmxtM0ZocVR0bEtZcmt6Q1FCZ09fUVJrYTY5VHZLSFdLUmhJVEhHMFFfYk9IeWZFWFdhZm9Zcm8yczRfNl9mZ3Jvc2ZOU25KVC1KYW14RV9RWnVRWkE1S3ZJZGFDYlV6Ym9pMzFNMXU5NUp2V0owM1E4Ym9YbHIyUUl3d2hGVm1YNTZjRzJuelZHNy1MMTgydkRGNDBWeFBFZ2QzbDY4NU8wbi1EUllabkhlSHltcEUwRlFtRnNBdEpCZg?oc=5",
+   "pub": "Mon, 14 Sep 2026 22:03:25 GMT"
   }
  ]
 }
