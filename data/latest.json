@@ -1,57 +1,77 @@
 {
- "collected_at": "2026-09-16T06:03:34Z",
+ "collected_at": "2026-09-16T11:37:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8182,
-   "chg1d_pct": 0.13
+   "price": 0.8184,
+   "chg1d_pct": 0.16
   },
   "USDJPY": {
-   "price": 155.183,
-   "chg1d_pct": 0.52
+   "price": 154.956,
+   "chg1d_pct": 0.37
   },
   "GBPCAD": {
-   "price": 1.8771,
-   "chg1d_pct": 0.04
+   "price": 1.8758,
+   "chg1d_pct": -0.03
   },
   "AUDJPY": {
-   "price": 110.656,
-   "chg1d_pct": 0.43
+   "price": 110.562,
+   "chg1d_pct": 0.35
   },
   "EURUSD": {
-   "price": 1.1551,
-   "chg1d_pct": 0.02
+   "price": 1.1543,
+   "chg1d_pct": -0.05
   },
   "GBPCHF": {
-   "price": 1.1031,
-   "chg1d_pct": -0.01
+   "price": 1.1018,
+   "chg1d_pct": -0.13
   },
   "WTI": {
-   "price": 104.91,
-   "chg1d_pct": -0.87
+   "price": 103.16,
+   "chg1d_pct": -2.52
   },
   "BRENT": {
-   "price": 108.32,
-   "chg1d_pct": -0.4
+   "price": 107.0,
+   "chg1d_pct": -1.61
   },
   "GOLD": {
-   "price": 4371.8,
-   "chg1d_pct": 0.9
+   "price": 4389.9,
+   "chg1d_pct": 1.32
   },
   "SPX_FUT": {
-   "price": 7670.5,
-   "chg1d_pct": 1.07
+   "price": 7676.0,
+   "chg1d_pct": 1.14
   },
   "NAS_FUT": {
-   "price": 29326.0,
-   "chg1d_pct": 1.28
+   "price": 29385.5,
+   "chg1d_pct": 1.49
   }
  },
  "headlines": [
   {
-   "t": "Teurer Iran-Krieg: Teherans Außenminister spottet über US-Verluste - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3ZpQ3V1WFRlTllCOU1TOWVpVFJCbjlhYXBSbEpxVVhDWFhMYkxzbjRJNm50YWRCVTBsaXdEWkU3SW1xN0hUa1gwWjZPMWpwczE1Slh6amo4Z3pYSWthSXRjS1MzWGdQZ0ZMc2E3TlVlMnlCZE45b3ZmN2lfUDlySzV2T3RORTlVUkloQTlweDE5QkdnRG9LWg?oc=5",
-   "pub": "Wed, 16 Sep 2026 03:52:36 GMT"
+   "t": "Geheimes Treffen in Deutschland: Militärchefs beraten über Iran-Krieg - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeTg1Ui1HczIxYzY0V3loTkV2bm9wenJLR0NzTzBkOUFtak54cDhwX1lhbG9iNVBRSDQtbHFQNTFTMFRPakVxaVZUdXJWRng0VXFTa3VpQzY3MUU4ZDFDeW95b3FzeEFhOFNManZOcm1fWm1uQ1cyRThSb1pKSUM3dUZQUURsMTVFcGJ2WGx4XzAwZ0NhSmRwZXZRajhJbVdjWjVpRGZRWEI1cDlXQUt4czRxeFgwUQ?oc=5",
+   "pub": "Wed, 16 Sep 2026 07:04:00 GMT"
+  },
+  {
+   "t": "(m+) Fed Zinsentscheid: Bricht der US-Notenbankchef heute mit Trump? - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnNic3pOVWxvZ1hYTXg1TGtkemF4RDZURHpGVUZ3cHYtTWxISWd4VWY4SmluWnJxWjNuMThuZnFwUmlJUGw3RlBqLW9YR3ZOTlVhRnBBcEJyWUFfRlhCSE1vU0prb2FQc1dBWDhsOEFESlpmSEdHeC0tSjQ0bFVyZl9GSEtIdUx6N1hpQzZZT3I2TW5Ga3hMUGw1X3NwSnJ1Vk5iVkVjSzdWT3lVVEQxNDNzOUFielhNc0NvSDEwaUVjRjdtMk5uVFdocExGdkk2OFJiZmM3Yw?oc=5",
+   "pub": "Wed, 16 Sep 2026 06:03:00 GMT"
+  },
+  {
+   "t": "Explosive Lage im Nahen Osten: Drohne zielt offenbar auf Mekka – Iran spottet über die USA - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVUdLdjZwQmhPdzFSeGY1SF9xM29seEo5ZXVNRXlKcDZZb0IxQmNzMnVrRDZZZk5wRW1QT1ZQS25BZUEzXzhpN0Mwb196YnNQODJoWDlXMy1FY0JCNHUwWmxVM0FkanZ6OUNURE9ickozVy1BR2FkUElkSXNva2J6OU1rNkxfZ0pkaDdqSW5XODNKLTFLOE9OeUcxcXQzMU9LSlE?oc=5",
+   "pub": "Wed, 16 Sep 2026 09:02:16 GMT"
+  },
+  {
+   "t": "(S+) Iran: Amnesty International benennt 87 Verantwortliche hinter der brutalen Niederschlagung der »Frau, Leben, Freiheit«-Protesten - spiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZ1RBWTVfYnRJVHRVWlJaNnFjUFA1Q2lFTi1ZWFlRSHRFbHlvend2QlluVXV5ZXc5M25zbUhWaDV1aXJPSVBIVHo2ZUczQTJENVI5MEsyZlgwcWdJRXJ3dlJheVQ2ZEdwSEFLT3lDTEkyV3kwZDE5b2ZLUTdiMHE2Tkk0RWtvRjR3OFpNYy1tWkljSDA5cnQtM3E4MXBYOE13Qmh4Q2hRaWNpZXdRZnhpcTk5aTF5WWJKWUtxNVNLbVRDakZ0NXZuMExnX1hZQlhXVTEyQXhab3ktaWxoSzY2VnNWZFZ3YUJ4UzZwWjJrbjNCRkFJQTR5UmNUMUdSZ0RXT09ValdhWXlXekc5RVlvdENBYkFxMUVYRTdOUG1n?oc=5",
+   "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
+  },
+  {
+   "t": "Fed-Zinsentscheid heute: Wann? Uhrzeit, Livestream und aktuelle Prognose - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSGRQbDgzZW90VHlpYmxUNXUxUHQ3UkhrV0VzWlVkSm15TE0yaE1WT0VkRjNnMVhja0lNd0plZXRCZ3c2RF9EMnU5ejNOd0ZPS0RidDljcjBoNmJ4Nkd3TFk1SlBiSDBaRmtaWjgyLUZvdDNDb05kbGs2RDhoaFRQQ01PWGtHNW5ZSWJhVmR4Q01uWHVpUC1JZEhyRDk3M0hkUmpocmoyTHRKNVF1WklaZ0pJQm5oSFFsbjhfS1dGR1FDdUh2QjN1ckN1aXI3TkZ2Z3l1VA?oc=5",
+   "pub": "Wed, 16 Sep 2026 07:41:00 GMT"
   },
   {
    "t": "US-Kongress macht Druck auf Trump: Repräsentantenhaus stimmt erneut gegen Iran-Krieg - Tagesspiegel",
@@ -59,14 +79,19 @@
    "pub": "Wed, 16 Sep 2026 05:16:35 GMT"
   },
   {
-   "t": "Offizieller US-Bericht räumt Munitionsmangel wegen Irankriegs ein - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkpHUXYyVGZmQlhYQl9qc0JkTEViSWFUaXEtWktGcEw1dHJuS2JsZE94R2ZMODFnQ3pMVFBLZUJmS1l4UzBJRGpCUGJWdnZ2c2dFX2NYdjZkMWVVZWw3MmZ6ZDF6WmtPTDFqUGtHeVVrc2VudTNTSjhxTGRlWFZUVVRKdDhTZkhFYXJSZEhwaTFWNmtQcGdpZVpLR2oxbXBsejVYR1pJOUZRWWdxZkdBSHMtTTNrZldaRWlLVGt4RS1uSW9oNkhNQ3NMMA?oc=5",
-   "pub": "Tue, 15 Sep 2026 13:34:00 GMT"
+   "t": "Fed-Zinsentscheid heute: Was das für Anleihen und Aktien bedeutet - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmE3cExLNzJETndzX3dlRmdsOXFSZzU2T014WEdGOHhFN2hUSFRTRjB6R0w2QWpuR1pTNTBzWWd6V28zSkNsd0Fub0ZDUnZYTFpNamx0QVg2RElvdDJLeXlvclphS0tqV0doejVpRENKa19abExEaW0zd3RRbUpkOERvd19mT1NlQXRaZDF6ZUFRemFJQWJ4ZGtmSHZxN01yckUwSTVFdGRVZDNFRFB5b0N3aEtRTXpqb0doU0kyUkZaQV9KeFBLZDQ4Y3lMN3BUV1hucQ?oc=5",
+   "pub": "Wed, 16 Sep 2026 08:44:41 GMT"
   },
   {
-   "t": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWWN2ZXd5WmhoRk0tVWxQaVAtZjB6NjI3Y2dHcEhBTV9GZFk4NVVkbDUxd1ZKV084eFlfY2psOE16Q3RnLXg4bThaWEFoeDc1c0N4OURsaHhsU2w0NWhvbGxVZ2RIR1UyaGpIbUdNQ3FpX0VnWVdMT0U5cHMtdw?oc=5",
-   "pub": "Tue, 15 Sep 2026 12:04:00 GMT"
+   "t": "Teurer Iran-Krieg: Teherans Außenminister spottet über US-Verluste - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3ZpQ3V1WFRlTllCOU1TOWVpVFJCbjlhYXBSbEpxVVhDWFhMYkxzbjRJNm50YWRCVTBsaXdEWkU3SW1xN0hUa1gwWjZPMWpwczE1Slh6amo4Z3pYSWthSXRjS1MzWGdQZ0ZMc2E3TlVlMnlCZE45b3ZmN2lfUDlySzV2T3RORTlVUkloQTlweDE5QkdnRG9LWg?oc=5",
+   "pub": "Wed, 16 Sep 2026 03:52:36 GMT"
+  },
+  {
+   "t": "US-Inflation bleibt hartnäckig: Fed vor neuem Zinserhöhungszyklus? - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZF9XMEFlNDl6NU5yWjg5eDM1UVotZkFxREdTbms4VzVIUWM2WkI5OGFILVM2dmxLcjVXV3h4YzRZOGk1WDJHWEZwOWVLbE9wa1RDT2k4c25KbEZfMkMxYlVxS01CZTE4dlVQZVVZUVFzeEplRDB6NndmWnQwN1VSZjd2b1IycW5sZExhQ2diNkhBMFlKdngyYXBZVmVleG9sZWlrY1VBVzhxbVlpNXROOXZfNGFzOU1haTBFQkotSzF2RUU1NGc?oc=5",
+   "pub": "Wed, 16 Sep 2026 09:26:00 GMT"
   },
   {
    "t": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört - heise online",
@@ -74,39 +99,14 @@
    "pub": "Tue, 15 Sep 2026 20:55:00 GMT"
   },
   {
-   "t": "\"Nur die Spitze des Eisbergs\": Außenminister macht sich über US-Verluste lustig - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRTZ2JYR1ZwcnR1aU8zQ3ZTUVNISVZPT3BfT294QVJFN2YydGc4TDBaZEtOMHBSUTEwUUZjZDV0bmZYOEdDbV9WejhqUGp1MTlpeWNrTzJpNDhVbUs4Mi1VbldKSmVOdmVmVzFqSGpLMlBrM1BBY0tYRHRzTWpLd2dkdFM3Qk1SSzRtcXE2X2J3Z3ZUY1ZWSXFjU1REU3FJZ3lnMG1PRDZ6ekRYc1JDWXdjWTVVb1NHeHlXY0dB?oc=5",
-   "pub": "Wed, 16 Sep 2026 02:22:21 GMT"
+   "t": "Unsicherheit durch Iran-Krieg: Formel 1 fährt Risiko: Nahost-Rennen im Kalender für 2027 - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmtzckw0Y0pxeUE0VHBrMVhZcnI4UzNSdkJsb3RLc3JUcWluNmM1TlV5alRNNlRxTkExTWNqRWZzb0x4SUt5TWxMUnBDOHBPT1gyX1JxaTd5SUQyOGdFYWpwUE5KUkFHTHRhcHpZWFJjV1ltY1o4TV9lNDZUVlV2THAxSEpZeUNUUUY1MjF6Rjh1VHBYSzhYcjRwMmNKYUM3eUc4UGZzQUdZcjZyeVRySmtZZTdxS1pYRks5MW9ZZ29tRjFyUkZLbHNJaw?oc=5",
+   "pub": "Wed, 16 Sep 2026 09:29:34 GMT"
   },
   {
-   "t": "Warsh vs. Trump?: Spannung vor Fed-Zinsentscheid - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFSHhsQkFHN1BxdVVTSVBxbTBRNWxvTEYyUDRQcW5fWWFGTGZTa2JPbmZuQV9CSVdlLUdxQ3JMa3lPR28wamc?oc=5",
-   "pub": "Wed, 16 Sep 2026 04:08:30 GMT"
-  },
-  {
-   "t": "Fed-Zinsentscheid: Erhöht die US-Notenbank jetzt den Leitzins? - wiwo.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFXUXFianZBQWpKcHlDdThoc2pra1BPTDJPS1JkTUtKT2hsbFQzWk13SkNFNXJqdkd4Sl9qTFJlUl9mNExCUGoyS3d5NHZyOTZ0bGVQV09qSy0xcHAzWHYyY1RRRG8wR3FNenVFMEpkMUNjeFQyOERpSEVGSWNTRnctdFk3YzR3R2psbEV2cTJiV0E5T2cwUXpaVmlGQS1sMm1EcFdjV3JzWUhBY1lxVE5R?oc=5",
-   "pub": "Tue, 15 Sep 2026 15:54:35 GMT"
-  },
-  {
-   "t": "Fed-Entscheid im September: Hike, Kevin, Hike! - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHpPekYxS20tX0ZHUmdoR3NhclNhRGxEbEpZYmdWTFM4dmNJeWZvU0tQSU8tTlI3bGpUMlg4OUg2ZVpST0M5bFFHRlkwZ1F3Zk5BV2tjQmgyWUpBVlRBWmRPUWJfeV9IMWxjUVBndjZETnBBNnN5VlVuN3J3RXlNMXhvbWRZQkpjLWRXWllkRXdDVlByelduai1YbnhrUF8xRTUzMnRBQW84dFdn?oc=5",
-   "pub": "Wed, 16 Sep 2026 05:41:00 GMT"
-  },
-  {
-   "t": "US-Bericht: Geheimes Militärtreffen – USA berieten offenbar in Deutschland mit arabischen Staaten über Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdmd3X1g0SEdjRzJyckZoQVFKVXR4RC1SVmZacmpNWWN6bFhzbnQ0Z2VUY0V3M1JhSlh4SjBBZmdxcDVOanU5d2w1QzZwNXBRYXN1RkdlZzRET3NWZXNCZ0VlRldnRHVKYlBtQV9nNUY0RTFuTi0tOGdXMVNvOGwxUUFkRHFhR21NZGhsMGhldjFVcHZPcFY0ZjhoX2x4U1Q3em5mUlU3TjVHdTlvTFpJRjdOdGR3NWRMR3FTUmVRQWpBcElNZEdkQU1XNE54bUh1U3BEMDI1RWpkWVFSZThmcEswNWxCNm5PQWJyNmRDTmhsRlF6OWdscF8xZmxJNjcwbnM1RWlnT01oSTl1MHhKVA?oc=5",
-   "pub": "Tue, 15 Sep 2026 19:23:43 GMT"
-  },
-  {
-   "t": "US-Militär: Iranische Attacke auf Drohnenboot abgewehrt - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONW1ONUxtY0l0Z3JKc2J0MWVJSWgzRjlVQVVtRlloZndxTnhYZDJGZTRzMkJ5WlA0Y0ZMbzZKRDhRUXhOTGlCdjdDZTBxckJZRVczaldHay1IYlFBWVpsSHgwQkNleEJnaDNhcUxXdnVXR3JJV0k0UTJiLXlIaTJIM0FadGRpdzM1ZEM3SGZrUHFtTm1EVzFjUndiWmtuWWpTTG0yTmhnek1vaUVWMVNzdGxRYV9jd0JZeTJFNlpPYkNnNGY4Z2ZvU3VRd1AwZnJZ?oc=5",
-   "pub": "Tue, 15 Sep 2026 21:41:05 GMT"
-  },
-  {
-   "t": "Fed hebt Zinsen wohl an: trotz Trumps Forderung nach einer Senkung - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVhXbkhCMkNGQVdEZHd2bEk2RlNUVzdRSDY0bmNXZDJCbmVVbVhoVlRoZUZ3LVhKYXBnejZBbHVzN2hocFlRYjBXN01ZTmNIUXBKdHZqZzhoSmd1NXJ6THdOVFBoZTJoQlhMOE16OExPVDVWQl8zT3hTWkVsdXFmMUpzRjhHUWtTNTNNVlhlR200ajUyMXctZ3VCbnB2a3BQRmU5Y1UxbElNel9oZ2c?oc=5",
-   "pub": "Wed, 16 Sep 2026 05:41:42 GMT"
+   "t": "Wie der Iran-Krieg die Ressourcen der USA erschöpft - SRF",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjgxU2tvWV9nY0V2TGhITDhrZzVoMi1QN3hGUXViYjk0RjVaSTZKdjQ2My1QQnZFdXV1OXhycUN5ZjVtVjJDRUtCa2c1YTdaQzhnejU5SmU3WklXRHZXX3BTRms1TmVteFJiNmt6RkEyTlRnR3FrYlRnNXpUWHhlOW9Da19JMTg0RUZXLVVBMTRYZGoybjBYV1JvZ05GdDItMnFDTWphdDFQckx4?oc=5",
+   "pub": "Wed, 16 Sep 2026 08:30:15 GMT"
   }
  ]
 }
