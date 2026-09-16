@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-15T21:23:39Z",
+ "collected_at": "2026-09-16T00:22:43Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8178,
-   "chg1d_pct": 0.09
+   "price": 0.8189,
+   "chg1d_pct": 0.22
   },
   "USDJPY": {
-   "price": 155.093,
-   "chg1d_pct": 0.46
+   "price": 155.182,
+   "chg1d_pct": 0.52
   },
   "GBPCAD": {
-   "price": 1.8741,
-   "chg1d_pct": -0.12
+   "price": 1.8762,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 110.51,
-   "chg1d_pct": 0.3
+   "price": 110.574,
+   "chg1d_pct": 0.36
   },
   "EURUSD": {
-   "price": 1.1546,
-   "chg1d_pct": -0.02
+   "price": 1.1542,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.1021,
-   "chg1d_pct": -0.1
+   "price": 1.1032,
+   "chg1d_pct": -0.0
   },
   "WTI": {
-   "price": 105.48,
-   "chg1d_pct": 4.03
+   "price": 105.02,
+   "chg1d_pct": 3.58
   },
   "BRENT": {
-   "price": 108.5,
-   "chg1d_pct": 2.67
+   "price": 108.0,
+   "chg1d_pct": 2.2
   },
   "GOLD": {
-   "price": 4333.4,
-   "chg1d_pct": -0.43
+   "price": 4323.1,
+   "chg1d_pct": -0.66
   },
   "SPX_FUT": {
-   "price": 7663.75,
-   "chg1d_pct": 0.51
+   "price": 7666.75,
+   "chg1d_pct": 0.55
   },
   "NAS_FUT": {
-   "price": 29277.0,
-   "chg1d_pct": 0.43
+   "price": 29282.75,
+   "chg1d_pct": 0.45
   }
  },
  "headlines": [
@@ -74,9 +74,14 @@
    "pub": "Tue, 15 Sep 2026 19:23:43 GMT"
   },
   {
-   "t": "Goldpreis Prognose: Fed-Zinsschritt droht – Markt News zur Korrektur bei Gold | Jens Klatt - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVZHODFMaGFhajd1Q096b0ZfbVoyNHpCZ2dKY19EU3FjWWVTTG9mbS1jOWc2SWd3LTlIdHFSeG9nVFBPdENUdjVQbVZFMUFqSGdiV041R2FYYUxQN2ctZEtfRGRxd3Bqbjc3MUlaQ0g3bzRSVUpPTXF2T1NDdE5xTnozelZWVldXUDJYWm93?oc=5",
-   "pub": "Tue, 15 Sep 2026 10:11:00 GMT"
+   "t": "US-Militär: Iranische Attacke auf Drohnenboot abgewehrt - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONW1ONUxtY0l0Z3JKc2J0MWVJSWgzRjlVQVVtRlloZndxTnhYZDJGZTRzMkJ5WlA0Y0ZMbzZKRDhRUXhOTGlCdjdDZTBxckJZRVczaldHay1IYlFBWVpsSHgwQkNleEJnaDNhcUxXdnVXR3JJV0k0UTJiLXlIaTJIM0FadGRpdzM1ZEM3SGZrUHFtTm1EVzFjUndiWmtuWWpTTG0yTmhnek1vaUVWMVNzdGxRYV9jd0JZeTJFNlpPYkNnNGY4Z2ZvU3VRd1AwZnJZ?oc=5",
+   "pub": "Tue, 15 Sep 2026 21:41:05 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört - heise online",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0dfMm9nUG5aZ0Y0MVlfOEI4RlRnOHZoVGh3b2t1eDNobkZoV1ZWRHpoSmdzLTA4WWJhLV9zYzV0cTMwYkhRSnJmbTlkSEZuQ3h4WGlyYXZKLUFla1JVc21LZi1ENkF2TXlPLUJSXy0tbnRqajVHRXp2NUltbGxod1JqNUREajBsUVZtOFo0dUdPVDNjOEE?oc=5",
+   "pub": "Tue, 15 Sep 2026 20:55:00 GMT"
   },
   {
    "t": "Fed-Zinsentscheid am Mittwoch: Klare Prognose – doch eine Frage bleibt - Berliner Morgenpost",
@@ -84,9 +89,9 @@
    "pub": "Tue, 15 Sep 2026 10:45:32 GMT"
   },
   {
-   "t": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört - heise online",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0dfMm9nUG5aZ0Y0MVlfOEI4RlRnOHZoVGh3b2t1eDNobkZoV1ZWRHpoSmdzLTA4WWJhLV9zYzV0cTMwYkhRSnJmbTlkSEZuQ3h4WGlyYXZKLUFla1JVc21LZi1ENkF2TXlPLUJSXy0tbnRqajVHRXp2NUltbGxod1JqNUREajBsUVZtOFo0dUdPVDNjOEE?oc=5",
-   "pub": "Tue, 15 Sep 2026 20:55:00 GMT"
+   "t": "Iran-Krieg: USA räumen erstmals Munitionsknappheit ein - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUpabkZjR3BIWUVuaWhudi1Mby1MX1NGSWdUai05a1c1Y1ZCUDlwTjY1TWk0MlNnRmZBbi1JOUJuakhuMm52MHZGRDNlZVczVl9VT2UtSmh0alZBSVRkTldPU2NRckgxXzZ3S0VpQnlONy1OdVFzcVo1aTRjOTJUbnZRWE1VSnU1RnpybS12dERiT1V6SGhrMjFGMA?oc=5",
+   "pub": "Tue, 15 Sep 2026 22:14:21 GMT"
   },
   {
    "t": "US-Militär räumt Munitionsknappheit wegen Iran-Kriegs ein - FOCUS online",
@@ -97,11 +102,6 @@
    "t": "Druck auf Partner des Iran: Trumps Wirtschaftskrieg gegen Teheran trifft russische Bank - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTdhT25xVF9tQ2tyTW5mV2lCZHBtZXJlWFRlSXlXcF9Gb1dFbXA5OFJ1M3FCYUFMSHBVelhxR3Fma0F5YVVUMjNjUGZTS0tLVXlrNXRWZ2pjLVp3U3dQLXhCRnVZSm1CTHhfQ18yTl9KdGhNVVpHb3BibEJBSTdKVERnMXIzQ2xrMzBrUjRJa2lCM2Z2Q3FLVEYzaHI4NmhuRTRIakI4VVdRQQ?oc=5",
    "pub": "Tue, 15 Sep 2026 08:56:53 GMT"
-  },
-  {
-   "t": "Ticker zum Iran-Krieg: Katar: Schließung von Meerenge Bab al-Mandab wäre „katastrophal“ - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVHA2cGdteHlGdlRUa2FSMmg1OVliLWRTQW5kOGp4OFcwWWRfelVHQWM0MGpkdXpzUnBiSUxzQWxiNEd6V1FQcVVSRzR5aVBqOXhGbFcwR3hURjVTVHNKZXNLUHZNa3pKaUNtOWtmM2h1RVZOQUFWOU1mbFRyS25UcDhESS0wOFZEVnV2RTNwQXBBdVJ3aHVIS2hLY1JZYXFuN1dhOEVST1R1Q1JXOGdScW9oc2ZLemF3N1hKTFhlZkFHbC1XTlRXTGw5MW9reXdod3E4dThZcWpaYjd6?oc=5",
-   "pub": "Tue, 15 Sep 2026 06:59:59 GMT"
   },
   {
    "t": "Iran greift nach Protesten durch: 6.000 Festnahmen, 240 beschlagnahmte Vermögen - Euronews.com",
