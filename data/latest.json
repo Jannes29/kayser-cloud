@@ -1,53 +1,63 @@
 {
- "collected_at": "2026-09-16T00:22:43Z",
+ "collected_at": "2026-09-16T06:03:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8189,
-   "chg1d_pct": 0.22
+   "price": 0.8182,
+   "chg1d_pct": 0.13
   },
   "USDJPY": {
-   "price": 155.182,
+   "price": 155.183,
    "chg1d_pct": 0.52
   },
   "GBPCAD": {
-   "price": 1.8762,
-   "chg1d_pct": -0.01
+   "price": 1.8771,
+   "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 110.574,
-   "chg1d_pct": 0.36
+   "price": 110.656,
+   "chg1d_pct": 0.43
   },
   "EURUSD": {
-   "price": 1.1542,
-   "chg1d_pct": -0.06
+   "price": 1.1551,
+   "chg1d_pct": 0.02
   },
   "GBPCHF": {
-   "price": 1.1032,
-   "chg1d_pct": -0.0
+   "price": 1.1031,
+   "chg1d_pct": -0.01
   },
   "WTI": {
-   "price": 105.02,
-   "chg1d_pct": 3.58
+   "price": 104.91,
+   "chg1d_pct": -0.87
   },
   "BRENT": {
-   "price": 108.0,
-   "chg1d_pct": 2.2
+   "price": 108.32,
+   "chg1d_pct": -0.4
   },
   "GOLD": {
-   "price": 4323.1,
-   "chg1d_pct": -0.66
+   "price": 4371.8,
+   "chg1d_pct": 0.9
   },
   "SPX_FUT": {
-   "price": 7666.75,
-   "chg1d_pct": 0.55
+   "price": 7670.5,
+   "chg1d_pct": 1.07
   },
   "NAS_FUT": {
-   "price": 29282.75,
-   "chg1d_pct": 0.45
+   "price": 29326.0,
+   "chg1d_pct": 1.28
   }
  },
  "headlines": [
+  {
+   "t": "Teurer Iran-Krieg: Teherans Außenminister spottet über US-Verluste - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3ZpQ3V1WFRlTllCOU1TOWVpVFJCbjlhYXBSbEpxVVhDWFhMYkxzbjRJNm50YWRCVTBsaXdEWkU3SW1xN0hUa1gwWjZPMWpwczE1Slh6amo4Z3pYSWthSXRjS1MzWGdQZ0ZMc2E3TlVlMnlCZE45b3ZmN2lfUDlySzV2T3RORTlVUkloQTlweDE5QkdnRG9LWg?oc=5",
+   "pub": "Wed, 16 Sep 2026 03:52:36 GMT"
+  },
+  {
+   "t": "US-Kongress macht Druck auf Trump: Repräsentantenhaus stimmt erneut gegen Iran-Krieg - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNE8xRVpIRjN6WVZsWnlXcENEelNwQzQwZzdMLW42dDUwbzdMLVIwSHctclpSV3hxcGhXMFFHYmVkbENVV2Z4UUZLcnJwdFhteWRJT29RUmoyZmk0TDNCUV9STGs3b29IRlpwWlA4V3hYT3VjVGdvMEl1aG5ITV9HZm5CTGUwOHJTczYyNWhBQlpRakYtT2RjSVFxQXItUWdkR2piNk9XekRrbklJOGVBdg?oc=5",
+   "pub": "Wed, 16 Sep 2026 05:16:35 GMT"
+  },
   {
    "t": "Offizieller US-Bericht räumt Munitionsmangel wegen Irankriegs ein - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkpHUXYyVGZmQlhYQl9qc0JkTEViSWFUaXEtWktGcEw1dHJuS2JsZE94R2ZMODFnQ3pMVFBLZUJmS1l4UzBJRGpCUGJWdnZ2c2dFX2NYdjZkMWVVZWw3MmZ6ZDF6WmtPTDFqUGtHeVVrc2VudTNTSjhxTGRlWFZUVVRKdDhTZkhFYXJSZEhwaTFWNmtQcGdpZVpLR2oxbXBsejVYR1pJOUZRWWdxZkdBSHMtTTNrZldaRWlLVGt4RS1uSW9oNkhNQ3NMMA?oc=5",
@@ -59,14 +69,29 @@
    "pub": "Tue, 15 Sep 2026 12:04:00 GMT"
   },
   {
-   "t": "USA - Kontrollbehörde des Verteidigungsministeriums bilanziert Folgen des Iran-Kriegs - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGdnX3RNYmlhUHlXbHh1RUJ4NFR4cmN5V19aQ0VDSDM3NlBTdXJJam9PMDlyb1JqT1BzdWJZRDd5NUNYWjN3bnZSMmxvNUJFQ2tadFB1Q3JrSXZVcERLSHFZRE50bmpDQ2lXTzNxUHVwY0F6SG1TYzFrY3JUNUlVei15dFdSWVhFUXFkOHg3ZkR1YjBEMGRvS0JfRmsxS19LM0gtT0JKSklkLWp6MmhidkFXUVk3bG9UdC1TRA?oc=5",
-   "pub": "Tue, 15 Sep 2026 04:49:55 GMT"
+   "t": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört - heise online",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0dfMm9nUG5aZ0Y0MVlfOEI4RlRnOHZoVGh3b2t1eDNobkZoV1ZWRHpoSmdzLTA4WWJhLV9zYzV0cTMwYkhRSnJmbTlkSEZuQ3h4WGlyYXZKLUFla1JVc21LZi1ENkF2TXlPLUJSXy0tbnRqajVHRXp2NUltbGxod1JqNUREajBsUVZtOFo0dUdPVDNjOEE?oc=5",
+   "pub": "Tue, 15 Sep 2026 20:55:00 GMT"
   },
   {
-   "t": "Fed-Zinsentscheid: Erhöht die US-Notenbank jetzt den Leitzins? - WiWo",
+   "t": "\"Nur die Spitze des Eisbergs\": Außenminister macht sich über US-Verluste lustig - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRTZ2JYR1ZwcnR1aU8zQ3ZTUVNISVZPT3BfT294QVJFN2YydGc4TDBaZEtOMHBSUTEwUUZjZDV0bmZYOEdDbV9WejhqUGp1MTlpeWNrTzJpNDhVbUs4Mi1VbldKSmVOdmVmVzFqSGpLMlBrM1BBY0tYRHRzTWpLd2dkdFM3Qk1SSzRtcXE2X2J3Z3ZUY1ZWSXFjU1REU3FJZ3lnMG1PRDZ6ekRYc1JDWXdjWTVVb1NHeHlXY0dB?oc=5",
+   "pub": "Wed, 16 Sep 2026 02:22:21 GMT"
+  },
+  {
+   "t": "Warsh vs. Trump?: Spannung vor Fed-Zinsentscheid - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFSHhsQkFHN1BxdVVTSVBxbTBRNWxvTEYyUDRQcW5fWWFGTGZTa2JPbmZuQV9CSVdlLUdxQ3JMa3lPR28wamc?oc=5",
+   "pub": "Wed, 16 Sep 2026 04:08:30 GMT"
+  },
+  {
+   "t": "Fed-Zinsentscheid: Erhöht die US-Notenbank jetzt den Leitzins? - wiwo.de",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFFXUXFianZBQWpKcHlDdThoc2pra1BPTDJPS1JkTUtKT2hsbFQzWk13SkNFNXJqdkd4Sl9qTFJlUl9mNExCUGoyS3d5NHZyOTZ0bGVQV09qSy0xcHAzWHYyY1RRRG8wR3FNenVFMEpkMUNjeFQyOERpSEVGSWNTRnctdFk3YzR3R2psbEV2cTJiV0E5T2cwUXpaVmlGQS1sMm1EcFdjV3JzWUhBY1lxVE5R?oc=5",
    "pub": "Tue, 15 Sep 2026 15:54:35 GMT"
+  },
+  {
+   "t": "Fed-Entscheid im September: Hike, Kevin, Hike! - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHpPekYxS20tX0ZHUmdoR3NhclNhRGxEbEpZYmdWTFM4dmNJeWZvU0tQSU8tTlI3bGpUMlg4OUg2ZVpST0M5bFFHRlkwZ1F3Zk5BV2tjQmgyWUpBVlRBWmRPUWJfeV9IMWxjUVBndjZETnBBNnN5VlVuN3J3RXlNMXhvbWRZQkpjLWRXWllkRXdDVlByelduai1YbnhrUF8xRTUzMnRBQW84dFdn?oc=5",
+   "pub": "Wed, 16 Sep 2026 05:41:00 GMT"
   },
   {
    "t": "US-Bericht: Geheimes Militärtreffen – USA berieten offenbar in Deutschland mit arabischen Staaten über Iran - WELT",
@@ -79,34 +104,9 @@
    "pub": "Tue, 15 Sep 2026 21:41:05 GMT"
   },
   {
-   "t": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört - heise online",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0dfMm9nUG5aZ0Y0MVlfOEI4RlRnOHZoVGh3b2t1eDNobkZoV1ZWRHpoSmdzLTA4WWJhLV9zYzV0cTMwYkhRSnJmbTlkSEZuQ3h4WGlyYXZKLUFla1JVc21LZi1ENkF2TXlPLUJSXy0tbnRqajVHRXp2NUltbGxod1JqNUREajBsUVZtOFo0dUdPVDNjOEE?oc=5",
-   "pub": "Tue, 15 Sep 2026 20:55:00 GMT"
-  },
-  {
-   "t": "Fed-Zinsentscheid am Mittwoch: Klare Prognose – doch eine Frage bleibt - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm9NaWc0Y1RvU0M5R2xmSGlDd3R5XzRab0hJSktwci1ualNwZEhiZEF6NUlDU1Y0bzBVRlJxN2ZnSUNPaGstbVZvU1JUVVhTRjUwWTI1NWpnbWYtUnRNeXFnVThoYXoyVm5lUWR5VHlxQi1CZnlienFOSlRuSmRqYUpqYVpabThyWEJuMDNhMTJBbGZCWW02eTR2UzhXd0lEa3Jya0xTTVA0MXpXMnVfRG96VTl4aWpNYnJHREM4NEU2TnZBR2tF?oc=5",
-   "pub": "Tue, 15 Sep 2026 10:45:32 GMT"
-  },
-  {
-   "t": "Iran-Krieg: USA räumen erstmals Munitionsknappheit ein - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUpabkZjR3BIWUVuaWhudi1Mby1MX1NGSWdUai05a1c1Y1ZCUDlwTjY1TWk0MlNnRmZBbi1JOUJuakhuMm52MHZGRDNlZVczVl9VT2UtSmh0alZBSVRkTldPU2NRckgxXzZ3S0VpQnlONy1OdVFzcVo1aTRjOTJUbnZRWE1VSnU1RnpybS12dERiT1V6SGhrMjFGMA?oc=5",
-   "pub": "Tue, 15 Sep 2026 22:14:21 GMT"
-  },
-  {
-   "t": "US-Militär räumt Munitionsknappheit wegen Iran-Kriegs ein - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckxDYW9iTVNXc1dBdzJsM3hBNVhnejV5bXVqLXI4QTVydDlYdmJyQmw2M0tKTjNSXzI1Y3pVdzRsMjZiZC1OeVhZNnNERnFIOE15YjlJbzRnbklFcmpsZDk0R3I3cVRjQzFHVkJaei1iRk5SSTlCVHpOUm9QSS00N2pXVmdzbS1wSGRQTHk2a01hMnZjQ2xwU2liLVMycmRUOGlfb0wtZmxMZ3V2cC1FZXdZTndaU2I3ZTkzM2VlQnJFX1IyZEtGZTIxYUVnblo2TnFsRg?oc=5",
-   "pub": "Tue, 15 Sep 2026 08:08:00 GMT"
-  },
-  {
-   "t": "Druck auf Partner des Iran: Trumps Wirtschaftskrieg gegen Teheran trifft russische Bank - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTdhT25xVF9tQ2tyTW5mV2lCZHBtZXJlWFRlSXlXcF9Gb1dFbXA5OFJ1M3FCYUFMSHBVelhxR3Fma0F5YVVUMjNjUGZTS0tLVXlrNXRWZ2pjLVp3U3dQLXhCRnVZSm1CTHhfQ18yTl9KdGhNVVpHb3BibEJBSTdKVERnMXIzQ2xrMzBrUjRJa2lCM2Z2Q3FLVEYzaHI4NmhuRTRIakI4VVdRQQ?oc=5",
-   "pub": "Tue, 15 Sep 2026 08:56:53 GMT"
-  },
-  {
-   "t": "Iran greift nach Protesten durch: 6.000 Festnahmen, 240 beschlagnahmte Vermögen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRGZoNEMyb0IyM0o2NVEzWng2WHlxMjV1RFpFeDYtOWhiWVVRZzFSaEtzX3hFdmUwclFjZllLckJrTzUtUmpqekxiTTRMdDRSTzZ5Vzk2U25YbnNxakJnWFpxbXI2MUJGQXNoTXlQbEk0dw?oc=5",
-   "pub": "Tue, 15 Sep 2026 05:54:09 GMT"
+   "t": "Fed hebt Zinsen wohl an: trotz Trumps Forderung nach einer Senkung - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVhXbkhCMkNGQVdEZHd2bEk2RlNUVzdRSDY0bmNXZDJCbmVVbVhoVlRoZUZ3LVhKYXBnejZBbHVzN2hocFlRYjBXN01ZTmNIUXBKdHZqZzhoSmd1NXJ6THdOVFBoZTJoQlhMOE16OExPVDVWQl8zT3hTWkVsdXFmMUpzRjhHUWtTNTNNVlhlR200ajUyMXctZ3VCbnB2a3BQRmU5Y1UxbElNel9oZ2c?oc=5",
+   "pub": "Wed, 16 Sep 2026 05:41:42 GMT"
   }
  ]
 }
