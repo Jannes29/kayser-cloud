@@ -1,62 +1,92 @@
 {
- "collected_at": "2026-09-17T01:26:48Z",
+ "collected_at": "2026-09-17T07:41:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8255,
-   "chg1d_pct": 0.79
+   "price": 0.8248,
+   "chg1d_pct": 0.7
   },
   "USDJPY": {
-   "price": 156.074,
-   "chg1d_pct": 0.52
+   "price": 155.737,
+   "chg1d_pct": 0.3
   },
   "GBPCAD": {
-   "price": 1.8712,
-   "chg1d_pct": -0.23
+   "price": 1.8725,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 110.745,
-   "chg1d_pct": 0.1
+   "price": 110.83,
+   "chg1d_pct": 0.18
   },
   "EURUSD": {
-   "price": 1.1467,
-   "chg1d_pct": -0.61
+   "price": 1.1481,
+   "chg1d_pct": -0.49
   },
   "GBPCHF": {
-   "price": 1.1043,
-   "chg1d_pct": 0.09
+   "price": 1.1045,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 101.91,
-   "chg1d_pct": -3.7
+   "price": 100.93,
+   "chg1d_pct": -1.46
   },
   "BRENT": {
-   "price": 105.44,
-   "chg1d_pct": -3.04
+   "price": 103.98,
+   "chg1d_pct": -1.75
   },
   "GOLD": {
-   "price": 4338.0,
-   "chg1d_pct": 0.12
+   "price": 4370.9,
+   "chg1d_pct": -0.38
   },
   "SPX_FUT": {
-   "price": 7663.5,
-   "chg1d_pct": 0.98
+   "price": 7687.0,
+   "chg1d_pct": 1.73
   },
   "NAS_FUT": {
-   "price": 29444.75,
-   "chg1d_pct": 1.69
+   "price": 29554.5,
+   "chg1d_pct": 2.04
   }
  },
  "headlines": [
   {
-   "t": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1hlRG9jZDFFS2RKeWtkRXhZVVFLMUNzVzg2UlgxckdPdWhRcHowQXU4WEtJMHNFZC1fZ2M3UlZwV2t3WkZ4eXFwaEs3QUwtVGZaQi1sdzU2bDQxNWk0Y1hJSmZwQWlmUzRHcDZ1VElkQmtHWnZackx5ODhkVWo1dDBjaFc1cXYzRk95Q2pMSGRLa3FNd1E?oc=5",
-   "pub": "Wed, 16 Sep 2026 22:07:19 GMT"
+   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWdvUUM1aGdKYk5DQVdzeV9LUWVOQnZDSlkyTU42ZTlSMEdZNWpiWXd1M25MUjJmWEIzX21JakUzVi1FMjhBUksxWDJVLWc2VkRJUVNZYzcxWktldXMxMmRXN29rQlJkdFhzM0dMYmV0UHc2WFlzNVdUVEEzOGJiVU9JaklMZDJPSXIySGN3OGtMX3NaYjNfTzJ6dnBwZEZndGZ6LXlqTQ?oc=5",
+   "pub": "Thu, 17 Sep 2026 06:59:33 GMT"
   },
   {
-   "t": "Fed Zinsentscheidung: Neue US Leitzins Prognose schockt die Märkte - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVpsRW5mVzM0a0ZlbHd4elF0cU9iVjVJTU9DOFZPWjlNc2hUN2RqVVkzOHNaaDRjZWhOU0FoMGswdy1oZVFieXdhYlZDa2tlV3R5blBRYWtvMDBwWU5MdWtZTEtvaDlUYVNjaVBVdWhoUUpHX0JtSXRyVGs1WndVM3hSNE1QUjAyU1lGUGlkMGJWZ3VENWF3RGFMVXJ3bXpUS1dHTV84M0NKMDJTenVLMHBtdWdkeGc?oc=5",
-   "pub": "Wed, 16 Sep 2026 19:00:00 GMT"
+   "t": "US-Notenbank: Fed-Chef Warsh wagt den Zinsschritt - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTllaWVvemxQRDlybG1uSzE4dTdsSGJRaHB1MzU1RWVIRndDSWlpcmJmT3NWckFyeFJoZGx1c255Nm53dmhZUlF6QnVuMzM2blZVNm5ieUd1U3V6LWpGRUdhSUdpQVZlZjFUU09LVl9abUE3UWhqaHg5UG8yWGl5MDlxLVF0SGE4d1B3Y0pXU09td3BLWEVFUmhJZEkzd2l5c1E?oc=5",
+   "pub": "Thu, 17 Sep 2026 04:26:53 GMT"
+  },
+  {
+   "t": "Federal Reserve: US-Notenbank erhöht erstmals seit 2023 den Leitzins - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1hlRG9jZDFFS2RKeWtkRXhZVVFLMUNzVzg2UlgxckdPdWhRcHowQXU4WEtJMHNFZC1fZ2M3UlZwV2t3WkZ4eXFwaEs3QUwtVGZaQi1sdzU2bDQxNWk0Y1hJSmZwQWlmUzRHcDZ1VElkQmtHWnZackx5ODhkVWo1dDBjaFc1cXYzRk95Q2pMSGRLa3FNd1E?oc=5",
+   "pub": "Thu, 17 Sep 2026 01:00:04 GMT"
+  },
+  {
+   "t": "Fed-Zinsentscheid: Fed-Chef Warsh erhöht Leitzins trotz Trumps Kritik - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRjZ0RndGa0pyUXVBZkhPbWlyakhKZDVjZjk3U3kybUtqR1FfdzUzOTFsOEdCSi0yT1dQQkI4SUZXLUhzZXd1ZmwyZndSdEtKSnBsUVRZaVRJaGZQME93dmJ0ZWsxRjQ5LVBEVklmSHRTNDRHeUFNOXNvOGlWcFJ3ZkQ3QlZfYUZTWk9CS0V2cEhPN1V4R3UyZHlLOFdqWW95QmIxcDVldGM5LWZNbU5ma3NtRWxYNklnLXl1U2JPaWpJcGpadjh1U3g3Q05DY0R6cHJ3dU1n?oc=5",
+   "pub": "Thu, 17 Sep 2026 06:56:00 GMT"
+  },
+  {
+   "t": "0,25 Prozentpunkte: Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNk45YXplQ1ZKTWZBNXBwMlZTUGFDTHl4QmdTQl9LNjdDLS1Ibml4eDNUT0wzOWluMU42U3QxeXgwVnRhZGZQY2xLOVlhbHAtSnFrSGZwMTEtc1ZUOXVUUHZUMFdfM3R2Y3ZBTkpfZ05QRC0wVktwd0Y1V0N4QmQxcDlPam5ZZXhPX1B1S0NmNXRLcHU3NFZGU3loUndFVXBxWEFRMVZab1MtYTVQQjE1SzZFYWVjOUQ5X3FIdmJ2LVFOQjE5S1dERjZpTGRaYkNrdHMxcTRfRFVrbVFKTGVyVVl1VmlseENGMXFPckFGbw?oc=5",
+   "pub": "Thu, 17 Sep 2026 02:31:00 GMT"
+  },
+  {
+   "t": "Pipeline in Flammen, Ölpreis explodiert: Wer gewinnt diesen wirtschaftlichen Krieg? - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHczZHRwa2QzUEg3R0JUNDJBbEdGaHhkaF94bl9fWjlReGlmczIxZ1BFa05nNG51VHgyNzhWWDdPMWExSDNvNlJ6S2ZqdHFGYkVaUXl4R0gxOVprMUcyNktINWhicWNhaVN2Qm81WG9XZ21MWGVOYUdLM0Flc0NrY2NVYk9FdUs2TEp1Q011cjVLRGljd001MThvdG4wblJ4WnpDUDNKUjh4WjZEUHc?oc=5",
+   "pub": "Thu, 17 Sep 2026 05:32:32 GMT"
+  },
+  {
+   "t": "Attacke gegen Fed-Vorstand: Trump nimmt Zinserhöhung persönlich - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbERWVkNodHYzNkZ4anl0eWFkTXRrak9JOThVUW1ReW05QUY0TjQ0eGMzbFMwbkszM1NwMGpGUm1pcUx4MVZMci0wSV9SMlZBd3kybUptWFlGUW9IYTRuN0JMZHdxbjlqWnF5LUxGNjR0Ymh2RnphU05SQk5zMHZQTUQydDdJbDZ2OVhRVQ?oc=5",
+   "pub": "Thu, 17 Sep 2026 06:34:03 GMT"
+  },
+  {
+   "t": "Börse heute: Warum die Fed-Zinserhöhung die Kurse weltweit belastet - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlZQOVBzMDhmQmJTb25SdXY4b09YZnVFVnhGYXo5SXRaTm5pUzdjNGg1OW1JOXBzNVNfUVRtUU9KbXpjMWh4M3ZyUFlwcE9ucnJkZkh5Y0pKMjhfYkxLOWJwQ0toYmtiSkNlYk83R05EWnEwbEZoaXlvSGNYOEtXck1pS2MyelBXUlFiN1RDOVRuZFFMZmNoRmFYV2xneWZid0dkTUpZOHh6Z012R3FfUWtBeXF4UXl3Tnc?oc=5",
+   "pub": "Wed, 16 Sep 2026 19:32:00 GMT"
   },
   {
    "t": "(S+) USA: Widersetzt sich Fed-Chef Kevin Warsh dem Druck von Donald Trump? - Spiegel",
@@ -64,49 +94,19 @@
    "pub": "Wed, 16 Sep 2026 16:20:00 GMT"
   },
   {
-   "t": "Fed: US-Notenbank erhöht Leitzins erstmals unter Kevin Warsh - manager-magazin.de",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRjZ0RndGa0pyUXVBZkhPbWlyakhKZDVjZjk3U3kybUtqR1FfdzUzOTFsOEdCSi0yT1dQQkI4SUZXLUhzZXd1ZmwyZndSdEtKSnBsUVRZaVRJaGZQME93dmJ0ZWsxRjQ5LVBEVklmSHRTNDRHeUFNOXNvOGlWcFJ3ZkQ3QlZfYUZTWk9CS0V2cEhPN1V4R3UyZHlLOFdqWW95QmIxcDVldGM5LWZNbU5ma3NtRWxYNklnLXl1U2JPaWpJcGpadjh1U3g3Q05DY0R6cHJ3dU1n?oc=5",
-   "pub": "Wed, 16 Sep 2026 18:01:00 GMT"
+   "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
+   "pub": "Thu, 17 Sep 2026 06:08:55 GMT"
   },
   {
-   "t": "Fed-Leitzins: US-Notenbank erhöht Zins auf bis zu 4,00 Prozent - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWhlYjAyRnc2TGpBdEppaS10NHg0YTNBcVBUaGRBbUVGOXNGOVQzbk84VnFfTnRfM0RzWF91X01jeU15RzRvaHAyNmNLWW5fM09yd3o3SDhWOHREajJLMGxTelE0bkpPbXR5QkE2V2RiMzQ5R1VCa3BwUmNfT3o3RlFncVE2Y01GMVZUWExnV1h0cWhUUHdoQWt6ZlhZaW1pYmZCQVFYbUVLR2ZGZkNFNGVn?oc=5",
-   "pub": "Wed, 16 Sep 2026 19:20:00 GMT"
-  },
-  {
-   "t": "US-Notenbank Fed erhöht Zinsen erstmals seit drei Jahren - Wirtschaft - SZ.de - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWFic1Y2TGFoaksxU3Z6cUphXzBrN2paM05rUmdtbGtoYXRUS2FmU2Z4OEFLcUpaajNQYlRJd1BCemoxNzRsQldNRWJ2Z3NaOGFpbk9qM2QwdTQ0cmVKS0tJdU5LRWRLbzJYejFYMWI4ZDdMQkNISlhuTHdodEc2UUlfVVJ0UjZDLVFtZEtSTDhjdlVBMjRaWmZ0S1RzUQ?oc=5",
-   "pub": "Wed, 16 Sep 2026 21:17:00 GMT"
-  },
-  {
-   "t": "Trotz Trump-Druck: US-Notenbank Fed beschließt Leitzinserhöhung - Das kommt jetzt auf Anleger zu - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2RraHJmWUFrRnBwOGJieFM0R1pleXkxZURzV1pBSTljMnUwbzNJbTFmUHVna0NXNWpWMFhRU2twVkl5bFlUWFpoUFNfWVM1c2QtdDIxOXk1d0daNkRka0VyUmUybFZrVDlHbk9SZlpGLVBZMExBY0I4bGpoM0xRaUdJWUg0eERHTmx2UEpWYWlneS03WWZtbjdNRkhKaXdvUnpUT1Y0RUI3UFRRYjVGU2ZSZ08tSGRUZlZCODdRTC10SklnanVJcnVZT1lFRUhFUTdYUVlwbm5kMk05bTRvNWdfcUsyMU1YMGRIVnM4eFBIZXhPTmd4MkV3cVY?oc=5",
-   "pub": "Wed, 16 Sep 2026 20:04:00 GMT"
-  },
-  {
-   "t": "„Eine Zinsanhebung passt ganz gut zur Philosophie von Warsh“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTG9fclFqY1h3UFRHdlFtQnJKbEwwaDRLZ1RrTDU4aHRQUHR2c0h1VlRVTWx6elR3Y0V1WGNNalJCeEZqNE1BNlljbHdjN0xkTjlXTXkyUVgwV1g1V1JqS1VBdHhlbHJXTzFseFloYVM2T3BQX3c0TnR4T2lyTDdneEJjUUdDWHdOVndpMlhIQVkyd25xdXpYbDFkNmxlWW4xVzJNSF9uZDJYMHlmMWZtV25lZmNDYzl1ODN6UWlQZ1hyb3VKWkk5d2lJbjlxTnkzOEU5ODV2dUdmZFpXdDgtUTlZcHRRS212Ync?oc=5",
-   "pub": "Wed, 16 Sep 2026 16:10:00 GMT"
-  },
-  {
-   "t": "Trump unter Feuer: Fed-Chef Warsh und die unmögliche Zinserhöhung - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNy1tZ2tETUJMc2xuTEg1a0xUV0wzYmlpaDFJenFSd0JMVDRjTWNfb2lfbi1INE8yZzdxZWNNQ05fMTR3V0xhbFNYelZ0SzdxbXp0dTdEbXlfVVZLb2o3WTE3UWR6dlhNLVhjMGxYZkpQamRNYlVldFZCdVdzd2VTWEU4cEllbk1mQ0FLUHJZOFpJSThQcUh5NDFmQklXZkFtLUd4aDN3?oc=5",
-   "pub": "Wed, 16 Sep 2026 19:13:55 GMT"
-  },
-  {
-   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - juedische-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWdvUUM1aGdKYk5DQVdzeV9LUWVOQnZDSlkyTU42ZTlSMEdZNWpiWXd1M25MUjJmWEIzX21JakUzVi1FMjhBUksxWDJVLWc2VkRJUVNZYzcxWktldXMxMmRXN29rQlJkdFhzM0dMYmV0UHc2WFlzNVdUVEEzOGJiVU9JaklMZDJPSXIySGN3OGtMX3NaYjNfTzJ6dnBwZEZndGZ6LXlqTQ?oc=5",
-   "pub": "Wed, 16 Sep 2026 09:11:00 GMT"
+   "t": "Geheimplan für die Nachkriegsordnung: Trump lädt Golfstaaten nach New York - t-online.de",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaGx5eUI0azV1YmNGLXVvZDVLWFBweUdaUzR3MjJRLU9MaXdHcW80XzVMUHR2V2lLVWNWWlBZd3FkUEFacjJFLTU5XzJ2WFRZd194MWpkbmE2Vzc1NGs2VXotNkc1Wl9EcVoyS0U3RmxpNHhrNkNiS3BPWjRWeDBNSVptYlVtbnRsOS1mbS02aXpWWExrdjRrUVhobmZPc2dQaTBXM21Jc2YweGNlOVd0a3pONGlHY0M0OUI1YXFMZnVwTldRS19EbXVKUDNKOTlUcld1Ujl1UHdsM1V3SXhjVkVEMUlXbUlHeE1B?oc=5",
+   "pub": "Thu, 17 Sep 2026 06:35:16 GMT"
   },
   {
    "t": "Kampf gegen Inflation: Fed hebt Zinssatz erstmals seit 2023 an - ORF",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oU1BmQkljYncyTHFlMlQtcjZjY01uZjVKdzlMZ3JrOUc1c1U3YXdBRDh2cldQNFFwS3pCVUwyWloyRE9SaEE?oc=5",
-   "pub": "Wed, 16 Sep 2026 21:02:10 GMT"
-  },
-  {
-   "t": "Fed-Entscheidung LIVE: Zinserhöhung fast sicher – jetzt entscheidet Warsh über die Märkte - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1F3VXJmZ0llTk9UZTVGQTJPcTZOOU1pMTYxZDhVdjBHbzlCcHZ3SGlQRGRUMnNsemJfalFORVFrZVNMOU5fX092eFFobGpLbV8wOXY2VHVscWxGckFtQ0RxWmtxTjRNWTkzZ3pHSFBLZHpwTDNOSHhMZTU1LS1pVVdPR1FoeHBhc3U4RlpJbFFNSnZtZTlLeHVleUJiZWd3UlBXVVAtSXVpWk9KblQwb3lhaw?oc=5",
-   "pub": "Wed, 16 Sep 2026 17:50:00 GMT"
+   "pub": "Thu, 17 Sep 2026 04:56:43 GMT"
   }
  ]
 }
