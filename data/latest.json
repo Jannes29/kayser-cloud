@@ -1,77 +1,87 @@
 {
- "collected_at": "2026-09-17T18:15:33Z",
+ "collected_at": "2026-09-17T21:28:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8248,
-   "chg1d_pct": 0.7
+   "price": 0.8242,
+   "chg1d_pct": -0.14
   },
   "USDJPY": {
-   "price": 156.009,
-   "chg1d_pct": 0.48
+   "price": 155.95,
+   "chg1d_pct": -0.04
   },
   "GBPCAD": {
-   "price": 1.8675,
-   "chg1d_pct": -0.43
+   "price": 1.8681,
+   "chg1d_pct": -0.19
   },
   "AUDJPY": {
-   "price": 110.95,
-   "chg1d_pct": 0.28
+   "price": 110.876,
+   "chg1d_pct": 0.27
   },
   "EURUSD": {
    "price": 1.148,
-   "chg1d_pct": -0.5
+   "chg1d_pct": 0.09
   },
   "GBPCHF": {
-   "price": 1.1013,
-   "chg1d_pct": -0.19
+   "price": 1.0999,
+   "chg1d_pct": -0.41
   },
   "WTI": {
-   "price": 101.91,
-   "chg1d_pct": -0.51
+   "price": 101.09,
+   "chg1d_pct": -1.31
   },
   "BRENT": {
-   "price": 104.63,
-   "chg1d_pct": -1.13
+   "price": 104.09,
+   "chg1d_pct": -1.64
   },
   "GOLD": {
-   "price": 4403.7,
-   "chg1d_pct": 0.37
+   "price": 4380.6,
+   "chg1d_pct": -0.16
   },
   "SPX_FUT": {
-   "price": 7708.75,
-   "chg1d_pct": 2.01
+   "price": 7702.25,
+   "chg1d_pct": 1.93
   },
   "NAS_FUT": {
-   "price": 29742.25,
-   "chg1d_pct": 2.69
+   "price": 29720.5,
+   "chg1d_pct": 2.61
   }
  },
  "headlines": [
   {
    "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
-   "pub": "Thu, 17 Sep 2026 15:17:18 GMT"
+   "pub": "Thu, 17 Sep 2026 18:15:15 GMT"
   },
   {
-   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWdvUUM1aGdKYk5DQVdzeV9LUWVOQnZDSlkyTU42ZTlSMEdZNWpiWXd1M25MUjJmWEIzX21JakUzVi1FMjhBUksxWDJVLWc2VkRJUVNZYzcxWktldXMxMmRXN29rQlJkdFhzM0dMYmV0UHc2WFlzNVdUVEEzOGJiVU9JaklMZDJPSXIySGN3OGtMX3NaYjNfTzJ6dnBwZEZndGZ6LXlqTQ?oc=5",
-   "pub": "Thu, 17 Sep 2026 14:24:59 GMT"
+   "t": "(S+) Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2J3T3VQSmpvUHJqRFpPUnVQSjNxaHY3c3NkUE5Hd19kQUtHenJyX0ZCX3pQNTNtdC05MWZXWmd0YU1mZDluME1UN0V3LTVIRHAyTndneTRlZndpcllTZEtQOUNkNnJzdWYyRUpMQld2ZU83RlJicUV1a3ZqeWh3WHBzUmhWcjdLeF9paUhtaUFlR0huY1hNMC1qWTROMzI0bHRGMGs3WEVvRVlJZTd3QUF6RlpxOHRJaHhmdDF2TEQ2R0pCMkhwaUdISGJvNlJTMFVr?oc=5",
+   "pub": "Thu, 17 Sep 2026 17:33:00 GMT"
   },
   {
-   "t": "Trumps Topberater zu Euronews: Iran-Krieg soll bald enden - Euronews",
+   "t": "Trumps Topberater zu Euronews: Iran-Krieg soll bald enden - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3JQY19HVjlxcXpZaWpKYXlwaWhwS214ekNiYVRJRlR1SmRfRW1EVUxEOUs2dkNqNFNISWctTzRHUVhFMGhpd2ZKaXU1cWUxWkxRMEZENUlSem9xZ0ZOYnV1bWc2dVFIUi15U0hmeDV2ZS13WjFHel9nd1BGUzUzdWFwUlpqaVVRa2VXRjNKNlRzQUl5dXc?oc=5",
    "pub": "Thu, 17 Sep 2026 16:48:28 GMT"
   },
   {
-   "t": "Bericht von UN-Kommission: Mögliche US-Kriegsverbrechen im Iran-Krieg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Yc3hYT2FQQ2FyQWNRVEFxSmdnUjNBVnJDY0hNYmhCb0FZVnc5R2RrV3FlNUFTV1dRTmx1aTBEV25JRlZmaVl2NzhIQVNPNUU3NndrbE1Sc1djZGhoU1VJ?oc=5",
-   "pub": "Thu, 17 Sep 2026 10:25:56 GMT"
+   "t": "Trump über Iran-Krieg: Große Entscheidung steht an - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTEVMSlFJbUxJYk02UXgyQTY5QW90YmVDdktXaVY5SWRXbHUySlhIWEhJR1ZKalh3Njhfc1V3Y19rYjNyakFIRmh6U0YyaWs1a0JfekFfSVJEVU9wbk9UTmUxaTF6QUg0a0dCNUVvcGtjN2FzQ0oxSXFGaDdmVk9WNGF2aw?oc=5",
+   "pub": "Thu, 17 Sep 2026 19:39:35 GMT"
   },
   {
-   "t": "Nach EU-Sanktionen: Historischem Hallenbad in Frankfurt droht Aus wegen Iran-Verbindung - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFF3T29JdEcxVW4wRDQ4SGNkb1hwdV8tbV81X3piUjlDalZtMW5QNVRKLVVMX0FKX3FKd040VTd6WVdUODF6VkwwVFVkSmotdW94My1WRlh1TUxWdFFsbmc5YVBTSTVFQi0zUWNEUVRZZlF3cWVBcjJlS1NKSVQ2dU45dVlmWUEyMjdzcE80Um9ZdXRZM29QdXdJcFliZGxtc01XbWNHZXVaekhzMGxHV1VkVHNUMXI0MWhVZ2dTLXVnZGZ5d3dfd05hejBVTE5ZZnNwLTlCNDdJdjBwQnV6UjJzYTNBdWJRWFUxeFBCRFNLUQ?oc=5",
-   "pub": "Thu, 17 Sep 2026 16:46:11 GMT"
+   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWdvUUM1aGdKYk5DQVdzeV9LUWVOQnZDSlkyTU42ZTlSMEdZNWpiWXd1M25MUjJmWEIzX21JakUzVi1FMjhBUksxWDJVLWc2VkRJUVNZYzcxWktldXMxMmRXN29rQlJkdFhzM0dMYmV0UHc2WFlzNVdUVEEzOGJiVU9JaklMZDJPSXIySGN3OGtMX3NaYjNfTzJ6dnBwZEZndGZ6LXlqTQ?oc=5",
+   "pub": "Thu, 17 Sep 2026 16:04:24 GMT"
+  },
+  {
+   "t": "Irankrieg: Iran bestellt wegen Aussage von Merz deutschen Botschafter ein - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVlHajh5LVdRd0k2ckdpbFdZVmhMMU9TSXAyMWNwcW1Oc0FIWm1VOUpqcXQ2YkFDX0xfTVBoeUM0MHUxY2xlbzhqYWpkV3VtMVBqWHhwbklIZzlQbjFsZklwdVVId0JOMWxTZEI3YTdCdlBBaUhmLWJxYXk4UmFRcXJtUkQ0Z2E3eUtIN1R2T0t1TWYxQ0NZRHd0UjcwZE5OakdSRHZySzRLV1ZMb3hVRg?oc=5",
+   "pub": "Thu, 17 Sep 2026 17:57:35 GMT"
+  },
+  {
+   "t": "Markus Gürne, HR, zu Auswirkungen der Fed-Leitzins-Entscheidung - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xLW1JUUIxU051RlZyQkFXNFBXbTNkckpYMjVNcEVSSkpMR2I1WHZQN0F5SzNlYnVZYnFvYlZCQW9ia2Z1VGZaODVJelJ2ME5sQjZJdTd2Ukp1X1hlRUpuS2xMY180Znhad1FySXpTSQ?oc=5",
+   "pub": "Thu, 17 Sep 2026 18:17:48 GMT"
   },
   {
    "t": "Fed-Zinsentscheid: Trump wettert nach Zinserhöhung gegen den Fed-Vorstand - Manager Magazin",
@@ -81,12 +91,12 @@
   {
    "t": "US-Bericht: Geheimes Militärtreffen – USA berieten offenbar in Deutschland mit arabischen Staaten über Iran - WELT",
    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdmd3X1g0SEdjRzJyckZoQVFKVXR4RC1SVmZacmpNWWN6bFhzbnQ0Z2VUY0V3M1JhSlh4SjBBZmdxcDVOanU5d2w1QzZwNXBRYXN1RkdlZzRET3NWZXNCZ0VlRldnRHVKYlBtQV9nNUY0RTFuTi0tOGdXMVNvOGwxUUFkRHFhR21NZGhsMGhldjFVcHZPcFY0ZjhoX2x4U1Q3em5mUlU3TjVHdTlvTFpJRjdOdGR3NWRMR3FTUmVRQWpBcElNZEdkQU1XNE54bUh1U3BEMDI1RWpkWVFSZThmcEswNWxCNm5PQWJyNmRDTmhsRlF6OWdscF8xZmxJNjcwbnM1RWlnT01oSTl1MHhKVA?oc=5",
-   "pub": "Thu, 17 Sep 2026 17:54:04 GMT"
+   "pub": "Thu, 17 Sep 2026 19:50:07 GMT"
   },
   {
-   "t": "Irankrieg: Iran bestellt wegen Aussage von Merz deutschen Botschafter ein - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVlHajh5LVdRd0k2ckdpbFdZVmhMMU9TSXAyMWNwcW1Oc0FIWm1VOUpqcXQ2YkFDX0xfTVBoeUM0MHUxY2xlbzhqYWpkV3VtMVBqWHhwbklIZzlQbjFsZklwdVVId0JOMWxTZEI3YTdCdlBBaUhmLWJxYXk4UmFRcXJtUkQ0Z2E3eUtIN1R2T0t1TWYxQ0NZRHd0UjcwZE5OakdSRHZySzRLV1ZMb3hVRg?oc=5",
-   "pub": "Thu, 17 Sep 2026 17:43:45 GMT"
+   "t": "Trotz Trump-Druck: US-Notenbank Fed beschließt Leitzinserhöhung - Das kommt jetzt auf Anleger zu - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ2RraHJmWUFrRnBwOGJieFM0R1pleXkxZURzV1pBSTljMnUwbzNJbTFmUHVna0NXNWpWMFhRU2twVkl5bFlUWFpoUFNfWVM1c2QtdDIxOXk1d0daNkRka0VyUmUybFZrVDlHbk9SZlpGLVBZMExBY0I4bGpoM0xRaUdJWUg0eERHTmx2UEpWYWlneS03WWZtbjdNRkhKaXdvUnpUT1Y0RUI3UFRRYjVGU2ZSZ08tSGRUZlZCODdRTC10SklnanVJcnVZT1lFRUhFUTdYUVlwbm5kMk05bTRvNWdfcUsyMU1YMGRIVnM4eFBIZXhPTmd4MkV3cVY?oc=5",
+   "pub": "Thu, 17 Sep 2026 13:27:00 GMT"
   },
   {
    "t": "US-Notenbank: Fed-Chef Warsh wagt den Zinsschritt - FAZ",
@@ -94,19 +104,9 @@
    "pub": "Thu, 17 Sep 2026 04:26:53 GMT"
   },
   {
-   "t": "Iran-Krieg: Uno-Kommission wirft USA Kriegsverbrechen vor - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmNTZXJZNEcwRVp0VmdEVHhHOTZVd0JudFBUcTZTS3RpX3lXX1lkT3dZR1AwQWt4NUg1T3ZEbmdoaHE2N1FJRW1iYWZpbG5wZmU5V082aVJabnVwQzVQRUNDVjNua3RUMTJpVm83SVNfejNmMWdSSzFfcU1sdUdhM1V3RGxkWDZ1UGlMOWJkdTJ5b2hlMmIwSmlwc2g5ZkxEY3lYWFRqMTZSNTJ0NGs0YmExNTNvUWZENVBSaUhQSllMZ2RH?oc=5",
-   "pub": "Thu, 17 Sep 2026 10:00:00 GMT"
-  },
-  {
-   "t": "Angriffe mit vielen Toten: UN-Bericht wirft USA mögliche Kriegsverbrechen im Iran vor - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEcwdGdqdnZhWXB6c2Z4YnpLV3NvWFU3UGhoVzhOZXhDQ1NGQ2w0OHQ4Z09iZ1l2eGptQ1pYSkxuUm8tc2RRSFl4N0Z3ZUNPM3YwRXdPbHphMmo4eUV5SVR3bVBRT1RiY2RZZV9pNHZfR2RRQk5SaUhOZjkycTZQVHFfekUwUm1VUGV5MHBsNHhYQkVzc3h2S1NMckwzd005ZU8zVnhn?oc=5",
-   "pub": "Thu, 17 Sep 2026 08:48:23 GMT"
-  },
-  {
-   "t": "Reserven gehen zur Neige: Kommt jetzt doch die große Ölkrise? - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXRwOU01c1J0TWVIelhsZkpmOHNQZ0JGNVRWRUlrcFE4RE5VN2kySzFDVjdZNHlQLTlSbXZseWpqQ1FPa0JHQzRKeDRMOUNCbGt5NXo3VGFrbzlnV0Z6VWEyRmd4ci1QSGtlUFhtS3BieVlyOE9UMUtWRDQ2c2FuMkk3VXJpWUVQMVA0dVRpZjhPQWlzWXpSRXptRlBEX25ScTU3Y0JGN3BZSkxFdFFuejJ4My1QdkNad1dUOTRxc0JTemRLS3ZLcWVtN3BZUQ?oc=5",
-   "pub": "Thu, 17 Sep 2026 11:35:52 GMT"
+   "t": "Iran: Amnesty benennt 87 mutmaßlich Verantwortliche für Völkerrechtsverbrechen - Amnesty International",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZURCY1hZVXVMWlI2SEw0Y0xHQTZJZEVMai1ndnNlX3BjS24wQXFzMThkYkxmZ0p5bV81UENjMUZYbDdnam5vM2I0aVJuU1ZKYV9EUTJtaVZYS3VWeWZIWUNHck9hZWdlYVM4d0dQQlFoMjdzVl8yNG1zOUNRSVdjSVF2cUlCUTMyd3NvVzd3VGJqR09EWXBRTUxfVjVEdEp0LUxDendRUHN3VDk3S3U3Zm1DeG03aDZ0aEZNWFJVaUdvS3ZtN2xXNQ?oc=5",
+   "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
   }
  ]
 }
