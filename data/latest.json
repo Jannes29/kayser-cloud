@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-19T14:26:19Z",
+ "collected_at": "2026-09-19T18:02:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,7 +49,7 @@
  },
  "headlines": [
   {
-   "t": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion - dw.com",
+   "t": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion - DW.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhZWkttLTE3QUxJbHlkVGpySFBjVGcwZjlFVkdYTVQwMUFaU0Z1WlNIVnZyUzI2S2pVUHg0Qk1naWZJOVBJM0ozck1XSURIbGFRSkVTWTlmelk2aWxQREZfQk9CSnNyc1dxRDhQTG1NTG9ORnRBUWhBbWhUQm5FOG9tdjQzQ1Bob1RRcDJQUG5NRE1ucHNoMVlsQ2Z4RkMzUnpPTHV6TEl4Mjd6NV9r0gGvAUFVX3lxTE9lRWFTblVCRXAxal9SaTZXOTMyS3l3Znk3RlF5V090MFJkSW9RaWREQVBLUFZtdXJfR0pzZ1pvYlpONkp0elNTTzZkQ3FmaGh0aGNpNENhWG9PaHdxNUhOUVptcXVERmlhSjhWRnNNUUxCMU1CbUJ2bm5lc3hoMkljaGVGZHZVX3R3bVpWdW4xbnAyclAxOURSamJ0LUdNVi00RnNHRjEwdEdIenltaGs?oc=5",
    "pub": "Sat, 19 Sep 2026 09:40:45 GMT"
   },
@@ -64,9 +64,19 @@
    "pub": "Sat, 19 Sep 2026 08:47:42 GMT"
   },
   {
+   "t": "Iran - Innenministerium nennt Teuerung besorgniserregend - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXRzcEhDdzhPOEd5ZmViYmpjaUwwNjN4Q3RUWU5rM2o0M2ozVU56QTl4ZDJ1bFUwdDlrSXJnRTFaSks2V2RUUHczNUN5RnltRktTd3pmRXpSaXI4bFJUUFg4UFFYdkFxLVpvRmVSNGNZYWZpRGZPd3BxSzRHdkY5WEd5UUN4MGowZjFRS0Q1MlVOQzA?oc=5",
+   "pub": "Sat, 19 Sep 2026 15:00:00 GMT"
+  },
+  {
    "t": "Iran richtet offenbar Mann wegen Spionage hin - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1lvVVpSNEMyOHpVZGo5UU5ES0RvMy0xQ0hJa0RtQ1ltMmlEblh2V29kZTItUFJxZG41UEpuSG9mSE4yOHJQU3pjYTUxaVZqLUFqeE1SRDcxT3R5dU96aDZ3Tk5KR1Y5VTNRWllZaGpqb2JJOFFUdDJ6UEdfUUZKYVRyRnA5cEJlTTZ3ZmlneWhKUG8yVWwwWTNabHdZb1VxMlc1UlNla0tzTnVtLTQ4V2pOT041Zw?oc=5",
    "pub": "Sat, 19 Sep 2026 08:19:00 GMT"
+  },
+  {
+   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFl2TExfTWpMdlFFdWw5X2hhSElvWFJGYVpyMVNvbjk1Ynh2a0sySGxsYUIzTGVjZ3IyQlJaa2dlWXNZbHFtX3RfV3pWRDl6ZjFFU3A0bzQtQ0U2aWRyVUk0NHdvTjN1VG9QTmVsd0FvenJKazFCVldreUNhdWJxUXFZWnBuRER2bGRTWnRGWjA2X1ZQd3RRbW9LSUcxYnZ4N0ZJYUViTGMxcjlQQVpTSElWVTdzLVFPWjd5cnFGTQ?oc=5",
+   "pub": "Sat, 19 Sep 2026 17:00:24 GMT"
   },
   {
    "t": "Iran: Amnesty benennt 87 mutmaßlich Verantwortliche für Völkerrechtsverbrechen - Amnesty International",
@@ -74,27 +84,12 @@
    "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
   },
   {
-   "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
-   "pub": "Thu, 17 Sep 2026 18:15:15 GMT"
-  },
-  {
    "t": "Samarkand R3 (Frauen): Argentinien und Iran schlagen Favoritinnen - de.chessbase.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGFFX1VtbG92WTAwUE5NRnR3ZEc3UHotR29aYVBvT1ZyOTdSd3FfOGdmN1NSSXdKM2lncmZ1M1lnd2wxTVJkdE1Sb2o4TFNzTkQyN2JTclkxWjJGS0JwMGE3aUc1MkIxcmZweTBBWHpRM3Q4VVZlcC05eUpZRGFqcjBpSDIxdVF3SFhOV0J6dzdRVjBnY0RV?oc=5",
-   "pub": "Sat, 19 Sep 2026 10:06:18 GMT"
+   "pub": "Sat, 19 Sep 2026 15:24:52 GMT"
   },
   {
-   "t": "Kritik von Menschenrechtsgruppen: Iran richtet Mann wegen angeblicher Israel-Spionage hin - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUTdsR3hSM0RjR0FpUlV2Z3o5cWtuSHIxMm5mZ0c5QUZyV2YxcmVxcDZhWWZnS1B6TnBEU2V0OURERjdkQnBIZGRQWUhEMnZ2NVQ5TnJ1aHNXM1FxVnNPOEVXeTEzbW1IOVV0OEwxRllyUFpGU0dPcTA1WHI5MzF4MDdScjVNNm9NN2ZqTGxaSzVMYjNMdjIzakM0d2hxZ3lYakFFcEFpQ0oyVk14YzluaGRTQ2s0eHdfeDZhVDhqX0g5RE1hV0U0cXJPNVBrbjNqVVZ4RmhDSUQzWmFtYnpRTWdTY2daMkFWRmF5ejA0bzcybkU?oc=5",
-   "pub": "Sat, 19 Sep 2026 08:11:04 GMT"
-  },
-  {
-   "t": "Trump steht im Iran-Krieg vor einer Grundsatzentscheidung - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzVueEczV2dEOWltTVVBaFp2MUo5MmJEcUt5S1NWWXgxZnBLNWVlSnlMajl4U0ZmeGZGOHVSMzNJN0JOQVp3WFlXckN1WTlkUTc4c2RlbjNCU2ZidmhMQWN5UXAxY3c1Vm8xSm9tMGdVZ0hjb2dNYlpVSUp3eWw3VFhwUjVaY3czTG13SXNHejJVZzNpSklWTXVfZ1Joa1lYR2RHYg?oc=5",
-   "pub": "Fri, 18 Sep 2026 03:42:00 GMT"
-  },
-  {
-   "t": "UN-Ermittler sehen Hinweise auf US-Kriegsverbrechen im Iran - dw.com",
+   "t": "UN-Ermittler sehen Hinweise auf US-Kriegsverbrechen im Iran - DW.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUthLVFaZEhIQU1sTEx2OENEQ0JUSXFWREtONEp3eFEtTU1BTFJTd21idjVHdEZ0Z0duVDRCcE1hU2MzQUY0WWJHNEVkVU9ERFpOTHROODUwTVNQejFyc0NscDU4RC1ZUU9raU5rNDl4UzN2dGJHTndMWDZjSXNCZEpObnpLQk5jZVctclE3TWxyTm15c3dNRk5UTHo3X1JnSHVVTDF6WlUwMlVmUmh5cHZ3NXpZS3Q5SXJpWDd30gG-AUFVX3lxTE5OcG9nU0tRVTh6Ti1ySXFsa1lkVkUwOS1qZXh5LUxYWmthUjA4ZzVJZzBzLWxvcmx3bGFDeTJaY1NIOVJWVnc1QXdDYTRnZTNHd05rUm9hVE1WcGZmSm12YU1fYjd1VVZMMG9STk1SWGJ5dDd2OUMyb1lZT3FpcTExNWRyMWh5NVVWUDFDNkNyWUxMZ0huU1NVNkp0S3dWenFjcG1jMml0MnlKMVJtLVBXMDkzMEplOTNmcnRwU1E?oc=5",
    "pub": "Fri, 18 Sep 2026 14:44:54 GMT"
   },
@@ -102,6 +97,11 @@
    "t": "Nahost: Uno-Kommission wirft USA Kriegsverbrechen in Iran vor - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3VuWk9RZW5DSHBBMlRqM1djQ3RsblF4SFBqZ3B4MFVTc2NDWmJhQmJXa01Ka081WWFPcVdONWdBTGY0cTFuQlVVQXA1QlVaQW9uT1BhZEZ1eFBBcnI3MnpFN1FCQ0QtdkdxTHB2dExOV1FKYVlUdnRvRmxha1o3SW5GdVNtRld2SXhvTEgtd1RzSGZEa2ZaOFpmNWdLOXhYNHp6eU5DWmEtNG5JNEVvUVNSa0k4bWtLT0U5MTdEa2ZCT3FlV20ySVU0cU5NbFFYOWpRLUdJRzRyZw?oc=5",
    "pub": "Thu, 17 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
+   "pub": "Thu, 17 Sep 2026 18:15:15 GMT"
   },
   {
    "t": "(S+) Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation - Spiegel",
