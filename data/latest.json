@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-19T05:55:18Z",
+ "collected_at": "2026-09-19T11:01:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,24 @@
  },
  "headlines": [
   {
-   "t": "UN-Ermittler sehen Hinweise auf US-Kriegsverbrechen im Iran - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUthLVFaZEhIQU1sTEx2OENEQ0JUSXFWREtONEp3eFEtTU1BTFJTd21idjVHdEZ0Z0duVDRCcE1hU2MzQUY0WWJHNEVkVU9ERFpOTHROODUwTVNQejFyc0NscDU4RC1ZUU9raU5rNDl4UzN2dGJHTndMWDZjSXNCZEpObnpLQk5jZVctclE3TWxyTm15c3dNRk5UTHo3X1JnSHVVTDF6WlUwMlVmUmh5cHZ3NXpZS3Q5SXJpWDd30gG-AUFVX3lxTE5OcG9nU0tRVTh6Ti1ySXFsa1lkVkUwOS1qZXh5LUxYWmthUjA4ZzVJZzBzLWxvcmx3bGFDeTJaY1NIOVJWVnc1QXdDYTRnZTNHd05rUm9hVE1WcGZmSm12YU1fYjd1VVZMMG9STk1SWGJ5dDd2OUMyb1lZT3FpcTExNWRyMWh5NVVWUDFDNkNyWUxMZ0huU1NVNkp0S3dWenFjcG1jMml0MnlKMVJtLVBXMDkzMEplOTNmcnRwU1E?oc=5",
-   "pub": "Fri, 18 Sep 2026 07:41:04 GMT"
+   "t": "Iran richtet offenbar Mann wegen Spionage hin - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1lvVVpSNEMyOHpVZGo5UU5ES0RvMy0xQ0hJa0RtQ1ltMmlEblh2V29kZTItUFJxZG41UEpuSG9mSE4yOHJQU3pjYTUxaVZqLUFqeE1SRDcxT3R5dU96aDZ3Tk5KR1Y5VTNRWllZaGpqb2JJOFFUdDJ6UEdfUUZKYVRyRnA5cEJlTTZ3ZmlneWhKUG8yVWwwWTNabHdZb1VxMlc1UlNla0tzTnVtLTQ4V2pOT041Zw?oc=5",
+   "pub": "Sat, 19 Sep 2026 08:19:00 GMT"
   },
   {
-   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - juedische-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWdvUUM1aGdKYk5DQVdzeV9LUWVOQnZDSlkyTU42ZTlSMEdZNWpiWXd1M25MUjJmWEIzX21JakUzVi1FMjhBUksxWDJVLWc2VkRJUVNZYzcxWktldXMxMmRXN29rQlJkdFhzM0dMYmV0UHc2WFlzNVdUVEEzOGJiVU9JaklMZDJPSXIySGN3OGtMX3NaYjNfTzJ6dnBwZEZndGZ6LXlqTQ?oc=5",
-   "pub": "Fri, 18 Sep 2026 10:18:13 GMT"
+   "t": "Todesstrafen im Iran: Mann im Iran wegen angeblicher Spionage für Israel hingerichtet - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3hMR3hJMVFaZXdHelhsY2I0ckV2ZFVOQzBvbWQ1dFhkczFoc0xySEktZzN5Z0FqcXlDYVpiLV8yOHRqeWVMendoWGpLZGVvNnBxRU1YNElTYWpSQ2tyMjVqZk9yWHB6VnNsS1hPcG80d3RtNURzVW5sSWY5Vkg0WFE0TlVQTTUxaGNNSjBFdkptRFVMM1lSc19OQ3lGb2hQWG9Odlhn?oc=5",
+   "pub": "Sat, 19 Sep 2026 08:47:42 GMT"
+  },
+  {
+   "t": "UN-Ermittler sehen Hinweise auf US-Kriegsverbrechen im Iran - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUthLVFaZEhIQU1sTEx2OENEQ0JUSXFWREtONEp3eFEtTU1BTFJTd21idjVHdEZ0Z0duVDRCcE1hU2MzQUY0WWJHNEVkVU9ERFpOTHROODUwTVNQejFyc0NscDU4RC1ZUU9raU5rNDl4UzN2dGJHTndMWDZjSXNCZEpObnpLQk5jZVctclE3TWxyTm15c3dNRk5UTHo3X1JnSHVVTDF6WlUwMlVmUmh5cHZ3NXpZS3Q5SXJpWDd30gG-AUFVX3lxTE5OcG9nU0tRVTh6Ti1ySXFsa1lkVkUwOS1qZXh5LUxYWmthUjA4ZzVJZzBzLWxvcmx3bGFDeTJaY1NIOVJWVnc1QXdDYTRnZTNHd05rUm9hVE1WcGZmSm12YU1fYjd1VVZMMG9STk1SWGJ5dDd2OUMyb1lZT3FpcTExNWRyMWh5NVVWUDFDNkNyWUxMZ0huU1NVNkp0S3dWenFjcG1jMml0MnlKMVJtLVBXMDkzMEplOTNmcnRwU1E?oc=5",
+   "pub": "Fri, 18 Sep 2026 14:44:54 GMT"
+  },
+  {
+   "t": "Kritik von Menschenrechtsgruppen: Iran richtet Mann wegen angeblicher Israel-Spionage hin - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUTdsR3hSM0RjR0FpUlV2Z3o5cWtuSHIxMm5mZ0c5QUZyV2YxcmVxcDZhWWZnS1B6TnBEU2V0OURERjdkQnBIZGRQWUhEMnZ2NVQ5TnJ1aHNXM1FxVnNPOEVXeTEzbW1IOVV0OEwxRllyUFpGU0dPcTA1WHI5MzF4MDdScjVNNm9NN2ZqTGxaSzVMYjNMdjIzakM0d2hxZ3lYakFFcEFpQ0oyVk14YzluaGRTQ2s0eHdfeDZhVDhqX0g5RE1hV0U0cXJPNVBrbjNqVVZ4RmhDSUQzWmFtYnpRTWdTY2daMkFWRmF5ejA0bzcybkU?oc=5",
+   "pub": "Sat, 19 Sep 2026 08:11:04 GMT"
   },
   {
    "t": "Iran: Amnesty benennt 87 mutmaßlich Verantwortliche für Völkerrechtsverbrechen - Amnesty International",
@@ -64,49 +74,39 @@
    "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
   },
   {
+   "t": "Ex-Sicherheitsberater rechnet ab: Bolton wirft Trump Plan- und Ziellosigkeit im Iran-Krieg vor - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHlMclB0RnlsbEU4WldMbE5rMDdxSkw2dFJ6dEQ1aGFYRHBzdUtKcnNJNVl1YWxhSkJ1MGw3bm5uMFFTc19PRFRRUUlhT2RoVklKVHNMMS0wcW4wM1g0WDR2WDg5QXpadzNtS2NRRzQ0MDlDRjlkR0h2VXBBNjVuUi1CWEZ4Zjd6U05rdjJuV2F3ZEJwcDlLZkJ6MnJnLThhRFVleC1B?oc=5",
+   "pub": "Sat, 19 Sep 2026 06:27:25 GMT"
+  },
+  {
+   "t": "Samarkand R3 (Frauen): Argentinien und Iran schlagen Favoritinnen - Schach Nachrichten | ChessBase",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGFFX1VtbG92WTAwUE5NRnR3ZEc3UHotR29aYVBvT1ZyOTdSd3FfOGdmN1NSSXdKM2lncmZ1M1lnd2wxTVJkdE1Sb2o4TFNzTkQyN2JTclkxWjJGS0JwMGE3aUc1MkIxcmZweTBBWHpRM3Q4VVZlcC05eUpZRGFqcjBpSDIxdVF3SFhOV0J6dzdRVjBnY0RV?oc=5",
+   "pub": "Sat, 19 Sep 2026 10:06:18 GMT"
+  },
+  {
    "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
    "pub": "Thu, 17 Sep 2026 18:15:15 GMT"
   },
   {
-   "t": "Iran-Krieg trifft nicht nur die Straße von Hormus – die nächste Krise könnte Europa teuer zu stehen kommen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORlBnNmdRempZZTM3UlpHMlhXUjhIeEVhem5pUXVsa3hMeGM2Q0tVNEUtTkg0ZGxBM0I2OGFBd1RWODFoM3A0ejdMQm0ySHhHekZiWHBwdzZ6d2dVQnVYTWw1bXNJeWtKRXlwMVVsNzlKcTBuNVNiWThPTVA4cUpmM2hNTTVzaGhSaGZLTFhEekt0eDVENXpBVFZXTF9CbmdJSTdhbjNsVk5jMk50eXZmY3RDdWN6RzFrNVIzT0xfc2UyclVSMU1Gb1B1NklldWJ4UzVfd2VZUmY0aWNPd3IxaA?oc=5",
-   "pub": "Fri, 18 Sep 2026 14:35:44 GMT"
+   "t": "Globale Versorgung: Iran-Krieg bremst Investitionen in saubere Energie - RP Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVJ4alkwaWQxaVRBckhNVWRMV2c2eG1VN1llRnVGTnpOU21RblNmNlVSSGtNbUY2aTl0NnRRcm5EbzRlYjUydGVMcWYzb3d2dDdxcERNUVZsWnF2UEJDNEtCTDR1V0JzUTRXZzJZYlRjbFkxRDY3MFBrU0JtZUVpNkNMdXhVamJHT1NXV3ptZkFmSHVXR21Zc3Q2ZVpOaXRqX2tPdUNlM3gyOHpFdTl0d0Q5SHE0OEgtMjZGb0tVc0l1dVRoQ0E?oc=5",
+   "pub": "Sat, 19 Sep 2026 06:49:00 GMT"
   },
   {
-   "t": "Bank of Japan hebt Zinsen: Warum der Yen fällt | Forex Aktuell & Markt News - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkQ3VFpmY254U2l2RnpBMlN6aUNXcDllSHVpRndfd1pKOGlJSG9zamsxaWhtR0RaMEFkMms4X3hOTW0yUWNyak0tUWxBODRJVXB5M2JmaWI1MXdyMEJRdDdndDVWOVQtcXpySk9QVWs0c1pZaXNNNWpnQ25JVU5KWVpCck5sNktZSVE?oc=5",
-   "pub": "Fri, 18 Sep 2026 11:18:00 GMT"
+   "t": "Iran und China starten neuartige Einflusskampagnen mit KI - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BjLUlRclNlaXdOOEtGZzFPN1RMLS0tSnlQb28zU3EyZGNEZkdUWjVlcWsxSkREZVZhWFk4ZFlZSldVS3RFUGpUS2U2R3lVRmVOYUptU1JrTFVHS2FZdEYtZmxtYW1ZT016bWFLX3BuNEJBTG9Qa2lNTFlXSklSZ1hLeWFVRVpybS1NaHZuREg2U2ltN053UEM5QlU3XzZSRVlOTUJ6RUpBMnd2M2VfNTJR?oc=5",
+   "pub": "Sat, 19 Sep 2026 03:27:31 GMT"
   },
   {
-   "t": "„Bei mir ist alles möglich“: Trump kündigt „große Entscheidung“ zum Iran-Krieg an - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd25sT0NZaGY1ZnE5UjIydGxubHBRXzliU1JieDdwQWl3N0p5U2ZHWmV4QVRHZThHYktjbG9Xb1doR2RSNTZnbnMydTRuVDN4Y2l5dnk5M0drYV85dzV2M3hzNUFsV2ZBby1VcTVSMU5wRTZWWTZxTVMwSDhDdjlHRnZoSVh5ZGRUUEZZTmxYVXZsR3ZzQjc1ODk5cXptd0k1eE9PejZFU3NPU0xTSFhPdGU1dw?oc=5",
-   "pub": "Fri, 18 Sep 2026 08:57:52 GMT"
+   "t": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion - dw.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhZWkttLTE3QUxJbHlkVGpySFBjVGcwZjlFVkdYTVQwMUFaU0Z1WlNIVnZyUzI2S2pVUHg0Qk1naWZJOVBJM0ozck1XSURIbGFRSkVTWTlmelk2aWxQREZfQk9CSnNyc1dxRDhQTG1NTG9ORnRBUWhBbWhUQm5FOG9tdjQzQ1Bob1RRcDJQUG5NRE1ucHNoMVlsQ2Z4RkMzUnpPTHV6TEl4Mjd6NV9r0gGvAUFVX3lxTE9lRWFTblVCRXAxal9SaTZXOTMyS3l3Znk3RlF5V090MFJkSW9RaWREQVBLUFZtdXJfR0pzZ1pvYlpONkp0elNTTzZkQ3FmaGh0aGNpNENhWG9PaHdxNUhOUVptcXVERmlhSjhWRnNNUUxCMU1CbUJ2bm5lc3hoMkljaGVGZHZVX3R3bVpWdW4xbnAyclAxOURSamJ0LUdNVi00RnNHRjEwdEdIenltaGs?oc=5",
+   "pub": "Sat, 19 Sep 2026 10:16:25 GMT"
   },
   {
-   "t": "(S+) Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2J3T3VQSmpvUHJqRFpPUnVQSjNxaHY3c3NkUE5Hd19kQUtHenJyX0ZCX3pQNTNtdC05MWZXWmd0YU1mZDluME1UN0V3LTVIRHAyTndneTRlZndpcllTZEtQOUNkNnJzdWYyRUpMQld2ZU83RlJicUV1a3ZqeWh3WHBzUmhWcjdLeF9paUhtaUFlR0huY1hNMC1qWTROMzI0bHRGMGs3WEVvRVlJZTd3QUF6RlpxOHRJaHhmdDF2TEQ2R0pCMkhwaUdISGJvNlJTMFVr?oc=5",
-   "pub": "Thu, 17 Sep 2026 17:33:00 GMT"
-  },
-  {
-   "t": "Bericht von UN-Kommission: Mögliche US-Kriegsverbrechen im Iran-Krieg - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Yc3hYT2FQQ2FyQWNRVEFxSmdnUjNBVnJDY0hNYmhCb0FZVnc5R2RrV3FlNUFTV1dRTmx1aTBEV25JRlZmaVl2NzhIQVNPNUU3NndrbE1Sc1djZGhoU1VJ?oc=5",
-   "pub": "Thu, 17 Sep 2026 10:25:56 GMT"
-  },
-  {
-   "t": "Nach EU-Sanktionen: Historischem Hallenbad in Frankfurt droht Aus wegen Iran-Verbindung - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFF3T29JdEcxVW4wRDQ4SGNkb1hwdV8tbV81X3piUjlDalZtMW5QNVRKLVVMX0FKX3FKd040VTd6WVdUODF6VkwwVFVkSmotdW94My1WRlh1TUxWdFFsbmc5YVBTSTVFQi0zUWNEUVRZZlF3cWVBcjJlS1NKSVQ2dU45dVlmWUEyMjdzcE80Um9ZdXRZM29QdXdJcFliZGxtc01XbWNHZXVaekhzMGxHV1VkVHNUMXI0MWhVZ2dTLXVnZGZ5d3dfd05hejBVTE5ZZnNwLTlCNDdJdjBwQnV6UjJzYTNBdWJRWFUxeFBCRFNLUQ?oc=5",
-   "pub": "Thu, 17 Sep 2026 16:46:11 GMT"
-  },
-  {
-   "t": "Iran-Krieg: US-Vorgehen \"eine Warnung für künftige Generationen\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUdYSjFpWmhwd3drdmlFZ0k5SWtmd1hKWTlHeTFwLWZFa2pWNFVNSnJFYThsSF9DazZRazBPdzEtY2xVeGllTXZUdllhbjFYaVNPbEZWUHdpM1dpSnFWbXg3YXdSWEVJUENPcGVwWTdHNmdkWVI1V2x3SkZnXzg3eVVIMmVCeEYtaV82ak1zaVZxcC1yLV83aEdYRF9aZl9vcXpWaTNPYmNoMHg0WGJnZTZIZmdTRUlaRWpDQTRpUTE5NU1B?oc=5",
-   "pub": "Thu, 17 Sep 2026 20:47:00 GMT"
-  },
-  {
-   "t": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWWN2ZXd5WmhoRk0tVWxQaVAtZjB6NjI3Y2dHcEhBTV9GZFk4NVVkbDUxd1ZKV084eFlfY2psOE16Q3RnLXg4bThaWEFoeDc1c0N4OURsaHhsU2w0NWhvbGxVZ2RIR1UyaGpIbUdNQ3FpX0VnWVdMT0U5cHMtdw?oc=5",
-   "pub": "Tue, 15 Sep 2026 12:06:01 GMT"
+   "t": "Nahost: Uno-Kommission wirft USA Kriegsverbrechen in Iran vor - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3VuWk9RZW5DSHBBMlRqM1djQ3RsblF4SFBqZ3B4MFVTc2NDWmJhQmJXa01Ka081WWFPcVdONWdBTGY0cTFuQlVVQXA1QlVaQW9uT1BhZEZ1eFBBcnI3MnpFN1FCQ0QtdkdxTHB2dExOV1FKYVlUdnRvRmxha1o3SW5GdVNtRld2SXhvTEgtd1RzSGZEa2ZaOFpmNWdLOXhYNHp6eU5DWmEtNG5JNEVvUVNSa0k4bWtLT0U5MTdEa2ZCT3FlV20ySVU0cU5NbFFYOWpRLUdJRzRyZw?oc=5",
+   "pub": "Thu, 17 Sep 2026 10:00:00 GMT"
   }
  ]
 }
