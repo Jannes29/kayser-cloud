@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-19T01:11:43Z",
+ "collected_at": "2026-09-19T05:55:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -27,34 +27,34 @@
    "chg1d_pct": -0.1
   },
   "WTI": {
-   "price": 95.47,
-   "chg1d_pct": -6.32
+   "price": 96.08,
+   "chg1d_pct": -5.72
   },
   "BRENT": {
-   "price": 98.77,
-   "chg1d_pct": -5.77
+   "price": 99.29,
+   "chg1d_pct": -5.28
   },
   "GOLD": {
-   "price": 4415.9,
-   "chg1d_pct": 0.37
+   "price": 4424.9,
+   "chg1d_pct": 0.57
   },
   "SPX_FUT": {
-   "price": 7725.0,
-   "chg1d_pct": 1.11
+   "price": 7712.5,
+   "chg1d_pct": 0.95
   },
   "NAS_FUT": {
-   "price": 29955.0,
-   "chg1d_pct": 1.73
+   "price": 29917.25,
+   "chg1d_pct": 1.6
   }
  },
  "headlines": [
   {
-   "t": "UN-Ermittler sehen Hinweise auf US-Kriegsverbrechen im Iran - DW.com",
+   "t": "UN-Ermittler sehen Hinweise auf US-Kriegsverbrechen im Iran - dw.com",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMUthLVFaZEhIQU1sTEx2OENEQ0JUSXFWREtONEp3eFEtTU1BTFJTd21idjVHdEZ0Z0duVDRCcE1hU2MzQUY0WWJHNEVkVU9ERFpOTHROODUwTVNQejFyc0NscDU4RC1ZUU9raU5rNDl4UzN2dGJHTndMWDZjSXNCZEpObnpLQk5jZVctclE3TWxyTm15c3dNRk5UTHo3X1JnSHVVTDF6WlUwMlVmUmh5cHZ3NXpZS3Q5SXJpWDd30gG-AUFVX3lxTE5OcG9nU0tRVTh6Ti1ySXFsa1lkVkUwOS1qZXh5LUxYWmthUjA4ZzVJZzBzLWxvcmx3bGFDeTJaY1NIOVJWVnc1QXdDYTRnZTNHd05rUm9hVE1WcGZmSm12YU1fYjd1VVZMMG9STk1SWGJ5dDd2OUMyb1lZT3FpcTExNWRyMWh5NVVWUDFDNkNyWUxMZ0huU1NVNkp0S3dWenFjcG1jMml0MnlKMVJtLVBXMDkzMEplOTNmcnRwU1E?oc=5",
    "pub": "Fri, 18 Sep 2026 07:41:04 GMT"
   },
   {
-   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - Jüdische Allgemeine",
+   "t": "Vance: Iran-Krieg tritt in wenigen Monaten in neue Phase ein - juedische-allgemeine.de",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWdvUUM1aGdKYk5DQVdzeV9LUWVOQnZDSlkyTU42ZTlSMEdZNWpiWXd1M25MUjJmWEIzX21JakUzVi1FMjhBUksxWDJVLWc2VkRJUVNZYzcxWktldXMxMmRXN29rQlJkdFhzM0dMYmV0UHc2WFlzNVdUVEEzOGJiVU9JaklMZDJPSXIySGN3OGtMX3NaYjNfTzJ6dnBwZEZndGZ6LXlqTQ?oc=5",
    "pub": "Fri, 18 Sep 2026 10:18:13 GMT"
   },
@@ -64,9 +64,9 @@
    "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
   },
   {
-   "t": "„Bei mir ist alles möglich“: Trump kündigt „große Entscheidung“ zum Iran-Krieg an - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd25sT0NZaGY1ZnE5UjIydGxubHBRXzliU1JieDdwQWl3N0p5U2ZHWmV4QVRHZThHYktjbG9Xb1doR2RSNTZnbnMydTRuVDN4Y2l5dnk5M0drYV85dzV2M3hzNUFsV2ZBby1VcTVSMU5wRTZWWTZxTVMwSDhDdjlHRnZoSVh5ZGRUUEZZTmxYVXZsR3ZzQjc1ODk5cXptd0k1eE9PejZFU3NPU0xTSFhPdGU1dw?oc=5",
-   "pub": "Fri, 18 Sep 2026 08:57:52 GMT"
+   "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
+   "pub": "Thu, 17 Sep 2026 18:15:15 GMT"
   },
   {
    "t": "Iran-Krieg trifft nicht nur die Straße von Hormus – die nächste Krise könnte Europa teuer zu stehen kommen - Frankfurter Rundschau",
@@ -79,34 +79,34 @@
    "pub": "Fri, 18 Sep 2026 11:18:00 GMT"
   },
   {
-   "t": "US-Notenbank - Trump kritisiert Leitzinserhöhung der Fed - Volkswirte begrüßen den Schritt - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2lZWTVrbUVvdS1rZ1YxaF9LM3h5VXNwRXhoSTdmaEhMWTRwdHJZcE5fVWNCb1JwWHMxRG5FQ2VNN0RweTg5Yk9aR2hwN3pWaGVmZVZzaGIwSTE4cS1YVGtTN2ZEYWdqQ0tkQ1FveVhYNjhKMmI4eTZXclpObjQ4cm9JVWdhWWloai00UjBmM2dmQXJqVWFPM0treVJjY3FseHRidjVTU3NNYU5TbzdQcG85VzllZEU?oc=5",
-   "pub": "Thu, 17 Sep 2026 18:15:15 GMT"
+   "t": "„Bei mir ist alles möglich“: Trump kündigt „große Entscheidung“ zum Iran-Krieg an - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd25sT0NZaGY1ZnE5UjIydGxubHBRXzliU1JieDdwQWl3N0p5U2ZHWmV4QVRHZThHYktjbG9Xb1doR2RSNTZnbnMydTRuVDN4Y2l5dnk5M0drYV85dzV2M3hzNUFsV2ZBby1VcTVSMU5wRTZWWTZxTVMwSDhDdjlHRnZoSVh5ZGRUUEZZTmxYVXZsR3ZzQjc1ODk5cXptd0k1eE9PejZFU3NPU0xTSFhPdGU1dw?oc=5",
+   "pub": "Fri, 18 Sep 2026 08:57:52 GMT"
   },
   {
-   "t": "Schwacher Dollar trotz Fed-Zinserhöhung: Sinkt der Kurs? - MDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjeG8yNjBzVUM0TUw0dUZwOXp0M194UWNqYkRIZkRFa0JnU0dBMHg3UXlHNUVFNWRUY0NuVVBJejVBT1c2c21Cd0hNRVJLQVgweGpUTWxoc1A0cHFublJSdmlidG1DMzA?oc=5",
-   "pub": "Fri, 18 Sep 2026 11:56:21 GMT"
-  },
-  {
-   "t": "Luxushotel bleibt leer wegen Iran-Sanktionen - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekpyWE5VTVNCWEhRc1d5MFI1NVlUVXV6M0FOejZrX2QtdENYajA0Vzhic3FaQWQ0NHlVdS1WRHdPQ2h0bHU4VzJVa2ZOaEpFSnhGMmliRm40UTdBY3RyeE9uMjVIdl8zdU1weTktUFNUZ0I0eDd2VVJUWC1TZDlEaGJXUDFzTjJpM0RRdjN4eFFwbjk2NEV4NkhZYUpBN2JMS1E5Y29XNWZZdlRrMjJXVWxaemg5WDZOa3l0RWMyUXAzeVpGc1E?oc=5",
-   "pub": "Fri, 18 Sep 2026 10:07:54 GMT"
-  },
-  {
-   "t": "(S+) Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation - spiegel.de",
+   "t": "(S+) Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2J3T3VQSmpvUHJqRFpPUnVQSjNxaHY3c3NkUE5Hd19kQUtHenJyX0ZCX3pQNTNtdC05MWZXWmd0YU1mZDluME1UN0V3LTVIRHAyTndneTRlZndpcllTZEtQOUNkNnJzdWYyRUpMQld2ZU83RlJicUV1a3ZqeWh3WHBzUmhWcjdLeF9paUhtaUFlR0huY1hNMC1qWTROMzI0bHRGMGs3WEVvRVlJZTd3QUF6RlpxOHRJaHhmdDF2TEQ2R0pCMkhwaUdISGJvNlJTMFVr?oc=5",
    "pub": "Thu, 17 Sep 2026 17:33:00 GMT"
   },
   {
-   "t": "\"Das Regime lebt von Krisen\": Esmaili: Iran wird nicht allen Trump-Punkten zustimmen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVZSbzVlRG9rd1RzYWlYbVp2RXU1LVRKZk9tbGFJUDAtWDYzWFloMUdlOV9jRUlzWE1PaXlERlk4N19UYWZlRk44TEQ4MjVsQ2xHdzZ6bUpSNFh3WkYydmJYaFRidjM0bjlsbk5NdVFKWno5Z0JRVU5mQ1lfQzBmQjV2X19uTXdvbWlkR0J0MG1QMXU4NkZTeHpZdWNDMThfSF9JQWtkd2pmMVczcXY5TW9vb3A?oc=5",
-   "pub": "Fri, 18 Sep 2026 10:23:00 GMT"
+   "t": "Bericht von UN-Kommission: Mögliche US-Kriegsverbrechen im Iran-Krieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Yc3hYT2FQQ2FyQWNRVEFxSmdnUjNBVnJDY0hNYmhCb0FZVnc5R2RrV3FlNUFTV1dRTmx1aTBEV25JRlZmaVl2NzhIQVNPNUU3NndrbE1Sc1djZGhoU1VJ?oc=5",
+   "pub": "Thu, 17 Sep 2026 10:25:56 GMT"
   },
   {
-   "t": "Trump steht im Iran-Krieg vor einer Grundsatzentscheidung - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzVueEczV2dEOWltTVVBaFp2MUo5MmJEcUt5S1NWWXgxZnBLNWVlSnlMajl4U0ZmeGZGOHVSMzNJN0JOQVp3WFlXckN1WTlkUTc4c2RlbjNCU2ZidmhMQWN5UXAxY3c1Vm8xSm9tMGdVZ0hjb2dNYlpVSUp3eWw3VFhwUjVaY3czTG13SXNHejJVZzNpSklWTXVfZ1Joa1lYR2RHYg?oc=5",
-   "pub": "Fri, 18 Sep 2026 03:42:00 GMT"
+   "t": "Nach EU-Sanktionen: Historischem Hallenbad in Frankfurt droht Aus wegen Iran-Verbindung - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRFF3T29JdEcxVW4wRDQ4SGNkb1hwdV8tbV81X3piUjlDalZtMW5QNVRKLVVMX0FKX3FKd040VTd6WVdUODF6VkwwVFVkSmotdW94My1WRlh1TUxWdFFsbmc5YVBTSTVFQi0zUWNEUVRZZlF3cWVBcjJlS1NKSVQ2dU45dVlmWUEyMjdzcE80Um9ZdXRZM29QdXdJcFliZGxtc01XbWNHZXVaekhzMGxHV1VkVHNUMXI0MWhVZ2dTLXVnZGZ5d3dfd05hejBVTE5ZZnNwLTlCNDdJdjBwQnV6UjJzYTNBdWJRWFUxeFBCRFNLUQ?oc=5",
+   "pub": "Thu, 17 Sep 2026 16:46:11 GMT"
+  },
+  {
+   "t": "Iran-Krieg: US-Vorgehen \"eine Warnung für künftige Generationen\" - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUdYSjFpWmhwd3drdmlFZ0k5SWtmd1hKWTlHeTFwLWZFa2pWNFVNSnJFYThsSF9DazZRazBPdzEtY2xVeGllTXZUdllhbjFYaVNPbEZWUHdpM1dpSnFWbXg3YXdSWEVJUENPcGVwWTdHNmdkWVI1V2x3SkZnXzg3eVVIMmVCeEYtaV82ak1zaVZxcC1yLV83aEdYRF9aZl9vcXpWaTNPYmNoMHg0WGJnZTZIZmdTRUlaRWpDQTRpUTE5NU1B?oc=5",
+   "pub": "Thu, 17 Sep 2026 20:47:00 GMT"
+  },
+  {
+   "t": "Bericht zum Iran-Krieg: US-Armee leidet unter Munitionsknappheit - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wWWN2ZXd5WmhoRk0tVWxQaVAtZjB6NjI3Y2dHcEhBTV9GZFk4NVVkbDUxd1ZKV084eFlfY2psOE16Q3RnLXg4bThaWEFoeDc1c0N4OURsaHhsU2w0NWhvbGxVZ2RIR1UyaGpIbUdNQ3FpX0VnWVdMT0U5cHMtdw?oc=5",
+   "pub": "Tue, 15 Sep 2026 12:06:01 GMT"
   }
  ]
 }
