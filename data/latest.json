@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-20T12:23:51Z",
+ "collected_at": "2026-09-20T16:48:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,14 @@
  },
  "headlines": [
   {
-   "t": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion - DW.com",
+   "t": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion - dw.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhZWkttLTE3QUxJbHlkVGpySFBjVGcwZjlFVkdYTVQwMUFaU0Z1WlNIVnZyUzI2S2pVUHg0Qk1naWZJOVBJM0ozck1XSURIbGFRSkVTWTlmelk2aWxQREZfQk9CSnNyc1dxRDhQTG1NTG9ORnRBUWhBbWhUQm5FOG9tdjQzQ1Bob1RRcDJQUG5NRE1ucHNoMVlsQ2Z4RkMzUnpPTHV6TEl4Mjd6NV9r0gGvAUFVX3lxTE9lRWFTblVCRXAxal9SaTZXOTMyS3l3Znk3RlF5V090MFJkSW9RaWREQVBLUFZtdXJfR0pzZ1pvYlpONkp0elNTTzZkQ3FmaGh0aGNpNENhWG9PaHdxNUhOUVptcXVERmlhSjhWRnNNUUxCMU1CbUJ2bm5lc3hoMkljaGVGZHZVX3R3bVpWdW4xbnAyclAxOURSamJ0LUdNVi00RnNHRjEwdEdIenltaGs?oc=5",
    "pub": "Sat, 19 Sep 2026 20:38:29 GMT"
   },
   {
-   "t": "Signal aus Teheran: Iran will zurück zu Rahmenabkommen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXdVU0FpYlBaRUp3QWlvTjFsckU1VlBjaVAzWjZ2V1lreGhfSEtWell0dk94eVJFUm85M1ExakRNVlAyVVJhd3dCcVZFeDQybmNhek14M1MtcHQtOG1NWUV2eGh5dS1Ba2ZYYURIeTVvTVM3dFFNeHVpb2RaTlhFRExUREE4Si1RMFA3dFRSVlVENjJYZ2pMRUpMbDM4X0R6M1lWVWYyLTV6MzVhcXZGOGU2LUJJa0U?oc=5",
-   "pub": "Sat, 19 Sep 2026 18:33:20 GMT"
+   "t": "Naher Osten: Irans Militär droht USA und deren Verbündeten mit kontinuierlichen und schmerzhaften Angriffen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTkVYb1pCYmtaNDhLR0ZLV3NXTHFrZWZsWExIQzcwUU42WjVsaC01MnlNS29waFVDa0JicjNRR1JsUTlxeUFQU2hqR1RSQ1IxREQyMTZNa3kxOG5seWlqMEV1dmFCRDFURDJXTVJpbjBweEdSYXhGcHV6a3p4eUt5TjdIZXdLRm03eUR2NzZjdTVTNEZZYmJmalAyanNYSWxXY29jYTU2VlpQaks3THR0VlhXc2c4dk1sUjd1SEpJcWtWRl9BQ0ZRWENRd1RnQU9QMXpQWjFkd3BRVGZkN0tJUDM4dWRXN2pPZllIOVdDY2FaMm1rTmZVRWxZMUdqLUFLLU9ydWlwZVZOTXUwNWc?oc=5",
+   "pub": "Sun, 20 Sep 2026 12:22:14 GMT"
   },
   {
    "t": "Iran: Amnesty benennt 87 mutmaßlich Verantwortliche für Völkerrechtsverbrechen - Amnesty International",
@@ -64,14 +64,19 @@
    "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
   },
   {
+   "t": "Wichtiger als „Dutzende Atombomben“: Irans XXL-Hardliner machen gegen Trump mobil - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFdkZE5xa3FRejQxRWI1dXVFR3hSMjI5dWJQVUtCekoweGctN3UyMUdScnJvcnN3MENxb3l0cUJpREpaeUd5a0Rab0w4UjUxX2FXaTFpZkp0R3NMUHd3aTIyQlhZWUxiNEF4ZmVVbWd1b1FETTZ2UFVIaEhMYUI5dzB5SU9aQ2l6ZXR3dHg4dllnRVNydXFwQ2NPMG5RcnRJWnVlWm43X0ZfZ0NKN3JHQ2FkYVdLRVhWdzNidjhWdHlwNHYwbklDUThzUVo1NWM?oc=5",
+   "pub": "Sun, 20 Sep 2026 14:09:24 GMT"
+  },
+  {
+   "t": "Wochenrückblick KW 38-2026! Die Fed gewinnt – aber nur auf Zeit! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlNqcFhDTlU4WWFGdFhlZGl2SGtZSjhyMlk0b2JYbmt6SmxmNVdVUDd4cWNvd211UXpmTkZGRDVRMVFXTXNxeVFyeU0wRHljOURuUzhpTWgzN2dvMllQbkZLVm1TM01VV3poUkFTSEhHSUpZWHhwakZDQjd2OWY3WGwzR2FwNUtmTW9Yc0RBRUtnUUlVSzZFc01VRzQyR0ZLY2xzN1FiVkVGQQ?oc=5",
+   "pub": "Sun, 20 Sep 2026 12:25:00 GMT"
+  },
+  {
    "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT1dTT19jNVB3b0NSWjNYOHhLZElpREVJQnI0ODRMd294OXVzNXRibFVVVFlkTnFqM21yWFlQUHVHZE9yMFYzNVNGY0hLQ1JGMmdDaW4xdXdsVmZyNUR4ekxqMEdmQWJ6cXFiWEdEVVJ1YlBFVlFEVTJraWs4d0lZbWNWYzNuZGFxTlphVEdkNlJfcExMUFVNVVM3LU9zSzdpSTZkUUV4MUc5TDliVGdtZGltVDhPekM0a2pyTXRENA?oc=5",
    "pub": "Sun, 20 Sep 2026 02:46:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Teheran fordert US-Konzessionen vor neuen Verhandlungen - Nordbayerischer Kurier",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdnFVT0lMY3NHM3lGUFVSWnlMZGtGTVhPLVhTYlhFenRhX3kwRW01dktlb1JLYU1za3dRS0JPYUpBdnR3cGhyM1pnczREWnE2U0FFaXE2UmlsSXJYTzB6VnloSmdtMkFvM1NrdXVGSnZ1TkZ1aUJibzlldFd3dGRpVmZ0U3dKdVJ2NmNUQnFybk5qZkZRN2RoUUNUVW1aMXpiNmtLT2pLWFVjWk14V3g5S0ZEMEM5NTctRXJzV3cwU1BLdkxBLWtJd3pTelQwaXNFeWlF?oc=5",
-   "pub": "Sun, 20 Sep 2026 07:50:47 GMT"
   },
   {
    "t": "(S+) Iran-Krieg: Nahostexpertin warnt vor erneuter umfassender Eskalation - Spiegel",
@@ -79,34 +84,29 @@
    "pub": "Thu, 17 Sep 2026 17:33:00 GMT"
   },
   {
-   "t": "Huthi-Angriffe in Saudi-Arabien: USA warnen vor Eskalation - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXc0ank2dVJSby1Dc1VuWkRSaUltOEhCYnU0cjgyMzRmMFFjVzd3ZWVUZ0xGcnFNQ2N1QjAwSzBGaXMtSnl3Q0xFWVVMQjFzdjNhWUlGa2RFZ1JKR1h6NzRJN3NvV0VIbUtFSDhIYzdHY21LRHprWnVueUVXSUd5aXhZUm1zdHVXdkE?oc=5",
-   "pub": "Sun, 20 Sep 2026 10:21:00 GMT"
-  },
-  {
-   "t": "Stadtbad in Frankfurt droht Schließung wegen Iran-Sanktionen - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGJ0YnpFb1NqVEVSYkRfRHVkaTZhaHZkMkZDbjA1NU03V25GMnZhVlVQbG4yUE42ZlJCMkdWaUJybllNajlRV29FeHdCV1hjRFdTdk1JeGxLcjN1Vm5IeERwZDl4czN6RWVZeE9ERVhjU052QURrNGM0dXRqTXI4am5vTW9LRzVkTU5CcndYbllEdXZ4UU93M3NZNDV4NllRbW5tc2N5M2gtUmtpSjEwRlpxYUMwQnN2ZU1pMTRmYTJRYWtTT1U2bUZR?oc=5",
-   "pub": "Sun, 20 Sep 2026 07:59:14 GMT"
-  },
-  {
-   "t": "Trump steht im Iran-Krieg vor einer Grundsatzentscheidung - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzVueEczV2dEOWltTVVBaFp2MUo5MmJEcUt5S1NWWXgxZnBLNWVlSnlMajl4U0ZmeGZGOHVSMzNJN0JOQVp3WFlXckN1WTlkUTc4c2RlbjNCU2ZidmhMQWN5UXAxY3c1Vm8xSm9tMGdVZ0hjb2dNYlpVSUp3eWw3VFhwUjVaY3czTG13SXNHejJVZzNpSklWTXVfZ1Joa1lYR2RHYg?oc=5",
-   "pub": "Fri, 18 Sep 2026 03:42:00 GMT"
-  },
-  {
-   "t": "Die FED hat die Zinsen erhöht. Gold explodiert. Was kommt jetzt? - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzdnb1ZIajZjblJYMWtrbnQtUmFWcVRtSk9HcXhWbkZ0RHpOcF9zSGwzcW43WGRMSDh3VTBmeF8wYlc0YTV5eU0xRE5UZDB2MzBTZi1PV0diSzRsdjZ6M0preTRtUTZlSXFiOGE1Z0VmTmxEZEdOMjJvX2p0TGNlN2VVbVVJaTc2QnNqeUxCVGhINkd5U09j?oc=5",
-   "pub": "Sun, 20 Sep 2026 06:17:44 GMT"
-  },
-  {
    "t": "Ex-Sicherheitsberater rechnet ab: Bolton wirft Trump Plan- und Ziellosigkeit im Iran-Krieg vor - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdHlMclB0RnlsbEU4WldMbE5rMDdxSkw2dFJ6dEQ1aGFYRHBzdUtKcnNJNVl1YWxhSkJ1MGw3bm5uMFFTc19PRFRRUUlhT2RoVklKVHNMMS0wcW4wM1g0WDR2WDg5QXpadzNtS2NRRzQ0MDlDRjlkR0h2VXBBNjVuUi1CWEZ4Zjd6U05rdjJuV2F3ZEJwcDlLZkJ6MnJnLThhRFVleC1B?oc=5",
    "pub": "Sat, 19 Sep 2026 06:27:25 GMT"
   },
   {
-   "t": "Iran bietet USA Kriegsende auf Basis des Juni-Abkommens an - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVE1eUJfRVJfSU9RZUt0MHppeFhCc3ptVkxmcktqSFJVZVNMYkNkaGVtcmllNUJoV3VtVVk3OHdyd3dUNzVrd1dXOGNMX0tVRWZ2T19rUWI5T0tobGk2V1BSeFlJRkMzNG90NDhtUDdIbUtKM01fR2RmSmFOcmpaQkFYTDlZcy0wLTk4YklxU2FXTExSejVoYUxNZkk3cm5xSTFyUjNn?oc=5",
-   "pub": "Sun, 20 Sep 2026 04:07:57 GMT"
+   "t": "Von Iran bis Frankfurt: Was bleibt von den Protesten? - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXdmYlV6SlUyMUVmMlIyUGVwd1B6dERRV3hHdFhkZ3JBUXBWWHAwQ1RuMjhrczZuOHl1M1BIZGRsRDdEUUE5WmJPTTNXWlpVcGRrYVc4M3lqNnZreU15MzRLcDN2N05zWFdCeDZQMHFxVnFzUzRrSURybnZFVHphNG53NjE0OTg1WUN0TmJySWphN1pMTm5JbUlVMUdJaHJoTlh4YTByUmM0VHpaMXYyVmZR?oc=5",
+   "pub": "Sun, 20 Sep 2026 15:57:01 GMT"
+  },
+  {
+   "t": "Huthi-Angriffe in Saudi-Arabien: USA warnen vor Eskalation - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNXc0ank2dVJSby1Dc1VuWkRSaUltOEhCYnU0cjgyMzRmMFFjVzd3ZWVUZ0xGcnFNQ2N1QjAwSzBGaXMtSnl3Q0xFWVVMQjFzdjNhWUlGa2RFZ1JKR1h6NzRJN3NvV0VIbUtFSDhIYzdHY21LRHprWnVueUVXSUd5aXhZUm1zdHVXdkE?oc=5",
+   "pub": "Sun, 20 Sep 2026 10:21:00 GMT"
+  },
+  {
+   "t": "Signal aus Teheran: Iran will zurück zu Rahmenabkommen - t-online.de",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXdVU0FpYlBaRUp3QWlvTjFsckU1VlBjaVAzWjZ2V1lreGhfSEtWell0dk94eVJFUm85M1ExakRNVlAyVVJhd3dCcVZFeDQybmNhek14M1MtcHQtOG1NWUV2eGh5dS1Ba2ZYYURIeTVvTVM3dFFNeHVpb2RaTlhFRExUREE4Si1RMFA3dFRSVlVENjJYZ2pMRUpMbDM4X0R6M1lWVWYyLTV6MzVhcXZGOGU2LUJJa0U?oc=5",
+   "pub": "Sat, 19 Sep 2026 18:33:20 GMT"
+  },
+  {
+   "t": "Bericht von UN-Kommission: Mögliche US-Kriegsverbrechen im Iran-Krieg - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Yc3hYT2FQQ2FyQWNRVEFxSmdnUjNBVnJDY0hNYmhCb0FZVnc5R2RrV3FlNUFTV1dRTmx1aTBEV25JRlZmaVl2NzhIQVNPNUU3NndrbE1Sc1djZGhoU1VJ?oc=5",
+   "pub": "Thu, 17 Sep 2026 10:25:56 GMT"
   }
  ]
 }
