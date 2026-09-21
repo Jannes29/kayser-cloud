@@ -1,62 +1,57 @@
 {
- "collected_at": "2026-09-21T19:29:28Z",
+ "collected_at": "2026-09-21T23:17:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8208,
-   "chg1d_pct": -0.49
+   "price": 0.8209,
+   "chg1d_pct": -0.22
   },
   "USDJPY": {
-   "price": 157.397,
-   "chg1d_pct": 0.81
+   "price": 157.353,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
-   "price": 1.8765,
-   "chg1d_pct": 0.44
+   "price": 1.8761,
+   "chg1d_pct": 0.15
   },
   "AUDJPY": {
-   "price": 112.101,
-   "chg1d_pct": 0.91
+   "price": 112.018,
+   "chg1d_pct": 0.16
   },
   "EURUSD": {
-   "price": 1.1472,
-   "chg1d_pct": -0.04
+   "price": 1.1468,
+   "chg1d_pct": -0.1
   },
   "GBPCHF": {
-   "price": 1.0976,
-   "chg1d_pct": -0.38
+   "price": 1.0975,
+   "chg1d_pct": -0.35
   },
   "WTI": {
-   "price": 92.51,
-   "chg1d_pct": -7.77
+   "price": 92.09,
+   "chg1d_pct": -8.19
   },
   "BRENT": {
-   "price": 96.48,
-   "chg1d_pct": -7.11
+   "price": 96.12,
+   "chg1d_pct": -7.46
   },
   "GOLD": {
-   "price": 4383.7,
-   "chg1d_pct": -0.93
+   "price": 4401.2,
+   "chg1d_pct": -0.54
   },
   "SPX_FUT": {
-   "price": 7842.0,
-   "chg1d_pct": 2.41
+   "price": 7835.75,
+   "chg1d_pct": 2.33
   },
   "NAS_FUT": {
-   "price": 30804.75,
-   "chg1d_pct": 4.02
+   "price": 30836.0,
+   "chg1d_pct": 4.13
   }
  },
  "headlines": [
   {
-   "t": "(S+) Iran: Warum Iranerinnen und Iraner nach Armenien fliehen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUJXcEpRblRGWWlsUWluZ3BpUk9DTUdZQlFTckFjakI5S3ZLVUVJeHg2YlhWcHNQNGRxQmJfb0kwT3g5cmtxTFZtaGhwZEVnUldnTU90TEw1SW5aWHhNVHNlZWtkcGJFSTlxbHBYMU1wNjBOY0ZqZnpzXzNFcEdnOXdtUDkxUVZZcGxjWjNjel9UV1dDY1pxUkR6bklab1R0a1FBUW9GRUNQVkNZUk1YSmltY3dTOFB2YVJuMk9nb3pPTkE?oc=5",
-   "pub": "Mon, 21 Sep 2026 10:09:00 GMT"
-  },
-  {
-   "t": "Trump vor Entscheidung über Iran: „Wann sprenge ich das ganze Land in die Luft?“ - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelR3dzJ3RTNWNEZCS3NMamV0U2szazFnNnpNanByVG9KdnZUR0ZWMGZibmVCRkljYkR1NlpfOTJmZjdtalk1eHhKWGYtZE9ZLU5pT0IzamwzQ3RWdWg0eVNJVTd0NFMwY0JRZ0FaZC1yZXJSY2UwMjh0SUppNnFkT1RncWNadHFzeWY4NUxpZkRjQVRX?oc=5",
-   "pub": "Mon, 21 Sep 2026 14:47:13 GMT"
+   "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
+   "pub": "Mon, 21 Sep 2026 23:10:35 GMT"
   },
   {
    "t": "USA und Iran drohen einander, Angst vor erneutem Krieg wächst - Euronews.com",
@@ -64,12 +59,27 @@
    "pub": "Mon, 21 Sep 2026 17:56:49 GMT"
   },
   {
-   "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
-   "pub": "Mon, 21 Sep 2026 06:40:27 GMT"
+   "t": "(S+) Iran: Warum Iranerinnen und Iraner nach Armenien fliehen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUJXcEpRblRGWWlsUWluZ3BpUk9DTUdZQlFTckFjakI5S3ZLVUVJeHg2YlhWcHNQNGRxQmJfb0kwT3g5cmtxTFZtaGhwZEVnUldnTU90TEw1SW5aWHhNVHNlZWtkcGJFSTlxbHBYMU1wNjBOY0ZqZnpzXzNFcEdnOXdtUDkxUVZZcGxjWjNjel9UV1dDY1pxUkR6bklab1R0a1FBUW9GRUNQVkNZUk1YSmltY3dTOFB2YVJuMk9nb3pPTkE?oc=5",
+   "pub": "Mon, 21 Sep 2026 10:09:00 GMT"
   },
   {
-   "t": "Hoffnungsschimmer im Iran-Krieg: Jetzt bietet sich eine Chance für Diplomatie - augsburger-allgemeine.de",
+   "t": "Huthi sperren das Rote Meer, Patriots sind halb verbraucht: Trumps Iran-Abenteuer rächt sich bitter - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbS1adVVONlVTUWt4WmFjSkRFTjdVRUlXZ3kxUDZDRmJvMjU3bjRVLUY5VEhsX0tuVVpqWnFBZEJvTTdISlN6aUhicWdHWC1XNEhsRi1BNHB0VXd6YlNPU0tHQjdqUW1SeHZKb2hsblA1TC1sZlY4S1E2TE4wOUZCZHZOT3MzVGV2Q0tTT1BKVmptZ3haVkRJOUt0U1lMd2N1TWthQ0I4RWJVMnRUb1hBNWpxUkQ1dTd5Y2htRE1wTEY1bHpNZlNYWlByQ0lUN1ZEVDdldkNZSHY?oc=5",
+   "pub": "Mon, 21 Sep 2026 17:13:08 GMT"
+  },
+  {
+   "t": "Trump vor Entscheidung über Iran: „Wann sprenge ich das ganze Land in die Luft?“ - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelR3dzJ3RTNWNEZCS3NMamV0U2szazFnNnpNanByVG9KdnZUR0ZWMGZibmVCRkljYkR1NlpfOTJmZjdtalk1eHhKWGYtZE9ZLU5pT0IzamwzQ3RWdWg0eVNJVTd0NFMwY0JRZ0FaZC1yZXJSY2UwMjh0SUppNnFkT1RncWNadHFzeWY4NUxpZkRjQVRX?oc=5",
+   "pub": "Mon, 21 Sep 2026 14:47:13 GMT"
+  },
+  {
+   "t": "China knüpft sich den Iran vor: Pfeift die Huthis zurück! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1Zqa29OT1J0OW5GSlVuMVZkbm5QMDhqMmQwNmM2N1dpcGdSM096czVBRi1zUnMxQk1Ec3h5NU83TTBMcEhkblVyNzl6RmVqcHRiT0s3WVI2eVBUUlZCNGdxUlFMdmd1SGt6cU1DVXBvTE1KNjFXYzJjckVIWVEyZUVSa1ZpNTZxcUJ3RGlwT0lTNzlrUXVMZklDaklMVVdIV2NyT2llempUWmpiUnVIcHVIY0g3eEJUWjhuQnAzM3E?oc=5",
+   "pub": "Mon, 21 Sep 2026 18:01:00 GMT"
+  },
+  {
+   "t": "Hoffnungsschimmer im Iran-Krieg: Jetzt bietet sich eine Chance für Diplomatie - Augsburger Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTC0zaDU0S0xrVFFoemc2czEwU3JhM0tRU25Nams4TUNJSWhvODJ1TnJ0cVdXdkJjeC1GWDA5X3VDc280c2dONnJqaWVHc1p5WnlPcFZpRTNsa0g3Z1IxV0trck96SEZ6UjBLUzkzeU1MQXZHYUYyTnYtWndYS2ljSS1VNFJVSDJpNFBiZ25QcUYtb0YyVWJBcVFFcHI4VDIydFZ2d1JObTJSaWNmR3l2QUZRdjJuWmEyMi16ZWxJQi1pUi1JODRfUQ?oc=5",
    "pub": "Mon, 21 Sep 2026 10:00:00 GMT"
   },
@@ -79,34 +89,24 @@
    "pub": "Mon, 21 Sep 2026 14:09:58 GMT"
   },
   {
-   "t": "Teheran will Rahmenabkommen mit USA wiederbeleben - n-tv.de",
+   "t": "Iran-Krieg: Erneut Tanker in Straße von Hormus getroffen - Konflikte, Krisen,Frachtschiffe | News - TRANSPORT - die Zeitung für den Güterverkehr",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWluLURySVJIb2N0S29BVzY2QS1EUEQ2dnFLUE5uMFhMRGs2SzdVT0Z5VWtVdjgwcnZNQnVwa0dzTnQwZEROS3pWVGYwcFRPQXRZUDZaVmhldjlXYmxTRDFZeC1OT1RKbjdRaFhLZmx6SE1BaFlGOWJmb1FCQVdkeFZQWGlXTTJoUjVIbmN3em9saUpjYzJCVTF6RExrbTQ?oc=5",
+   "pub": "Mon, 21 Sep 2026 09:54:00 GMT"
+  },
+  {
+   "t": "Iran will Rahmenabkommen mit USA wiederbeleben – Teheran stellt drei Bedingungen - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUjc0eFBnNXVMZ1ZsQ2Zlc2prSFhpQjR4TGdZZWxGWVhhd24ybGcxeHh5WHBTbndKR3lRazhwVWlna3BjbmtVR3dFcHMwTEZydnFzWHkwMjdUUDR4dEowZTNTV1FkRXFwY0JDdTQ1LUg5R1lkcEY1dXc4ejF6OUdieFN6UnMtRk5lT2U3ODhaWWFoSldSeTFhUnRHQWMzYk01b3d2d3p0N0hzbU9YeDJuTmVjNVNiU3dtdjBsdEJQbw?oc=5",
    "pub": "Mon, 21 Sep 2026 06:35:00 GMT"
   },
   {
-   "t": "Iran - Justiz in Teheran ordnet Schließung von französischem Sprachzentrum an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVdnUU45dHoxbzFtWlJueFBPOGFTa3JLVHhva1BiV19WeUlHc1k4WEJmOWRZTjh4NklEbUR0emR4UjE4U0w0VzNoNEFGUldlUngzeGJQT3RyanNGajI1aDRGMnBkVXpmZjljX1JTXzNSTjFfM1RtbmFMUEZTcXl1MndCMlJnLWN2Y3NzUUhiai1YYU1NajUxNEJzVTl2RHBYX19WeU1hSW1qai1aUFdLa1B3?oc=5",
-   "pub": "Mon, 21 Sep 2026 02:01:45 GMT"
-  },
-  {
-   "t": "Huthi sperren das Rote Meer, Patriots sind halb verbraucht: Trumps Iran-Abenteuer rächt sich bitter - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbS1adVVONlVTUWt4WmFjSkRFTjdVRUlXZ3kxUDZDRmJvMjU3bjRVLUY5VEhsX0tuVVpqWnFBZEJvTTdISlN6aUhicWdHWC1XNEhsRi1BNHB0VXd6YlNPU0tHQjdqUW1SeHZKb2hsblA1TC1sZlY4S1E2TE4wOUZCZHZOT3MzVGV2Q0tTT1BKVmptZ3haVkRJOUt0U1lMd2N1TWthQ0I4RWJVMnRUb1hBNWpxUkQ1dTd5Y2htRE1wTEY1bHpNZlNYWlByQ0lUN1ZEVDdldkNZSHY?oc=5",
-   "pub": "Mon, 21 Sep 2026 17:13:08 GMT"
+   "t": "Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHliOUo2NEtkdHdfOW1rWlhJRnhjWVl0MzdGeWFaTGp3TjZYLU5KbmpOcXktWVJpRVZwWTlVUE53MFA4bGxwNHNId3VDU0NPZDBOeUxVSGFJLVJpcXM4dDRidUxPZVp4dFlPdmVfdEJkZzFTOUlFcXh3WFIzNmVxQ0VYRDRqcFowcHV3ZHg2OXhDbjhodUt5dmcyQktldDFzYkJkVUY3VkpuTVY1dXY0ZWpaNWk4TXZlMzlrVUhnWkdiZ1NqVUJtSUtiWFQyN1lxU2hmeHF3?oc=5",
+   "pub": "Mon, 21 Sep 2026 20:35:47 GMT"
   },
   {
    "t": "Iran: Wirtschaft schrumpft drastisch und der Ölpreis steigt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN19IRTdUSl91TEZjZWNjbUR4RU1LSEd2VEpWXzJlVXIwdkRrTWE5OG9CR3hIbm1XZmtBOWxENF9ZZnk5bHZzMDRBcWpseHA0bTZEQTFocVdILTRySF9tcG94TFQ5ZWdOb1dYOTk1aVNHdjFMNzJhR2Y0bU1iS3N6V0JKR3Q5a0FDZHVKLV9ISUt3SmhQZDF0dy1qQ3VkSE5aNVJNZVk0eUJ2N19PQ2RLQlNGSHZaZzR4Y1RycVp6X0xUOFZuN1VYX0pkWDV6TWJyZldmQUdSTkxiTEo5UlE?oc=5",
    "pub": "Mon, 21 Sep 2026 00:53:00 GMT"
-  },
-  {
-   "t": "Iran richtet offenbar Mann wegen Spionage hin - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1lvVVpSNEMyOHpVZGo5UU5ES0RvMy0xQ0hJa0RtQ1ltMmlEblh2V29kZTItUFJxZG41UEpuSG9mSE4yOHJQU3pjYTUxaVZqLUFqeE1SRDcxT3R5dU96aDZ3Tk5KR1Y5VTNRWllZaGpqb2JJOFFUdDJ6UEdfUUZKYVRyRnA5cEJlTTZ3ZmlneWhKUG8yVWwwWTNabHdZb1VxMlc1UlNla0tzTnVtLTQ4V2pOT041Zw?oc=5",
-   "pub": "Sat, 19 Sep 2026 08:19:00 GMT"
-  },
-  {
-   "t": "Iran: Strafverfahren gegen Marathon-Organisatoren wegen unverschleierter Läuferinnen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQanJFaHlaNGdHOGJjQm5wdHJRVmFaTDJtZFZYVVZBSFo0QXpyNE05Q2xReWs2dkZiZTl6ZWdPOEc1NWpXT2c1TUhmMDhjU3B5TS1FMDkzaU5aaTdEa0Zubm1CREJ2U1pwM0h0LS01NU1YMUViUmw0V3RiU0JZM0RXM010ejBBWDg4VGVHZjNnblVTTWI1TGhlVlI4T0FrUkZxaEFzUThaQk52WUQwb09xbzhKS0VROUQ0OGFfSF94WXBhZHV6WGZZWEkxS29UbE44UzN1YVJ3alM3RnRFZHh5MmtIbGdmLWQ5UEl3SndB?oc=5",
-   "pub": "Mon, 21 Sep 2026 02:58:27 GMT"
   }
  ]
 }
