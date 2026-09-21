@@ -1,62 +1,97 @@
 {
- "collected_at": "2026-09-21T06:23:00Z",
+ "collected_at": "2026-09-21T14:11:27Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8231,
-   "chg1d_pct": -0.22
+   "price": 0.8224,
+   "chg1d_pct": -0.3
   },
   "USDJPY": {
-   "price": 157.053,
-   "chg1d_pct": 0.59
+   "price": 157.425,
+   "chg1d_pct": 0.83
   },
   "GBPCAD": {
-   "price": 1.8751,
-   "chg1d_pct": 0.37
+   "price": 1.8743,
+   "chg1d_pct": 0.33
   },
   "AUDJPY": {
-   "price": 111.867,
-   "chg1d_pct": 0.7
+   "price": 112.139,
+   "chg1d_pct": 0.94
   },
   "EURUSD": {
-   "price": 1.1474,
-   "chg1d_pct": -0.02
+   "price": 1.1471,
+   "chg1d_pct": -0.04
   },
   "GBPCHF": {
-   "price": 1.1009,
-   "chg1d_pct": -0.08
+   "price": 1.0997,
+   "chg1d_pct": -0.19
   },
   "WTI": {
-   "price": 94.4,
-   "chg1d_pct": -5.88
+   "price": 92.49,
+   "chg1d_pct": -7.79
   },
   "BRENT": {
-   "price": 97.83,
-   "chg1d_pct": -5.81
+   "price": 100.51,
+   "chg1d_pct": -3.23
   },
   "GOLD": {
-   "price": 4389.9,
-   "chg1d_pct": -0.79
+   "price": 4382.6,
+   "chg1d_pct": -0.96
   },
   "SPX_FUT": {
-   "price": 7747.25,
-   "chg1d_pct": 1.17
+   "price": 7774.5,
+   "chg1d_pct": 1.53
   },
   "NAS_FUT": {
-   "price": 30111.25,
-   "chg1d_pct": 1.68
+   "price": 30431.0,
+   "chg1d_pct": 2.76
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: Iranische Wirtschaft schrumpft drastisch und der Ölpreis steigt - spiegel.de",
+   "t": "Iran: Wirtschaft schrumpft drastisch und der Ölpreis steigt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN19IRTdUSl91TEZjZWNjbUR4RU1LSEd2VEpWXzJlVXIwdkRrTWE5OG9CR3hIbm1XZmtBOWxENF9ZZnk5bHZzMDRBcWpseHA0bTZEQTFocVdILTRySF9tcG94TFQ5ZWdOb1dYOTk1aVNHdjFMNzJhR2Y0bU1iS3N6V0JKR3Q5a0FDZHVKLV9ISUt3SmhQZDF0dy1qQ3VkSE5aNVJNZVk0eUJ2N19PQ2RLQlNGSHZaZzR4Y1RycVp6X0xUOFZuN1VYX0pkWDV6TWJyZldmQUdSTkxiTEo5UlE?oc=5",
    "pub": "Mon, 21 Sep 2026 00:53:00 GMT"
   },
   {
+   "t": "Hoffnungsschimmer im Iran-Krieg: Jetzt bietet sich eine Chance für Diplomatie - augsburger-allgemeine.de",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTC0zaDU0S0xrVFFoemc2czEwU3JhM0tRU25Nams4TUNJSWhvODJ1TnJ0cVdXdkJjeC1GWDA5X3VDc280c2dONnJqaWVHc1p5WnlPcFZpRTNsa0g3Z1IxV0trck96SEZ6UjBLUzkzeU1MQXZHYUYyTnYtWndYS2ljSS1VNFJVSDJpNFBiZ25QcUYtb0YyVWJBcVFFcHI4VDIydFZ2d1JObTJSaWNmR3l2QUZRdjJuWmEyMi16ZWxJQi1pUi1JODRfUQ?oc=5",
+   "pub": "Mon, 21 Sep 2026 10:00:00 GMT"
+  },
+  {
+   "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
+   "pub": "Mon, 21 Sep 2026 06:40:27 GMT"
+  },
+  {
+   "t": "Teheran will Rahmenabkommen mit USA wiederbeleben - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUjc0eFBnNXVMZ1ZsQ2Zlc2prSFhpQjR4TGdZZWxGWVhhd24ybGcxeHh5WHBTbndKR3lRazhwVWlna3BjbmtVR3dFcHMwTEZydnFzWHkwMjdUUDR4dEowZTNTV1FkRXFwY0JDdTQ1LUg5R1lkcEY1dXc4ejF6OUdieFN6UnMtRk5lT2U3ODhaWWFoSldSeTFhUnRHQWMzYk01b3d2d3p0N0hzbU9YeDJuTmVjNVNiU3dtdjBsdEJQbw?oc=5",
+   "pub": "Mon, 21 Sep 2026 06:35:00 GMT"
+  },
+  {
+   "t": "Iran droht USA mit Angriffen und Einsatz neuer Waffen - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXJJUGt2RElEVnA4ZDNneTNia1l0TUFGRDA3aHZ2N2hLcWZBa1BrNGpFZnZESWtMdDFYWWZERU9NZGMxVTAzQkZ5dTR0WVZrZkVmWURkMWRBY1c5c25Ud0JTVzZIY1E2MUhmZm5hU1RUa2ZOSWI5UHJ5S2pNSmlQNjlRaVUxT2lTUzJlNVFvZUhhNVI4?oc=5",
+   "pub": "Mon, 21 Sep 2026 10:49:07 GMT"
+  },
+  {
    "t": "Iran - Justiz in Teheran ordnet Schließung von französischem Sprachzentrum an - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVdnUU45dHoxbzFtWlJueFBPOGFTa3JLVHhva1BiV19WeUlHc1k4WEJmOWRZTjh4NklEbUR0emR4UjE4U0w0VzNoNEFGUldlUngzeGJQT3RyanNGajI1aDRGMnBkVXpmZjljX1JTXzNSTjFfM1RtbmFMUEZTcXl1MndCMlJnLWN2Y3NzUUhiai1YYU1NajUxNEJzVTl2RHBYX19WeU1hSW1qai1aUFdLa1B3?oc=5",
-   "pub": "Mon, 21 Sep 2026 02:00:00 GMT"
+   "pub": "Mon, 21 Sep 2026 02:01:45 GMT"
+  },
+  {
+   "t": "Unverschleierte Frauen bei Lauf im Iran – Behörden ermitteln gegen Veranstalter - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXlyN3lGaS03UEQ2aUNGZTdCZkVlZlhMQXJscWFhUnMtXzk3Zjh2anMzYjlJS1pnMkNnM0g4WnM2YnMtYVg1Uk5FNE4wQUxVYS1sWDNKTmVmZ0tySjhKNWI0a1JOMkQ0WXlQM3NqUThKcFExSDRxTi12dGNzOVdiSEhvcDd2MUVpRHdaVURvaXM4OVJkVEFyVy1HWlYtTVFxUm9vSC1WTVg1ckVNdEczZ25ZTm1NblpTbDlZ?oc=5",
+   "pub": "Mon, 21 Sep 2026 08:24:10 GMT"
+  },
+  {
+   "t": "(S+) Iran: Warum Iranerinnen und Iraner nach Armenien fliehen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUJXcEpRblRGWWlsUWluZ3BpUk9DTUdZQlFTckFjakI5S3ZLVUVJeHg2YlhWcHNQNGRxQmJfb0kwT3g5cmtxTFZtaGhwZEVnUldnTU90TEw1SW5aWHhNVHNlZWtkcGJFSTlxbHBYMU1wNjBOY0ZqZnpzXzNFcEdnOXdtUDkxUVZZcGxjWjNjel9UV1dDY1pxUkR6bklab1R0a1FBUW9GRUNQVkNZUk1YSmltY3dTOFB2YVJuMk9nb3pPTkE?oc=5",
+   "pub": "Mon, 21 Sep 2026 10:09:00 GMT"
+  },
+  {
+   "t": "Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHliOUo2NEtkdHdfOW1rWlhJRnhjWVl0MzdGeWFaTGp3TjZYLU5KbmpOcXktWVJpRVZwWTlVUE53MFA4bGxwNHNId3VDU0NPZDBOeUxVSGFJLVJpcXM4dDRidUxPZVp4dFlPdmVfdEJkZzFTOUlFcXh3WFIzNmVxQ0VYRDRqcFowcHV3ZHg2OXhDbjhodUt5dmcyQktldDFzYkJkVUY3VkpuTVY1dXY0ZWpaNWk4TXZlMzlrVUhnWkdiZ1NqVUJtSUtiWFQyN1lxU2hmeHF3?oc=5",
+   "pub": "Mon, 21 Sep 2026 07:55:13 GMT"
   },
   {
    "t": "Iran: Strafverfahren gegen Marathon-Organisatoren wegen unverschleierter Läuferinnen - WELT",
@@ -64,49 +99,14 @@
    "pub": "Mon, 21 Sep 2026 02:58:27 GMT"
   },
   {
-   "t": "Wichtiger als „Dutzende Atombomben“: Irans XXL-Hardliner machen gegen Trump mobil - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFdkZE5xa3FRejQxRWI1dXVFR3hSMjI5dWJQVUtCekoweGctN3UyMUdScnJvcnN3MENxb3l0cUJpREpaeUd5a0Rab0w4UjUxX2FXaTFpZkp0R3NMUHd3aTIyQlhZWUxiNEF4ZmVVbWd1b1FETTZ2UFVIaEhMYUI5dzB5SU9aQ2l6ZXR3dHg4dllnRVNydXFwQ2NPMG5RcnRJWnVlWm43X0ZfZ0NKN3JHQ2FkYVdLRVhWdzNidjhWdHlwNHYwbklDUThzUVo1NWM?oc=5",
-   "pub": "Sun, 20 Sep 2026 14:09:24 GMT"
-  },
-  {
-   "t": "«Irans wirtschaftliche Situation war noch nie so schlecht» - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnJfcnNlVTlCX3owRno4Si1uNEpPOFdmbWpKQ0dSZW40ZkRDRUxuQzJqTkl4dVFONWVUcnRTRWV6STN0ckNCMDNJbTByal9LS09QM0xPbGcxVE9nbkdkVnlsTFhpdkNMWW52akI2ZFM3dUlqMW5IbXVKU0c4aUJ3dFJXaWxrR1Y0VUg5eWplb1ctX0xDajhXWksydkRCVWgxZ29SNGlKWGtXazlaZG1hMUM2V2EtdHRR?oc=5",
-   "pub": "Sun, 20 Sep 2026 16:50:42 GMT"
-  },
-  {
-   "t": "Iran stellt Bedingungen für Hormus-Öffnung + USA warnen vor Eskalation - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnBKYjBicm51VjdrSXA2MEhqbzZFZVRlYnY1VjlOcEFtSjUtS2hxdmsxOG5yWkhqcEFaNERLWk9FWjJ2Z3JSb3IxZmgxUnpNSXJwZGVmUkVoU00xYmU4VGx1VVZDc014bVFncGxaWUNHUUFSaWJOUFFsMXVJTjhYWV9qMWhUZTVyQ2wwZUFQSzFkVnZfVFJvZTROTUhqZTRFNnJ6Qkl0V2FIZmk1WUlUSWNiQmdxdWpySkUwMzY5SGNmRnJXd3c?oc=5",
-   "pub": "Mon, 21 Sep 2026 03:08:45 GMT"
-  },
-  {
-   "t": "Irans Militär richtet Drohungen an USA und deren Verbündete - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDR5UWlNSk5Bb2VfYkVaWU05WG4tSm9MZzhzQmFNbENZaEsxSXRjMmhLZ0JKdndVbTJFa3NnNU1FTGViQ3lsM1FNemMzSGxsNnIycXN4M3hWTHZSOXhub2xBWnJ6Zjk2cnRXMDRNT19KNEFpZ1VlbXNIbUlNLVlCQXZQS2pldjJBc3k3Rk5HOXpoNW9NRzliV2lNeFAyem1CSWthbFVyZw?oc=5",
-   "pub": "Sun, 20 Sep 2026 14:29:12 GMT"
-  },
-  {
-   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQWYyRUpveGpWNzNSUW8tSWd4aUZhZUgyX3p4dHVmeFJCbkdDRW9Da1Q1eVBTS2ctVnVPd2t0dXJiQlpuMXQ5OFhJdm9kSDF1VnJyOUJNU0FFcXMzMVNIaHlySWRtRzdYanBtakZEemRaelZFVGM2WjZiaEtyc3p1RFRWX3k1bEFTZWllWHl1bVZGWmlFdjNzOFRxTGdUS2JreG5yUVdoWjBFNTFVOW5RbjRlRl9oVlBGYTFZNkpGSQ?oc=5",
-   "pub": "Mon, 21 Sep 2026 02:45:00 GMT"
-  },
-  {
-   "t": "Nach vier Flügen ist mysteriöse Iran-Belarus-Verbindung rum - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeHVEVm1OUE9icnd6VUY5WGVrb0NuMkNhc2p3TWZmSXVlcTl0djd1R2RjV2JUY2pNclVGUG9NSmpsSmotTldka2xVVlc4UHpXNFZvNmFNckk4OWpYUmFVdW9JREtzQ1pJSndHVDVwYWlPV2RFNGRWMkl2Y2dZTGhweTQxZkhIeXFqb0ZnWjdJTWhmR3hwZ2FtYjdib0RVclFoTkdlQlhtMkdMeEVUWGhGN1IyN2F4TGtkc1ItbGVTcGlOTXo2SlcwRkQtV296X1l3bVhmZFdZT1FEREtiUHJKdm9hMG5kUFJaRjBz?oc=5",
-   "pub": "Mon, 21 Sep 2026 05:48:00 GMT"
-  },
-  {
-   "t": "Iran: Amnesty benennt 87 mutmaßlich Verantwortliche für Völkerrechtsverbrechen - Amnesty International",
+   "t": "Iran: Amnesty benennt 87 mutmaßlich Verantwortliche für Völkerrechtsverbrechen - amnesty.de",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZURCY1hZVXVMWlI2SEw0Y0xHQTZJZEVMai1ndnNlX3BjS24wQXFzMThkYkxmZ0p5bV81UENjMUZYbDdnam5vM2I0aVJuU1ZKYV9EUTJtaVZYS3VWeWZIWUNHck9hZWdlYVM4d0dQQlFoMjdzVl8yNG1zOUNRSVdjSVF2cUlCUTMyd3NvVzd3VGJqR09EWXBRTUxfVjVEdEp0LUxDendRUHN3VDk3S3U3Zm1DeG03aDZ0aEZNWFJVaUdvS3ZtN2xXNQ?oc=5",
    "pub": "Wed, 16 Sep 2026 09:00:00 GMT"
   },
   {
-   "t": "Iran vollstreckt Todesurteil gegen angeblichen Mossad-Spion - dw.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhZWkttLTE3QUxJbHlkVGpySFBjVGcwZjlFVkdYTVQwMUFaU0Z1WlNIVnZyUzI2S2pVUHg0Qk1naWZJOVBJM0ozck1XSURIbGFRSkVTWTlmelk2aWxQREZfQk9CSnNyc1dxRDhQTG1NTG9ORnRBUWhBbWhUQm5FOG9tdjQzQ1Bob1RRcDJQUG5NRE1ucHNoMVlsQ2Z4RkMzUnpPTHV6TEl4Mjd6NV9r0gGvAUFVX3lxTE9lRWFTblVCRXAxal9SaTZXOTMyS3l3Znk3RlF5V090MFJkSW9RaWREQVBLUFZtdXJfR0pzZ1pvYlpONkp0elNTTzZkQ3FmaGh0aGNpNENhWG9PaHdxNUhOUVptcXVERmlhSjhWRnNNUUxCMU1CbUJ2bm5lc3hoMkljaGVGZHZVX3R3bVpWdW4xbnAyclAxOURSamJ0LUdNVi00RnNHRjEwdEdIenltaGs?oc=5",
-   "pub": "Sat, 19 Sep 2026 09:40:45 GMT"
-  },
-  {
-   "t": "Im niederländischen Groesbeek: Ausstellung im Freiheitsmuseum widmet sich Frauenprotesten im Iran - rp-online.de",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNejhlRGEyNTI1YkJuSTM0ZE9lT1lHT1VLVkIzTFlLVnZxLW5sUGVJYVIwMkFySXpWb1dXVzVVWlBYLTVKU21FMk9ZclRkbXVDeE52Vmp4ZUlhUDRJODR2alRJei1TbFFYVzcyYW5jdzJadXBLOVl2UEpzYmFkSlNCNWI2cGxVMWNNMF8zYjNITVpjQXRZOGE0US1vVHFVOVlaQjItbWlJeEJQMjF0LWNTNkh4MEFraXRXWjBIRXE2UVU1T3Npc2haTEgtTHlVMFRiWE5Ray1xRWwzemRX?oc=5",
-   "pub": "Mon, 21 Sep 2026 03:21:00 GMT"
+   "t": "Iran sollte wohl Flugzeugteile für Russland bauen - airliners.de",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQm5sbkRYSjRQQzVzaDhicVVaOWlRZWpCakE4Skw3RkhZRXkxMFFKWDM2Z2FUenRnNG9xZExvazVKRVJSbnpyQ3ZoZVFTVlcyZ0pTdlN5VWlPWTA0bHZNcW5IVXRDbTZBNmZydWx1US0tdw?oc=5",
+   "pub": "Mon, 21 Sep 2026 10:02:30 GMT"
   }
  ]
 }
