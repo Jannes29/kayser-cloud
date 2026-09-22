@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-09-21T23:17:58Z",
+ "collected_at": "2026-09-22T04:59:14Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8209,
-   "chg1d_pct": -0.22
+   "price": 0.82,
+   "chg1d_pct": -0.32
   },
   "USDJPY": {
-   "price": 157.353,
-   "chg1d_pct": 0.2
+   "price": 157.456,
+   "chg1d_pct": 0.26
   },
   "GBPCAD": {
-   "price": 1.8761,
-   "chg1d_pct": 0.15
+   "price": 1.8773,
+   "chg1d_pct": 0.21
   },
   "AUDJPY": {
-   "price": 112.018,
-   "chg1d_pct": 0.16
+   "price": 112.127,
+   "chg1d_pct": 0.26
   },
   "EURUSD": {
-   "price": 1.1468,
-   "chg1d_pct": -0.1
+   "price": 1.1481,
+   "chg1d_pct": 0.01
   },
   "GBPCHF": {
-   "price": 1.0975,
-   "chg1d_pct": -0.35
+   "price": 1.0977,
+   "chg1d_pct": -0.34
   },
   "WTI": {
-   "price": 92.09,
-   "chg1d_pct": -8.19
+   "price": 93.37,
+   "chg1d_pct": -2.52
   },
   "BRENT": {
-   "price": 96.12,
-   "chg1d_pct": -7.46
+   "price": 97.43,
+   "chg1d_pct": -2.9
   },
   "GOLD": {
-   "price": 4401.2,
-   "chg1d_pct": -0.54
+   "price": 4375.9,
+   "chg1d_pct": -0.18
   },
   "SPX_FUT": {
-   "price": 7835.75,
-   "chg1d_pct": 2.33
+   "price": 7834.25,
+   "chg1d_pct": 0.01
   },
   "NAS_FUT": {
-   "price": 30836.0,
-   "chg1d_pct": 4.13
+   "price": 30822.0,
+   "chg1d_pct": 0.12
   }
  },
  "headlines": [
   {
    "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
-   "pub": "Mon, 21 Sep 2026 23:10:35 GMT"
+   "pub": "Tue, 22 Sep 2026 04:30:59 GMT"
   },
   {
    "t": "USA und Iran drohen einander, Angst vor erneutem Krieg wächst - Euronews.com",
@@ -64,24 +64,29 @@
    "pub": "Mon, 21 Sep 2026 10:09:00 GMT"
   },
   {
-   "t": "Huthi sperren das Rote Meer, Patriots sind halb verbraucht: Trumps Iran-Abenteuer rächt sich bitter - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbS1adVVONlVTUWt4WmFjSkRFTjdVRUlXZ3kxUDZDRmJvMjU3bjRVLUY5VEhsX0tuVVpqWnFBZEJvTTdISlN6aUhicWdHWC1XNEhsRi1BNHB0VXd6YlNPU0tHQjdqUW1SeHZKb2hsblA1TC1sZlY4S1E2TE4wOUZCZHZOT3MzVGV2Q0tTT1BKVmptZ3haVkRJOUt0U1lMd2N1TWthQ0I4RWJVMnRUb1hBNWpxUkQ1dTd5Y2htRE1wTEY1bHpNZlNYWlByQ0lUN1ZEVDdldkNZSHY?oc=5",
-   "pub": "Mon, 21 Sep 2026 17:13:08 GMT"
-  },
-  {
    "t": "Trump vor Entscheidung über Iran: „Wann sprenge ich das ganze Land in die Luft?“ - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelR3dzJ3RTNWNEZCS3NMamV0U2szazFnNnpNanByVG9KdnZUR0ZWMGZibmVCRkljYkR1NlpfOTJmZjdtalk1eHhKWGYtZE9ZLU5pT0IzamwzQ3RWdWg0eVNJVTd0NFMwY0JRZ0FaZC1yZXJSY2UwMjh0SUppNnFkT1RncWNadHFzeWY4NUxpZkRjQVRX?oc=5",
    "pub": "Mon, 21 Sep 2026 14:47:13 GMT"
   },
   {
-   "t": "China knüpft sich den Iran vor: Pfeift die Huthis zurück! - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1Zqa29OT1J0OW5GSlVuMVZkbm5QMDhqMmQwNmM2N1dpcGdSM096czVBRi1zUnMxQk1Ec3h5NU83TTBMcEhkblVyNzl6RmVqcHRiT0s3WVI2eVBUUlZCNGdxUlFMdmd1SGt6cU1DVXBvTE1KNjFXYzJjckVIWVEyZUVSa1ZpNTZxcUJ3RGlwT0lTNzlrUXVMZklDaklMVVdIV2NyT2llempUWmpiUnVIcHVIY0g3eEJUWjhuQnAzM3E?oc=5",
-   "pub": "Mon, 21 Sep 2026 18:01:00 GMT"
+   "t": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUU5LVJ2dzhKSUpYaHI3bjJYdDdndTh2YXh6U1c4OTZUN0JfYmJ2WkhTc3dfYzNPd1cwSTlVNkdlNTFWWGV3Vk9md1lFa3J1bmhRd00yOFVGVzhNMy1wZmNQWGlhSFJqX0ZoMVdPRHI5NDFHR2x6allzMGpxQWxjZUZvSmJTOVA1U0lCd1lYQjZuTmpK?oc=5",
+   "pub": "Sat, 19 Sep 2026 18:32:02 GMT"
   },
   {
-   "t": "Hoffnungsschimmer im Iran-Krieg: Jetzt bietet sich eine Chance für Diplomatie - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTC0zaDU0S0xrVFFoemc2czEwU3JhM0tRU25Nams4TUNJSWhvODJ1TnJ0cVdXdkJjeC1GWDA5X3VDc280c2dONnJqaWVHc1p5WnlPcFZpRTNsa0g3Z1IxV0trck96SEZ6UjBLUzkzeU1MQXZHYUYyTnYtWndYS2ljSS1VNFJVSDJpNFBiZ25QcUYtb0YyVWJBcVFFcHI4VDIydFZ2d1JObTJSaWNmR3l2QUZRdjJuWmEyMi16ZWxJQi1pUi1JODRfUQ?oc=5",
-   "pub": "Mon, 21 Sep 2026 10:00:00 GMT"
+   "t": "Huthi sperren das Rote Meer, Patriots sind halb verbraucht: Trumps Iran-Abenteuer rächt sich bitter - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1dTRmc1Vm9yTHlDWm50VmdPZWhvQzVZQXhxVU1zUGxGS2h4Y2h5aXBSVDRmNHV5WTZaLUVDMlZDZUZkVkxMNlZ5S00yZXhzbmpWWEZKa01XbGVxbm1wVm1VZkRYck5qdE5jaXFVYnJtbkk3Z1JmbGZkaVFYeDdyQVgxMGI3QmtnQk9LaUVGZnBEcDhSZEpmQnJ3bFVQTFVrejNWLTczNHlITnR3M1BoWmd0dmVOWXRza2xHem5ST0RBcWNmeWZjN3hWV00xcjBOWlhneWpaYzU?oc=5",
+   "pub": "Tue, 22 Sep 2026 02:46:00 GMT"
+  },
+  {
+   "t": "Wall Street hofft auf Iran-Deal: Fallender Ölpreis sorgt für Erleichterungsrally - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3FOVGZ3SVJ6RU9HekVRclc0Y3l6UlItNWNXMzhyVGprZUlFMmFDOUd0SzlBQlNVZVFPT2R3bk5VNFpmY2U2ZkxPTVhrbmdlaHBBUWV3M3hZOHZfTjhSeVMxOENmNF82OEF5eXY4Q0JMeHJNUXpkWVBya3NEcXloVzZWblkwMmZnNWZNYkw2WHd6eWFicE0zYV8wVEk?oc=5",
+   "pub": "Tue, 22 Sep 2026 03:55:58 GMT"
+  },
+  {
+   "t": "China knüpft sich den Iran vor: Pfeift die Huthis zurück! - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1Zqa29OT1J0OW5GSlVuMVZkbm5QMDhqMmQwNmM2N1dpcGdSM096czVBRi1zUnMxQk1Ec3h5NU83TTBMcEhkblVyNzl6RmVqcHRiT0s3WVI2eVBUUlZCNGdxUlFMdmd1SGt6cU1DVXBvTE1KNjFXYzJjckVIWVEyZUVSa1ZpNTZxcUJ3RGlwT0lTNzlrUXVMZklDaklMVVdIV2NyT2llempUWmpiUnVIcHVIY0g3eEJUWjhuQnAzM3E?oc=5",
+   "pub": "Mon, 21 Sep 2026 18:04:10 GMT"
   },
   {
    "t": "Kampfsportler (21): Nach Protesten im Iran starb er trotz 30 Operationen - BILD",
@@ -89,24 +94,19 @@
    "pub": "Mon, 21 Sep 2026 14:09:58 GMT"
   },
   {
-   "t": "Iran-Krieg: Erneut Tanker in Straße von Hormus getroffen - Konflikte, Krisen,Frachtschiffe | News - TRANSPORT - die Zeitung für den Güterverkehr",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWluLURySVJIb2N0S29BVzY2QS1EUEQ2dnFLUE5uMFhMRGs2SzdVT0Z5VWtVdjgwcnZNQnVwa0dzTnQwZEROS3pWVGYwcFRPQXRZUDZaVmhldjlXYmxTRDFZeC1OT1RKbjdRaFhLZmx6SE1BaFlGOWJmb1FCQVdkeFZQWGlXTTJoUjVIbmN3em9saUpjYzJCVTF6RExrbTQ?oc=5",
-   "pub": "Mon, 21 Sep 2026 09:54:00 GMT"
-  },
-  {
-   "t": "Iran will Rahmenabkommen mit USA wiederbeleben – Teheran stellt drei Bedingungen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUjc0eFBnNXVMZ1ZsQ2Zlc2prSFhpQjR4TGdZZWxGWVhhd24ybGcxeHh5WHBTbndKR3lRazhwVWlna3BjbmtVR3dFcHMwTEZydnFzWHkwMjdUUDR4dEowZTNTV1FkRXFwY0JDdTQ1LUg5R1lkcEY1dXc4ejF6OUdieFN6UnMtRk5lT2U3ODhaWWFoSldSeTFhUnRHQWMzYk01b3d2d3p0N0hzbU9YeDJuTmVjNVNiU3dtdjBsdEJQbw?oc=5",
-   "pub": "Mon, 21 Sep 2026 06:35:00 GMT"
+   "t": "Iran-Krieg und Grönland-Abkommen: Trumps Agenda in New York - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnc3ejJsdGRldnpvc2c5UG9ZbWtaTFp2S3NnNXNiZXBkYWU4YjVMQXNBdlpmUkhpdzd5OEtuUE5xakxDekhiTm9OVWNLVnk1dTNmQkhwZW93XzZrZFFaUDUtWG5PVjJyU1RlbWFfNzZ0NDZWRGJSbjRBTkx5R3ZSc2tMeE1CeVRpY0xFYlFuMnd1U0pxTzFCR3ViaWtCYWUxMkU0MWVULUlxZ2M1Zl9FUk85ZmNDZ1hYTzZXdEZn?oc=5",
+   "pub": "Tue, 22 Sep 2026 03:08:10 GMT"
   },
   {
    "t": "Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHliOUo2NEtkdHdfOW1rWlhJRnhjWVl0MzdGeWFaTGp3TjZYLU5KbmpOcXktWVJpRVZwWTlVUE53MFA4bGxwNHNId3VDU0NPZDBOeUxVSGFJLVJpcXM4dDRidUxPZVp4dFlPdmVfdEJkZzFTOUlFcXh3WFIzNmVxQ0VYRDRqcFowcHV3ZHg2OXhDbjhodUt5dmcyQktldDFzYkJkVUY3VkpuTVY1dXY0ZWpaNWk4TXZlMzlrVUhnWkdiZ1NqVUJtSUtiWFQyN1lxU2hmeHF3?oc=5",
-   "pub": "Mon, 21 Sep 2026 20:35:47 GMT"
+   "pub": "Tue, 22 Sep 2026 02:40:35 GMT"
   },
   {
-   "t": "Iran: Wirtschaft schrumpft drastisch und der Ölpreis steigt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN19IRTdUSl91TEZjZWNjbUR4RU1LSEd2VEpWXzJlVXIwdkRrTWE5OG9CR3hIbm1XZmtBOWxENF9ZZnk5bHZzMDRBcWpseHA0bTZEQTFocVdILTRySF9tcG94TFQ5ZWdOb1dYOTk1aVNHdjFMNzJhR2Y0bU1iS3N6V0JKR3Q5a0FDZHVKLV9ISUt3SmhQZDF0dy1qQ3VkSE5aNVJNZVk0eUJ2N19PQ2RLQlNGSHZaZzR4Y1RycVp6X0xUOFZuN1VYX0pkWDV6TWJyZldmQUdSTkxiTEo5UlE?oc=5",
-   "pub": "Mon, 21 Sep 2026 00:53:00 GMT"
+   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2oyLXlfb2Vfb0xBaUxhU2VUYjUxRlFSQlk1eVI4SXNUX2cxZEQzREtwTV9nd1VGRTZQbmFYcUNjWnRXMDMzaDF2OGdZMXRfNWdtUHV2M1lrMUZjN19mNHk2ZGRCWFQ4OHp3RlJUOWJOcDV5NnB0T1EzMnU3TTRueUxlSVhxblBrT2lyaW45MWd5YzhwTTNRSnpqZGZBd1laaXhIY3NZTlk3Y2NFLUlvdS1adWtGcDVPM3B4bXBKSQ?oc=5",
+   "pub": "Tue, 22 Sep 2026 02:45:00 GMT"
   }
  ]
 }
