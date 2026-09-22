@@ -1,57 +1,72 @@
 {
- "collected_at": "2026-09-22T14:56:11Z",
+ "collected_at": "2026-09-22T18:56:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8209,
-   "chg1d_pct": -0.22
+   "price": 0.8213,
+   "chg1d_pct": -0.17
   },
   "USDJPY": {
-   "price": 157.294,
-   "chg1d_pct": 0.16
+   "price": 157.505,
+   "chg1d_pct": 0.29
   },
   "GBPCAD": {
-   "price": 1.8771,
-   "chg1d_pct": 0.2
+   "price": 1.8756,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 111.751,
-   "chg1d_pct": -0.08
+   "price": 112.008,
+   "chg1d_pct": 0.15
   },
   "EURUSD": {
-   "price": 1.1446,
-   "chg1d_pct": -0.29
+   "price": 1.1444,
+   "chg1d_pct": -0.31
   },
   "GBPCHF": {
-   "price": 1.0956,
-   "chg1d_pct": -0.53
+   "price": 1.0949,
+   "chg1d_pct": -0.59
   },
   "WTI": {
-   "price": 91.55,
-   "chg1d_pct": -4.42
+   "price": 90.62,
+   "chg1d_pct": -5.39
   },
   "BRENT": {
-   "price": 100.3,
-   "chg1d_pct": -0.04
+   "price": 99.41,
+   "chg1d_pct": -0.93
   },
   "GOLD": {
-   "price": 4355.4,
-   "chg1d_pct": -0.65
+   "price": 4390.3,
+   "chg1d_pct": 0.15
   },
   "SPX_FUT": {
-   "price": 7827.25,
-   "chg1d_pct": -0.08
+   "price": 7838.0,
+   "chg1d_pct": 0.06
   },
   "NAS_FUT": {
-   "price": 30899.0,
-   "chg1d_pct": 0.37
+   "price": 30986.25,
+   "chg1d_pct": 0.65
   }
  },
  "headlines": [
   {
+   "t": "UNO-Generaldebatte - Trump rechtfertigt den Krieg gegen den Iran - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEd5Q2x0ejBneS1RT3RoMDg3aEpFc3R2dDdRMl9pbjNyUER2Rm5BeTk4dUdSeF9kNG40N2p2bzkwN01XazJsaVpTOXVIc3d2R2s1Z2xKRENmdS11ZTNEbWFtU1Iybkt1V3dOMXJBVWE5eDN2QUw3aVMzWXJPQTRDTFhiMkZLaS0tNi04?oc=5",
+   "pub": "Tue, 22 Sep 2026 15:04:54 GMT"
+  },
+  {
+   "t": "UN-Generaldebatte: Donald Trump hält Abkommen mit Iran nach Zwischenwahlen für möglich - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObG1MWm9xZUVjRmFDVGE2RmtfWHdhVWpTRUlrd3FjYjR2dDZiSjhlRTNabmZBRTlOQ05HU1dlWjRndUZsR2xKZHpEZUROQkc4YVBVdFR5YThwU05yakNvcFZ4VDhreS0tbnFjMDhVQ2Z0bEYwTlctZkxRYXRJNXFNS3lTQ1dPbVZsZUNXVUpfWnhmR2gtVEZoNVhib2REY2VXc1NJQzhucGxYX09MQzcxYw?oc=5",
+   "pub": "Tue, 22 Sep 2026 18:08:13 GMT"
+  },
+  {
+   "t": "Trump zu Iran: \"Soll ich sie in die Hölle schicken?\" - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjBDVEozVVh5NHNjZ1Noa3k0Vjgtb05GcGxpZWZ1bmZ3bV9uWXQtd19reWRkcEdubjd2cEFBUDhVNEZlWndfY1VMZ1V3bXFsUEJLZ2l1SDlXTldtWVVZS3dfcFlFY085ek01MmpyVGdQcGJSLWdZWloyaDlLcU5MWkVkeHd1MnVtVDRnTEwyYTllVnRP?oc=5",
+   "pub": "Tue, 22 Sep 2026 16:17:00 GMT"
+  },
+  {
    "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
-   "pub": "Tue, 22 Sep 2026 12:40:36 GMT"
+   "pub": "Tue, 22 Sep 2026 17:19:31 GMT"
   },
   {
    "t": "Die Hilfsorganisation berichtet schockiert, ihr Gründer sei im Iran verurteilt worden - SWR",
@@ -59,14 +74,24 @@
    "pub": "Tue, 22 Sep 2026 10:35:18 GMT"
   },
   {
+   "t": "UN-Generaldebatte: Trump verteidigt Iran-Krieg und droht Teheran - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkdSRkxaeXIxaEZiT0tHZ1lTSlgwUmhFUkFVeDhXbkRCOGZEeHNiRXdtRGFBb2ZwcGRES1pGZGJhVHlXSThvMWFCbkpINWxkUEd3MF9NV0p5eE4weFJtb1paLUUzdXNLT3FZNjlVc0VFWGZMT0p4V1hGc2xBNU1ER1VaLW0xTlhGUkxzWlZ6X0tyTHY3LUcwVTJLZzJPZFdhSTB0Rzk1Y20xSFhRUXpLUll5V2Y?oc=5",
+   "pub": "Tue, 22 Sep 2026 16:16:00 GMT"
+  },
+  {
+   "t": "Trump droht Iran mit „Hölle ohne Überlebenschance“ - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2xtd2Jzd2o5dGNCLU9TVUhPcXlIMkMyZHkzQUNwQk5UT1RmeFoya1dRRjUtTVB5Q1V3bFhrLWQxelE2VEFtZ0ZKRE1uNkxvaHNITG9abU10R2ZlQno1YUdTOGQyZWd6QmY3RjhmR3ZpS1pmcFN5V25UaUVqNGQtT3M2TzlNWkkwbExtYkRONmtlZnh5QnZJMjFsel9DTk1CVFYtSHI1VG5zeTZhaF9tbEdjOE9ydVJhNWNFWVN6aHBZd0k?oc=5",
+   "pub": "Tue, 22 Sep 2026 16:04:00 GMT"
+  },
+  {
+   "t": "Neuer Vorstoß: Iran bietet Öffnung der Straße von Hormus binnen sieben Tagen an - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaW1BRTR0cE5ESEtvV21zdGk1VjFoQlBsM0NpamJGanlWY29vZDhHY19Bbzh2OThPdjBUMGlOdDUyTEZKOWhTNUd3ekg2N3hnRkdWZ2psZ3hkLWpQNTdjc3VMeEJla2JtMy1iV3d3azJ2aS1ySm9tUmlwX0M0Nng4THRhX2E1TFhxQU5fbjdVWEdoTzdtVUtSRjBUQ21QOUJZMTNZWXFjRk9pM1RmQUpPMndMaEplQQ?oc=5",
+   "pub": "Tue, 22 Sep 2026 11:47:45 GMT"
+  },
+  {
    "t": "Iran beschlagnahmt Vermögen von Hunderten Regierungsgegnern - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXRGbm9pSE9lajVxR09KSmR4SkpGWEZVWjZTM01kbnlLcHZhTEkyZThYVWlTMU5Da0JyX1BqODd3ZXlKVWNvQmJTVVFNXzVsdHl2cXVKVjNDZWhnNno0b3JsSzNyLUsxc3JqX21NdEtOenVLeHA5cjdINV9XZDdGYkVWaXVsN09wSjBHampPZGRuMFdZNWlHbXl0dnE4aFYya2hTWUtGUWttYjNmRmYxWl9FYVpYQkxHV3NyZDA2aHFKZFJMdVlWMkdB?oc=5",
    "pub": "Tue, 22 Sep 2026 09:01:00 GMT"
-  },
-  {
-   "t": "Iran: Iran beschlagnahmt Vermögen von Hunderten Regierungsgegnern - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazlKZEV3TmtFVzJYSUo3M1hoenQtREhYazNfbm9KRlhFZEpleXlJeW1wbjJFSFZWcksxa2I1VUJKbXRkZ19hWTVldzRPeDBDTUFfcWZ6dkpFRkVEWWJEZnQ1QWo4eFA2ckFTNTB3aFlhV3NNY3Rxejd2SmY1VGJ5eEFzLW82ZkMtUURxRzVGdVJDdFg4NnNtS2FyQUpUMGdramE2cDlhaw?oc=5",
-   "pub": "Tue, 22 Sep 2026 08:51:38 GMT"
   },
   {
    "t": "Iran-Krieg: Die schwierige Suche nach einem Ausweg - dw.com",
@@ -74,39 +99,14 @@
    "pub": "Tue, 22 Sep 2026 10:26:21 GMT"
   },
   {
-   "t": "USA und Iran drohen einander, Angst vor erneutem Krieg wächst - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Rkx0OWQ4UEg0MHloM1Zsa3pOU1VDSTlYNnpuc20teTZBQmVGeC1TaG5FdXM2Q1JXWFQ4d1BUc3hPU2xGbjlodmhCQ3JlVGk3emJMaWJQanFvYlhWMHZNSUxyeTBISlg5bnVJZm9PQTI3cXJfUG9ETw?oc=5",
-   "pub": "Mon, 21 Sep 2026 17:56:49 GMT"
+   "t": "Donald Trump droht Iran bei Rede in UN-Generalversammlung mit „Auslöschung“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNEJiSFlscmpmMUUxQXczLXdDRFMyMjZnVDdRLURJYkt1NlQ1WHFUdTdZeUpMdFh5UzNpMzNPa3NWYVZsV1hFR1Y1UFFDRnZMXzh6VHBVQnM2NWJkS0FsNzA0bG4wZFhNc1dIRjN0dS1zN1k3eFRtcXlfMmRzWlJaUEpjeHBMQUZib2hONXhtMlR3bWotSk9xdU1KQ2hIVXpDOVFHaWpnUy16OWlGNkw4bDZCS3VVSWxoTExPZGt6QlhBQWl2VGJPYlp5RGR1UDY4OE9BWTVtZ29vTXUtY0xURg?oc=5",
+   "pub": "Tue, 22 Sep 2026 16:13:35 GMT"
   },
   {
-   "t": "Energie: Ölpreise fallen weiter – Iran signalisiert offenbar Verhandlungsbereitschaft - wiwo.de",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNFE2eFd1TXViUUE5aHItM2U5bkFYQ0hobmJiNXp2cm55TDlqSHZEaGZ2SFNIakZHVll4R0JfeDVoSnM4M3BnWlNlUU1yMUZRUjhENnh2WUgzTEVVYjd4c0FBUjZaTHRZY0pJLXdPdWZUU2J0amotLThGMXBYM3VMUVBILUNTTnBXR2dwVFNKaGJZdHROSHhhbmtXYmt2ZG5PV19yQTJjazNFaHBTR2lmVnFjM01fOTRYdzRQYUVyODJVX0REOFQzWU93Vm9FZk0?oc=5",
-   "pub": "Tue, 22 Sep 2026 10:05:00 GMT"
-  },
-  {
-   "t": "UN-Generaldebatte startet heute mit Trump-Rede: Iran-Krieg überschattet Auftritt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTZBUEFSR0NRX3BvZ1dUWTZrZXhOSmM2ZVVWZHZwNUxzbWtKYVlQN2JqZFd5bXkzekZ0RFptS2pzeThmYksyc0hXZHNwVlV5dmRpN1o2bUF6TURDZUh4czRSdF8tajN4R001RDZfT0ZneDVxUTU1ck94ZDZjeXk3Rjc5QXN3SFBLNk41ZlQ3WjBCclZ2RFU4ZA?oc=5",
-   "pub": "Tue, 22 Sep 2026 13:30:27 GMT"
-  },
-  {
-   "t": "Brent Ölpreis gibt nach: Bringt Iran-Vorstoß die Wende im Ölmarkt? - XTB",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOTkVQcmhDaWZqRVotcV9abXRiRlB6RzUxZUx2bDYyaWhHZ3phUmsxRllpLUdSRE4yblZtUWFtRVlBbGppcUVfdXZ0VjY5Zm1xWUN3SGpHYXViRXZjU1VwRmx5UU9RQXl1OTJrU2FEcjcwX2I1el9UVEFBd3A0VUh6NW12RF9IdXEyd0hlUDdFQ2JSc3J6Y1RYMjU1TmpGNWcxcXNjeG96ZW94cVVWUE5GYjBWRW52MVlIaDBEeDdTLXNvYUR6TlVRQzhpWHRjQ3p2SGtjS2FTeFZkN2t6TXp6SWp5bVRtSi1xSjM4MjByWUtVQlplQl8zR0lXVnF1bms0UTlWRU9wdWM?oc=5",
-   "pub": "Tue, 22 Sep 2026 10:46:00 GMT"
-  },
-  {
-   "t": "Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHliOUo2NEtkdHdfOW1rWlhJRnhjWVl0MzdGeWFaTGp3TjZYLU5KbmpOcXktWVJpRVZwWTlVUE53MFA4bGxwNHNId3VDU0NPZDBOeUxVSGFJLVJpcXM4dDRidUxPZVp4dFlPdmVfdEJkZzFTOUlFcXh3WFIzNmVxQ0VYRDRqcFowcHV3ZHg2OXhDbjhodUt5dmcyQktldDFzYkJkVUY3VkpuTVY1dXY0ZWpaNWk4TXZlMzlrVUhnWkdiZ1NqVUJtSUtiWFQyN1lxU2hmeHF3?oc=5",
-   "pub": "Tue, 22 Sep 2026 13:48:27 GMT"
-  },
-  {
-   "t": "UN-Generaldebatte: Donald Trump hält Abkommen mit Iran nach Zwischenwahlen für möglich - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXJBbnZHZjJuT3JVb0k0RGxLM082dUdab192TmotbDRZYjl2Y3FOYUFtQ1ZTbHV1c1J4bEZjUXhoYWx3eWx0YkxrUTNodEhfMmdhRnNXNHFtMWVuQ3pLLXNHbDBYeVFMZ1BxOU9sbS1MYlFKX3Y3U0lrV0tVMkRGckRyTndmUUtIRXZzdW15Nkd2RDRCM1U0MEt6YnhPYndhcFB6RW80X2MwU1E?oc=5",
-   "pub": "Tue, 22 Sep 2026 14:52:09 GMT"
-  },
-  {
-   "t": "Iran-Krieg und Grönland-Abkommen: Trumps Agenda bei der UN-Generaldebatte - wiwo.de",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFMwS2pzZTBZbVdVbml1MnZILVljMXFVXzd0YUFsQnFOSVAxY0pYcmNwU0RCakRUUzhqZWRnZEcweUNsU2toS0lRdW15VHhZSnZTaDFiejVjZUVJV3pHaUh5NGp4VmtVaHVzUl9zbm8tQkJYOTNfQ2hqMFNuWHJLZGRKNFNXbERXZEhGMVRteVM5S2d6Q3ZEVG01VVJPQ0kxVjNUdFlHc2VkV3QtN2pqZWZVMENEMUFZSlZfNjJwSTNLZw?oc=5",
-   "pub": "Tue, 22 Sep 2026 06:23:00 GMT"
+   "t": "Guterres kritisiert bei UN-Abschiedsrede Iran-Krieg - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT1JqZHlKMUd1LUN1bUp2cWY1SExvM1ZQeGRRc3BleHU2dkZVTG9iQ3BvdWVIa1hGLVVoVUNaRXBiTk45NEl3ZER5V2FJXzdZTTdaalNtVHNtWW5FUlhBOGl4TUdWenMtNWJyU29ZTnV0RXA3SENlcVlBOEF4TFFQdXVJZjRldWw2OEliSUU5dnJtT3VKRW1nNUNJcmRJMVhrUXBfTQ?oc=5",
+   "pub": "Tue, 22 Sep 2026 15:11:00 GMT"
   }
  ]
 }
