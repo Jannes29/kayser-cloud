@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-09-22T04:59:14Z",
+ "collected_at": "2026-09-22T09:59:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.82,
-   "chg1d_pct": -0.32
+   "price": 0.8189,
+   "chg1d_pct": -0.46
   },
   "USDJPY": {
-   "price": 157.456,
-   "chg1d_pct": 0.26
+   "price": 156.871,
+   "chg1d_pct": -0.11
   },
   "GBPCAD": {
-   "price": 1.8773,
-   "chg1d_pct": 0.21
+   "price": 1.8757,
+   "chg1d_pct": 0.13
   },
   "AUDJPY": {
-   "price": 112.127,
-   "chg1d_pct": 0.26
+   "price": 111.668,
+   "chg1d_pct": -0.15
   },
   "EURUSD": {
-   "price": 1.1481,
-   "chg1d_pct": 0.01
+   "price": 1.1469,
+   "chg1d_pct": -0.09
   },
   "GBPCHF": {
-   "price": 1.0977,
-   "chg1d_pct": -0.34
+   "price": 1.095,
+   "chg1d_pct": -0.58
   },
   "WTI": {
-   "price": 93.37,
-   "chg1d_pct": -2.52
+   "price": 90.42,
+   "chg1d_pct": -5.6
   },
   "BRENT": {
-   "price": 97.43,
-   "chg1d_pct": -2.9
+   "price": 98.95,
+   "chg1d_pct": -1.39
   },
   "GOLD": {
-   "price": 4375.9,
-   "chg1d_pct": -0.18
+   "price": 4359.2,
+   "chg1d_pct": -0.56
   },
   "SPX_FUT": {
-   "price": 7834.25,
-   "chg1d_pct": 0.01
+   "price": 7831.75,
+   "chg1d_pct": -0.02
   },
   "NAS_FUT": {
-   "price": 30822.0,
-   "chg1d_pct": 0.12
+   "price": 30786.0,
+   "chg1d_pct": 0.0
   }
  },
  "headlines": [
   {
    "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
-   "pub": "Tue, 22 Sep 2026 04:30:59 GMT"
+   "pub": "Tue, 22 Sep 2026 08:10:36 GMT"
+  },
+  {
+   "t": "Iran beschlagnahmt Vermögen von Hunderten Regierungsgegnern - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcXRGbm9pSE9lajVxR09KSmR4SkpGWEZVWjZTM01kbnlLcHZhTEkyZThYVWlTMU5Da0JyX1BqODd3ZXlKVWNvQmJTVVFNXzVsdHl2cXVKVjNDZWhnNno0b3JsSzNyLUsxc3JqX21NdEtOenVLeHA5cjdINV9XZDdGYkVWaXVsN09wSjBHampPZGRuMFdZNWlHbXl0dnE4aFYya2hTWUtGUWttYjNmRmYxWl9FYVpYQkxHV3NyZDA2aHFKZFJMdVlWMkdB?oc=5",
+   "pub": "Tue, 22 Sep 2026 09:01:00 GMT"
   },
   {
    "t": "USA und Iran drohen einander, Angst vor erneutem Krieg wächst - Euronews.com",
@@ -59,14 +64,29 @@
    "pub": "Mon, 21 Sep 2026 17:56:49 GMT"
   },
   {
-   "t": "(S+) Iran: Warum Iranerinnen und Iraner nach Armenien fliehen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUJXcEpRblRGWWlsUWluZ3BpUk9DTUdZQlFTckFjakI5S3ZLVUVJeHg2YlhWcHNQNGRxQmJfb0kwT3g5cmtxTFZtaGhwZEVnUldnTU90TEw1SW5aWHhNVHNlZWtkcGJFSTlxbHBYMU1wNjBOY0ZqZnpzXzNFcEdnOXdtUDkxUVZZcGxjWjNjel9UV1dDY1pxUkR6bklab1R0a1FBUW9GRUNQVkNZUk1YSmltY3dTOFB2YVJuMk9nb3pPTkE?oc=5",
-   "pub": "Mon, 21 Sep 2026 10:09:00 GMT"
+   "t": "Iran: Iran beschlagnahmt Vermögen von Hunderten Regierungsgegnern - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYllWMU5pN3JpZ1MyMmNqalVFVXktWmZSLUNWUmVhRTF0clFySEU2bm03cFYwQkIwWXlKOFhiNVk5eC16S25TSTY3Mmt2V1RoTnBqUmctWExJVmhIbElkOXgtRVVXU043TTNWeTFtTkF6WXhfb3FnQnFWTEozRjFNSjN2cnFTdDBicmRxalZYdEx6MWlYWXluVWlYYTNCbWh4ZWc?oc=5",
+   "pub": "Tue, 22 Sep 2026 08:51:38 GMT"
   },
   {
-   "t": "Trump vor Entscheidung über Iran: „Wann sprenge ich das ganze Land in die Luft?“ - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelR3dzJ3RTNWNEZCS3NMamV0U2szazFnNnpNanByVG9KdnZUR0ZWMGZibmVCRkljYkR1NlpfOTJmZjdtalk1eHhKWGYtZE9ZLU5pT0IzamwzQ3RWdWg0eVNJVTd0NFMwY0JRZ0FaZC1yZXJSY2UwMjh0SUppNnFkT1RncWNadHFzeWY4NUxpZkRjQVRX?oc=5",
-   "pub": "Mon, 21 Sep 2026 14:47:13 GMT"
+   "t": "Trump fragt sich im Iran-Krieg, „ob und wann ich die gesamte Nation in die Luft sprenge?“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazhfUTBBalVEV1lkRWpxaHRGNHFFQVVHRkNfQmVNdlJBd2ZHbzVZMG94RXYwbUhRSFBXWDFlRG9tT1JJbm9oaTJGQXJHSkprS2lfNlVnMlVxN3NNRmRfY0NEV3pESzlKMnQ3eDdkYVFoUHp2QWRqRzYwak5ETG0tLUtUWmRXWGVETHJBTFZ5UWhPSWFKbm5zU0trWDRaMTdiTS1zeUxSMA?oc=5",
+   "pub": "Tue, 22 Sep 2026 07:44:58 GMT"
+  },
+  {
+   "t": "So zehren Iran-Krieg und Last-Minute-Trend am Tui-Gewinn - op-online.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU0yeVZ5aTVOOXlKWFZuU0FvRm1uTFVRMklHNGFDVHBfb01PeXFuNFd6U2FDWjlHS3NFNWVsbC05dGs4WjVaZ01BbWt3cldERXljX2hXT3pSc1VBS3BLS0pGZDJmTUdDQ1c2Mm5VNUtTdTFmLTFKbmRKRWk1SlA0cEg5ZThHQWN4U2FfNXY5cmxDRFJSTDFXbWQtZDVvNlVXUDg3X0ZhM21reXB3ckE?oc=5",
+   "pub": "Tue, 22 Sep 2026 07:40:28 GMT"
+  },
+  {
+   "t": "Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHliOUo2NEtkdHdfOW1rWlhJRnhjWVl0MzdGeWFaTGp3TjZYLU5KbmpOcXktWVJpRVZwWTlVUE53MFA4bGxwNHNId3VDU0NPZDBOeUxVSGFJLVJpcXM4dDRidUxPZVp4dFlPdmVfdEJkZzFTOUlFcXh3WFIzNmVxQ0VYRDRqcFowcHV3ZHg2OXhDbjhodUt5dmcyQktldDFzYkJkVUY3VkpuTVY1dXY0ZWpaNWk4TXZlMzlrVUhnWkdiZ1NqVUJtSUtiWFQyN1lxU2hmeHF3?oc=5",
+   "pub": "Tue, 22 Sep 2026 09:28:17 GMT"
+  },
+  {
+   "t": "Trump bei der UN-Generaldebatte: Iran und Grönland im Fokus - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0ZSUU9faUF3RXBXSGtiSHRvS2lhaUhxQTQzTGpQRkhubk9rS2VmdXJNSlZMTXVSTzdVbEtMcGZlMFBrZFd5ZEZiTmE0Ym13Qkd2T09IN0pEd1hGcmZFbExtYVdIX0dBelE3dUJoYmVtWk1ycXg0NnJZY3duVGQwdlMwbkJ5cVhTRWF4VTNpcXRhcHlfbFp0czVJMA?oc=5",
+   "pub": "Tue, 22 Sep 2026 06:26:09 GMT"
   },
   {
    "t": "Iran-Krieg: Signal aus Teheran: Iran will zurück zu Rahmenabkommen - DIE ZEIT",
@@ -74,39 +94,19 @@
    "pub": "Sat, 19 Sep 2026 18:32:02 GMT"
   },
   {
-   "t": "Huthi sperren das Rote Meer, Patriots sind halb verbraucht: Trumps Iran-Abenteuer rächt sich bitter - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb1dTRmc1Vm9yTHlDWm50VmdPZWhvQzVZQXhxVU1zUGxGS2h4Y2h5aXBSVDRmNHV5WTZaLUVDMlZDZUZkVkxMNlZ5S00yZXhzbmpWWEZKa01XbGVxbm1wVm1VZkRYck5qdE5jaXFVYnJtbkk3Z1JmbGZkaVFYeDdyQVgxMGI3QmtnQk9LaUVGZnBEcDhSZEpmQnJ3bFVQTFVrejNWLTczNHlITnR3M1BoWmd0dmVOWXRza2xHem5ST0RBcWNmeWZjN3hWV00xcjBOWlhneWpaYzU?oc=5",
-   "pub": "Tue, 22 Sep 2026 02:46:00 GMT"
+   "t": "Schulstart im Iran: Wie steigende Kosten Familien belasten - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTUtSTy1UTDBrb3QwYTkzTXI5eWhGdXB0RFRLc0Vib1VDbUZic29ydC12UnFnTzZMazZJQ1VBRkN6aTBoaHRCV0JBWlNnaFU0RUhfUG1yYk5Qb1Zlb1ZnMjBjRmhMM3Y1V3Jld1JUZkYzeF9jX01KVHo1VmhPOGxqcHVRWTRxbXNoS0lINkt1MHJVY0E4YmNpemY4V1hsRWNiU3djbHh3UFR3ZDU2?oc=5",
+   "pub": "Tue, 22 Sep 2026 05:00:32 GMT"
   },
   {
-   "t": "Wall Street hofft auf Iran-Deal: Fallender Ölpreis sorgt für Erleichterungsrally - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3FOVGZ3SVJ6RU9HekVRclc0Y3l6UlItNWNXMzhyVGprZUlFMmFDOUd0SzlBQlNVZVFPT2R3bk5VNFpmY2U2ZkxPTVhrbmdlaHBBUWV3M3hZOHZfTjhSeVMxOENmNF82OEF5eXY4Q0JMeHJNUXpkWVBya3NEcXloVzZWblkwMmZnNWZNYkw2WHd6eWFicE0zYV8wVEk?oc=5",
-   "pub": "Tue, 22 Sep 2026 03:55:58 GMT"
+   "t": "(S+) Iran: Warum Iranerinnen und Iraner nach Armenien fliehen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWUJXcEpRblRGWWlsUWluZ3BpUk9DTUdZQlFTckFjakI5S3ZLVUVJeHg2YlhWcHNQNGRxQmJfb0kwT3g5cmtxTFZtaGhwZEVnUldnTU90TEw1SW5aWHhNVHNlZWtkcGJFSTlxbHBYMU1wNjBOY0ZqZnpzXzNFcEdnOXdtUDkxUVZZcGxjWjNjel9UV1dDY1pxUkR6bklab1R0a1FBUW9GRUNQVkNZUk1YSmltY3dTOFB2YVJuMk9nb3pPTkE?oc=5",
+   "pub": "Mon, 21 Sep 2026 10:09:00 GMT"
   },
   {
-   "t": "China knüpft sich den Iran vor: Pfeift die Huthis zurück! - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1Zqa29OT1J0OW5GSlVuMVZkbm5QMDhqMmQwNmM2N1dpcGdSM096czVBRi1zUnMxQk1Ec3h5NU83TTBMcEhkblVyNzl6RmVqcHRiT0s3WVI2eVBUUlZCNGdxUlFMdmd1SGt6cU1DVXBvTE1KNjFXYzJjckVIWVEyZUVSa1ZpNTZxcUJ3RGlwT0lTNzlrUXVMZklDaklMVVdIV2NyT2llempUWmpiUnVIcHVIY0g3eEJUWjhuQnAzM3E?oc=5",
-   "pub": "Mon, 21 Sep 2026 18:04:10 GMT"
-  },
-  {
-   "t": "Kampfsportler (21): Nach Protesten im Iran starb er trotz 30 Operationen - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZi1zaFhTUWlJVUMtaUtvRTRYQVh6b2lqZzNHazEtd2Y2aWZsam5fb0tjNFFUMGduOUZjejFlamJubTFWNHJYdTB2TG9zNl81YUVNMUt6WGtvLTI0Y0dDdnkzUzFHaE91WFBGVnpBdzZmckhzN3NDT2FxTi1wZ3JsSXI1cXRWSm43bEtFQ0liUmx6SnBoVW5iOXBaVGkyUmltRVRzVUNJNFZoZGM2UHZETTBqd2phRWZtc2ZXd1JrdlN6dnZoYWp0cVJLNXJtZ3hOOGZiWTZZTUZ5YVlaN3pPNnJvZV8?oc=5",
-   "pub": "Mon, 21 Sep 2026 14:09:58 GMT"
-  },
-  {
-   "t": "Iran-Krieg und Grönland-Abkommen: Trumps Agenda in New York - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnc3ejJsdGRldnpvc2c5UG9ZbWtaTFp2S3NnNXNiZXBkYWU4YjVMQXNBdlpmUkhpdzd5OEtuUE5xakxDekhiTm9OVWNLVnk1dTNmQkhwZW93XzZrZFFaUDUtWG5PVjJyU1RlbWFfNzZ0NDZWRGJSbjRBTkx5R3ZSc2tMeE1CeVRpY0xFYlFuMnd1U0pxTzFCR3ViaWtCYWUxMkU0MWVULUlxZ2M1Zl9FUk85ZmNDZ1hYTzZXdEZn?oc=5",
-   "pub": "Tue, 22 Sep 2026 03:08:10 GMT"
-  },
-  {
-   "t": "Fed erhöht Leitzins – Experten sehen Glaubwürdigkeit gewahrt, Trump tobt - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHliOUo2NEtkdHdfOW1rWlhJRnhjWVl0MzdGeWFaTGp3TjZYLU5KbmpOcXktWVJpRVZwWTlVUE53MFA4bGxwNHNId3VDU0NPZDBOeUxVSGFJLVJpcXM4dDRidUxPZVp4dFlPdmVfdEJkZzFTOUlFcXh3WFIzNmVxQ0VYRDRqcFowcHV3ZHg2OXhDbjhodUt5dmcyQktldDFzYkJkVUY3VkpuTVY1dXY0ZWpaNWk4TXZlMzlrVUhnWkdiZ1NqVUJtSUtiWFQyN1lxU2hmeHF3?oc=5",
-   "pub": "Tue, 22 Sep 2026 02:40:35 GMT"
-  },
-  {
-   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2oyLXlfb2Vfb0xBaUxhU2VUYjUxRlFSQlk1eVI4SXNUX2cxZEQzREtwTV9nd1VGRTZQbmFYcUNjWnRXMDMzaDF2OGdZMXRfNWdtUHV2M1lrMUZjN19mNHk2ZGRCWFQ4OHp3RlJUOWJOcDV5NnB0T1EzMnU3TTRueUxlSVhxblBrT2lyaW45MWd5YzhwTTNRSnpqZGZBd1laaXhIY3NZTlk3Y2NFLUlvdS1adWtGcDVPM3B4bXBKSQ?oc=5",
-   "pub": "Tue, 22 Sep 2026 02:45:00 GMT"
+   "t": "Iran: Wirtschaft schrumpft drastisch und der Ölpreis steigt - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN19IRTdUSl91TEZjZWNjbUR4RU1LSEd2VEpWXzJlVXIwdkRrTWE5OG9CR3hIbm1XZmtBOWxENF9ZZnk5bHZzMDRBcWpseHA0bTZEQTFocVdILTRySF9tcG94TFQ5ZWdOb1dYOTk1aVNHdjFMNzJhR2Y0bU1iS3N6V0JKR3Q5a0FDZHVKLV9ISUt3SmhQZDF0dy1qQ3VkSE5aNVJNZVk0eUJ2N19PQ2RLQlNGSHZaZzR4Y1RycVp6X0xUOFZuN1VYX0pkWDV6TWJyZldmQUdSTkxiTEo5UlE?oc=5",
+   "pub": "Mon, 21 Sep 2026 00:53:00 GMT"
   }
  ]
 }
