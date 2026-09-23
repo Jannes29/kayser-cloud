@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-22T22:10:47Z",
+ "collected_at": "2026-09-23T00:35:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8205,
-   "chg1d_pct": -0.04
+   "price": 0.8209,
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
-   "price": 157.38,
-   "chg1d_pct": 0.01
+   "price": 157.5,
+   "chg1d_pct": 0.08
   },
   "GBPCAD": {
    "price": 1.8762,
    "chg1d_pct": 0.02
   },
   "AUDJPY": {
-   "price": 111.991,
-   "chg1d_pct": -0.03
+   "price": 112.056,
+   "chg1d_pct": 0.03
   },
   "EURUSD": {
-   "price": 1.1452,
-   "chg1d_pct": -0.11
+   "price": 1.1451,
+   "chg1d_pct": -0.12
   },
   "GBPCHF": {
-   "price": 1.0947,
-   "chg1d_pct": -0.23
+   "price": 1.0951,
+   "chg1d_pct": -0.2
   },
   "WTI": {
-   "price": 89.91,
-   "chg1d_pct": -6.13
+   "price": 89.93,
+   "chg1d_pct": -6.11
   },
   "BRENT": {
-   "price": 98.87,
-   "chg1d_pct": -1.47
+   "price": 98.9,
+   "chg1d_pct": -1.44
   },
   "GOLD": {
-   "price": 4398.6,
-   "chg1d_pct": 0.34
+   "price": 4399.4,
+   "chg1d_pct": 0.35
   },
   "SPX_FUT": {
    "price": 7832.5,
    "chg1d_pct": -0.01
   },
   "NAS_FUT": {
-   "price": 31023.25,
-   "chg1d_pct": 0.77
+   "price": 31051.25,
+   "chg1d_pct": 0.87
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Tue, 22 Sep 2026 18:08:13 GMT"
   },
   {
+   "t": "Die Hilfsorganisation berichtet schockiert, ihr Gründer sei im Iran verurteilt worden - SWR",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1djZm9BNnQ3ZEF3S3pfaE04a3hRbk04V3FJM3pMYjY0MHJhMWo3NDNJYjdUc0lCRzlPTmZQd1FWVWlYaFU4VlJHUFh6NUhMOGpCR2EzN1F5cFZmcHZGZlkzRXNsckNLdS1Zb1JHZXQ2aGFSeUxTNnFrUW5QTDl5b2xmQ3ctMW5tUUhodjBsVDVOZndNLVpYX2VTTFFTYlFKeVJXamJ0Mnc5NGpLTXhaX0tUamNJMTFnSW93VVdqWmJoWHpIaHpBTHVCRjdTZw?oc=5",
+   "pub": "Tue, 22 Sep 2026 20:45:00 GMT"
+  },
+  {
    "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
    "pub": "Tue, 22 Sep 2026 20:12:05 GMT"
-  },
-  {
-   "t": "Trump zu Iran: \"Soll ich sie in die Hölle schicken?\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjBDVEozVVh5NHNjZ1Noa3k0Vjgtb05GcGxpZWZ1bmZ3bV9uWXQtd19reWRkcEdubjd2cEFBUDhVNEZlWndfY1VMZ1V3bXFsUEJLZ2l1SDlXTldtWVVZS3dfcFlFY085ek01MmpyVGdQcGJSLWdZWloyaDlLcU5MWkVkeHd1MnVtVDRnTEwyYTllVnRP?oc=5",
-   "pub": "Tue, 22 Sep 2026 16:18:56 GMT"
   },
   {
    "t": "Verschärft Teheran Bedingungen?: USA und Iran sprechen in New York drei Stunden miteinander - n-tv.de",
@@ -74,19 +74,24 @@
    "pub": "Tue, 22 Sep 2026 19:30:20 GMT"
   },
   {
-   "t": "Die Hilfsorganisation berichtet schockiert, ihr Gründer sei im Iran verurteilt worden - SWR",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1djZm9BNnQ3ZEF3S3pfaE04a3hRbk04V3FJM3pMYjY0MHJhMWo3NDNJYjdUc0lCRzlPTmZQd1FWVWlYaFU4VlJHUFh6NUhMOGpCR2EzN1F5cFZmcHZGZlkzRXNsckNLdS1Zb1JHZXQ2aGFSeUxTNnFrUW5QTDl5b2xmQ3ctMW5tUUhodjBsVDVOZndNLVpYX2VTTFFTYlFKeVJXamJ0Mnc5NGpLTXhaX0tUamNJMTFnSW93VVdqWmJoWHpIaHpBTHVCRjdTZw?oc=5",
-   "pub": "Tue, 22 Sep 2026 13:08:00 GMT"
-  },
-  {
    "t": "Die Fed und der blinde Fleck der Zinserhöhung - Makronom",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mZld5dVYtQkZodVBWSG5YYTFpd1ZmdVFTeVhfdkkyNEtVSU91TzNmQmNMV0ZzYk9nTGhUblIwSzh3cV9WUlM4S191M296Ul9XSHJOd2Q2eFJvWFlSOFk4VExkY194MkxYYXdWNFRjRjFibDJfSHgwZWZIb3c?oc=5",
-   "pub": "Tue, 22 Sep 2026 20:11:08 GMT"
+   "pub": "Tue, 22 Sep 2026 20:11:40 GMT"
+  },
+  {
+   "t": "UN-Generaldebatte in New York: Trump berichtet von „sehr guten“ Gesprächen mit Iran-Delegation - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTZBUEFSR0NRX3BvZ1dUWTZrZXhOSmM2ZVVWZHZwNUxzbWtKYVlQN2JqZFd5bXkzekZ0RFptS2pzeThmYksyc0hXZHNwVlV5dmRpN1o2bUF6TURDZUh4czRSdF8tajN4R001RDZfT0ZneDVxUTU1ck94ZDZjeXk3Rjc5QXN3SFBLNk41ZlQ3WjBCclZ2RFU4ZA?oc=5",
+   "pub": "Tue, 22 Sep 2026 20:11:25 GMT"
   },
   {
    "t": "Donald Trump droht Iran in UN-Rede mit „Auslöschung“ und kritisiert Kuba – Delegationen verlassen den Saal - WELT",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZnoybXhtSUh4WVNHay1ON05Fd1QzSGo3OWRHSTlvS0J6Y1pocEZqSV9HakpLRW5HbFZodmVIUktET0lTb0swN2hJd2pkaEFhWGZ2RDFSc2o5WVlaTzQ1UVlXN01zVHFVeWhiYnB0V2hoMUVLLUJYS21ZVmx6cDczZnZIU3AwSFRwWjZXTUM3blpmcWtzWkVkVlNmVFUweG1GQjJZUktlWmh3bGk2dWtfQ3Q5VkVEcGtKQUZxLU11RkR3dVRjSkdOV0xDZDlseXh3R0lyVldVaWJaN1JDbUNkd296cDZaaldmbU12VFFfUDVjYy0tVGE5dEpKN2J4ZWxNbzRKRUJwTQ?oc=5",
-   "pub": "Tue, 22 Sep 2026 18:08:59 GMT"
+   "pub": "Wed, 23 Sep 2026 00:15:05 GMT"
+  },
+  {
+   "t": "Trump zu Iran: \"Soll ich sie in die Hölle schicken?\" - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjBDVEozVVh5NHNjZ1Noa3k0Vjgtb05GcGxpZWZ1bmZ3bV9uWXQtd19reWRkcEdubjd2cEFBUDhVNEZlWndfY1VMZ1V3bXFsUEJLZ2l1SDlXTldtWVVZS3dfcFlFY085ek01MmpyVGdQcGJSLWdZWloyaDlLcU5MWkVkeHd1MnVtVDRnTEwyYTllVnRP?oc=5",
+   "pub": "Tue, 22 Sep 2026 16:17:00 GMT"
   },
   {
    "t": "Diplomatie: USA und Iran treffen sich erstmals seit Monaten - DIE ZEIT",
@@ -95,13 +100,8 @@
   },
   {
    "t": "New York - USA-Iran-Gespräche am Rande der UNO-Vollversammlung - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHNYX2ltay1lM054XzUxZVJTYmpJVnlpTFpNQ1g5NzRiM3lPaV9wZ1A3MTJycVA3ZFRNUHVpdjdHX25LZkxaLVFnREE2blZSbWJfM0p4NjA5UV9uX193RW94NE9Fb05sMFNXTy1nYlNOUnlqN0kzU3J5VW43bEtRQWMwMmdrRllhM3FFcGZxLV9uRm5wNktF?oc=5",
-   "pub": "Tue, 22 Sep 2026 20:23:01 GMT"
-  },
-  {
-   "t": "Rede vor UN-Vollversammlung: Trump droht Iran mit Vernichtung und plant Grönland-Basen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU9OeHBNUTF6aW0xeUk2YnYzd1BzSGhuX3E1UHIwamtFTnZsTlNwWnFsNDJxZ3FDQWl5RmkteUQ5SHN0d0t0ek94YUZQREx1eVVOUFhnUU1ZV09NaXczamVyQjFfa0UxVnJsMHhzOVpzaTMzNmhwVXh4Mm5zd19mc00tbXZLLWRBOUZVenNFZDVHNXBBR0M4dm1sNHJQOVNuWmZLZUdFaklUay1wVlZMNF9TYTAxNGpIeTMw?oc=5",
-   "pub": "Tue, 22 Sep 2026 20:39:00 GMT"
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTi01dHpoLW9yMU5FYmdPRHBFMU9CU1g4Qy03UUU2aWp0SG93UGN3cGdzUEFNd0o2ck5QbVgwZjlnU0hpT09kODZoVjZrVkFaVXFPNGZzaWR6eGNpcVdrMHBVN1NvOGlCMnQ4a0hTNF9XdnJUc2wwVXM1bG9veG56WUdmOWNjSF9GcldsYXM0NmUyY1J1VEhN?oc=5",
+   "pub": "Tue, 22 Sep 2026 22:41:23 GMT"
   },
   {
    "t": "Trump: USA und Iran sprechen in New York drei Stunden miteinander - STERN.de",
