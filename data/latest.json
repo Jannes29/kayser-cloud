@@ -1,67 +1,82 @@
 {
- "collected_at": "2026-09-23T11:40:01Z",
+ "collected_at": "2026-09-23T17:02:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8232,
-   "chg1d_pct": 0.29
+   "price": 0.826,
+   "chg1d_pct": 0.63
   },
   "USDJPY": {
-   "price": 157.956,
-   "chg1d_pct": 0.37
+   "price": 158.399,
+   "chg1d_pct": 0.65
   },
   "GBPCAD": {
-   "price": 1.8707,
-   "chg1d_pct": -0.27
+   "price": 1.8654,
+   "chg1d_pct": -0.55
   },
   "AUDJPY": {
-   "price": 111.612,
-   "chg1d_pct": -0.37
+   "price": 111.291,
+   "chg1d_pct": -0.65
   },
   "EURUSD": {
-   "price": 1.1409,
-   "chg1d_pct": -0.48
-  },
-  "GBPCHF": {
-   "price": 1.093,
-   "chg1d_pct": -0.39
-  },
-  "WTI": {
-   "price": 90.57,
-   "chg1d_pct": -4.25
-  },
-  "BRENT": {
-   "price": 96.18,
-   "chg1d_pct": -3.09
-  },
-  "GOLD": {
-   "price": 4343.3,
+   "price": 1.1378,
    "chg1d_pct": -0.76
   },
+  "GBPCHF": {
+   "price": 1.0924,
+   "chg1d_pct": -0.44
+  },
+  "WTI": {
+   "price": 91.81,
+   "chg1d_pct": -2.94
+  },
+  "BRENT": {
+   "price": 97.86,
+   "chg1d_pct": -1.4
+  },
+  "GOLD": {
+   "price": 4316.8,
+   "chg1d_pct": -1.36
+  },
   "SPX_FUT": {
-   "price": 7827.0,
-   "chg1d_pct": -0.06
+   "price": 7768.0,
+   "chg1d_pct": -0.81
   },
   "NAS_FUT": {
-   "price": 30953.25,
-   "chg1d_pct": -0.24
+   "price": 30684.25,
+   "chg1d_pct": -1.11
   }
  },
  "headlines": [
   {
-   "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - zeit.de",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
-   "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
+   "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
+   "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
   },
   {
    "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
-   "pub": "Wed, 23 Sep 2026 09:54:41 GMT"
+   "pub": "Wed, 23 Sep 2026 15:42:05 GMT"
+  },
+  {
+   "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
+   "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
   },
   {
    "t": "USA und Iran treffen sich erstmals seit Monaten zu Gesprächen - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTVKbDJNcFBEdXQ2blFMYXlHX1p2VTFPb3FQcTFEbE5meDFucWJkNXgzRlFsbjRETjU5WmVkLXROSHcxSUxnNXdxTXdSczZ0NVJYdXp3OU5PNk8xQ0tENG5Fc1lURUJTMGFNN1NkR0FobVhnSWg3TGR1YVg4bWhFRERHdHFQVmticGRzMFAyOXZqODRtZGc4b0k2SQ?oc=5",
-   "pub": "Wed, 23 Sep 2026 02:42:02 GMT"
+   "pub": "Wed, 23 Sep 2026 05:54:00 GMT"
+  },
+  {
+   "t": "(S+) Serkan Eren aus Stuttgart reiste für eine Hilfsmission nach Iran. Dort wurde er jetzt offenbar zu zehn Jahren Haft verurteilt - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZ0twc1BsYlp1WG01anNyR3Exc2FTTXJBeXcyeVA1T3BXNElHMUFVSk04bXA1VUJRLTdkdlI1VGNtbUJFNHExRDc1MDEtMmdzT0s1LTFrMFZnR1BUd09wQzFDRFphNUtHNU1oSExIckJZRGN4QjZlNU95MVhmdFIxaWJsZDFVejdJVFRBdmVrd19mQk9vSHIyWjB0dEdObTRzSlY2Vm5ZamNZRjZZbmxabmFhYnhDZDFEQ0FQUlJBb0JramlWel9HZmpnUVUxcEtwYWIyXzlpb2F4NGVzUHNsLVo5V19USXA5T2xMdDVyQm92NjdvdGdIa0RCbGlVV3lHSHI5Z0lERmVROVNVLTlZMkxXa0FESXRfZlFzcE9IYmE?oc=5",
+   "pub": "Wed, 23 Sep 2026 13:43:00 GMT"
+  },
+  {
+   "t": "Donald Trump: Iran-Krieg drückt Zustimmung auf historischen Tiefstand - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV3d1QW5OcFhaNHdJMzRpVnNlUnFxUUR5REJ6ZDRMSndHMUs2cEVRQVE0MS1xb04xVmROYkEtXzNnU2lvem5HXzhqeC1RelVsa2taOVlndGdXVWtBbEItNmd0MWJfMGxqYUlXYThRcmctTmt6blprUk1HY3NuM3lDZjh3WGF5SS03T3plQ1JVX0E3Vi1LR2VRUVFmbGphT01jV1lEMDFJS0hMOWw4QzlPTEg0WmluanlYSFl0UTNxRkVOYXlsUlVsOWhXeUNOa05XWWRYWDRpNnVYRzdMN1VXQ0VPWVY?oc=5",
+   "pub": "Wed, 23 Sep 2026 10:48:00 GMT"
   },
   {
    "t": "UNO-Vollversammlung - Trump ruft zu wirtschaftlicher Isolation des Iran auf - Deutschlandfunk",
@@ -69,24 +84,14 @@
    "pub": "Tue, 22 Sep 2026 19:30:20 GMT"
   },
   {
-   "t": "Donald Trump: Iran-Krieg drückt Zustimmung auf historischen Tiefstand - bild.de",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV3d1QW5OcFhaNHdJMzRpVnNlUnFxUUR5REJ6ZDRMSndHMUs2cEVRQVE0MS1xb04xVmROYkEtXzNnU2lvem5HXzhqeC1RelVsa2taOVlndGdXVWtBbEItNmd0MWJfMGxqYUlXYThRcmctTmt6blprUk1HY3NuM3lDZjh3WGF5SS03T3plQ1JVX0E3Vi1LR2VRUVFmbGphT01jV1lEMDFJS0hMOWw4QzlPTEg0WmluanlYSFl0UTNxRkVOYXlsUlVsOWhXeUNOa05XWWRYWDRpNnVYRzdMN1VXQ0VPWVY?oc=5",
-   "pub": "Wed, 23 Sep 2026 10:43:15 GMT"
+   "t": "Kool Savas, Timo Hildebrand und Max Herre sind schockiert, weil ihr Freund im Iran in Haft ist - SWR",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWJndFlCeVEtMG5VRHZnYm94dEtaQ1AwT2pGRGtObjJCYUtPcDA5alZZYi1pdlR0TTRIVkZ3MTRkTU5WQWdPQmZLemZpSkhDSXgzZnBGUnVpQzlTWEdTSEJMVGtPT1JMZGtCWnF5VHVFZ2x1NURZQURWTWd6SnZTMUFpcklFNGp3T1RvSGVsUnViTGFYaWlOdnJYN1RpRU1tSmFJTXZEU3lvamdSeVFXM2Q0VjRWMEE?oc=5",
+   "pub": "Wed, 23 Sep 2026 07:00:00 GMT"
   },
   {
-   "t": "Baden-Württemberg: BW-Newsticker am Morgen: STELP-Gründer Serkan Eren sitzt im Iran im Gefängnis - zehn Jahre Haft, Das macht Kretschmann in seinem Ruhestand, Oktoberfest-Gebühr für Influencer: Kommt das Modell auch auf den Wasen? - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQUzJfWkdhSG5UanY4b3lwUVlVWXZQNjhZcWFvczBkYXZKeGtXZ21ubmRPUWZwS0Z4OEtBbmdUSlJ3a08xQnJleDZpM2xTLTN2dVc2UERrS2VrTW8tVENjOGY2djNJaFdfTXB2eWdtNXJJc3lRNGNabEFuYXByRVBJU1hHNnM1OFRSSEdUTF93N1NGQ2Y4Mm0wYWEzbG0tVmdXSzFIREUyN1RpRUVBY1YwNVR6Z1QzR2tMOTFfLUhGTVBMT0VpckRFUFVDZ3RRWDU1eWRidC1IcGdGQWlBcjBMMjFqZ0Jjc2xyaThSdENaZHZPZnI1ZVl0TU5tZFdSYnpiVFZ0RmpjSFlTV3B1cnRlaS12dEJWSlFJSHJKQ0dIZXBTMFRta3F1eDdCTU5zZVZsbXNOcktrVzhWc3BzWVVRbC15cmZZdGNjSUtfbmxGSUhoU3dzTnZoWDhPRQ?oc=5",
-   "pub": "Wed, 23 Sep 2026 08:00:00 GMT"
-  },
-  {
-   "t": "Die Hilfsorganisation berichtet schockiert, ihr Gründer sei im Iran verurteilt worden - swr.de",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1djZm9BNnQ3ZEF3S3pfaE04a3hRbk04V3FJM3pMYjY0MHJhMWo3NDNJYjdUc0lCRzlPTmZQd1FWVWlYaFU4VlJHUFh6NUhMOGpCR2EzN1F5cFZmcHZGZlkzRXNsckNLdS1Zb1JHZXQ2aGFSeUxTNnFrUW5QTDl5b2xmQ3ctMW5tUUhodjBsVDVOZndNLVpYX2VTTFFTYlFKeVJXamJ0Mnc5NGpLTXhaX0tUamNJMTFnSW93VVdqWmJoWHpIaHpBTHVCRjdTZw?oc=5",
-   "pub": "Tue, 22 Sep 2026 20:45:00 GMT"
-  },
-  {
-   "t": "Iran nennt seinen Preis für Hormus – Brent fällt unter 99 US-Dollar - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYVBsZ0RhcXM2NVZreHZoN0M0SnV4b0RTRDhadHdjMXpVWElFRkFXZmExaERTUEFrSW5MamgzeVNncW5WYjBQTDNSYmdBZ0NYbmtsNmZhTWZpUGN4bk9SZXZ2eERQUDVtUkVBMXpqQjlONW5HOE5aRGZURGJrWVIwU2w1TnR6b0c4Qk40YWlQdGFtbmpoMjdreVNxZndUZnltY1dudVc2UUw0RUZOd1g3SkxkdmhHVVA3NnJHRi1GMmMxUWlMU1E?oc=5",
-   "pub": "Wed, 23 Sep 2026 07:24:43 GMT"
+   "t": "Diplomatie: Iran wehrt sich vor UN gegen Trump-Drohungen - General-Anzeiger Bonn",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVXIxZnNkYTZqX3VfVFZHWXlNZUlpaC1mOHlUN3o0cGlUWm5zNjZjSVAtUWJWUEdwY19LdndFaUFJczFHcVlSaVZxd1FrV3dCQXVzTmVlN0RvSUpVRTVPU0tKVTFZYnFoVTFUMEVveHVRZF9URTg3eUZNdDhWVXktcU9NRGtlMFdnZzhodEEtTUV2b1I4YUN0dQ?oc=5",
+   "pub": "Wed, 23 Sep 2026 16:12:00 GMT"
   },
   {
    "t": "Trump droht Iran mit »Auslöschung« - Jüdische Allgemeine",
@@ -94,19 +99,14 @@
    "pub": "Wed, 23 Sep 2026 10:43:00 GMT"
   },
   {
-   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - fr.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXhhM01jOXpSR2ZDcXA3c01TUGJzT2NpemRHdmpVOWtuWnVFRVhlbkxzSEY3NTV5eDFsWGpCbk91bGFfNnE2M2lLX2V4dlJUeTFaODZsNVhIOWc2VExwdGZzaFpVY0VoZGd0U1Uxd2dQX2JtaFBvQi1IazBoT29hYTU5LU90Z2dPenpTMXl5TXB4eE5hZHR2NkE2RHY1eTFybVc0Sm82cktucVpnMFUzLWlDZTZlbk5DN2xvWU90NA?oc=5",
-   "pub": "Wed, 23 Sep 2026 02:45:00 GMT"
+   "t": "Iran nennt seinen Preis für Hormus – Brent fällt unter 99 US-Dollar - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYVBsZ0RhcXM2NVZreHZoN0M0SnV4b0RTRDhadHdjMXpVWElFRkFXZmExaERTUEFrSW5MamgzeVNncW5WYjBQTDNSYmdBZ0NYbmtsNmZhTWZpUGN4bk9SZXZ2eERQUDVtUkVBMXpqQjlONW5HOE5aRGZURGJrWVIwU2w1TnR6b0c4Qk40YWlQdGFtbmpoMjdreVNxZndUZnltY1dudVc2UUw0RUZOd1g3SkxkdmhHVVA3NnJHRi1GMmMxUWlMU1E?oc=5",
+   "pub": "Wed, 23 Sep 2026 07:24:43 GMT"
   },
   {
-   "t": "Verschärft Teheran Bedingungen?: USA und Iran sprechen in New York drei Stunden miteinander - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVpsZzJFRFUxVzJkaGl3bE9FbDNWRjdLS2R5QjJqQmVMSW1OR21KVEw2TnBqSXZOQi1iTklueUlreVI3LUczdDNibVVTZXlISEJMcXZualJWZldpY0lkcnVpMTlXM1AyNVVRa3dnWnlCS3E2QWNmUnktblRWM2had2c0NkRfR1FtZ0hWTTdDdzJXV3FBY2x4Vm40bVlMTnFxdDFxSQ?oc=5",
-   "pub": "Tue, 22 Sep 2026 18:59:00 GMT"
-  },
-  {
-   "t": "Ölpreis fällt nach Trumps Bericht über Iran-Gespräche unter 100 Dollar - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejZncVBuaXVSRzBfN0ZndldUR0dNVjFIcXgyLTN5aWhnQmlpMmdKQUJsc3VoUzVRXzQ5ZGhla2Z2LXpzZW5yOUVlcEJUYnQxN0lyREp0cE9JRDQ2YnVPVjNHRmFYWkExenpBRVRjdE4tR2x3Sjk5cTVOcFdPZ1BpdlRZT1YydG1yajFTZ1R4eWVaTm5EaEdfYXVsS2J3aEZGZGhtTFpnWkE?oc=5",
-   "pub": "Wed, 23 Sep 2026 05:39:55 GMT"
+   "t": "Prozesse: Stuttgarter im Iran verurteilt - Özdemir fordert Freilassung - stern.de",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGdtNm5rc3J4WHFUOFlPaXEwS2pzLU9tRmpTLTY2UEE5ZEVUal9zb2dKbzBJQWdGeGc0SUtGaWxCakx4bWhVMjZjNjJKOWNMR0hvOGZoOGR3dFplZkdzcUFlN2FGWFg0YlhNTkZHZDhQcG1mWWxkblgzQVp4Q1llcHlqMjVDMWk0MzVtOGhYX0F5d3dfeUVGREpIVm0wcGJBaldibE5DUzJOZmpJV1pwMUFCQzRsTmg4ZUJ6Znl1VVkxcUlIdEttbk91R3hXWlVLNUpaTkg3d2xKOGZlNEQwRw?oc=5",
+   "pub": "Wed, 23 Sep 2026 16:37:12 GMT"
   }
  ]
 }
