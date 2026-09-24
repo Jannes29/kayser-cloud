@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-24T15:08:10Z",
+ "collected_at": "2026-09-24T19:11:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8293,
-   "chg1d_pct": 1.03
+   "price": 0.8284,
+   "chg1d_pct": 0.92
   },
   "USDJPY": {
-   "price": 158.947,
-   "chg1d_pct": 0.94
+   "price": 158.912,
+   "chg1d_pct": 0.92
   },
   "GBPCAD": {
-   "price": 1.8685,
-   "chg1d_pct": -0.42
-  },
-  "AUDJPY": {
-   "price": 111.473,
+   "price": 1.8677,
    "chg1d_pct": -0.46
   },
+  "AUDJPY": {
+   "price": 111.422,
+   "chg1d_pct": -0.51
+  },
   "EURUSD": {
-   "price": 1.1373,
-   "chg1d_pct": -0.65
+   "price": 1.1377,
+   "chg1d_pct": -0.62
   },
   "GBPCHF": {
-   "price": 1.0957,
-   "chg1d_pct": 0.05
+   "price": 1.0946,
+   "chg1d_pct": -0.05
   },
   "WTI": {
-   "price": 95.67,
-   "chg1d_pct": 3.81
+   "price": 94.62,
+   "chg1d_pct": 2.67
   },
   "BRENT": {
-   "price": 101.38,
-   "chg1d_pct": -1.65
+   "price": 106.58,
+   "chg1d_pct": 3.4
   },
   "GOLD": {
-   "price": 4287.7,
-   "chg1d_pct": -0.71
+   "price": 4306.6,
+   "chg1d_pct": -0.27
   },
   "SPX_FUT": {
-   "price": 7738.75,
-   "chg1d_pct": -0.43
+   "price": 7770.5,
+   "chg1d_pct": -0.03
   },
   "NAS_FUT": {
-   "price": 30542.75,
-   "chg1d_pct": -0.72
+   "price": 30764.75,
+   "chg1d_pct": 0.0
   }
  },
  "headlines": [
@@ -56,7 +56,7 @@
   {
    "t": "10 Jahre Haft für Chef von Hilfsorganisation: Solidarität mit Serkan Eren aus Stuttgart - SWR",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWJndFlCeVEtMG5VRHZnYm94dEtaQ1AwT2pGRGtObjJCYUtPcDA5alZZYi1pdlR0TTRIVkZ3MTRkTU5WQWdPQmZLemZpSkhDSXgzZnBGUnVpQzlTWEdTSEJMVGtPT1JMZGtCWnF5VHVFZ2x1NURZQURWTWd6SnZTMUFpcklFNGp3T1RvSGVsUnViTGFYaWlOdnJYN1RpRU1tSmFJTXZEU3lvamdSeVFXM2Q0VjRWMEE?oc=5",
-   "pub": "Thu, 24 Sep 2026 13:00:00 GMT"
+   "pub": "Thu, 24 Sep 2026 15:00:00 GMT"
   },
   {
    "t": "Bis zum Indischen Ozean: Teheran droht mit erneuter Ausweitung des Iran-Krieges - n-tv.de",
@@ -69,17 +69,22 @@
    "pub": "Thu, 24 Sep 2026 08:39:26 GMT"
   },
   {
-   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3RSTi1UWjlKdS1iWWUzamgxbUtpazh1SjdTOXJKbDJGQTBPa1VIWnlPUEQ2NHFTTDNiel9hMjFTSEg1RjJvN2lXOGdYT2xzV3NOdmxPWDExckVCVms5WEtJcWFrb25XazNZd0dvMDV6ZDlxME1hSFFhenZLVGlubXFjaFFKeEtFTlJkY050T3phS1pLUkJ1Q3l2cHZFenRJdGdBcVhRLXJLSGZiQzJQenp3Zmotd1diQUhaVzNVMA?oc=5",
-   "pub": "Thu, 24 Sep 2026 02:45:00 GMT"
-  },
-  {
    "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
    "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
   },
   {
-   "t": "USDCHF Trading Idee: Neue Chance im Forex Trading nach Support-Rebound - XTB.com",
+   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3RSTi1UWjlKdS1iWWUzamgxbUtpazh1SjdTOXJKbDJGQTBPa1VIWnlPUEQ2NHFTTDNiel9hMjFTSEg1RjJvN2lXOGdYT2xzV3NOdmxPWDExckVCVms5WEtJcWFrb25XazNZd0dvMDV6ZDlxME1hSFFhenZLVGlubXFjaFFKeEtFTlJkY050T3phS1pLUkJ1Q3l2cHZFenRJdGdBcVhRLXJLSGZiQzJQenp3Zmotd1diQUhaVzNVMA?oc=5",
+   "pub": "Thu, 24 Sep 2026 02:45:00 GMT"
+  },
+  {
+   "t": "UN-Vollversammlung: Kommt der iranische Staatschef jetzt nicht nach Hause? - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcEJlWHhrRlFnVldad19taHdVYzRXMkZWdThNR2czQ2kyRUhrN0RobUNfaUEzY1REWm8zak9WdkpSU0RDSkRBM3NkTjBNS3I3bkhNWU16c0toSndvYzYzT29QVzlRTnc4dW56ODI4U0c2cUg0UV9HdGVPRGlQeHlCME1IZFYtQUtIcEpDb0daSTd4Q2ZBU09oS1BsSS1nYjdaQ0c3MDZqM29pUlc2Mm9QVFZGYzJPcGVGaVRhclNWMXVHVWJoay04?oc=5",
+   "pub": "Thu, 24 Sep 2026 14:31:26 GMT"
+  },
+  {
+   "t": "USDCHF Trading Idee: Neue Chance im Forex Trading nach Support-Rebound - xtb.com",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFFDRENsbEQ4NVc2N1dUSi0ySDduUkYxTlE4WERCNjdBMTZrNXhWNUE2ZTdpcTNxcFFNSUN0RkJKWE5WcHJManpUdUd6azNKVkk3Y290X0dRNlJ0RF93aVhRM2ZVTXV2QThDYnlGNkhGcUIzOUdDSVVBWHpXUzNqZF9kWUg2ZmlyaXJ5WGEzY01YSklnenlMaHIwVG5EcVowcFJyWkZmWk9rOEVianNOWUZET1puak5qWGY4?oc=5",
    "pub": "Thu, 24 Sep 2026 14:56:00 GMT"
   },
@@ -89,24 +94,19 @@
    "pub": "Thu, 24 Sep 2026 11:07:07 GMT"
   },
   {
-   "t": "Peseschkian vor der UNO: Iran will »Widerstand« fortsetzen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWd3aW9FWktXcVhUdk9uMDdrWThwZTBjckFrRU9pa2pteklmYno4TWtDNUNfUkMtX05MUEc0V2hYT3VNRDlydDVlSkNtWEZHalVvWnZYNWcxR3d5NEZpNGxVTVFNV05udjV5ZmtMYVV6M2ZyM0g5azlROFQ1Z1c1LTQ3NHNqVkJtVGNJTWpFLVdVTlliOTBHNDBBUVE2c1pyNnc?oc=5",
-   "pub": "Thu, 24 Sep 2026 08:59:00 GMT"
+   "t": "US-Zehnjahresrendite über 5 Prozent: Warum die Fed den Anleihemarkt steuert - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT0VtRjh6ckIwaXpucVRNS0pRXzB3RE1mU0IyRXBzZDZ4QUl6a3dCem9UMVBFU3VTaFhpb2tyRl93Z0RkQXlTeGVPSW9nSTZIUUdLNGJlWXdadXdWOGt0YlFJcE0wODk5WFphQ3gxZGowUmFJZnpYZ3dVdHh1aGhxSXJBb3dCWU1Na1ZXSzdXU1V4bmhfY3RuVDdFbjZFcWpXal90TTZ2clFVOEx6YngyRWRQcnFNTGgwamMzaDA5TnJyZ1FuNUpzY2tBMDg0OW93LU83S0EyYnFPblhKOUhj?oc=5",
+   "pub": "Thu, 24 Sep 2026 16:31:18 GMT"
   },
   {
-   "t": "Internationaler Druck auf Iran wächst - THB - Täglicher Hafenbericht",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREZ1cHJFSDdVeGsyWHdtb3FxYWxqYzNSZ2JHYlVrRkpISXY5ZDRNT1FNaEtrRnd2dnZBaDRINlR2MElYZTg2QXJDSFlQNUdPdzlpblpudUlKajR6MU1jM1NjUUtOdW9ieTd4ak1kajE1MzNscFBZeUxjTlZtcDAzNm8wVWxwT01lU2h2V2FHS1o2bzVsQ3QxRFBZOHlFT2l6d3lXdjY4dGE?oc=5",
-   "pub": "Thu, 24 Sep 2026 12:54:42 GMT"
+   "t": "\"Konflikt mit USA: Irgendwann muss China zurückschlagen\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0hhM3daUmdiX21TcEg0Nk5LVGlKbmlUN1BtTGV4Sk5fYXo4cTF1WlBpSEYwREp1YlNIMmgtalFqSEdhd1M4d0Utc0VidVdFaDY1YnllZmdWUEFDS2FOVEdHbk1hYi1BT3FwSF9lcG1ObFJaUnA3V29paWlEclZMZHU4YWtyRHZIZi03SXlvalViU21PRlo0aWJFczRRd0tiWG9XbHdMMUU1eXc5M1lUcm1oeHVCcjZwN2c?oc=5",
+   "pub": "Thu, 24 Sep 2026 17:58:17 GMT"
   },
   {
    "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
    "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
-  },
-  {
-   "t": "UNO-Vollversammlung - Trump ruft zu wirtschaftlicher Isolation des Iran auf - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRLVzRaYUVlcTNncW00MG1qdUhtbjJKUTRRZ1pYTzcyVi1kZ09UVFVGLTVhYVFxSldRZkxtbWpEZDl5RFFkM0g2Nl9UaFllZWR2UDJaV2RneV9GX1JIcEFieXgtLTdsZFB6Mk9kelljNkpXaWZUZ050SG1zazJSZ2RVWkJ1SzBrVGxjOXVLQktIMW1tZE13SA?oc=5",
-   "pub": "Tue, 22 Sep 2026 19:30:20 GMT"
   }
  ]
 }
