@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-09-24T04:53:55Z",
+ "collected_at": "2026-09-24T10:03:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8242,
-   "chg1d_pct": 0.41
+   "price": 0.8273,
+   "chg1d_pct": 0.79
   },
   "USDJPY": {
-   "price": 157.877,
-   "chg1d_pct": 0.26
+   "price": 158.768,
+   "chg1d_pct": 0.83
   },
   "GBPCAD": {
-   "price": 1.8672,
-   "chg1d_pct": -0.48
+   "price": 1.8652,
+   "chg1d_pct": -0.59
   },
   "AUDJPY": {
-   "price": 111.086,
-   "chg1d_pct": -0.81
-  },
-  "EURUSD": {
-   "price": 1.1387,
-   "chg1d_pct": -0.53
-  },
-  "GBPCHF": {
-   "price": 1.0915,
+   "price": 111.621,
    "chg1d_pct": -0.33
   },
+  "EURUSD": {
+   "price": 1.1378,
+   "chg1d_pct": -0.61
+  },
+  "GBPCHF": {
+   "price": 1.0941,
+   "chg1d_pct": -0.09
+  },
   "WTI": {
-   "price": 91.43,
-   "chg1d_pct": -0.79
+   "price": 93.71,
+   "chg1d_pct": 1.68
   },
   "BRENT": {
-   "price": 97.4,
-   "chg1d_pct": -5.51
+   "price": 105.44,
+   "chg1d_pct": 2.29
   },
   "GOLD": {
-   "price": 4321.6,
-   "chg1d_pct": 0.07
+   "price": 4289.2,
+   "chg1d_pct": -0.68
   },
   "SPX_FUT": {
-   "price": 7754.75,
-   "chg1d_pct": -0.23
+   "price": 7720.5,
+   "chg1d_pct": -0.67
   },
   "NAS_FUT": {
-   "price": 30682.75,
-   "chg1d_pct": -0.27
+   "price": 30420.25,
+   "chg1d_pct": -1.12
   }
  },
  "headlines": [
   {
    "t": "„Diese Zombies haben uns ruiniert“ – Im Iran drängt sich jetzt eine existenzielle Frage auf - WELT",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNX3huOWxpanNtcTJMM1VsNWtwSjZqdmhuQjR6TEhUcU04U2xlYmpVbm0zR003dXFURXZzTW0zR01GN191R2FNVlN3Q2xxeGQtTVNGY1RWZnkwd21CZG9DR3BQUFBYVzJYQzRqYXRWTGQ2d1JlS2RPSE9rYi1YN3RLMUV3NHo3M0s3WTNfZVlqUlAwQURwMWY3VVlDdW94blRnVTJjUlJ5aVVYbzFyZDVwVjZtdjZJYjhOM25WQ3NDTXF6X1hDc2gyb0hrWElsZVA4djA4cXMyNzVHTXpNUEYzTXBDM0l2LXZqM0VBRmdfLWN0N3Fyd0E?oc=5",
-   "pub": "Thu, 24 Sep 2026 03:00:03 GMT"
+   "pub": "Thu, 24 Sep 2026 05:59:17 GMT"
   },
   {
    "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
@@ -59,14 +59,14 @@
    "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
   },
   {
-   "t": "10 Jahre Haft für Chef von Hilfsorganisation: Solidarität mit Serkan Eren aus Stuttgart - SWR",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWJndFlCeVEtMG5VRHZnYm94dEtaQ1AwT2pGRGtObjJCYUtPcDA5alZZYi1pdlR0TTRIVkZ3MTRkTU5WQWdPQmZLemZpSkhDSXgzZnBGUnVpQzlTWEdTSEJMVGtPT1JMZGtCWnF5VHVFZ2x1NURZQURWTWd6SnZTMUFpcklFNGp3T1RvSGVsUnViTGFYaWlOdnJYN1RpRU1tSmFJTXZEU3lvamdSeVFXM2Q0VjRWMEE?oc=5",
-   "pub": "Wed, 23 Sep 2026 22:00:00 GMT"
-  },
-  {
    "t": "Mittlerer Osten - Außenminister Wadephul fodert vom Iran die Öffnung der Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVVycXZxa0lpVlZzcEYyZVh3WVFIT05kanlOdHNQNDdaSnFyRXo0WEI3ZHk3cmdPSkE5WXBmVThUdFd1ZEFGbFdvSlJULXliRnJDdW5senhPUnE2OTMxbkRLdUJCSlRibnA0R1hPWGJDUFdiSjQyY2lhbTE2anZHZVNxYWdOeklxd3MyaUNQMEFxQTNNM19pZ0FtS0M2S0dXOXlaa2ZwUDdZR3pITWl6Ump3WFNIZw?oc=5",
-   "pub": "Thu, 24 Sep 2026 03:57:38 GMT"
+   "pub": "Thu, 24 Sep 2026 08:39:26 GMT"
+  },
+  {
+   "t": "Iran will die Straße von Hormus in sieben Tagen öffnen – aber Trump muss dafür einen Preis zahlen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTldkcUhzQi1aVlpIN3dFdXU2Y0dDSDRZaF9pdUZTQ1ZTVzhxMk1YZzA1WlRTemprbjhrZHNKdXFaUEd1LTR1QXhaUFRpaGpQTmRWMjRSV21mVDdIYTQtWklnQlZHNGpmb1RiQXJjWXlodlpyblhfOE0zVm1uM0dOajkwMWJ6UklZRXp0S2dKREtkN2gzMDlabU4tZUd6dHRTcU5fa3VTMFB2b3I2aTJIWDZ0WDhRSXVUR2N5QV9rU1lITWM?oc=5",
+   "pub": "Thu, 24 Sep 2026 05:00:39 GMT"
   },
   {
    "t": "UN-Generaldebatte: Iranischer Präsident nennt sein Land »Opfer des Terrorismus« - DIE ZEIT",
@@ -74,14 +74,14 @@
    "pub": "Wed, 23 Sep 2026 18:35:18 GMT"
   },
   {
-   "t": "Iran und USA mitten im Krieg und Diplomatie: Peseschkian reist in die USA für UN-Rede - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk4zZzBiRjdrT0haM3d2WUlyYWpKYkJaYncydThvbFBveVNJbDRFdVNndGJGWHJFcDhaWjBWSF9aRG9qamVCZk51akt3RFRnZy0xUlFXeGlUS1RwRUR3OURrcnNWVllzX0VSbVJXNm43VWVIUE1NM0tXN0cxMndIY25mcnBpTVRWVzVReGw5OWpJektOM1hWS3ZHMTA2T1hoaVFid0d3eVZycE9sV1pXaVdNaHQtd2px?oc=5",
-   "pub": "Wed, 23 Sep 2026 20:27:00 GMT"
+   "t": "Trump und der Krieg gegen Iran: Er findet den Ausgang nicht - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaG0teFFEUnNxeG4tNkp6TEo0bzFRLTRLakF0eVE3enB5VWZrRXNtdDN0akxMd1AyYUpJUmJXYmRKTUdmNXgzcS1FYkRmMTBLRklfLUU0MEllZGxyclMxVnJxYlM2UGRjTl8yY3NDZ1hLa0g1M1dRVUUyMjY2WmR0bkNhcDhCNkhScjgzazFta3YyX2d2R1M2MHFUa0h6YVlzemVpWldFdlRLb19CdnkyZ2pCb3JYMzBaSUVfbWs4cjdnb1FVSTRBNWtrRHBRajU0YjRqRQ?oc=5",
+   "pub": "Wed, 23 Sep 2026 20:33:10 GMT"
   },
   {
-   "t": "Iran vom Flugverkehr abgeschnitten: USA machen Druck - faz.net",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUpEZ0tnVVZZdGpYNjJmWm14eW1ETy1ySEFJRGgtMno4X2FscU9MYkpiMmRvenVEb1VELU5aZUV2V041RkFsbUpZQkZGSUktNWQtc1Zzc3Z0SFhJOThEX29LcXY3X0lmbWNZaXBnZVUxV1pKU3d5cmgxZkphWFcxal9Wd2ZjLVVyYzdPcDRiUWowaG5VNEtldk1zMDR5TjJZX2s0SUt3NTVESlFMT0tR?oc=5",
-   "pub": "Wed, 23 Sep 2026 14:30:59 GMT"
+   "t": "Peseschkian vor der UNO: Iran will »Widerstand« fortsetzen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYWd3aW9FWktXcVhUdk9uMDdrWThwZTBjckFrRU9pa2pteklmYno4TWtDNUNfUkMtX05MUEc0V2hYT3VNRDlydDVlSkNtWEZHalVvWnZYNWcxR3d5NEZpNGxVTVFNV05udjV5ZmtMYVV6M2ZyM0g5azlROFQ1Z1c1LTQ3NHNqVkJtVGNJTWpFLVdVTlliOTBHNDBBUVE2c1pyNnc?oc=5",
+   "pub": "Thu, 24 Sep 2026 08:59:00 GMT"
   },
   {
    "t": "(S+) Serkan Eren aus Stuttgart reiste für eine Hilfsmission nach Iran. Dort wurde er jetzt offenbar zu zehn Jahren Haft verurteilt - Spiegel",
@@ -89,14 +89,9 @@
    "pub": "Wed, 23 Sep 2026 13:43:00 GMT"
   },
   {
-   "t": "Iran-Gespräch: Kallas fordert freien Schiffsverkehr in Straße von Hormus - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsZ2JZbS1MTDVOTlJnajlyaHVHcExQR3BZZE14bVduWEF4WmUyV3cwb3BpMXZMMlZwTGd5WVR6SzVXekhhc005MnUzZmtaY01sNDhkUzZEbFZIZlg5VkRTVHI4RU1GN0tvbF9YYmdESnN0OUk?oc=5",
-   "pub": "Wed, 23 Sep 2026 18:15:50 GMT"
-  },
-  {
-   "t": "Baden-Württemberg: BW-Newsticker am Morgen: STELP-Gründer im Iran verurteilt: Özdemir fordert Freilassung, Heißluftballon fährt knapp am Kirchturm vorbei - Menschen wählen Notruf - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOeG5xZC1fM2dJUE1zdFJYRnhIQ0tyWXNnVmFScmg1Y2lkRnFSQ0dpU2pYeEppMG80bXRpYzdLQnFiSXNVQ0dEeXZmSERlM203aEZmRG9acHQyU3MtbjdNc05CZnlZc1FsWlg0Y0hWcTc2U3RVRDVZZDVFTHJuTmo2R29pd0pTaGwzRnBWM205eUxjWXQtUkoyZnlwckhObkp5N2lCckpUQW5GRFBORmc4d3dQZHJ6a2xndWtjZlBuelJiaGRHcy1JeEw2UHA2OGI4ZEVKR2M0bTZJZ2ZHNzREZld1WllpSlk0MTNxelRfV2d4N3IweHNISnlBZHJ4Tmg5RURxTklrMnVfWUlBOHNwTzRsUmdKYjBCZW1UOVJhT1dSeC1wYUJEbzktX1VhRmZBbUZRTVRXc09ETFBBRGJfWDRzWHE2bm9KLXJPaFctZGhjQQ?oc=5",
-   "pub": "Thu, 24 Sep 2026 04:11:00 GMT"
+   "t": "Iran und USA mitten im Krieg und Diplomatie: Peseschkian reist in die USA für UN-Rede - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk4zZzBiRjdrT0haM3d2WUlyYWpKYkJaYncydThvbFBveVNJbDRFdVNndGJGWHJFcDhaWjBWSF9aRG9qamVCZk51akt3RFRnZy0xUlFXeGlUS1RwRUR3OURrcnNWVllzX0VSbVJXNm43VWVIUE1NM0tXN0cxMndIY25mcnBpTVRWVzVReGw5OWpJektOM1hWS3ZHMTA2T1hoaVFid0d3eVZycE9sV1pXaVdNaHQtd2px?oc=5",
+   "pub": "Thu, 24 Sep 2026 03:57:00 GMT"
   },
   {
    "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
@@ -107,6 +102,11 @@
    "t": "UNO-Vollversammlung - Trump ruft zu wirtschaftlicher Isolation des Iran auf - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRLVzRaYUVlcTNncW00MG1qdUhtbjJKUTRRZ1pYTzcyVi1kZ09UVFVGLTVhYVFxSldRZkxtbWpEZDl5RFFkM0g2Nl9UaFllZWR2UDJaV2RneV9GX1JIcEFieXgtLTdsZFB6Mk9kelljNkpXaWZUZ050SG1zazJSZ2RVWkJ1SzBrVGxjOXVLQktIMW1tZE13SA?oc=5",
    "pub": "Tue, 22 Sep 2026 19:30:20 GMT"
+  },
+  {
+   "t": "Iran vom Flugverkehr abgeschnitten: USA machen Druck - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUpEZ0tnVVZZdGpYNjJmWm14eW1ETy1ySEFJRGgtMno4X2FscU9MYkpiMmRvenVEb1VELU5aZUV2V041RkFsbUpZQkZGSUktNWQtc1Zzc3Z0SFhJOThEX29LcXY3X0lmbWNZaXBnZVUxV1pKU3d5cmgxZkphWFcxal9Wd2ZjLVVyYzdPcDRiUWowaG5VNEtldk1zMDR5TjJZX2s0SUt3NTVESlFMT0tR?oc=5",
+   "pub": "Wed, 23 Sep 2026 14:30:59 GMT"
   }
  ]
 }
