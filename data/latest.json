@@ -1,55 +1,112 @@
 {
- "collected_at": "2026-09-24T22:25:55Z",
+ "collected_at": "2026-09-25T01:32:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.828,
-   "chg1d_pct": 0.36
+   "price": 0.8282,
+   "chg1d_pct": 0.38
   },
   "USDJPY": {
-   "price": 158.79,
-   "chg1d_pct": 0.33
+   "price": 158.696,
+   "chg1d_pct": 0.27
   },
   "GBPCAD": {
-   "price": 1.8685,
-   "chg1d_pct": 0.08
+   "price": 1.8691,
+   "chg1d_pct": 0.11
   },
   "AUDJPY": {
-   "price": 111.354,
-   "chg1d_pct": 0.03
-  },
-  "EURUSD": {
-   "price": 1.138,
+   "price": 111.299,
    "chg1d_pct": -0.02
   },
+  "EURUSD": {
+   "price": 1.1379,
+   "chg1d_pct": -0.03
+  },
   "GBPCHF": {
-   "price": 1.0942,
-   "chg1d_pct": 0.17
+   "price": 1.0946,
+   "chg1d_pct": 0.21
   },
   "WTI": {
-   "price": 94.48,
-   "chg1d_pct": 2.52
+   "price": 93.35,
+   "chg1d_pct": -1.33
   },
   "BRENT": {
-   "price": 106.68,
-   "chg1d_pct": 3.49
+   "price": 105.74,
+   "chg1d_pct": 2.58
   },
   "GOLD": {
-   "price": 4305.9,
-   "chg1d_pct": -0.29
+   "price": 4328.2,
+   "chg1d_pct": 0.7
   },
   "SPX_FUT": {
-   "price": 7758.25,
-   "chg1d_pct": -0.18
+   "price": 7763.0,
+   "chg1d_pct": -0.05
   },
   "NAS_FUT": {
-   "price": 30728.0,
-   "chg1d_pct": -0.12
+   "price": 30785.75,
+   "chg1d_pct": 0.07
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "10 Jahre Haft für Chef von Hilfsorganisation: Solidarität mit Serkan Eren aus Stuttgart - SWR",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWJndFlCeVEtMG5VRHZnYm94dEtaQ1AwT2pGRGtObjJCYUtPcDA5alZZYi1pdlR0TTRIVkZ3MTRkTU5WQWdPQmZLemZpSkhDSXgzZnBGUnVpQzlTWEdTSEJMVGtPT1JMZGtCWnF5VHVFZ2x1NURZQURWTWd6SnZTMUFpcklFNGp3T1RvSGVsUnViTGFYaWlOdnJYN1RpRU1tSmFJTXZEU3lvamdSeVFXM2Q0VjRWMEE?oc=5",
+   "pub": "Thu, 24 Sep 2026 18:45:00 GMT"
+  },
+  {
+   "t": "Xi Jinping in Washington: Tausche Taiwan gegen Iran - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVGdlNaYlM2aDQ3aHp5aEpvdDZFTS13XzVhQXc4UjZYVnBzT011R08xUHBMTXFYWFlaZ1k5aWdKVmNxeFFzLTdIM21rN2FFcGNVTmNicl9WWlprc1Y2YkFhNXhlak05dFNocE1aaEludkVWWTZjV2tKVElLMUlpd2Z0T2VqejRrM2FyS2RBaW5tVlZJRHU5Ym9DM0ZITUJEdnc?oc=5",
+   "pub": "Thu, 24 Sep 2026 10:32:15 GMT"
+  },
+  {
+   "t": "Iran und USA mitten im Krieg und Diplomatie: Peseschkian reist in die USA für UN-Rede - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk4zZzBiRjdrT0haM3d2WUlyYWpKYkJaYncydThvbFBveVNJbDRFdVNndGJGWHJFcDhaWjBWSF9aRG9qamVCZk51akt3RFRnZy0xUlFXeGlUS1RwRUR3OURrcnNWVllzX0VSbVJXNm43VWVIUE1NM0tXN0cxMndIY25mcnBpTVRWVzVReGw5OWpJektOM1hWS3ZHMTA2T1hoaVFid0d3eVZycE9sV1pXaVdNaHQtd2px?oc=5",
+   "pub": "Thu, 24 Sep 2026 20:52:00 GMT"
+  },
+  {
+   "t": "Bis zum Indischen Ozean: Teheran droht mit erneuter Ausweitung des Iran-Krieges - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3pPSVNWekt3T0dyQWZtVlZqbTloTi1QS1ZKNTdQSXY3WUZtSHRsY29CVEdGUnpVaThhS0g5cUUxUm93Z2gwc3VrcmxlNlc4cG0wZUZJR0ZlamkySDNTZXF2TExaRWwxNnliblVnWDRxTERaTlhtb2J4OG0wOUxzcHlNV0x3b1F6UzBkTWZVMTM1YzFLZlpmZ0RTenhKb3c?oc=5",
+   "pub": "Thu, 24 Sep 2026 13:31:14 GMT"
+  },
+  {
+   "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
+   "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
+  },
+  {
+   "t": "UNO-Vollversammlung - Trump ruft zu wirtschaftlicher Isolation des Iran auf - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRLVzRaYUVlcTNncW00MG1qdUhtbjJKUTRRZ1pYTzcyVi1kZ09UVFVGLTVhYVFxSldRZkxtbWpEZDl5RFFkM0g2Nl9UaFllZWR2UDJaV2RneV9GX1JIcEFieXgtLTdsZFB6Mk9kelljNkpXaWZUZ050SG1zazJSZ2RVWkJ1SzBrVGxjOXVLQktIMW1tZE13SA?oc=5",
+   "pub": "Tue, 22 Sep 2026 19:30:20 GMT"
+  },
+  {
+   "t": "USDCHF Trading Idee: Neue Chance im Forex Trading nach Support-Rebound - XTB",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZFFDRENsbEQ4NVc2N1dUSi0ySDduUkYxTlE4WERCNjdBMTZrNXhWNUE2ZTdpcTNxcFFNSUN0RkJKWE5WcHJManpUdUd6azNKVkk3Y290X0dRNlJ0RF93aVhRM2ZVTXV2QThDYnlGNkhGcUIzOUdDSVVBWHpXUzNqZF9kWUg2ZmlyaXJ5WGEzY01YSklnenlMaHIwVG5EcVowcFJyWkZmWk9rOEVianNOWUZET1puak5qWGY4?oc=5",
+   "pub": "Thu, 24 Sep 2026 14:56:00 GMT"
+  },
+  {
+   "t": "USA und Iran drohen einander, Angst vor erneutem Krieg wächst - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Rkx0OWQ4UEg0MHloM1Zsa3pOU1VDSTlYNnpuc20teTZBQmVGeC1TaG5FdXM2Q1JXWFQ4d1BUc3hPU2xGbjlodmhCQ3JlVGk3emJMaWJQanFvYlhWMHZNSUxyeTBISlg5bnVJZm9PQTI3cXJfUG9ETw?oc=5",
+   "pub": "Mon, 21 Sep 2026 17:56:49 GMT"
+  },
+  {
+   "t": "Nach Einsatz in Trumps Iran-Krieg US-Navy meldet acht Suizidversuche auf Flugzeugträger „Abraham Lincoln“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWmhRWVhHeVlkRHRQZGlobDhaeFRPY1J6SUhXUnV2QWZZYWtxZHdtSTlzejF4Q3JLR0RYcnRCRXJaaVY0dXVBZEJWeWZ0TmRQamR0b2JzRTVPbkNXREJ0TlhKX2VYTHZIckFrbHE4Y0pFeHdEWjRfRzcySWZwallRNE9zaVFvc3RFZlpXcGdDTkVqSGZuNXZsTFhCVUd0RDg5YTFiQVltSmc3TnhVSWEtemctUnZqYXZsWk92cW0xUDViVzZoSnRtaHo1SjV0VDQ1M3hiNDYzeE5fWEVZcFFLZjJKTk9wVkxBeVVvY0gtZnlfSzQ?oc=5",
+   "pub": "Thu, 24 Sep 2026 11:07:07 GMT"
+  },
+  {
+   "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
+   "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
+  },
+  {
+   "t": "\"Konflikt mit USA: Irgendwann muss China zurückschlagen\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY0hhM3daUmdiX21TcEg0Nk5LVGlKbmlUN1BtTGV4Sk5fYXo4cTF1WlBpSEYwREp1YlNIMmgtalFqSEdhd1M4d0Utc0VidVdFaDY1YnllZmdWUEFDS2FOVEdHbk1hYi1BT3FwSF9lcG1ObFJaUnA3V29paWlEclZMZHU4YWtyRHZIZi03SXlvalViU21PRlo0aWJFczRRd0tiWG9XbHdMMUU1eXc5M1lUcm1oeHVCcjZwN2c?oc=5",
+   "pub": "Thu, 24 Sep 2026 18:26:34 GMT"
+  },
+  {
+   "t": "Mittlerer Osten - Außenminister Wadephul fodert vom Iran die Öffnung der Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVVycXZxa0lpVlZzcEYyZVh3WVFIT05kanlOdHNQNDdaSnFyRXo0WEI3ZHk3cmdPSkE5WXBmVThUdFd1ZEFGbFdvSlJULXliRnJDdW5senhPUnE2OTMxbkRLdUJCSlRibnA0R1hPWGJDUFdiSjQyY2lhbTE2anZHZVNxYWdOeklxd3MyaUNQMEFxQTNNM19pZ0FtS0M2S0dXOXlaa2ZwUDdZR3pITWl6Ump3WFNIZw?oc=5",
+   "pub": "Thu, 24 Sep 2026 08:39:26 GMT"
   }
  ]
 }
