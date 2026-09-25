@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-25T13:49:38Z",
+ "collected_at": "2026-09-25T18:38:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,44 +7,44 @@
    "chg1d_pct": 0.4
   },
   "USDJPY": {
-   "price": 157.036,
-   "chg1d_pct": -0.78
+   "price": 157.183,
+   "chg1d_pct": -0.68
   },
   "GBPCAD": {
-   "price": 1.8746,
-   "chg1d_pct": 0.41
+   "price": 1.8744,
+   "chg1d_pct": 0.4
   },
   "AUDJPY": {
-   "price": 110.343,
-   "chg1d_pct": -0.88
+   "price": 110.49,
+   "chg1d_pct": -0.75
   },
   "EURUSD": {
-   "price": 1.1405,
-   "chg1d_pct": 0.2
+   "price": 1.1401,
+   "chg1d_pct": 0.17
   },
   "GBPCHF": {
-   "price": 1.0981,
-   "chg1d_pct": 0.53
+   "price": 1.0975,
+   "chg1d_pct": 0.47
   },
   "WTI": {
-   "price": 93.38,
-   "chg1d_pct": -1.3
+   "price": 92.43,
+   "chg1d_pct": -2.3
   },
   "BRENT": {
-   "price": 98.91,
-   "chg1d_pct": -7.21
+   "price": 97.42,
+   "chg1d_pct": -8.61
   },
   "GOLD": {
-   "price": 4316.0,
-   "chg1d_pct": 0.42
+   "price": 4321.1,
+   "chg1d_pct": 0.54
   },
   "SPX_FUT": {
-   "price": 7785.0,
-   "chg1d_pct": 0.23
+   "price": 7798.0,
+   "chg1d_pct": 0.4
   },
   "NAS_FUT": {
-   "price": 30853.75,
-   "chg1d_pct": 0.28
+   "price": 30884.25,
+   "chg1d_pct": 0.38
   }
  },
  "headlines": [
@@ -59,34 +59,9 @@
    "pub": "Fri, 25 Sep 2026 10:24:10 GMT"
   },
   {
-   "t": "Iran bietet Trump Öffnung der Straße von Hormus an – schon in sieben Tagen! - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEFOQmNRVHl0QUtxUFJCQXhvZGFJaXZqa25ueFMtNmhwd3hQMzhyMkxLbmJ4aEpBYzRKaU91Z01WX1ZPcGdJUUFlNGN5ZG1XV2NCVzlQUGhTd1U0RU5fdVRuU05GalVMVVRENEpwc1B1MEl1Y2tGZDFCcE5scFlwWWFEUExSQURkS3lyMGxSVGlsQk5GamVDMk9zRzhaalVKcjZVUkFsc3RUZmtWM2ExMW9ObWVWeWRXNFliNkhsNEF2UUtYNXdkRGxTbVZSYkx6V05ZdmYwai1hZzBSc2d5N19YMnc2aHRmWTg0?oc=5",
-   "pub": "Fri, 25 Sep 2026 06:50:32 GMT"
-  },
-  {
-   "t": "\"Wir wollen nicht weitermachen\": Bericht: Iran legt US-Regierung neuen Plan für Kriegsende vor - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmdDYWw4WUhIYlo1NGdWcm81VnNCNUNqWk90LVZJVW9YUEZoOGMzUGtLTUg2SWt4RGJtZ1V3N1J2RmQyRVdYbDMtSGxUMFZQOXFobThEYTROSHJCNDVxR0wzbUZpVF9PdnNPc29wZ0dub2FaVVNyaHFFZ3ZicFM3c0NSbGRkQk04dm50SVlRTGdBdjFURU9YOVpidTF2Vml1SVpqY1VsR0I?oc=5",
-   "pub": "Fri, 25 Sep 2026 05:31:02 GMT"
-  },
-  {
    "t": "Ölpreis fällt: Plötzlich Hoffnung auf Ende des Iran-Krieges - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFB6ZFU3RmRILXFMNE5FMVkySlBpLTVTVWluX3E3U0N3V0ZmRm5CNE1FQTdxLUIxMDkzd3ZIWldxUU5aM3FWWHNJT3dOa3dnUFFJVVBJTVZENEF6UmJOTTE0ZEdKQ01QeG4wSEFjVTZuQWN4UlJSRlJ6MUtTY0czUUJwclMxZ0JXSjhKY05DQ085SExjMjFqZnJiTGhUck9pdlpUT294c1ZyZw?oc=5",
-   "pub": "Fri, 25 Sep 2026 05:30:00 GMT"
-  },
-  {
-   "t": "Präsident: Iran zur Herausgabe des Urans bereit - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNDFiZDJiUERSekhuWTFJQWRHVVpRcnpWSkZTbENMdTJXUm1qNzNDZ0hZUUFTeTZiMnAyMFJvYks0SE1WYWhoeTVpX0FmRTZKY25ISmd5blFfejBUNGNwaW52dXkwLW4ySG5YTl9ZNzJHV2hkV21vdVZiRFVVR2N6NXFremV4ckdWZFdyeUFveVFWVEpTYmhyVExYMV9URl9kYzVxOGxsV2ZWRU5kLW1WVDdIS1E4dDVtMDNRU2QwNXV0WXhGN0FsMkQ3cnZOQUlIVHptbFN3RF90dWVSN1dFZ3htSjBmNG8?oc=5",
-   "pub": "Fri, 25 Sep 2026 03:57:00 GMT"
-  },
-  {
-   "t": "Iran und USA mitten im Krieg und Diplomatie: Peseschkian reist in die USA für UN-Rede - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVk4zZzBiRjdrT0haM3d2WUlyYWpKYkJaYncydThvbFBveVNJbDRFdVNndGJGWHJFcDhaWjBWSF9aRG9qamVCZk51akt3RFRnZy0xUlFXeGlUS1RwRUR3OURrcnNWVllzX0VSbVJXNm43VWVIUE1NM0tXN0cxMndIY25mcnBpTVRWVzVReGw5OWpJektOM1hWS3ZHMTA2T1hoaVFid0d3eVZycE9sV1pXaVdNaHQtd2px?oc=5",
-   "pub": "Fri, 25 Sep 2026 03:19:00 GMT"
-  },
-  {
-   "t": "Berichte: Iran legt Sieben-Tage-Plan zur Beendigung des Kriegs vor - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUttLW1VYkVDY0VwWXJuOW9fbmd6ZmhLTDBNZ3lDMXdKS2hLMTFsZUFzXzRDUXlQZzlUUDhEWFRPakFUUEdFRUJhbGF0QzR6dWV0ZHMwRGtLek1JNjdHLUVGMXJxY01VVTNZTC1kRWhzQlhFdWRlM3k5VmhzZEQ0ODJrS1dXazBVMjkyS2pVNms4XzZheWVQaFZRM2N6ckgyc2hJZmcxMGl1N1FDejFv?oc=5",
-   "pub": "Fri, 25 Sep 2026 06:30:00 GMT"
+   "pub": "Fri, 25 Sep 2026 17:55:54 GMT"
   },
   {
    "t": "Iran legt den USA Vorschlag zur Öffnung der Straße von Hormus binnen einer Woche vor - STERN.de",
@@ -94,19 +69,44 @@
    "pub": "Fri, 25 Sep 2026 11:28:32 GMT"
   },
   {
+   "t": "Iran bietet Trump Öffnung der Straße von Hormus an – schon in sieben Tagen! - bild.de",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEFOQmNRVHl0QUtxUFJCQXhvZGFJaXZqa25ueFMtNmhwd3hQMzhyMkxLbmJ4aEpBYzRKaU91Z01WX1ZPcGdJUUFlNGN5ZG1XV2NCVzlQUGhTd1U0RU5fdVRuU05GalVMVVRENEpwc1B1MEl1Y2tGZDFCcE5scFlwWWFEUExSQURkS3lyMGxSVGlsQk5GamVDMk9zRzhaalVKcjZVUkFsc3RUZmtWM2ExMW9ObWVWeWRXNFliNkhsNEF2UUtYNXdkRGxTbVZSYkx6V05ZdmYwai1hZzBSc2d5N19YMnc2aHRmWTg0?oc=5",
+   "pub": "Fri, 25 Sep 2026 06:50:32 GMT"
+  },
+  {
+   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFVaY0V5dU9qUG9RUTNjTmYzVjN6UmJUYXJ0MUpCTGhLNFNOXzJxZ2VBTnZxQ1hMYWZKWFp3WFJzNjVoaHBmNFBVa1QwbmlMaGtmT0t5UkN1LXpCYUNEMy15eXZ4ckxoM2xQV3lJQVlEX1F4VmpybThpWVdzSVVuRng5blgwM3k1Uzh4bWc5cUt1MEhVdC1sRnUwMm5XQVY0b2lTbTJ3b1N5ekhmMExQWDkwcVBOczhhRkVnMUM0Yw?oc=5",
+   "pub": "Fri, 25 Sep 2026 17:00:00 GMT"
+  },
+  {
+   "t": "\"Wir wollen nicht weitermachen\": Bericht: Iran legt US-Regierung neuen Plan für Kriegsende vor - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmdDYWw4WUhIYlo1NGdWcm81VnNCNUNqWk90LVZJVW9YUEZoOGMzUGtLTUg2SWt4RGJtZ1V3N1J2RmQyRVdYbDMtSGxUMFZQOXFobThEYTROSHJCNDVxR0wzbUZpVF9PdnNPc29wZ0dub2FaVVNyaHFFZ3ZicFM3c0NSbGRkQk04dm50SVlRTGdBdjFURU9YOVpidTF2Vml1SVpqY1VsR0I?oc=5",
+   "pub": "Fri, 25 Sep 2026 05:31:02 GMT"
+  },
+  {
+   "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
+   "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
+  },
+  {
+   "t": "Berichte: Iran legt Sieben-Tage-Plan zur Beendigung des Kriegs vor - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUttLW1VYkVDY0VwWXJuOW9fbmd6ZmhLTDBNZ3lDMXdKS2hLMTFsZUFzXzRDUXlQZzlUUDhEWFRPakFUUEdFRUJhbGF0QzR6dWV0ZHMwRGtLek1JNjdHLUVGMXJxY01VVTNZTC1kRWhzQlhFdWRlM3k5VmhzZEQ0ODJrS1dXazBVMjkyS2pVNms4XzZheWVQaFZRM2N6ckgyc2hJZmcxMGl1N1FDejFv?oc=5",
+   "pub": "Fri, 25 Sep 2026 06:30:00 GMT"
+  },
+  {
+   "t": "Präsident: Iran zur Herausgabe des Urans bereit - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNDFiZDJiUERSekhuWTFJQWRHVVpRcnpWSkZTbENMdTJXUm1qNzNDZ0hZUUFTeTZiMnAyMFJvYks0SE1WYWhoeTVpX0FmRTZKY25ISmd5blFfejBUNGNwaW52dXkwLW4ySG5YTl9ZNzJHV2hkV21vdVZiRFVVR2N6NXFremV4ckdWZFdyeUFveVFWVEpTYmhyVExYMV9URl9kYzVxOGxsV2ZWRU5kLW1WVDdIS1E4dDVtMDNRU2QwNXV0WXhGN0FsMkQ3cnZOQUlIVHptbFN3RF90dWVSN1dFZ3htSjBmNG8?oc=5",
+   "pub": "Fri, 25 Sep 2026 03:57:00 GMT"
+  },
+  {
    "t": "Xi Jinping in Washington: Tausche Taiwan gegen Iran - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVGdlNaYlM2aDQ3aHp5aEpvdDZFTS13XzVhQXc4UjZYVnBzT011R08xUHBMTXFYWFlaZ1k5aWdKVmNxeFFzLTdIM21rN2FFcGNVTmNicl9WWlprc1Y2YkFhNXhlak05dFNocE1aaEludkVWWTZjV2tKVElLMUlpd2Z0T2VqejRrM2FyS2RBaW5tVlZJRHU5Ym9DM0ZITUJEdnc?oc=5",
    "pub": "Thu, 24 Sep 2026 10:32:15 GMT"
   },
   {
-   "t": "Straße von Hormus: Irans neuer Vorschlag an Donald Trump - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2R0b296dVJzVTRpYUZidWlFTnEtTnFwd3p1VU9fR24xZDMwYUhpMU5vZFdwMk9peFZaNDFWcnl3WWV5YXFlQ24wbnprOHRVUXhpVkpMRUNKbERXUGpMOWN1ZEp3UnpRYlFjakxUWExZQTZqMnJDMVdyTVBkbEN1VkFRUm1YR05FanJ3NU5sdjktRTJocHJRU1dyUTVkbUZncDBic0tDMzdtbWw3d2VheHJrTzBPX1VXS0p6Rw?oc=5",
-   "pub": "Fri, 25 Sep 2026 10:56:46 GMT"
-  },
-  {
-   "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
-   "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
+   "t": "Kolumbien bricht diplomatische Beziehungen zu Iran ab - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZjgyVmxRTHpOM2dnU1pJNWtaTFBCNXl0YVFkUThJdXR2MFl1ZGs4ZGZIc0VPbU1JM1RwcVp0THM3eWdGZVBmYy1MVTZmN1c4UWNfWXk5UnNGaHI3S2otMC1yM2N4NnBJM1ZiSlFFN0tIWF9OdUUxU0lzU1FCX3pELVRmS3lNcS1hdEt2akxqVGZfaHlXS19jek9kMG9NWUM5aFN6XzdETlJkZ0ZhUEVPSy1oZ1lyTFdI?oc=5",
+   "pub": "Fri, 25 Sep 2026 11:54:31 GMT"
   }
  ]
 }
