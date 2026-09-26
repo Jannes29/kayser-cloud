@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-25T22:22:31Z",
+ "collected_at": "2026-09-26T01:35:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -59,7 +59,7 @@
    "pub": "Fri, 25 Sep 2026 10:24:10 GMT"
   },
   {
-   "t": "Iran legt den USA Vorschlag zur Öffnung der Straße von Hormus binnen einer Woche vor - stern.de",
+   "t": "Iran legt den USA Vorschlag zur Öffnung der Straße von Hormus binnen einer Woche vor - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaUI5bEc3MFVvenA4czBQekJGdzJBSWx3N3JBM3ZiYklOYVdDZGY4eS1YYUZqUmRxV1RHaXEwZkZfWVlLRFlQeVZaQ0x5ck5WUWRFejZOTVBoTG1uVlZrYnRUSGdPb05LRENkbm1mNGVFN0g1aklzNDFDVWpxelE2a3JBd2lZd254SFBHNWtXb3A4cU1iQ2FCYk5GRVQ5MTRyOEhQWFdXa05sTmVrU2dvNm4wSmd0UDN1cFM2SDJpUTNyeC1L?oc=5",
    "pub": "Fri, 25 Sep 2026 11:28:32 GMT"
   },
@@ -67,6 +67,21 @@
    "t": "Iran isoliert: US-Sanktionen bringen Luftfahrt ins Wanken - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTW9GZXdCeXUtNk9oTkJTRncxSGgybE9xQTVtM2xtY1VlVnpTWkNaOXNOcXkxWF81eGR2Zzgzc252ZEpzMUU5YTZtZXRwLW5iV3lpcXd3TjBIX2FuUnVIV09jcVVQMWVqUEVNWTV6YWxwcy1OLW1DdUM0dHpjM2VQZHpjdHVtRlZobTVnUFhkakVUR2FiTmVjdmtpY1VSRXFnTzZ0YXhiUWtCVkxTZ3FGbVEzQQ?oc=5",
    "pub": "Fri, 25 Sep 2026 11:24:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg - Teheran erneuert Vorschlag zur Blockade der Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmliTUx0STdKdWdmWHRXamd0c21uZzNxWll0d3pzekxHWjVVczA1RmNBbnU3cmNQRzBmdzVzbWVXSktyUlpLeEN3b3VBWE5OTm5QaDIzc1d4Z0xSOHN3S2dueXNlWl9kMlFvbmRDVFB0TGQzSldkWktmdFUyRmdEdWkwdWlZOHAtaWhRZzBUelh5U1hidzByMFJUQ3VxcnB0YW8xaw?oc=5",
+   "pub": "Sat, 26 Sep 2026 01:00:00 GMT"
+  },
+  {
+   "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
+   "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
+  },
+  {
+   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFVaY0V5dU9qUG9RUTNjTmYzVjN6UmJUYXJ0MUpCTGhLNFNOXzJxZ2VBTnZxQ1hMYWZKWFp3WFJzNjVoaHBmNFBVa1QwbmlMaGtmT0t5UkN1LXpCYUNEMy15eXZ4ckxoM2xQV3lJQVlEX1F4VmpybThpWVdzSVVuRng5blgwM3k1Uzh4bWc5cUt1MEhVdC1sRnUwMm5XQVY0b2lTbTJ3b1N5ekhmMExQWDkwcVBOczhhRkVnMUM0Yw?oc=5",
+   "pub": "Fri, 25 Sep 2026 17:00:00 GMT"
   },
   {
    "t": "Massive Unterstützung des Iran?: Fritz: US-Geheimdienstbericht macht China schwere Vorwürfe - n-tv.de",
@@ -79,34 +94,19 @@
    "pub": "Fri, 25 Sep 2026 06:50:32 GMT"
   },
   {
-   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFVaY0V5dU9qUG9RUTNjTmYzVjN6UmJUYXJ0MUpCTGhLNFNOXzJxZ2VBTnZxQ1hMYWZKWFp3WFJzNjVoaHBmNFBVa1QwbmlMaGtmT0t5UkN1LXpCYUNEMy15eXZ4ckxoM2xQV3lJQVlEX1F4VmpybThpWVdzSVVuRng5blgwM3k1Uzh4bWc5cUt1MEhVdC1sRnUwMm5XQVY0b2lTbTJ3b1N5ekhmMExQWDkwcVBOczhhRkVnMUM0Yw?oc=5",
-   "pub": "Fri, 25 Sep 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
-   "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
-  },
-  {
-   "t": "UNO-Vollversammlung - Trump ruft zu wirtschaftlicher Isolation des Iran auf - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRLVzRaYUVlcTNncW00MG1qdUhtbjJKUTRRZ1pYTzcyVi1kZ09UVFVGLTVhYVFxSldRZkxtbWpEZDl5RFFkM0g2Nl9UaFllZWR2UDJaV2RneV9GX1JIcEFieXgtLTdsZFB6Mk9kelljNkpXaWZUZ050SG1zazJSZ2RVWkJ1SzBrVGxjOXVLQktIMW1tZE13SA?oc=5",
-   "pub": "Tue, 22 Sep 2026 19:30:20 GMT"
-  },
-  {
    "t": "Außenministerin des Jemen: Iran ist verantwortlich für Kämpfe - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXpTMGc1LXVhMzNfLXFoVXFMOWJybWI1dWxFQ29EZlMtZjBtdUNheHR6ZlVyLVJnVXRXd05qQTNORzFxRGVQYVk0YXdJSDNrdEVMZkVzSnp3U0NQMGlrN0Q3MkxjYWRieEFXSVNkUElleUxVelZabjNVQ0Z6WDF0a0NEVVp2Z0oxRVFKNE8tbUpaSTFWU1Ytdw?oc=5",
    "pub": "Fri, 25 Sep 2026 21:20:00 GMT"
   },
   {
-   "t": "Iran bekräftigt Vorschlag zur Öffnung der Straße von Hormus binnen sieben Tagen - stern.de",
+   "t": "Iran bekräftigt Vorschlag zur Öffnung der Straße von Hormus binnen sieben Tagen - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU09mYUpEWGxNUXVqVjgya2VsOTFxUXdxR3JTNzVlblROcnF4eGQyQ2E1a0hNcFlwOHE2cVhFMThyM0xLN2RFTG0tX3BjV0VKdmxhUEtpYjJ6dlpaTTVjTXM2ZFk5eVVOZjNaT0piamZYNlJ2QkNwU3dhU3llUl8zazluNmRzX2czVm42cFNqLVBsQjU5S3dOZE92RXZMNWt1dE9YVlFyWWluX0Z2ZWEta0tNUGx4UXFJc180SEVNMA?oc=5",
    "pub": "Fri, 25 Sep 2026 22:00:35 GMT"
   },
   {
-   "t": "\"Wir wollen nicht weitermachen\": Bericht: Iran legt US-Regierung neuen Plan für Kriegsende vor - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmdDYWw4WUhIYlo1NGdWcm81VnNCNUNqWk90LVZJVW9YUEZoOGMzUGtLTUg2SWt4RGJtZ1V3N1J2RmQyRVdYbDMtSGxUMFZQOXFobThEYTROSHJCNDVxR0wzbUZpVF9PdnNPc29wZ0dub2FaVVNyaHFFZ3ZicFM3c0NSbGRkQk04dm50SVlRTGdBdjFURU9YOVpidTF2Vml1SVpqY1VsR0I?oc=5",
-   "pub": "Fri, 25 Sep 2026 05:31:02 GMT"
+   "t": "Xi Jinping in Washington: Tausche Taiwan gegen Iran - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVGdlNaYlM2aDQ3aHp5aEpvdDZFTS13XzVhQXc4UjZYVnBzT011R08xUHBMTXFYWFlaZ1k5aWdKVmNxeFFzLTdIM21rN2FFcGNVTmNicl9WWlprc1Y2YkFhNXhlak05dFNocE1aaEludkVWWTZjV2tKVElLMUlpd2Z0T2VqejRrM2FyS2RBaW5tVlZJRHU5Ym9DM0ZITUJEdnc?oc=5",
+   "pub": "Thu, 24 Sep 2026 10:32:15 GMT"
   }
  ]
 }
