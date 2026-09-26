@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-26T01:35:34Z",
+ "collected_at": "2026-09-26T07:44:26Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -11,52 +11,72 @@
    "chg1d_pct": -1.02
   },
   "GBPCAD": {
-   "price": 1.8728,
-   "chg1d_pct": 0.23
+   "price": 1.8741,
+   "chg1d_pct": 0.3
   },
   "AUDJPY": {
    "price": 110.433,
    "chg1d_pct": -0.73
   },
   "EURUSD": {
-   "price": 1.1392,
-   "chg1d_pct": 0.15
+   "price": 1.14,
+   "chg1d_pct": 0.22
   },
   "GBPCHF": {
    "price": 1.0974,
    "chg1d_pct": 0.31
   },
   "WTI": {
-   "price": 92.44,
-   "chg1d_pct": -2.29
+   "price": 92.41,
+   "chg1d_pct": -2.33
   },
   "BRENT": {
-   "price": 97.47,
-   "chg1d_pct": -8.56
+   "price": 97.44,
+   "chg1d_pct": -8.59
   },
   "GOLD": {
-   "price": 4320.5,
-   "chg1d_pct": 0.52
+   "price": 4321.2,
+   "chg1d_pct": 0.54
   },
   "SPX_FUT": {
-   "price": 7805.75,
-   "chg1d_pct": 0.5
+   "price": 7803.75,
+   "chg1d_pct": 0.47
   },
   "NAS_FUT": {
-   "price": 30921.75,
-   "chg1d_pct": 0.5
+   "price": 30889.25,
+   "chg1d_pct": 0.4
   }
  },
  "headlines": [
+  {
+   "t": "Vorschlag an die USA: Iran bekräftigt Sieben-Tage-Plan zur Öffnung der Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT05Dckg3Zy1MaFVXX1hHTkdmTS1rQWdLWjlEVFFzaFpnMnMzU2tsbGNIY2NkSTItY0pEc0tCZlNHZEQ2RXdSTjZoOXZCYWJMRmUtN01WSldocl90NDk0T3laQl9PbGFtMXBfb3djRGRiaTlsbDF6SDE1Tmx1QlU0QzlnQ252RDlEbE1Na0hmeDdKNXNJMWFpWjhVeldQaFpaZFZoNHJzMDlaZU5jM2c3UE1HMXU1VGpQXzlBS2xwR0JBOEtfS3EyeDBlVGVvcmdVVjZVQVZOSGE1MThrakNfdVFIcTREUzU3YXpQNEZTYV9hQ1RialE?oc=5",
+   "pub": "Sat, 26 Sep 2026 03:47:13 GMT"
+  },
+  {
+   "t": "Iran-Krieg - WSJ: Trump lehnt iranischen Vorschlag ab - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUElpZmk1S0lKemUxRk9qZ3oyeVF3c1kzM3IzU1NQVENrc3lqbGdXR1hraDRyYTd5UkpSNkJ5QUFUb2ttMWl6d0VsLUlZeVJXTFZFQ0JhTDVaMnJlOWJQQUR0ZUFGUUJ1Z05SSWFsQ2Q5Q201TVFLS1YxOGlHczVUeWZxVHZVQQ?oc=5",
+   "pub": "Sat, 26 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "t": "US-Präsident Trump lehnt Iran-Vorschlag ab - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oVm1kUEJQYzZoM0tYc09mbDVpdUgydUYzMTdGY2YxNEpuY3NrVWNHM2YtVzcyTUhXejA1OGsyUVFRZl95WjY1QlhmN3BYUGE0MnJoT3NvelFfbW1ESmZJ?oc=5",
+   "pub": "Sat, 26 Sep 2026 07:17:41 GMT"
+  },
+  {
+   "t": "Was kann Irans Präsident Peseschkian in New York erreichen? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1R6MGItS2hyZ0FpWW00ZDVqTmVMV1dlQ1JmS3owWWs1b1paQVJWYkQ4REtXdlowTW42YTkxWjN3TGJuVEU3OWFtWVdmMnRuNGd6NUpIakpwNUN5ZHBNaVRuc3FfZE0xUnpodTN1UElfS2FiS0tMY2tucHNSR3ViZFgxU3I3aFRqdU9tU2liRElPR1dvRExGeUZ6UFfSAZwBQVVfeXFMT19PRUpfYnhUWVIzZ1FMZDFpUEtUQVZLWmdzNzFJS2JTenFDTDc0bWgzWFFpU1QwOFRDX3lZa2FFTWpXV3JSdHpGaXplRW8tc2hvWF9ldlZLOWdUVGJPUEpKLV81bGMtSXp1V0FpY2JLN0EzZWJXSHpyeHowQV9tRWZqUFU4bUJyblhVRTBVQlR4bk00bUw0LXE2aWhV?oc=5",
+   "pub": "Fri, 25 Sep 2026 15:46:53 GMT"
+  },
   {
    "t": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVl4Y3BqckZMNGZSeWQxcWJ4cEFHbGdpQW9NcGFUTGg5Z2ZhOTVhMEZiWnZvTVAxV05HZ3l6Tzd3MEhFUnI0d1E2MlJUdkJRRnpuS1hoM09JOHJRYXpvYUphRmRNTHNYUzV5NW9vTmc1LU52MHFGTkxOTG01eDRyanpiWmFfQlo1MFJRczRNemQ4SDFzVEtmcVZFSTVXRlVFVFlOM1lYaTdOVUdyYzNZYXNR?oc=5",
    "pub": "Fri, 25 Sep 2026 05:40:41 GMT"
   },
   {
-   "t": "Was kann Irans Präsident Peseschkian in New York erreichen? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU1R6MGItS2hyZ0FpWW00ZDVqTmVMV1dlQ1JmS3owWWs1b1paQVJWYkQ4REtXdlowTW42YTkxWjN3TGJuVEU3OWFtWVdmMnRuNGd6NUpIakpwNUN5ZHBNaVRuc3FfZE0xUnpodTN1UElfS2FiS0tMY2tucHNSR3ViZFgxU3I3aFRqdU9tU2liRElPR1dvRExGeUZ6UFfSAZwBQVVfeXFMT19PRUpfYnhUWVIzZ1FMZDFpUEtUQVZLWmdzNzFJS2JTenFDTDc0bWgzWFFpU1QwOFRDX3lZa2FFTWpXV3JSdHpGaXplRW8tc2hvWF9ldlZLOWdUVGJPUEpKLV81bGMtSXp1V0FpY2JLN0EzZWJXSHpyeHowQV9tRWZqUFU4bUJyblhVRTBVQlR4bk00bUw0LXE2aWhV?oc=5",
-   "pub": "Fri, 25 Sep 2026 10:24:10 GMT"
+   "t": "Iran bietet Öffnung der Straße von Hormus an - USA seien nun am Zug - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaXhQZ0c0QjVDRXJJWC00UjJVYXkwMW84X2o2R3JLU3J0NEJwVWNXUjdJeWhLTkIwb3JGNUN6cmdpWUcxbmp6UWFqMURKT1ZnRkMteTcwVTRZVllyYmRHZjlJdzVQTmlSQ1lHRnF4WTNDNGhDc3p5WUFZeVltaWg4cE9iN0sxZWJlNVNnOElselFMRjNRenNuWnpCVUppZ2c?oc=5",
+   "pub": "Sat, 26 Sep 2026 04:38:05 GMT"
   },
   {
    "t": "Iran legt den USA Vorschlag zur Öffnung der Straße von Hormus binnen einer Woche vor - STERN.de",
@@ -69,44 +89,24 @@
    "pub": "Fri, 25 Sep 2026 11:24:00 GMT"
   },
   {
+   "t": "Iran bietet USA überraschenden Öl-Deal: Fällt jetzt der Benzinpreis in Deutschland? - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM29rcXJaVklxLTh5T2RfTm5hLXQ2VEkxY2pzd2UxLTV6SlFFTmt3RmQyRndROVQxMzY3TDVZMi1wSUZFYlMyR3JuSF9CMThKSldZTnlVbk5jRFVnWW5NVVNJc1JKN3BvdzllZlBKUEpXdVB5Um94Wk1xNDBpV3I3VHBCZ0ZsUEFXeWNNZGhvUkQ3SlNlVmRLSGtLNTBqZDFUS2VpMWdCbWppRE0?oc=5",
+   "pub": "Sat, 26 Sep 2026 02:45:00 GMT"
+  },
+  {
    "t": "Iran-Krieg - Teheran erneuert Vorschlag zur Blockade der Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmliTUx0STdKdWdmWHRXamd0c21uZzNxWll0d3pzekxHWjVVczA1RmNBbnU3cmNQRzBmdzVzbWVXSktyUlpLeEN3b3VBWE5OTm5QaDIzc1d4Z0xSOHN3S2dueXNlWl9kMlFvbmRDVFB0TGQzSldkWktmdFUyRmdEdWkwdWlZOHAtaWhRZzBUelh5U1hidzByMFJUQ3VxcnB0YW8xaw?oc=5",
    "pub": "Sat, 26 Sep 2026 01:00:00 GMT"
   },
   {
-   "t": "Iran und USA nehmen Gespräche am Rande der UN-Generaldebatte wieder auf - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95eEVHQ28yVmFCN0cyRXVhdXFoX1hRc0lrOFRjS0R2Z2N3dWlvQWlweWhkTUd4azdwNVpTNFRDYVE1aU1xRzdnTWRoaEFBU2pUNnhiMjZydkRvMkdRNTZr?oc=5",
-   "pub": "Wed, 23 Sep 2026 15:46:49 GMT"
+   "t": "Iran legt Sieben-Tage-Plan für Straße von Hormus vor - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUc0eXZhMGVYWHdYNnRIMmVoLUtKOXFqd1M3NzktTTdmWDJITV9mTnhtdUx4NzhOd0lGQ0QxRld6N2RYNnpvVXF4d25DeXVrLVprdHNpZnV5ZzFublBFV3RNMF9EeUVtQ0FnQndwU21VVzgxY0Fod2JQS01RSW5nUng2TkE1dnAxeVZZVDFkZHBDalRSaUdvdS1odHpndw?oc=5",
+   "pub": "Sat, 26 Sep 2026 03:19:34 GMT"
   },
   {
-   "t": "Gas, Strom, Heizöl: Diese Preissprünge kommen jetzt auf deutsche Haushalte zu - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFVaY0V5dU9qUG9RUTNjTmYzVjN6UmJUYXJ0MUpCTGhLNFNOXzJxZ2VBTnZxQ1hMYWZKWFp3WFJzNjVoaHBmNFBVa1QwbmlMaGtmT0t5UkN1LXpCYUNEMy15eXZ4ckxoM2xQV3lJQVlEX1F4VmpybThpWVdzSVVuRng5blgwM3k1Uzh4bWc5cUt1MEhVdC1sRnUwMm5XQVY0b2lTbTJ3b1N5ekhmMExQWDkwcVBOczhhRkVnMUM0Yw?oc=5",
-   "pub": "Fri, 25 Sep 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Massive Unterstützung des Iran?: Fritz: US-Geheimdienstbericht macht China schwere Vorwürfe - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVhGYWJJN2t0WDZUZXZ5VXpmVEZXa3VFSWdxR2VuSUxGOGo3SEpPcjdBckNCa2NveW9GUFprTURmeTBqZTVFRWNqR1VWU2VKSlVhTk5kQlJleGhOYndyQlJhRzdIdmlObWdmSVN0bGFvRmtpMHBOVVM2YmJwdXYyQ2ZpXzZKOEFCczdDWG1RTFpKYUd5TmxUckVpRGhmRzBTQUJpTUV1aUR3Nl9WMU9ULXh5SkxyOGwyVVM4?oc=5",
-   "pub": "Fri, 25 Sep 2026 19:43:00 GMT"
-  },
-  {
-   "t": "Iran bietet Trump Öffnung der Straße von Hormus an – schon in sieben Tagen! - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEFOQmNRVHl0QUtxUFJCQXhvZGFJaXZqa25ueFMtNmhwd3hQMzhyMkxLbmJ4aEpBYzRKaU91Z01WX1ZPcGdJUUFlNGN5ZG1XV2NCVzlQUGhTd1U0RU5fdVRuU05GalVMVVRENEpwc1B1MEl1Y2tGZDFCcE5scFlwWWFEUExSQURkS3lyMGxSVGlsQk5GamVDMk9zRzhaalVKcjZVUkFsc3RUZmtWM2ExMW9ObWVWeWRXNFliNkhsNEF2UUtYNXdkRGxTbVZSYkx6V05ZdmYwai1hZzBSc2d5N19YMnc2aHRmWTg0?oc=5",
-   "pub": "Fri, 25 Sep 2026 06:50:32 GMT"
-  },
-  {
-   "t": "Außenministerin des Jemen: Iran ist verantwortlich für Kämpfe - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXpTMGc1LXVhMzNfLXFoVXFMOWJybWI1dWxFQ29EZlMtZjBtdUNheHR6ZlVyLVJnVXRXd05qQTNORzFxRGVQYVk0YXdJSDNrdEVMZkVzSnp3U0NQMGlrN0Q3MkxjYWRieEFXSVNkUElleUxVelZabjNVQ0Z6WDF0a0NEVVp2Z0oxRVFKNE8tbUpaSTFWU1Ytdw?oc=5",
-   "pub": "Fri, 25 Sep 2026 21:20:00 GMT"
-  },
-  {
-   "t": "Iran bekräftigt Vorschlag zur Öffnung der Straße von Hormus binnen sieben Tagen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU09mYUpEWGxNUXVqVjgya2VsOTFxUXdxR3JTNzVlblROcnF4eGQyQ2E1a0hNcFlwOHE2cVhFMThyM0xLN2RFTG0tX3BjV0VKdmxhUEtpYjJ6dlpaTTVjTXM2ZFk5eVVOZjNaT0piamZYNlJ2QkNwU3dhU3llUl8zazluNmRzX2czVm42cFNqLVBsQjU5S3dOZE92RXZMNWt1dE9YVlFyWWluX0Z2ZWEta0tNUGx4UXFJc180SEVNMA?oc=5",
-   "pub": "Fri, 25 Sep 2026 22:00:35 GMT"
-  },
-  {
-   "t": "Xi Jinping in Washington: Tausche Taiwan gegen Iran - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVGdlNaYlM2aDQ3aHp5aEpvdDZFTS13XzVhQXc4UjZYVnBzT011R08xUHBMTXFYWFlaZ1k5aWdKVmNxeFFzLTdIM21rN2FFcGNVTmNicl9WWlprc1Y2YkFhNXhlak05dFNocE1aaEludkVWWTZjV2tKVElLMUlpd2Z0T2VqejRrM2FyS2RBaW5tVlZJRHU5Ym9DM0ZITUJEdnc?oc=5",
-   "pub": "Thu, 24 Sep 2026 10:32:15 GMT"
+   "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
+   "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
   }
  ]
 }
