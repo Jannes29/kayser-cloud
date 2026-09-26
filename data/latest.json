@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-09-26T17:11:38Z",
+ "collected_at": "2026-09-26T19:52:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,6 +49,11 @@
  },
  "headlines": [
   {
+   "t": "Iran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmxYWUJJZk9lNm92LTdELTV1NVlzWVlYSTBnMEU0MmFXS3VhdXNVWW5zZE9iQVFQMUVaaXlEaHM4N1ZwOW1xdl9McmdObVNKbE41U19KQUktZndhTVJYSi03UnBDOUFFMnJjU1d6YjNCYkE0cVNHdmlIYnBwaXNRU1dqUmpOdEw1dG1xRVpYM1RfQTNJekhrYlpyelZMVUN4MnlVbzlXXzVvalQ5TXctckYzQzNqLXRCWklYVWlvdG52VTh4UXdTQVdGR0lFSXNUUVhLZg?oc=5",
+   "pub": "Sat, 26 Sep 2026 16:06:00 GMT"
+  },
+  {
    "t": "Iran-Krieg - WSJ: Trump lehnt iranischen Vorschlag ab - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcF8zTWZSNHdwZlMxMW84S3czdHluVU1sWGxuc3JKZi1ZU0JOSVJPTFp0dE5TUHYtTVVQRmhuYmJncUI0T09kRzhIV1RGWW1QaXZpbnBqMU1zek5ObTFYcm9sUTM5RFZFMzFpT3Y3VWFjZHowQThSNFF6S1FSRHluVDk0M3FxQQ?oc=5",
    "pub": "Sat, 26 Sep 2026 06:00:48 GMT"
@@ -59,9 +64,9 @@
    "pub": "Sat, 26 Sep 2026 07:17:41 GMT"
   },
   {
-   "t": "Donald Trump lehnt Angebot vom Iran ab: Straße von Hormus bleibt dicht! - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcWJSVGV3QjlLTFZsZkhyZHRFTExRc3drLWZnUzhWRlNNcVhuRndDSlhTcHFJaUZPMnZKZ0w5bXBnbGVDNUp0bGRNVnEzNEFobWxDRWhEQ2cyeFp6Tjlkc1A2WW9hWjdVN29DeDhFU0VIaUZUME40cGV4NXE2VWJ2MUtmYXpGNjZueEpCZnU3bDhuRnlVZmFDaWFGZXZUMG5JNERyMElPWEhLeTd2bGFNYzM3UEVlbUVsYjUzTGl1bUVaMHVXeUV4TWhpOEhYamJYSW9sQm91TTQ5Qjl5UVNRTzdVdE5aQQ?oc=5",
-   "pub": "Sat, 26 Sep 2026 12:24:31 GMT"
+   "t": "USA News: Trump lehnt neuen Hormus-Deal ab - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX04xN2dQSnE0VVdBaW1nQjIyWXNDbXQwXzhONmFzLTRCaE9mMkYyVXRIdnBXMncwY2MxNF9qdjlVT283R1JSaU5xOU9QeHYtUTVGQ1F5R2pXLVNRWTlzQjhnUU44RGJQbGMzZlo4YUg4eUc0SXYwTjZFdXI3RGFVLXpYUHloY0xxVGNOYm1HdEJSR0hHblRTN1I4NDVfOVRIb2I4ZjZiU1VSWFRmenpnMjhEa0xpLWJBU2dvTjc0Z1FnMy00NnhFMnpTVE9LQQ?oc=5",
+   "pub": "Sat, 26 Sep 2026 16:01:00 GMT"
   },
   {
    "t": "Trump lässt iranische Maximalforderungen abblitzen - DW.com",
@@ -74,9 +79,14 @@
    "pub": "Sat, 26 Sep 2026 03:47:13 GMT"
   },
   {
-   "t": "Iran: Donald Trump lehnt Teherans Vorschlag zur Straße von Hormus ab - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZmxYWUJJZk9lNm92LTdELTV1NVlzWVlYSTBnMEU0MmFXS3VhdXNVWW5zZE9iQVFQMUVaaXlEaHM4N1ZwOW1xdl9McmdObVNKbE41U19KQUktZndhTVJYSi03UnBDOUFFMnJjU1d6YjNCYkE0cVNHdmlIYnBwaXNRU1dqUmpOdEw1dG1xRVpYM1RfQTNJekhrYlpyelZMVUN4MnlVbzlXXzVvalQ5TXctckYzQzNqLXRCWklYVWlvdG52VTh4UXdTQVdGR0lFSXNUUVhLZg?oc=5",
-   "pub": "Sat, 26 Sep 2026 16:06:00 GMT"
+   "t": "Donald Trump lehnt Angebot vom Iran ab: Straße von Hormus bleibt dicht! - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcWJSVGV3QjlLTFZsZkhyZHRFTExRc3drLWZnUzhWRlNNcVhuRndDSlhTcHFJaUZPMnZKZ0w5bXBnbGVDNUp0bGRNVnEzNEFobWxDRWhEQ2cyeFp6Tjlkc1A2WW9hWjdVN29DeDhFU0VIaUZUME40cGV4NXE2VWJ2MUtmYXpGNjZueEpCZnU3bDhuRnlVZmFDaWFGZXZUMG5JNERyMElPWEhLeTd2bGFNYzM3UEVlbUVsYjUzTGl1bUVaMHVXeUV4TWhpOEhYamJYSW9sQm91TTQ5Qjl5UVNRTzdVdE5aQQ?oc=5",
+   "pub": "Sat, 26 Sep 2026 12:24:31 GMT"
+  },
+  {
+   "t": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVl4Y3BqckZMNGZSeWQxcWJ4cEFHbGdpQW9NcGFUTGg5Z2ZhOTVhMEZiWnZvTVAxV05HZ3l6Tzd3MEhFUnI0d1E2MlJUdkJRRnpuS1hoM09JOHJRYXpvYUphRmRNTHNYUzV5NW9vTmc1LU52MHFGTkxOTG01eDRyanpiWmFfQlo1MFJRczRNemQ4SDFzVEtmcVZFSTVXRlVFVFlOM1lYaTdOVUdyYzNZYXNR?oc=5",
+   "pub": "Fri, 25 Sep 2026 05:40:41 GMT"
   },
   {
    "t": "Trump lehnt Iran-Plan für Hormuz-Wiedereröffnung ab - Südtirol News",
@@ -89,24 +99,14 @@
    "pub": "Sat, 26 Sep 2026 02:45:00 GMT"
   },
   {
-   "t": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVl4Y3BqckZMNGZSeWQxcWJ4cEFHbGdpQW9NcGFUTGg5Z2ZhOTVhMEZiWnZvTVAxV05HZ3l6Tzd3MEhFUnI0d1E2MlJUdkJRRnpuS1hoM09JOHJRYXpvYUphRmRNTHNYUzV5NW9vTmc1LU52MHFGTkxOTG01eDRyanpiWmFfQlo1MFJRczRNemQ4SDFzVEtmcVZFSTVXRlVFVFlOM1lYaTdOVUdyYzNZYXNR?oc=5",
-   "pub": "Fri, 25 Sep 2026 05:40:41 GMT"
-  },
-  {
-   "t": "Iran bekräftigt Plan für Hormus-Wiedereröffnung - Trump lehnt Berichten zufolge ab - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTBDbm1tNDh5a0tIeGkyWkZwMFV4T0ttTUkwaWYwRU12czRDVU1nUHlrM0tFN2FnVXdqUXYxdDQ4UGNaU3VGc2pzRDd5VDN3Vkp5WmZaVEs1ZGVNTGJ1cmVybXRock52LVBqSnVGXzhaRXoxWHpGVGNpYnVORUpBTzliaEsyTEpDa2NtYWRNTnBLZFQ0eGRfOHhEY0pJLVQzWmlUN0tXdWRIUVZpVzREdmc0QS1TZGZPZ24ycVpDZ1hhd2M?oc=5",
-   "pub": "Sat, 26 Sep 2026 11:31:48 GMT"
+   "t": "Trotz US-Sanktionen: Warum das iranische Regime nicht kollabiert - SRF",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2tUMVo4bEh3cjJjMWlwbS01S1RjSHpuQ05PYXJJSUNjOHRzQjhtU3IxVEtQS0VtZmhmYTBIT1BibzhQcTNUSEQ4MERGUVJtRE53TWdHSHprY2gzSzlTZ1V2RjF3X1ZYU0lFTGZJRWctaHBFQTAzRF9uYm1tSVdGZ1ZkeWNrcTZtdzZVRzExYkJXOFlSanhUZFlkeGFiNUY5S2pSeU1KdWdFZjhDcEhfR1NhajJUZw?oc=5",
+   "pub": "Sat, 26 Sep 2026 10:29:47 GMT"
   },
   {
    "t": "Trump lehnt Irans Vorschlag zu Hormus offenbar ab - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQmRNV1EyM1QxOG1CZEZpVDlqTUZ3S2RxazFack1Nb0ZPRVRTM0d5aVZQTWxROUNYYXhFV3NGTnJJdGdsOU1BOGlGUWNMX2swWkoyaVdNYjBXSmxDaElRVlp1bTN2UEwyeEVpenBXWFctYWV6NGxJMGh3RWlRT1hHLTY2bUd4eUppTGc?oc=5",
    "pub": "Sat, 26 Sep 2026 11:04:16 GMT"
-  },
-  {
-   "t": "Iran-Krieg - Trump bestätigt Absage an Plan zur Öffnung der Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2VNaUkxRWYxMTRNN3ktSl83cXl6M0xodFNqY0d0c29haGtLd1NLOWtTRGs1a2o5VmxqRFR4TU5ZYURMZXR2Q1RKamhBbUNQS01mX0prcHN3VlEyUkdTZl9NazdUVmFHb21HQlpxY3F6Z1ZVLVVwbjI5NzNIeXZyYXMxNWx1QlVoNmQyODA4MC1Qa2NtY2diTUJEdGFPeGd0S3Y5TEZQcHNYYzA?oc=5",
-   "pub": "Sat, 26 Sep 2026 16:05:50 GMT"
   }
  ]
 }
