@@ -1,57 +1,67 @@
 {
- "collected_at": "2026-09-28T06:56:28Z",
+ "collected_at": "2026-09-28T15:30:21Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8303,
-   "chg1d_pct": 0.27
+   "price": 0.8317,
+   "chg1d_pct": 0.44
   },
   "USDJPY": {
-   "price": 157.451,
-   "chg1d_pct": -0.86
+   "price": 157.393,
+   "chg1d_pct": -0.89
   },
   "GBPCAD": {
-   "price": 1.8743,
-   "chg1d_pct": 0.31
+   "price": 1.8778,
+   "chg1d_pct": 0.5
   },
   "AUDJPY": {
-   "price": 110.484,
+   "price": 110.487,
    "chg1d_pct": -0.68
   },
   "EURUSD": {
-   "price": 1.138,
-   "chg1d_pct": 0.05
+   "price": 1.1373,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.0994,
-   "chg1d_pct": 0.49
+   "price": 1.1024,
+   "chg1d_pct": 0.77
   },
   "WTI": {
-   "price": 93.83,
-   "chg1d_pct": 1.54
+   "price": 95.2,
+   "chg1d_pct": 3.02
   },
   "BRENT": {
-   "price": 98.73,
-   "chg1d_pct": -5.36
+   "price": 99.86,
+   "chg1d_pct": -4.28
   },
   "GOLD": {
-   "price": 4205.5,
-   "chg1d_pct": -2.68
+   "price": 4156.1,
+   "chg1d_pct": -3.82
   },
   "SPX_FUT": {
-   "price": 7773.0,
-   "chg1d_pct": -0.39
+   "price": 7739.0,
+   "chg1d_pct": -0.83
   },
   "NAS_FUT": {
-   "price": 30618.75,
-   "chg1d_pct": -0.88
+   "price": 30464.5,
+   "chg1d_pct": -1.38
   }
  },
  "headlines": [
   {
-   "t": "Friedensplan: Trumps Absage an den Iran treibt Ölpreis in die Höhe - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblZZQy1LYlNGU2d2VzZBN09xOTJ1akRkQURUUmQxT3BDVzFZMkI1MHB0WDhmZzdLWHIxcTlhdjBpY2FscTdESjlRSldTdi1Ha3pxMXRweXB6WGNVdERBTFY4cExmNkxldkFndUZXTHVZYWUyRHg5ZWNXZHplSVNjVF9PZlhEMTNIZll0V2FveDFvN1lqdG9hbHZKZWNhenJkbzExWWRDdUFHcndTU1RheWFoUmxPMEJuLW1QVkJ0WU5vVDV5bUJzbi1PdzAtbU5S?oc=5",
-   "pub": "Mon, 28 Sep 2026 01:44:13 GMT"
+   "t": "„Inakzeptabel“: Trump lehnt Iran-Deal ab – Ölpreis explodiert erneut - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0h5M3RCd1FmS1NVQmIzQy1SYjhUeVRhTmo1VVI3RkNmY3ZzSWc4b0JxMFNXejVUT0YxbFB5dE5YWUszRjlKMkNWUWxxU0pKUEYtdDJkRk1nR0R4T2hYdEdNS0hGQmk1OXgtZVZ0Nk5LOG16a0d0aUVuenJJZGJqSHF1cDJ2VExSMldmSkJYdkdmbFZIdDlmbVhyemNqMElGUEE?oc=5",
+   "pub": "Mon, 28 Sep 2026 12:01:00 GMT"
+  },
+  {
+   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
+   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
+  },
+  {
+   "t": "US-Dollar vor Todeskreuz: Wie Anleger von einem stärkeren Yen profitieren können - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3plZU01TDlxUDFpdERyYzR5TXc1Q0w1Q2s4YlZEUnFfUXc0dHRKTVdHcDNzcUJTbTdaSV8zcFVBWFVkLUswZzNJRjQ2YWdwcWNpa0ZVRHBBeWoyRk5ROFpjeURKRklWb2NrZUdfbFlEUzZ6UFJqbXpoT0VvV3dSekRvaFNrLWQ0RzRVaHZZNXduX1JOa3VkeXlJS29WNkJnSk1xOVJBeDlOOGxRQ1hKRERQaVg0TVhGZnktSXNOYzQ3UHpjQmlLeU1jQl9DNVdKNUpuUFIzUmEtaDYxdjJWZXl3VQ?oc=5",
+   "pub": "Mon, 28 Sep 2026 14:07:00 GMT"
   },
   {
    "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
@@ -59,9 +69,19 @@
    "pub": "Sun, 27 Sep 2026 10:32:25 GMT"
   },
   {
-   "t": "Iran bietet USA überraschenden Öl-Deal: Fällt jetzt der Benzinpreis in Deutschland? - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbG1wekVsQ3BnUEdYVXM3N1cyQkZjQzRPYTEzRVBYSmtZSXNaaURBcHFzYm5mWlJrSHI1cUg0RmRNN0ZWWVlRWEVqVDJtSnNKc1c5Q0xsMlFNT19kZHpMOWJQWUFYTGViNzE2S1ZJZS00M0w3VUtZa05UbWdILU5RdGNRS1VEYXJ6X1FyN0p4aUhTdGZ2NndzcXJVTjVLQ3ZZWEpuMU91SE9aVFk?oc=5",
-   "pub": "Sun, 27 Sep 2026 17:00:00 GMT"
+   "t": "Iran-Garden in Terror-Verdacht - schon im Juli drohten sie - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQUxkamdOdm01NkpEWEpvS0l5MGd5c3NCMHdadjI1UFotTHE4bWEwRU5aSld1RVZMOXc4MkszZ21ZZ1F5WnRFZGZKYnlpUVRrcDNOYXBxellLSHdaZE9FTEtXUmYzYkgyTDRtSEFnbEJUbHZDSVA4QVozNlNwT19JbXFJczh2ZGxFeEtNUmxwLURrMjF6TmFnTlVac2haRGxwNTk1dHQ0a2VvdXdEYXFQWVk1OTlDMThkTUdrbTFEdHoyWjNSNWNocWt5Z1N0bTFW?oc=5",
+   "pub": "Mon, 28 Sep 2026 11:48:00 GMT"
+  },
+  {
+   "t": "Ungewissheit über US-Iran-Verhandlungen: Ölpreis steigt deutlich - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk40aDJFOWR5UnlJTmlfNnN2ajRUWlZ0QWc5bWp0aHdzVkYtV3JzUS1jeEpzY3pmUl9zWVAyVmVvaDYyTHVJd294REFJdkJnaUdVRDJEbnBxd1VhbFNPel9ZX0d2LVRROHJxRGJmZFRrOU5jTnllTldFUnRLby1mV21vVGI0dm5QcnZvV1Bidi1zeTdaWF9uV0V4QTZkb09kMFN1YUgxSFJkUQ?oc=5",
+   "pub": "Mon, 28 Sep 2026 11:22:38 GMT"
+  },
+  {
+   "t": "Warum Bitcoin jetzt wieder an Boden verliert - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUnNJMkpZRERNdjVia2FuVFpaV3hZUHNPbElldFB2YVBqRFV5a3MwUktqV3IyTWJlOFE0cjBQVVI3RHZwVGlhb3U3eVkybUVHLTRrbGI2bzdBYjVvZk1aM0ZMYTBKSU1xQzlndDJTVURPNU95aURYZXFuOFlhRmJyT2NmS0M5NDdOUFBHaFBNOA?oc=5",
+   "pub": "Mon, 28 Sep 2026 09:06:27 GMT"
   },
   {
    "t": "US-Präsident Trump lehnt Iran-Vorschlag nach Medienberichten ab - tagesschau.de",
@@ -69,44 +89,24 @@
    "pub": "Sat, 26 Sep 2026 07:17:41 GMT"
   },
   {
-   "t": "USA lehnen Iran-Angebot ab: Straße von Hormus bleibt dicht - Ölpreise ziehen wieder deutlich an - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRTg4S0czaU82RjNjVGFnclZaclRtd3pVUEZqeXNMdEw0QjJvR1lYNTFiYU1SU1lVNGoySXk0c0NBMjV2MnN4WmdGanpkVFN1M3Jxcm9jZE5BY0tHYURBbUFmZW94b25XcmlYbHA3QXRtc2JZbjJXdm1TaUhtdHhxNDdocUtHMUtVeXpIalNGWXF5WnBxOWpKTDVqbEpTU0o3YVRqTzA5Vnk1T0RIYzJmZ3QtUG9TUGxPQjQxdXhoNjJfc1lNV1NyRV83MTdWX3F0SjM3cWgzNDN5a0NFWEpod2ZDLU5nUnYxU29SdzFDNmdsU20tMjdVeUtMYzdLZmd1V1h3?oc=5",
-   "pub": "Mon, 28 Sep 2026 05:55:00 GMT"
+   "t": "Mutmaßlicher Anschlagsplan auf britische Militärbasis Fünf Festnahmen – Polizei prüft Verbindung zum Iran - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcTNzbXhoenA0TTAzNGJISTJuS3RMLWxYQkxHQVZLdmljaTlDTTB4b3VVZnU1eXZUQ2hIUkRJTVBGdC1qNXAtb3NjZzFZOXFRN3BWWk90WFRyREw4MG5qNkNBMkJiX2NnUDdSZ0w5LUhreTFzZzQxbHdkVDNlQkVHMVhka0huZGRDMjV2cXNLRkxBRnpqSEc0YzBaSzB0bDJPek9IbDdJX3hCcW84dl9uYl9HODIwb24tX1lCY0FZczEzYm00VkhTaEZMUk1ycnEyQjZpZW9sTXJROEVleDlVaFN1cC00R3kzZ1Y1U0NDYnZ6aW5Xcm5ZRjdtUQ?oc=5",
+   "pub": "Mon, 28 Sep 2026 09:49:19 GMT"
   },
   {
-   "t": "Orange the Stuben: Studentische Intervention im Volkskunstmuseum - Universität Innsbruck",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2l5Y25tVGlyZ2VjS2toSHcwbkNOOWdXZGhtZVh3SnE0OVg3ZHV4VHVOQllIS19WSmtQZHMyQ3YtUTJRQUdRQ19FdkdkN19Ba0xiZl80QWNKQTkzOHpndWVKUFRCVUhTMWZ5YVpkc3g3NFBsNEJCSFZsSnlFZTg4Z05oOC0xbkY1VW9XVGNzSkZiX3VMX01meHBtTEtCcDhZUG1lYVJ5bw?oc=5",
-   "pub": "Mon, 28 Sep 2026 06:20:17 GMT"
+   "t": "Alle Gründe, warum die USA sich um den Yen und den Anleihemarkt Japans sorgen - de.beincrypto.com",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12dkxvQkJ0TXNreXdTRXN4R3BLUTR1TDBDbE1rcUJTU1FnUk1ub3hxNWJCelJNUGJSN1NzU0d6c2xueDFSSGZjb0tuQmxQWGdFMFF5U01rLW9laWY2WGZyajQ3QlRETWFBYWkya2NKVzBjOWhqX3c?oc=5",
+   "pub": "Mon, 28 Sep 2026 11:39:00 GMT"
   },
   {
-   "t": "Zuverlässige Forex-Broker (zuverlassigerforexbroker.com): Warnlisteneintrag und Risiken bei Rückholangeboten - Anwalt.de",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcnlqM2R3aWFISW9pSm9uc1Y1aTRwVkwxVTRrbnBGOTZJM1gyZ2piMm54RlJZSFZfRGNBaXZ0VTkxRkJmV2g5QXBxZFRuYUF0N0JPNnZzVXJJUlBIaUVkQjVXUkNGZ005MlNCN1NuZTUzcWpjMDE2WEFCRHU4TVd4RkRlNWlfRFhYeUNBSTkwSU4yZS1saThIeFR2NmRIRHczR2p2NHdCbVZreXB3UEFaZkVFYzFWMWR6UGoya3M4OXFIWmo0YUJUeUppeE53LWdfZGFqRk1KOUVNQ3ZQVFZmbEVkeTl5MWxS?oc=5",
-   "pub": "Mon, 28 Sep 2026 04:20:14 GMT"
-  },
-  {
-   "t": "Xi Jinping in Washington: Tausche Taiwan gegen Iran - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVGdlNaYlM2aDQ3aHp5aEpvdDZFTS13XzVhQXc4UjZYVnBzT011R08xUHBMTXFYWFlaZ1k5aWdKVmNxeFFzLTdIM21rN2FFcGNVTmNicl9WWlprc1Y2YkFhNXhlak05dFNocE1aaEludkVWWTZjV2tKVElLMUlpd2Z0T2VqejRrM2FyS2RBaW5tVlZJRHU5Ym9DM0ZITUJEdnc?oc=5",
-   "pub": "Thu, 24 Sep 2026 10:32:15 GMT"
-  },
-  {
-   "t": "US-Iran-Verhandlungen in der Sackgasse - Ölpreise ziehen an - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTdXdGcxZUx3VHdWZVViQ201ODBMd3J3MlFUVlY4WDM2V3JOdzZOYnA3b250dWNxaHRUMXRTZnd1aWJxdkIyOHhhWkxWa0hORFBJTDZuWnZMNVR6a1ozV0stZzRLeUJYei1RV3IzdEk0Y3kxcUFfVmJrZlhlbmMxUklnQlluUFNRT3B5bHd2TzFoVHplNFpQV28zMktBakt1Z05JelA1dU4yNTA?oc=5",
-   "pub": "Mon, 28 Sep 2026 04:49:00 GMT"
-  },
-  {
-   "t": "Trump kündigt neue Iran-Verhandlungen an – während der Unmut der Republikaner vor den Midterms wächst - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2s3aU9TWmJ5NWdQWVZFZ0Y4VjVscUFFTkhOd1ZONy1odWhfR0Fnc1ppQmJ3R0tUNVhZYjV2OEtZaTlvdWRfZWRkTnBiSnEyamNMNGFMTGI2bUxWUUtCbmFKd1gwdXQ5cTVhWm9GSjd0ZThySzZLTnFEVEQ4Z1BhV19FYm5SS3BOOUZZdUZTX2VWMTcwS1YxYXNhV3IwMUE1dlduMjVNeXhEbklaMTJsVjJ3d2xSWWxE?oc=5",
-   "pub": "Sun, 27 Sep 2026 19:04:09 GMT"
+   "t": "Terrorverdacht am Stützpunkt Fairford: Iran dementiert Beteiligung an mutmaßlichem Anschlagsplan in England - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0hjSHRoVkU5ZUtubGh2SXhWUF9tWXNnQ09oeUhlcmtRQzdxOEc0UzVqbmNnVGwzMDRiaDF1SzBxWE9jZWFPQ0xLSjhfY3ByRDh2ZzM5bnVfS1BUdWF4bzhmS1lXRXJxZ3hJSXZWOUJ1akZjVHdxUWdzVjVwUDc3dFNOVEhnd3RiUkdkV3JvajVSb3Y1RlNVQ3JOQVF6UmdfdkMtRlFR?oc=5",
+   "pub": "Mon, 28 Sep 2026 13:44:39 GMT"
   },
   {
    "t": "Iran-Krieg - WSJ: Trump lehnt iranischen Vorschlag ab - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcF8zTWZSNHdwZlMxMW84S3czdHluVU1sWGxuc3JKZi1ZU0JOSVJPTFp0dE5TUHYtTVVQRmhuYmJncUI0T09kRzhIV1RGWW1QaXZpbnBqMU1zek5ObTFYcm9sUTM5RFZFMzFpT3Y3VWFjZHowQThSNFF6S1FSRHluVDk0M3FxQQ?oc=5",
    "pub": "Sat, 26 Sep 2026 06:00:48 GMT"
-  },
-  {
-   "t": "Vorschlag an die USA: Iran bekräftigt Sieben-Tage-Plan zur Öffnung der Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT05Dckg3Zy1MaFVXX1hHTkdmTS1rQWdLWjlEVFFzaFpnMnMzU2tsbGNIY2NkSTItY0pEc0tCZlNHZEQ2RXdSTjZoOXZCYWJMRmUtN01WSldocl90NDk0T3laQl9PbGFtMXBfb3djRGRiaTlsbDF6SDE1Tmx1QlU0QzlnQ252RDlEbE1Na0hmeDdKNXNJMWFpWjhVeldQaFpaZFZoNHJzMDlaZU5jM2c3UE1HMXU1VGpQXzlBS2xwR0JBOEtfS3EyeDBlVGVvcmdVVjZVQVZOSGE1MThrakNfdVFIcTREUzU3YXpQNEZTYV9hQ1RialE?oc=5",
-   "pub": "Sat, 26 Sep 2026 03:47:13 GMT"
   }
  ]
 }
