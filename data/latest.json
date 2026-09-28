@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-09-28T00:49:33Z",
+ "collected_at": "2026-09-28T06:56:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8297,
-   "chg1d_pct": 0.2
+   "price": 0.8303,
+   "chg1d_pct": 0.27
   },
   "USDJPY": {
-   "price": 157.718,
-   "chg1d_pct": -0.69
+   "price": 157.451,
+   "chg1d_pct": -0.86
   },
   "GBPCAD": {
-   "price": 1.8737,
-   "chg1d_pct": 0.28
+   "price": 1.8743,
+   "chg1d_pct": 0.31
   },
   "AUDJPY": {
-   "price": 110.666,
-   "chg1d_pct": -0.52
+   "price": 110.484,
+   "chg1d_pct": -0.68
   },
   "EURUSD": {
-   "price": 1.1388,
-   "chg1d_pct": 0.12
+   "price": 1.138,
+   "chg1d_pct": 0.05
   },
   "GBPCHF": {
-   "price": 1.0982,
-   "chg1d_pct": 0.38
+   "price": 1.0994,
+   "chg1d_pct": 0.49
   },
   "WTI": {
-   "price": 93.21,
-   "chg1d_pct": 0.87
+   "price": 93.83,
+   "chg1d_pct": 1.54
   },
   "BRENT": {
-   "price": 98.29,
-   "chg1d_pct": -5.78
+   "price": 98.73,
+   "chg1d_pct": -5.36
   },
   "GOLD": {
-   "price": 4272.9,
-   "chg1d_pct": -1.12
+   "price": 4205.5,
+   "chg1d_pct": -2.68
   },
   "SPX_FUT": {
-   "price": 7785.5,
-   "chg1d_pct": -0.23
+   "price": 7773.0,
+   "chg1d_pct": -0.39
   },
   "NAS_FUT": {
-   "price": 30835.25,
-   "chg1d_pct": -0.17
+   "price": 30618.75,
+   "chg1d_pct": -0.88
   }
  },
  "headlines": [
+  {
+   "t": "Friedensplan: Trumps Absage an den Iran treibt Ölpreis in die Höhe - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblZZQy1LYlNGU2d2VzZBN09xOTJ1akRkQURUUmQxT3BDVzFZMkI1MHB0WDhmZzdLWHIxcTlhdjBpY2FscTdESjlRSldTdi1Ha3pxMXRweXB6WGNVdERBTFY4cExmNkxldkFndUZXTHVZYWUyRHg5ZWNXZHplSVNjVF9PZlhEMTNIZll0V2FveDFvN1lqdG9hbHZKZWNhenJkbzExWWRDdUFHcndTU1RheWFoUmxPMEJuLW1QVkJ0WU5vVDV5bUJzbi1PdzAtbU5S?oc=5",
+   "pub": "Mon, 28 Sep 2026 01:44:13 GMT"
+  },
   {
    "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
@@ -64,34 +69,29 @@
    "pub": "Sat, 26 Sep 2026 07:17:41 GMT"
   },
   {
-   "t": "Trump lehnt Friedensplan ab – so reagiert der Iran - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVFzbThFQ3lnejc4TVFuenZnek5DaWw1X1p4TzVSdF8wUEczWlVNQVRIOGI4bGtKbm4zSzZQY0JMdGRqMW5XNkFvaDUxdmFodlhxcWlZd0ZoZnRFMFR4andLQzVhN3BUdElRM2ZSazVyZTZlNUdCRFlxYkNDc1NjalBpUi1VRDFrX1VzeFRB?oc=5",
-   "pub": "Sun, 27 Sep 2026 08:38:23 GMT"
+   "t": "USA lehnen Iran-Angebot ab: Straße von Hormus bleibt dicht - Ölpreise ziehen wieder deutlich an - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRTg4S0czaU82RjNjVGFnclZaclRtd3pVUEZqeXNMdEw0QjJvR1lYNTFiYU1SU1lVNGoySXk0c0NBMjV2MnN4WmdGanpkVFN1M3Jxcm9jZE5BY0tHYURBbUFmZW94b25XcmlYbHA3QXRtc2JZbjJXdm1TaUhtdHhxNDdocUtHMUtVeXpIalNGWXF5WnBxOWpKTDVqbEpTU0o3YVRqTzA5Vnk1T0RIYzJmZ3QtUG9TUGxPQjQxdXhoNjJfc1lNV1NyRV83MTdWX3F0SjM3cWgzNDN5a0NFWEpod2ZDLU5nUnYxU29SdzFDNmdsU20tMjdVeUtMYzdLZmd1V1h3?oc=5",
+   "pub": "Mon, 28 Sep 2026 05:55:00 GMT"
   },
   {
-   "t": "Irankrieg: Iranische Regierung soll den USA Plan für Kriegsende vorgelegt haben - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVl4Y3BqckZMNGZSeWQxcWJ4cEFHbGdpQW9NcGFUTGg5Z2ZhOTVhMEZiWnZvTVAxV05HZ3l6Tzd3MEhFUnI0d1E2MlJUdkJRRnpuS1hoM09JOHJRYXpvYUphRmRNTHNYUzV5NW9vTmc1LU52MHFGTkxOTG01eDRyanpiWmFfQlo1MFJRczRNemQ4SDFzVEtmcVZFSTVXRlVFVFlOM1lYaTdOVUdyYzNZYXNR?oc=5",
-   "pub": "Fri, 25 Sep 2026 05:40:41 GMT"
+   "t": "Orange the Stuben: Studentische Intervention im Volkskunstmuseum - Universität Innsbruck",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2l5Y25tVGlyZ2VjS2toSHcwbkNOOWdXZGhtZVh3SnE0OVg3ZHV4VHVOQllIS19WSmtQZHMyQ3YtUTJRQUdRQ19FdkdkN19Ba0xiZl80QWNKQTkzOHpndWVKUFRCVUhTMWZ5YVpkc3g3NFBsNEJCSFZsSnlFZTg4Z05oOC0xbkY1VW9XVGNzSkZiX3VMX01meHBtTEtCcDhZUG1lYVJ5bw?oc=5",
+   "pub": "Mon, 28 Sep 2026 06:20:17 GMT"
   },
   {
-   "t": "Trump rechnet mit neuen Gesprächen mit dem Iran - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LVi1IQUtNNFBad0syVDBiYlFqUGFjRjNLNFRHYm5WNlNtSTQ0RXl5ZUVGaXFaWGZfSC01U1NVMVRTWFdIZVE?oc=5",
-   "pub": "Sun, 27 Sep 2026 16:02:59 GMT"
+   "t": "Zuverlässige Forex-Broker (zuverlassigerforexbroker.com): Warnlisteneintrag und Risiken bei Rückholangeboten - Anwalt.de",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcnlqM2R3aWFISW9pSm9uc1Y1aTRwVkwxVTRrbnBGOTZJM1gyZ2piMm54RlJZSFZfRGNBaXZ0VTkxRkJmV2g5QXBxZFRuYUF0N0JPNnZzVXJJUlBIaUVkQjVXUkNGZ005MlNCN1NuZTUzcWpjMDE2WEFCRHU4TVd4RkRlNWlfRFhYeUNBSTkwSU4yZS1saThIeFR2NmRIRHczR2p2NHdCbVZreXB3UEFaZkVFYzFWMWR6UGoya3M4OXFIWmo0YUJUeUppeE53LWdfZGFqRk1KOUVNQ3ZQVFZmbEVkeTl5MWxS?oc=5",
+   "pub": "Mon, 28 Sep 2026 04:20:14 GMT"
   },
   {
-   "t": "Vorschlag an die USA: Iran bekräftigt Sieben-Tage-Plan zur Öffnung der Straße von Hormus - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT05Dckg3Zy1MaFVXX1hHTkdmTS1rQWdLWjlEVFFzaFpnMnMzU2tsbGNIY2NkSTItY0pEc0tCZlNHZEQ2RXdSTjZoOXZCYWJMRmUtN01WSldocl90NDk0T3laQl9PbGFtMXBfb3djRGRiaTlsbDF6SDE1Tmx1QlU0QzlnQ252RDlEbE1Na0hmeDdKNXNJMWFpWjhVeldQaFpaZFZoNHJzMDlaZU5jM2c3UE1HMXU1VGpQXzlBS2xwR0JBOEtfS3EyeDBlVGVvcmdVVjZVQVZOSGE1MThrakNfdVFIcTREUzU3YXpQNEZTYV9hQ1RialE?oc=5",
-   "pub": "Sat, 26 Sep 2026 03:47:13 GMT"
+   "t": "Xi Jinping in Washington: Tausche Taiwan gegen Iran - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjVGdlNaYlM2aDQ3aHp5aEpvdDZFTS13XzVhQXc4UjZYVnBzT011R08xUHBMTXFYWFlaZ1k5aWdKVmNxeFFzLTdIM21rN2FFcGNVTmNicl9WWlprc1Y2YkFhNXhlak05dFNocE1aaEludkVWWTZjV2tKVElLMUlpd2Z0T2VqejRrM2FyS2RBaW5tVlZJRHU5Ym9DM0ZITUJEdnc?oc=5",
+   "pub": "Thu, 24 Sep 2026 10:32:15 GMT"
   },
   {
-   "t": "Trotz Fed-Hammer: Diese Aktien könnten jetzt die Gewinner sein - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0hGR2Noc3FmSzlOcnFVcXFBSWlmcXFnbERLLXpTVzA5OHoyMWVZSTIxTUpZV2kyX2lTY1JZOHYzOHFiMzZNaUdrZkhHaW1aZmJ6TzZ6X0cydFh3b3FlUUJOc01BbFFJa0Y2dVdVNS1EYVdQemRxMUg4bmhGV0RMTlMxa1djQ3Q5Q19vQ0RydTlHNVV3MW1sV2xpM1pMa2NDOWQ2ZTFmaEdRMXBO?oc=5",
-   "pub": "Sun, 27 Sep 2026 17:00:00 GMT"
-  },
-  {
-   "t": "Trump: Erwarte weitere Gespräche mit dem Iran - Come-on",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmlub1czdVQtdHpkRmduUHlZczRBa2l6bnNicjZWVHpEelZhNnA2Z0lkTU8zMnBUZFNsYTBZNldJMktzNjkzX1RyVVFOcUVZMmVodFlnVjRlRG5fYXhET1ZFLVJYUlIzem9jYnNYTWR6TzJoYk5kWlRscngtUW9XR2I5ME9WZkZqLTVRZ1dnZjdveXByLWxTNg?oc=5",
-   "pub": "Sun, 27 Sep 2026 15:49:33 GMT"
+   "t": "US-Iran-Verhandlungen in der Sackgasse - Ölpreise ziehen an - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTdXdGcxZUx3VHdWZVViQ201ODBMd3J3MlFUVlY4WDM2V3JOdzZOYnA3b250dWNxaHRUMXRTZnd1aWJxdkIyOHhhWkxWa0hORFBJTDZuWnZMNVR6a1ozV0stZzRLeUJYei1RV3IzdEk0Y3kxcUFfVmJrZlhlbmMxUklnQlluUFNRT3B5bHd2TzFoVHplNFpQV28zMktBakt1Z05JelA1dU4yNTA?oc=5",
+   "pub": "Mon, 28 Sep 2026 04:49:00 GMT"
   },
   {
    "t": "Trump kündigt neue Iran-Verhandlungen an – während der Unmut der Republikaner vor den Midterms wächst - Frankfurter Rundschau",
@@ -104,9 +104,9 @@
    "pub": "Sat, 26 Sep 2026 06:00:48 GMT"
   },
   {
-   "t": "Iranisches Militär: Warum der Iran weiterkämpfen kann - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGNkQjhuemhETUU4UTB2LWVfcEItbVRhZGdPMkZDbkkwaFV5eTZwYzBxZDVGd2ZDa09ENVhqODlYdG5TcHdYS0w4azZJTUhraGFQMjlOZTV1Rml1VldBM195RUdxQmFFSG1QRWdxVEppU081eXl1ai1UVER4dUstUDlVUnNSZWZreVlzcXhhdy04UXBUVXB2M25NVVBsck5EVlRXV1JON2l3QnUtODc4?oc=5",
-   "pub": "Wed, 23 Sep 2026 04:08:37 GMT"
+   "t": "Vorschlag an die USA: Iran bekräftigt Sieben-Tage-Plan zur Öffnung der Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT05Dckg3Zy1MaFVXX1hHTkdmTS1rQWdLWjlEVFFzaFpnMnMzU2tsbGNIY2NkSTItY0pEc0tCZlNHZEQ2RXdSTjZoOXZCYWJMRmUtN01WSldocl90NDk0T3laQl9PbGFtMXBfb3djRGRiaTlsbDF6SDE1Tmx1QlU0QzlnQ252RDlEbE1Na0hmeDdKNXNJMWFpWjhVeldQaFpaZFZoNHJzMDlaZU5jM2c3UE1HMXU1VGpQXzlBS2xwR0JBOEtfS3EyeDBlVGVvcmdVVjZVQVZOSGE1MThrakNfdVFIcTREUzU3YXpQNEZTYV9hQ1RialE?oc=5",
+   "pub": "Sat, 26 Sep 2026 03:47:13 GMT"
   }
  ]
 }
