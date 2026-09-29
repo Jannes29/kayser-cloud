@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-09-29T15:53:54Z",
+ "collected_at": "2026-09-29T20:48:25Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.835,
-   "chg1d_pct": 0.64
+   "price": 0.8338,
+   "chg1d_pct": 0.25
   },
   "USDJPY": {
-   "price": 157.541,
-   "chg1d_pct": 0.05
+   "price": 157.291,
+   "chg1d_pct": -0.04
   },
   "GBPCAD": {
-   "price": 1.8748,
-   "chg1d_pct": 0.15
+   "price": 1.8775,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 109.889,
-   "chg1d_pct": -0.43
+   "price": 109.893,
+   "chg1d_pct": -0.46
   },
   "EURUSD": {
-   "price": 1.1337,
-   "chg1d_pct": -0.36
+   "price": 1.1343,
+   "chg1d_pct": -0.26
   },
   "GBPCHF": {
-   "price": 1.1027,
-   "chg1d_pct": 0.48
+   "price": 1.1033,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 91.57,
-   "chg1d_pct": -1.11
+   "price": 88.88,
+   "chg1d_pct": -4.02
   },
   "BRENT": {
-   "price": 96.99,
-   "chg1d_pct": -7.87
+   "price": 95.64,
+   "chg1d_pct": -9.16
   },
   "GOLD": {
-   "price": 4186.8,
-   "chg1d_pct": 0.44
+   "price": 4211.6,
+   "chg1d_pct": 1.04
   },
   "SPX_FUT": {
-   "price": 7725.25,
-   "chg1d_pct": -0.28
+   "price": 7739.75,
+   "chg1d_pct": -0.09
   },
   "NAS_FUT": {
-   "price": 30577.0,
-   "chg1d_pct": 0.04
+   "price": 30663.0,
+   "chg1d_pct": 0.32
   }
  },
  "headlines": [
   {
-   "t": "Ali Zarei: Aus Iran geflüchtet, zurückgekehrt, zum Tode verurteilt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oc0FzNzdCVmdOQkl6eU9lRGZXSVA4ZXhSUFoyOWxzMkVBaENwMF9wRERpM2wxc3JEcnlzU2ZsWTVXd0dIQU5xUl9EbVJCeDlrX2gtQ0p5ZC1FN0FGS1VYam5kMV9EczlvdHNDMmRB?oc=5",
-   "pub": "Tue, 29 Sep 2026 08:50:00 GMT"
+   "t": "\"Dann verkauft niemand mehr Öl\": Iran droht mit Angriffen auf Infrastruktur und Einsatz neuer Waffen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1phQWItTXd0SllMTXpHa2g1SGJ2VTV1eDd3RVctSXNoWWM2YzlXeXdDQTBEaVpKYVZjMHlGZzhjSnFNaXdxdmN4QWhiWTZGUGhVVUN2NG1xTXlTQ1lZNFJxLU44elpaSGZ4LV9vbWdRSUFpWjVTSXJINzh0YjZMR3ZzbnJfRG5EaVhDT0pKdHZHTmN4NU1UTEZqSEJ3LUVlMnMwS2hORzN2dkpGWFR4NEpHZnZ5V0Zkam9FQ2F6aWI3Vmc?oc=5",
+   "pub": "Tue, 29 Sep 2026 12:57:33 GMT"
   },
   {
    "t": "„Dann wäre Donald Trump eine Lame Duck – sozusagen Donald Duck“ - WELT",
@@ -59,14 +59,14 @@
    "pub": "Tue, 29 Sep 2026 11:16:09 GMT"
   },
   {
+   "t": "Ali Zarei: Aus Iran geflüchtet, zurückgekehrt, zum Tode verurteilt - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oc0FzNzdCVmdOQkl6eU9lRGZXSVA4ZXhSUFoyOWxzMkVBaENwMF9wRERpM2wxc3JEcnlzU2ZsWTVXd0dIQU5xUl9EbVJCeDlrX2gtQ0p5ZC1FN0FGS1VYam5kMV9EczlvdHNDMmRB?oc=5",
+   "pub": "Tue, 29 Sep 2026 08:50:00 GMT"
+  },
+  {
    "t": "„Dann wird keine Infrastruktur sicher sein“: Iran-Krieg spitzt sich zu – Hormus-Ultimatum an Trump - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlIzbGdJRU1jc2xnNE9NNXpqYUctLU5NNEw2MUlQdkxwQmZyX2dzR0NWNC1wTmtqN1EzeWwxUm9SdWY4Q0VsQ2NRUGNqNlJpU2R2ZHBIUVNGWWFnZ3g4TnhGWlZ2UGh4ekFrQ1NkdmhVWGswa09zdFZXYm1uVGctSnVJQlg3RDNUUXlBRWFoOXFUdjVZWm9QUGQ5ZFFfVEpzbTl3ckNhWl9udDdDMVNlaVY4ZTU?oc=5",
    "pub": "Tue, 29 Sep 2026 11:40:50 GMT"
-  },
-  {
-   "t": "\"Ich habe nichts angeboten\": Trump dementiert Zugeständnisse an den Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSE55S1UxOUZBcFgtRjFtWDYxeHlibHB4RFZEUnF2RGlGNUVRbkNNTFF5VkVuZFlOaVNjN1l5a1RVSm9hbnFLbVhJanFucHRaaU8yblV6UkZaX1VqMWI3ZkRLcXlGeDNHWkNXYTVva3ctd0tEazQ0YXd6MUtPZXM3U0xDQmVDelNRTUs0Sjh0WDBGQQ?oc=5",
-   "pub": "Tue, 29 Sep 2026 02:44:36 GMT"
   },
   {
    "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
@@ -74,9 +74,9 @@
    "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
-   "t": "Iran droht der Region mit Öl-Stopp – Preis steigt - focus.de",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnp0ZjZxcHA0NE1DVGpUbk1EQ19zODRxaFhVd1JqRmFnNW81dFJXMjVoaUw5aW9YM3VlbFNDNTk2c3JXZFZvQVBzSWE2c3Q1MndaWjVrYlZkbWhhLUcwUm5qdkxyN1dPb1FxdzRDUWQ1ZHQzc21DOTJUc3lXbE1BTlVPbGhWRzMtUDM4Ri01d0JBTUdsR2ZjUFd6X05KaXJNbmNualJLMUtETHlWdW1PYkxJNTJYeV9XMVJuRg?oc=5",
-   "pub": "Tue, 29 Sep 2026 12:27:04 GMT"
+   "t": "Aufstellung | Russland - Iran 2:0 | 4. Spieltag | Nationalteams Freundschaftsspiele 2026 - Kicker",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2txUGhhMDBDVzN3T3dYejNVcDctZFRseVo4UGdvaXhjRVBDOU53d202TXlRWWlINlpYaDV5WUlXMU1DcHFNdTUwejdsbmFmNmFOX254NkN1R0JiTUhtRmF5T1RNV1RlNEgwQmZaODltRUFPWjJubFZEU2htSmhGdmktVkd1QlU5MDNFU1VwVDJDd0VuMjZZUkNuNlpSOEFNM2c?oc=5",
+   "pub": "Tue, 29 Sep 2026 15:32:03 GMT"
   },
   {
    "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
@@ -84,9 +84,9 @@
    "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
   },
   {
-   "t": "\"Dann verkauft niemand mehr Öl\": Iran droht mit Angriffen auf Infrastruktur und Einsatz neuer Waffen - de.euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1phQWItTXd0SllMTXpHa2g1SGJ2VTV1eDd3RVctSXNoWWM2YzlXeXdDQTBEaVpKYVZjMHlGZzhjSnFNaXdxdmN4QWhiWTZGUGhVVUN2NG1xTXlTQ1lZNFJxLU44elpaSGZ4LV9vbWdRSUFpWjVTSXJINzh0YjZMR3ZzbnJfRG5EaVhDT0pKdHZHTmN4NU1UTEZqSEJ3LUVlMnMwS2hORzN2dkpGWFR4NEpHZnZ5V0Zkam9FQ2F6aWI3Vmc?oc=5",
-   "pub": "Tue, 29 Sep 2026 12:57:33 GMT"
+   "t": "\"Ich habe nichts angeboten\": Trump dementiert Zugeständnisse an den Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSE55S1UxOUZBcFgtRjFtWDYxeHlibHB4RFZEUnF2RGlGNUVRbkNNTFF5VkVuZFlOaVNjN1l5a1RVSm9hbnFLbVhJanFucHRaaU8yblV6UkZaX1VqMWI3ZkRLcXlGeDNHWkNXYTVva3ctd0tEazQ0YXd6MUtPZXM3U0xDQmVDelNRTUs0Sjh0WDBGQQ?oc=5",
+   "pub": "Tue, 29 Sep 2026 02:44:36 GMT"
   },
   {
    "t": "Iran-Krieg: Wieder mehr Öllieferungen durch die Straße von Hormus - WiWo",
@@ -94,19 +94,19 @@
    "pub": "Tue, 29 Sep 2026 12:54:17 GMT"
   },
   {
+   "t": "Iran droht der Region mit Öl-Stopp – Preis steigt - focus.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnp0ZjZxcHA0NE1DVGpUbk1EQ19zODRxaFhVd1JqRmFnNW81dFJXMjVoaUw5aW9YM3VlbFNDNTk2c3JXZFZvQVBzSWE2c3Q1MndaWjVrYlZkbWhhLUcwUm5qdkxyN1dPb1FxdzRDUWQ1ZHQzc21DOTJUc3lXbE1BTlVPbGhWRzMtUDM4Ri01d0JBTUdsR2ZjUFd6X05KaXJNbmNualJLMUtETHlWdW1PYkxJNTJYeV9XMVJuRg?oc=5",
+   "pub": "Tue, 29 Sep 2026 12:26:00 GMT"
+  },
+  {
    "t": "Tether gerät wegen Iran-Geschäften erneut ins Visier des Senats - BTC-ECHO",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTgxN0JZUzltWVRPbGRBSWdob29tYVZScGFJcWpMUHpnZUtqUVZTeUg0bjVlU2RsWTBzN2FVWTc3Q0paZktfaFVyUklsc2tRYV9mSlAwc2IwUXVTa2dtOFN2Szd2bDlXMFluS1l5VjRHaDRPLTN4MEprcC1YbXpfZ0tNVjNFTWUyUXRQVzU0a0FIcC1SY2tSTTJWSkVINXNSU2E0T1dGTzg?oc=5",
    "pub": "Tue, 29 Sep 2026 08:00:00 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten - Wegen US-Sanktionen: Iran beschwert sich bei UNO-Luftfahrtbehörde - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVRLWVBERm1IYkc0UmNLaUFwRmhlaDcySnhMZTVwQ3JnOER2STJGRGVnQ2R0QWFJMWFTb1lTcVpMQlhQdC1MVHRLQUtoSnlwMXNFU0FoRlZCS2ZDVkpIRzdvRFJFZnhBYzV6a2tmN0RKT0ZXVHdERXltRG9nb2x1TGtvazNVNUpqVGhQMXN5Y2lYV2owWDFSekhDMkN6Sm1jMUJnWVd3TTNBaHhWXzdHSnZKcmVWTnVnNmtkU19kSWEybUZUTHN6Z0FSYw?oc=5",
-   "pub": "Mon, 28 Sep 2026 20:41:25 GMT"
-  },
-  {
-   "t": "„Legitimes Ziel“: Iran nimmt Europa ins Visier und weitet Vergeltungskampagne aus - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUxwVk03SDV2Yk5xR3hzT3hqWHRYc0RYNGxjVXBnWXFiWlBjbzVmOWJ5VHNaQzY4dFVxcDBwMlpCNHI5NE8xYnBhY1h0MzM3c1R6LUo0QW9IWVZPeEYydEF5TEE2OFd0R2V0Sm5CTVFSeWEyX2FibXZ2Y3RiZXJoc1hMdzlVRGhMRVhrZUJfU2thM1hVY2RvMg?oc=5",
-   "pub": "Tue, 29 Sep 2026 07:36:13 GMT"
+   "t": "Auch in China und der Türkei: USA verhängen Sanktionen gegen Waffenbeschaffer für Iran - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalo2R2JBOGNwalVlQ21mU3V0blMzcm5QWVMwTjdWLWlhUkNtVURZejBaekJ0My1KLU9LdnN3eVcwck5pVjl5Mnd4LW83R1lpLWdyaWxsNXRFQlRFaXBtYXZwdU1nUm96NFl3M0w2U3hsRU14V0lFbjFmV0RwcEdKTmF2aDN5eEZwV19CN3N4QWVNc0Y4VFNsbkNBWDBxRWJkVVRSYVhqbjU0MnJOX1ZhQmp0YVNUai11UlE?oc=5",
+   "pub": "Tue, 29 Sep 2026 20:06:10 GMT"
   }
  ]
 }
