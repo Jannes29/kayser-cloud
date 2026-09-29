@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-28T22:02:51Z",
+ "collected_at": "2026-09-29T01:58:51Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8317,
-   "chg1d_pct": 0.24
+   "price": 0.8324,
+   "chg1d_pct": 0.32
   },
   "USDJPY": {
-   "price": 157.365,
-   "chg1d_pct": -0.06
+   "price": 157.52,
+   "chg1d_pct": 0.04
   },
   "GBPCAD": {
-   "price": 1.8789,
-   "chg1d_pct": 0.37
+   "price": 1.878,
+   "chg1d_pct": 0.32
   },
   "AUDJPY": {
-   "price": 110.452,
-   "chg1d_pct": 0.08
+   "price": 110.5,
+   "chg1d_pct": 0.12
   },
   "EURUSD": {
-   "price": 1.1377,
-   "chg1d_pct": -0.01
+   "price": 1.1369,
+   "chg1d_pct": -0.08
   },
   "GBPCHF": {
-   "price": 1.1027,
+   "price": 1.1028,
    "chg1d_pct": 0.48
   },
   "WTI": {
-   "price": 93.29,
-   "chg1d_pct": 0.95
+   "price": 93.76,
+   "chg1d_pct": 1.25
   },
   "BRENT": {
-   "price": 98.56,
-   "chg1d_pct": -5.52
+   "price": 99.37,
+   "chg1d_pct": -4.75
   },
   "GOLD": {
-   "price": 4148.5,
-   "chg1d_pct": -4.0
+   "price": 4168.2,
+   "chg1d_pct": -3.54
   },
   "SPX_FUT": {
-   "price": 7746.25,
-   "chg1d_pct": -0.74
+   "price": 7735.0,
+   "chg1d_pct": -0.15
   },
   "NAS_FUT": {
-   "price": 30556.75,
-   "chg1d_pct": -1.08
+   "price": 30498.75,
+   "chg1d_pct": -0.22
   }
  },
  "headlines": [
@@ -54,14 +54,9 @@
    "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten - Wegen US-Sanktionen: Iran beschwert sich bei UNO-Luftfahrtbehörde - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVRLWVBERm1IYkc0UmNLaUFwRmhlaDcySnhMZTVwQ3JnOER2STJGRGVnQ2R0QWFJMWFTb1lTcVpMQlhQdC1MVHRLQUtoSnlwMXNFU0FoRlZCS2ZDVkpIRzdvRFJFZnhBYzV6a2tmN0RKT0ZXVHdERXltRG9nb2x1TGtvazNVNUpqVGhQMXN5Y2lYV2owWDFSekhDMkN6Sm1jMUJnWVd3TTNBaHhWXzdHSnZKcmVWTnVnNmtkU19kSWEybUZUTHN6Z0FSYw?oc=5",
-   "pub": "Mon, 28 Sep 2026 20:41:25 GMT"
-  },
-  {
    "t": "Fast 6 Millionen Barrel beschlagnahmtes Iran-Öl steuern auf die USA zu - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjZZaVVOaUptSGk0Y1VXc2VySm5jcjdSSjYtQkpsdGpFN3Fsbm9keU5sWTlUU3FSUC1UZHlhbkJMZHJ4OVowQmlEcEV2TEZaRGhYTkJ5ejI4dGg4Q190Zmw0WlNONTV4TWl5SWNkN2pILTl5Si1pQ01SdVVSZWZmNXp5OG5IbHNockFpOFhNTzRPZnB2UDNyYUg5MmJfdzdvV3JBTmxJRlhGajhIWlVhR19ZVkFWazI0akdZSTdkSGpkOGR2cG4tamJ4c0M?oc=5",
-   "pub": "Mon, 28 Sep 2026 17:59:00 GMT"
+   "pub": "Mon, 28 Sep 2026 18:01:38 GMT"
   },
   {
    "t": "„Inakzeptabel“: Trump lehnt Iran-Deal ab – Ölpreis explodiert erneut - Frankfurter Rundschau",
@@ -74,29 +69,29 @@
    "pub": "Sun, 27 Sep 2026 10:32:25 GMT"
   },
   {
-   "t": "US-Dollar vor Todeskreuz: Wie Anleger von einem stärkeren Yen profitieren können - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ3plZU01TDlxUDFpdERyYzR5TXc1Q0w1Q2s4YlZEUnFfUXc0dHRKTVdHcDNzcUJTbTdaSV8zcFVBWFVkLUswZzNJRjQ2YWdwcWNpa0ZVRHBBeWoyRk5ROFpjeURKRklWb2NrZUdfbFlEUzZ6UFJqbXpoT0VvV3dSekRvaFNrLWQ0RzRVaHZZNXduX1JOa3VkeXlJS29WNkJnSk1xOVJBeDlOOGxRQ1hKRERQaVg0TVhGZnktSXNOYzQ3UHpjQmlLeU1jQl9DNVdKNUpuUFIzUmEtaDYxdjJWZXl3VQ?oc=5",
-   "pub": "Mon, 28 Sep 2026 14:07:00 GMT"
-  },
-  {
    "t": "US-Präsident Trump lehnt Iran-Vorschlag nach Medienberichten ab - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oVm1kUEJQYzZoM0tYc09mbDVpdUgydUYzMTdGY2YxNEpuY3NrVWNHM2YtVzcyTUhXejA1OGsyUVFRZl95WjY1QlhmN3BYUGE0MnJoT3NvelFfbW1ESmZJ?oc=5",
    "pub": "Sat, 26 Sep 2026 07:17:41 GMT"
   },
   {
-   "t": "Iran-Garden in Terror-Verdacht - schon im Juli drohten sie - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQUxkamdOdm01NkpEWEpvS0l5MGd5c3NCMHdadjI1UFotTHE4bWEwRU5aSld1RVZMOXc4MkszZ21ZZ1F5WnRFZGZKYnlpUVRrcDNOYXBxellLSHdaZE9FTEtXUmYzYkgyTDRtSEFnbEJUbHZDSVA4QVozNlNwT19JbXFJczh2ZGxFeEtNUmxwLURrMjF6TmFnTlVac2haRGxwNTk1dHQ0a2VvdXdEYXFQWVk1OTlDMThkTUdrbTFEdHoyWjNSNWNocWt5Z1N0bTFW?oc=5",
-   "pub": "Mon, 28 Sep 2026 11:48:00 GMT"
+   "t": "Iran-Krieg: Sanktionserleichterungen für Iran? Trump dementiert Bericht - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTWNxN1ZiRlJkZFR0ZFpOQXE2bHU5S3lucW0tZTUzbEd1SUN3YktTX0w2WnRua2wwV0E1Nm1wN1RlaGFQSEsxaXFGbUtwWkFJN2dLY192U01UWUNmN3BJOE1tcGJxdXhjQzFtNERuQjdUT2FJOXR1Z1dQQXoycE9XSG9LdWo5dEdERUQtcU9XLWRQY2FkNlRPZWh2Qk5adjRmQnVPdVpMM0d4MkozdVhvdUdmT1AzeExiQUZNeVdvYkVxZGU4WDEzT2xjaw?oc=5",
+   "pub": "Mon, 28 Sep 2026 23:21:54 GMT"
   },
   {
-   "t": "Ungewissheit über US-Iran-Verhandlungen: Ölpreis steigt deutlich - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk40aDJFOWR5UnlJTmlfNnN2ajRUWlZ0QWc5bWp0aHdzVkYtV3JzUS1jeEpzY3pmUl9zWVAyVmVvaDYyTHVJd294REFJdkJnaUdVRDJEbnBxd1VhbFNPel9ZX0d2LVRROHJxRGJmZFRrOU5jTnllTldFUnRLby1mV21vVGI0dm5QcnZvV1Bidi1zeTdaWF9uV0V4QTZkb09kMFN1YUgxSFJkUQ?oc=5",
-   "pub": "Mon, 28 Sep 2026 11:22:38 GMT"
+   "t": "Vorschlag an die USA: Iran bekräftigt Sieben-Tage-Plan zur Öffnung der Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT05Dckg3Zy1MaFVXX1hHTkdmTS1rQWdLWjlEVFFzaFpnMnMzU2tsbGNIY2NkSTItY0pEc0tCZlNHZEQ2RXdSTjZoOXZCYWJMRmUtN01WSldocl90NDk0T3laQl9PbGFtMXBfb3djRGRiaTlsbDF6SDE1Tmx1QlU0QzlnQ252RDlEbE1Na0hmeDdKNXNJMWFpWjhVeldQaFpaZFZoNHJzMDlaZU5jM2c3UE1HMXU1VGpQXzlBS2xwR0JBOEtfS3EyeDBlVGVvcmdVVjZVQVZOSGE1MThrakNfdVFIcTREUzU3YXpQNEZTYV9hQ1RialE?oc=5",
+   "pub": "Sat, 26 Sep 2026 03:47:13 GMT"
   },
   {
-   "t": "Iran-Krieg: Trump: Erwarte weitere Gespräche mit dem Iran - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHE1WFlFc2N2c21lSUNPMTBabDMxQ0dqVDE5N0QzeUxYak5RemtpY2tURW1HQlIza0thNXVBT2pkdzBsYXQ1Qk9QTVBrSUhDMndjQ0wyUGkyVU8yemhPUnJ3eGhvcmNTSDEwQWotdW1Ia2k5SlNBNl96RHQxOFBDbUhvdU9KRGVZ?oc=5",
-   "pub": "Sun, 27 Sep 2026 15:48:47 GMT"
+   "t": "Krieg im Nahen Osten - Wegen US-Sanktionen: Iran beschwert sich bei UNO-Luftfahrtbehörde - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVRLWVBERm1IYkc0UmNLaUFwRmhlaDcySnhMZTVwQ3JnOER2STJGRGVnQ2R0QWFJMWFTb1lTcVpMQlhQdC1MVHRLQUtoSnlwMXNFU0FoRlZCS2ZDVkpIRzdvRFJFZnhBYzV6a2tmN0RKT0ZXVHdERXltRG9nb2x1TGtvazNVNUpqVGhQMXN5Y2lYV2owWDFSekhDMkN6Sm1jMUJnWVd3TTNBaHhWXzdHSnZKcmVWTnVnNmtkU19kSWEybUZUTHN6Z0FSYw?oc=5",
+   "pub": "Mon, 28 Sep 2026 20:41:25 GMT"
+  },
+  {
+   "t": "Terrorverdacht am Stützpunkt Fairford: Iran dementiert Beteiligung an mutmaßlichem Anschlagsplan in England - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0hjSHRoVkU5ZUtubGh2SXhWUF9tWXNnQ09oeUhlcmtRQzdxOEc0UzVqbmNnVGwzMDRiaDF1SzBxWE9jZWFPQ0xLSjhfY3ByRDh2ZzM5bnVfS1BUdWF4bzhmS1lXRXJxZ3hJSXZWOUJ1akZjVHdxUWdzVjVwUDc3dFNOVEhnd3RiUkdkV3JvajVSb3Y1RlNVQ3JOQVF6UmdfdkMtRlFR?oc=5",
+   "pub": "Mon, 28 Sep 2026 13:44:39 GMT"
   },
   {
    "t": "Iran: In Haft für den Kampf um Menschenrechte - ZDFheute",
@@ -107,6 +102,11 @@
    "t": "Iran-Krieg - WSJ: Trump lehnt iranischen Vorschlag ab - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcF8zTWZSNHdwZlMxMW84S3czdHluVU1sWGxuc3JKZi1ZU0JOSVJPTFp0dE5TUHYtTVVQRmhuYmJncUI0T09kRzhIV1RGWW1QaXZpbnBqMU1zek5ObTFYcm9sUTM5RFZFMzFpT3Y3VWFjZHowQThSNFF6S1FSRHluVDk0M3FxQQ?oc=5",
    "pub": "Sat, 26 Sep 2026 06:00:48 GMT"
+  },
+  {
+   "t": "Vorerst wohl keine Verhandlungen: Iran stößt Trump vor den Kopf – „Keine Pläne“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEJHUE9adlF4MnNjcDY3YjNNZC11U1E2TDRZamVfWnd1THl5d1R1akRicXVQZ3RyZnRxMGhldlc0anRXcTYwY0tPQ2R1RnNydHpxZkhxQjRoeEdhMmtnOUxNR3NLb2VvbHVmMzVSWmFOelVmSENKUU8yOU56SkdrNHViU3NPQXRvSGYxb25UTFYybzRIbWROOWgxOXh3YW15VGZnOE8yWjJ6NVpmMWc?oc=5",
+   "pub": "Mon, 28 Sep 2026 19:34:46 GMT"
   }
  ]
 }
