@@ -1,97 +1,67 @@
 {
- "collected_at": "2026-09-30T00:28:50Z",
+ "collected_at": "2026-09-30T06:44:57Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8343,
-   "chg1d_pct": 0.31
+   "price": 0.8333,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 157.307,
-   "chg1d_pct": -0.03
+   "price": 156.908,
+   "chg1d_pct": -0.29
   },
   "GBPCAD": {
-   "price": 1.8771,
-   "chg1d_pct": -0.1
+   "price": 1.8796,
+   "chg1d_pct": 0.03
   },
   "AUDJPY": {
-   "price": 109.896,
-   "chg1d_pct": -0.46
+   "price": 109.407,
+   "chg1d_pct": -0.9
   },
   "EURUSD": {
-   "price": 1.1342,
-   "chg1d_pct": -0.27
+   "price": 1.1356,
+   "chg1d_pct": -0.15
   },
   "GBPCHF": {
-   "price": 1.1035,
-   "chg1d_pct": 0.09
+   "price": 1.1043,
+   "chg1d_pct": 0.17
   },
   "WTI": {
-   "price": 89.25,
-   "chg1d_pct": -3.62
+   "price": 89.84,
+   "chg1d_pct": 0.51
   },
   "BRENT": {
-   "price": 96.04,
-   "chg1d_pct": -8.78
+   "price": 96.44,
+   "chg1d_pct": -5.99
   },
   "GOLD": {
-   "price": 4215.7,
-   "chg1d_pct": 1.13
+   "price": 4212.5,
+   "chg1d_pct": 0.78
   },
   "SPX_FUT": {
-   "price": 7750.0,
-   "chg1d_pct": 0.04
+   "price": 7739.0,
+   "chg1d_pct": 0.09
   },
   "NAS_FUT": {
-   "price": 30702.25,
-   "chg1d_pct": 0.44
+   "price": 30567.5,
+   "chg1d_pct": -0.15
   }
  },
  "headlines": [
-  {
-   "t": "Auch in China und der Türkei: USA verhängen Sanktionen gegen Waffenbeschaffer für Iran - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalo2R2JBOGNwalVlQ21mU3V0blMzcm5QWVMwTjdWLWlhUkNtVURZejBaekJ0My1KLU9LdnN3eVcwck5pVjl5Mnd4LW83R1lpLWdyaWxsNXRFQlRFaXBtYXZwdU1nUm96NFl3M0w2U3hsRU14V0lFbjFmV0RwcEdKTmF2aDN5eEZwV19CN3N4QWVNc0Y4VFNsbkNBWDBxRWJkVVRSYVhqbjU0MnJOX1ZhQmp0YVNUai11UlE?oc=5",
-   "pub": "Tue, 29 Sep 2026 20:06:10 GMT"
-  },
   {
    "t": "\"Dann verkauft niemand mehr Öl\": Iran droht mit Angriffen auf Infrastruktur und Einsatz neuer Waffen - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1phQWItTXd0SllMTXpHa2g1SGJ2VTV1eDd3RVctSXNoWWM2YzlXeXdDQTBEaVpKYVZjMHlGZzhjSnFNaXdxdmN4QWhiWTZGUGhVVUN2NG1xTXlTQ1lZNFJxLU44elpaSGZ4LV9vbWdRSUFpWjVTSXJINzh0YjZMR3ZzbnJfRG5EaVhDT0pKdHZHTmN4NU1UTEZqSEJ3LUVlMnMwS2hORzN2dkpGWFR4NEpHZnZ5V0Zkam9FQ2F6aWI3Vmc?oc=5",
    "pub": "Tue, 29 Sep 2026 12:57:33 GMT"
   },
   {
-   "t": "„Dann wäre Donald Trump eine Lame Duck – sozusagen Donald Duck“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkcteVNsaHA4d19PejhJclI3SFhEal9QTUE1Y3A5dnM1TzR1XzRCWkVKWHVxOVp6SnJUem1fdFlOVXpmTDEyTE1pZGZlckYyLU5JeUhLdXZRd1NDaVplbjdFYjJLUG9WYllKT3E2QlRaRWFvenNwbEJ0aDFGelprdmx0UFJqWlFieGloczR6aTJ0UWI4YTJNekllMXFucE9OYW5hMjN2N2JGVUJEc3d4djQtQzRTZElMUko4Xzd5TFg0V3U4cnNiRTljNnppMU9SNHhNeDF1NHZJZG9U?oc=5",
-   "pub": "Tue, 29 Sep 2026 11:16:09 GMT"
+   "t": "Donald Trump nennt Kim Jong Un einen Freund: Nordkorea darf Atomwaffen besitzen, Iran nicht - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcWc2WloxX0NwcVZ3V2FLU2pURFI2WlFXc1FOY0JqaDVJa2txV0RHZzNaZ2ZDM01GZGt4MEIxdWNLeE5yQXdDUy1FSHFyXzRCNFJtV0dPM2xodlJfUDB5aGxOby1wbVJkMHFxVWU1WmJPYnRzT3NFN3lVajVSNnVPelpzNExhVnVtTkx4U2twTzNhSUEweXVRcDZLNlV0cGYwMlFZcFg1R3dkRXFyNGJURjZValMtRUVNNnMwb2dUQmJFcGFNMFdUMldKLUJ2LThIeEM0WENJWWVuSWtMcXFmcTBRVHJkREFEWExra0ZTSTU?oc=5",
+   "pub": "Wed, 30 Sep 2026 04:56:00 GMT"
   },
   {
-   "t": "Ali Zarei: Aus Iran geflüchtet, zurückgekehrt, zum Tode verurteilt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oc0FzNzdCVmdOQkl6eU9lRGZXSVA4ZXhSUFoyOWxzMkVBaENwMF9wRERpM2wxc3JEcnlzU2ZsWTVXd0dIQU5xUl9EbVJCeDlrX2gtQ0p5ZC1FN0FGS1VYam5kMV9EczlvdHNDMmRB?oc=5",
-   "pub": "Tue, 29 Sep 2026 08:50:00 GMT"
-  },
-  {
-   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
-   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
-  },
-  {
-   "t": "„Dann wird keine Infrastruktur sicher sein“: Iran-Krieg spitzt sich zu – Hormus-Ultimatum an Trump - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlIzbGdJRU1jc2xnNE9NNXpqYUctLU5NNEw2MUlQdkxwQmZyX2dzR0NWNC1wTmtqN1EzeWwxUm9SdWY4Q0VsQ2NRUGNqNlJpU2R2ZHBIUVNGWWFnZ3g4TnhGWlZ2UGh4ekFrQ1NkdmhVWGswa09zdFZXYm1uVGctSnVJQlg3RDNUUXlBRWFoOXFUdjVZWm9QUGQ5ZFFfVEpzbTl3ckNhWl9udDdDMVNlaVY4ZTU?oc=5",
-   "pub": "Tue, 29 Sep 2026 11:40:50 GMT"
-  },
-  {
-   "t": "Aufstellung | Russland - Iran 2:0 | 4. Spieltag | Nationalteams Freundschaftsspiele 2026 - Kicker",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2txUGhhMDBDVzN3T3dYejNVcDctZFRseVo4UGdvaXhjRVBDOU53d202TXlRWWlINlpYaDV5WUlXMU1DcHFNdTUwejdsbmFmNmFOX254NkN1R0JiTUhtRmF5T1RNV1RlNEgwQmZaODltRUFPWjJubFZEU2htSmhGdmktVkd1QlU5MDNFU1VwVDJDd0VuMjZZUkNuNlpSOEFNM2c?oc=5",
-   "pub": "Tue, 29 Sep 2026 15:32:03 GMT"
-  },
-  {
-   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
-   "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
-  },
-  {
-   "t": "Fed vollzieht Strategiewechsel: Das bedeutet es für Bitcoin und Krypto - BTC-ECHO",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ1JfV1YtNHZ2OTd4a0tZbXkyaVRlcHZRMThPQlJhY2I4aEZXMHhUejZSOUVKNS0zLXo4TUxnYnd5RGFNcS1CcWNxTTM1bHNYX0RVUTNua2VGZmI4NncwYzdZbFh2YjRwam9lY2VKX25MR1ZwWHh3aGlxc1lVcjl0dEZWS3RwaWVIeEt1ZXhUd3BmUlpJYlg3eEczZnU0OGV5M094Ync3QVV1VWc?oc=5",
-   "pub": "Tue, 29 Sep 2026 14:48:52 GMT"
+   "t": "Auch in China und der Türkei: USA verhängen Sanktionen gegen Waffenbeschaffer für Iran - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQalo2R2JBOGNwalVlQ21mU3V0blMzcm5QWVMwTjdWLWlhUkNtVURZejBaekJ0My1KLU9LdnN3eVcwck5pVjl5Mnd4LW83R1lpLWdyaWxsNXRFQlRFaXBtYXZwdU1nUm96NFl3M0w2U3hsRU14V0lFbjFmV0RwcEdKTmF2aDN5eEZwV19CN3N4QWVNc0Y4VFNsbkNBWDBxRWJkVVRSYVhqbjU0MnJOX1ZhQmp0YVNUai11UlE?oc=5",
+   "pub": "Tue, 29 Sep 2026 20:06:10 GMT"
   },
   {
    "t": "Iran-Krieg: Wieder mehr Öllieferungen durch die Straße von Hormus - WiWo",
@@ -99,14 +69,44 @@
    "pub": "Tue, 29 Sep 2026 12:54:17 GMT"
   },
   {
-   "t": "Iran droht der Region mit Öl-Stopp – Preis steigt - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnp0ZjZxcHA0NE1DVGpUbk1EQ19zODRxaFhVd1JqRmFnNW81dFJXMjVoaUw5aW9YM3VlbFNDNTk2c3JXZFZvQVBzSWE2c3Q1MndaWjVrYlZkbWhhLUcwUm5qdkxyN1dPb1FxdzRDUWQ1ZHQzc21DOTJUc3lXbE1BTlVPbGhWRzMtUDM4Ri01d0JBTUdsR2ZjUFd6X05KaXJNbmNualJLMUtETHlWdW1PYkxJNTJYeV9XMVJuRg?oc=5",
-   "pub": "Tue, 29 Sep 2026 12:26:00 GMT"
+   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
+   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
-   "t": "\"Ich habe nichts angeboten\": Trump dementiert Zugeständnisse an den Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSE55S1UxOUZBcFgtRjFtWDYxeHlibHB4RFZEUnF2RGlGNUVRbkNNTFF5VkVuZFlOaVNjN1l5a1RVSm9hbnFLbVhJanFucHRaaU8yblV6UkZaX1VqMWI3ZkRLcXlGeDNHWkNXYTVva3ctd0tEazQ0YXd6MUtPZXM3U0xDQmVDelNRTUs0Sjh0WDBGQQ?oc=5",
-   "pub": "Tue, 29 Sep 2026 02:44:36 GMT"
+   "t": "„Dann wäre Donald Trump eine Lame Duck – sozusagen Donald Duck“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkcteVNsaHA4d19PejhJclI3SFhEal9QTUE1Y3A5dnM1TzR1XzRCWkVKWHVxOVp6SnJUem1fdFlOVXpmTDEyTE1pZGZlckYyLU5JeUhLdXZRd1NDaVplbjdFYjJLUG9WYllKT3E2QlRaRWFvenNwbEJ0aDFGelprdmx0UFJqWlFieGloczR6aTJ0UWI4YTJNekllMXFucE9OYW5hMjN2N2JGVUJEc3d4djQtQzRTZElMUko4Xzd5TFg0V3U4cnNiRTljNnppMU9SNHhNeDF1NHZJZG9U?oc=5",
+   "pub": "Tue, 29 Sep 2026 11:16:09 GMT"
+  },
+  {
+   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
+   "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
+  },
+  {
+   "t": "Iran droht mit Aus für alle Öl-Exporte und neuen Angriffen - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUJGRkhFYUJVNHZUUFVlYldYNlZWN2dYalhTZXdnUEs0blNKdDluMEV4SF9tSHBWamswTEpMREp3c2Zyb1FvbjdVWm04TlRQbE5aM0VIVUtCUTJHM3p6eTlscWRmYTljSjRVaTROTHpQSkpCdHdqS21MYm9iVjBHTWR6RTBGalVDZF84Q0dJeDFiRlhWbkJTM0hudjhBZw?oc=5",
+   "pub": "Tue, 29 Sep 2026 17:26:00 GMT"
+  },
+  {
+   "t": "Ali Zarei: Aus Iran geflüchtet, zurückgekehrt, zum Tode verurteilt - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Oc0FzNzdCVmdOQkl6eU9lRGZXSVA4ZXhSUFoyOWxzMkVBaENwMF9wRERpM2wxc3JEcnlzU2ZsWTVXd0dIQU5xUl9EbVJCeDlrX2gtQ0p5ZC1FN0FGS1VYam5kMV9EczlvdHNDMmRB?oc=5",
+   "pub": "Tue, 29 Sep 2026 08:50:00 GMT"
+  },
+  {
+   "t": "„Das muss ein Ende haben“: Trumps Iran-Krieg spaltet Veteranen - Mehrheit im Kongress wackelt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2tPVExfa0UxQVljemRsZVZ5bTJ0TUhpWkZZMjJENnRwbHQzT0JpaHNyMzV6Si1teTk0YXBCWXNlS1pxaURqU0NoQTNRNzM5WG9Ub2JFY1BRVmdHRnFhc19mS3dDQmNVYWVSY2NLeEtFd1pRNHcwY1R0aVJTRno5MzYyWE8wSWhwOGxhS1lVU3hIeWdyNlowakZ3eEVfeUgybERWUXVqR3F4N0NDRHo1TA?oc=5",
+   "pub": "Wed, 30 Sep 2026 03:17:39 GMT"
+  },
+  {
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktRaFJMOW5ldkRjczN1MklWdmYzamlSMEhxdWtQRHM5Z1QxUXhDSGM0eG80OTA0Mm9jWS1IdjN3aWZCc3JQMWg4bS1pVmFEU0hUUXNzampuRDc2SmM3ODVUOFcta09oNmxFZXAtVVJ1aE9OSWxRNTJhMnhqbWtTY3VRUkZrSkpZcHVscGpFM0JRdnRGZGp0QUpMSGVfT0FpVEVwb256Si1QYU9VR2RMMXI0M3l0WEw3WVVhTklNcjlTc1VjcGNSelVwSDRKRGc?oc=5",
+   "pub": "Wed, 30 Sep 2026 04:30:42 GMT"
+  },
+  {
+   "t": "„Dann wird keine Infrastruktur sicher sein“: Iran-Krieg spitzt sich zu – Hormus-Ultimatum an Trump - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlIzbGdJRU1jc2xnNE9NNXpqYUctLU5NNEw2MUlQdkxwQmZyX2dzR0NWNC1wTmtqN1EzeWwxUm9SdWY4Q0VsQ2NRUGNqNlJpU2R2ZHBIUVNGWWFnZ3g4TnhGWlZ2UGh4ekFrQ1NkdmhVWGswa09zdFZXYm1uVGctSnVJQlg3RDNUUXlBRWFoOXFUdjVZWm9QUGQ5ZFFfVEpzbTl3ckNhWl9udDdDMVNlaVY4ZTU?oc=5",
+   "pub": "Tue, 29 Sep 2026 11:40:50 GMT"
   }
  ]
 }
