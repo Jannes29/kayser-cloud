@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-30T19:22:21Z",
+ "collected_at": "2026-09-30T23:51:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.8355,
-   "chg1d_pct": 0.45
+   "chg1d_pct": 0.15
   },
   "USDJPY": {
-   "price": 157.327,
-   "chg1d_pct": -0.02
-  },
-  "GBPCAD": {
-   "price": 1.8873,
-   "chg1d_pct": 0.44
-  },
-  "AUDJPY": {
-   "price": 109.319,
-   "chg1d_pct": -0.98
-  },
-  "EURUSD": {
-   "price": 1.1334,
-   "chg1d_pct": -0.34
-  },
-  "GBPCHF": {
-   "price": 1.108,
-   "chg1d_pct": 0.5
-  },
-  "WTI": {
-   "price": 90.62,
-   "chg1d_pct": 1.39
-  },
-  "BRENT": {
-   "price": 98.11,
-   "chg1d_pct": -4.37
-  },
-  "GOLD": {
-   "price": 4181.1,
+   "price": 157.449,
    "chg1d_pct": 0.03
   },
+  "GBPCAD": {
+   "price": 1.8878,
+   "chg1d_pct": 0.56
+  },
+  "AUDJPY": {
+   "price": 109.379,
+   "chg1d_pct": -0.57
+  },
+  "EURUSD": {
+   "price": 1.1333,
+   "chg1d_pct": -0.07
+  },
+  "GBPCHF": {
+   "price": 1.1082,
+   "chg1d_pct": 0.42
+  },
+  "WTI": {
+   "price": 89.97,
+   "chg1d_pct": 0.66
+  },
+  "BRENT": {
+   "price": 97.58,
+   "chg1d_pct": -4.88
+  },
+  "GOLD": {
+   "price": 4185.7,
+   "chg1d_pct": 0.14
+  },
   "SPX_FUT": {
-   "price": 7753.0,
-   "chg1d_pct": 0.27
+   "price": 7744.0,
+   "chg1d_pct": 0.16
   },
   "NAS_FUT": {
-   "price": 30843.25,
-   "chg1d_pct": 0.75
+   "price": 30830.25,
+   "chg1d_pct": 0.71
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Iran: Armee setzt Kopfgeld auf getötete US-Soldaten aus - bis zu 35.000 Euro - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEZUR2l6azdicGFCcjgtY3BvY1hxdkVfZ29jRjQ4OFRPaUx4c1BaT2gxTHkzXzVEdGV4bGR3YXE2c2tYV3NkTzh2NFBzRk9zYzRzOGJhaHZUNHhhYl94MF9EMTBHd1NpZ1o0TTcxTmdPWHZES1ZkX1RzNzZuVzdINEZndTEta2tULUExMkdHa094T0V4T3BJYllLb1R2eDd5ZXM2VWdNV0xOMTF0UkN6ajhDZ2lHdGpPQVFDNWwxQTJhRkk?oc=5",
    "pub": "Wed, 30 Sep 2026 09:34:00 GMT"
+  },
+  {
+   "t": "Vorfall nahe britischer Luftwaffenbasis: \"Hinweis auf Iran\" - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OM2R1NUlHSkhpQmczMi1YdDFYLXkzejBDV1ZKanN3dW1oMDE4Y1VQRUw5MlNmaHI4UkQxUXotWWRJdXpCSjRQZjdqOUgycUpYcURXTFFuRWw3Vloya1Z5aU11N1l1LXgzV3FPS1hR?oc=5",
+   "pub": "Wed, 30 Sep 2026 17:43:00 GMT"
   },
   {
    "t": "Nach Hormus-Ultimatum: Trump-Regierung übermittelt offizielle Antwort an den Iran - Frankfurter Rundschau",
@@ -64,9 +69,9 @@
    "pub": "Wed, 30 Sep 2026 12:28:52 GMT"
   },
   {
-   "t": "Shuttle fleet: Crude oil exports from the Gulf reach pre-war levels according to data provider - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3VVWlc0aVVGbzRocjlUU1ZoaDAwbVhyVVJ3T0xVandkNFdWYzZjVmhPRDc4dV9uNkFOSFpQaUlLMm9PLUFTYzFmRmFPVXJGWllQaFZCaGdxMVk1SWp3TGw3NzRjUGtxbF9XY2VsSkhKMnZiN1BabktBUUlTWXZGMWZFbGdXMFlCdkZiYVVFWlJOaXFnTDA0dTd3Znpycm5ydW1uNzlQNG11VDV0Nl8xV1dfWktVSGhfd0I3TGQ5RjROQUZxdEE?oc=5",
-   "pub": "Wed, 30 Sep 2026 15:24:00 GMT"
+   "t": "Trump warf Verschwendung vor: Prüfer sprechen Ex-Fed-Chef Powell von Fehlverhalten frei - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUc5ek9UZDBKYzRPTmJWMTctWlNaenVTWGFNa1JnQ1dpUndlQkxjc3F3a0dYX1dIeWExRUVQaU0tck9aQUxGbGRwbWVNUnFrN2s0VWxoUjFCZTFOdlU1ZEhYa2UxbDNsanMxYVRPakRPaEVIT1pYaVBIUjlZdE1SY2RncTF1Q2pCOW5lb3RRdVZJLVF5NEdab2JxUWMyNDU1RWZlVA?oc=5",
+   "pub": "Wed, 30 Sep 2026 20:10:32 GMT"
   },
   {
    "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
@@ -79,14 +84,9 @@
    "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
   },
   {
-   "t": "Vorfall nahe britischer Luftwaffenbasis: \"Hinweis auf Iran\" - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OM2R1NUlHSkhpQmczMi1YdDFYLXkzejBDV1ZKanN3dW1oMDE4Y1VQRUw5MlNmaHI4UkQxUXotWWRJdXpCSjRQZjdqOUgycUpYcURXTFFuRWw3Vloya1Z5aU11N1l1LXgzV3FPS1hR?oc=5",
-   "pub": "Wed, 30 Sep 2026 17:43:00 GMT"
-  },
-  {
-   "t": "Trump: Interner Prüfer findet kein Powell-Fehlverhalten bei Fed-Umbau - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYTJScGNKYTFBYTEtdDhuX05mNDJDVDJ5SzdaNHVpZkp2Mm5MWXZqT2ZNbjlEbndEWlRkTGo4ZW1STWUxOXQ1ai0wMXZSX1c0dEtqUV9VRkhtUW9ndFFsYkpIdUUtdGRHVjRoQ1dnTjNnUFF2djJkSDFxUTU3RmxGNVNZSGpfdnhSQkVLSVFZT0xGUHk5ZXBPY05rTWtobXRnVldTaVZueGpUTlVSTzNJLVpLdm12aTIxaHprSy1fd0R4QWQySDRSYUJ6R3BoQjBZ?oc=5",
-   "pub": "Wed, 30 Sep 2026 19:20:50 GMT"
+   "t": "Shuttle fleet: Crude oil exports from the Gulf reach pre-war levels according to data provider - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3VVWlc0aVVGbzRocjlUU1ZoaDAwbVhyVVJ3T0xVandkNFdWYzZjVmhPRDc4dV9uNkFOSFpQaUlLMm9PLUFTYzFmRmFPVXJGWllQaFZCaGdxMVk1SWp3TGw3NzRjUGtxbF9XY2VsSkhKMnZiN1BabktBUUlTWXZGMWZFbGdXMFlCdkZiYVVFWlJOaXFnTDA0dTd3Znpycm5ydW1uNzlQNG11VDV0Nl8xV1dfWktVSGhfd0I3TGQ5RjROQUZxdEE?oc=5",
+   "pub": "Wed, 30 Sep 2026 15:24:00 GMT"
   },
   {
    "t": "\"Dann verkauft niemand mehr Öl\": Iran droht mit Angriffen auf Infrastruktur und Einsatz neuer Waffen - Euronews.com",
@@ -94,19 +94,19 @@
    "pub": "Tue, 29 Sep 2026 12:57:33 GMT"
   },
   {
-   "t": "Verdächtige Aktivitäten nahe RAF-Basis Fairford Premier Burnham sieht „starke Hinweise“ auf Beteiligung des Iran - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOOTN2V1h2Y3Zta3ZGUnhDSm5GZnY5ZEFoNUkyMHp6RWpIN2hKeVcwMlJJaFplRmYwdTFsa3I5QmdlRTh5Q0Y2NWNOcEt2ZUFBNzE5ZnFSYjlSTUNuVTFzcGd3dzlMOWp6RnBaTWs2NUV4SDVFNXU0MjFDZ0JCS1BXYXZrN0xIYlBJRHVsd1lIQi1Hb0xMdGZpektEdWZSSWFoTk9OeGl0U0E2d0dIZmtCaEtUY01ycmRZSFlVY0Rkejh1Y3hQQlZaMTN2YjBCSUdrNjlWclhwUzAwUUNhSmluWGlGTnNJSzhoNlM3Znd4R2k1U1RPTXR6U3ZTM2g?oc=5",
-   "pub": "Wed, 30 Sep 2026 17:22:27 GMT"
-  },
-  {
-   "t": "3,4 statt 3,7 Prozent: Fed bekommt bessere Inflationsdaten als erwartet - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbHRMaWhhOG5vTTc5OWNXbFpKaWg3T2dTQ1NBWE1mVkhOX1NoRnY5OU56c2c3UXd6R0k1ZmtwcmFUZkFTX2lwWDlTdmxJWTZ5enB6WWx1bVpaZkxaZG5fbVNZM2tJblJoaWlkOFpHelBfeVFTcXd1blRKcHlPdG9BYUp1WGJaSFhXQlYtcWxqbjV6Yy1pZkRXa1VuN2xtdGlSSXdGZU84aVJSMzRCaVRibV8zdUtyQkxkSWM4YllVcWhWUnN3eTBLTXVnbnNpY0FDOXloX2NR?oc=5",
-   "pub": "Wed, 30 Sep 2026 13:16:00 GMT"
+   "t": "Trump droht früherem Fed-Chef Powell mit neuen Ermittlungen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTc4Um4xQVRLNV9mQ1U1bDgyX3BvcmVfVVBUckQ0Ynd6VnQ1Yl9NY0JSLWdiZEpfMi1hZy12aE9rMmJ1aTlNRWFwaVhvM2JGQnh5S3lMM1VDalJCeFJ5bkpjb0Zja1ZwY3VQRWpOazVXaFQwVUo0cV9DM0F4SE1CcV9RVkFpTGFlcUNIS2RrRk5oRFlUR2w3OHJRSHhMLVFkc3c?oc=5",
+   "pub": "Wed, 30 Sep 2026 21:26:52 GMT"
   },
   {
    "t": "Nordkorea: Donald Trump nennt Kim Jong Un einen Freund - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcWc2WloxX0NwcVZ3V2FLU2pURFI2WlFXc1FOY0JqaDVJa2txV0RHZzNaZ2ZDM01GZGt4MEIxdWNLeE5yQXdDUy1FSHFyXzRCNFJtV0dPM2xodlJfUDB5aGxOby1wbVJkMHFxVWU1WmJPYnRzT3NFN3lVajVSNnVPelpzNExhVnVtTkx4U2twTzNhSUEweXVRcDZLNlV0cGYwMlFZcFg1R3dkRXFyNGJURjZValMtRUVNNnMwb2dUQmJFcGFNMFdUMldKLUJ2LThIeEM0WENJWWVuSWtMcXFmcTBRVHJkREFEWExra0ZTSTU?oc=5",
    "pub": "Wed, 30 Sep 2026 04:56:00 GMT"
+  },
+  {
+   "t": "„Dann wäre Donald Trump eine Lame Duck – sozusagen Donald Duck“ - welt.de",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkcteVNsaHA4d19PejhJclI3SFhEal9QTUE1Y3A5dnM1TzR1XzRCWkVKWHVxOVp6SnJUem1fdFlOVXpmTDEyTE1pZGZlckYyLU5JeUhLdXZRd1NDaVplbjdFYjJLUG9WYllKT3E2QlRaRWFvenNwbEJ0aDFGelprdmx0UFJqWlFieGloczR6aTJ0UWI4YTJNekllMXFucE9OYW5hMjN2N2JGVUJEc3d4djQtQzRTZElMUko4Xzd5TFg0V3U4cnNiRTljNnppMU9SNHhNeDF1NHZJZG9U?oc=5",
+   "pub": "Wed, 30 Sep 2026 05:44:01 GMT"
   }
  ]
 }
