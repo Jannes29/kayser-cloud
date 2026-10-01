@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-09-30T23:51:45Z",
+ "collected_at": "2026-10-01T05:57:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8355,
-   "chg1d_pct": 0.15
+   "price": 0.8365,
+   "chg1d_pct": 0.27
   },
   "USDJPY": {
-   "price": 157.449,
-   "chg1d_pct": 0.03
+   "price": 158.376,
+   "chg1d_pct": 0.62
   },
   "GBPCAD": {
-   "price": 1.8878,
-   "chg1d_pct": 0.56
+   "price": 1.8867,
+   "chg1d_pct": 0.5
   },
   "AUDJPY": {
-   "price": 109.379,
-   "chg1d_pct": -0.57
+   "price": 110.033,
+   "chg1d_pct": 0.03
   },
   "EURUSD": {
-   "price": 1.1333,
-   "chg1d_pct": -0.07
+   "price": 1.1321,
+   "chg1d_pct": -0.17
   },
   "GBPCHF": {
-   "price": 1.1082,
-   "chg1d_pct": 0.42
+   "price": 1.108,
+   "chg1d_pct": 0.4
   },
   "WTI": {
-   "price": 89.97,
-   "chg1d_pct": 0.66
+   "price": 89.4,
+   "chg1d_pct": -1.13
   },
   "BRENT": {
-   "price": 97.58,
-   "chg1d_pct": -4.88
+   "price": 97.13,
+   "chg1d_pct": -6.18
   },
   "GOLD": {
-   "price": 4185.7,
-   "chg1d_pct": 0.14
+   "price": 4217.8,
+   "chg1d_pct": 0.74
   },
   "SPX_FUT": {
-   "price": 7744.0,
-   "chg1d_pct": 0.16
+   "price": 7761.75,
+   "chg1d_pct": 0.6
   },
   "NAS_FUT": {
-   "price": 30830.25,
-   "chg1d_pct": 0.71
+   "price": 31053.25,
+   "chg1d_pct": 1.15
   }
  },
  "headlines": [
@@ -59,19 +59,14 @@
    "pub": "Wed, 30 Sep 2026 17:43:00 GMT"
   },
   {
-   "t": "Nach Hormus-Ultimatum: Trump-Regierung übermittelt offizielle Antwort an den Iran - Frankfurter Rundschau",
+   "t": "Nach Hormus-Ultimatum: Trump-Regierung übermittelt offizielle Antwort an den Iran - fr.de",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnBNeGx1RnZCUWV3VTRaTWluTkI0QWNBeF9OVVNvSVFhaGNELV9vY0x6UGtFUVdTalVVNGl2YzNzOEhnUVpPQmJPTkx0NTFNQ2lUWnlYMzRsWWdEV2h6d0FuRnQ5LS1yV1BwTXpMT1ptYUVDdW85dm5oOGxnbFhpYzZVLTFwUXJFM2JxODhRNVprM1VKcE41NVBtdTc0Vkg1RWNnTVJDc0NZaWtUREhZX3BlYWhhQ2RsaTR2RXhjT01MZw?oc=5",
    "pub": "Wed, 30 Sep 2026 18:41:00 GMT"
   },
   {
-   "t": "Nahost: Die überraschende Wende im Iran-Krieg - welt.de",
+   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
    "pub": "Wed, 30 Sep 2026 12:28:52 GMT"
-  },
-  {
-   "t": "Trump warf Verschwendung vor: Prüfer sprechen Ex-Fed-Chef Powell von Fehlverhalten frei - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUc5ek9UZDBKYzRPTmJWMTctWlNaenVTWGFNa1JnQ1dpUndlQkxjc3F3a0dYX1dIeWExRUVQaU0tck9aQUxGbGRwbWVNUnFrN2s0VWxoUjFCZTFOdlU1ZEhYa2UxbDNsanMxYVRPakRPaEVIT1pYaVBIUjlZdE1SY2RncTF1Q2pCOW5lb3RRdVZJLVF5NEdab2JxUWMyNDU1RWZlVA?oc=5",
-   "pub": "Wed, 30 Sep 2026 20:10:32 GMT"
   },
   {
    "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
@@ -84,9 +79,14 @@
    "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
   },
   {
-   "t": "Shuttle fleet: Crude oil exports from the Gulf reach pre-war levels according to data provider - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3VVWlc0aVVGbzRocjlUU1ZoaDAwbVhyVVJ3T0xVandkNFdWYzZjVmhPRDc4dV9uNkFOSFpQaUlLMm9PLUFTYzFmRmFPVXJGWllQaFZCaGdxMVk1SWp3TGw3NzRjUGtxbF9XY2VsSkhKMnZiN1BabktBUUlTWXZGMWZFbGdXMFlCdkZiYVVFWlJOaXFnTDA0dTd3Znpycm5ydW1uNzlQNG11VDV0Nl8xV1dfWktVSGhfd0I3TGQ5RjROQUZxdEE?oc=5",
-   "pub": "Wed, 30 Sep 2026 15:24:00 GMT"
+   "t": "Trump warf Verschwendung vor: Prüfer sprechen Ex-Fed-Chef Powell von Fehlverhalten frei - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUc5ek9UZDBKYzRPTmJWMTctWlNaenVTWGFNa1JnQ1dpUndlQkxjc3F3a0dYX1dIeWExRUVQaU0tck9aQUxGbGRwbWVNUnFrN2s0VWxoUjFCZTFOdlU1ZEhYa2UxbDNsanMxYVRPakRPaEVIT1pYaVBIUjlZdE1SY2RncTF1Q2pCOW5lb3RRdVZJLVF5NEdab2JxUWMyNDU1RWZlVA?oc=5",
+   "pub": "Wed, 30 Sep 2026 20:10:32 GMT"
+  },
+  {
+   "t": "Iran-Hoffnung stützt Bundesanleihen – doch Inflationssorgen bleiben - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXJzVnhSYl9DeVZEZ18tNGlQSlBoSloxcHFGTmpGZUhQVlJLZllwNlZSODZ6ZTBIN3M3Z3JLZnJSQXJXRmRUZ2xPZzBST0plSzFrZ3VMSWMwaHp1Y0VobWdtZHNoaVducnB3UGdwSmJ6MTdGdVk5RFdNWXhfMDN3YTFreUtfUUpqaVFQUGRDQll3Rjg5Q2t2OEhSdFlMVC1RU3RYN2NtYUI?oc=5",
+   "pub": "Thu, 01 Oct 2026 05:50:00 GMT"
   },
   {
    "t": "\"Dann verkauft niemand mehr Öl\": Iran droht mit Angriffen auf Infrastruktur und Einsatz neuer Waffen - Euronews.com",
@@ -94,19 +94,19 @@
    "pub": "Tue, 29 Sep 2026 12:57:33 GMT"
   },
   {
-   "t": "Trump droht früherem Fed-Chef Powell mit neuen Ermittlungen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTc4Um4xQVRLNV9mQ1U1bDgyX3BvcmVfVVBUckQ0Ynd6VnQ1Yl9NY0JSLWdiZEpfMi1hZy12aE9rMmJ1aTlNRWFwaVhvM2JGQnh5S3lMM1VDalJCeFJ5bkpjb0Zja1ZwY3VQRWpOazVXaFQwVUo0cV9DM0F4SE1CcV9RVkFpTGFlcUNIS2RrRk5oRFlUR2w3OHJRSHhMLVFkc3c?oc=5",
-   "pub": "Wed, 30 Sep 2026 21:26:52 GMT"
+   "t": "Iran: „Freilassung vermeintlicher Terroristen“ spricht Bände - Westdeutsche Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFVXMWNDVmpYdW1RVGYzSDZWanJRSkU1YzJELTI0SEluTGpXSmlvVHk1WWJyenZsSHJXYU9MaVNMTmpsSWlYTDJlX2Z4c3ZqZjlkdWg0eHAza3lqYU9DYzI2dUtrWmphQ18ySC04ZXNZT3I2S1NSbEk1RThYVDRnVnVidkx2N080MWlDYWVRZEhxZ2NhX1RaRHp4Umt6aHRjMkRKTlV2QVB4QQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 00:58:22 GMT"
   },
   {
-   "t": "Nordkorea: Donald Trump nennt Kim Jong Un einen Freund - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcWc2WloxX0NwcVZ3V2FLU2pURFI2WlFXc1FOY0JqaDVJa2txV0RHZzNaZ2ZDM01GZGt4MEIxdWNLeE5yQXdDUy1FSHFyXzRCNFJtV0dPM2xodlJfUDB5aGxOby1wbVJkMHFxVWU1WmJPYnRzT3NFN3lVajVSNnVPelpzNExhVnVtTkx4U2twTzNhSUEweXVRcDZLNlV0cGYwMlFZcFg1R3dkRXFyNGJURjZValMtRUVNNnMwb2dUQmJFcGFNMFdUMldKLUJ2LThIeEM0WENJWWVuSWtMcXFmcTBRVHJkREFEWExra0ZTSTU?oc=5",
-   "pub": "Wed, 30 Sep 2026 04:56:00 GMT"
+   "t": "Shuttle fleet: Crude oil exports from the Gulf reach pre-war levels according to data provider - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ3VVWlc0aVVGbzRocjlUU1ZoaDAwbVhyVVJ3T0xVandkNFdWYzZjVmhPRDc4dV9uNkFOSFpQaUlLMm9PLUFTYzFmRmFPVXJGWllQaFZCaGdxMVk1SWp3TGw3NzRjUGtxbF9XY2VsSkhKMnZiN1BabktBUUlTWXZGMWZFbGdXMFlCdkZiYVVFWlJOaXFnTDA0dTd3Znpycm5ydW1uNzlQNG11VDV0Nl8xV1dfWktVSGhfd0I3TGQ5RjROQUZxdEE?oc=5",
+   "pub": "Wed, 30 Sep 2026 15:24:00 GMT"
   },
   {
-   "t": "„Dann wäre Donald Trump eine Lame Duck – sozusagen Donald Duck“ - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkcteVNsaHA4d19PejhJclI3SFhEal9QTUE1Y3A5dnM1TzR1XzRCWkVKWHVxOVp6SnJUem1fdFlOVXpmTDEyTE1pZGZlckYyLU5JeUhLdXZRd1NDaVplbjdFYjJLUG9WYllKT3E2QlRaRWFvenNwbEJ0aDFGelprdmx0UFJqWlFieGloczR6aTJ0UWI4YTJNekllMXFucE9OYW5hMjN2N2JGVUJEc3d4djQtQzRTZElMUko4Xzd5TFg0V3U4cnNiRTljNnppMU9SNHhNeDF1NHZJZG9U?oc=5",
-   "pub": "Wed, 30 Sep 2026 05:44:01 GMT"
+   "t": "Jerome Powell: Prüfbericht entlastet Fed-Chef bei teurer Renovierung - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDhoQjAwd3BQeDVhakZfdTg0VTJKd2FIUkgzaEQyTWVvdjl1WDBxNXZQYVpYcXh0NjlqWEl0SkxWdlJ1ODE0Ym8wbWNnV3hzSkJ5ZFlVU0pORzU0UlZ1bkVVSlgxZVlsY1VOMGR1S1BnLWNXSWVIOFdacGdPQ0hDNUUtczJXWUFuakhDTThVWFdTd0VpNWJ0SFF5c1k3ZE13eUVoVUVvSjQ5ZjdZamQ5WkpWWFAzbmdSZHlacFpac1BTT05RZE9DWnQ0UFc0NW5jYldHSFNkQUs?oc=5",
+   "pub": "Thu, 01 Oct 2026 05:24:00 GMT"
   }
  ]
 }
