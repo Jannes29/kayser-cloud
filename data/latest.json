@@ -1,62 +1,57 @@
 {
- "collected_at": "2026-10-01T13:19:14Z",
+ "collected_at": "2026-10-01T19:32:41Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8356,
-   "chg1d_pct": 0.17
+   "price": 0.8305,
+   "chg1d_pct": -0.45
   },
   "USDJPY": {
-   "price": 157.981,
-   "chg1d_pct": 0.37
+   "price": 158.017,
+   "chg1d_pct": 0.39
   },
   "GBPCAD": {
-   "price": 1.8831,
-   "chg1d_pct": 0.3
+   "price": 1.8774,
+   "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 109.762,
-   "chg1d_pct": -0.22
-  },
-  "EURUSD": {
-   "price": 1.1289,
+   "price": 109.499,
    "chg1d_pct": -0.46
   },
+  "EURUSD": {
+   "price": 1.1247,
+   "chg1d_pct": -0.83
+  },
   "GBPCHF": {
-   "price": 1.1048,
-   "chg1d_pct": 0.11
+   "price": 1.0962,
+   "chg1d_pct": -0.67
   },
   "WTI": {
-   "price": 90.93,
-   "chg1d_pct": 0.56
+   "price": 93.05,
+   "chg1d_pct": 2.91
   },
   "BRENT": {
-   "price": 99.79,
-   "chg1d_pct": -3.61
+   "price": 102.39,
+   "chg1d_pct": -1.1
   },
   "GOLD": {
-   "price": 4204.9,
-   "chg1d_pct": 0.43
+   "price": 4209.9,
+   "chg1d_pct": 0.55
   },
   "SPX_FUT": {
-   "price": 7739.5,
-   "chg1d_pct": 0.31
+   "price": 7730.5,
+   "chg1d_pct": 0.19
   },
   "NAS_FUT": {
-   "price": 30849.25,
-   "chg1d_pct": 0.49
+   "price": 30804.5,
+   "chg1d_pct": 0.34
   }
  },
  "headlines": [
   {
-   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - WELT",
+   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - welt.de",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcV8tTkpSeEs4Q2REd1F2ajRaOFVKbG4yRVBTc19ZeWZiWWRNWE5IWmNrVTNBaHlxNHloN2VKdndVR2piMmdCUVV1Q183RGJwTWN5TWpOWWlrSDNCWFRJTlpKRnpwZXF6dmJPVURnR2c2djJGeHlCb1Y5bDFaZmN5eTVQVkViVTBOejhMT0NMeWdkdnJUb1ZLd1dueGN1bWFvRHpEeENUVzUzR205WnkxZEVnb0gwUUloRmNzeUFQaUZ1UkJIS0pxS0Qtd2RrdXJyLUcwbTV6cUxyZzJJS3FKWmFLM2M?oc=5",
    "pub": "Thu, 01 Oct 2026 11:02:32 GMT"
-  },
-  {
-   "t": "„Vielleicht sprenge ich sie in die Luft“: Trump droht nach Scheitern der Iran-Gespräche mit Eskalation - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXJWdFktd3Awb1JOMmh2U2xwc2tYVmpXVk9PYWhsSEtFRGZ0MDUzSjdXX0hBVWF1UFZFRkg4YjI4NE5ZU2hPVGJ1bTB4RTVZSk1iaXp6OS1WS1JuS1k1WWUtTks1aGQxSVJUSi1yVThfVUgtdDNfNHBzQWpmTWc0cWxiV1dZU2ZUUmFnbXBCR2Z3VmpIOWhRTmRiekdXYlAyYTg0ek9B?oc=5",
-   "pub": "Thu, 01 Oct 2026 07:36:05 GMT"
   },
   {
    "t": "Iran: Armee setzt Kopfgeld auf getötete US-Soldaten aus - bis zu 35.000 Euro - Spiegel",
@@ -64,14 +59,24 @@
    "pub": "Wed, 30 Sep 2026 09:34:00 GMT"
   },
   {
-   "t": "Britischer Premier Burnham sieht Iran-Spur bei RAF-Fairford-Alarm - de.euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkRVV2hSbmNiNkdVQjE0MWM4RXB0VG9mM2U2SklHc2dPV0V0eGVmNlp0YjQ4MDdLVjVGNGdZRWkxVEtncFZyRnlSaG13emItUWpSeFJ4eUNINHVnYVdBU3pqa21qS3AtMl9pQU1BQ3JZbk4zUkFZb0xxSm16OUlQa3pFbjRxRlJ3Z3NhY2c1RTB6NTBsNEpNTmt6a0lIU3NrM0RGYQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 10:58:33 GMT"
+   "t": "Hinrichtung im Iran: Freunde in Hamburg bangen um Ali Zarei - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzgyTExFMGRvcGI0ODliQkJHaUxkUl9zNmhCQmlqOFZuMzVSMlhVdnBuYXZWeERnZVhTS3Bhb3ktRzRHWktJZkZoTzVvU0Q1OWRqZHNZb1ZoTExqYkdsLUMtUFVvUW9Fa3BxRzVjaW5PZ1E5TUpCTjRxVXctV2dZckUyaEx4Ql9qdG4tME9kWWI0TVBQcDFZS3Rva1VPaTF3aGJQRWZLUU41V0w1cTBKX0FkSzh3SlplUkd4QW5FbkJ0UjNwS1dIMw?oc=5",
+   "pub": "Thu, 01 Oct 2026 18:55:29 GMT"
   },
   {
-   "t": "Vorfall nahe britischer Luftwaffenbasis: \"Hinweis auf Iran\" - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OM2R1NUlHSkhpQmczMi1YdDFYLXkzejBDV1ZKanN3dW1oMDE4Y1VQRUw5MlNmaHI4UkQxUXotWWRJdXpCSjRQZjdqOUgycUpYcURXTFFuRWw3Vloya1Z5aU11N1l1LXgzV3FPS1hR?oc=5",
-   "pub": "Wed, 30 Sep 2026 17:43:00 GMT"
+   "t": "Iranische Armee: Hohes Preisgeld für getötete US-Soldaten - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0d3ZnZxbWVCdGl2U1A1c0xPVmFvRlNmd1BRWmluRi1kb0ZpSUw5MVgwbTJPQkJLSC0zLWJkZGRWREhESnQxSklpWEVoVzZQZmRYb3lGWDYtMUF2ME1KTU9jVG9MVHUxYXVMaTlyTFlvV1FoUDhHdVJHWk5jdlozZmI2VWFBRnctQVQxZGpzc1lSaEtQdk5mTEc0ZFEzYnh6WVZJaUhuRVVZVjdRSWhTY013b2J3QVFEcmpDeFVhTnZ5QQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 17:36:36 GMT"
+  },
+  {
+   "t": "Massaker-Opfer in Iran: Der Widerspruch der Väter - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcUtMZm5JQ0R5cUFaYXFVMG4tSkVUVHBYVVNKY203YldhUkZYVmFsdU5xQ3NwWVFUVk9KT01NU3VsMlRsNWp6cUdfWVlTSG43WGNDaDhwVnJ5T2s?oc=5",
+   "pub": "Thu, 01 Oct 2026 17:42:04 GMT"
+  },
+  {
+   "t": "Plant der Iran den Bau von Atomwaffen? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sbkxjcjFsRUhxTnNpaG4xZ2ZLaFZVcVFoVW8tdFBUMFVRdzZJT0VwQ3NPMF9TMVg5Vm1pbnQ3WU9ZMWtjNXRXQWlDRmJLUDdWdDlUMkZzZlhEb2xtSUIzMkdaRk45Y1FzM2FmQlkyZXY5cWpTQjNIWXV30gF6QVVfeXFMTTdtZ0k2RWo3bWZwLUpJWTVrTW83NE1Nb2VRUDZiUnNXYjNZaGVObUl6YTlmVXdoS0hBX0NKWGNLbW00X3pTSVZra0h1WHRPUnhMN0dBaFRwazI4Y2Iyd3N3X3laYnl6YVNnSFJFVDNnV08yYUpEd1JtQUE?oc=5",
+   "pub": "Thu, 01 Oct 2026 07:46:22 GMT"
   },
   {
    "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
@@ -79,34 +84,29 @@
    "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
-   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
+   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - deutschlandfunk.de",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
    "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
   },
   {
-   "t": "EURUSD Prognose & Forex Aktuell: Starke EU-PMI-Daten können Euro-Absturz nicht stoppen - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEFtV1VUa1BXcDNHb05SN3BFbS1vNndxTEYtVTMtc24xekVKMTI2Ui1FMXhmZGRXUTAxS1cwdGRrQURaR2tHWDMyRE01TTdrdmw0Nmt3cWJIYXlNX3NWc2dCQXVYZ2tnZ2FacXF0cWlheEk4TVhuOGZFOFdsWUVjWjljZlNJYkJHZ1RRVDBtdUZXS0N5UGRSNTdUdFhEX19iZ1Y3Tjh1MjNsRzhYV1lBeUoySHZGZjAxSjBXWFdKbzZMMWRwc2ZCQ0lLLWlQRmM0eDdHeUZ4MTJSQQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 08:34:00 GMT"
+   "t": "Britischer Premier Burnham sieht Iran-Spur bei RAF-Fairford-Alarm - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkRVV2hSbmNiNkdVQjE0MWM4RXB0VG9mM2U2SklHc2dPV0V0eGVmNlp0YjQ4MDdLVjVGNGdZRWkxVEtncFZyRnlSaG13emItUWpSeFJ4eUNINHVnYVdBU3pqa21qS3AtMl9pQU1BQ3JZbk4zUkFZb0xxSm16OUlQa3pFbjRxRlJ3Z3NhY2c1RTB6NTBsNEpNTmt6a0lIU3NrM0RGYQ?oc=5",
+   "pub": "Thu, 01 Oct 2026 10:58:33 GMT"
   },
   {
-   "t": "„Dann wäre Donald Trump eine Lame Duck – sozusagen Donald Duck“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkcteVNsaHA4d19PejhJclI3SFhEal9QTUE1Y3A5dnM1TzR1XzRCWkVKWHVxOVp6SnJUem1fdFlOVXpmTDEyTE1pZGZlckYyLU5JeUhLdXZRd1NDaVplbjdFYjJLUG9WYllKT3E2QlRaRWFvenNwbEJ0aDFGelprdmx0UFJqWlFieGloczR6aTJ0UWI4YTJNekllMXFucE9OYW5hMjN2N2JGVUJEc3d4djQtQzRTZElMUko4Xzd5TFg0V3U4cnNiRTljNnppMU9SNHhNeDF1NHZJZG9U?oc=5",
-   "pub": "Thu, 01 Oct 2026 12:06:28 GMT"
+   "t": "„Vielleicht sprenge ich sie in die Luft“: Trump droht nach Scheitern der Iran-Gespräche mit Eskalation - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVW1JOUN5Y05jWnl4WWdwQWF4TEl3YXE2Q3RDZF85Z21wRVNra2VkcHFKSmRmU01ib0QxZTNtZXExLTEwSW10WTZYWHFNdUhTR0txX2QzaGtHVW5GTGROUDBwellSd2YwWGxLWEZtTHJxV2ZaMy1XeGVLLXpsMnk2YlNkbW4tWGI4dmM3REFPdXlOMzVlOTEzOVk2OWs5MWcyRnVCbS13?oc=5",
+   "pub": "Thu, 01 Oct 2026 17:00:00 GMT"
   },
   {
-   "t": "Jerome Powell: Prüfer sehen kein strafbares Verhalten beim Umbau der US-Notenbank - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDhoQjAwd3BQeDVhakZfdTg0VTJKd2FIUkgzaEQyTWVvdjl1WDBxNXZQYVpYcXh0NjlqWEl0SkxWdlJ1ODE0Ym8wbWNnV3hzSkJ5ZFlVU0pORzU0UlZ1bkVVSlgxZVlsY1VOMGR1S1BnLWNXSWVIOFdacGdPQ0hDNUUtczJXWUFuakhDTThVWFdTd0VpNWJ0SFF5c1k3ZE13eUVoVUVvSjQ5ZjdZamQ5WkpWWFAzbmdSZHlacFpac1BTT05RZE9DWnQ0UFc0NW5jYldHSFNkQUs?oc=5",
-   "pub": "Thu, 01 Oct 2026 05:24:00 GMT"
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - augsburger-allgemeine.de",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOEhSaU40OXNUenNBNFc4cVNMaHE3TTRKWE1mQU1fUUszMHZXRFlFSEkxQ0NDSElWdlcyMUhRS1Q1SHU1UW9UcEdoSFZGRzIyV3Awb1UwQ015LVZzUEpDNWRoRnYxVzd1d19wMnpvbXIwaTF3bldKTlBydmJ4RHdWamxQYWE0dzF0c2NIUVJ4Z1RlWFFMQldNcVZHSHI5ZG42NFo0eFRrbnc5UDJIRW1qLUMwVEpKM1J4NkdOZU1QQV9YVDd5bjExUnlKOVdHa0k?oc=5",
+   "pub": "Thu, 01 Oct 2026 04:14:39 GMT"
   },
   {
-   "t": "US-Truppenabzug im Irak: Was Irans Einfluss und bewaffnete Milizen für das Land bedeuten - zdfheute.de",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUlhRndGZmpwT1ByNXRsWlNIZHkxY3Y0MVpzN1RKSDFSR0dzTVM0ZXpQTWtkeVUxR1NlbGFkRFBCYkdZZ3JYOUp4T1BFalNpYkxDTmVTYzVETElFVUhscUwyVlo2dnN1THpnNlJFa0JSbHAxWC1XU29WZ3N2WUFQZ0IySQ?oc=5",
-   "pub": "Wed, 30 Sep 2026 19:09:00 GMT"
-  },
-  {
-   "t": "Nach Hormus-Ultimatum: Trump-Regierung übermittelt offizielle Antwort an den Iran - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnBNeGx1RnZCUWV3VTRaTWluTkI0QWNBeF9OVVNvSVFhaGNELV9vY0x6UGtFUVdTalVVNGl2YzNzOEhnUVpPQmJPTkx0NTFNQ2lUWnlYMzRsWWdEV2h6d0FuRnQ5LS1yV1BwTXpMT1ptYUVDdW85dm5oOGxnbFhpYzZVLTFwUXJFM2JxODhRNVprM1VKcE41NVBtdTc0Vkg1RWNnTVJDc0NZaWtUREhZX3BlYWhhQ2RsaTR2RXhjT01MZw?oc=5",
-   "pub": "Wed, 30 Sep 2026 18:41:00 GMT"
+   "t": "Nach Vorfall an Militärbasis: Britische Antiterrorpolizei nimmt Mann in London fest - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjBfUXI2cGpoLVc0S09fN1lvMmNmWTA2UnNhbmt1al9qcTRVbndSUWdhRWZVUng5SGxOU3VZbElXcUk5bkQ0S2wwRFJGMVVpeW5DZzlld3dEdER4X0RXVWlIcmotT0JCRlZYV1F5dUVFd0ROWHRPWmpJbEN0TTlyVXA4WGtZZHNxZjJuLWowbURiSENEc284UGVJX0tTWGx2OVJ4MDFBM3N4bVdNS1FUTEtIOTEzTVJxek10OHZBYjJXa3lC?oc=5",
+   "pub": "Thu, 01 Oct 2026 17:57:00 GMT"
   }
  ]
 }
