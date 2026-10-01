@@ -1,55 +1,60 @@
 {
- "collected_at": "2026-10-01T19:32:41Z",
+ "collected_at": "2026-10-01T23:53:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8305,
-   "chg1d_pct": -0.45
+   "price": 0.8306,
+   "chg1d_pct": -0.61
   },
   "USDJPY": {
-   "price": 158.017,
-   "chg1d_pct": 0.39
+   "price": 157.902,
+   "chg1d_pct": 0.22
   },
   "GBPCAD": {
-   "price": 1.8774,
-   "chg1d_pct": 0.0
+   "price": 1.8766,
+   "chg1d_pct": -0.59
   },
   "AUDJPY": {
-   "price": 109.499,
-   "chg1d_pct": -0.46
+   "price": 109.38,
+   "chg1d_pct": -0.04
   },
   "EURUSD": {
-   "price": 1.1247,
-   "chg1d_pct": -0.83
+   "price": 1.125,
+   "chg1d_pct": -0.68
   },
   "GBPCHF": {
-   "price": 1.0962,
-   "chg1d_pct": -0.67
+   "price": 1.096,
+   "chg1d_pct": -1.11
   },
   "WTI": {
-   "price": 93.05,
-   "chg1d_pct": 2.91
+   "price": 92.99,
+   "chg1d_pct": 2.84
   },
   "BRENT": {
-   "price": 102.39,
-   "chg1d_pct": -1.1
+   "price": 102.48,
+   "chg1d_pct": -1.01
   },
   "GOLD": {
-   "price": 4209.9,
-   "chg1d_pct": 0.55
+   "price": 4207.1,
+   "chg1d_pct": 0.49
   },
   "SPX_FUT": {
-   "price": 7730.5,
-   "chg1d_pct": 0.19
+   "price": 7728.25,
+   "chg1d_pct": 0.17
   },
   "NAS_FUT": {
-   "price": 30804.5,
-   "chg1d_pct": 0.34
+   "price": 30812.75,
+   "chg1d_pct": 0.37
   }
  },
  "headlines": [
   {
-   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - welt.de",
+   "t": "„Der Iran ist eine Bedrohung für die Stabilität der Welt“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGlvWVZTb3B3WnQ0NFFDMmxTRGZwcjJhWU1wSW9mc0pOXzByV01MNzRCQjh6SEZ6NE9sU2MtSEZfXzJwY0tXLWl6Vm82WU5meE9RWGNzQ2VwbDRRd3lGS2NPRU5fOHNDN1RLZHpuWEtmbktEeW1FOW52WUhPQ2F3VXpIUHZEMVJrNG1FWm9kRjNrcFk0ejlJVmk3YUVFaUJTRmdQQ25DcVBHMHVUYVhYWmd4R25tNXZLaDRhZ2x5ZzlXTk1ieVIyVmpJTDZQbDNwUzI2M0hKaw?oc=5",
+   "pub": "Thu, 01 Oct 2026 20:03:31 GMT"
+  },
+  {
+   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - WELT",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcV8tTkpSeEs4Q2REd1F2ajRaOFVKbG4yRVBTc19ZeWZiWWRNWE5IWmNrVTNBaHlxNHloN2VKdndVR2piMmdCUVV1Q183RGJwTWN5TWpOWWlrSDNCWFRJTlpKRnpwZXF6dmJPVURnR2c2djJGeHlCb1Y5bDFaZmN5eTVQVkViVTBOejhMT0NMeWdkdnJUb1ZLd1dueGN1bWFvRHpEeENUVzUzR205WnkxZEVnb0gwUUloRmNzeUFQaUZ1UkJIS0pxS0Qtd2RrdXJyLUcwbTV6cUxyZzJJS3FKWmFLM2M?oc=5",
    "pub": "Thu, 01 Oct 2026 11:02:32 GMT"
   },
@@ -64,9 +69,9 @@
    "pub": "Thu, 01 Oct 2026 18:55:29 GMT"
   },
   {
-   "t": "Iranische Armee: Hohes Preisgeld für getötete US-Soldaten - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0d3ZnZxbWVCdGl2U1A1c0xPVmFvRlNmd1BRWmluRi1kb0ZpSUw5MVgwbTJPQkJLSC0zLWJkZGRWREhESnQxSklpWEVoVzZQZmRYb3lGWDYtMUF2ME1KTU9jVG9MVHUxYXVMaTlyTFlvV1FoUDhHdVJHWk5jdlozZmI2VWFBRnctQVQxZGpzc1lSaEtQdk5mTEc0ZFEzYnh6WVZJaUhuRVVZVjdRSWhTY013b2J3QVFEcmpDeFVhTnZ5QQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 17:36:36 GMT"
+   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
+   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
    "t": "Massaker-Opfer in Iran: Der Widerspruch der Väter - taz.de",
@@ -74,19 +79,14 @@
    "pub": "Thu, 01 Oct 2026 17:42:04 GMT"
   },
   {
+   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
+   "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
+  },
+  {
    "t": "Plant der Iran den Bau von Atomwaffen? - DW.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sbkxjcjFsRUhxTnNpaG4xZ2ZLaFZVcVFoVW8tdFBUMFVRdzZJT0VwQ3NPMF9TMVg5Vm1pbnQ3WU9ZMWtjNXRXQWlDRmJLUDdWdDlUMkZzZlhEb2xtSUIzMkdaRk45Y1FzM2FmQlkyZXY5cWpTQjNIWXV30gF6QVVfeXFMTTdtZ0k2RWo3bWZwLUpJWTVrTW83NE1Nb2VRUDZiUnNXYjNZaGVObUl6YTlmVXdoS0hBX0NKWGNLbW00X3pTSVZra0h1WHRPUnhMN0dBaFRwazI4Y2Iyd3N3X3laYnl6YVNnSFJFVDNnV08yYUpEd1JtQUE?oc=5",
    "pub": "Thu, 01 Oct 2026 07:46:22 GMT"
-  },
-  {
-   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
-   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
-  },
-  {
-   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - deutschlandfunk.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
-   "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
   },
   {
    "t": "Britischer Premier Burnham sieht Iran-Spur bei RAF-Fairford-Alarm - Euronews.com",
@@ -94,19 +94,19 @@
    "pub": "Thu, 01 Oct 2026 10:58:33 GMT"
   },
   {
-   "t": "„Vielleicht sprenge ich sie in die Luft“: Trump droht nach Scheitern der Iran-Gespräche mit Eskalation - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVW1JOUN5Y05jWnl4WWdwQWF4TEl3YXE2Q3RDZF85Z21wRVNra2VkcHFKSmRmU01ib0QxZTNtZXExLTEwSW10WTZYWHFNdUhTR0txX2QzaGtHVW5GTGROUDBwellSd2YwWGxLWEZtTHJxV2ZaMy1XeGVLLXpsMnk2YlNkbW4tWGI4dmM3REFPdXlOMzVlOTEzOVk2OWs5MWcyRnVCbS13?oc=5",
-   "pub": "Thu, 01 Oct 2026 17:00:00 GMT"
+   "t": "Iran bietet USA überraschenden Öl-Deal: Fällt jetzt der Benzinpreis in Deutschland? - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ04xWGtOZUNpUTNCUHhQODh1MXp4SXpWSUlPSTExeWRhRnhOS0FGZ082aFE3RnFOdE53YUl6R2R6Rjk1ZE44MXJuTmZNdDhSSkxEbjJJOUtocElHWTg2aVJQVkVNd2N3MjV1a2tHZkNOWXEtSE4zdndhWFNjZkl5N3l2UmVWUTdLSzZsZlBVV1RCU0JKcmdJVXRQZU5wbUFxRmp4U1RkRTBVd00?oc=5",
+   "pub": "Wed, 30 Sep 2026 02:45:00 GMT"
   },
   {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - augsburger-allgemeine.de",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOEhSaU40OXNUenNBNFc4cVNMaHE3TTRKWE1mQU1fUUszMHZXRFlFSEkxQ0NDSElWdlcyMUhRS1Q1SHU1UW9UcEdoSFZGRzIyV3Awb1UwQ015LVZzUEpDNWRoRnYxVzd1d19wMnpvbXIwaTF3bldKTlBydmJ4RHdWamxQYWE0dzF0c2NIUVJ4Z1RlWFFMQldNcVZHSHI5ZG42NFo0eFRrbnc5UDJIRW1qLUMwVEpKM1J4NkdOZU1QQV9YVDd5bjExUnlKOVdHa0k?oc=5",
-   "pub": "Thu, 01 Oct 2026 04:14:39 GMT"
+   "t": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1RraWRYdVljWVZVWWhmSTNxUUMydXI2WlJGS0p1MjkyMERyUkxTVGxUSkxINkhvNkpZMU1RcHZzOUl4NjNjV0tybnVaSmZOMjdSZVotVGdwRTNjNmFXYy1GMXFZT0VkSndOZHlwRU1Gai1mSnBtZU9JZG5iM2x1d0FkQlQySm5tZXk3WTh3VE8tY3hGelJDeEhMZzJlVzVhdXZDQmdFQkV2Nm43YjJXdm9ydjU2Vm9iVmRGbWRMcndtemJPN2FuRUI4Yw?oc=5",
+   "pub": "Thu, 01 Oct 2026 23:39:59 GMT"
   },
   {
-   "t": "Nach Vorfall an Militärbasis: Britische Antiterrorpolizei nimmt Mann in London fest - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVjBfUXI2cGpoLVc0S09fN1lvMmNmWTA2UnNhbmt1al9qcTRVbndSUWdhRWZVUng5SGxOU3VZbElXcUk5bkQ0S2wwRFJGMVVpeW5DZzlld3dEdER4X0RXVWlIcmotT0JCRlZYV1F5dUVFd0ROWHRPWmpJbEN0TTlyVXA4WGtZZHNxZjJuLWowbURiSENEc284UGVJX0tTWGx2OVJ4MDFBM3N4bVdNS1FUTEtIOTEzTVJxek10OHZBYjJXa3lC?oc=5",
-   "pub": "Thu, 01 Oct 2026 17:57:00 GMT"
+   "t": "Iran-Krieg - Medienbericht: Trump lehnt iranischen Vorschlag ab - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2UzS2dEZEZpdElEem5lNzVzamUtVklQSXViZm9XMEtHcnNSRGdpM3M3T3hOTWFkS3ROVXBGMjNYbUlaNTliUEYtTFgxNnRsVXFnS1phbU1Jel9VeXJ5LUlCcVJOWmJud1k0VW91QzZJbFZFNnZqd1Y1eVFlcGJMMFhyZWhyZVNEUkctUTJqS1dQRzA?oc=5",
+   "pub": "Sat, 26 Sep 2026 21:32:06 GMT"
   }
  ]
 }
