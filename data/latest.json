@@ -1,62 +1,67 @@
 {
- "collected_at": "2026-10-01T23:53:24Z",
+ "collected_at": "2026-10-02T05:40:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8306,
-   "chg1d_pct": -0.61
+   "price": 0.8296,
+   "chg1d_pct": -0.73
   },
   "USDJPY": {
-   "price": 157.902,
-   "chg1d_pct": 0.22
+   "price": 157.872,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
-   "price": 1.8766,
-   "chg1d_pct": -0.59
+   "price": 1.8773,
+   "chg1d_pct": -0.56
   },
   "AUDJPY": {
-   "price": 109.38,
-   "chg1d_pct": -0.04
+   "price": 109.498,
+   "chg1d_pct": 0.07
   },
   "EURUSD": {
-   "price": 1.125,
-   "chg1d_pct": -0.68
+   "price": 1.1252,
+   "chg1d_pct": -0.66
   },
   "GBPCHF": {
-   "price": 1.096,
-   "chg1d_pct": -1.11
+   "price": 1.0958,
+   "chg1d_pct": -1.13
   },
   "WTI": {
-   "price": 92.99,
-   "chg1d_pct": 2.84
+   "price": 92.47,
+   "chg1d_pct": -0.43
   },
   "BRENT": {
-   "price": 102.48,
-   "chg1d_pct": -1.01
+   "price": 102.09,
+   "chg1d_pct": -0.22
   },
   "GOLD": {
-   "price": 4207.1,
-   "chg1d_pct": 0.49
+   "price": 4216.1,
+   "chg1d_pct": 0.33
   },
   "SPX_FUT": {
-   "price": 7728.25,
-   "chg1d_pct": 0.17
+   "price": 7744.25,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 30812.75,
-   "chg1d_pct": 0.37
+   "price": 30878.5,
+   "chg1d_pct": 0.38
   }
  },
  "headlines": [
   {
-   "t": "„Der Iran ist eine Bedrohung für die Stabilität der Welt“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGlvWVZTb3B3WnQ0NFFDMmxTRGZwcjJhWU1wSW9mc0pOXzByV01MNzRCQjh6SEZ6NE9sU2MtSEZfXzJwY0tXLWl6Vm82WU5meE9RWGNzQ2VwbDRRd3lGS2NPRU5fOHNDN1RLZHpuWEtmbktEeW1FOW52WUhPQ2F3VXpIUHZEMVJrNG1FWm9kRjNrcFk0ejlJVmk3YUVFaUJTRmdQQ25DcVBHMHVUYVhYWmd4R25tNXZLaDRhZ2x5ZzlXTk1ieVIyVmpJTDZQbDNwUzI2M0hKaw?oc=5",
-   "pub": "Thu, 01 Oct 2026 20:03:31 GMT"
+   "t": "Flydubai: Trump droht Iran wegen versuchtem Anschlag - BILD",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWJrSUtsMzFac0FjbkZROUlHdm9GOVZzVEN3enVXY3hsY3VMNmthNTZQRUM1dnduRVVqSk51MGJUUlV0dXI4N0JjYUJfUll6eTJXam1xZTNtTWtWVmY1cXZha1lKTkZLT1lmQU95cHdHRFBGWFd3aGZZZ1NNUGE3MFNkVWs0LXJUc3R4ZzNrZmZnWVk5a3g4djBVZE9CUGxGMFdyOGtwamF5OTUwUmc?oc=5",
+   "pub": "Fri, 02 Oct 2026 03:13:41 GMT"
   },
   {
-   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcV8tTkpSeEs4Q2REd1F2ajRaOFVKbG4yRVBTc19ZeWZiWWRNWE5IWmNrVTNBaHlxNHloN2VKdndVR2piMmdCUVV1Q183RGJwTWN5TWpOWWlrSDNCWFRJTlpKRnpwZXF6dmJPVURnR2c2djJGeHlCb1Y5bDFaZmN5eTVQVkViVTBOejhMT0NMeWdkdnJUb1ZLd1dueGN1bWFvRHpEeENUVzUzR205WnkxZEVnb0gwUUloRmNzeUFQaUZ1UkJIS0pxS0Qtd2RrdXJyLUcwbTV6cUxyZzJJS3FKWmFLM2M?oc=5",
-   "pub": "Thu, 01 Oct 2026 11:02:32 GMT"
+   "t": "Krieg mit dem Iran: USA schicken weiteren Flugzeugträger und 10.000 zusätzliche Soldaten nach Nahost - WELT",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOXhhemJwZWFUeko5cmFYbnk1Y1RYUzVNcndidklsV2syT21oMmRQQTk0ZTlrRUZERTEtb044X3ktTXhYVkhLT3kyQmFObXNLako1ZllJVHFtLXZ3M3dwX1IxdHYtUi1YYkRkaURVbk5IWmo0elVwWDBWQXpRUERpS3BSUmQ5VzFHTFI3cldtbGtfMURHODdzajU0NmhIUG9zXzBNX0c3TmhtRUJEd1ZGS1JLMWJKczNvclRxX0NKNDl3d09QdVVGU1F6dTZZUU5DRmd1dmJlamoxZURWdGxjWFJMS25UaTNVRzFJb2FxUk5weDZiam0zSFlrT09Dd3Z0NFdFbw?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:58:35 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHlfZnJhaXc1R2ttSmdHNjFxZTdMYUNVMWI5Nk5KbFJmZnZRcDg0MjFnMktkd21FVXhsbE9NYko5SGREVFl0M09DaW5QYzQtZTU2cWlNYm53SGZOTHN0V0k5Y1JETHo5Zm54YjZobHlCQUNCand0OTBMWHVuVkd5d00zUVRFeFp5cVdCNGYtcnBCNVd3alRiN0JR?oc=5",
+   "pub": "Thu, 01 Oct 2026 23:39:04 GMT"
   },
   {
    "t": "Iran: Armee setzt Kopfgeld auf getötete US-Soldaten aus - bis zu 35.000 Euro - Spiegel",
@@ -64,19 +69,14 @@
    "pub": "Wed, 30 Sep 2026 09:34:00 GMT"
   },
   {
-   "t": "Hinrichtung im Iran: Freunde in Hamburg bangen um Ali Zarei - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzgyTExFMGRvcGI0ODliQkJHaUxkUl9zNmhCQmlqOFZuMzVSMlhVdnBuYXZWeERnZVhTS3Bhb3ktRzRHWktJZkZoTzVvU0Q1OWRqZHNZb1ZoTExqYkdsLUMtUFVvUW9Fa3BxRzVjaW5PZ1E5TUpCTjRxVXctV2dZckUyaEx4Ql9qdG4tME9kWWI0TVBQcDFZS3Rva1VPaTF3aGJQRWZLUU41V0w1cTBKX0FkSzh3SlplUkd4QW5FbkJ0UjNwS1dIMw?oc=5",
-   "pub": "Thu, 01 Oct 2026 18:55:29 GMT"
+   "t": "USA verlegen dritte Flugzeugträger-Gruppe nach Nahost – droht jetzt ein Angriff auf den Iran? - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObi1jLXNpUjZhSFNJbUxTelVJdWJRdFA3ZlVrTWFtbGczdmNJZ1NESzY1THRzSk9qeS1ndC1DUkd2QzNsNS1vU0E4SWl5X0lFb1BxYXpuamdvelYwTFB1WHFBaU4zM1M4OURCRDdyMGRITkNZalRhNlFBc1kzb0pDM2g3THZxTWt5YWxvQnJPNUNuX2x3LUtFd2NaVnFucURUSjRsQ3YwSlFQdw?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:01:06 GMT"
   },
   {
-   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
-   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
-  },
-  {
-   "t": "Massaker-Opfer in Iran: Der Widerspruch der Väter - taz.de",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcUtMZm5JQ0R5cUFaYXFVMG4tSkVUVHBYVVNKY203YldhUkZYVmFsdU5xQ3NwWVFUVk9KT01NU3VsMlRsNWp6cUdfWVlTSG43WGNDaDhwVnJ5T2s?oc=5",
-   "pub": "Thu, 01 Oct 2026 17:42:04 GMT"
+   "t": "Vom Iran ins Jerichower Land: Warum ein Lehrer den Erzählungen seines Großvaters nach Deutschland folgte - Volksstimme",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUWVqanE2WDBkeEpzQzg4ZHJnNHI2OGlsZHJWc0wwTlVUOTRmZWNTWFNiQm5hREtiXzMtUk5GQ2N6TDVWcGdSOVVjMFFwR29Oc0lETTNGMXNHNC11a1psMnJjOVZxNDVQSHk1M3RIb2lBb3RhbEtzekc0aXB3NkppdlVjVU5UbHBfZkF1TmRPSnlIX0xrVWItRmZtNWMyTEszcW5wQVd4Sm00WTQ1enhvemVKbkdkNmJPSnVHb2hFZWVhWkNhTU9MbE92ME5TbTFETzlkLUVLbkhUOG4xdXJZOEhfbkhCbUJj?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:17:00 GMT"
   },
   {
    "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
@@ -84,29 +84,29 @@
    "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
   },
   {
-   "t": "Plant der Iran den Bau von Atomwaffen? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sbkxjcjFsRUhxTnNpaG4xZ2ZLaFZVcVFoVW8tdFBUMFVRdzZJT0VwQ3NPMF9TMVg5Vm1pbnQ3WU9ZMWtjNXRXQWlDRmJLUDdWdDlUMkZzZlhEb2xtSUIzMkdaRk45Y1FzM2FmQlkyZXY5cWpTQjNIWXV30gF6QVVfeXFMTTdtZ0k2RWo3bWZwLUpJWTVrTW83NE1Nb2VRUDZiUnNXYjNZaGVObUl6YTlmVXdoS0hBX0NKWGNLbW00X3pTSVZra0h1WHRPUnhMN0dBaFRwazI4Y2Iyd3N3X3laYnl6YVNnSFJFVDNnV08yYUpEd1JtQUE?oc=5",
-   "pub": "Thu, 01 Oct 2026 07:46:22 GMT"
+   "t": "Vergleichsportal rechnet vor: Iran-Krieg könnte Gaspreis um bis zu 20 Prozent treiben - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzhhYWVmajRLc0tJakJhd2Fpem1QVzFqdkNQOE5OaE01ZU03STdCOUI2UGEyVnZUcUJtSFNvdjJJUGhQNlpTOU1ZQUFDdXUzSUlUbVZXSW5aamhSMFhGOFFobFR5dUNhZHVDQnhQU210dEJ6OWFWSUVBRWhqZ2xOaVhOY1RTczFkLXZaVFdoalZfOW1mMDVYem1PSFo0cHZYWkc0?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:23:11 GMT"
   },
   {
-   "t": "Britischer Premier Burnham sieht Iran-Spur bei RAF-Fairford-Alarm - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkRVV2hSbmNiNkdVQjE0MWM4RXB0VG9mM2U2SklHc2dPV0V0eGVmNlp0YjQ4MDdLVjVGNGdZRWkxVEtncFZyRnlSaG13emItUWpSeFJ4eUNINHVnYVdBU3pqa21qS3AtMl9pQU1BQ3JZbk4zUkFZb0xxSm16OUlQa3pFbjRxRlJ3Z3NhY2c1RTB6NTBsNEpNTmt6a0lIU3NrM0RGYQ?oc=5",
-   "pub": "Thu, 01 Oct 2026 10:58:33 GMT"
+   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcV8tTkpSeEs4Q2REd1F2ajRaOFVKbG4yRVBTc19ZeWZiWWRNWE5IWmNrVTNBaHlxNHloN2VKdndVR2piMmdCUVV1Q183RGJwTWN5TWpOWWlrSDNCWFRJTlpKRnpwZXF6dmJPVURnR2c2djJGeHlCb1Y5bDFaZmN5eTVQVkViVTBOejhMT0NMeWdkdnJUb1ZLd1dueGN1bWFvRHpEeENUVzUzR205WnkxZEVnb0gwUUloRmNzeUFQaUZ1UkJIS0pxS0Qtd2RrdXJyLUcwbTV6cUxyZzJJS3FKWmFLM2M?oc=5",
+   "pub": "Thu, 01 Oct 2026 11:02:32 GMT"
   },
   {
-   "t": "Iran bietet USA überraschenden Öl-Deal: Fällt jetzt der Benzinpreis in Deutschland? - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ04xWGtOZUNpUTNCUHhQODh1MXp4SXpWSUlPSTExeWRhRnhOS0FGZ082aFE3RnFOdE53YUl6R2R6Rjk1ZE44MXJuTmZNdDhSSkxEbjJJOUtocElHWTg2aVJQVkVNd2N3MjV1a2tHZkNOWXEtSE4zdndhWFNjZkl5N3l2UmVWUTdLSzZsZlBVV1RCU0JKcmdJVXRQZU5wbUFxRmp4U1RkRTBVd00?oc=5",
-   "pub": "Wed, 30 Sep 2026 02:45:00 GMT"
+   "t": "„Der Iran ist eine Bedrohung für die Stabilität der Welt“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGlvWVZTb3B3WnQ0NFFDMmxTRGZwcjJhWU1wSW9mc0pOXzByV01MNzRCQjh6SEZ6NE9sU2MtSEZfXzJwY0tXLWl6Vm82WU5meE9RWGNzQ2VwbDRRd3lGS2NPRU5fOHNDN1RLZHpuWEtmbktEeW1FOW52WUhPQ2F3VXpIUHZEMVJrNG1FWm9kRjNrcFk0ejlJVmk3YUVFaUJTRmdQQ25DcVBHMHVUYVhYWmd4R25tNXZLaDRhZ2x5ZzlXTk1ieVIyVmpJTDZQbDNwUzI2M0hKaw?oc=5",
+   "pub": "Thu, 01 Oct 2026 20:03:31 GMT"
   },
   {
-   "t": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1RraWRYdVljWVZVWWhmSTNxUUMydXI2WlJGS0p1MjkyMERyUkxTVGxUSkxINkhvNkpZMU1RcHZzOUl4NjNjV0tybnVaSmZOMjdSZVotVGdwRTNjNmFXYy1GMXFZT0VkSndOZHlwRU1Gai1mSnBtZU9JZG5iM2x1d0FkQlQySm5tZXk3WTh3VE8tY3hGelJDeEhMZzJlVzVhdXZDQmdFQkV2Nm43YjJXdm9ydjU2Vm9iVmRGbWRMcndtemJPN2FuRUI4Yw?oc=5",
-   "pub": "Thu, 01 Oct 2026 23:39:59 GMT"
+   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
+   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
-   "t": "Iran-Krieg - Medienbericht: Trump lehnt iranischen Vorschlag ab - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2UzS2dEZEZpdElEem5lNzVzamUtVklQSXViZm9XMEtHcnNSRGdpM3M3T3hOTWFkS3ROVXBGMjNYbUlaNTliUEYtTFgxNnRsVXFnS1phbU1Jel9VeXJ5LUlCcVJOWmJud1k0VW91QzZJbFZFNnZqd1Y1eVFlcGJMMFhyZWhyZVNEUkctUTJqS1dQRzA?oc=5",
-   "pub": "Sat, 26 Sep 2026 21:32:06 GMT"
+   "t": "Kritische Menschenrechtslage in Iran - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHQm5YbkVNWDZYekMwMDhFM0oxQmREUXItT3IwMzZKY0xpSVRUYkN0ekppeVk1WncwT25yWXZmR2l6VVlOUzhidFhvWUp4TmlUaWJPSmFXRTVJR0JBOUhycmcxeXdCeENHLVhjNHoyWElGdVNkYTBB?oc=5",
+   "pub": "Fri, 02 Oct 2026 03:30:00 GMT"
   }
  ]
 }
