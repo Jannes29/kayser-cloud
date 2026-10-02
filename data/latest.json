@@ -1,72 +1,72 @@
 {
- "collected_at": "2026-10-02T05:40:23Z",
+ "collected_at": "2026-10-02T12:38:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8296,
-   "chg1d_pct": -0.73
+   "price": 0.8253,
+   "chg1d_pct": -1.24
   },
   "USDJPY": {
-   "price": 157.872,
-   "chg1d_pct": 0.2
+   "price": 157.03,
+   "chg1d_pct": -0.34
   },
   "GBPCAD": {
-   "price": 1.8773,
-   "chg1d_pct": -0.56
+   "price": 1.8817,
+   "chg1d_pct": -0.32
   },
   "AUDJPY": {
-   "price": 109.498,
-   "chg1d_pct": 0.07
+   "price": 109.327,
+   "chg1d_pct": -0.08
   },
   "EURUSD": {
-   "price": 1.1252,
-   "chg1d_pct": -0.66
+   "price": 1.1254,
+   "chg1d_pct": -0.65
   },
   "GBPCHF": {
-   "price": 1.0958,
-   "chg1d_pct": -1.13
+   "price": 1.0923,
+   "chg1d_pct": -1.44
   },
   "WTI": {
-   "price": 92.47,
-   "chg1d_pct": -0.43
+   "price": 89.79,
+   "chg1d_pct": -3.32
   },
   "BRENT": {
-   "price": 102.09,
-   "chg1d_pct": -0.22
+   "price": 99.82,
+   "chg1d_pct": -2.43
   },
   "GOLD": {
-   "price": 4216.1,
-   "chg1d_pct": 0.33
+   "price": 4212.2,
+   "chg1d_pct": 0.24
   },
   "SPX_FUT": {
-   "price": 7744.25,
-   "chg1d_pct": 0.26
+   "price": 7762.5,
+   "chg1d_pct": 0.5
   },
   "NAS_FUT": {
-   "price": 30878.5,
-   "chg1d_pct": 0.38
+   "price": 30968.5,
+   "chg1d_pct": 0.68
   }
  },
  "headlines": [
   {
-   "t": "Flydubai: Trump droht Iran wegen versuchtem Anschlag - BILD",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWJrSUtsMzFac0FjbkZROUlHdm9GOVZzVEN3enVXY3hsY3VMNmthNTZQRUM1dnduRVVqSk51MGJUUlV0dXI4N0JjYUJfUll6eTJXam1xZTNtTWtWVmY1cXZha1lKTkZLT1lmQU95cHdHRFBGWFd3aGZZZ1NNUGE3MFNkVWs0LXJUc3R4ZzNrZmZnWVk5a3g4djBVZE9CUGxGMFdyOGtwamF5OTUwUmc?oc=5",
-   "pub": "Fri, 02 Oct 2026 03:13:41 GMT"
+   "t": "Flydubai-Vorfall: Donald Trump vermutet Beteiligung Irans und droht mit harten Konsequenzen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSHZ1emstM0JMdEN0Y3FrS3JpUnUwS0RWMmFlLXB5U1hHckxjejIzcTFBZ09FMndBMGVDdzVmdThLNTFBNTI1V3hCWUp3bWZ0YlNCS0c3V3lIYWllY2tsMjZSZ0FUVFlHM01COEpnSmJlSG4wQUhtU2Y2aTFoZ0lVZW5kS1NhVEwySk1sRzJsaUdYOEV3ejdYdC1oUHFFSXNwTHBPMDFlUDc0M3k1MG1DMndkd2FoSEJHT3g5eWxfVmFualBxN0ZubDlCbjEtYmY4MHljbUlGUWNiamJnaGFaMWJhd3pyX0U4eWxQeThIcVdaUlhwN2c?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:10:00 GMT"
   },
   {
-   "t": "Krieg mit dem Iran: USA schicken weiteren Flugzeugträger und 10.000 zusätzliche Soldaten nach Nahost - WELT",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOXhhemJwZWFUeko5cmFYbnk1Y1RYUzVNcndidklsV2syT21oMmRQQTk0ZTlrRUZERTEtb044X3ktTXhYVkhLT3kyQmFObXNLako1ZllJVHFtLXZ3M3dwX1IxdHYtUi1YYkRkaURVbk5IWmo0elVwWDBWQXpRUERpS3BSUmQ5VzFHTFI3cldtbGtfMURHODdzajU0NmhIUG9zXzBNX0c3TmhtRUJEd1ZGS1JLMWJKczNvclRxX0NKNDl3d09QdVVGU1F6dTZZUU5DRmd1dmJlamoxZURWdGxjWFJMS25UaTNVRzFJb2FxUk5weDZiam0zSFlrT09Dd3Z0NFdFbw?oc=5",
-   "pub": "Fri, 02 Oct 2026 04:58:35 GMT"
+   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
+   "pub": "Fri, 02 Oct 2026 10:02:55 GMT"
   },
   {
-   "t": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHlfZnJhaXc1R2ttSmdHNjFxZTdMYUNVMWI5Nk5KbFJmZnZRcDg0MjFnMktkd21FVXhsbE9NYko5SGREVFl0M09DaW5QYzQtZTU2cWlNYm53SGZOTHN0V0k5Y1JETHo5Zm54YjZobHlCQUNCand0OTBMWHVuVkd5d00zUVRFeFp5cVdCNGYtcnBCNVd3alRiN0JR?oc=5",
-   "pub": "Thu, 01 Oct 2026 23:39:04 GMT"
+   "t": "\"Werden sehr hart getroffen\": Trump droht Iran mit Konsequenzen im Fall von Beteiligung an Flydubai-Vorfall - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWERuNmNCcWV6Q0ZYeFNWZzB6TEtUaFNBai14VHppNmQ0TTYwVGxkYllzOVZjU2RORk94T2h0QmlHUmNnQ29TRWdxUTllVWV4N20yNUNzUUExOUdMQ1Vnb3dUdUdmWS03dFd5cUxZUFRWb1dKc09nUEpoN3pmQzBUUE1MWHUyVnZBV3RKVUZiWVF0QVk3dGxxeTgxQm1NQkVlaHc5WEE2QUpTNzNWcUFmamw4dHdNeXJSTnBIeHNn?oc=5",
+   "pub": "Fri, 02 Oct 2026 06:24:34 GMT"
   },
   {
-   "t": "Iran: Armee setzt Kopfgeld auf getötete US-Soldaten aus - bis zu 35.000 Euro - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEZUR2l6azdicGFCcjgtY3BvY1hxdkVfZ29jRjQ4OFRPaUx4c1BaT2gxTHkzXzVEdGV4bGR3YXE2c2tYV3NkTzh2NFBzRk9zYzRzOGJhaHZUNHhhYl94MF9EMTBHd1NpZ1o0TTcxTmdPWHZES1ZkX1RzNzZuVzdINEZndTEta2tULUExMkdHa094T0V4T3BJYllLb1R2eDd5ZXM2VWdNV0xOMTF0UkN6ajhDZ2lHdGpPQVFDNWwxQTJhRkk?oc=5",
-   "pub": "Wed, 30 Sep 2026 09:34:00 GMT"
+   "t": "Attacke im Iran-Krieg: Wieder Tanker in der Straße von Hormus beschossen - tagesspiegel.de",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk1QM0hfcjVRbDYwRUx5WXBGSW5IU29lUFV3dVZlRHFPQWdGSktxX1laVTVUYnhmRmF1NjdMNm42aWNhZTZYLTQwTlY2VERDRG9GeFdwSWtrc3FINF9kR21ZclhPR2NCWU9XWFlIM0l4cmxTRUU5Z1pPU0ZlM19zeDl3MjNUQXBzNTByWGJrMmZ0My13M05kVDRrc1pOWE5HZGZ6ZTFVSnNtUkV0YXhHandLa2h6dmhsXzR2OUZ0blgzcDk4enhvdlFJWlc5eEk?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:48:00 GMT"
   },
   {
    "t": "USA verlegen dritte Flugzeugträger-Gruppe nach Nahost – droht jetzt ein Angriff auf den Iran? - Frankfurter Rundschau",
@@ -74,29 +74,24 @@
    "pub": "Fri, 02 Oct 2026 05:01:06 GMT"
   },
   {
-   "t": "Vom Iran ins Jerichower Land: Warum ein Lehrer den Erzählungen seines Großvaters nach Deutschland folgte - Volksstimme",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUWVqanE2WDBkeEpzQzg4ZHJnNHI2OGlsZHJWc0wwTlVUOTRmZWNTWFNiQm5hREtiXzMtUk5GQ2N6TDVWcGdSOVVjMFFwR29Oc0lETTNGMXNHNC11a1psMnJjOVZxNDVQSHk1M3RIb2lBb3RhbEtzekc0aXB3NkppdlVjVU5UbHBfZkF1TmRPSnlIX0xrVWItRmZtNWMyTEszcW5wQVd4Sm00WTQ1enhvemVKbkdkNmJPSnVHb2hFZWVhWkNhTU9MbE92ME5TbTFETzlkLUVLbkhUOG4xdXJZOEhfbkhCbUJj?oc=5",
-   "pub": "Fri, 02 Oct 2026 04:17:00 GMT"
+   "t": "Flydubai: Trump droht Iran wegen versuchtem Anschlag - BILD",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWJrSUtsMzFac0FjbkZROUlHdm9GOVZzVEN3enVXY3hsY3VMNmthNTZQRUM1dnduRVVqSk51MGJUUlV0dXI4N0JjYUJfUll6eTJXam1xZTNtTWtWVmY1cXZha1lKTkZLT1lmQU95cHdHRFBGWFd3aGZZZ1NNUGE3MFNkVWs0LXJUc3R4ZzNrZmZnWVk5a3g4djBVZE9CUGxGMFdyOGtwamF5OTUwUmc?oc=5",
+   "pub": "Fri, 02 Oct 2026 03:13:41 GMT"
   },
   {
-   "t": "Mittlerer Osten - Iran beharrt auf Bedingungen für Wiederöffnung der Straße von Hormus - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW1QMHMySWRiZW9VcUJPYjJXYVZUMlhPRGRKbmpqZUwyRjkyeEEzUUJDNS12STZvZWJaYXJCUDdSaUxjOHZZTW04NGpIaWIxQjIzbi1NbGxYN0xtZlhlQjdoLUlMT0o2UlFKdmNNVTJXeE1hZ1lXMzdHZ3F6c1B0QlNCRnV6ZDdwaERtSWU2Y1B2cXhSVjJNVlVuSVZfUHFmd1R3Ymc5TEg1TkRaUDdBRQ?oc=5",
-   "pub": "Sun, 27 Sep 2026 20:59:13 GMT"
+   "t": "Hinrichtung im Iran: Freunde in Hamburg bangen um Ali Zarei - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzgyTExFMGRvcGI0ODliQkJHaUxkUl9zNmhCQmlqOFZuMzVSMlhVdnBuYXZWeERnZVhTS3Bhb3ktRzRHWktJZkZoTzVvU0Q1OWRqZHNZb1ZoTExqYkdsLUMtUFVvUW9Fa3BxRzVjaW5PZ1E5TUpCTjRxVXctV2dZckUyaEx4Ql9qdG4tME9kWWI0TVBQcDFZS3Rva1VPaTF3aGJQRWZLUU41V0w1cTBKX0FkSzh3SlplUkd4QW5FbkJ0UjNwS1dIMw?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:10:28 GMT"
   },
   {
-   "t": "Vergleichsportal rechnet vor: Iran-Krieg könnte Gaspreis um bis zu 20 Prozent treiben - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzhhYWVmajRLc0tJakJhd2Fpem1QVzFqdkNQOE5OaE01ZU03STdCOUI2UGEyVnZUcUJtSFNvdjJJUGhQNlpTOU1ZQUFDdXUzSUlUbVZXSW5aamhSMFhGOFFobFR5dUNhZHVDQnhQU210dEJ6OWFWSUVBRWhqZ2xOaVhOY1RTczFkLXZaVFdoalZfOW1mMDVYem1PSFo0cHZYWkc0?oc=5",
-   "pub": "Fri, 02 Oct 2026 05:23:11 GMT"
+   "t": "„EZB wird Zinsen anheben“: Iran-Krieg treibt Inflation im Euroraum auf Drei-Jahres-Hoch - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUt4Q3kwNDV0Y0llUkxweF84LWNYSHVIRk5laHVjdkE2TEJmVG1hbXV0ZUw5UjRXRHdrQ3JKUERaOVZiUWVaZS1CX1cxbkhQNXhOcktaSlZjMXM5ZWtTTjlBeTI5ZlVGYXF4THRBcVphTjQxZzFaNzNwT25YSURKekhRY0pLeVcwSmlpNEZwdlhzcjVvZFB5LWxfZHVQU1JrTVZHbnVQaTRiZzNCcXhOSXBMd1ZwVklSUVNINGpQUlQtODlyc3lsNUNuV1ZuTFBDWTNfYQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:52:00 GMT"
   },
   {
-   "t": "„Die Zeit ist gekommen“ – Trumps plötzlicher Iran-Optimismus hat einen Grund - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcV8tTkpSeEs4Q2REd1F2ajRaOFVKbG4yRVBTc19ZeWZiWWRNWE5IWmNrVTNBaHlxNHloN2VKdndVR2piMmdCUVV1Q183RGJwTWN5TWpOWWlrSDNCWFRJTlpKRnpwZXF6dmJPVURnR2c2djJGeHlCb1Y5bDFaZmN5eTVQVkViVTBOejhMT0NMeWdkdnJUb1ZLd1dueGN1bWFvRHpEeENUVzUzR205WnkxZEVnb0gwUUloRmNzeUFQaUZ1UkJIS0pxS0Qtd2RrdXJyLUcwbTV6cUxyZzJJS3FKWmFLM2M?oc=5",
-   "pub": "Thu, 01 Oct 2026 11:02:32 GMT"
-  },
-  {
-   "t": "„Der Iran ist eine Bedrohung für die Stabilität der Welt“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVGlvWVZTb3B3WnQ0NFFDMmxTRGZwcjJhWU1wSW9mc0pOXzByV01MNzRCQjh6SEZ6NE9sU2MtSEZfXzJwY0tXLWl6Vm82WU5meE9RWGNzQ2VwbDRRd3lGS2NPRU5fOHNDN1RLZHpuWEtmbktEeW1FOW52WUhPQ2F3VXpIUHZEMVJrNG1FWm9kRjNrcFk0ejlJVmk3YUVFaUJTRmdQQ25DcVBHMHVUYVhYWmd4R25tNXZLaDRhZ2x5ZzlXTk1ieVIyVmpJTDZQbDNwUzI2M0hKaw?oc=5",
-   "pub": "Thu, 01 Oct 2026 20:03:31 GMT"
+   "t": "Beinahe-Absturz von Flydubai-Flug: Trump droht Iran mit schweren Schlägen - berliner-zeitung.de",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbTNfTW5Hd1JrNTdta3g5T0JoQTV4SkwtNE00WXZYQ3J6d3hURGhCZjFYYTNJa1FOR2JqelFkYThTSC1hek4zNDA5bHQ3QnJhcjhRSkhLTVQwTTRUaExscU90cjJFNVdEY3BndXV4eHp4VUxrcHhfT1JfeWlPcWRHNk43M3ZDeklhZDcxenVHN2FUeWR4bThpQVROZG0xQzJXYUFRUy02emRpZjhlZjBPYWgwOHYyZURiTXpPag?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:40:41 GMT"
   },
   {
    "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - DIE ZEIT",
@@ -104,9 +99,14 @@
    "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
-   "t": "Kritische Menschenrechtslage in Iran - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHQm5YbkVNWDZYekMwMDhFM0oxQmREUXItT3IwMzZKY0xpSVRUYkN0ekppeVk1WncwT25yWXZmR2l6VVlOUzhidFhvWUp4TmlUaWJPSmFXRTVJR0JBOUhycmcxeXdCeENHLVhjNHoyWElGdVNkYTBB?oc=5",
-   "pub": "Fri, 02 Oct 2026 03:30:00 GMT"
+   "t": "Iran-Krieg: USA schicken offenbar offenbar weiteren Flugzeugträger nach Nahost - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMUxZVGFuU09uYVdOYndiQnYzSV9DN1cySkVTdHdHSTVkaEZId2dTMWxZdGZ2dHFtNC1DUWlIZ21lVnpTYVNJTElldFVZeFZuRkdGa2dxT1Z0alo0NkEzS2E5ZDBSN3dPN1lHODZ2NW5MNk1lX1RVVVhJcldNOW8tMVVFbnhfLTAyajBWUUJxaDE2NXd6dVFQcE43ekQ4Tkh1QTZDTEs0TDZSYVBGT1VWTkl5N1B6UzRJdk10ZHdGYTlBa2NmeUpUcXpfdnBQVGZaT0JvNlFDVTBaY2Z2N0pldQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 05:06:00 GMT"
+  },
+  {
+   "t": "Krieg mit dem Iran: USA schicken weiteren Flugzeugträger und 10.000 zusätzliche Soldaten nach Nahost - WELT",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOXhhemJwZWFUeko5cmFYbnk1Y1RYUzVNcndidklsV2syT21oMmRQQTk0ZTlrRUZERTEtb044X3ktTXhYVkhLT3kyQmFObXNLako1ZllJVHFtLXZ3M3dwX1IxdHYtUi1YYkRkaURVbk5IWmo0elVwWDBWQXpRUERpS3BSUmQ5VzFHTFI3cldtbGtfMURHODdzajU0NmhIUG9zXzBNX0c3TmhtRUJEd1ZGS1JLMWJKczNvclRxX0NKNDl3d09QdVVGU1F6dTZZUU5DRmd1dmJlamoxZURWdGxjWFJMS25UaTNVRzFJb2FxUk5weDZiam0zSFlrT09Dd3Z0NFdFbw?oc=5",
+   "pub": "Fri, 02 Oct 2026 04:58:35 GMT"
   }
  ]
 }
