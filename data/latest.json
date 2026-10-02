@@ -1,82 +1,77 @@
 {
- "collected_at": "2026-10-02T18:25:53Z",
+ "collected_at": "2026-10-02T22:58:37Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8288,
-   "chg1d_pct": -0.82
+   "price": 0.8285,
+   "chg1d_pct": -0.24
   },
   "USDJPY": {
-   "price": 157.816,
-   "chg1d_pct": 0.16
+   "price": 157.83,
+   "chg1d_pct": -0.06
   },
   "GBPCAD": {
-   "price": 1.8868,
-   "chg1d_pct": -0.05
+   "price": 1.8865,
+   "chg1d_pct": 0.53
   },
   "AUDJPY": {
-   "price": 109.666,
-   "chg1d_pct": 0.23
+   "price": 109.802,
+   "chg1d_pct": 0.36
   },
   "EURUSD": {
-   "price": 1.1254,
-   "chg1d_pct": -0.65
+   "price": 1.1257,
+   "chg1d_pct": 0.06
   },
   "GBPCHF": {
-   "price": 1.0968,
-   "chg1d_pct": -1.04
+   "price": 1.0971,
+   "chg1d_pct": 0.1
   },
   "WTI": {
-   "price": 91.69,
-   "chg1d_pct": -1.27
+   "price": 91.26,
+   "chg1d_pct": -1.73
   },
   "BRENT": {
-   "price": 102.76,
-   "chg1d_pct": 0.44
+   "price": 102.7,
+   "chg1d_pct": 0.38
   },
   "GOLD": {
-   "price": 4168.3,
-   "chg1d_pct": -0.81
+   "price": 4172.1,
+   "chg1d_pct": -0.72
   },
   "SPX_FUT": {
-   "price": 7774.25,
-   "chg1d_pct": 0.65
+   "price": 7776.5,
+   "chg1d_pct": 0.68
   },
   "NAS_FUT": {
-   "price": 31044.75,
-   "chg1d_pct": 0.92
+   "price": 31049.0,
+   "chg1d_pct": 0.94
   }
  },
  "headlines": [
+  {
+   "t": "(S+) Iran-Krieg: Warum gelangt wieder so viel Öl durch die Straße von Hormus? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTC1VUHVqR2c0aWk5WVlic21UM0pDTXJpMWNyME9FNzVZcnRPdWFnYkFkOGhGM1c2MzJGcDd5R0gxaEM2V0FTdnVpY2xCOE1NUHpNN1BjNDg3R09kRV9qSGFVdTNNUlFiUC1RTjF0SEtpVlQ4QmMtWFhZZW95czR1YXNtVFE4NkNLWGJpTTE4VzhWeERFdTZnYlN1MXQ4MGhXUHotTGtGVzZVQ25GZVUtN1djYjVCak85WUUwNm5wRC1FUGVjY250aWFudkxaYm15MXBLWGgyYzZlQQ?oc=5",
+   "pub": "Fri, 02 Oct 2026 19:07:00 GMT"
+  },
+  {
+   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
+   "pub": "Fri, 02 Oct 2026 19:03:50 GMT"
+  },
   {
    "t": "Todesurteil für Iraner: Hamburger Freunde kämpfen um sein Leben - NDR.de",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUDFKQzA3NXhlR2wtc1k0MXF2VUJ6NWg5dmRPUUxHVDRQdXdVNkJQdkxrdDRpbi04WW1qRUpXR2N2TEg2X3JnUVFCcHpmVG8xVHMwNllGZDlCLUN5WVh6UzlLZHdzdWFDSk92Sm4zaGxPa2ZybFVDeGQxZG0zU0lTZU9DRFVVRlhfV3B3NXhBU2VZWTAtd0dIOFJIclp4TDVxYnZjREhDaDRWUHczaVNTZ0ZNaGtYTkpaYXpsOG9kWi1icTBua0E?oc=5",
    "pub": "Fri, 02 Oct 2026 07:58:00 GMT"
   },
   {
-   "t": "Nahost: Die überraschende Wende im Iran-Krieg - welt.de",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
-   "pub": "Fri, 02 Oct 2026 16:02:42 GMT"
-  },
-  {
-   "t": "Iran-Krieg: USA schicken offenbar offenbar weiteren Flugzeugträger nach Nahost - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMUxZVGFuU09uYVdOYndiQnYzSV9DN1cySkVTdHdHSTVkaEZId2dTMWxZdGZ2dHFtNC1DUWlIZ21lVnpTYVNJTElldFVZeFZuRkdGa2dxT1Z0alo0NkEzS2E5ZDBSN3dPN1lHODZ2NW5MNk1lX1RVVVhJcldNOW8tMVVFbnhfLTAyajBWUUJxaDE2NXd6dVFQcE43ekQ4Tkh1QTZDTEs0TDZSYVBGT1VWTkl5N1B6UzRJdk10ZHdGYTlBa2NmeUpUcXpfdnBQVGZaT0JvNlFDVTBaY2Z2N0pldQ?oc=5",
-   "pub": "Fri, 02 Oct 2026 05:06:00 GMT"
-  },
-  {
-   "t": "10.000 amerikanische Soldaten für mögliche Iranangriffe nach der Wahl - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXR1VzNrTldHUVFzRVQwRUR2QTBRVHZ0U3VzY1pIb0FHdDM2bHJMVnkxYTRnanVsQ2otckY0VE8tUTdXR3NWZHZoUnlRdDZlSWx3ZmpvVDEtM1ZodWE4VXp0X2ZZY1F3Y0M0RHlqWDBrZ2dYSWlCcEZzYk9NMDhiNTEzUU9ZNEJvZXROSmMxN3JpMXc1Y1pvOTJEZGJRdnB2QWNJTXhNMWVjSmU0bUd2RHczWUV2Tl9zbHJtNWQzWVJTbUtCdWlUaFAxUVV6YTU0S09yVlg4QTlTWHE5N2xfbzByTXo0Tjg?oc=5",
-   "pub": "Fri, 02 Oct 2026 15:40:13 GMT"
-  },
-  {
-   "t": "Attacke im Iran-Krieg: Wieder Tanker in der Straße von Hormus beschossen - tagesspiegel.de",
+   "t": "Attacke im Iran-Krieg: Wieder Tanker in der Straße von Hormus beschossen - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk1QM0hfcjVRbDYwRUx5WXBGSW5IU29lUFV3dVZlRHFPQWdGSktxX1laVTVUYnhmRmF1NjdMNm42aWNhZTZYLTQwTlY2VERDRG9GeFdwSWtrc3FINF9kR21ZclhPR2NCWU9XWFlIM0l4cmxTRUU5Z1pPU0ZlM19zeDl3MjNUQXBzNTByWGJrMmZ0My13M05kVDRrc1pOWE5HZGZ6ZTFVSnNtUkV0YXhHandLa2h6dmhsXzR2OUZ0blgzcDk4enhvdlFJWlc5eEk?oc=5",
    "pub": "Fri, 02 Oct 2026 05:48:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHlfZnJhaXc1R2ttSmdHNjFxZTdMYUNVMWI5Nk5KbFJmZnZRcDg0MjFnMktkd21FVXhsbE9NYko5SGREVFl0M09DaW5QYzQtZTU2cWlNYm53SGZOTHN0V0k5Y1JETHo5Zm54YjZobHlCQUNCand0OTBMWHVuVkd5d00zUVRFeFp5cVdCNGYtcnBCNVd3alRiN0JR?oc=5",
-   "pub": "Fri, 02 Oct 2026 17:21:31 GMT"
+   "t": "10.000 amerikanische Soldaten für mögliche Iranangriffe nach der Wahl - bild.de",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXR1VzNrTldHUVFzRVQwRUR2QTBRVHZ0U3VzY1pIb0FHdDM2bHJMVnkxYTRnanVsQ2otckY0VE8tUTdXR3NWZHZoUnlRdDZlSWx3ZmpvVDEtM1ZodWE4VXp0X2ZZY1F3Y0M0RHlqWDBrZ2dYSWlCcEZzYk9NMDhiNTEzUU9ZNEJvZXROSmMxN3JpMXc1Y1pvOTJEZGJRdnB2QWNJTXhNMWVjSmU0bUd2RHczWUV2Tl9zbHJtNWQzWVJTbUtCdWlUaFAxUVV6YTU0S09yVlg4QTlTWHE5N2xfbzByTXo0Tjg?oc=5",
+   "pub": "Fri, 02 Oct 2026 15:40:13 GMT"
   },
   {
    "t": "USA verlegen dritte Flugzeugträger-Gruppe nach Nahost – droht jetzt ein Angriff auf den Iran? - Frankfurter Rundschau",
@@ -89,9 +84,9 @@
    "pub": "Fri, 02 Oct 2026 06:24:34 GMT"
   },
   {
-   "t": "Wall Street: Schwacher US-Jobmarkt | Fed-Zinserhöhung im Oktober vom Tisch? - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUp2dE5XU1c2QkNRaFJzWU9WcjNBQlhsSkdEZllWekh4cVJPeTR5TTZKenJWZElTVktDbWVORVc5U1doRE5WWFpEdFl0UnpyQ1VjNExnVkxjaWs0TV9mbnREVlVFNG01bGtkd250SHJNejJVQmpQUGhrM0xGWXF4SXZsaDlmZUQ0X3NvRjkxYWhwcldDLVRpOFlsTUFlbHVsQ2laQ0lVdTM5dENWS1ZXbnh1bWEyOHdwMUdGY3RtMk1uVHM2V2FMUzAwVXdCSGM?oc=5",
-   "pub": "Fri, 02 Oct 2026 15:45:17 GMT"
+   "t": "Iran-Krieg: Bericht: Erneut Schiff in Straße von Hormus unter Beschuss - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ19aY0NFbDJETXU3aEd5ZjJUNk5WQkk5RDBtTF9Kb01KY0c0WEw0MVdnZmV4VmZpWUZFMS10TGNYd2M1WG5jOGhyV3BDRGpUTGs3SEdvSU9UZFVjbFl5T2VWN29yaFBtbEpXX1dUNUFmQlJhS0JRWVhaeUxDaG9qVjA3NmdtcjVFU1VkVDVscFlieEV4UjYwU1EwYnRqS1NYdUZuQkpja1dSV2MxVXBoYjJfNkNNTHVxdkJDSA?oc=5",
+   "pub": "Fri, 02 Oct 2026 17:21:00 GMT"
   },
   {
    "t": "Fed Leitzins & US Arbeitsmarkt: Deutet alles auf eine Zinspause im Oktober hin? - XTB.com",
@@ -99,14 +94,19 @@
    "pub": "Fri, 02 Oct 2026 17:36:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Trump räumt Munitionsengpässe ein und widerspricht den Warnungen des Pentagons - Gießener Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3dJWEJ0UmNZdjZpR29HRkw2OXo5SnRaRzdMSklEQWpYNnJNeW1qbmJ2aUx2dnZrWkdIZWVib2hCdV9uU01DZDBNWDRTaTJvQTlzR21wMFdEZ1pIeTg2eGI3enp1blV2eGVhd0t6NjR1S3R5dDd4bmtZd2htdjN1ajQ4aWdKXzBEcDV3d2ZqRmZHcld4a29LWG9nbEQ2Y3dMYUZZLUlwZFFvVUZTTzl5T3FGRQ?oc=5",
-   "pub": "Fri, 02 Oct 2026 13:28:03 GMT"
+   "t": "Ölpreis: Ölpreis steigt nach Trumps Absage zu Iran-Einigung deutlich - zeit.de",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXJMYWF3UUVIRVJIWVZwdGxmR0hKT1FGNmJWMTZIck5iNnYySmppZkxmZFNtZEZXNV9hdGR3bkxObXdvRkFGU0h5X1c5blFES0l1clRIY1dJcy1NakZvcVZDc1p6emZKdERiNl9tY0NEeTZHZ1QxQjZWRHBDYWV6bkxTWnBaclZ1Z3planJpd3JiaFRiamNHQnhiNjhZZw?oc=5",
+   "pub": "Mon, 28 Sep 2026 14:21:32 GMT"
   },
   {
    "t": "Flydubai-Vorfall: Donald Trump vermutet Beteiligung Irans und droht mit harten Konsequenzen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSHZ1emstM0JMdEN0Y3FrS3JpUnUwS0RWMmFlLXB5U1hHckxjejIzcTFBZ09FMndBMGVDdzVmdThLNTFBNTI1V3hCWUp3bWZ0YlNCS0c3V3lIYWllY2tsMjZSZ0FUVFlHM01COEpnSmJlSG4wQUhtU2Y2aTFoZ0lVZW5kS1NhVEwySk1sRzJsaUdYOEV3ejdYdC1oUHFFSXNwTHBPMDFlUDc0M3k1MG1DMndkd2FoSEJHT3g5eWxfVmFualBxN0ZubDlCbjEtYmY4MHljbUlGUWNiamJnaGFaMWJhd3pyX0U4eWxQeThIcVdaUlhwN2c?oc=5",
    "pub": "Fri, 02 Oct 2026 09:10:00 GMT"
+  },
+  {
+   "t": "Iran: Fotograf in akuter Gefahr? - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYW4zajBjVDU0am15WXdOS2pXT0kyNlJkbWhwR3hvd0pwTGxHSEI1QWNucXNDblpIc1FxVjE1WDREZFRqbEc4dEtGX0xJUDZ1T0xESG5JZHZhVEtwZmh1OW1hczBxY0NlcTVUa1NCUkIzQVRFd3lNS3VuZnRzOXhncjN4aFdKWVZWZE9Bc3Z4YnJiMnFpQ1E?oc=5",
+   "pub": "Fri, 02 Oct 2026 09:00:00 GMT"
   }
  ]
 }
