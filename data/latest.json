@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-03T21:18:08Z",
+ "collected_at": "2026-10-04T00:39:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,9 +54,19 @@
    "pub": "Sat, 03 Oct 2026 07:58:34 GMT"
   },
   {
-   "t": "USA-Iran-Krieg: Irans Währung fällt auf historisches Tief - DW.com",
+   "t": "USA-Iran-Krieg: Irans Währung fällt auf historisches Tief - dw.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUxhTXloblFrT1JoeFQ4djhITE1KaU81b0VfdEN1ekxFYUJzU3hhdTJPZFBCNE5ycS1qVXc0VVVOeHY0N211bUtNR3dNeXRrdGJmUDljcWhNYXE4WGlJOElWTnZDNHZQdU9TNGh1d1ljeXBnX19INVkwQ2RiZnZwYmZuV3ZkbGxpMjNjaUhSNUJjc09yV3djdXgySm9mNnFVN1NvTGt5NVFSa0doQzNqU19zMNIBswFBVV95cUxPVXFIa3hGNFp4VkFjSFBSMGpSdlZiTkpycnlEX2pZTllNMFlfb0tERVRIU2JuZktlckdNUlFLYTdCcmFTdFNQdFdUX0FuN004X2poVkNSODBhaEdDQ0thTS1tczg4WFRKRk1ycFRaVndFZ09lSzlQQVJlYjFENkJOV2U2dENFallRbUVKeDM4SU42TUx4SEFZbW5JSkxad0Z2VG5CSTJrTmlxbzdnWF9pZlNnQQ?oc=5",
    "pub": "Sat, 03 Oct 2026 13:46:25 GMT"
+  },
+  {
+   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
+   "pub": "Sat, 03 Oct 2026 22:28:53 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Huthis haben nach eigenen Angaben Aramco-Anlage in Riad angegriffen - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQUcxVzVEMlhRVnVseGhwdlNLYUhSRm8zbWJnNkxpUGFQSGlpTGZWbUJYd093ZXRpYWVfYW5wSHNra0RWZVI1cFZSTEZaWHlOdk9jb2t2SHlQV3RCRExISE02bGhMenlaMFpETXhTY2FtWDRrVml5NGVlUFdxYTYyRzI2X21MdmFGMTFJWXZKbkJnMWxUQ01rdjdoNzMyVWhQeFN3LXBPQkcyZlhuVFhISktyU3ZKaDRWWEhoazZGY01UQkRKdm1SUGZmT1VNT3YwR09jRzFwR1hMQ0hJ?oc=5",
+   "pub": "Sat, 03 Oct 2026 21:08:39 GMT"
   },
   {
    "t": "Trump schickt dritten Flugzeugträger und weitere 10.000 Soldaten - Mullah-Regime bereitet sich vor - Frankfurter Rundschau",
@@ -64,9 +74,9 @@
    "pub": "Sat, 03 Oct 2026 17:00:00 GMT"
   },
   {
-   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
-   "pub": "Sat, 03 Oct 2026 19:16:39 GMT"
+   "t": "10.000 amerikanische Soldaten für mögliche Iranangriffe nach der Wahl - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXR1VzNrTldHUVFzRVQwRUR2QTBRVHZ0U3VzY1pIb0FHdDM2bHJMVnkxYTRnanVsQ2otckY0VE8tUTdXR3NWZHZoUnlRdDZlSWx3ZmpvVDEtM1ZodWE4VXp0X2ZZY1F3Y0M0RHlqWDBrZ2dYSWlCcEZzYk9NMDhiNTEzUU9ZNEJvZXROSmMxN3JpMXc1Y1pvOTJEZGJRdnB2QWNJTXhNMWVjSmU0bUd2RHczWUV2Tl9zbHJtNWQzWVJTbUtCdWlUaFAxUVV6YTU0S09yVlg4QTlTWHE5N2xfbzByTXo0Tjg?oc=5",
+   "pub": "Sat, 03 Oct 2026 12:56:52 GMT"
   },
   {
    "t": "Iran richtet Mann wegen Teilnahme an Protesten hin - Spiegel",
@@ -74,19 +84,14 @@
    "pub": "Sat, 03 Oct 2026 09:37:00 GMT"
   },
   {
-   "t": "10.000 amerikanische Soldaten für mögliche Iranangriffe nach der Wahl - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXR1VzNrTldHUVFzRVQwRUR2QTBRVHZ0U3VzY1pIb0FHdDM2bHJMVnkxYTRnanVsQ2otckY0VE8tUTdXR3NWZHZoUnlRdDZlSWx3ZmpvVDEtM1ZodWE4VXp0X2ZZY1F3Y0M0RHlqWDBrZ2dYSWlCcEZzYk9NMDhiNTEzUU9ZNEJvZXROSmMxN3JpMXc1Y1pvOTJEZGJRdnB2QWNJTXhNMWVjSmU0bUd2RHczWUV2Tl9zbHJtNWQzWVJTbUtCdWlUaFAxUVV6YTU0S09yVlg4QTlTWHE5N2xfbzByTXo0Tjg?oc=5",
-   "pub": "Sat, 03 Oct 2026 12:56:52 GMT"
-  },
-  {
    "t": "Wegen Massenprotesten - Iran vollstreckt weiteres Todesurteil - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbHdTRG9XRXNTNzJnNnZPTFcyUDJSX3FadndVeGtkS3ZfeHJoNDJjS3pSMnBLUkUwd1UyYTFBVndUaV9iZjlJak02S3Z6QjNxYl9JVkRMc2ZNamVHcXktcUFzVmszWFdiWndibmwydmt0WVVVdU8zS1lweW5yNTc1YUU1Zw?oc=5",
    "pub": "Sat, 03 Oct 2026 08:15:05 GMT"
   },
   {
-   "t": "Iran: Währung im Sinkflug, Lebensmittelpreise explodieren - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGpGQWl4ZURNdW91VTV5eGI2SEFMTzBwRHVaczJnY3JrdFBnNjRBaHNMXzhjaGJpSVZBdmR4bElDWjYtSWpzNTRzZkVRSlNyMV9mZ3VfWXlNRk9WQzlTM2M0V2lNN1B0SUtaaGFDYW03cVZXU1B0bWpPb2NreGtUZlhFUVMwMjlGNFdtekRXc2VfUW1oOVRXSWo2Ym9QTlpqMGNxOVp4MmZPaDE0bk9wZmItdHpHQ0UzUUl2cXpnaC1lZw?oc=5",
-   "pub": "Sat, 03 Oct 2026 20:45:56 GMT"
+   "t": "Todesurteil für Iraner: Hamburger Freunde kämpfen um sein Leben - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUDFKQzA3NXhlR2wtc1k0MXF2VUJ6NWg5dmRPUUxHVDRQdXdVNkJQdkxrdDRpbi04WW1qRUpXR2N2TEg2X3JnUVFCcHpmVG8xVHMwNllGZDlCLUN5WVh6UzlLZHdzdWFDSk92Sm4zaGxPa2ZybFVDeGQxZG0zU0lTZU9DRFVVRlhfV3B3NXhBU2VZWTAtd0dIOFJIclp4TDVxYnZjREhDaDRWUHczaVNTZ0ZNaGtYTkpaYXpsOG9kWi1icTBua0E?oc=5",
+   "pub": "Fri, 02 Oct 2026 07:58:00 GMT"
   },
   {
    "t": "Farzad Amini: Iran: »Ich bin süchtig: Um ›clean‹ zu werden, gebe ich mein normales Leben auf« - jungle.world",
@@ -97,11 +102,6 @@
    "t": "(S+) Iran-Krieg: Warum gelangt wieder so viel Öl durch die Straße von Hormus? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTC1VUHVqR2c0aWk5WVlic21UM0pDTXJpMWNyME9FNzVZcnRPdWFnYkFkOGhGM1c2MzJGcDd5R0gxaEM2V0FTdnVpY2xCOE1NUHpNN1BjNDg3R09kRV9qSGFVdTNNUlFiUC1RTjF0SEtpVlQ4QmMtWFhZZW95czR1YXNtVFE4NkNLWGJpTTE4VzhWeERFdTZnYlN1MXQ4MGhXUHotTGtGVzZVQ25GZVUtN1djYjVCak85WUUwNm5wRC1FUGVjY250aWFudkxaYm15MXBLWGgyYzZlQQ?oc=5",
    "pub": "Fri, 02 Oct 2026 19:07:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Rohöltanker vor der Küste des Oman angegriffen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXduZGNMTm5rWFdFczcyelhnbV8xQmI4RUVXRkt5WWpucndxM1NEa0ZPQW1DTFJZQm9kMXF1OFNzS2JlMjBQb3N2V0ZhVlNENmR2aUd6Y2xOdTNXYU9ac0R4UXJPWE85QVBmeGNiVWF0NDRzUnBDNWhDME5LT3JWUGhzUUZFRnZpMnVnNA?oc=5",
-   "pub": "Sat, 03 Oct 2026 00:26:53 GMT"
   },
   {
    "t": "Ölpreis über 100 Dollar: Erholte Ölversorgung beruhigt den Markt nicht – Energiepreise bleiben hoch - Frankfurter Rundschau",
