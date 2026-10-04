@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-04T06:50:21Z",
+ "collected_at": "2026-10-04T13:12:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,14 +49,34 @@
  },
  "headlines": [
   {
-   "t": "Trump schickt dritten Flugzeugträger und weitere 10.000 Soldaten - Mullah-Regime bereitet sich vor - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEl0UlNwSV9zWlFpM3pZQkU2c1VEZFRHRWgwTGl4ZnROWWxtQWMyWGR5U3ZRTExOZWxzSG16ZjJnS2Zwc3Vwc0pqRzdWWFRqbXRueFpzb3JTbXgxc3JJdzREb0RPdnoyYTJibGZvQTFkNmVxUDdMdjFQMjQydUVtZmwweTBmOVZadXBjdzROWXF1T2VQMC1jRlVQRDRRQ3dqVXc?oc=5",
-   "pub": "Sun, 04 Oct 2026 02:46:00 GMT"
+   "t": "Irankrieg: Teheran knüpft Öffnung der Straße von Hormus an Bedingungen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeF9BUWhuXy1kMEliX05RMTJxNWVub2s2WGJwVkpzSXZ2QjVZNUJMNjhvSnc4Z3Z5U0Q3ZXktR3lIcVE4RnpsdWh1NlhVX0ZvRXFrbk9DeWRhQ3RVNnVQNFFlUk9VSEYtQ2RDTC1GT25fME0zeUo3bXhsQUM4UTdTeUdTX2lPR3BkRnBYNEFxSnNsMHlDZWtOMDl1Zm1nQUxmQzN3R0xFZ2tmQUVoeGI1YXNXaTQwWVE0b083Qlc0QmFzUktOVFRMVjFyeDM2blBSM0J4TVZnMXhxVU0?oc=5",
+   "pub": "Sun, 04 Oct 2026 08:39:00 GMT"
   },
   {
-   "t": "Wegen Massenprotesten - Iran vollstreckt weiteres Todesurteil - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTmdWcmJJenpKdWJ6RDQyUVloVEVRbllDWS1rVHRJOVBLdVVhbVM2bldkVC1qQ2ZSckJKeDhHM05wTmVUc05QRk02YzJESjNneTZSUGw2ZUNRTUExbDRHRWYtcFFsamdyekVEajB2T1hDRWpYT3gyRXplUkVGYnNhbFR1UQ?oc=5",
-   "pub": "Sun, 04 Oct 2026 03:27:58 GMT"
+   "t": "Öl-Route: Iran knüpft Öffnung von Hormus an sieben Bedingungen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaC0tY1c3Ni1lc3NrUDZEeVpMd21QUWpqX0Y2VU9kdWo4Z0IzOGJXdWVyMXFoS2ZZclh2OGZMMzFzUE1scHp4VXZMbzAzYXR1ZnotWi1CMUFXd1hoOVBOLVJId0t4Q1hSaGd0OWswNnN6WGRqTm80ajVkVWtKYmdzem9vUWJGNHVFZlgyVTgzRGgyR1dmV1dYM3J5dUxPOHJ1WVRyMXFmZVdJa2pIVE9FblMydnZWRHhDY1JGMW5RekFPZW1QRncxYVR0NElVMDVjcTFJ?oc=5",
+   "pub": "Sun, 04 Oct 2026 12:54:21 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Iran öffnet Straße von Hormus erst nach Erfüllung des Interimsabkommens - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ2N6czBWRklpVU1SbnQyTW9yUmJwanAyaFJCUml1X3ROLVAwSWg3b1F6amUyZTRNQ3dNdENkWVZCdFFYR2RKMUYwUXMtd3J0QmxyemxhVUxLaEhQeVVvS0xyZ0x0MVhmR2YybWg5YUxYRHF2cHd4RDdjRHEzOEpZSElaZk9oTW5IQ0dPU3ZOMjRCQnEzUFRXTVBaNkJrbWZjTlZzOF9IZ1g5T0dKUXlEZjVQX2hWWGJ2ZzBkQVhiRUtidDQ3V25NM1JMSVFXQ1lnZjd4Yl90dzJPMFl3Ykt4cThCZlBUdw?oc=5",
+   "pub": "Sun, 04 Oct 2026 10:14:53 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Tanker in der Straße von Hormus angegriffen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUpzd1l4SEoxcmFPSjBiR2kwTW1FdFhmT2RmQmpwVnRLemxycURvZXFjTWFoemxSUzBMNjVCbGtxdWtvTmVjSk0zNUZ4a2ZxQWJDRnRET193bUF6WGdMSEpMMTI2S0kzTWNhcVdTZUFnWUhtSU13Uks0YjJ1c1l6NW04V29ab1Fsclg2ZW1Ya2k1QjlxTGYwSWI4SWdzVDBHbnRMeTJmLXZhbjA?oc=5",
+   "pub": "Sun, 04 Oct 2026 08:26:13 GMT"
+  },
+  {
+   "t": "Hinrichtung im Iran: Iran vollstreckt weiteres Todesurteil nach Massenprotesten - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkVQcmx4YTRubU05ODQ3SlFabTRyc3Q4WTU3REhSR0Y3N0pvdDFod3VQbVdKYkxPNUxqeTcwRHF0Z3lueTBhNTFMN1QwZHdqZmhabHhYa09JYkNxTVJ3bEJnV2tPaERTZnVfX01mZnR3MlNSbUpuWTczUGxVeDVwRVpRRmZxRzFfTVdXWkwxLVAyS05BYzJvSjRBQjFCS3hiUGJHd1FEYUpiVVpNbDlz?oc=5",
+   "pub": "Sat, 03 Oct 2026 07:58:34 GMT"
+  },
+  {
+   "t": "Trump schickt dritten Flugzeugträger und weitere 10.000 Soldaten - Mullah-Regime bereitet sich vor - fr.de",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGFTcjNwUWNHNHUzRkg2VUNIU3hVWFd2aVFpNDFsc1NQN3JXVC1PVkF0bExPRlZLNDV5SFFjUlJPT3hZVkR5bUJGRmMwalk1Q3VsaDRqMmZIM09RVEkxQWdmMnN3enVINWdVSmYzZGFfX0FQVW1GVVZvb3RKd25hT3RBMjA5RFk5b0phV1g3WThucmhZQS1iRHdaY0ZpcnZDU1E?oc=5",
+   "pub": "Sat, 03 Oct 2026 17:00:00 GMT"
   },
   {
    "t": "USA-Iran-Krieg: Irans Währung fällt auf historisches Tief - dw.com",
@@ -64,24 +84,14 @@
    "pub": "Sat, 03 Oct 2026 13:46:25 GMT"
   },
   {
-   "t": "Hinrichtung im Iran: Iran vollstreckt weiteres Todesurteil nach Massenprotesten - zeit.de",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkVQcmx4YTRubU05ODQ3SlFabTRyc3Q4WTU3REhSR0Y3N0pvdDFod3VQbVdKYkxPNUxqeTcwRHF0Z3lueTBhNTFMN1QwZHdqZmhabHhYa09JYkNxTVJ3bEJnV2tPaERTZnVfX01mZnR3MlNSbUpuWTczUGxVeDVwRVpRRmZxRzFfTVdXWkwxLVAyS05BYzJvSjRBQjFCS3hiUGJHd1FEYUpiVVpNbDlz?oc=5",
-   "pub": "Sat, 03 Oct 2026 07:58:34 GMT"
+   "t": "Streit um wichtige Meerenge: Iran knüpft Öffnung der Straße von Hormus an Bedingungen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORTBVZnZYVm01eUxzUWE1dTE1UkVDc0xqcllFS0xnVmZHTDZVdG9BYldHRTA5RG5kSzFPVmQzWmNpeVBHX05XQWpuc2J2dlJ1NmNySHdpdUhuWE9oRFFLSkNueF93aE05bEM2UlIxRmpUNVR0S3h5LTVsSWZVUU1ETVdCYzZ0a0ZDT0VUQjlnNldibmtTQ1U1ajExYmZxN2VwMWo3eDJuZTlQb1FzeVBkNF9uc0NEZUhBYU5XNXJPX3FvTzZtMnJmRlhYZENOdXlsZ1ZhVlM0V2VUaWM?oc=5",
+   "pub": "Sun, 04 Oct 2026 12:36:55 GMT"
   },
   {
-   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
-   "pub": "Sat, 03 Oct 2026 22:28:53 GMT"
-  },
-  {
-   "t": "(S+) Iran-Krieg: Warum gelangt wieder so viel Öl durch die Straße von Hormus? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTC1VUHVqR2c0aWk5WVlic21UM0pDTXJpMWNyME9FNzVZcnRPdWFnYkFkOGhGM1c2MzJGcDd5R0gxaEM2V0FTdnVpY2xCOE1NUHpNN1BjNDg3R09kRV9qSGFVdTNNUlFiUC1RTjF0SEtpVlQ4QmMtWFhZZW95czR1YXNtVFE4NkNLWGJpTTE4VzhWeERFdTZnYlN1MXQ4MGhXUHotTGtGVzZVQ25GZVUtN1djYjVCak85WUUwNm5wRC1FUGVjY250aWFudkxaYm15MXBLWGgyYzZlQQ?oc=5",
-   "pub": "Fri, 02 Oct 2026 19:07:00 GMT"
-  },
-  {
-   "t": "10.000 amerikanische Soldaten für mögliche Iranangriffe nach der Wahl - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXR1VzNrTldHUVFzRVQwRUR2QTBRVHZ0U3VzY1pIb0FHdDM2bHJMVnkxYTRnanVsQ2otckY0VE8tUTdXR3NWZHZoUnlRdDZlSWx3ZmpvVDEtM1ZodWE4VXp0X2ZZY1F3Y0M0RHlqWDBrZ2dYSWlCcEZzYk9NMDhiNTEzUU9ZNEJvZXROSmMxN3JpMXc1Y1pvOTJEZGJRdnB2QWNJTXhNMWVjSmU0bUd2RHczWUV2Tl9zbHJtNWQzWVJTbUtCdWlUaFAxUVV6YTU0S09yVlg4QTlTWHE5N2xfbzByTXo0Tjg?oc=5",
-   "pub": "Sat, 03 Oct 2026 12:56:52 GMT"
+   "t": "Iran: Sieben Bedingungen für Öffnung der Straße von Hormus - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkFuZ1NVOHFFTjFWS2Fhb1JUdm9qX05xcnN5MWtDdXBkTzVTS0l6ZnJObVktZGc4R3piQ2YtcDlBVHlXRE85YjJ2NmpBQ2NmOFVmU2JXcHNrc3U5bVZmZ2RSa0liMDhmaGtkUWxUNkhSWFY4MHFEODBWdEVRYW9WM1AzRElXTkcxTHQyV051UFd1UkVNMmtWS1hibFB2T1ZaMlZadWhlVWtEMHpTVnFySm1QUFRHOE1yLXhtaF9nR3JaUQ?oc=5",
+   "pub": "Sun, 04 Oct 2026 11:21:00 GMT"
   },
   {
    "t": "Todesurteil für Iraner: Hamburger Freunde kämpfen um sein Leben - NDR.de",
@@ -89,24 +99,14 @@
    "pub": "Fri, 02 Oct 2026 07:58:00 GMT"
   },
   {
-   "t": "Farzad Amini: Iran: »Ich bin süchtig: Um ›clean‹ zu werden, gebe ich mein normales Leben auf« - Jungle.World",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDY2ZUE1M0JwUkRxTEpzdWJ5Ylh6a3VZRnBRSE56MUpKdDdXSVRwamEwSWVqY1hxcFZOVFBkWUR0cmJiMGRJN0V6QTd2Tml0RUpiMS03bWo1NURNX1p6Q2hzVUpxcWxRdU16R3pOS2g5cnZ3N3gyT25ZbWlRb1puR0h4STNNemxZd0F4REFCdDc0OHR2MkdUR3h0NVNtT0ROZzBGbFVzM2dUbXJrZHIwRlhDSkZGMXdiUlhCLQ?oc=5",
-   "pub": "Sat, 03 Oct 2026 18:38:00 GMT"
+   "t": "10.000 amerikanische Soldaten für mögliche Iranangriffe nach der Wahl - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXR1VzNrTldHUVFzRVQwRUR2QTBRVHZ0U3VzY1pIb0FHdDM2bHJMVnkxYTRnanVsQ2otckY0VE8tUTdXR3NWZHZoUnlRdDZlSWx3ZmpvVDEtM1ZodWE4VXp0X2ZZY1F3Y0M0RHlqWDBrZ2dYSWlCcEZzYk9NMDhiNTEzUU9ZNEJvZXROSmMxN3JpMXc1Y1pvOTJEZGJRdnB2QWNJTXhNMWVjSmU0bUd2RHczWUV2Tl9zbHJtNWQzWVJTbUtCdWlUaFAxUVV6YTU0S09yVlg4QTlTWHE5N2xfbzByTXo0Tjg?oc=5",
+   "pub": "Sat, 03 Oct 2026 12:56:52 GMT"
   },
   {
-   "t": "Iran richtet Mann wegen Teilnahme an Protesten hin - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUNhOGswQjk1czNmdzZ4U0tFZTFMUmFZeEF2VDRBZUUxQ1drQUZCZ3FHdlpudHQ4b1QxV21fOU5OMDlBaS1QRGRCTGZxcGZiMUNpRnhwNXFPNWJvaE1oUlpsVllnNS1pWFp4NGRCb3pTXy1ZTEpaQ0pzUjROOXAza1ljUVNfTGowb19kMjg4UWNGUWpZU2VHdUQ5dWt5bFBobTVVc3ZqOW5GdVp4c2IwSjdWN2xaYjNZUUhkYw?oc=5",
-   "pub": "Sat, 03 Oct 2026 09:37:00 GMT"
-  },
-  {
-   "t": "Ölpreis über 100 Dollar: Erholte Ölversorgung beruhigt den Markt nicht – Energiepreise bleiben hoch - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMXVFQ0ZqMWlsaTJGTFJKOG9sakpra1dBVl8wQ3I2azhvN3BkazFLLWNSX2JCODN6bUw1VDd6dmZPejh3YjJaQUdmR3B1MHpOb2xLR0lVeHZyS1hXTlNDVHdXX2E0UXVfd0F5MGRQNjlBcndHbV84ZmxoV2RDd09SZEtzSkNDa2JORmdkbmJYYWhhSXFyVzZHVU9UTFpxckZaMmpBY2NqYmN5M1k?oc=5",
-   "pub": "Sat, 03 Oct 2026 17:00:20 GMT"
-  },
-  {
-   "t": "Iran: Fotograf in akuter Gefahr? - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYW4zajBjVDU0am15WXdOS2pXT0kyNlJkbWhwR3hvd0pwTGxHSEI1QWNucXNDblpIc1FxVjE1WDREZFRqbEc4dEtGX0xJUDZ1T0xESG5JZHZhVEtwZmh1OW1hczBxY0NlcTVUa1NCUkIzQVRFd3lNS3VuZnRzOXhncjN4aFdKWVZWZE9Bc3Z4YnJiMnFpQ1E?oc=5",
-   "pub": "Fri, 02 Oct 2026 09:00:00 GMT"
+   "t": "Nahost: Die überraschende Wende im Iran-Krieg - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBCeVpXRWJUbTZvTzlHeHVhZWZKZVgzVzQtRk9vTi0zY1lTVW5nRGszLXUxSDA3SHZSNEdhdGRPaVpzY0p5Qnl1eUFfQ29xcGVEZ0NoMVVKQkJvWm1qQ19qLU5QLURxbjVOSG9ZLXBjMF93N2YxZnR0aE44T3c4TkpTUWRTV1pCcDV2dEhLVmZmUUtXX2RKLWJGbm1TN3lPSVpheS1vVWxJejg?oc=5",
+   "pub": "Sun, 04 Oct 2026 10:39:57 GMT"
   }
  ]
 }
