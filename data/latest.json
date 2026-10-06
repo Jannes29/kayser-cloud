@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-06T03:00:04Z",
+ "collected_at": "2026-10-06T10:21:06Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8317,
-   "chg1d_pct": 0.43
+   "price": 0.8314,
+   "chg1d_pct": 0.4
   },
   "USDJPY": {
-   "price": 158.008,
-   "chg1d_pct": 0.17
+   "price": 158.205,
+   "chg1d_pct": 0.3
   },
   "GBPCAD": {
-   "price": 1.8849,
-   "chg1d_pct": -0.12
+   "price": 1.8904,
+   "chg1d_pct": 0.17
   },
   "AUDJPY": {
-   "price": 110.108,
-   "chg1d_pct": 0.42
+   "price": 110.246,
+   "chg1d_pct": 0.54
   },
   "EURUSD": {
-   "price": 1.1217,
-   "chg1d_pct": -0.33
+   "price": 1.125,
+   "chg1d_pct": -0.04
   },
   "GBPCHF": {
-   "price": 1.099,
-   "chg1d_pct": 0.22
+   "price": 1.1013,
+   "chg1d_pct": 0.43
   },
   "WTI": {
-   "price": 89.71,
-   "chg1d_pct": 0.31
+   "price": 87.71,
+   "chg1d_pct": -1.92
   },
   "BRENT": {
-   "price": 100.74,
-   "chg1d_pct": 0.42
+   "price": 98.56,
+   "chg1d_pct": -1.75
   },
   "GOLD": {
-   "price": 4155.9,
-   "chg1d_pct": -0.02
+   "price": 4178.8,
+   "chg1d_pct": 0.53
   },
   "SPX_FUT": {
-   "price": 7832.75,
-   "chg1d_pct": 0.08
+   "price": 7843.0,
+   "chg1d_pct": 0.21
   },
   "NAS_FUT": {
-   "price": 31337.75,
-   "chg1d_pct": 0.06
+   "price": 31420.75,
+   "chg1d_pct": 0.33
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Mon, 05 Oct 2026 20:16:00 GMT"
   },
   {
+   "t": "Ölpreis aktuell: Ölpreise verzeichnen weitere Verluste - WiWo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEtyTTdWTVJBQUtXTGtGTHFqLVlWNkVpZEVBdzIwWnRCT00xTXBkNDlfd1U2VWwwa00zd2h1MG1hTG5vcHVXWWFVRmJST1VHa1dkUGJKLUxmdnlGMGVyajZFejZRMTBIbUpadlJBc3ZJc1ZGdlh2YU52OXdUYnBtSEE2X0tMXzY5OEF3dVBybGtZVDRFekFtWXdaMTFuT2ZR?oc=5",
+   "pub": "Tue, 06 Oct 2026 09:25:55 GMT"
+  },
+  {
    "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
    "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
-  },
-  {
-   "t": "Iran-Plan: sieben Bedingungen – sieben Tage - thb.info",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGNxbDJNejdxUnpBOXdWdnE4Z3dfVDdTME5icnpHODdldmlfdlU5X3JZcTNkamZVRnJ4dmlVUVJJbGlCQVgzN2NPZWVwVDhveXVySDNmaXFqS1ZMSXRDdWJRXy01NWUwX3pHaXNEYk9wMnBXa0lJREQ3M0VkY1A0dGJBTWhfOWFIR093S2YtOU02NzFteW1TNlZuY21TODNEZktGNEJjZURJRVU?oc=5",
-   "pub": "Mon, 05 Oct 2026 16:27:51 GMT"
   },
   {
    "t": "„Deppen“: Mutmaßliche Iran-Terroristen verrieten sich selbst - focus.de",
@@ -69,14 +69,24 @@
    "pub": "Mon, 05 Oct 2026 20:03:00 GMT"
   },
   {
-   "t": "Angriffswelle auf Tanker: Iran verpasst Hormus-Hoffnungen einen brutalen Dämpfer - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJXRnBvS1czZkVnNWEyX3BsN2pJczUyemtEM01CRjhSWkNTdER6ei1TMTljdE02ZnpxTTNlRzJfWTdKWlNKUDhuN2YzQ1RoaXlxTjFUd3ZSX2VtenBJa1Rkb3Zpc0kyX2d6MVBITGdmSFFqRGZWMV9UXy16dGVENXlpX3pXOU1sNmVRd1pMa1YyZVRsa1BqZDJ4bFFnVDlaRk96YQ?oc=5",
-   "pub": "Mon, 05 Oct 2026 16:01:17 GMT"
+   "t": "Verfassungsschutz: Iran beschafft in Deutschland Technologie für Raketenprogramm - Bad Honnef heute",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWtSZy1TSTBiYXRkbDlLYWt0Q2NRcXRKbFRhUnJCeXl5a2dIT0NQME53UGM3dUxjcFBXRGduOWZUdlQ0YkYxbVlUVmZaaFhsUDRDXzBYYjBtNVdpN0tvNHZXRzQxRDhjNzJ2OGxsNFZxSTl3T2V3T25ua1NGc1BWYWJVZ3RoZmlUMUlYZk1NdWNURW9xa0h1Z2ptdHJYVENqRDVkZ1MzMG4?oc=5",
+   "pub": "Tue, 06 Oct 2026 04:01:38 GMT"
   },
   {
-   "t": "Ölexporte aus dem Nahen Osten ohne Iran erreichen wieder Vorkriegsniveau - de.euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXdzV2tDaktzTmtGekR3R1pJeTJBZ3I4SEVmc09SRFhjQXA4Sm5xeTNQMUVXMTBzdDEyZlI1dV9mSmVrTENkbTkwN254M2ZiNkNVZWwtQ2hQTGk5dXQyRFhadGFjRjB2cTBFNDFVMGp3V2hlank1ZUF1alJ3OTkxSXNDUlJMSDIyTUhTVWRaaDJCcHNMMXV3LW9taDQyR2oxeUEya25DTElmVEE?oc=5",
-   "pub": "Mon, 05 Oct 2026 09:54:45 GMT"
+   "t": "Verfassungsschutz warnt – Iran intensiviert Bemühungen um deutsche Raketentechnik - WELT",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZTdIaWlLeUtqNWdYUFVZdy1jU1BtZ3ljYzZqUE1LWWJFSjV4MzRyeUpCVWxGVnAtcnhKTHI5S2xXc2JGZ3h2X1dTT2c3cTFOSFltQTVwOW0tMEk5UFJrZElrc2xtcFhfWEJoMV9KeFJ1Y2VWdGl1UGw4WXY3Smx6QTJpM2QwS3ROX19iMkduVWg2WElPYUxoX1A2cE5veHE5NEZ5cEQ2VnlIMVV2VkRIMTloQWFaOUpDNkNqZ3FlQmJNWHVEMGd1YmJmNlhQQ3dNRDVhNHBRbGJHOWc5V2I5ckQtTXM4TlhQUDBlemtYa1JmNlRSYkJzUkdZam5FajJ2?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:36:38 GMT"
+  },
+  {
+   "t": "Bei Auftritt in Nebraska - Trump über Iran-Angriffe: „Sollen sie doch L.A. zerstören“ - Yahoo Nachrichten",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbUlhUFVYR0hqeGJoV0JpakF5V0dqLS1TdkNTRndiRzBWVVBJLVpJbTZQX2FBb0g2c3NRcGdfOC1CWU9IdGl1alpuTnF4QlJqWlNBWFNWX2Y5QkFlNTJhN0NqdHNla0JFc3ZxNTdibHVVLVFqRVF1dnhkVFZyWHBEMjJtZTNRTmtnSUY4?oc=5",
+   "pub": "Tue, 06 Oct 2026 06:04:00 GMT"
+  },
+  {
+   "t": "Iran-Plan: sieben Bedingungen – sieben Tage - THB - Täglicher Hafenbericht",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGNxbDJNejdxUnpBOXdWdnE4Z3dfVDdTME5icnpHODdldmlfdlU5X3JZcTNkamZVRnJ4dmlVUVJJbGlCQVgzN2NPZWVwVDhveXVySDNmaXFqS1ZMSXRDdWJRXy01NWUwX3pHaXNEYk9wMnBXa0lJREQ3M0VkY1A0dGJBTWhfOWFIR093S2YtOU02NzFteW1TNlZuY21TODNEZktGNEJjZURJRVU?oc=5",
+   "pub": "Mon, 05 Oct 2026 13:06:19 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -84,29 +94,19 @@
    "pub": "Fri, 02 Oct 2026 10:00:00 GMT"
   },
   {
-   "t": "Irankrieg: Teheran knüpft Öffnung der Straße von Hormus an Bedingungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeF9BUWhuXy1kMEliX05RMTJxNWVub2s2WGJwVkpzSXZ2QjVZNUJMNjhvSnc4Z3Z5U0Q3ZXktR3lIcVE4RnpsdWh1NlhVX0ZvRXFrbk9DeWRhQ3RVNnVQNFFlUk9VSEYtQ2RDTC1GT25fME0zeUo3bXhsQUM4UTdTeUdTX2lPR3BkRnBYNEFxSnNsMHlDZWtOMDl1Zm1nQUxmQzN3R0xFZ2tmQUVoeGI1YXNXaTQwWVE0b083Qlc0QmFzUktOVFRMVjFyeDM2blBSM0J4TVZnMXhxVU0?oc=5",
-   "pub": "Sun, 04 Oct 2026 08:39:00 GMT"
+   "t": "Iran-Krieg: Ölbranche warnt vor zäher Erholung - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE44WTdzVEFab2Y3Zk9waWVDYTk1TkVMT1lwMG9YTU5WRHZIdkgyRjRzekhWSU1mY2VjRjRxNDFXeW02d18ycGc?oc=5",
+   "pub": "Tue, 06 Oct 2026 03:01:14 GMT"
+  },
+  {
+   "t": "Angriffswelle auf Tanker: Iran verpasst Hormus-Hoffnungen einen brutalen Dämpfer - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjJXRnBvS1czZkVnNWEyX3BsN2pJczUyemtEM01CRjhSWkNTdER6ei1TMTljdE02ZnpxTTNlRzJfWTdKWlNKUDhuN2YzQ1RoaXlxTjFUd3ZSX2VtenBJa1Rkb3Zpc0kyX2d6MVBITGdmSFFqRGZWMV9UXy16dGVENXlpX3pXOU1sNmVRd1pMa1YyZVRsa1BqZDJ4bFFnVDlaRk96YQ?oc=5",
+   "pub": "Mon, 05 Oct 2026 16:01:17 GMT"
   },
   {
    "t": "Hinrichtung im Iran: Iran vollstreckt weiteres Todesurteil nach Massenprotesten - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkVQcmx4YTRubU05ODQ3SlFabTRyc3Q4WTU3REhSR0Y3N0pvdDFod3VQbVdKYkxPNUxqeTcwRHF0Z3lueTBhNTFMN1QwZHdqZmhabHhYa09JYkNxTVJ3bEJnV2tPaERTZnVfX01mZnR3MlNSbUpuWTczUGxVeDVwRVpRRmZxRzFfTVdXWkwxLVAyS05BYzJvSjRBQjFCS3hiUGJHd1FEYUpiVVpNbDlz?oc=5",
    "pub": "Sat, 03 Oct 2026 07:58:34 GMT"
-  },
-  {
-   "t": "Was Iran-Sanktionen für hessische Arbeitnehmer bedeuten - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1Yxc01PX0lvU1BOM2ptOFd1YUhwQmpfazNzRkl5Vnp4RVdjekhrZ3NnRkl5bXNCbHZDRTBEc0xWY0lBNUVWWkpSZm1uZkdhUVYwMklNSGRuWkw5YmMtOVVlSGoxSUVYV3ZlbFFqYVBRS3BzeXdHVEdrbVZWUG1PSDhKdzNSTDFsRm5La3cycTdsc3RUbWlzRmJibGJvVy1QdzBqb29NaDZLb3RBbXJJMlJwSUU1Q1VPcDZHYTJzbUc?oc=5",
-   "pub": "Sun, 04 Oct 2026 18:59:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Wiederauffüllen der weltweiten Ölreserven könnte zwei Jahre dauern - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc09QSTVvcUlydFFmY3VMMjRPcGs4LVRDNmZWQ2ZvWGU2RldydTd1cTJQRFBjeGRFdGtWYURySEk1WEUwWHI4VE80RmlnbDRPaG9aUWFLUGtzUkF4LU1nZ1UxS1hUM0pCM1VZQXdJVVpsc2h6V3JTSWhvel9IVnNpNTFWTEM3cE9GOGtkQl93ZzNaSXFJc3BkS0d3MlNyaUdwRERPeHZNMlZ3aDVwbHJIajkwTjdRY0dmcEFMOU9wM2lUM2VlWTlWVk9xcGZKU3ZrbnRiOENzN25Ec1JkdE5JZEVNNjFxclh3dDZEOFVIZw?oc=5",
-   "pub": "Mon, 05 Oct 2026 17:39:00 GMT"
-  },
-  {
-   "t": "Der USA-Iran-Krieg und die Straße von Hormus: Iran knüpft Öffnung an sieben Bedingungen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWdkdzNhZ2RjWnVFTzI0dTFDak0wc1E5YlBLV1luc1R4T2plcUJnTVhhZGVCMU5wdk5tTFdyeXgxd3dFNnBTdms5bzZaZDdmWmpNQkg2cmFadkxsSDdMRmExVnhvVHIyRFFxTVRiODRRendYTXhRa1pkQVdtVTVWSkRpdEVYT3BaemE4ellyemlLeDJESkhnbnRPMGRqRUg1bElFcDhnUXlMaDdtdlByS2tzM21PYnNWUFdtcEVZR1dzWnpLeEHSAcYBQVVfeXFMTVAyMWN3TTNiUXBvaWctaGpsRHgxVVVERUUwQ0ttWC1QYWJiZ21vODBvRnlWQjEwWnhzelA4NUJsTFVVOGtYRF9LTXZjX1FhcEFfNGwzc2gySWRmNzFmeC05ZGhJU1FwQmkyQzhWVTA3aEFGeXRHaWE1SmItTVVtQl9VbGNpTHhNS0stWkY4bW5iYnhranVoSHR0d1IyRUlqVVdFdFU0MjVrcDhoaS02NF9lYTJXcVNtRkM5RzI3OGw1bHBuLXhn?oc=5",
-   "pub": "Sun, 04 Oct 2026 14:00:31 GMT"
   }
  ]
 }
