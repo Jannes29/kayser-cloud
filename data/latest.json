@@ -1,87 +1,62 @@
 {
- "collected_at": "2026-10-06T17:12:23Z",
+ "collected_at": "2026-10-06T21:38:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8313,
-   "chg1d_pct": 0.39
+   "price": 0.831,
+   "chg1d_pct": -0.01
   },
   "USDJPY": {
-   "price": 158.166,
-   "chg1d_pct": 0.27
+   "price": 158.099,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8866,
-   "chg1d_pct": -0.03
-  },
-  "AUDJPY": {
-   "price": 110.439,
-   "chg1d_pct": 0.72
-  },
-  "EURUSD": {
-   "price": 1.126,
-   "chg1d_pct": 0.05
-  },
-  "GBPCHF": {
-   "price": 1.1032,
-   "chg1d_pct": 0.61
-  },
-  "WTI": {
-   "price": 89.57,
-   "chg1d_pct": 0.16
-  },
-  "BRENT": {
-   "price": 100.33,
+   "price": 1.8855,
    "chg1d_pct": 0.01
   },
+  "AUDJPY": {
+   "price": 110.347,
+   "chg1d_pct": 0.27
+  },
+  "EURUSD": {
+   "price": 1.1264,
+   "chg1d_pct": 0.42
+  },
+  "GBPCHF": {
+   "price": 1.1029,
+   "chg1d_pct": 0.37
+  },
+  "WTI": {
+   "price": 89.91,
+   "chg1d_pct": 0.54
+  },
+  "BRENT": {
+   "price": 101.15,
+   "chg1d_pct": 0.83
+  },
   "GOLD": {
-   "price": 4183.8,
-   "chg1d_pct": 0.65
+   "price": 4192.7,
+   "chg1d_pct": 0.86
   },
   "SPX_FUT": {
-   "price": 7878.75,
-   "chg1d_pct": 0.67
+   "price": 7880.5,
+   "chg1d_pct": 0.69
   },
   "NAS_FUT": {
-   "price": 31517.0,
-   "chg1d_pct": 0.64
+   "price": 31501.0,
+   "chg1d_pct": 0.59
   }
  },
  "headlines": [
   {
+   "t": "„Lasst den Iran Atom-Bombe über L.A. abwerfen!“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGVub01XQUhWU3kxeTUxWXEycTh2UmphaEJ6cWJUMGliM0lHdVl1MV8wbWdOT0dGdXBaU0ljcVVKc3E5Nm02N3JFY3RONW5XNUNLSFpUM3NVTVFMMnlGRUk2OEh4eVNyenJSTTZUQkNIeXJ3STJkYm5LdWZXUUlldnJac3FhdmtsbUt5UDJuTGNYVlFzeWJHa2QzRE9hbjlfVkJBanFINm1FWlI5ZVo0c3IwU1NwYzl1OEFyXzlEX09WdXZZNzlIaEk0UmdLUjVzb2psYTJKTFFYeEZkZmc?oc=5",
+   "pub": "Tue, 06 Oct 2026 18:34:58 GMT"
+  },
+  {
    "t": "Ölpreis aktuell: Ölpreise verzeichnen weitere Verluste - WiWo",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEtyTTdWTVJBQUtXTGtGTHFqLVlWNkVpZEVBdzIwWnRCT00xTXBkNDlfd1U2VWwwa00zd2h1MG1hTG5vcHVXWWFVRmJST1VHa1dkUGJKLUxmdnlGMGVyajZFejZRMTBIbUpadlJBc3ZJc1ZGdlh2YU52OXdUYnBtSEE2X0tMXzY5OEF3dVBybGtZVDRFekFtWXdaMTFuT2ZR?oc=5",
-   "pub": "Tue, 06 Oct 2026 15:52:36 GMT"
-  },
-  {
-   "t": "Empörung über mutmaßlichen Trump-Aufruf an den Iran zur Auslöschung von US-Städten - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXMtNFVpVHFqZkhzVkplMjR1YTZsME1MRnRVeWFXcy12X1U5dVh3a0ZsMUE2TE43d3pySlB1R1NLSWlvQUU1cmlad1FfRDZwTXp1YUViZEgyVXA2UlhoT3ZqRWhoenpETHFpSEtsem5KVEw4QVI5UUZSNVBYQ00wd2pZZy1ySTJEamtRNHpZdThHaGZfNGU1NDhsZ092OU9kcHVtYkVDcHRlTC1vZWloQm5sY2pPRUp0WmkwRDZ6Q0RFN1NfcFE?oc=5",
-   "pub": "Tue, 06 Oct 2026 15:38:51 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Wie nah sind die USA und Iran einer Lösung? - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54MXV5M193dHRHRWVSdmtSeWRQOE1Nd1NBWkdUd3E2Q2RNUmFrSENNSDJHSGxJYU5rVERvU2JTX3ZsZ2FoSFVadXhxdmVoNUJld0xTNk9zZVA0bUdtY184aEhZaDB5SWc?oc=5",
-   "pub": "Mon, 05 Oct 2026 20:16:00 GMT"
-  },
-  {
-   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
-   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb1FvaXhTNndwM2lsTTFUMTVrRGhrdnpiRWpPYmxvdXRGMEFJNzFveFdYQUdSM3c2SUZoZnZGUzVYZTU2SXpZTG15djhmRXE5cTM1UFN2SkNrbkplU2JZREpJbzFsdzlhZGpRZkFVa0hPazlUb1RwQ3hQc3pjdDhKSWx0ZWZqZi1GVWJTOXhnTUlZQkVxUWczVV9oejZyX1AyV016TVdTZ2F3cmVLbWg0MmpqTENqamhaa3ZoT3RGUkMzY0pwLUhqUWJDaG00YkE?oc=5",
-   "pub": "Tue, 06 Oct 2026 03:41:34 GMT"
-  },
-  {
-   "t": "Kaliforniens Politiker empört: Trump schlägt vor, Iran Städte „auslöschen“ zu lassen - Rolling Stone",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3c1dWNDc3R3ODF1MmtZLUdVNF8xeFlmbk9nWUl0M05hdUxtbEdlNWRHVlE2azcxR3R3bFpqaWtMTnc4V1daMm5McGIzN1Z4RWhoMDVjcTZweHdZMk1aeTc0UXBpemJuZTVacW55SlFDRmx0YldMV1lRUllkcWs3NEJxTDdoSzJ5NldPUUFPZHJMcUV5NFJqcEZB?oc=5",
-   "pub": "Tue, 06 Oct 2026 15:36:36 GMT"
-  },
-  {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Fri, 02 Oct 2026 10:00:00 GMT"
+   "pub": "Tue, 06 Oct 2026 21:30:04 GMT"
   },
   {
    "t": "Empörung in Kalifornien: Trump über Iran: \"Sollen sie doch Los Angeles zerstören\" - n-tv.de",
@@ -89,14 +64,34 @@
    "pub": "Tue, 06 Oct 2026 15:43:55 GMT"
   },
   {
-   "t": "US-Präsident Trump glaubt, dass Iran hinter Flydubai-Attentat steckt - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnJmMGhQa3dIeFlyaVVnZm9fcVJJOXo2ME5UZEw2SnhfaTluMmVnVnRnWFlqbS1uRGowYkc2Sm45ZjBHeGxvSk5mYzg2VnR2ZVlpcGhmeFl6VlRDeTRwV2JISjJpUmM1a3liT1l2am0wejFRMnZOQW15MWRZbG5sUkY2Tlc5M25fZFBjNVREQTJRNWJqLXlqazJsOURIc0FfN2ZydXNwbkRheF8tMlpuSFJDaExNUQ?oc=5",
-   "pub": "Tue, 06 Oct 2026 12:24:00 GMT"
+   "t": "Pläne für Anschlag auf Fairford: Welche Rolle spielt Iran? - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1NsclBrdk5abTVNNkVwaldhZERyTlI2VzZyOW1mSXZ2TFZaUTk4a2o4YmJicVN5S081blBnLUQ1VnR3M3BvX0VEZnpJMVpGd3V6WkFLMTRVSnNEXzZVX3czQ3E0LTR2ODl6anlkNEgzVkRiYXlFYktWVnZfN3FCSzlvMjVPdHJEN1d1bC1DQ2NvRjVSSF8tMGNwb1FWeElrTXZxd01xVkJyS1FOZDg2N3ZxV2tXSmEx?oc=5",
+   "pub": "Tue, 06 Oct 2026 16:08:41 GMT"
   },
   {
-   "t": "Verfassungsschutz: Iran beschafft in Deutschland Technologie für Raketenprogramm - Bad Honnef heute",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWtSZy1TSTBiYXRkbDlLYWt0Q2NRcXRKbFRhUnJCeXl5a2dIT0NQME53UGM3dUxjcFBXRGduOWZUdlQ0YkYxbVlUVmZaaFhsUDRDXzBYYjBtNVdpN0tvNHZXRzQxRDhjNzJ2OGxsNFZxSTl3T2V3T25ua1NGc1BWYWJVZ3RoZmlUMUlYZk1NdWNURW9xa0h1Z2ptdHJYVENqRDVkZ1MzMG4?oc=5",
-   "pub": "Tue, 06 Oct 2026 04:01:38 GMT"
+   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
+   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg - Medien: Abzug der US-Langstreckenbomber aus Großbritannien erfolgte wegen befürchtetem iranischen Drohnenangriff - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVXdlFaUUpnSnZLZVNDQlVLbDQtdjY0YWpHNTNvVk1mMWJrWjVHMFZrdEpkbHExZDdoMjdvWlE4dUwzSG9NVWljZ0Y1a3V4anJ2VVpYZDZ3RmZReFc3a25pTnNfelZCaUJFeVRadHJWSURtWk1aWGJ0YlNnYWEtN2NZbzh5dnJuR09kZzl6SE5sR0NfbFNyb1BMZEFnN0cxZHR0a1hvbmtFQXlVMklhRlUtUzhhN1ZwVWxNUDZPcTktZmp0d0ZwQjJwWHk3aWl4MTdtcFdpUQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 05:56:02 GMT"
+  },
+  {
+   "t": "Kaliforniens Politiker empört: Trump schlägt vor, Iran Städte „auslöschen“ zu lassen - Rolling Stone",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3c1dWNDc3R3ODF1MmtZLUdVNF8xeFlmbk9nWUl0M05hdUxtbEdlNWRHVlE2azcxR3R3bFpqaWtMTnc4V1daMm5McGIzN1Z4RWhoMDVjcTZweHdZMk1aeTc0UXBpemJuZTVacW55SlFDRmx0YldMV1lRUllkcWs3NEJxTDdoSzJ5NldPUUFPZHJMcUV5NFJqcEZB?oc=5",
+   "pub": "Tue, 06 Oct 2026 15:36:36 GMT"
+  },
+  {
+   "t": "Empörung über mutmaßlichen Trump-Aufruf an den Iran zur Auslöschung von US-Städten - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXMtNFVpVHFqZkhzVkplMjR1YTZsME1MRnRVeWFXcy12X1U5dVh3a0ZsMUE2TE43d3pySlB1R1NLSWlvQUU1cmlad1FfRDZwTXp1YUViZEgyVXA2UlhoT3ZqRWhoenpETHFpSEtsem5KVEw4QVI5UUZSNVBYQ00wd2pZZy1ySTJEamtRNHpZdThHaGZfNGU1NDhsZ092OU9kcHVtYkVDcHRlTC1vZWloQm5sY2pPRUp0WmkwRDZ6Q0RFN1NfcFE?oc=5",
+   "pub": "Tue, 06 Oct 2026 15:38:51 GMT"
+  },
+  {
+   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
+   "pub": "Fri, 02 Oct 2026 10:00:00 GMT"
   },
   {
    "t": "Was Iran-Sanktionen für hessische Arbeitnehmer bedeuten - hessenschau.de",
@@ -104,9 +99,14 @@
    "pub": "Sun, 04 Oct 2026 18:59:00 GMT"
   },
   {
-   "t": "Iran-Krieg - Medien: Abzug der US-Langstreckenbomber aus Großbritannien erfolgte wegen befürchtetem iranischen Drohnenangriff - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeUVXdlFaUUpnSnZLZVNDQlVLbDQtdjY0YWpHNTNvVk1mMWJrWjVHMFZrdEpkbHExZDdoMjdvWlE4dUwzSG9NVWljZ0Y1a3V4anJ2VVpYZDZ3RmZReFc3a25pTnNfelZCaUJFeVRadHJWSURtWk1aWGJ0YlNnYWEtN2NZbzh5dnJuR09kZzl6SE5sR0NfbFNyb1BMZEFnN0cxZHR0a1hvbmtFQXlVMklhRlUtUzhhN1ZwVWxNUDZPcTktZmp0d0ZwQjJwWHk3aWl4MTdtcFdpUQ?oc=5",
-   "pub": "Tue, 06 Oct 2026 05:56:02 GMT"
+   "t": "US-Präsident Trump glaubt, dass Iran hinter Flydubai-Attentat steckt - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnJmMGhQa3dIeFlyaVVnZm9fcVJJOXo2ME5UZEw2SnhfaTluMmVnVnRnWFlqbS1uRGowYkc2Sm45ZjBHeGxvSk5mYzg2VnR2ZVlpcGhmeFl6VlRDeTRwV2JISjJpUmM1a3liT1l2am0wejFRMnZOQW15MWRZbG5sUkY2Tlc5M25fZFBjNVREQTJRNWJqLXlqazJsOURIc0FfN2ZydXNwbkRheF8tMlpuSFJDaExNUQ?oc=5",
+   "pub": "Tue, 06 Oct 2026 12:24:00 GMT"
+  },
+  {
+   "t": "Wie ist der Alltag für die Menschen im Iran unter dem Krieg mit den USA? - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KZ2lsXzJDT2o4ei0tV2hjZzVaeHY4NEJ3M3c5VlpSTVBlREoxQmZCbzJaR3pleTl0ZFY3eC1vNFVjdTBvOGxaMUlVaHlkajFta0l0VUUyaGZQSF9zT0c3V1lDTEo4bVkzTE9rZnlybw?oc=5",
+   "pub": "Sun, 04 Oct 2026 18:56:30 GMT"
   }
  ]
 }
