@@ -1,57 +1,92 @@
 {
- "collected_at": "2026-10-07T08:41:36Z",
+ "collected_at": "2026-10-07T16:31:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8332,
-   "chg1d_pct": 0.25
+   "price": 0.8335,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 158.118,
-   "chg1d_pct": 0.1
+   "price": 158.062,
+   "chg1d_pct": 0.06
   },
   "GBPCAD": {
-   "price": 1.8828,
-   "chg1d_pct": -0.13
+   "price": 1.8834,
+   "chg1d_pct": -0.1
   },
   "AUDJPY": {
-   "price": 110.216,
-   "chg1d_pct": 0.15
+   "price": 110.052,
+   "chg1d_pct": -0.0
   },
   "EURUSD": {
-   "price": 1.1198,
-   "chg1d_pct": -0.17
+   "price": 1.1196,
+   "chg1d_pct": -0.19
   },
   "GBPCHF": {
-   "price": 1.1031,
-   "chg1d_pct": 0.39
+   "price": 1.1012,
+   "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 89.65,
-   "chg1d_pct": 0.23
+   "price": 88.84,
+   "chg1d_pct": -0.67
   },
   "BRENT": {
-   "price": 101.2,
-   "chg1d_pct": 0.62
+   "price": 100.81,
+   "chg1d_pct": 0.23
   },
   "GOLD": {
-   "price": 4153.7,
-   "chg1d_pct": -0.8
+   "price": 4138.4,
+   "chg1d_pct": -1.16
   },
   "SPX_FUT": {
-   "price": 7874.0,
-   "chg1d_pct": 0.0
+   "price": 7846.0,
+   "chg1d_pct": -0.36
   },
   "NAS_FUT": {
-   "price": 31422.0,
-   "chg1d_pct": -0.19
+   "price": 31348.75,
+   "chg1d_pct": -0.43
   }
  },
  "headlines": [
   {
+   "t": "Iran droht mit Präventivschlägen, USA stellen Machtfrage in Teheran - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94eFg5QXJHVFJ3VHVjay1yS0RoXzZKbTQ2MExJQUpIcDlheHM1MkRPcDRhOXhaQU9rOUxQZTJFdmpWUS0xeDRQOEpyRTU0djFTSjdzUGhIdDZLTFZzV3BhVHdDYVFaNV9BM1lmdjc0eHpWaElmYTI1N3VfSQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 14:25:52 GMT"
+  },
+  {
+   "t": "„Sollen sie doch Los Angeles und San Diego auslöschen“ Trumps Iran-Aussage empört Politiker, Stars – und US-Republikaner - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQd2JHNGx1Q3RqdEVaY0R1Vk16eWZ5TGdIOU1BaEJjaHBmZHUwcm5yTFJheHhDMUhpUUk1dHh4Rm5Fb2hKZXdlR0NCSXoyczd3WlEtQUdMNWRwVGU5NTVmM2hONGZnOU00UVRYdmJpbkdtY2FZdlowUzZ2UHdqMWhkczU3QThBVFhYN2l3V2UwVXZZdFBTTWRGMUZEcEtTN3BrbElJM0xYaDh4QnV4OExHOTlub1BtYzYtbUw0bmx5ZWNlcU1QeUhVZTVqeTBlaEZfOW5HU1J3SXNrWXNjbktWYmEtOVN4ZGdNSGZPRFYwTUs2SUp1cHBtbnlKT2t6Y2ptdXFTbg?oc=5",
+   "pub": "Wed, 07 Oct 2026 13:58:00 GMT"
+  },
+  {
+   "t": "Fed: Welche Signale bewegen heute Abend die Wall Street? - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXFaQ1NENkxFbEtiUUtwb0hobmk1ZVhvUDQ2MV93dko0TGlPbmVJSU9VdzNFdkF0R2JsNThTbDZQUHU1bE1DTzNMSk5lVVVCVjYybzVXeDFNSlhCLTVPUndJOWFoWTZkd3N0Q3hkbE1zaWx4ZDNPeHB4WmtJb3VsSmZ4QjVielktc2JreWhocXRtR2dRQXdMWjN1S0NoSTAyLXZrTnJrZEhUdmwxOGhFVXN4Zmd6ekV5MDlWVXFqS3JCN1E?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:39:17 GMT"
+  },
+  {
+   "t": "Katar fordert Waffenstillstand im Iran-Krieg – und enthüllt, was hinter Kulissen wirklich verhandelt wird - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUJBVHM5djI4VkN5WjZMSEhTVmpPNHVaWDBGeTUySTJqcDhXYW9fOEFBSEhveTJyVkl5VG9XZWZXNjZXRkttV29HSHF3TkNOcDhrVk1selg3cE1mVldzX05TbFZfcVkyYVRYam5hODljS2ZfbHFVSXpucUZsUFRPeng0N2pINTBLWmFPVUtnS3RsdW92LThISjFXeTRYbUMxWWhOUTdzeDVyYTBqZUE?oc=5",
+   "pub": "Wed, 07 Oct 2026 11:25:12 GMT"
+  },
+  {
+   "t": "Iran kritisiert Frankreich wegen Polizeigewalt – Tausende Tote bei eigenen Protesten - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWR1dWk4NFJBQ3R4eVdvNUtJdmdLejZWSC0tTWJNSDRBY3JlTVE2S0lnYWVlVmpjTkJNajYwcWtoWjI0OWpHQ3g4NV9OWHNLbmxLcEZUV082aGhkQjhqUllEMXlNdUtfUGNCX3hLNGtOT2tpTjU0Z1N4WDNzWWNQVTRhSWZDbmVhbEt2TnlOaTk?oc=5",
+   "pub": "Wed, 07 Oct 2026 09:25:11 GMT"
+  },
+  {
    "t": "Iran: Die politische Macht der Musik - DW.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxaURqQVdYc0RWaTdoQ3pWNW03cGtHbG5BbUt4QktlRjdnd01MVzB4SmJibFRDbzh1clAtbjJLM09oS2VKTWJwcG13c3V4X0pLbE1LQk1EdFBxNEZvTFpxN1RmV0s5c0dQYjdjLUZqTHlSY3EzSXZn0gF3QVVfeXFMUFJHcWVSSGNkc0t5eWE2WHpzT0dLTGZWY3hkNGJhWEZHT19oY1lZU19SQmRmWjZWVVFPSVJMby0wbjFHSEJVT0VmZTVjX2lxZDYxdFVma0NXXzlXVWMyQmkwZWNMQUlrS29tNGt4RmR5QS0tVUU5SFk?oc=5",
    "pub": "Wed, 07 Oct 2026 07:34:15 GMT"
+  },
+  {
+   "t": "Funkmitschnitte: USA setzen ihre Blockade iranischer Häfen notfalls mit Waffengewalt durch - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hZbmpRbTFvLU9xdFZIRDRqNmNTc3Y1ZDRKU0VlSnNXY19SRFdGR0JnaWhiYk1wVWpCN0w2TVdNcWpaR1o1WlVEQlVhUWVQLTB5T1NxSlkxWWtacFc2UjcxWVF5anlQaTdrcDdnY3BTV0EzQVo5eVUyWEk5aTdWZ21zeWVHSE1QTkhvUTBCQlNzUEhmQW1mMHktRjhkODhpSzNqNEFWT0RIZklsX2RhZW9sQVVwbU9IMl94MW1TeVVHamd0Wjk3UUJ1Sy1hNnlKdFVyQnl5dWI2YWFKMnpHSkpYLTgwQQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 10:54:35 GMT"
+  },
+  {
+   "t": "„Sollen sie doch Los Angeles auslöschen“ – Trump löst mit Iran-Aussage Empörung aus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSDAyTVdxZ0g4R21jMmZUV0tYSDhCYjgxenJ3OXJ1dzZUY0djMkY5OWdoQ2lKcXAwZWFiN1I0VnZfcXBTYXRvYUlBaFd0c2lHWG9mOUxuQ0IzbzBHR2lKZC1wWmRzSXZMdTd1M0Faa1kyb1BWNGY5dWdfQk5fMmlSOE50c0d2NmkyeGJTZGRfcGdLVlc2MHhSUlBFNDQwZUhqRUcyR0dXOHRKZjRBdlVfWVpuZkRCYVlTU2xsYW02WkZyNng1Z1V6STJjOEZYMnczaVUzcHhnWEVMQURwRjNBNEFUcTJfSUpwVGNwaGJKVHBZTkt1ZUo1M0hpN1pfdw?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:50:46 GMT"
   },
   {
    "t": "„Lasst den Iran Atom-Bombe über L.A. abwerfen!“ - BILD",
@@ -64,49 +99,14 @@
    "pub": "Wed, 07 Oct 2026 06:49:33 GMT"
   },
   {
+   "t": "Geschäft mit der Knappheit: Iran-Krieg beschert Shell Fabel-Rekord bei Raffinerie-Marge - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVG9iN28xcEdmaTU1dWd1a3o0aVYzcUhjLUtGdjYwUzRIRzBTRm9pek1DYXpFVjh2OWFmWFc5TXRSMHhxbndHb2czQnB5dlFEaktSUkVlVjZCRjI5VWVKMzVOb21oT0VOVWZxMl9sV0wya3hnd0wyZUVZajdZdUNGMXZUZHAtSTlxYTREVm9aRm1fVnR4SGMwUkFHdXlIT0RYdDNjNVZFSXdVZw?oc=5",
+   "pub": "Wed, 07 Oct 2026 14:43:01 GMT"
+  },
+  {
    "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
    "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
-  },
-  {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Fri, 02 Oct 2026 10:00:00 GMT"
-  },
-  {
-   "t": "Empörung in Kalifornien: Trump über Iran: \"Sollen sie doch Los Angeles zerstören\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDA2bzBlWk5nUkVpNlBMRUJjeXhQcF9xMWFScEd5UTRfVDE3QkRsbW1vQm9zQTcxTFR0dXhSUXBKRjA2dWEydkM5WW1GSl8ybmxQcllWZ1pmM1RhX2tmWkNGR004ek9SaV9vejVRdzdHOHFYaXppbVNzTHh3M1lKQnRyOTdZcHNZLVFpNlJhcXdsZTVrbzZPRGw5VXFtOUxC?oc=5",
-   "pub": "Tue, 06 Oct 2026 15:43:55 GMT"
-  },
-  {
-   "t": "Katar: Die USA und der Iran setzen die Verhandlungen zur Beendigung des Konflikts fort. - Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVUtc08yNXdaWHprYTA5ODZWY0pTaXZaT25VMHVPMDBPMUpQLXVWaTFBM094SXdfem5OZFZFWl9Fb3hBS1U2ZXFaZjFVX2ZtLXNzRW5qYzNrWTBWV3FBbXk5MlBkXzhzRHpNWjdiZmowaF9rUVFDYTRQTDVCLUgxZjBSeDQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 05:13:36 GMT"
-  },
-  {
-   "t": "Irankrieg: Teheran knüpft Öffnung der Straße von Hormus an Bedingungen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeF9BUWhuXy1kMEliX05RMTJxNWVub2s2WGJwVkpzSXZ2QjVZNUJMNjhvSnc4Z3Z5U0Q3ZXktR3lIcVE4RnpsdWh1NlhVX0ZvRXFrbk9DeWRhQ3RVNnVQNFFlUk9VSEYtQ2RDTC1GT25fME0zeUo3bXhsQUM4UTdTeUdTX2lPR3BkRnBYNEFxSnNsMHlDZWtOMDl1Zm1nQUxmQzN3R0xFZ2tmQUVoeGI1YXNXaTQwWVE0b083Qlc0QmFzUktOVFRMVjFyeDM2blBSM0J4TVZnMXhxVU0?oc=5",
-   "pub": "Sun, 04 Oct 2026 08:39:00 GMT"
-  },
-  {
-   "t": "Straße von Hormus: Wie nah sind die USA und Iran einer Lösung? - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54MXV5M193dHRHRWVSdmtSeWRQOE1Nd1NBWkdUd3E2Q2RNUmFrSENNSDJHSGxJYU5rVERvU2JTX3ZsZ2FoSFVadXhxdmVoNUJld0xTNk9zZVA0bUdtY184aEhZaDB5SWc?oc=5",
-   "pub": "Mon, 05 Oct 2026 20:16:00 GMT"
-  },
-  {
-   "t": "Erhöhte Spannung beim Goldpreis: Anleger blicken auf das Fed-Protokoll - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONWg2MlRDdUc2dmFEN05DY1VsRnJOMWR2aF9vTHUwUF96OFVsMV8zUmdrWXlGdkxOU0tLTjQ5ZmY0Q1FKSFhyeDJfbnFLdG4tUjk3aDAtQUJlQWo2REoyNVFFU2hYaE93UVk0QkEwYjNBVjRzb0p3SGZxSTZHYXZJTXJOemNzQ185N3NQMlh4di1OOUtRaXBEVmNrQlBNaUdlczN6YW5mdWI2dnQ2ZFZtT2ZLOTJDcHFUeHNwWGVEemxRUmx1djNqUGZ2OXd4R185aWVOT2JlaEZMY21vZ0VUYQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 05:24:54 GMT"
-  },
-  {
-   "t": "Öl-Route: Iran knüpft Öffnung von Hormus an sieben Bedingungen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaC0tY1c3Ni1lc3NrUDZEeVpMd21QUWpqX0Y2VU9kdWo4Z0IzOGJXdWVyMXFoS2ZZclh2OGZMMzFzUE1scHp4VXZMbzAzYXR1ZnotWi1CMUFXd1hoOVBOLVJId0t4Q1hSaGd0OWswNnN6WGRqTm80ajVkVWtKYmdzem9vUWJGNHVFZlgyVTgzRGgyR1dmV1dYM3J5dUxPOHJ1WVRyMXFmZVdJa2pIVE9FblMydnZWRHhDY1JGMW5RekFPZW1QRncxYVR0NElVMDVjcTFJ?oc=5",
-   "pub": "Mon, 05 Oct 2026 08:02:39 GMT"
-  },
-  {
-   "t": "„Deppen“: Mutmaßliche Iran-Terroristen verrieten sich selbst - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3QtWHVadmhBZkY3VVlRSVBhYk9wRllrOGlJNmdiMDJMazR1ZXpob09CRXAyRldoTERxN2l2dzdNMmxFMUJUZUZRNWFWNWcxd182cU1XczNRT3M5WW40LUdSZ2VmZ3NaZkVfanpHdVh1bktVbFYyN2VKM0loRW8yVkNUdVhISWhVdFBKc1p4ZEY3LW14SVBvY2tWdjJoX183VHFqOHVyT1VFYWtQeTBwSFJQSWI4ZWNZSXR0V3ZyTTZJZERVWHB2dTR2YlRNenRGckEw?oc=5",
-   "pub": "Mon, 05 Oct 2026 20:03:00 GMT"
   }
  ]
 }
