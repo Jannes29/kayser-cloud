@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-10-07T16:31:00Z",
+ "collected_at": "2026-10-07T21:59:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8335,
-   "chg1d_pct": 0.29
+   "price": 0.8329,
+   "chg1d_pct": 0.09
   },
   "USDJPY": {
-   "price": 158.062,
-   "chg1d_pct": 0.06
+   "price": 158.007,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8834,
-   "chg1d_pct": -0.1
+   "price": 1.8822,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 110.052,
-   "chg1d_pct": -0.0
+   "price": 109.99,
+   "chg1d_pct": -0.45
   },
   "EURUSD": {
-   "price": 1.1196,
-   "chg1d_pct": -0.19
+   "price": 1.1199,
+   "chg1d_pct": -0.48
   },
   "GBPCHF": {
-   "price": 1.1012,
-   "chg1d_pct": 0.22
+   "price": 1.1007,
+   "chg1d_pct": -0.31
   },
   "WTI": {
-   "price": 88.84,
-   "chg1d_pct": -0.67
+   "price": 88.94,
+   "chg1d_pct": -0.56
   },
   "BRENT": {
-   "price": 100.81,
-   "chg1d_pct": 0.23
+   "price": 100.95,
+   "chg1d_pct": 0.37
   },
   "GOLD": {
-   "price": 4138.4,
-   "chg1d_pct": -1.16
+   "price": 4136.7,
+   "chg1d_pct": -1.2
   },
   "SPX_FUT": {
-   "price": 7846.0,
-   "chg1d_pct": -0.36
+   "price": 7850.25,
+   "chg1d_pct": -0.3
   },
   "NAS_FUT": {
-   "price": 31348.75,
-   "chg1d_pct": -0.43
+   "price": 31403.75,
+   "chg1d_pct": -0.25
   }
  },
  "headlines": [
+  {
+   "t": "Fed-Protokoll signalisiert: Weitere Zinserhöhung bis Jahresende wahrscheinlich - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeE9mUDBxY1pjN2FXVzc5UUNaRVBMUEVDU044YmVibjlCalkwSjlxRlc0Y2xCZ1Z0MWlHUFVaUE45Uld5UXpBWHU5WVNjbUxZUUdUWms5LWw4dW1JSlJtX3FubzNoQ2JjQmNxWEx2Q3RaMEZwVjZkeXdoYlBrOExJZ3EwNVNlY04xNW5oY0RDVzVTRXFRRXZ3THRqVVFSM3FvTnMwZVczbmpFWHpqRUF3eEdiVWZmMm12WmJWa3dNbWYzOVBuakJlWW1leENkeVlBVlNwS3N2Ymg?oc=5",
+   "pub": "Wed, 07 Oct 2026 20:27:00 GMT"
+  },
   {
    "t": "Iran droht mit Präventivschlägen, USA stellen Machtfrage in Teheran - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94eFg5QXJHVFJ3VHVjay1yS0RoXzZKbTQ2MExJQUpIcDlheHM1MkRPcDRhOXhaQU9rOUxQZTJFdmpWUS0xeDRQOEpyRTU0djFTSjdzUGhIdDZLTFZzV3BhVHdDYVFaNV9BM1lmdjc0eHpWaElmYTI1N3VfSQ?oc=5",
@@ -74,24 +79,9 @@
    "pub": "Wed, 07 Oct 2026 09:25:11 GMT"
   },
   {
-   "t": "Iran: Die politische Macht der Musik - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxaURqQVdYc0RWaTdoQ3pWNW03cGtHbG5BbUt4QktlRjdnd01MVzB4SmJibFRDbzh1clAtbjJLM09oS2VKTWJwcG13c3V4X0pLbE1LQk1EdFBxNEZvTFpxN1RmV0s5c0dQYjdjLUZqTHlSY3EzSXZn0gF3QVVfeXFMUFJHcWVSSGNkc0t5eWE2WHpzT0dLTGZWY3hkNGJhWEZHT19oY1lZU19SQmRmWjZWVVFPSVJMby0wbjFHSEJVT0VmZTVjX2lxZDYxdFVma0NXXzlXVWMyQmkwZWNMQUlrS29tNGt4RmR5QS0tVUU5SFk?oc=5",
-   "pub": "Wed, 07 Oct 2026 07:34:15 GMT"
-  },
-  {
-   "t": "Funkmitschnitte: USA setzen ihre Blockade iranischer Häfen notfalls mit Waffengewalt durch - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hZbmpRbTFvLU9xdFZIRDRqNmNTc3Y1ZDRKU0VlSnNXY19SRFdGR0JnaWhiYk1wVWpCN0w2TVdNcWpaR1o1WlVEQlVhUWVQLTB5T1NxSlkxWWtacFc2UjcxWVF5anlQaTdrcDdnY3BTV0EzQVo5eVUyWEk5aTdWZ21zeWVHSE1QTkhvUTBCQlNzUEhmQW1mMHktRjhkODhpSzNqNEFWT0RIZklsX2RhZW9sQVVwbU9IMl94MW1TeVVHamd0Wjk3UUJ1Sy1hNnlKdFVyQnl5dWI2YWFKMnpHSkpYLTgwQQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 10:54:35 GMT"
-  },
-  {
-   "t": "„Sollen sie doch Los Angeles auslöschen“ – Trump löst mit Iran-Aussage Empörung aus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSDAyTVdxZ0g4R21jMmZUV0tYSDhCYjgxenJ3OXJ1dzZUY0djMkY5OWdoQ2lKcXAwZWFiN1I0VnZfcXBTYXRvYUlBaFd0c2lHWG9mOUxuQ0IzbzBHR2lKZC1wWmRzSXZMdTd1M0Faa1kyb1BWNGY5dWdfQk5fMmlSOE50c0d2NmkyeGJTZGRfcGdLVlc2MHhSUlBFNDQwZUhqRUcyR0dXOHRKZjRBdlVfWVpuZkRCYVlTU2xsYW02WkZyNng1Z1V6STJjOEZYMnczaVUzcHhnWEVMQURwRjNBNEFUcTJfSUpwVGNwaGJKVHBZTkt1ZUo1M0hpN1pfdw?oc=5",
-   "pub": "Wed, 07 Oct 2026 08:50:46 GMT"
-  },
-  {
-   "t": "„Lasst den Iran Atom-Bombe über L.A. abwerfen!“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGVub01XQUhWU3kxeTUxWXEycTh2UmphaEJ6cWJUMGliM0lHdVl1MV8wbWdOT0dGdXBaU0ljcVVKc3E5Nm02N3JFY3RONW5XNUNLSFpUM3NVTVFMMnlGRUk2OEh4eVNyenJSTTZUQkNIeXJ3STJkYm5LdWZXUUlldnJac3FhdmtsbUt5UDJuTGNYVlFzeWJHa2QzRE9hbjlfVkJBanFINm1FWlI5ZVo0c3IwU1NwYzl1OEFyXzlEX09WdXZZNzlIaEk0UmdLUjVzb2psYTJKTFFYeEZkZmc?oc=5",
-   "pub": "Wed, 07 Oct 2026 05:21:26 GMT"
+   "t": "Luftqualitätsindex (AQI) für Vinh Yen und Luftverschmutzung in Vietnam | IQAir Deutschland - IQAir",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Q0JaclhNbm53cGUyZU9hS2pFV2IweHROaFFSclh1UzhUVkZiQnRLWUE0Zmt0Q3kwbEFLRENveGN0RkJhSFg3UjJvbnRvTGlDQ2t0R0RvT2xELXNGaVBhc2hHZmRHTEtsWXI3TF9B?oc=5",
+   "pub": "Wed, 07 Oct 2026 17:55:44 GMT"
   },
   {
    "t": "Iran will russische Weiterentwicklungen der Shahed-Drohnen - ESUT - Europäische Sicherheit & Technik",
@@ -99,14 +89,24 @@
    "pub": "Wed, 07 Oct 2026 06:49:33 GMT"
   },
   {
-   "t": "Geschäft mit der Knappheit: Iran-Krieg beschert Shell Fabel-Rekord bei Raffinerie-Marge - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVG9iN28xcEdmaTU1dWd1a3o0aVYzcUhjLUtGdjYwUzRIRzBTRm9pek1DYXpFVjh2OWFmWFc5TXRSMHhxbndHb2czQnB5dlFEaktSUkVlVjZCRjI5VWVKMzVOb21oT0VOVWZxMl9sV0wya3hnd0wyZUVZajdZdUNGMXZUZHAtSTlxYTREVm9aRm1fVnR4SGMwUkFHdXlIT0RYdDNjNVZFSXdVZw?oc=5",
-   "pub": "Wed, 07 Oct 2026 14:43:01 GMT"
+   "t": "„Sollen sie doch Los Angeles auslöschen“ – Trump löst mit Iran-Aussage Empörung aus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSDAyTVdxZ0g4R21jMmZUV0tYSDhCYjgxenJ3OXJ1dzZUY0djMkY5OWdoQ2lKcXAwZWFiN1I0VnZfcXBTYXRvYUlBaFd0c2lHWG9mOUxuQ0IzbzBHR2lKZC1wWmRzSXZMdTd1M0Faa1kyb1BWNGY5dWdfQk5fMmlSOE50c0d2NmkyeGJTZGRfcGdLVlc2MHhSUlBFNDQwZUhqRUcyR0dXOHRKZjRBdlVfWVpuZkRCYVlTU2xsYW02WkZyNng1Z1V6STJjOEZYMnczaVUzcHhnWEVMQURwRjNBNEFUcTJfSUpwVGNwaGJKVHBZTkt1ZUo1M0hpN1pfdw?oc=5",
+   "pub": "Wed, 07 Oct 2026 08:50:46 GMT"
   },
   {
    "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
    "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
+  },
+  {
+   "t": "„Lasst den Iran Atom-Bombe über L.A. abwerfen!“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGVub01XQUhWU3kxeTUxWXEycTh2UmphaEJ6cWJUMGliM0lHdVl1MV8wbWdOT0dGdXBaU0ljcVVKc3E5Nm02N3JFY3RONW5XNUNLSFpUM3NVTVFMMnlGRUk2OEh4eVNyenJSTTZUQkNIeXJ3STJkYm5LdWZXUUlldnJac3FhdmtsbUt5UDJuTGNYVlFzeWJHa2QzRE9hbjlfVkJBanFINm1FWlI5ZVo0c3IwU1NwYzl1OEFyXzlEX09WdXZZNzlIaEk0UmdLUjVzb2psYTJKTFFYeEZkZmc?oc=5",
+   "pub": "Wed, 07 Oct 2026 05:21:26 GMT"
+  },
+  {
+   "t": "Funkmitschnitte: USA setzen ihre Blockade iranischer Häfen notfalls mit Waffengewalt durch - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hZbmpRbTFvLU9xdFZIRDRqNmNTc3Y1ZDRKU0VlSnNXY19SRFdGR0JnaWhiYk1wVWpCN0w2TVdNcWpaR1o1WlVEQlVhUWVQLTB5T1NxSlkxWWtacFc2UjcxWVF5anlQaTdrcDdnY3BTV0EzQVo5eVUyWEk5aTdWZ21zeWVHSE1QTkhvUTBCQlNzUEhmQW1mMHktRjhkODhpSzNqNEFWT0RIZklsX2RhZW9sQVVwbU9IMl94MW1TeVVHamd0Wjk3UUJ1Sy1hNnlKdFVyQnl5dWI2YWFKMnpHSkpYLTgwQQ?oc=5",
+   "pub": "Wed, 07 Oct 2026 10:54:35 GMT"
   }
  ]
 }
