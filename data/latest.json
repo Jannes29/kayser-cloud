@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-07T21:59:45Z",
+ "collected_at": "2026-10-08T01:57:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8329,
-   "chg1d_pct": 0.09
+   "price": 0.8323,
+   "chg1d_pct": 0.01
   },
   "USDJPY": {
-   "price": 158.007,
-   "chg1d_pct": -0.18
-  },
-  "GBPCAD": {
-   "price": 1.8822,
-   "chg1d_pct": -0.16
-  },
-  "AUDJPY": {
-   "price": 109.99,
-   "chg1d_pct": -0.45
-  },
-  "EURUSD": {
-   "price": 1.1199,
-   "chg1d_pct": -0.48
-  },
-  "GBPCHF": {
-   "price": 1.1007,
+   "price": 157.804,
    "chg1d_pct": -0.31
   },
+  "GBPCAD": {
+   "price": 1.8837,
+   "chg1d_pct": -0.08
+  },
+  "AUDJPY": {
+   "price": 109.929,
+   "chg1d_pct": -0.5
+  },
+  "EURUSD": {
+   "price": 1.1211,
+   "chg1d_pct": -0.38
+  },
+  "GBPCHF": {
+   "price": 1.1001,
+   "chg1d_pct": -0.36
+  },
   "WTI": {
-   "price": 88.94,
-   "chg1d_pct": -0.56
+   "price": 89.62,
+   "chg1d_pct": 0.2
   },
   "BRENT": {
-   "price": 100.95,
-   "chg1d_pct": 0.37
+   "price": 101.87,
+   "chg1d_pct": 1.28
   },
   "GOLD": {
-   "price": 4136.7,
-   "chg1d_pct": -1.2
+   "price": 4157.8,
+   "chg1d_pct": -0.7
   },
   "SPX_FUT": {
-   "price": 7850.25,
-   "chg1d_pct": -0.3
+   "price": 7855.25,
+   "chg1d_pct": -0.24
   },
   "NAS_FUT": {
-   "price": 31403.75,
-   "chg1d_pct": -0.25
+   "price": 31444.25,
+   "chg1d_pct": -0.12
   }
  },
  "headlines": [
@@ -79,14 +79,14 @@
    "pub": "Wed, 07 Oct 2026 09:25:11 GMT"
   },
   {
+   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
+   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
+  },
+  {
    "t": "Luftqualitätsindex (AQI) für Vinh Yen und Luftverschmutzung in Vietnam | IQAir Deutschland - IQAir",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Q0JaclhNbm53cGUyZU9hS2pFV2IweHROaFFSclh1UzhUVkZiQnRLWUE0Zmt0Q3kwbEFLRENveGN0RkJhSFg3UjJvbnRvTGlDQ2t0R0RvT2xELXNGaVBhc2hHZmRHTEtsWXI3TF9B?oc=5",
    "pub": "Wed, 07 Oct 2026 17:55:44 GMT"
-  },
-  {
-   "t": "Iran will russische Weiterentwicklungen der Shahed-Drohnen - ESUT - Europäische Sicherheit & Technik",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHlNQmlOXzk1Sm83SGM4bDVkT0tyZHExX1BtX29SY2tFLXF6RVBOalBnU0hvenFXclZSaW8wMWhJLVhkSEtPVjUyQ3FETFRxdkxmZzFyQTk0MkRuTlVUc0E0eko1RVVwRlVKWEd1YWtkTjlJYjdOZXlZUFRPS3JnNw?oc=5",
-   "pub": "Wed, 07 Oct 2026 06:49:33 GMT"
   },
   {
    "t": "„Sollen sie doch Los Angeles auslöschen“ – Trump löst mit Iran-Aussage Empörung aus - WELT",
@@ -94,19 +94,19 @@
    "pub": "Wed, 07 Oct 2026 08:50:46 GMT"
   },
   {
-   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
-   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
-  },
-  {
-   "t": "„Lasst den Iran Atom-Bombe über L.A. abwerfen!“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOGVub01XQUhWU3kxeTUxWXEycTh2UmphaEJ6cWJUMGliM0lHdVl1MV8wbWdOT0dGdXBaU0ljcVVKc3E5Nm02N3JFY3RONW5XNUNLSFpUM3NVTVFMMnlGRUk2OEh4eVNyenJSTTZUQkNIeXJ3STJkYm5LdWZXUUlldnJac3FhdmtsbUt5UDJuTGNYVlFzeWJHa2QzRE9hbjlfVkJBanFINm1FWlI5ZVo0c3IwU1NwYzl1OEFyXzlEX09WdXZZNzlIaEk0UmdLUjVzb2psYTJKTFFYeEZkZmc?oc=5",
-   "pub": "Wed, 07 Oct 2026 05:21:26 GMT"
-  },
-  {
    "t": "Funkmitschnitte: USA setzen ihre Blockade iranischer Häfen notfalls mit Waffengewalt durch - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hZbmpRbTFvLU9xdFZIRDRqNmNTc3Y1ZDRKU0VlSnNXY19SRFdGR0JnaWhiYk1wVWpCN0w2TVdNcWpaR1o1WlVEQlVhUWVQLTB5T1NxSlkxWWtacFc2UjcxWVF5anlQaTdrcDdnY3BTV0EzQVo5eVUyWEk5aTdWZ21zeWVHSE1QTkhvUTBCQlNzUEhmQW1mMHktRjhkODhpSzNqNEFWT0RIZklsX2RhZW9sQVVwbU9IMl94MW1TeVVHamd0Wjk3UUJ1Sy1hNnlKdFVyQnl5dWI2YWFKMnpHSkpYLTgwQQ?oc=5",
    "pub": "Wed, 07 Oct 2026 10:54:35 GMT"
+  },
+  {
+   "t": "Iran will russische Weiterentwicklungen der Shahed-Drohnen - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHlNQmlOXzk1Sm83SGM4bDVkT0tyZHExX1BtX29SY2tFLXF6RVBOalBnU0hvenFXclZSaW8wMWhJLVhkSEtPVjUyQ3FETFRxdkxmZzFyQTk0MkRuTlVUc0E0eko1RVVwRlVKWEd1YWtkTjlJYjdOZXlZUFRPS3JnNw?oc=5",
+   "pub": "Wed, 07 Oct 2026 06:49:33 GMT"
+  },
+  {
+   "t": "Fed-Protokoll: Mehrheit der Währungshüter rechnet mit weiterer Zinserhöhung bis Jahresende - Investing.com Deutsch",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkt2U0gzbkszczVRaXhITl96cjB6VlJlR093UllQc0h0aHNNYWVyZnF5NUlBaUkxa2daUnp6U3VXcEFZS0lSejRwa0I2aWxPV1ota3Z4ZEtOYnYwb2VGWnVQd0J5QnI0VkloR3VmZW9CUTRXeEtPbGJzVE9kUHRyTUszTXBUZTRoYVR2NUcwczdYd0FBUjNJaC1HTEpnUm8ySnBhZjhrbDY3YkY0elp6VUJ3aE9wb29POTBoYmlOOXR3UzVqWkQyN19vaXdpbmN2MlFwR3pB?oc=5",
+   "pub": "Wed, 07 Oct 2026 18:00:00 GMT"
   }
  ]
 }
