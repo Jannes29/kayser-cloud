@@ -1,62 +1,77 @@
 {
- "collected_at": "2026-10-08T01:57:03Z",
+ "collected_at": "2026-10-08T09:00:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8323,
-   "chg1d_pct": 0.01
+   "price": 0.8338,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 157.804,
-   "chg1d_pct": -0.31
+   "price": 158.243,
+   "chg1d_pct": -0.03
   },
   "GBPCAD": {
-   "price": 1.8837,
-   "chg1d_pct": -0.08
+   "price": 1.8809,
+   "chg1d_pct": -0.23
   },
   "AUDJPY": {
-   "price": 109.929,
-   "chg1d_pct": -0.5
+   "price": 110.022,
+   "chg1d_pct": -0.42
   },
   "EURUSD": {
-   "price": 1.1211,
-   "chg1d_pct": -0.38
+   "price": 1.1193,
+   "chg1d_pct": -0.54
   },
   "GBPCHF": {
-   "price": 1.1001,
-   "chg1d_pct": -0.36
+   "price": 1.1002,
+   "chg1d_pct": -0.35
   },
   "WTI": {
-   "price": 89.62,
-   "chg1d_pct": 0.2
+   "price": 91.77,
+   "chg1d_pct": 3.95
   },
   "BRENT": {
-   "price": 101.87,
-   "chg1d_pct": 1.28
+   "price": 104.14,
+   "chg1d_pct": 3.93
   },
   "GOLD": {
-   "price": 4157.8,
-   "chg1d_pct": -0.7
+   "price": 4151.2,
+   "chg1d_pct": 0.25
   },
   "SPX_FUT": {
-   "price": 7855.25,
-   "chg1d_pct": -0.24
+   "price": 7825.75,
+   "chg1d_pct": -0.34
   },
   "NAS_FUT": {
-   "price": 31444.25,
-   "chg1d_pct": -0.12
+   "price": 31250.5,
+   "chg1d_pct": -0.48
   }
  },
  "headlines": [
   {
+   "t": "Tropensturm zieht Richtung USA: Hurrikan und Angst vor neuen Iran-Attacken treiben den Ölpreis - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUs0TTc1RkdrdFFwRmJ3SkUzZGlDNXNBczdhVzRndUIycEdKTXFuTGdKaU9rS2RIalpiZEhfVFI1RnJWLWpIcWQ4UmxFaHpXbVloUWk5aHVwVklBbUh1TmpHZENjWkloZkZ6SFo5MWJQakFsVlQ3Vm83TkViSWNhUHpBQ1J3b1VLSUx6blk5dWpBNC1HT21rX2U5N3NYZFZZZ1BzU0dxUnhxa3FXLTNN?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:46:00 GMT"
+  },
+  {
+   "t": "USA bereiten neue Eskalation im Iran-Krieg vor – Attacken auf Tanker nehmen zu - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFBLQWNwSVpQRnpZSWk0WUFDSV9DbmYySGU2LTZMZlAzdzNQNmNiN1Fpb25hTHFCN0FrOWxCcmgxbklYem1PYzlLaFdaUEpCaDBTdUpBN1h2SllKVl9ua1Jlcmp5U1VQdjZ1bjdsLWtxLS1xMU56NkxMVjhXZ3hNcGFjN1dfRHlFYTNRUnctUml6S0RXVUtnblBZNDM2bjRuTUMwVzRORUVGUnZEd2lwUEY1U2gxTVRIVEItM0Fac1dTdm8?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:38:47 GMT"
+  },
+  {
+   "t": "Ölpreise steigen wegen Sorgen vor eskalierendem Iran-Krieg - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1dweHB6aVlUQllhNFJyZTRNdW5JNy1WeEs1T1g3Y3JPdjk4alY0YnprU3hpX3dhV3R3MDBFNlNNTmRkazB6ZE5NU0YxVXJCY0UxYmZKUzZMc1ZTV3lmeGtVaWlkUHFEMFRoOFZfQUdzZkhJcUpVbm1QZzJzTzdZT2RTcGFnbXZmUUktd2ZCYlB2ZS1kU25kLQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:37:10 GMT"
+  },
+  {
+   "t": "Trump erwägt Angriff auf Iran vor den Midterms, um Unterstützung zu gewinnen – Bericht - Rolling Stone",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFJodnh5NmlrYXVLZ3pjU2FLWTcxQmNTamtlSUpOdmNWek5BOUZMZUV2UDQzYkViZTdVakp3ZUhJT1dHVExhMjRfNWd6QWtKYVFpeWljdlNIU2hEMmt5SHJGYUFZNUo4aVl1aG5WV2FId2xRUE9NMm5iWWQwYVRiejZ3?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:29:51 GMT"
+  },
+  {
    "t": "Fed-Protokoll signalisiert: Weitere Zinserhöhung bis Jahresende wahrscheinlich - Finanzen.net",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeE9mUDBxY1pjN2FXVzc5UUNaRVBMUEVDU044YmVibjlCalkwSjlxRlc0Y2xCZ1Z0MWlHUFVaUE45Uld5UXpBWHU5WVNjbUxZUUdUWms5LWw4dW1JSlJtX3FubzNoQ2JjQmNxWEx2Q3RaMEZwVjZkeXdoYlBrOExJZ3EwNVNlY04xNW5oY0RDVzVTRXFRRXZ3THRqVVFSM3FvTnMwZVczbmpFWHpqRUF3eEdiVWZmMm12WmJWa3dNbWYzOVBuakJlWW1leENkeVlBVlNwS3N2Ymg?oc=5",
    "pub": "Wed, 07 Oct 2026 20:27:00 GMT"
-  },
-  {
-   "t": "Iran droht mit Präventivschlägen, USA stellen Machtfrage in Teheran - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94eFg5QXJHVFJ3VHVjay1yS0RoXzZKbTQ2MExJQUpIcDlheHM1MkRPcDRhOXhaQU9rOUxQZTJFdmpWUS0xeDRQOEpyRTU0djFTSjdzUGhIdDZLTFZzV3BhVHdDYVFaNV9BM1lmdjc0eHpWaElmYTI1N3VfSQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 14:25:52 GMT"
   },
   {
    "t": "„Sollen sie doch Los Angeles und San Diego auslöschen“ Trumps Iran-Aussage empört Politiker, Stars – und US-Republikaner - Tagesspiegel",
@@ -64,19 +79,9 @@
    "pub": "Wed, 07 Oct 2026 13:58:00 GMT"
   },
   {
-   "t": "Fed: Welche Signale bewegen heute Abend die Wall Street? - Der Aktionär",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXFaQ1NENkxFbEtiUUtwb0hobmk1ZVhvUDQ2MV93dko0TGlPbmVJSU9VdzNFdkF0R2JsNThTbDZQUHU1bE1DTzNMSk5lVVVCVjYybzVXeDFNSlhCLTVPUndJOWFoWTZkd3N0Q3hkbE1zaWx4ZDNPeHB4WmtJb3VsSmZ4QjVielktc2JreWhocXRtR2dRQXdMWjN1S0NoSTAyLXZrTnJrZEhUdmwxOGhFVXN4Zmd6ekV5MDlWVXFqS3JCN1E?oc=5",
-   "pub": "Wed, 07 Oct 2026 09:39:17 GMT"
-  },
-  {
-   "t": "Katar fordert Waffenstillstand im Iran-Krieg – und enthüllt, was hinter Kulissen wirklich verhandelt wird - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUJBVHM5djI4VkN5WjZMSEhTVmpPNHVaWDBGeTUySTJqcDhXYW9fOEFBSEhveTJyVkl5VG9XZWZXNjZXRkttV29HSHF3TkNOcDhrVk1selg3cE1mVldzX05TbFZfcVkyYVRYam5hODljS2ZfbHFVSXpucUZsUFRPeng0N2pINTBLWmFPVUtnS3RsdW92LThISjFXeTRYbUMxWWhOUTdzeDVyYTBqZUE?oc=5",
-   "pub": "Wed, 07 Oct 2026 11:25:12 GMT"
-  },
-  {
-   "t": "Iran kritisiert Frankreich wegen Polizeigewalt – Tausende Tote bei eigenen Protesten - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQWR1dWk4NFJBQ3R4eVdvNUtJdmdLejZWSC0tTWJNSDRBY3JlTVE2S0lnYWVlVmpjTkJNajYwcWtoWjI0OWpHQ3g4NV9OWHNLbmxLcEZUV082aGhkQjhqUllEMXlNdUtfUGNCX3hLNGtOT2tpTjU0Z1N4WDNzWWNQVTRhSWZDbmVhbEt2TnlOaTk?oc=5",
-   "pub": "Wed, 07 Oct 2026 09:25:11 GMT"
+   "t": "Iran: Mehr Druck auf Frauen ohne Hidschab - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVREptX1RCMWNiRGVBS2gyY0k0RnpfRktWOGFfNEF1ZzRaeU1HTk03NW9uUmhaN0JzNlJMcDFVS01sV3BlanYwdkN2UC1XaWxBTUp2RURRUzRtaVdfTlU5eVhxN2dScDdFeDd1TG1kT3NzRGszSDhBc0x3bEtPQdIBfkFVX3lxTE9lVjZvbkdaSjdBUzlGR3NPRE5xLUNJelBIU0h1ZENjRURDZGpOd05PaUEwQ0NJTVlPazVUNmUzbjBoV014U3pWSnNnU0J4eWFRVzl6T09mLW4zVEJUcWh0a3oyTGZ4VXdVWjhvM1FNaXVDSDNkZzFmalN5R2x0QQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:01:32 GMT"
   },
   {
    "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
@@ -84,29 +89,24 @@
    "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
   },
   {
-   "t": "Luftqualitätsindex (AQI) für Vinh Yen und Luftverschmutzung in Vietnam | IQAir Deutschland - IQAir",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15Q0JaclhNbm53cGUyZU9hS2pFV2IweHROaFFSclh1UzhUVkZiQnRLWUE0Zmt0Q3kwbEFLRENveGN0RkJhSFg3UjJvbnRvTGlDQ2t0R0RvT2xELXNGaVBhc2hHZmRHTEtsWXI3TF9B?oc=5",
-   "pub": "Wed, 07 Oct 2026 17:55:44 GMT"
+   "t": "Fed-Protokoll: Nächste Zinserhöhung 2026 – was das für Aktien jetzt bedeutet - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNzRfVTRBcUFhVzdxQmpkZXdzXzBjeF9pYXliUWVEUWpnRGI5ODVRT3Fpb283Vi1BX2xLOEFkTVNyd1JYdXhSSVFKQnRJYnVvdkhGa2NJTVVjSmNFQ1d5R2VCZy0yQkZ2U1JpNHh5d1NYcWtBdHlWYWRWSHRwN0kwR1U2ZFpUSHQtUmcyZUNtZzdMOW4zTC1xQlhSNFdMVmdMNF9XdkRnaG9pTmhhMFRyUUhOZ1pDOUxXdnF0LWcyMFlRMUxwY0kxXzNJaTZLLTg4cjcySlFVWHRhQzZjc21SUA?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:06:44 GMT"
   },
   {
-   "t": "„Sollen sie doch Los Angeles auslöschen“ – Trump löst mit Iran-Aussage Empörung aus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSDAyTVdxZ0g4R21jMmZUV0tYSDhCYjgxenJ3OXJ1dzZUY0djMkY5OWdoQ2lKcXAwZWFiN1I0VnZfcXBTYXRvYUlBaFd0c2lHWG9mOUxuQ0IzbzBHR2lKZC1wWmRzSXZMdTd1M0Faa1kyb1BWNGY5dWdfQk5fMmlSOE50c0d2NmkyeGJTZGRfcGdLVlc2MHhSUlBFNDQwZUhqRUcyR0dXOHRKZjRBdlVfWVpuZkRCYVlTU2xsYW02WkZyNng1Z1V6STJjOEZYMnczaVUzcHhnWEVMQURwRjNBNEFUcTJfSUpwVGNwaGJKVHBZTkt1ZUo1M0hpN1pfdw?oc=5",
-   "pub": "Wed, 07 Oct 2026 08:50:46 GMT"
+   "t": "Fed plant wohl nur noch eine Erhöhung – Händler wetten auf drei weitere - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdUNKd2hlX0dMc2VBM0F5Q2Ewa0IwdmNIci0temg3VUtmX2dmRVRENlNzY3h6WjZVUVNDV1Z6bjlEVDNHOVFjWmJlWjF0NFE4VGFabmRLUUt4RVlMVWRadWo4d3lIVm1fYUs5M3NfSGFwMjhReFVjNHlrVUxoaTJZT0xzLVc1eWpPR0FKQUk0UmpYVHBfczBrOF9uaVdsNDhvcF93dERnRWRjb25ZbXYxaGpoRlA?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:45:23 GMT"
   },
   {
-   "t": "Funkmitschnitte: USA setzen ihre Blockade iranischer Häfen notfalls mit Waffengewalt durch - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hZbmpRbTFvLU9xdFZIRDRqNmNTc3Y1ZDRKU0VlSnNXY19SRFdGR0JnaWhiYk1wVWpCN0w2TVdNcWpaR1o1WlVEQlVhUWVQLTB5T1NxSlkxWWtacFc2UjcxWVF5anlQaTdrcDdnY3BTV0EzQVo5eVUyWEk5aTdWZ21zeWVHSE1QTkhvUTBCQlNzUEhmQW1mMHktRjhkODhpSzNqNEFWT0RIZklsX2RhZW9sQVVwbU9IMl94MW1TeVVHamd0Wjk3UUJ1Sy1hNnlKdFVyQnl5dWI2YWFKMnpHSkpYLTgwQQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 10:54:35 GMT"
+   "t": "Bitcoin fällt weiter: Warum Fed und Ölpreise den Markt belasten - BTC-ECHO",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORy1hb2VwenhBc0E3amwyWHBIY25xeW51OTVkX2p6VU56QlUyRzNBYzhpWHNjOWdhVUl1czdoeTV3cDhsYnJMNHEwSXJPdC1HYURGeWpjMkhGQ0s3elYtUTY1MlJxdnZtNndmMUdRT3RMN2V3ZEd6X1o4bG5FOEFPVTVrbnBBd01RNHNJVU1BRnY0TTly?oc=5",
+   "pub": "Thu, 08 Oct 2026 06:14:29 GMT"
   },
   {
-   "t": "Iran will russische Weiterentwicklungen der Shahed-Drohnen - ESUT - Europäische Sicherheit & Technik",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHlNQmlOXzk1Sm83SGM4bDVkT0tyZHExX1BtX29SY2tFLXF6RVBOalBnU0hvenFXclZSaW8wMWhJLVhkSEtPVjUyQ3FETFRxdkxmZzFyQTk0MkRuTlVUc0E0eko1RVVwRlVKWEd1YWtkTjlJYjdOZXlZUFRPS3JnNw?oc=5",
-   "pub": "Wed, 07 Oct 2026 06:49:33 GMT"
-  },
-  {
-   "t": "Fed-Protokoll: Mehrheit der Währungshüter rechnet mit weiterer Zinserhöhung bis Jahresende - Investing.com Deutsch",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRkt2U0gzbkszczVRaXhITl96cjB6VlJlR093UllQc0h0aHNNYWVyZnF5NUlBaUkxa2daUnp6U3VXcEFZS0lSejRwa0I2aWxPV1ota3Z4ZEtOYnYwb2VGWnVQd0J5QnI0VkloR3VmZW9CUTRXeEtPbGJzVE9kUHRyTUszTXBUZTRoYVR2NUcwczdYd0FBUjNJaC1HTEpnUm8ySnBhZjhrbDY3YkY0elp6VUJ3aE9wb29POTBoYmlOOXR3UzVqWkQyN19vaXdpbmN2MlFwR3pB?oc=5",
-   "pub": "Wed, 07 Oct 2026 18:00:00 GMT"
+   "t": "EURUSD stabil bei 1,12: Fed-Protokoll offenbart anhaltende Zinsbereitschaft 🦅 - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZFZPUjBteG5zcTlwNldxSGN5d3FvazRjWm1lYU5VcHJKS1BpdzlwTTJWQi1RTHVETlNsdXdYdExQZy12YXpMX2g3WXNtMkh1UDVEYk01Zmw5Rm5oSHdaSDVYMW42QlBQTkszaENoOHB1TjRlMXhVVWQyYXlJUi1TQklZZzdtYjR4X1J5aEFvbkZpZUEzXzZDdlhFZ1VvcDdDVG5QUnFMMUg1anpzVEgxN2padVluRmJCTWxZVHEyTElBZw?oc=5",
+   "pub": "Wed, 07 Oct 2026 18:14:00 GMT"
   }
  ]
 }
