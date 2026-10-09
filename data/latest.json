@@ -1,57 +1,62 @@
 {
- "collected_at": "2026-10-09T16:14:28Z",
+ "collected_at": "2026-10-09T20:58:10Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8306,
-   "chg1d_pct": -0.29
+   "price": 0.8299,
+   "chg1d_pct": -0.18
   },
   "USDJPY": {
-   "price": 158.319,
-   "chg1d_pct": 0.16
+   "price": 158.288,
+   "chg1d_pct": 0.14
   },
   "GBPCAD": {
-   "price": 1.8879,
-   "chg1d_pct": 0.23
+   "price": 1.8864,
+   "chg1d_pct": 0.26
   },
   "AUDJPY": {
-   "price": 110.47,
-   "chg1d_pct": 0.39
+   "price": 110.491,
+   "chg1d_pct": 0.49
   },
   "EURUSD": {
-   "price": 1.1194,
-   "chg1d_pct": -0.07
+   "price": 1.1206,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
    "price": 1.0986,
-   "chg1d_pct": -0.19
+   "chg1d_pct": -0.13
   },
   "WTI": {
-   "price": 91.89,
-   "chg1d_pct": 0.44
+   "price": 91.56,
+   "chg1d_pct": 0.08
   },
   "BRENT": {
-   "price": 104.48,
-   "chg1d_pct": 0.19
+   "price": 104.32,
+   "chg1d_pct": 0.04
   },
   "GOLD": {
-   "price": 4217.0,
-   "chg1d_pct": 1.44
+   "price": 4221.0,
+   "chg1d_pct": 1.54
   },
   "SPX_FUT": {
-   "price": 7846.25,
-   "chg1d_pct": 0.38
+   "price": 7865.5,
+   "chg1d_pct": 0.63
   },
   "NAS_FUT": {
-   "price": 31052.5,
-   "chg1d_pct": 0.27
+   "price": 31131.0,
+   "chg1d_pct": 0.52
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: Donald Trump schließt Angriff vor Kongresswahlen aus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
+   "t": "Wie der Iran-Krieg das Leben in Bandar Abbas verändert - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFYXM5Q3RLU1dPUEJCaHBjSVd6N1BHeF9tdWh4c1FOc1UtTlRuWGZJbGd1cjBnb2RCQ0NmWk5tZDVxOXpfa29OZHZrU0hXMlNtLXdlUElGREozUkExdWRHbDBuMDdhTENzWkY0S2s3TQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 18:16:19 GMT"
+  },
+  {
+   "t": "Gericht in Iran verurteilt 23-Jährige wegen eines Social-Media-Posts zum Tode - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS1JoV1laV1BpampYbzgxdWFHbUw2WEU5ay1xSjNOaTlxOWliR2ozd3NVQ1pPeDlpRHV1TXVVX2NPM2ZRMDF2X1dUZ1JpWjRmMy1KLU5tRDBvRUlzQ2g5UC00V0NFQ2l2R2k0SXdWTTd1SGhlTEs1bFFxdE85Q253Rjc5elRQOTVvaXBCM1NCNXNVWGFrcnVsZUEwbGdpcUxvZ2NOdzE2d1B1LVVRT2dGbXdIbm1OUW5xNjRMaEZHaWs1YmZpQVRPMGk4NXhIbm5tUDVHN1JTWjRYVVA2Q3c?oc=5",
+   "pub": "Fri, 09 Oct 2026 14:23:00 GMT"
   },
   {
    "t": "Lage im Iran: Ein islamistisches Nordkorea - DIE ZEIT",
@@ -59,14 +64,14 @@
    "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
   },
   {
-   "t": "Wie sich der Iran-Krieg auf die Menschen in Bandar Abbas auswirkt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05d0pqam1xX0lqRTlPUkNLYlN6QmxMT0NQSFRKTjRXOUVMdVRNN2dRYzFVd3RteENPWV9FVjNRdkhDZXJtbW1rZ0FpWnh2MXZkMlZIb05oWUVScVBHbll3?oc=5",
-   "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
-  },
-  {
    "t": "Trump dementiert Iran-Angriff vor Midterms – Medien berichten von Plänen, Putin stellt sich an Irans Seite - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjk0bkJoMmlsYkxJdllRX2o1Y183N1V2QXM4cGRvZU5tVzdSZWN5S0RsRkdUS0ljTXlIYXQ2ZGR6R21nUzZ2OS0teVEyQjZSSDBQV1ltSUY4UlVQbFh2WWphNVd5bm1wQTFidW5NMWI3VTQxQnliY0p1aHJQTTR4VzV2V2tER18wZTJORG56V3ROZm5XNGZtYURiOXVVUEdaYVRVUm01LUU?oc=5",
    "pub": "Fri, 09 Oct 2026 09:22:36 GMT"
+  },
+  {
+   "t": "Ölpreis-Sorgen und Fed-Protokoll setzen Aktienmärkte unter Druck - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejhyU0lsNHA3cU55MmZ1LTJaQ216c0VTQXc1ODBjSDNvU0RSXzdZQXJxYjgzaUVqa0tJcVlnX0s1RTFySlB5aWJQMEU1U3hySW4xRHQ3ZGdXVEdUa21DdUhZQXhQWkpaSEVtVm9waGVsR29zWTBPLTVKbHBEaVhrSFBZODgteC10RW5PbENiaGJEaG80eHhhdUMxb282bDRHR1dpUlBFQkxOb3VVMEJ6WEZaYjdXLUE?oc=5",
+   "pub": "Fri, 09 Oct 2026 20:48:52 GMT"
   },
   {
    "t": "Ölmarkt: Iran-Konflikt sorgt weiter für starke Preisschwankungen - Logistik Heute",
@@ -74,9 +79,19 @@
    "pub": "Fri, 09 Oct 2026 07:28:00 GMT"
   },
   {
-   "t": "Social-Media-Post: Wegen angeblicher Prophetenbeleidigung – 23‑jährigen Frau droht im Iran die Hinrichtung - WELT",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMEhnNV9GYktLNDhOQjhqNndtRkkwV2RxNk1fWXotbURyeHZJQVN3Smt2c0YyYkpQQWJxNGtHRHFlTUJacnQ4cWZjZnRCenVxbFpQdWRGb1NFd0E1T1BPOWdhRHJPdnlCM3NkY3FTbmg1eDZ3U0sxeGpjX09YVU1USHliSWdGcWVFeGlPUk45TDFUOUlkOFRldko3OFgxMFdrWDRNQjFySzVYY0R1V2ZpdmZZVDJQemJyNDlwdm9JNkg3VExWX0pwZGtQaVZSUnJNZ1g5Wk54dUZYUzBSbzBkQzktaDUwUm1hWXFpSzJSSXUzNnhWbjE4U081RUlTLVYzNUE?oc=5",
-   "pub": "Fri, 09 Oct 2026 14:57:19 GMT"
+   "t": "Wie sich der Iran-Krieg auf die Menschen in Bandar Abbas auswirkt - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05d0pqam1xX0lqRTlPUkNLYlN6QmxMT0NQSFRKTjRXOUVMdVRNN2dRYzFVd3RteENPWV9FVjNRdkhDZXJtbW1rZ0FpWnh2MXZkMlZIb05oWUVScVBHbll3?oc=5",
+   "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
+  },
+  {
+   "t": "Iran und Russland nutzen laut OpenAI ChatGPT für Propaganda mit „Fake-Journalisten“ - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanhFQWpmM3BKajkydFhuWUZzdXVHb0w4Nzl4SW5BN1k3VmYycWxwT3dFWkdMaXRIby1DUmdza1dJanRyWTFjT21DZHhFVWFUdjFqTEFVeldHdFQtMXZrUlhhYUhGalBRV2FGa21WNUVVS0N6MFA2ejFhRXJrWDZCUW5FQy1vZ1B4NnpWd2pwQ3hxUFBMaGMwWmx3UGxGcVdHaDFtSDdIaE9mTUJNdzBBWHJYdmtQelU?oc=5",
+   "pub": "Fri, 09 Oct 2026 11:55:54 GMT"
+  },
+  {
+   "t": "Bitcoin verliert gegen den Zins: Das steckt hinter dem Fall - BTC-ECHO",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2xlaHYxRFBKNzc4TFNHQTI3c2x6alBLMTgxa2hwenNVNDdHZWdabF9COG1RdmZFbzB2V18wamFEUVRseTc2R1RDaDh5WWR0djFXQ0RTRmJwN1l1ZVlWRlU4SG1wWWRQRXZiU1l2ZV9uSE1ad1pqaUlvQXZvMDRucWpyS3drbTY0bG9NbTNLaE91cHFsRkp1ZHhJNng5UQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 15:00:00 GMT"
   },
   {
    "t": "Iran: Mehr Druck auf Frauen ohne Hidschab - DW.com",
@@ -89,24 +104,9 @@
    "pub": "Fri, 09 Oct 2026 03:30:00 GMT"
   },
   {
-   "t": "Ölpreis-Sorgen und Fed-Protokoll setzen Aktienmärkte unter Druck - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejhyU0lsNHA3cU55MmZ1LTJaQ216c0VTQXc1ODBjSDNvU0RSXzdZQXJxYjgzaUVqa0tJcVlnX0s1RTFySlB5aWJQMEU1U3hySW4xRHQ3ZGdXVEdUa21DdUhZQXhQWkpaSEVtVm9waGVsR29zWTBPLTVKbHBEaVhrSFBZODgteC10RW5PbENiaGJEaG80eHhhdUMxb282bDRHR1dpUlBFQkxOb3VVMEJ6WEZaYjdXLUE?oc=5",
-   "pub": "Fri, 09 Oct 2026 12:45:17 GMT"
-  },
-  {
-   "t": "Iran verliert wichtigste Einnahmequelle – Öl-Exporte brechen ein - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRy1mdHcwdDlydks1bnZtcHFia0FyMnJIbHgweWxfcTJSZGxOdGlKdThkSlNnMEs2VTBnVmNpSjFvSFVRQnR0WUNPSTRpOVVDTGROUkJnV0xDbGYzZVN5T0YzSktyb1Q4VERQVGlXREdlaG1jbldhVGozU1huTml0WTNWZVVUSmgtMGU1cE0tTkRGdGdiOXVGTGxLd25PYVA2a0lFblJIU1hPUEpxT1NvcGV3bVMtb0huemhjMmNmM21Hb1BBTkNXX2tMUkpsZXVK?oc=5",
-   "pub": "Fri, 09 Oct 2026 06:36:00 GMT"
-  },
-  {
-   "t": "Trump: Die USA werden den Iran vor den Kongresswahlen nicht mehr angreifen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOanVxMXdlV3ViMWNEMlBfSHM3a2ZQWGhwM1JpVldBeU5CenFwTG4zOTBUeTJIcjBKV0NKUVVqTC1WWEpiQk1GdUFZS1JLNnpQRThyc2ZSY3VJRTk0bWtTZ096bk96Q1ZVYnhKbjR2czRiY2ZRcXFaaGQ3U3IwdWs1eGRnWDQyUk5XX2thbDZfbDRjNVo2TUxRaEJDNVFYT3Q3OEJTekhuVXRaVk5LdktsMDZmNWQ?oc=5",
-   "pub": "Fri, 09 Oct 2026 08:04:06 GMT"
-  },
-  {
-   "t": "\"Alles in unserer Macht tun\": Putin verspricht Teheran Hilfe für Ende des Iran-Kriegs - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczhoVXl5Y0laVVZQaVJUVUUyeXg3cjJUNUphcV9QcjBfc2c5eUVkbUozN1hReXB4R3pLUk1tOE9aS09wTFZEZUJvQzYyV2JjZHlnbkFHcGxIVDFEaktFcWp2d2t3R1AtdEtKQkZ6QU16WWhJNlZkNXdUdWNWbmZtUVU1VnlsRlhEQkVwOHJLb3Y2aG1TUWF0NzZfZ2tEZzRXd0E?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:01:32 GMT"
+   "t": "Um Wählern Fortschritt zu suggerieren Trump erwägt offenbar neue Angriffe gegen Iran vor Zwischenwahlen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNLW1rQ1JKd0N1UkdLZUljNnZMbDhTaWdDRm1BZGhyUmN6Uk1oRDRta0t0MFFKZXVsTExHYUMwamhzaHpKNUl6THpvVTc2WWlfNzM2M0pPV3gxQ3ZyT1pZR1Y1QkQ0VUdqMzRKekR0ZGR2WS1TS25ZQzFrYkdiNGJsWjRVUkZlOWREaWpfeHZWX3BPbjVNM1RXMVFoMUF4cktrcmJrZkRiNk12TkhoUWUtU2o0NHRUTktRTElRVXhRTlJQaC00V2YwWFZpX3JKRVlXUi1GdnYtOEFvclBFOEcxNEhHdU1kRnNnWmZNRm1BX0RvSG8?oc=5",
+   "pub": "Thu, 08 Oct 2026 15:54:00 GMT"
   }
  ]
 }
