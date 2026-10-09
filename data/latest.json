@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-10-08T22:05:35Z",
+ "collected_at": "2026-10-09T02:11:40Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8315,
-   "chg1d_pct": -0.18
+   "price": 0.8305,
+   "chg1d_pct": -0.3
   },
   "USDJPY": {
-   "price": 157.839,
-   "chg1d_pct": -0.14
+   "price": 157.972,
+   "chg1d_pct": -0.06
   },
   "GBPCAD": {
    "price": 1.8816,
    "chg1d_pct": -0.11
   },
   "AUDJPY": {
-   "price": 109.81,
-   "chg1d_pct": -0.21
+   "price": 110.152,
+   "chg1d_pct": 0.1
   },
   "EURUSD": {
-   "price": 1.1216,
-   "chg1d_pct": 0.13
+   "price": 1.1227,
+   "chg1d_pct": 0.23
   },
   "GBPCHF": {
-   "price": 1.0999,
-   "chg1d_pct": -0.07
+   "price": 1.0994,
+   "chg1d_pct": -0.12
   },
   "WTI": {
-   "price": 91.18,
-   "chg1d_pct": 3.29
+   "price": 90.81,
+   "chg1d_pct": -0.74
   },
   "BRENT": {
-   "price": 103.92,
-   "chg1d_pct": 3.71
+   "price": 103.39,
+   "chg1d_pct": -0.85
   },
   "GOLD": {
-   "price": 4158.3,
-   "chg1d_pct": 0.43
+   "price": 4199.2,
+   "chg1d_pct": 1.02
   },
   "SPX_FUT": {
-   "price": 7822.5,
-   "chg1d_pct": -0.39
+   "price": 7834.25,
+   "chg1d_pct": 0.23
   },
   "NAS_FUT": {
-   "price": 31021.25,
-   "chg1d_pct": -1.21
+   "price": 31069.75,
+   "chg1d_pct": 0.32
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: Öl- und Gaspreise ziehen deutlich an – Sorge vor neuen US-Angriffen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjl1dE40WTlzNlFuNHV0TGZSUHhXMy05U0lzLTdIRjJPOGFqdFNuNElnQnVGSW5XY3UxbjFOeUY1RXF1NVJDMXVrQndubXl3Sk1jUHVPaFFXNFBnbGZFZnhoeDNTTjQ3dG9OTEltNjlfUXlhM1poMDRLUnpCRTJxX0VqYmJoZE5kbUtYQkRlQmVnZWNpZDdrOXEyMXBxQ0JDSjh2Wm9PaGdsOTFSeEd3bjZHX25oTmZVMjNCYmxTQy1IRm9RMTBFSlU0WXZzOVJKOGlyMUZxd190Nm9HRHBONHdDMWU1cGcyREE?oc=5",
-   "pub": "Thu, 08 Oct 2026 11:28:00 GMT"
+   "t": "Donald Trump: Kein US-Angriff auf den Iran vor Kongresswahlen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
+   "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
   },
   {
    "t": "Um Wählern Fortschritt zu suggerieren Trump erwägt offenbar neue Angriffe gegen Iran vor Zwischenwahlen - Tagesspiegel",
@@ -64,14 +64,14 @@
    "pub": "Thu, 08 Oct 2026 20:01:32 GMT"
   },
   {
-   "t": "Stark beschädigte US‑Flugzeuge und Drohnen im Iran-Krieg - Aktueller Kongressbericht deckt schwere Verluste auf - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHhJNkhGVW1HUXhwNWYybVpNS0NOdm1XMklHMVNlYTZybU81b08tX3RuSThyUVhrcnVmdExEeWZsSEJBdlo0clFxTmVLbElXZU1jbDEtcHY4LWtNaGtUS3dVd1pyYmZXdGxpa3VOMTFyREpndjV1WnpNUzlfUXhnWkZiREJncmlfSkZV?oc=5",
-   "pub": "Thu, 08 Oct 2026 16:22:00 GMT"
-  },
-  {
    "t": "Iran-Krieg: Gefahr für US-Basen in Deutschland? Geheimdienste warnen - WiWo",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTFvenFxYnFBQkw5WHNLcEZGWXQ5bkVMYU9HTWVDUWYtM2N3ODdPQnlaMXZYV19qSjRNQ0hLR2F6b3puMnFXNTV1T2VMWF9vY1VwZzNxWDRxMm5LYkJ3bFBLa0FjR1JpQjJ6YUU5Qm9TUmFXQmpGU21aX0gzaDZfMmdFcE9lYzlQN2FNQ3NUZXNTMmZIcUV1dFJSb1RJVThVX2tPV3pFTkRIa3M3aFN1V1JqN2VUMWJ2WWxDUFZxMA?oc=5",
    "pub": "Thu, 08 Oct 2026 12:01:39 GMT"
+  },
+  {
+   "t": "Stark beschädigte US‑Flugzeuge und Drohnen im Iran-Krieg - Aktueller Kongressbericht deckt schwere Verluste auf - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHhJNkhGVW1HUXhwNWYybVpNS0NOdm1XMklHMVNlYTZybU81b08tX3RuSThyUVhrcnVmdExEeWZsSEJBdlo0clFxTmVLbElXZU1jbDEtcHY4LWtNaGtUS3dVd1pyYmZXdGxpa3VOMTFyREpndjV1WnpNUzlfUXhnWkZiREJncmlfSkZV?oc=5",
+   "pub": "Thu, 08 Oct 2026 16:22:00 GMT"
   },
   {
    "t": "Medien: US-Regierung erwägt neue Angriffe auf den Iran - Jüdische Allgemeine",
@@ -89,14 +89,9 @@
    "pub": "Thu, 08 Oct 2026 07:38:47 GMT"
   },
   {
-   "t": "Fed-Protokoll: Nächste Zinserhöhung 2026 – was das für Aktien jetzt bedeutet - Der Aktionär",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNzRfVTRBcUFhVzdxQmpkZXdzXzBjeF9pYXliUWVEUWpnRGI5ODVRT3Fpb283Vi1BX2xLOEFkTVNyd1JYdXhSSVFKQnRJYnVvdkhGa2NJTVVjSmNFQ1d5R2VCZy0yQkZ2U1JpNHh5d1NYcWtBdHlWYWRWSHRwN0kwR1U2ZFpUSHQtUmcyZUNtZzdMOW4zTC1xQlhSNFdMVmdMNF9XdkRnaG9pTmhhMFRyUUhOZ1pDOUxXdnF0LWcyMFlRMUxwY0kxXzNJaTZLLTg4cjcySlFVWHRhQzZjc21SUA?oc=5",
-   "pub": "Thu, 08 Oct 2026 06:06:44 GMT"
-  },
-  {
-   "t": "Fed sieht im KI-Boom einen Inflationstreiber - Trending Topics",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTNjEwX3Vla2RUMDZDQkl4SUN4RUV6UmFnMkhOQXdibXZ5ejhXallDQUUtQkJWcDVFbEpSRmZCQ1hjVFhJYmlNNW02NnZrYkhXRlFjLUhpNlpLQmpOWHdEZFk4TFFJaWF5?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:00:00 GMT"
+   "t": "Iran-Krieg und hohe Spritpreise: bekommt Trump die Quittung? - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWNvNXhTWjV0ekh4Z01jajhDRW5qcDl3eXcya0pjN3Vqa3FuTTJMTFYwV2RnakpTdzhQSV9GR3BmNUdPSXdvbHFxNHBMSVcza1pUS1JSRnRGREcyWnpCeWtZTGp6bzJnSUJlR2FveVFHWFdoZlRkVDAyelA1dWNsWlRsQVFtcHk1U0FZWXJNMHRDN0lYNzhLNHNyNlQ?oc=5",
+   "pub": "Thu, 08 Oct 2026 11:06:58 GMT"
   },
   {
    "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
@@ -104,9 +99,14 @@
    "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
   },
   {
-   "t": "Donald Trump: Kein US-Angriff auf den Iran vor Kongresswahlen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
+   "t": "Iran-Krieg: Öl- und Gaspreise ziehen deutlich an – Sorge vor neuen US-Angriffen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjl1dE40WTlzNlFuNHV0TGZSUHhXMy05U0lzLTdIRjJPOGFqdFNuNElnQnVGSW5XY3UxbjFOeUY1RXF1NVJDMXVrQndubXl3Sk1jUHVPaFFXNFBnbGZFZnhoeDNTTjQ3dG9OTEltNjlfUXlhM1poMDRLUnpCRTJxX0VqYmJoZE5kbUtYQkRlQmVnZWNpZDdrOXEyMXBxQ0JDSjh2Wm9PaGdsOTFSeEd3bjZHX25oTmZVMjNCYmxTQy1IRm9RMTBFSlU0WXZzOVJKOGlyMUZxd190Nm9HRHBONHdDMWU1cGcyREE?oc=5",
+   "pub": "Thu, 08 Oct 2026 11:28:00 GMT"
+  },
+  {
+   "t": "Fed sieht im KI-Boom einen Inflationstreiber - Trending Topics",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTNjEwX3Vla2RUMDZDQkl4SUN4RUV6UmFnMkhOQXdibXZ5ejhXallDQUUtQkJWcDVFbEpSRmZCQ1hjVFhJYmlNNW02NnZrYkhXRlFjLUhpNlpLQmpOWHdEZFk4TFFJaWF5?oc=5",
+   "pub": "Thu, 08 Oct 2026 20:00:00 GMT"
   }
  ]
 }
