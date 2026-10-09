@@ -1,55 +1,55 @@
 {
- "collected_at": "2026-10-09T02:11:40Z",
+ "collected_at": "2026-10-09T09:07:20Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8305,
-   "chg1d_pct": -0.3
+   "price": 0.8312,
+   "chg1d_pct": -0.21
   },
   "USDJPY": {
-   "price": 157.972,
-   "chg1d_pct": -0.06
+   "price": 158.195,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8816,
-   "chg1d_pct": -0.11
+   "price": 1.883,
+   "chg1d_pct": -0.03
   },
   "AUDJPY": {
-   "price": 110.152,
-   "chg1d_pct": 0.1
+   "price": 110.361,
+   "chg1d_pct": 0.29
   },
   "EURUSD": {
-   "price": 1.1227,
-   "chg1d_pct": 0.23
+   "price": 1.1223,
+   "chg1d_pct": 0.19
   },
   "GBPCHF": {
-   "price": 1.0994,
-   "chg1d_pct": -0.12
+   "price": 1.1002,
+   "chg1d_pct": -0.04
   },
   "WTI": {
-   "price": 90.81,
-   "chg1d_pct": -0.74
+   "price": 90.21,
+   "chg1d_pct": -1.4
   },
   "BRENT": {
-   "price": 103.39,
-   "chg1d_pct": -0.85
+   "price": 102.52,
+   "chg1d_pct": -1.69
   },
   "GOLD": {
-   "price": 4199.2,
-   "chg1d_pct": 1.02
+   "price": 4212.8,
+   "chg1d_pct": 1.34
   },
   "SPX_FUT": {
-   "price": 7834.25,
-   "chg1d_pct": 0.23
+   "price": 7851.75,
+   "chg1d_pct": 0.45
   },
   "NAS_FUT": {
-   "price": 31069.75,
-   "chg1d_pct": 0.32
+   "price": 31247.25,
+   "chg1d_pct": 0.9
   }
  },
  "headlines": [
   {
-   "t": "Donald Trump: Kein US-Angriff auf den Iran vor Kongresswahlen - Spiegel",
+   "t": "Iran-Krieg: Donald Trump schließt Angriff vor Kongresswahlen aus - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
    "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
   },
@@ -59,19 +59,34 @@
    "pub": "Thu, 08 Oct 2026 15:54:00 GMT"
   },
   {
+   "t": "Warum der Iran-Krieg ganz anders verläuft, als die meisten Experten vorhergesagt haben - NZZ",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1dlcVNDM2lqamdsSklja0pZZkN2ZzItN04yeDk2RVl1cXRvd3k1d1k4QUhuV29VdjFqZHZxeGpIQWI1UXBpWDBOTXFROHdLcEpQdFVBc0xXQVdfZWFieVZEQ211ZlJwQVdPMEk1emVIczRFMm50UkxHUHdITzJyZ2xLZFl4LTBOUDhxa3FTNUxWWkkxU1hsM0lKeXY4WlExOVpnQkt3?oc=5",
+   "pub": "Fri, 09 Oct 2026 03:30:00 GMT"
+  },
+  {
    "t": "\"Alles in unserer Macht tun\": Putin verspricht Teheran Hilfe für Ende des Iran-Kriegs - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPczhoVXl5Y0laVVZQaVJUVUUyeXg3cjJUNUphcV9QcjBfc2c5eUVkbUozN1hReXB4R3pLUk1tOE9aS09wTFZEZUJvQzYyV2JjZHlnbkFHcGxIVDFEaktFcWp2d2t3R1AtdEtKQkZ6QU16WWhJNlZkNXdUdWNWbmZtUVU1VnlsRlhEQkVwOHJLb3Y2aG1TUWF0NzZfZ2tEZzRXd0E?oc=5",
    "pub": "Thu, 08 Oct 2026 20:01:32 GMT"
   },
   {
-   "t": "Iran-Krieg: Gefahr für US-Basen in Deutschland? Geheimdienste warnen - WiWo",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTFvenFxYnFBQkw5WHNLcEZGWXQ5bkVMYU9HTWVDUWYtM2N3ODdPQnlaMXZYV19qSjRNQ0hLR2F6b3puMnFXNTV1T2VMWF9vY1VwZzNxWDRxMm5LYkJ3bFBLa0FjR1JpQjJ6YUU5Qm9TUmFXQmpGU21aX0gzaDZfMmdFcE9lYzlQN2FNQ3NUZXNTMmZIcUV1dFJSb1RJVThVX2tPV3pFTkRIa3M3aFN1V1JqN2VUMWJ2WWxDUFZxMA?oc=5",
-   "pub": "Thu, 08 Oct 2026 12:01:39 GMT"
+   "t": "Trump: Die USA werden den Iran vor den Kongresswahlen nicht mehr angreifen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOanVxMXdlV3ViMWNEMlBfSHM3a2ZQWGhwM1JpVldBeU5CenFwTG4zOTBUeTJIcjBKV0NKUVVqTC1WWEpiQk1GdUFZS1JLNnpQRThyc2ZSY3VJRTk0bWtTZ096bk96Q1ZVYnhKbjR2czRiY2ZRcXFaaGQ3U3IwdWs1eGRnWDQyUk5XX2thbDZfbDRjNVo2TUxRaEJDNVFYT3Q3OEJTekhuVXRaVk5LdktsMDZmNWQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 08:04:06 GMT"
   },
   {
    "t": "Stark beschädigte US‑Flugzeuge und Drohnen im Iran-Krieg - Aktueller Kongressbericht deckt schwere Verluste auf - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMHhJNkhGVW1HUXhwNWYybVpNS0NOdm1XMklHMVNlYTZybU81b08tX3RuSThyUVhrcnVmdExEeWZsSEJBdlo0clFxTmVLbElXZU1jbDEtcHY4LWtNaGtUS3dVd1pyYmZXdGxpa3VOMTFyREpndjV1WnpNUzlfUXhnWkZiREJncmlfSkZV?oc=5",
    "pub": "Thu, 08 Oct 2026 16:22:00 GMT"
+  },
+  {
+   "t": "Iran verliert wichtigste Einnahmequelle – Öl-Exporte brechen ein - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRy1mdHcwdDlydks1bnZtcHFia0FyMnJIbHgweWxfcTJSZGxOdGlKdThkSlNnMEs2VTBnVmNpSjFvSFVRQnR0WUNPSTRpOVVDTGROUkJnV0xDbGYzZVN5T0YzSktyb1Q4VERQVGlXREdlaG1jbldhVGozU1huTml0WTNWZVVUSmgtMGU1cE0tTkRGdGdiOXVGTGxLd25PYVA2a0lFblJIU1hPUEpxT1NvcGV3bVMtb0huemhjMmNmM21Hb1BBTkNXX2tMUkpsZXVK?oc=5",
+   "pub": "Fri, 09 Oct 2026 06:36:00 GMT"
+  },
+  {
+   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
+   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
   },
   {
    "t": "Medien: US-Regierung erwägt neue Angriffe auf den Iran - Jüdische Allgemeine",
@@ -84,29 +99,14 @@
    "pub": "Thu, 08 Oct 2026 17:01:00 GMT"
   },
   {
-   "t": "USA bereiten neue Eskalation im Iran-Krieg vor – Attacken auf Tanker nehmen zu - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFBLQWNwSVpQRnpZSWk0WUFDSV9DbmYySGU2LTZMZlAzdzNQNmNiN1Fpb25hTHFCN0FrOWxCcmgxbklYem1PYzlLaFdaUEpCaDBTdUpBN1h2SllKVl9ua1Jlcmp5U1VQdjZ1bjdsLWtxLS1xMU56NkxMVjhXZ3hNcGFjN1dfRHlFYTNRUnctUml6S0RXVUtnblBZNDM2bjRuTUMwVzRORUVGUnZEd2lwUEY1U2gxTVRIVEItM0Fac1dTdm8?oc=5",
-   "pub": "Thu, 08 Oct 2026 07:38:47 GMT"
+   "t": "Heizöl über 170 Euro. Trump schließt Iran-Angriff vor den Wahlen aus. (09.10.2026) - esyoil",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVBlSFZld1A5cHR4dkFNYzhmd1JlbG9KQThDd0NyamV1TDhwamtuWHp2UnppVWVKRmlJNVJSSDItRlRjOGVZbk5BZ2x0Sm1UNUZyZVRCbGNIdVFqSDRGYXg1ZjVkR3Z3VHEtZ3MzejJCaXdxSU1iS0gtSkw5UU9uQ25VQUc5c0o5aElYaTJxeGVWdFM2bW9OS21YUTdLd3Z3VzdOVl9YbVBWX0h3?oc=5",
+   "pub": "Fri, 09 Oct 2026 07:46:00 GMT"
   },
   {
-   "t": "Iran-Krieg und hohe Spritpreise: bekommt Trump die Quittung? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWNvNXhTWjV0ekh4Z01jajhDRW5qcDl3eXcya0pjN3Vqa3FuTTJMTFYwV2RnakpTdzhQSV9GR3BmNUdPSXdvbHFxNHBMSVcza1pUS1JSRnRGREcyWnpCeWtZTGp6bzJnSUJlR2FveVFHWFdoZlRkVDAyelA1dWNsWlRsQVFtcHk1U0FZWXJNMHRDN0lYNzhLNHNyNlQ?oc=5",
-   "pub": "Thu, 08 Oct 2026 11:06:58 GMT"
-  },
-  {
-   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
-   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Öl- und Gaspreise ziehen deutlich an – Sorge vor neuen US-Angriffen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjl1dE40WTlzNlFuNHV0TGZSUHhXMy05U0lzLTdIRjJPOGFqdFNuNElnQnVGSW5XY3UxbjFOeUY1RXF1NVJDMXVrQndubXl3Sk1jUHVPaFFXNFBnbGZFZnhoeDNTTjQ3dG9OTEltNjlfUXlhM1poMDRLUnpCRTJxX0VqYmJoZE5kbUtYQkRlQmVnZWNpZDdrOXEyMXBxQ0JDSjh2Wm9PaGdsOTFSeEd3bjZHX25oTmZVMjNCYmxTQy1IRm9RMTBFSlU0WXZzOVJKOGlyMUZxd190Nm9HRHBONHdDMWU1cGcyREE?oc=5",
-   "pub": "Thu, 08 Oct 2026 11:28:00 GMT"
-  },
-  {
-   "t": "Fed sieht im KI-Boom einen Inflationstreiber - Trending Topics",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTNjEwX3Vla2RUMDZDQkl4SUN4RUV6UmFnMkhOQXdibXZ5ejhXallDQUUtQkJWcDVFbEpSRmZCQ1hjVFhJYmlNNW02NnZrYkhXRlFjLUhpNlpLQmpOWHdEZFk4TFFJaWF5?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:00:00 GMT"
+   "t": "Trump: Keine US-Angriffe auf Iran bis November + Putin will bei Beendigung des Iran-Krieg helfen - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2hFMktGSkYzY205LTA5WWZXZ25mR2xXWXZEdVRWWDYxaU51WEJXbDIwaGJFRTlNM1FnUWpuWjVIcTNmNVA5Nlk5bGRTSy1EX3BQeHVPQ19xSVZqZFVkLXllWG9uTnhTLUlGLVVwd2FtdmcyWkU3a3RyRlA4TXdJeDJmWVJhZFl0QUktT2pmbkg2eW9MUzZaTWZOclVfZ3AyLXJKNm1iUFRGdGdUV1ViM1BjeXNwUGxZYkZvZGdFQmI3UQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 06:01:00 GMT"
   }
  ]
 }
