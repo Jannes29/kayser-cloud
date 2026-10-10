@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-10T13:44:35Z",
+ "collected_at": "2026-10-10T18:37:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,11 +49,6 @@
  },
  "headlines": [
   {
-   "t": "Wie der Iran-Krieg das Leben in Bandar Abbas verändert - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFYXM5Q3RLU1dPUEJCaHBjSVd6N1BHeF9tdWh4c1FOc1UtTlRuWGZJbGd1cjBnb2RCQ0NmWk5tZDVxOXpfa29OZHZrU0hXMlNtLXdlUElGREozUkExdWRHbDBuMDdhTENzWkY0S2s3TQ?oc=5",
-   "pub": "Fri, 09 Oct 2026 18:16:19 GMT"
-  },
-  {
    "t": "Iran-Krieg: Donald Trump schließt Angriff vor Kongresswahlen aus - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
    "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
@@ -62,6 +57,11 @@
    "t": "Lage im Iran: Ein islamistisches Nordkorea - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmVtTzNfdUdfNFk1SllDQ2JYZnl6NjU1Ui1FVXRoME1zQXRXZk10N1dvVFdyQXBlQ3R4dWdaQXpiYzFWZF91V3BLZFJvQlBmQzlpNTZiZ2dnWndPckRrT01ZaGRPei15d0ZpYk15N1IyaUxKWUxGN1dxb2Z2bHhDM2ZOYnZyY0loS2I3Q1Y3a1pVWGN3?oc=5",
    "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
+  },
+  {
+   "t": "Wie sich der Iran-Krieg auf die Menschen in Bandar Abbas auswirkt - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05d0pqam1xX0lqRTlPUkNLYlN6QmxMT0NQSFRKTjRXOUVMdVRNN2dRYzFVd3RteENPWV9FVjNRdkhDZXJtbW1rZ0FpWnh2MXZkMlZIb05oWUVScVBHbll3?oc=5",
+   "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
   },
   {
    "t": "„Begrenzte Bodeneinsätze bleiben selten begrenzt“: Experte warnt eindringlich vor US-Bodenoffensive im Iran - Frankfurter Rundschau",
@@ -84,14 +84,14 @@
    "pub": "Thu, 08 Oct 2026 12:01:39 GMT"
   },
   {
-   "t": "Ölpreis-Sorgen und Fed-Protokoll setzen Aktienmärkte unter Druck - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejhyU0lsNHA3cU55MmZ1LTJaQ216c0VTQXc1ODBjSDNvU0RSXzdZQXJxYjgzaUVqa0tJcVlnX0s1RTFySlB5aWJQMEU1U3hySW4xRHQ3ZGdXVEdUa21DdUhZQXhQWkpaSEVtVm9waGVsR29zWTBPLTVKbHBEaVhrSFBZODgteC10RW5PbENiaGJEaG80eHhhdUMxb282bDRHR1dpUlBFQkxOb3VVMEJ6WEZaYjdXLUE?oc=5",
-   "pub": "Sat, 10 Oct 2026 02:46:40 GMT"
-  },
-  {
    "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
    "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
+  },
+  {
+   "t": "Trotz Fed-Zinsschritt über 4.000 Dollar: Warum der Goldpreis alle Regeln der Lehrbücher bricht - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTE04bVFDaXM2RlJlZEJWUTNrWDhYTVpYUDZ6MFdGUlFsaTNlSDE3VlNVbUE2UkhMOFRBMndLRWVoamo4eHhrSzYwVjJFbFY4MmVwN2xSR1BrWXJKcF9RT0VfZE5mUTRKbzlNVWpheTA2TGxRSmd4ZGFRNnJjbk81S2JiQkRtTEpiQ1dlbXpJTFNVLXNxbGc1VU85TU5nbEoyQnFHRHBWWHZwUXlhRnltX3JJaHZPWDViQnEwR0RGSHZSZEZPTXhNRUI1b3ZrLWlmUk5VZ1FFLXpLenRBa1RMRV9nV0NmQTd2MjBtQU5ibnMyS3cxN1BUTmlONnlGQzA?oc=5",
+   "pub": "Sat, 10 Oct 2026 11:17:19 GMT"
   },
   {
    "t": "Tropensturm zieht Richtung USA: Hurrikan und Angst vor neuen Iran-Attacken treiben den Ölpreis - n-tv.de",
@@ -99,14 +99,14 @@
    "pub": "Thu, 08 Oct 2026 07:46:00 GMT"
   },
   {
-   "t": "Iran droht mit Präventivschlägen, USA stellen Machtfrage in Teheran - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94eFg5QXJHVFJ3VHVjay1yS0RoXzZKbTQ2MExJQUpIcDlheHM1MkRPcDRhOXhaQU9rOUxQZTJFdmpWUS0xeDRQOEpyRTU0djFTSjdzUGhIdDZLTFZzV3BhVHdDYVFaNV9BM1lmdjc0eHpWaElmYTI1N3VfSQ?oc=5",
-   "pub": "Wed, 07 Oct 2026 14:25:52 GMT"
+   "t": "Ölpreis-Sorgen und Fed-Protokoll setzen Aktienmärkte unter Druck - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejhyU0lsNHA3cU55MmZ1LTJaQ216c0VTQXc1ODBjSDNvU0RSXzdZQXJxYjgzaUVqa0tJcVlnX0s1RTFySlB5aWJQMEU1U3hySW4xRHQ3ZGdXVEdUa21DdUhZQXhQWkpaSEVtVm9waGVsR29zWTBPLTVKbHBEaVhrSFBZODgteC10RW5PbENiaGJEaG80eHhhdUMxb282bDRHR1dpUlBFQkxOb3VVMEJ6WEZaYjdXLUE?oc=5",
+   "pub": "Sat, 10 Oct 2026 02:46:40 GMT"
   },
   {
-   "t": "Wie sich der Iran-Krieg auf die Menschen in Bandar Abbas auswirkt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05d0pqam1xX0lqRTlPUkNLYlN6QmxMT0NQSFRKTjRXOUVMdVRNN2dRYzFVd3RteENPWV9FVjNRdkhDZXJtbW1rZ0FpWnh2MXZkMlZIb05oWUVScVBHbll3?oc=5",
-   "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
+   "t": "Iran-Krieg: Öl- und Gaspreise ziehen deutlich an – Sorge vor neuen US-Angriffen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUjl1dE40WTlzNlFuNHV0TGZSUHhXMy05U0lzLTdIRjJPOGFqdFNuNElnQnVGSW5XY3UxbjFOeUY1RXF1NVJDMXVrQndubXl3Sk1jUHVPaFFXNFBnbGZFZnhoeDNTTjQ3dG9OTEltNjlfUXlhM1poMDRLUnpCRTJxX0VqYmJoZE5kbUtYQkRlQmVnZWNpZDdrOXEyMXBxQ0JDSjh2Wm9PaGdsOTFSeEd3bjZHX25oTmZVMjNCYmxTQy1IRm9RMTBFSlU0WXZzOVJKOGlyMUZxd190Nm9HRHBONHdDMWU1cGcyREE?oc=5",
+   "pub": "Thu, 08 Oct 2026 11:28:00 GMT"
   }
  ]
 }
