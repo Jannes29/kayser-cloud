@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-10T00:53:20Z",
+ "collected_at": "2026-10-10T07:10:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -11,8 +11,8 @@
    "chg1d_pct": 0.12
   },
   "GBPCAD": {
-   "price": 1.8867,
-   "chg1d_pct": 0.27
+   "price": 1.8863,
+   "chg1d_pct": 0.25
   },
   "AUDJPY": {
    "price": 110.568,
@@ -27,24 +27,24 @@
    "chg1d_pct": -0.16
   },
   "WTI": {
-   "price": 91.66,
-   "chg1d_pct": 0.19
+   "price": 91.85,
+   "chg1d_pct": 0.39
   },
   "BRENT": {
-   "price": 104.43,
-   "chg1d_pct": 0.14
+   "price": 104.72,
+   "chg1d_pct": 0.42
   },
   "GOLD": {
-   "price": 4220.3,
-   "chg1d_pct": 1.52
+   "price": 4216.3,
+   "chg1d_pct": 1.43
   },
   "SPX_FUT": {
-   "price": 7866.0,
-   "chg1d_pct": 0.64
+   "price": 7859.75,
+   "chg1d_pct": 0.56
   },
   "NAS_FUT": {
-   "price": 31123.25,
-   "chg1d_pct": 0.5
+   "price": 31108.75,
+   "chg1d_pct": 0.45
   }
  },
  "headlines": [
@@ -64,29 +64,9 @@
    "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
   },
   {
-   "t": "Trump dementiert Iran-Angriff vor Midterms – Medien berichten von Plänen, Putin stellt sich an Irans Seite - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjk0bkJoMmlsYkxJdllRX2o1Y183N1V2QXM4cGRvZU5tVzdSZWN5S0RsRkdUS0ljTXlIYXQ2ZGR6R21nUzZ2OS0teVEyQjZSSDBQV1ltSUY4UlVQbFh2WWphNVd5bm1wQTFidW5NMWI3VTQxQnliY0p1aHJQTTR4VzV2V2tER18wZTJORG56V3ROZm5XNGZtYURiOXVVUEdaYVRVUm01LUU?oc=5",
-   "pub": "Fri, 09 Oct 2026 09:22:36 GMT"
-  },
-  {
    "t": "Ölpreis-Sorgen und Fed-Protokoll setzen Aktienmärkte unter Druck - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNejhyU0lsNHA3cU55MmZ1LTJaQ216c0VTQXc1ODBjSDNvU0RSXzdZQXJxYjgzaUVqa0tJcVlnX0s1RTFySlB5aWJQMEU1U3hySW4xRHQ3ZGdXVEdUa21DdUhZQXhQWkpaSEVtVm9waGVsR29zWTBPLTVKbHBEaVhrSFBZODgteC10RW5PbENiaGJEaG80eHhhdUMxb282bDRHR1dpUlBFQkxOb3VVMEJ6WEZaYjdXLUE?oc=5",
-   "pub": "Fri, 09 Oct 2026 20:48:52 GMT"
-  },
-  {
-   "t": "Trump: Bis zu den Midterms keine Angriffe auf Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNlVVNFVFcGFydHlZeE5UbW1rbzRhN2ZabWpZVjJXMUFuTGIwdVVyYWhxeDU0Z01xZGNDaWFWUHB6ZTFhV1VtdjhyeHgwT0UxSURkOEdBdWhuUlJFY29Uby1aaGJyMllHQl9uY3ZER1VaY2hPRmVkNkQ0c2RfUDNJcmlIdmU1cEczT2Zhblk0TzV1U0xaZURZbmpR?oc=5",
-   "pub": "Fri, 09 Oct 2026 07:21:00 GMT"
-  },
-  {
-   "t": "Ölmarkt: Iran-Konflikt sorgt weiter für starke Preisschwankungen - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRW1oQXF6cHN5Smxia2R4eHEyaTU1V1Y1bExFeHVYekpyM2M0UjAzM24telQ0azdqdEttNXd3VzgyRkkyR1BUcGoxQmNOLVNMZk1RY001Vzl2eGtiQ3JIUkdOR2w0RTk4ZFM0R0FHMTQzZ0lRQkt5V3oxbXpkNy0zNEhseVY0VUw5ZUNIU2lGeEx5NDZSTUJfNGVRN0NwYjljRnNtVTlNMWN1MGFE?oc=5",
-   "pub": "Fri, 09 Oct 2026 07:28:00 GMT"
-  },
-  {
-   "t": "Iran und Russland nutzen laut OpenAI ChatGPT für Propaganda mit „Fake-Journalisten“ - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanhFQWpmM3BKajkydFhuWUZzdXVHb0w4Nzl4SW5BN1k3VmYycWxwT3dFWkdMaXRIby1DUmdza1dJanRyWTFjT21DZHhFVWFUdjFqTEFVeldHdFQtMXZrUlhhYUhGalBRV2FGa21WNUVVS0N6MFA2ejFhRXJrWDZCUW5FQy1vZ1B4NnpWd2pwQ3hxUFBMaGMwWmx3UGxGcVdHaDFtSDdIaE9mTUJNdzBBWHJYdmtQelU?oc=5",
-   "pub": "Fri, 09 Oct 2026 11:55:54 GMT"
+   "pub": "Sat, 10 Oct 2026 02:46:40 GMT"
   },
   {
    "t": "Um Wählern Fortschritt zu suggerieren Trump erwägt offenbar neue Angriffe gegen Iran vor Zwischenwahlen - Tagesspiegel",
@@ -94,19 +74,39 @@
    "pub": "Thu, 08 Oct 2026 15:54:00 GMT"
   },
   {
-   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
-   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
-  },
-  {
    "t": "Iran-Krieg: Gefahr für US-Basen in Deutschland? Geheimdienste warnen - WiWo",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTFvenFxYnFBQkw5WHNLcEZGWXQ5bkVMYU9HTWVDUWYtM2N3ODdPQnlaMXZYV19qSjRNQ0hLR2F6b3puMnFXNTV1T2VMWF9vY1VwZzNxWDRxMm5LYkJ3bFBLa0FjR1JpQjJ6YUU5Qm9TUmFXQmpGU21aX0gzaDZfMmdFcE9lYzlQN2FNQ3NUZXNTMmZIcUV1dFJSb1RJVThVX2tPV3pFTkRIa3M3aFN1V1JqN2VUMWJ2WWxDUFZxMA?oc=5",
    "pub": "Thu, 08 Oct 2026 12:01:39 GMT"
   },
   {
+   "t": "Wer entscheidet in Teheran? - Journal für Internationale Politik und Gesellschaft",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdG1zdWJGanRYYUllLUhnY25NTlB0d3o2bUVhSFlnbjUyMGdEQ3gxZjZuQTRSRElmMkV0ZDgyODNlLVdFTllYNXJpWWJXVzJfS012SWhQRW12a3FnaGpCanpGaXRGYllWV05oZHBsQUVMMHo5c3l6UHB4aGlJTUZYa3V3UFFKNkhodExNY01TMkcwdw?oc=5",
+   "pub": "Mon, 05 Oct 2026 13:00:00 GMT"
+  },
+  {
+   "t": "Trump dementiert Iran-Angriff vor Midterms – Medien berichten von Plänen, Putin stellt sich an Irans Seite - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUjk0bkJoMmlsYkxJdllRX2o1Y183N1V2QXM4cGRvZU5tVzdSZWN5S0RsRkdUS0ljTXlIYXQ2ZGR6R21nUzZ2OS0teVEyQjZSSDBQV1ltSUY4UlVQbFh2WWphNVd5bm1wQTFidW5NMWI3VTQxQnliY0p1aHJQTTR4VzV2V2tER18wZTJORG56V3ROZm5XNGZtYURiOXVVUEdaYVRVUm01LUU?oc=5",
+   "pub": "Fri, 09 Oct 2026 09:22:36 GMT"
+  },
+  {
+   "t": "Tropensturm zieht Richtung USA: Hurrikan und Angst vor neuen Iran-Attacken treiben den Ölpreis - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUs0TTc1RkdrdFFwRmJ3SkUzZGlDNXNBczdhVzRndUIycEdKTXFuTGdKaU9rS2RIalpiZEhfVFI1RnJWLWpIcWQ4UmxFaHpXbVloUWk5aHVwVklBbUh1TmpHZENjWkloZkZ6SFo5MWJQakFsVlQ3Vm83TkViSWNhUHpBQ1J3b1VLSUx6blk5dWpBNC1HT21rX2U5N3NYZFZZZ1BzU0dxUnhxa3FXLTNN?oc=5",
+   "pub": "Thu, 08 Oct 2026 07:46:00 GMT"
+  },
+  {
+   "t": "Bitcoin verliert gegen den Zins: Das steckt hinter dem Fall - BTC-ECHO",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT2xlaHYxRFBKNzc4TFNHQTI3c2x6alBLMTgxa2hwenNVNDdHZWdabF9COG1RdmZFbzB2V18wamFEUVRseTc2R1RDaDh5WWR0djFXQ0RTRmJwN1l1ZVlWRlU4SG1wWWRQRXZiU1l2ZV9uSE1ad1pqaUlvQXZvMDRucWpyS3drbTY0bG9NbTNLaE91cHFsRkp1ZHhJNng5UQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 15:00:00 GMT"
+  },
+  {
    "t": "Wie sich der Iran-Krieg auf die Menschen in Bandar Abbas auswirkt - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05d0pqam1xX0lqRTlPUkNLYlN6QmxMT0NQSFRKTjRXOUVMdVRNN2dRYzFVd3RteENPWV9FVjNRdkhDZXJtbW1rZ0FpWnh2MXZkMlZIb05oWUVScVBHbll3?oc=5",
    "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
+  },
+  {
+   "t": "Iran und Russland nutzen laut OpenAI ChatGPT für Propaganda mit „Fake-Journalisten“ - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanhFQWpmM3BKajkydFhuWUZzdXVHb0w4Nzl4SW5BN1k3VmYycWxwT3dFWkdMaXRIby1DUmdza1dJanRyWTFjT21DZHhFVWFUdjFqTEFVeldHdFQtMXZrUlhhYUhGalBRV2FGa21WNUVVS0N6MFA2ejFhRXJrWDZCUW5FQy1vZ1B4NnpWd2pwQ3hxUFBMaGMwWmx3UGxGcVdHaDFtSDdIaE9mTUJNdzBBWHJYdmtQelU?oc=5",
+   "pub": "Fri, 09 Oct 2026 11:55:54 GMT"
   }
  ]
 }
