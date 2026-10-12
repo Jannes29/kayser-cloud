@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-10-12T07:22:58Z",
+ "collected_at": "2026-10-12T17:57:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8314,
-   "chg1d_pct": 0.0
+   "price": 0.8346,
+   "chg1d_pct": 0.39
   },
   "USDJPY": {
-   "price": 158.435,
-   "chg1d_pct": 0.24
+   "price": 158.657,
+   "chg1d_pct": 0.38
   },
   "GBPCAD": {
-   "price": 1.8877,
-   "chg1d_pct": 0.33
+   "price": 1.8863,
+   "chg1d_pct": 0.25
   },
   "AUDJPY": {
-   "price": 110.538,
-   "chg1d_pct": 0.53
+   "price": 110.389,
+   "chg1d_pct": 0.39
   },
   "EURUSD": {
-   "price": 1.1207,
-   "chg1d_pct": -0.05
+   "price": 1.1161,
+   "chg1d_pct": -0.46
   },
   "GBPCHF": {
-   "price": 1.1009,
-   "chg1d_pct": 0.08
+   "price": 1.102,
+   "chg1d_pct": 0.18
   },
   "WTI": {
-   "price": 91.18,
-   "chg1d_pct": -0.73
+   "price": 93.79,
+   "chg1d_pct": 2.11
   },
   "BRENT": {
-   "price": 104.21,
-   "chg1d_pct": -0.49
+   "price": 106.8,
+   "chg1d_pct": 1.99
   },
   "GOLD": {
-   "price": 4211.7,
-   "chg1d_pct": -0.11
+   "price": 4193.3,
+   "chg1d_pct": -0.55
   },
   "SPX_FUT": {
-   "price": 7880.25,
-   "chg1d_pct": 0.26
+   "price": 7854.25,
+   "chg1d_pct": -0.07
   },
   "NAS_FUT": {
-   "price": 31184.5,
-   "chg1d_pct": 0.24
+   "price": 30892.5,
+   "chg1d_pct": -0.7
   }
  },
  "headlines": [
   {
-   "t": "Gewalt im Iran: Jagd auf Motorradfahrerinnen – die neue Form der blutigen Repression - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2J1QTEycG95RnVFNENFSHJCZmp5b29rbm1DQkhHci00ZExvTk9BeHlHZ0hXamhNcXF2M3VLcHR4RXdpa0ZNV2t1NkRuMG1GU3N4RWpqbWdUSEJFY29nd2NWc0JHbHR2ZWtPTjJzS05KV0VPM3JqbnBMMTlxc0ZJY1ktb2JZclZWRjBBd3J3a3J1UEo4RHpQdm5QeXhlQ0EzZ2xHc1Z6NWdHQml6QkZadmh1cTd6RHBDdFNoS3ptWlh5OTAtUlBiS2F5eVZWN1pyVmgyZk1pbVlXMjU1Zkd2amhJZ3ZBc1hya0E?oc=5",
-   "pub": "Sun, 11 Oct 2026 15:24:37 GMT"
+   "t": "Großbritannien - Burnham: Iran wohl verantwortlich für Militärbasis-Vorfall - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFhVbjRvLVpmdGhYLUJyOWR4bXRvcmdrVmpqRDZvQzBDWjlDanZZYW8yVXZsYXFJQUlUd1RYaUotRl96RDR5UV9CQTNoazNnUW1GUEFsVERwYXJkbUhYN1hvQnlIYjBkdEQzQkVrbVM0a2tOYTR2S0hXOHh6LU94LV85MUhDRWhBTC1nVWNQWllHU01KdGpjX2dqalNiTllB?oc=5",
+   "pub": "Mon, 12 Oct 2026 16:26:06 GMT"
   },
   {
-   "t": "Trotz Fed-Zinsschritt über 4.000 Dollar: Warum der Goldpreis alle Regeln der Lehrbücher bricht - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTE04bVFDaXM2RlJlZEJWUTNrWDhYTVpYUDZ6MFdGUlFsaTNlSDE3VlNVbUE2UkhMOFRBMndLRWVoamo4eHhrSzYwVjJFbFY4MmVwN2xSR1BrWXJKcF9RT0VfZE5mUTRKbzlNVWpheTA2TGxRSmd4ZGFRNnJjbk81S2JiQkRtTEpiQ1dlbXpJTFNVLXNxbGc1VU85TU5nbEoyQnFHRHBWWHZwUXlhRnltX3JJaHZPWDViQnEwR0RGSHZSZEZPTXhNRUI1b3ZrLWlmUk5VZ1FFLXpLenRBa1RMRV9nV0NmQTd2MjBtQU5ibnMyS3cxN1BUTmlONnlGQzA?oc=5",
-   "pub": "Sun, 11 Oct 2026 23:17:40 GMT"
+   "t": "Großbritannien: Burnham macht Iran für Anschlagsplan in Fairford verantwortlich - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlhreE9JUDlPdjU3cVVLcXBFUnV2RUsyc3VhVFRmVWlYeldkNlN6R3pMdzJFVTRkREp5SzZFeGhkWnZGbXRNdWNMclo5Z21tS214TUxkMUZDci1YU0Q3VmRUcV95cnpFdHBsYzVPMnJqbmJpUllrS0ZUcDAxOFBhRWczcHViWXc0RkZsZHdyRjNxWVdSRXp3X2dfeFhJTlNyUno1cWZJbnhUNWtDRnZwSUtZdmQ?oc=5",
+   "pub": "Mon, 12 Oct 2026 17:33:55 GMT"
   },
   {
-   "t": "Wie sich der Iran-Krieg auf die Menschen in Bandar Abbas auswirkt - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05d0pqam1xX0lqRTlPUkNLYlN6QmxMT0NQSFRKTjRXOUVMdVRNN2dRYzFVd3RteENPWV9FVjNRdkhDZXJtbW1rZ0FpWnh2MXZkMlZIb05oWUVScVBHbll3?oc=5",
-   "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
+   "t": "Live-Ticker Iran: Verletzte und Toter in Israel –wohl Blindgänger explodiert - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYURNenV0ei1ZX2MzVzBkMkpyWG1qUzNiR1JXcFNqYzN6bjVxRG5HRm5PWUJfd0VFV09MVF8zMlZVVXNqTXU4RDNSRlN2Yk8yUS01US0xX2ozWnpoWXQzeVJOdG55WkdKdk1NelNxRzZxYU5SOVFQNzNVYlNtSS11SVRaYlkxQjVaQUdfVjBrSGZRTlBjeGcyN3pqb3QwaThHOWtlUFg2ZjM1T0dBUzViRzNRNUpJeDU5OHVBNU5LUkwtcGJ4bEE?oc=5",
+   "pub": "Mon, 12 Oct 2026 14:09:08 GMT"
   },
   {
-   "t": "Lage im Iran: Ein islamistisches Nordkorea - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmVtTzNfdUdfNFk1SllDQ2JYZnl6NjU1Ui1FVXRoME1zQXRXZk10N1dvVFdyQXBlQ3R4dWdaQXpiYzFWZF91V3BLZFJvQlBmQzlpNTZiZ2dnWndPckRrT01ZaGRPei15d0ZpYk15N1IyaUxKWUxGN1dxb2Z2bHhDM2ZOYnZyY0loS2I3Q1Y3a1pVWGN3?oc=5",
-   "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
+   "t": "Iran reklamiert Angriff auf Supertanker in Straße von Hormus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFFlWGlza2hpajRiR1dlQnJLQjlRbm9FNTBLbERIV3EyYnduZUFhOC1pMUtOb21QSHJubGJmeGlCaDFnMENnMkRsaUJCbnFBRTkxaUpueFNZU0h4RHJNZ0lRSGxNdklTbXhDbUpDRHpGZnpITlZJcmRUdWtDdjlkSTA1UGVCR184THo3a2IxVHFNSWp3LUtSU2NGZjF0dk1xYTlWbVRqNHdCZmpVNXlwMkFvQzA3QnBURlRQY3ppaWxkYnlsR29aQU5sTQ?oc=5",
+   "pub": "Mon, 12 Oct 2026 17:42:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Donald Trump schließt Angriff vor Kongresswahlen aus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
+   "t": "Bayeux-Preis für Kriegsberichterstattung: Fokus auf Iran - Arte TV.",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0stdkJVUTB0cHp2NC1Sb2NjUVg1V1FqMlFEakpvb0Ixb19IdkFYVkZ3dzR2ai13UmxVay1LVElaSU5xWFpxTjFIXy1fWENUUzFra0VvOWV6dFFRQVluWnhUVzMwZnNkMTM1WVkzZ2lfYUFXRDN0cDRQc1NFbldycThxZGVhM0wxeV9fWW5nLXJETUhGTkRKVUJUQTREMUQ2X3c?oc=5",
+   "pub": "Mon, 12 Oct 2026 15:35:00 GMT"
   },
   {
-   "t": "Iran-Krieg und hohe Spritpreise: bekommt Trump die Quittung? - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHpIM3Z1NEZPWXI4MzdDOVRORk1qRkRZRWRMQ0lJWGE5TW94U0x3MllpRVdMMlRqUVU0WTZ6VE5rVE1iLTZidnhWcmxLdW53UjZrTmlOd0x6NFlxdXpsUHZ5RDlNMHI4MGJqV0paTUNfbEZCb2p6X3cyQnlLT3lObDh4N19ES2ZZNTRnN0pMY1lSSEZHOGhEMUhJNA?oc=5",
-   "pub": "Thu, 08 Oct 2026 10:49:40 GMT"
+   "t": "Burnham: Anschlagspläne auf britische Militärbasis wohl vom Iran gesteuert - derStandard.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVlOQ3JXTTczNW5kMUZEVmZNQ1p0a2VXaEVBbXpWNkZ5TUYwLWpoU0dNOHpTNEFwZjhXM0F4RU9KMUUxWkhQeXMyejZ0VG1GMTNPRU1lQnVfWVljblh1cHVJanBFUHlXak5TYkxCMF93MkhvUDFPNzZrS21nSDluRlE3ampCTWdranliaVkwUUlrSVEwOGJ1NEJSMW1jQ1VhV3dWSHhGdWFQV3V3dWw1V0FsOG9SeGtTdmoxSzlhY0NRQQ?oc=5",
+   "pub": "Mon, 12 Oct 2026 16:11:00 GMT"
   },
   {
-   "t": "Bericht: Iran kann noch immer Raketen und Drohnen produzieren - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDYtbTExRnZlSHczbkU2alo4UUU4QUlqNHJ6Rkp5UTdaeHVCaElFaEpoTVJESnpwMWNjang3eWlTRXZsN3Q4VDFxNGladXZTMHJ2R3FIdmRXOENxX2tDbXo4STdMOHQzTjRFdFNZQUwtQVBGS3R2ZG9nT2l0ZDBId1pVLS1WUEJjSHMwMUN3b0xpTndWci1XQTlXdk1ESEdqbEJRbWZObw?oc=5",
-   "pub": "Sun, 11 Oct 2026 10:10:00 GMT"
+   "t": "Die Grenzen der Eskalation - Journal für Internationale Politik und Gesellschaft",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWGY0azVUQ2FpTklSd3JMUHhXX1dlaXYzOE9sWXVfeDRXeXFsQnlBWFVDa3pfNFI3c09EdG1mb3g2cVFrb0NHMzFZb3c2eFdMNjBDU2NyVzQwdGtZZno1Rmw1QlVlQ2wxWEZNeTlBZkQ2c0R1M3pDMTcwWjREM2locThqVDFtS05OTmdBeUtaSmRHRUktTFRkWVlLaVFUZDRQRXF0d2tXam5rZw?oc=5",
+   "pub": "Mon, 12 Oct 2026 11:36:00 GMT"
   },
   {
-   "t": "Iran weist US-Antwort zur Straße von Hormus zurück – neue Drohungen gegen Infrastruktur - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXkzYVAyYUxDMi1NYXgwQ0lMbzFRamFCYTBaWEJFVU9oTlktNnpOc1BEQ2xBYXJmT00tSnBYZFM3Qm5nTW50OXdKUGhHVjlPMkZ1X2JDRUVKM3MwUXJHZ0IzdDBVYUtmV09KdU85Zm1WU1NVcmxVY1JvSTZIR2pDM1ZLTHh1QmxrT0tNblF6WmhOMlJvWjdpWFl2YWI1SlZKMzJjVFRoY1NOZm5qYzJTNlAwRDJxWTQ0cWhXcWdpV2s5Y0k3bzdWWUJDWjNiNVFsTFE?oc=5",
-   "pub": "Sun, 11 Oct 2026 20:13:18 GMT"
+   "t": "21 US-Soldaten im Iran-Krieg gestorben - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEMxbkxxSi1HXy13dmV5UmMwV2lHTGZsVEdHdU03b2N2Z3FpUXJwMnd2T0diNVRJZi1sRlA5Unh0REttWjUydHZHeGZoYm85MDd2M1lseExNcENFWmozY3REQnA4OWxfcktOeGJIUi1LLUR4MkJzS1U5cTZKcWtKMC11Nm1lMGppbHJF?oc=5",
+   "pub": "Mon, 12 Oct 2026 07:52:00 GMT"
   },
   {
-   "t": "Was die FED-Konferenz 2026 über die Branche verrät - all-electronics.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazNUVnhfZm5zNmpfaHRQMGwwQ1BZQUhraGVLclZ4NVp4SXA1cDE0cXpaSlpURFRGbk52akwyT1JmMkRZMDFHcmlVR0o4andFTl9NTnpOdjROcE5sWFhwVmNpVE1hVktacDVtTGtrdVJjclZvZEktdGR3bzBMc0ZqODIzNUIybmhOXzZ3SDRaNHFGb1VZSVl4cFBYNWFxNnpRN0swNWRweUN3VjNOdTBMTzJR?oc=5",
-   "pub": "Mon, 12 Oct 2026 06:30:00 GMT"
+   "t": "Straße von Hormus: Explosion auf Supertanker – Iran und USA uneins - BILD",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnN3TmxUQzdiTVltU0F2U044XzFpSy1YbmJWRUR4NzE2VGVxc0lrNklHdmtqMVFtWi16NGhjZ1BtbV9waFJLYzVkR0Q1UG16N2ZxMG5wTy1Eb0h3TWNXZEl5NlVvOTlULW95S3FaSjkzb1pzOFEwaEQyWU9PSXJJcTdWWFlySVRIanNkczRFR2d3SVFRMnRQT0hhZHQyeE5mb2g0X3dTZTFuUVliOEJvMjlJQmE?oc=5",
+   "pub": "Mon, 12 Oct 2026 11:14:15 GMT"
   },
   {
-   "t": "Iran: Geschoss setzt Öltanker in Straße von Hormus in Brand - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek0zTkVEVmEwQUJRajBpWnhtMldraUFHaDNzWmNUY1l0STQzNUxPdHc1WjlQeV85RzJlOWdkalVveGkzX2F0U2VFdGxpelB5X2VmMGMwOTdyaWpGQUpOOFZQVkUxdjU2X2pmMEJIdmoyckx2d1RMbjVzNDdGT2x2NkFVY21neG1TbFZKSjVTVWdkYTFMWmFMZ0JHVUVfMllZc1JBa1JtN295N2RxUXdoLVRTTDdyZV9RLWVsOUNqbw?oc=5",
-   "pub": "Sun, 11 Oct 2026 00:09:00 GMT"
+   "t": "Iran-Krieg: Saudi-Arabien und Jemen: Eine neue Front im Iran-Krieg - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1RoakNOdUxmdDlFcTA0QnBUREppeGF4X253anFiei1EVXBua1ExSDJhMkdpSkdkeVRPeTR2ZjVBaEFlUFhXS2JYOFFfLWNuRG8yaGNfUHN4dnhjd1gweFBtZzVzaXo3R2hPTjYwTEsxSHIxM2VEWWN2c3FGTHplOGRRY3czYm8xc0ZFTHJ1Y180UHZhaThHY3VxODlSeVpZRERnV2ZadVBvOGRsZ0lIblJucnJVR25tbHJFNzdOcjIyend1?oc=5",
+   "pub": "Mon, 12 Oct 2026 12:28:04 GMT"
   },
   {
-   "t": "Wie der Iran-Krieg das Leben in Bandar Abbas verändert - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFYXM5Q3RLU1dPUEJCaHBjSVd6N1BHeF9tdWh4c1FOc1UtTlRuWGZJbGd1cjBnb2RCQ0NmWk5tZDVxOXpfa29OZHZrU0hXMlNtLXdlUElGREozUkExdWRHbDBuMDdhTENzWkY0S2s3TQ?oc=5",
-   "pub": "Fri, 09 Oct 2026 18:16:19 GMT"
+   "t": "Warum Deutschland seine Intervention im Völkermordprozess zurücknehmen sollte - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTmo5VE53RklHNEJfTUJyRkxKbDlnckk5NkJpQnRyX0dHbVhuQ1BGTHFZdGswaFB4M1lwS01jdVA3bmplU25fTHNiaTVjc2ZxMmQzajZsY1d5NU1fekpZT1hpVU5vRkxwejJ2QXcyaU9STDJlMG1TNWx5Z3l6RzREWmEwQ1JiZml2N0NwR2t5V3BYbVUwWGpOcWRJajdMUmlaUEd4UEVSSzN5VldZSXVkWURPM0dZdFlMb1pxaXlpOVhJbk9jUGkxYkI1LWFiRFRvOWpPMHYwZ3M?oc=5",
+   "pub": "Mon, 12 Oct 2026 16:25:12 GMT"
   },
   {
-   "t": "Iran-Krieg: Huthi greifen erneut saudische Flughäfen mit Raketen an - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSndKbXliMHlHTWwwYTBFc3kyTlB5R09QMTJTNkxNUVl1VWZnc0VFTXdGZTB4QjNoeDNuQ0I4LUxlUGpKVk9MTFZyN0ZzTzd4VUxiNEtMdEJxTTdFY0lZSGQ0dkhKOWtjTW1IMWRkQTdtajhVTDZ0bE9ja0ZoNXFUSlk0WVlRdUlxeUVqVGtzQlloSmgtNExqZHM0TQ?oc=5",
-   "pub": "Sun, 11 Oct 2026 23:01:44 GMT"
+   "t": "Burnham: Iran wohl verantwortlich für Militärbasis-Vorfall - Come-on",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdU9CaHB1eDZMYnY0OVJKVU9xdndORFhBOXhvRk9OU0ttbUdvUEJqLWZmUHBfNjJiWUhGUUJLWVhGdU5lcU4zQlViMkVjZG5KVnhrcm04Sk83aUZ1MlBjZFowc2xhbUdaMGt3T3ZxeDdBYnl6bGNrSHFleUx5UnI0d2VvbnpKd0NWc205N21ObmlfWGhzcUF3QUJjdHVVRjk4WkJQN0ppaWk5S3c?oc=5",
+   "pub": "Mon, 12 Oct 2026 16:25:47 GMT"
   }
  ]
 }
