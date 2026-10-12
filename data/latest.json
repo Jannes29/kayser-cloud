@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-12T00:34:03Z",
+ "collected_at": "2026-10-12T07:22:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8294,
-   "chg1d_pct": -0.24
+   "price": 0.8314,
+   "chg1d_pct": 0.0
   },
   "USDJPY": {
-   "price": 158.16,
-   "chg1d_pct": 0.06
+   "price": 158.435,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8882,
-   "chg1d_pct": 0.35
+   "price": 1.8877,
+   "chg1d_pct": 0.33
   },
   "AUDJPY": {
-   "price": 110.524,
-   "chg1d_pct": 0.52
+   "price": 110.538,
+   "chg1d_pct": 0.53
   },
   "EURUSD": {
-   "price": 1.1216,
-   "chg1d_pct": 0.03
+   "price": 1.1207,
+   "chg1d_pct": -0.05
   },
   "GBPCHF": {
-   "price": 1.0987,
-   "chg1d_pct": -0.12
+   "price": 1.1009,
+   "chg1d_pct": 0.08
   },
   "WTI": {
-   "price": 90.71,
-   "chg1d_pct": -1.24
+   "price": 91.18,
+   "chg1d_pct": -0.73
   },
   "BRENT": {
-   "price": 103.6,
-   "chg1d_pct": -1.07
+   "price": 104.21,
+   "chg1d_pct": -0.49
   },
   "GOLD": {
-   "price": 4234.8,
-   "chg1d_pct": 0.44
+   "price": 4211.7,
+   "chg1d_pct": -0.11
   },
   "SPX_FUT": {
-   "price": 7877.5,
-   "chg1d_pct": 0.23
+   "price": 7880.25,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 31239.75,
-   "chg1d_pct": 0.42
+   "price": 31184.5,
+   "chg1d_pct": 0.24
   }
  },
  "headlines": [
@@ -64,34 +64,14 @@
    "pub": "Fri, 09 Oct 2026 15:13:40 GMT"
   },
   {
-   "t": "Iran-Krieg: Donald Trump schließt Angriff vor Kongresswahlen aus - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
-   "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
-  },
-  {
    "t": "Lage im Iran: Ein islamistisches Nordkorea - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmVtTzNfdUdfNFk1SllDQ2JYZnl6NjU1Ui1FVXRoME1zQXRXZk10N1dvVFdyQXBlQ3R4dWdaQXpiYzFWZF91V3BLZFJvQlBmQzlpNTZiZ2dnWndPckRrT01ZaGRPei15d0ZpYk15N1IyaUxKWUxGN1dxb2Z2bHhDM2ZOYnZyY0loS2I3Q1Y3a1pVWGN3?oc=5",
    "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
   },
   {
-   "t": "Bericht: Iran kann noch immer Raketen und Drohnen produzieren - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDYtbTExRnZlSHczbkU2alo4UUU4QUlqNHJ6Rkp5UTdaeHVCaElFaEpoTVJESnpwMWNjang3eWlTRXZsN3Q4VDFxNGladXZTMHJ2R3FIdmRXOENxX2tDbXo4STdMOHQzTjRFdFNZQUwtQVBGS3R2ZG9nT2l0ZDBId1pVLS1WUEJjSHMwMUN3b0xpTndWci1XQTlXdk1ESEdqbEJRbWZObw?oc=5",
-   "pub": "Sun, 11 Oct 2026 10:10:00 GMT"
-  },
-  {
-   "t": "Nach Angriff auf Riad-Flughafen: Saudi-Arabien schlägt zurück - Kurier",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2hFMktGSkYzY205LTA5WWZXZ25mR2xXWXZEdVRWWDYxaU51WEJXbDIwaGJFRTlNM1FnUWpuWjVIcTNmNVA5Nlk5bGRTSy1EX3BQeHVPQ19xSVZqZFVkLXllWG9uTnhTLUlGLVVwd2FtdmcyWkU3a3RyRlA4TXdJeDJmWVJhZFl0QUktT2pmbkg2eW9MUzZaTWZOclVfZ3AyLXJKNm1iUFRGdGdUV1ViM1BjeXNwUGxZYkZvZGdFQmI3UQ?oc=5",
-   "pub": "Sun, 11 Oct 2026 22:42:05 GMT"
-  },
-  {
-   "t": "Soll Blockade umgangen haben: USA zeigen Beschuss von zivilem Frachter vor Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGt2V2U2dm9HdlU0UTY2eEFqNlZ2MGVadU9TQ3ZJbmpsSGNLeGNvTnQ2U1Q3UVpEeUNWWjI1TENVNUF4UXNoVUJ1VjBVaEtXb0o2ZXkxWHJLdWk1bzBmdDdnY1BtMHdVZTBLU1g5eGd6cmd1SWc2YWFNTHgwVTJjTFloOXE5MTgza3FPSGdyRFlKV2JnSzk3akMyVjZQa2pxRTR5MkpBMFk1dC0tYkpF?oc=5",
-   "pub": "Sun, 11 Oct 2026 10:47:00 GMT"
-  },
-  {
-   "t": "Iran weist US-Antwort zur Straße von Hormus zurück – neue Drohungen gegen Infrastruktur - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXkzYVAyYUxDMi1NYXgwQ0lMbzFRamFCYTBaWEJFVU9oTlktNnpOc1BEQ2xBYXJmT00tSnBYZFM3Qm5nTW50OXdKUGhHVjlPMkZ1X2JDRUVKM3MwUXJHZ0IzdDBVYUtmV09KdU85Zm1WU1NVcmxVY1JvSTZIR2pDM1ZLTHh1QmxrT0tNblF6WmhOMlJvWjdpWFl2YWI1SlZKMzJjVFRoY1NOZm5qYzJTNlAwRDJxWTQ0cWhXcWdpV2s5Y0k3bzdWWUJDWjNiNVFsTFE?oc=5",
-   "pub": "Sun, 11 Oct 2026 20:13:18 GMT"
+   "t": "Iran-Krieg: Donald Trump schließt Angriff vor Kongresswahlen aus - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVJ5WExEQTlRbk9Ca0czOXBkWjQ3a0FqN2ROcDR1RjZqcmE3VllHWHRIOVFvNWVaMGNuUDgwc3BtdW5WS3NfSmFESEFFUGF1VnZ3azFRUEJoOXhiMFB2ZEljaEdQX29tSEg5aGltblFzTkhYOXAweGl6UnBFLWF5SmdDQVJSOEFvaUNaOHJicGk5ZHNzcXJyb19rVjNZeFBoM0hJQ2p0UVVTQkk3MURKcHhsTTZSbnIxZUZQc1lPQ1cwX2p2VmluXzFn?oc=5",
+   "pub": "Thu, 08 Oct 2026 20:49:00 GMT"
   },
   {
    "t": "Iran-Krieg und hohe Spritpreise: bekommt Trump die Quittung? - DW.com",
@@ -99,9 +79,29 @@
    "pub": "Thu, 08 Oct 2026 10:49:40 GMT"
   },
   {
+   "t": "Bericht: Iran kann noch immer Raketen und Drohnen produzieren - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVDYtbTExRnZlSHczbkU2alo4UUU4QUlqNHJ6Rkp5UTdaeHVCaElFaEpoTVJESnpwMWNjang3eWlTRXZsN3Q4VDFxNGladXZTMHJ2R3FIdmRXOENxX2tDbXo4STdMOHQzTjRFdFNZQUwtQVBGS3R2ZG9nT2l0ZDBId1pVLS1WUEJjSHMwMUN3b0xpTndWci1XQTlXdk1ESEdqbEJRbWZObw?oc=5",
+   "pub": "Sun, 11 Oct 2026 10:10:00 GMT"
+  },
+  {
+   "t": "Iran weist US-Antwort zur Straße von Hormus zurück – neue Drohungen gegen Infrastruktur - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXkzYVAyYUxDMi1NYXgwQ0lMbzFRamFCYTBaWEJFVU9oTlktNnpOc1BEQ2xBYXJmT00tSnBYZFM3Qm5nTW50OXdKUGhHVjlPMkZ1X2JDRUVKM3MwUXJHZ0IzdDBVYUtmV09KdU85Zm1WU1NVcmxVY1JvSTZIR2pDM1ZLTHh1QmxrT0tNblF6WmhOMlJvWjdpWFl2YWI1SlZKMzJjVFRoY1NOZm5qYzJTNlAwRDJxWTQ0cWhXcWdpV2s5Y0k3bzdWWUJDWjNiNVFsTFE?oc=5",
+   "pub": "Sun, 11 Oct 2026 20:13:18 GMT"
+  },
+  {
+   "t": "Was die FED-Konferenz 2026 über die Branche verrät - all-electronics.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOazNUVnhfZm5zNmpfaHRQMGwwQ1BZQUhraGVLclZ4NVp4SXA1cDE0cXpaSlpURFRGbk52akwyT1JmMkRZMDFHcmlVR0o4andFTl9NTnpOdjROcE5sWFhwVmNpVE1hVktacDVtTGtrdVJjclZvZEktdGR3bzBMc0ZqODIzNUIybmhOXzZ3SDRaNHFGb1VZSVl4cFBYNWFxNnpRN0swNWRweUN3VjNOdTBMTzJR?oc=5",
+   "pub": "Mon, 12 Oct 2026 06:30:00 GMT"
+  },
+  {
    "t": "Iran: Geschoss setzt Öltanker in Straße von Hormus in Brand - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQek0zTkVEVmEwQUJRajBpWnhtMldraUFHaDNzWmNUY1l0STQzNUxPdHc1WjlQeV85RzJlOWdkalVveGkzX2F0U2VFdGxpelB5X2VmMGMwOTdyaWpGQUpOOFZQVkUxdjU2X2pmMEJIdmoyckx2d1RMbjVzNDdGT2x2NkFVY21neG1TbFZKSjVTVWdkYTFMWmFMZ0JHVUVfMllZc1JBa1JtN295N2RxUXdoLVRTTDdyZV9RLWVsOUNqbw?oc=5",
    "pub": "Sun, 11 Oct 2026 00:09:00 GMT"
+  },
+  {
+   "t": "Wie der Iran-Krieg das Leben in Bandar Abbas verändert - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFYXM5Q3RLU1dPUEJCaHBjSVd6N1BHeF9tdWh4c1FOc1UtTlRuWGZJbGd1cjBnb2RCQ0NmWk5tZDVxOXpfa29OZHZrU0hXMlNtLXdlUElGREozUkExdWRHbDBuMDdhTENzWkY0S2s3TQ?oc=5",
+   "pub": "Fri, 09 Oct 2026 18:16:19 GMT"
   },
   {
    "t": "Iran-Krieg: Huthi greifen erneut saudische Flughäfen mit Raketen an - DIE ZEIT",
