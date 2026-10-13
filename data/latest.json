@@ -1,67 +1,77 @@
 {
- "collected_at": "2026-10-13T16:01:02Z",
+ "collected_at": "2026-10-13T21:16:56Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8326,
-   "chg1d_pct": 0.15
+   "price": 0.832,
+   "chg1d_pct": -0.25
   },
   "USDJPY": {
-   "price": 158.348,
-   "chg1d_pct": 0.18
+   "price": 158.275,
+   "chg1d_pct": -0.15
   },
   "GBPCAD": {
-   "price": 1.8835,
-   "chg1d_pct": 0.1
-  },
-  "AUDJPY": {
-   "price": 110.581,
-   "chg1d_pct": 0.57
-  },
-  "EURUSD": {
-   "price": 1.1198,
+   "price": 1.8837,
    "chg1d_pct": -0.13
   },
+  "AUDJPY": {
+   "price": 110.463,
+   "chg1d_pct": 0.18
+  },
+  "EURUSD": {
+   "price": 1.1204,
+   "chg1d_pct": 0.39
+  },
   "GBPCHF": {
-   "price": 1.1032,
-   "chg1d_pct": 0.29
+   "price": 1.1027,
+   "chg1d_pct": 0.09
   },
   "WTI": {
-   "price": 94.18,
-   "chg1d_pct": 0.47
+   "price": 94.79,
+   "chg1d_pct": 1.12
   },
   "BRENT": {
-   "price": 106.01,
-   "chg1d_pct": -0.6
+   "price": 106.36,
+   "chg1d_pct": -0.27
   },
   "GOLD": {
-   "price": 4182.9,
-   "chg1d_pct": -0.18
+   "price": 4184.2,
+   "chg1d_pct": -0.15
   },
   "SPX_FUT": {
-   "price": 7837.75,
-   "chg1d_pct": -0.26
+   "price": 7855.5,
+   "chg1d_pct": -0.03
   },
   "NAS_FUT": {
-   "price": 30666.75,
-   "chg1d_pct": -0.75
+   "price": 30782.0,
+   "chg1d_pct": -0.38
   }
  },
  "headlines": [
   {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Tue, 13 Oct 2026 08:09:24 GMT"
-  },
-  {
    "t": "Gewalt im Iran: Jagd auf Motorradfahrerinnen – die neue Form der blutigen Repression - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2J1QTEycG95RnVFNENFSHJCZmp5b29rbm1DQkhHci00ZExvTk9BeHlHZ0hXamhNcXF2M3VLcHR4RXdpa0ZNV2t1NkRuMG1GU3N4RWpqbWdUSEJFY29nd2NWc0JHbHR2ZWtPTjJzS05KV0VPM3JqbnBMMTlxc0ZJY1ktb2JZclZWRjBBd3J3a3J1UEo4RHpQdm5QeXhlQ0EzZ2xHc1Z6NWdHQml6QkZadmh1cTd6RHBDdFNoS3ptWlh5OTAtUlBiS2F5eVZWN1pyVmgyZk1pbVlXMjU1Zkd2amhJZ3ZBc1hya0E?oc=5",
-   "pub": "Tue, 13 Oct 2026 15:24:33 GMT"
+   "pub": "Tue, 13 Oct 2026 20:23:47 GMT"
+  },
+  {
+   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
+   "pub": "Tue, 13 Oct 2026 08:12:34 GMT"
   },
   {
    "t": "„Wir könnten zu weit gegangen sein“ Trump gibt Fehler im Iran-Krieg zu, den er selbst prognostiziert hatte - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS1UwbmRJN3BVNlVZVFUzUUFZV3gzT25wS1dJRHEzY3BLSDFUX3lzby0wdGRwdXBYb1VxRXN3NTl1Y0htU1BULVlEbXBsSzBFNmljbm5pd3FMcUdWSnM2dzFFZVhIU0VBakRVNGFTQ2hlUW9NYW1CLW1jWDR4UWpaOXFIY2pxVXVtTTh6OW16czhrcWhsck1Bc0Y1TXNPS05GeU9ZWHZrakpURVJwaWl4X2paUGR6RDFQRTdmdjk2R1M2N0ZvcmVuXzcwYjBsSXB1NU9jY25JRDZ5TmRleHR1ZEtIYWwwd1BnWEdVazM2dEZ5SWM?oc=5",
    "pub": "Tue, 13 Oct 2026 09:58:16 GMT"
+  },
+  {
+   "t": "81 Flugzeuge verloren oder beschädigt: Flugzeugverluste der USA im Krieg mit dem Iran - flug revue",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0F5bG9tT3AwT2NtcFBrYkFrMkFMTWtBSTcxcF8tU0h4Z1Fweld6eXRpR1VFdzhpdkp3Si0wejQtMW9wSEMwbTBRNEhyaXBGV0tBblVkT1RrV2hCUmpzc1paYWotb0NCeFFQWF9ZX2hIdmRZQ2ZrTGhtei1keDhxdDhpV2FfVTB3MVdERV9xcDZwTzJEWE9Oa0VySkVESnlnZWlaRWpJQk10SlpKNkwyTXAzWHVvLThrRGVRcw?oc=5",
+   "pub": "Tue, 13 Oct 2026 13:47:49 GMT"
+  },
+  {
+   "t": "Ölpreis aktuell: Ölpreise verzeichnen leichte Verluste - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkV3UmJMZk9kMDVkV2JSTzgxNW1HRU5wdXkxOE5KYmdIdkJ5NVp2YVJtZnFDZnpTcEFNSzhxdmtWLWUwNnNiWkRCUUJZeThmV25oMGRJeEpHcnA4OFhqcFl0LTU3VzdYWGNzQnB5dWlwZHFaY09JOE9MQ3NtbGE5TXJEN0NhMlJvT1ZOVkdST19QYkVsc3ZHOTF3OTRDNEdS?oc=5",
+   "pub": "Tue, 13 Oct 2026 19:27:38 GMT"
   },
   {
    "t": "Iran reklamiert Angriff auf Supertanker in Straße von Hormus für sich - Spiegel",
@@ -74,6 +84,11 @@
    "pub": "Tue, 13 Oct 2026 14:24:36 GMT"
   },
   {
+   "t": "iShares STOXX Europe 600 Oil & Gas ETF gefragt - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk5nVG1aUmNWZVZ2V3VrQ0dXMVRodmFHOWtFazd5clpXNkpFbW9IRUVJQ1VMQk1pSWJaTGlnYXFaREV0Nzk1N0FCRXBLTDlCeDF3YTkwMm9YZnJ0cHE4aVc3T3FnMnRvSGNOXzlqWEF0VzJtN0MyNW5GMHR5M19oOVplNmtXcndEeUhCNWtDS0t5Wk44UURYT3oyejBnSUhBeFlrcW5zT3Q3MUoz?oc=5",
+   "pub": "Tue, 13 Oct 2026 20:38:59 GMT"
+  },
+  {
    "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdk9pUkpmSUVhUUtOWnNZY0RGVWZ1V29WcUpBc2tMMmlONEJYM3BzOGdHTlJjSmQ1SGlkaHdtUlUxTlRwZFc4NDR5YzBmVWJYWkpkbDVkZVVqc1oyQ3ZyNUtYWGlTMzBUYmFucjdlaWpMNlZuemNxU0Y4X01FeWtEUVRrOGMzY3ZJY1hsV3lvX2pSMnhRaUFBOTFNUjgyRFh4MTNpR0lrUC1sSHk5cFFXT1hZWTNEWTk4N1ZwNE5hYU45bXlOeW1venpOTThnM0k?oc=5",
    "pub": "Tue, 13 Oct 2026 04:20:04 GMT"
@@ -84,24 +99,9 @@
    "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
   },
   {
-   "t": "Iran: Eselfleisch und Regierungsführung - Mena-Watch",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qZGM4amxQM09zNFZCNnNSU0ZIUmM1NFZaQjZRN3lCS0I0eTJBc1hmVVJZQWFLYVVvcG1tOGxfSWhnaGZBNWxkcjZLWUJDcFFncUEydmVkcmsxbHZjT1U4UE9naWFwcHBHeHUtUlZFdG0?oc=5",
-   "pub": "Tue, 13 Oct 2026 04:20:00 GMT"
-  },
-  {
-   "t": "iShares STOXX Europe 600 Oil & Gas ETF gefragt - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVk5nVG1aUmNWZVZ2V3VrQ0dXMVRodmFHOWtFazd5clpXNkpFbW9IRUVJQ1VMQk1pSWJaTGlnYXFaREV0Nzk1N0FCRXBLTDlCeDF3YTkwMm9YZnJ0cHE4aVc3T3FnMnRvSGNOXzlqWEF0VzJtN0MyNW5GMHR5M19oOVplNmtXcndEeUhCNWtDS0t5Wk44UURYT3oyejBnSUhBeFlrcW5zT3Q3MUoz?oc=5",
-   "pub": "Tue, 13 Oct 2026 14:38:59 GMT"
-  },
-  {
-   "t": "VHS-​Vortrag: Der Iran und der Wes­ten - Die Rheinpfalz",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUtXYVgtQjZ2dERpQWFjUmVPNGM5Sm13WmNVWFhRNG5BdVE3NWY5S3JIcWVVd1F4SXlCTEI4S3BLbjVCcHBkR1RYcGVOTkh2cDdoYTR4R1kwOVFYSmpmYVYySTBjWEpYcFh1RGRkVDU5RW1iRGtIWDNSMlNxT0NBUTctMV9neWVYdDBpd1I3WE9teHNMR09KOVVlZHVXbklMVFNNU2ZXaw?oc=5",
-   "pub": "Tue, 13 Oct 2026 12:36:00 GMT"
-  },
-  {
-   "t": "Großbritannien - Burnham: Iran wohl verantwortlich für Militärbasis-Vorfall - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFhVbjRvLVpmdGhYLUJyOWR4bXRvcmdrVmpqRDZvQzBDWjlDanZZYW8yVXZsYXFJQUlUd1RYaUotRl96RDR5UV9CQTNoazNnUW1GUEFsVERwYXJkbUhYN1hvQnlIYjBkdEQzQkVrbVM0a2tOYTR2S0hXOHh6LU94LV85MUhDRWhBTC1nVWNQWllHU01KdGpjX2dqalNiTllB?oc=5",
-   "pub": "Mon, 12 Oct 2026 16:26:06 GMT"
+   "t": "Politischer Widerstand im Iran: Der Westen sieht weg - SWR",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZLc0J4T01tLTdRZU1TeUlnYlotZGZvLWFNN1JIMmgteENRUEplT1A4WV92a2IyWmJaOW9FWVdYb1NwUWhCRk9VNFRkRk5FTXNQRldHU2NtbXdoU1dyemZkRkZDTXRWTjFHTDlBVFFsVDlwUVBpNlROSEdpR2JiOXBlR2ZCdFhsa2t5V3M3X0lORE00Y3gwQWdLQmc2aUdaVGc?oc=5",
+   "pub": "Sun, 11 Oct 2026 14:04:00 GMT"
   },
   {
    "t": "Bundesregierung verdoppelt Wachstumsprognose – doch steigende Preise fressen den Aufschwung wieder auf - Frankfurter Rundschau",
