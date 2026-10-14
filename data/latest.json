@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-10-13T21:16:56Z",
+ "collected_at": "2026-10-14T00:21:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.832,
-   "chg1d_pct": -0.25
+   "price": 0.8326,
+   "chg1d_pct": -0.18
   },
   "USDJPY": {
-   "price": 158.275,
-   "chg1d_pct": -0.15
-  },
-  "GBPCAD": {
-   "price": 1.8837,
+   "price": 158.32,
    "chg1d_pct": -0.13
   },
+  "GBPCAD": {
+   "price": 1.8844,
+   "chg1d_pct": -0.09
+  },
   "AUDJPY": {
-   "price": 110.463,
-   "chg1d_pct": 0.18
+   "price": 110.609,
+   "chg1d_pct": 0.31
   },
   "EURUSD": {
-   "price": 1.1204,
-   "chg1d_pct": 0.39
+   "price": 1.1206,
+   "chg1d_pct": 0.41
   },
   "GBPCHF": {
-   "price": 1.1027,
-   "chg1d_pct": 0.09
+   "price": 1.1039,
+   "chg1d_pct": 0.2
   },
   "WTI": {
-   "price": 94.79,
-   "chg1d_pct": 1.12
+   "price": 94.78,
+   "chg1d_pct": 1.11
   },
   "BRENT": {
-   "price": 106.36,
-   "chg1d_pct": -0.27
+   "price": 106.29,
+   "chg1d_pct": -0.34
   },
   "GOLD": {
-   "price": 4184.2,
+   "price": 4184.4,
    "chg1d_pct": -0.15
   },
   "SPX_FUT": {
-   "price": 7855.5,
-   "chg1d_pct": -0.03
+   "price": 7856.25,
+   "chg1d_pct": -0.02
   },
   "NAS_FUT": {
-   "price": 30782.0,
-   "chg1d_pct": -0.38
+   "price": 30806.25,
+   "chg1d_pct": -0.3
   }
  },
  "headlines": [
   {
    "t": "Gewalt im Iran: Jagd auf Motorradfahrerinnen – die neue Form der blutigen Repression - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2J1QTEycG95RnVFNENFSHJCZmp5b29rbm1DQkhHci00ZExvTk9BeHlHZ0hXamhNcXF2M3VLcHR4RXdpa0ZNV2t1NkRuMG1GU3N4RWpqbWdUSEJFY29nd2NWc0JHbHR2ZWtPTjJzS05KV0VPM3JqbnBMMTlxc0ZJY1ktb2JZclZWRjBBd3J3a3J1UEo4RHpQdm5QeXhlQ0EzZ2xHc1Z6NWdHQml6QkZadmh1cTd6RHBDdFNoS3ptWlh5OTAtUlBiS2F5eVZWN1pyVmgyZk1pbVlXMjU1Zkd2amhJZ3ZBc1hya0E?oc=5",
-   "pub": "Tue, 13 Oct 2026 20:23:47 GMT"
+   "pub": "Tue, 13 Oct 2026 22:54:33 GMT"
   },
   {
    "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
@@ -59,9 +59,19 @@
    "pub": "Tue, 13 Oct 2026 08:12:34 GMT"
   },
   {
+   "t": "Vor den Midterms - So unbeliebt ist Trumps Iran-Krieg selbst beim Militär - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzX2NVY1JNNDdORjNfSC1oUkxOUDZtUmVubkNPaE5TYWZQMTVVMmhhNmZmZTlldTY0RWdqR1lPOFZWV1V1UVVFQndQMXNTWFpna3dILTl4SjRZUldkdjc3WExKM2FNV3M?oc=5",
+   "pub": "Tue, 13 Oct 2026 21:55:57 GMT"
+  },
+  {
    "t": "„Wir könnten zu weit gegangen sein“ Trump gibt Fehler im Iran-Krieg zu, den er selbst prognostiziert hatte - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS1UwbmRJN3BVNlVZVFUzUUFZV3gzT25wS1dJRHEzY3BLSDFUX3lzby0wdGRwdXBYb1VxRXN3NTl1Y0htU1BULVlEbXBsSzBFNmljbm5pd3FMcUdWSnM2dzFFZVhIU0VBakRVNGFTQ2hlUW9NYW1CLW1jWDR4UWpaOXFIY2pxVXVtTTh6OW16czhrcWhsck1Bc0Y1TXNPS05GeU9ZWHZrakpURVJwaWl4X2paUGR6RDFQRTdmdjk2R1M2N0ZvcmVuXzcwYjBsSXB1NU9jY25JRDZ5TmRleHR1ZEtIYWwwd1BnWEdVazM2dEZ5SWM?oc=5",
    "pub": "Tue, 13 Oct 2026 09:58:16 GMT"
+  },
+  {
+   "t": "Iran reklamiert Angriff auf Supertanker in Straße von Hormus für sich - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFFlWGlza2hpajRiR1dlQnJLQjlRbm9FNTBLbERIV3EyYnduZUFhOC1pMUtOb21QSHJubGJmeGlCaDFnMENnMkRsaUJCbnFBRTkxaUpueFNZU0h4RHJNZ0lRSGxNdklTbXhDbUpDRHpGZnpITlZJcmRUdWtDdjlkSTA1UGVCR184THo3a2IxVHFNSWp3LUtSU2NGZjF0dk1xYTlWbVRqNHdCZmpVNXlwMkFvQzA3QnBURlRQY3ppaWxkYnlsR29aQU5sTQ?oc=5",
+   "pub": "Mon, 12 Oct 2026 17:42:00 GMT"
   },
   {
    "t": "81 Flugzeuge verloren oder beschädigt: Flugzeugverluste der USA im Krieg mit dem Iran - flug revue",
@@ -71,12 +81,12 @@
   {
    "t": "Ölpreis aktuell: Ölpreise verzeichnen leichte Verluste - WirtschaftsWoche",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkV3UmJMZk9kMDVkV2JSTzgxNW1HRU5wdXkxOE5KYmdIdkJ5NVp2YVJtZnFDZnpTcEFNSzhxdmtWLWUwNnNiWkRCUUJZeThmV25oMGRJeEpHcnA4OFhqcFl0LTU3VzdYWGNzQnB5dWlwZHFaY09JOE9MQ3NtbGE5TXJEN0NhMlJvT1ZOVkdST19QYkVsc3ZHOTF3OTRDNEdS?oc=5",
-   "pub": "Tue, 13 Oct 2026 19:27:38 GMT"
+   "pub": "Tue, 13 Oct 2026 23:51:40 GMT"
   },
   {
-   "t": "Iran reklamiert Angriff auf Supertanker in Straße von Hormus für sich - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFFlWGlza2hpajRiR1dlQnJLQjlRbm9FNTBLbERIV3EyYnduZUFhOC1pMUtOb21QSHJubGJmeGlCaDFnMENnMkRsaUJCbnFBRTkxaUpueFNZU0h4RHJNZ0lRSGxNdklTbXhDbUpDRHpGZnpITlZJcmRUdWtDdjlkSTA1UGVCR184THo3a2IxVHFNSWp3LUtSU2NGZjF0dk1xYTlWbVRqNHdCZmpVNXlwMkFvQzA3QnBURlRQY3ppaWxkYnlsR29aQU5sTQ?oc=5",
-   "pub": "Mon, 12 Oct 2026 17:42:00 GMT"
+   "t": "Der Staat, der seinen Führer überlebt - zenith.me",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT29LbTdOTkcyeUQwYnQ0S1MzSy14M0g4LUVPcXFGZzg1ejRRemxQcEdJakZ3T1dJZVZKUWs1R3J4WkpqYTFlNkR4VS1aSkNYMmNmd2l3TTliZHQ1Q0JXR2xCalpKMGI5UmxUN2stMXFlTjNoZFRuSGJYc0FqaU5KODdESlVmY0M4NFlfcXd0M3FkdTM0UVd0TUd1NWpSUQ?oc=5",
+   "pub": "Tue, 13 Oct 2026 13:59:15 GMT"
   },
   {
    "t": "Straße von Hormus: Explosion auf Supertanker verschärft Spannungen zwischen USA und Iran - BILD",
@@ -89,24 +99,14 @@
    "pub": "Tue, 13 Oct 2026 20:38:59 GMT"
   },
   {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdk9pUkpmSUVhUUtOWnNZY0RGVWZ1V29WcUpBc2tMMmlONEJYM3BzOGdHTlJjSmQ1SGlkaHdtUlUxTlRwZFc4NDR5YzBmVWJYWkpkbDVkZVVqc1oyQ3ZyNUtYWGlTMzBUYmFucjdlaWpMNlZuemNxU0Y4X01FeWtEUVRrOGMzY3ZJY1hsV3lvX2pSMnhRaUFBOTFNUjgyRFh4MTNpR0lrUC1sSHk5cFFXT1hZWTNEWTk4N1ZwNE5hYU45bXlOeW1venpOTThnM0k?oc=5",
-   "pub": "Tue, 13 Oct 2026 04:20:04 GMT"
-  },
-  {
    "t": "Lage im Iran: Ein islamistisches Nordkorea - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmVtTzNfdUdfNFk1SllDQ2JYZnl6NjU1Ui1FVXRoME1zQXRXZk10N1dvVFdyQXBlQ3R4dWdaQXpiYzFWZF91V3BLZFJvQlBmQzlpNTZiZ2dnWndPckRrT01ZaGRPei15d0ZpYk15N1IyaUxKWUxGN1dxb2Z2bHhDM2ZOYnZyY0loS2I3Q1Y3a1pVWGN3?oc=5",
    "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
   },
   {
-   "t": "Politischer Widerstand im Iran: Der Westen sieht weg - SWR",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZLc0J4T01tLTdRZU1TeUlnYlotZGZvLWFNN1JIMmgteENRUEplT1A4WV92a2IyWmJaOW9FWVdYb1NwUWhCRk9VNFRkRk5FTXNQRldHU2NtbXdoU1dyemZkRkZDTXRWTjFHTDlBVFFsVDlwUVBpNlROSEdpR2JiOXBlR2ZCdFhsa2t5V3M3X0lORE00Y3gwQWdLQmc2aUdaVGc?oc=5",
-   "pub": "Sun, 11 Oct 2026 14:04:00 GMT"
-  },
-  {
-   "t": "Bundesregierung verdoppelt Wachstumsprognose – doch steigende Preise fressen den Aufschwung wieder auf - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkVHT3p4Nk5HamxKMVU3MG9OMldKTEFlNTBBbzVWUWhiUl85U3JsN0h5MFpIeXJLMWxRMGpfdXJ1a3h2WmwwaXV0ZU80UVFLbjhlLVFUYTVRRDhjREViMHl2Mmpfc3VLZlZJdVMwZW85SF9aVERfeXB1RzEtUk5PMjkyUkdTclBuUjU2QlBhNkVCMmxJNkZiU3hnZHkyTHY5N2pUQ0lHOW1UUms?oc=5",
-   "pub": "Tue, 13 Oct 2026 06:35:27 GMT"
+   "t": "Großbritannien - Burnham: Iran wohl verantwortlich für Militärbasis-Vorfall - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFhVbjRvLVpmdGhYLUJyOWR4bXRvcmdrVmpqRDZvQzBDWjlDanZZYW8yVXZsYXFJQUlUd1RYaUotRl96RDR5UV9CQTNoazNnUW1GUEFsVERwYXJkbUhYN1hvQnlIYjBkdEQzQkVrbVM0a2tOYTR2S0hXOHh6LU94LV85MUhDRWhBTC1nVWNQWllHU01KdGpjX2dqalNiTllB?oc=5",
+   "pub": "Mon, 12 Oct 2026 16:26:06 GMT"
   }
  ]
 }
