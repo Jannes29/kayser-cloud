@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-14T20:43:14Z",
+ "collected_at": "2026-10-14T23:55:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8349,
-   "chg1d_pct": 0.28
+   "price": 0.8318,
+   "chg1d_pct": -0.1
   },
   "USDJPY": {
-   "price": 158.303,
-   "chg1d_pct": -0.01
+   "price": 157.896,
+   "chg1d_pct": -0.27
   },
   "GBPCAD": {
-   "price": 1.8776,
-   "chg1d_pct": -0.37
+   "price": 1.8802,
+   "chg1d_pct": -0.23
   },
   "AUDJPY": {
-   "price": 110.367,
-   "chg1d_pct": -0.16
+   "price": 110.183,
+   "chg1d_pct": -0.32
   },
   "EURUSD": {
-   "price": 1.1158,
-   "chg1d_pct": -0.41
+   "price": 1.1198,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.1011,
-   "chg1d_pct": -0.25
+   "price": 1.1005,
+   "chg1d_pct": -0.31
   },
   "WTI": {
-   "price": 94.99,
-   "chg1d_pct": 0.9
+   "price": 94.81,
+   "chg1d_pct": 0.71
   },
   "BRENT": {
-   "price": 105.86,
-   "chg1d_pct": 0.16
+   "price": 105.7,
+   "chg1d_pct": 0.01
   },
   "GOLD": {
-   "price": 4121.2,
-   "chg1d_pct": -1.34
+   "price": 4129.1,
+   "chg1d_pct": -1.15
   },
   "SPX_FUT": {
-   "price": 7765.0,
-   "chg1d_pct": -1.16
+   "price": 7748.5,
+   "chg1d_pct": -1.37
   },
   "NAS_FUT": {
-   "price": 30145.0,
-   "chg1d_pct": -2.1
+   "price": 29927.0,
+   "chg1d_pct": -2.81
   }
  },
  "headlines": [
@@ -54,14 +54,14 @@
    "pub": "Wed, 14 Oct 2026 13:07:24 GMT"
   },
   {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Wed, 14 Oct 2026 00:47:39 GMT"
-  },
-  {
    "t": "„Es hängt alles von Trump ab. Er muss eine grundlegende Entscheidung treffen“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSExDWHlGXzhoMFZhbk5qVXpyZWtnMGNYanFWRXQ5Zk83bkVOdlY2VE9QX1d5Y0VIa0tXbWtjZ1dTUmF3ZHVGYnBlZ2tOQlk5LURWbm92aXk0ZUVRNFoxVXlMVENFQjREUmI0eDVMeG1hS0xEbzV5T3JlSVVjTFhxV3g2aXBlSTdQQTdGN2o0MkVhM2RhTl9MdzJWVjRrZDZYNEhLNE8zNGZ0NGdiaC01X2tKc1N5b01xWElUUEVKR01ZNmJ0MmFsVUdKcG5xakFndy1zaHBMSDVvVGVGcWZHRkhVRUhGczduOW9zbVRGZw?oc=5",
    "pub": "Wed, 14 Oct 2026 08:40:35 GMT"
+  },
+  {
+   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
+   "pub": "Wed, 14 Oct 2026 00:47:39 GMT"
   },
   {
    "t": "Wie sich ein stärkerer Yen auf Ihr Portfolio auswirken könnte - e-fundresearch.com",
@@ -84,16 +84,6 @@
    "pub": "Wed, 14 Oct 2026 07:16:36 GMT"
   },
   {
-   "t": "US-Inflation heizt Zinsängste an: Droht der nächste Fed Zinsentscheid schon im Oktober? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjZReEhpcEVkUm5TVlJiMmdfaW5LMWNzb0h3d2Jjd21BQUgwSlZub25qQkdfcGRhR0J5ZURrZFVxUmM0OEdmYmRBV19tWUd6SGl6X2lkb1VSREMxWk9FOERMSHo2TkZkaWVXOFN3dHE1Nm9rZndfMjdMSFMwNjRLTlZqeEpLbHE4Y3JWNjR6dWFObGFwYzVtWDF1MVBiMmV2R1FXVXQzLXREa3VRREJpMGQwTVFuRm54c1ZfWlJWQlJBMWxQaUlrUDJNMkxjWVJXbG1R?oc=5",
-   "pub": "Wed, 14 Oct 2026 15:53:00 GMT"
-  },
-  {
-   "t": "Offensive in Straße von Hormus: Bericht: Iran greift zu neuer Angriffstaktik vor US-Wahlen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUlBVG50TnpUT05aTDZaNWJRby1YSHNpRGg3bF8wYWJDMFhEWTVnTkJ5Z0cyRTlSekVRYW5Fc3U1MXQ2M0R6NzFGNkRXaTRNYWMxT3JHakpZVWVkT2hndVBSRHpRVWtHb1RLWVNjd29VbzNCTTljcWdYcmZkbXlWelVubEZTU09JQjZJZ3Jzc0NoNTNwc2M2aWdyYlBjSHN0T21z?oc=5",
-   "pub": "Wed, 14 Oct 2026 05:08:57 GMT"
-  },
-  {
    "t": "Iran-Krieg: Saudi-Arabien und Jemen: Eine neue Front im Iran-Krieg - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOU1rNE5iVkFuT0RMX0t4Y2xRMEp0ZWhoOTNTd2ZKY3hVcE5IelNGelBUUnZyOVVGTlNaTl9XbFFDMGtYQVg1ektXTDk1RmxRY3g2eFVQQzdRSEdvQ3V5NmRMaTZVQk9BYTVzSlRVMmdpbHppTkktcFROVS1jM3VlMTlxcjFCcWpiSzAxVEwtUjltTjg?oc=5",
    "pub": "Mon, 12 Oct 2026 12:26:51 GMT"
@@ -102,6 +92,16 @@
    "t": "Iran reklamiert Angriff auf Supertanker in Straße von Hormus für sich - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFFlWGlza2hpajRiR1dlQnJLQjlRbm9FNTBLbERIV3EyYnduZUFhOC1pMUtOb21QSHJubGJmeGlCaDFnMENnMkRsaUJCbnFBRTkxaUpueFNZU0h4RHJNZ0lRSGxNdklTbXhDbUpDRHpGZnpITlZJcmRUdWtDdjlkSTA1UGVCR184THo3a2IxVHFNSWp3LUtSU2NGZjF0dk1xYTlWbVRqNHdCZmpVNXlwMkFvQzA3QnBURlRQY3ppaWxkYnlsR29aQU5sTQ?oc=5",
    "pub": "Mon, 12 Oct 2026 17:42:00 GMT"
+  },
+  {
+   "t": "US-Inflation heizt Zinsängste an: Droht der nächste Fed Zinsentscheid schon im Oktober? - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjZReEhpcEVkUm5TVlJiMmdfaW5LMWNzb0h3d2Jjd21BQUgwSlZub25qQkdfcGRhR0J5ZURrZFVxUmM0OEdmYmRBV19tWUd6SGl6X2lkb1VSREMxWk9FOERMSHo2TkZkaWVXOFN3dHE1Nm9rZndfMjdMSFMwNjRLTlZqeEpLbHE4Y3JWNjR6dWFObGFwYzVtWDF1MVBiMmV2R1FXVXQzLXREa3VRREJpMGQwTVFuRm54c1ZfWlJWQlJBMWxQaUlrUDJNMkxjWVJXbG1R?oc=5",
+   "pub": "Wed, 14 Oct 2026 15:53:00 GMT"
+  },
+  {
+   "t": "Offensive in Straße von Hormus: Bericht: Iran greift zu neuer Angriffstaktik vor US-Wahlen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUlBVG50TnpUT05aTDZaNWJRby1YSHNpRGg3bF8wYWJDMFhEWTVnTkJ5Z0cyRTlSekVRYW5Fc3U1MXQ2M0R6NzFGNkRXaTRNYWMxT3JHakpZVWVkT2hndVBSRHpRVWtHb1RLWVNjd29VbzNCTTljcWdYcmZkbXlWelVubEZTU09JQjZJZ3Jzc0NoNTNwc2M2aWdyYlBjSHN0T21z?oc=5",
+   "pub": "Wed, 14 Oct 2026 05:08:57 GMT"
   },
   {
    "t": "„Wir könnten zu weit gegangen sein“ Trump gibt Fehler im Iran-Krieg zu, den er selbst prognostiziert hatte - Tagesspiegel",
