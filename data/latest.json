@@ -1,57 +1,57 @@
 {
- "collected_at": "2026-10-14T06:10:16Z",
+ "collected_at": "2026-10-14T11:55:47Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8323,
-   "chg1d_pct": -0.21
+   "price": 0.8331,
+   "chg1d_pct": -0.12
   },
   "USDJPY": {
-   "price": 158.286,
-   "chg1d_pct": -0.15
+   "price": 158.448,
+   "chg1d_pct": -0.05
   },
   "GBPCAD": {
-   "price": 1.884,
-   "chg1d_pct": -0.11
+   "price": 1.8859,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 110.787,
-   "chg1d_pct": 0.47
+   "price": 111.019,
+   "chg1d_pct": 0.68
   },
   "EURUSD": {
-   "price": 1.1207,
-   "chg1d_pct": 0.42
+   "price": 1.1198,
+   "chg1d_pct": 0.34
   },
   "GBPCHF": {
-   "price": 1.1042,
-   "chg1d_pct": 0.23
+   "price": 1.1049,
+   "chg1d_pct": 0.29
   },
   "WTI": {
-   "price": 94.54,
-   "chg1d_pct": 0.42
+   "price": 95.76,
+   "chg1d_pct": 1.72
   },
   "BRENT": {
-   "price": 106.13,
-   "chg1d_pct": 0.42
+   "price": 106.2,
+   "chg1d_pct": 0.48
   },
   "GOLD": {
-   "price": 4170.5,
-   "chg1d_pct": -0.16
+   "price": 4162.5,
+   "chg1d_pct": -0.35
   },
   "SPX_FUT": {
-   "price": 7862.5,
-   "chg1d_pct": 0.09
+   "price": 7869.5,
+   "chg1d_pct": 0.18
   },
   "NAS_FUT": {
-   "price": 30756.25,
+   "price": 30758.5,
    "chg1d_pct": -0.11
   }
  },
  "headlines": [
   {
-   "t": "Gewalt im Iran: Jagd auf Motorradfahrerinnen – die neue Form der blutigen Repression - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOX2J1QTEycG95RnVFNENFSHJCZmp5b29rbm1DQkhHci00ZExvTk9BeHlHZ0hXamhNcXF2M3VLcHR4RXdpa0ZNV2t1NkRuMG1GU3N4RWpqbWdUSEJFY29nd2NWc0JHbHR2ZWtPTjJzS05KV0VPM3JqbnBMMTlxc0ZJY1ktb2JZclZWRjBBd3J3a3J1UEo4RHpQdm5QeXhlQ0EzZ2xHc1Z6NWdHQml6QkZadmh1cTd6RHBDdFNoS3ptWlh5OTAtUlBiS2F5eVZWN1pyVmgyZk1pbVlXMjU1Zkd2amhJZ3ZBc1hya0E?oc=5",
-   "pub": "Wed, 14 Oct 2026 06:04:55 GMT"
+   "t": "Angriffe ausgeweitet: Iran bestätigt neue Taktik gegen Handelsschiffe - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXNjLXNLQjJMbzhzYjYzOUZ0ZzdDeXhpR3pjdHdfSDVyMkVWM0lFb3ZPcmNET1MzVjhlZkxtdWI5R1oyTFowOVFLQngyQTlXajh5VElMcTJ2b1Nob0NWM1loUTE4dy13TlczSXpQRXd3ajJIMDgwekdnTjZyNVhlbnN4QlZiRk9ZMzdJRmotdXdGTWQ3YnY0b0kwalZkam1fbTRXRjN3Nl9TTkhWWUtXYk45elVqd0I1dEE?oc=5",
+   "pub": "Wed, 14 Oct 2026 07:16:36 GMT"
   },
   {
    "t": "Iran sichert Atomanlagen - neue US-Angriffe nach den Midterms? - BILD",
@@ -59,9 +59,9 @@
    "pub": "Wed, 14 Oct 2026 03:55:09 GMT"
   },
   {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Tue, 13 Oct 2026 08:27:51 GMT"
+   "t": "Offensive in Straße von Hormus: Bericht: Iran greift zu neuer Angriffstaktik vor US-Wahlen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUlBVG50TnpUT05aTDZaNWJRby1YSHNpRGg3bF8wYWJDMFhEWTVnTkJ5Z0cyRTlSekVRYW5Fc3U1MXQ2M0R6NzFGNkRXaTRNYWMxT3JHakpZVWVkT2hndVBSRHpRVWtHb1RLWVNjd29VbzNCTTljcWdYcmZkbXlWelVubEZTU09JQjZJZ3Jzc0NoNTNwc2M2aWdyYlBjSHN0T21z?oc=5",
+   "pub": "Wed, 14 Oct 2026 05:08:57 GMT"
   },
   {
    "t": "Vor den Midterms - So unbeliebt ist Trumps Iran-Krieg selbst beim Militär - tagesschau.de",
@@ -69,14 +69,19 @@
    "pub": "Tue, 13 Oct 2026 21:55:57 GMT"
   },
   {
-   "t": "Iran will höheren Ölpreis vor den Zwischenwahlen: Kann US-Präsident Trump 100-USD-Marke beim Rohöl verhindern? - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKRlZ2Zm0zZFMwX3dEaFRiNVV4Wkw5ZlQ4alhMX3NiMm5wdmlxa2VRb2lENENyMDA2ZjNNYmFCRGE5amZKd3h6OHpFS2Q1Q1pXMWFHY21lMXZMb2pCWXlUQkJZZU5TMEhLTDBTRVM4Y2EwdWQxdTIwb0ZVRHU?oc=5",
-   "pub": "Wed, 14 Oct 2026 04:25:00 GMT"
+   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
+   "pub": "Tue, 13 Oct 2026 08:27:51 GMT"
   },
   {
-   "t": "81 Flugzeuge verloren oder beschädigt: Flugzeugverluste der USA im Krieg mit dem Iran - flug revue",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0F5bG9tT3AwT2NtcFBrYkFrMkFMTWtBSTcxcF8tU0h4Z1Fweld6eXRpR1VFdzhpdkp3Si0wejQtMW9wSEMwbTBRNEhyaXBGV0tBblVkT1RrV2hCUmpzc1paYWotb0NCeFFQWF9ZX2hIdmRZQ2ZrTGhtei1keDhxdDhpV2FfVTB3MVdERV9xcDZwTzJEWE9Oa0VySkVESnlnZWlaRWpJQk10SlpKNkwyTXAzWHVvLThrRGVRcw?oc=5",
-   "pub": "Tue, 13 Oct 2026 13:47:49 GMT"
+   "t": "Schiff nach Minentreffer vor Hormus gesunken + Iran ändert Taktik vor US-Wahlen - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTQ0Mzd1UGxwaFgwb3RWLUlRTmlnTWVfNTFrOTJ3bUFpTlJPaWR1ejVTMjVBbnVyTDU3eUZRNjB5NnZsQ2lEZ3ota2lVRmRmdzJ3WnBsZjhiY1I2ejlzdG0xSHI3bDhHUE9Kd2YxeF9IUHlrSWhaODhvTHhNMGZ0Mmt5OVFCdVlZWTZwVXJfd1ViSDJpRy01TEhVcm0xbVRxWXg2bDJDZldodXh4b1NxczlCNGVjYzBHMHcweUx0MndyUEE?oc=5",
+   "pub": "Wed, 14 Oct 2026 11:40:17 GMT"
+  },
+  {
+   "t": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
+   "pub": "Wed, 14 Oct 2026 08:36:54 GMT"
   },
   {
    "t": "Iran reklamiert Angriff auf Supertanker in Straße von Hormus für sich - Spiegel",
@@ -84,29 +89,24 @@
    "pub": "Mon, 12 Oct 2026 17:42:00 GMT"
   },
   {
-   "t": "Offensive in Straße von Hormus: Bericht: Iran greift zu neuer Angriffstaktik vor US-Wahlen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUlBVG50TnpUT05aTDZaNWJRby1YSHNpRGg3bF8wYWJDMFhEWTVnTkJ5Z0cyRTlSekVRYW5Fc3U1MXQ2M0R6NzFGNkRXaTRNYWMxT3JHakpZVWVkT2hndVBSRHpRVWtHb1RLWVNjd29VbzNCTTljcWdYcmZkbXlWelVubEZTU09JQjZJZ3Jzc0NoNTNwc2M2aWdyYlBjSHN0T21z?oc=5",
-   "pub": "Wed, 14 Oct 2026 05:08:57 GMT"
+   "t": "Iran will höheren Ölpreis vor den Zwischenwahlen: Kann US-Präsident Trump 100-USD-Marke beim Rohöl verhindern? - BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKRlZ2Zm0zZFMwX3dEaFRiNVV4Wkw5ZlQ4alhMX3NiMm5wdmlxa2VRb2lENENyMDA2ZjNNYmFCRGE5amZKd3h6OHpFS2Q1Q1pXMWFHY21lMXZMb2pCWXlUQkJZZU5TMEhLTDBTRVM4Y2EwdWQxdTIwb0ZVRHU?oc=5",
+   "pub": "Wed, 14 Oct 2026 04:25:00 GMT"
   },
   {
-   "t": "„Wir könnten zu weit gegangen sein“ Trump gibt Fehler im Iran-Krieg zu, den er selbst prognostiziert hatte - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS1UwbmRJN3BVNlVZVFUzUUFZV3gzT25wS1dJRHEzY3BLSDFUX3lzby0wdGRwdXBYb1VxRXN3NTl1Y0htU1BULVlEbXBsSzBFNmljbm5pd3FMcUdWSnM2dzFFZVhIU0VBakRVNGFTQ2hlUW9NYW1CLW1jWDR4UWpaOXFIY2pxVXVtTTh6OW16czhrcWhsck1Bc0Y1TXNPS05GeU9ZWHZrakpURVJwaWl4X2paUGR6RDFQRTdmdjk2R1M2N0ZvcmVuXzcwYjBsSXB1NU9jY25JRDZ5TmRleHR1ZEtIYWwwd1BnWEdVazM2dEZ5SWM?oc=5",
-   "pub": "Tue, 13 Oct 2026 09:58:16 GMT"
+   "t": "„Es hängt alles von Trump ab. Er muss eine grundlegende Entscheidung treffen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSExDWHlGXzhoMFZhbk5qVXpyZWtnMGNYanFWRXQ5Zk83bkVOdlY2VE9QX1d5Y0VIa0tXbWtjZ1dTUmF3ZHVGYnBlZ2tOQlk5LURWbm92aXk0ZUVRNFoxVXlMVENFQjREUmI0eDVMeG1hS0xEbzV5T3JlSVVjTFhxV3g2aXBlSTdQQTdGN2o0MkVhM2RhTl9MdzJWVjRrZDZYNEhLNE8zNGZ0NGdiaC01X2tKc1N5b01xWElUUEVKR01ZNmJ0MmFsVUdKcG5xakFndy1zaHBMSDVvVGVGcWZHRkhVRUhGczduOW9zbVRGZw?oc=5",
+   "pub": "Wed, 14 Oct 2026 08:40:35 GMT"
   },
   {
-   "t": "Iran prüft US-Punkte und wird nach Abschluss der Prüfung seine Ansichten übermitteln: Sprecher - Xinhuanet Deutsch",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDBvM2c2N1VoUmpPYWxyX0dOTkVKTHZOY1QxYlhpdVREekxiVzhpVm5tM3lLWjR0dkl6V2k4aFJwTnZSRXRxTXgyWmt6VVhfSU9mUGJ3d1JVYm5kTU1wXzRoNjlBQ1ltaUhnU2ZoTTM4WlVaSHltZTlsZnhXdmNBODlR?oc=5",
-   "pub": "Wed, 14 Oct 2026 06:09:22 GMT"
+   "t": "Ölpreis aktuell: Ölpreise verzeichnen leichte Verluste - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkV3UmJMZk9kMDVkV2JSTzgxNW1HRU5wdXkxOE5KYmdIdkJ5NVp2YVJtZnFDZnpTcEFNSzhxdmtWLWUwNnNiWkRCUUJZeThmV25oMGRJeEpHcnA4OFhqcFl0LTU3VzdYWGNzQnB5dWlwZHFaY09JOE9MQ3NtbGE5TXJEN0NhMlJvT1ZOVkdST19QYkVsc3ZHOTF3OTRDNEdS?oc=5",
+   "pub": "Wed, 14 Oct 2026 03:54:40 GMT"
   },
   {
-   "t": "Lage im Iran: Ein islamistisches Nordkorea - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmVtTzNfdUdfNFk1SllDQ2JYZnl6NjU1Ui1FVXRoME1zQXRXZk10N1dvVFdyQXBlQ3R4dWdaQXpiYzFWZF91V3BLZFJvQlBmQzlpNTZiZ2dnWndPckRrT01ZaGRPei15d0ZpYk15N1IyaUxKWUxGN1dxb2Z2bHhDM2ZOYnZyY0loS2I3Q1Y3a1pVWGN3?oc=5",
-   "pub": "Fri, 09 Oct 2026 12:41:45 GMT"
-  },
-  {
-   "t": "Der Staat, der seinen Führer überlebt - zenith.me",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT29LbTdOTkcyeUQwYnQ0S1MzSy14M0g4LUVPcXFGZzg1ejRRemxQcEdJakZ3T1dJZVZKUWs1R3J4WkpqYTFlNkR4VS1aSkNYMmNmd2l3TTliZHQ1Q0JXR2xCalpKMGI5UmxUN2stMXFlTjNoZFRuSGJYc0FqaU5KODdESlVmY0M4NFlfcXd0M3FkdTM0UVd0TUd1NWpSUQ?oc=5",
-   "pub": "Tue, 13 Oct 2026 13:59:15 GMT"
+   "t": "81 Flugzeuge verloren oder beschädigt: Flugzeugverluste der USA im Krieg mit dem Iran - flug revue",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0F5bG9tT3AwT2NtcFBrYkFrMkFMTWtBSTcxcF8tU0h4Z1Fweld6eXRpR1VFdzhpdkp3Si0wejQtMW9wSEMwbTBRNEhyaXBGV0tBblVkT1RrV2hCUmpzc1paYWotb0NCeFFQWF9ZX2hIdmRZQ2ZrTGhtei1keDhxdDhpV2FfVTB3MVdERV9xcDZwTzJEWE9Oa0VySkVESnlnZWlaRWpJQk10SlpKNkwyTXAzWHVvLThrRGVRcw?oc=5",
+   "pub": "Tue, 13 Oct 2026 13:47:49 GMT"
   }
  ]
 }
