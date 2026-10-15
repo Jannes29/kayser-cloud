@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-15T09:57:00Z",
+ "collected_at": "2026-10-15T15:02:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -7,51 +7,56 @@
    "chg1d_pct": -0.38
   },
   "USDJPY": {
-   "price": 157.695,
-   "chg1d_pct": -0.4
+   "price": 158.127,
+   "chg1d_pct": -0.12
   },
   "GBPCAD": {
-   "price": 1.8831,
-   "chg1d_pct": -0.08
+   "price": 1.8806,
+   "chg1d_pct": -0.21
   },
   "AUDJPY": {
-   "price": 109.116,
-   "chg1d_pct": -1.29
+   "price": 109.425,
+   "chg1d_pct": -1.01
   },
   "EURUSD": {
-   "price": 1.1223,
-   "chg1d_pct": 0.17
+   "price": 1.1201,
+   "chg1d_pct": -0.03
   },
   "GBPCHF": {
-   "price": 1.1,
-   "chg1d_pct": -0.35
+   "price": 1.0989,
+   "chg1d_pct": -0.45
   },
   "WTI": {
-   "price": 93.58,
-   "chg1d_pct": -1.59
+   "price": 95.2,
+   "chg1d_pct": 0.12
   },
   "BRENT": {
-   "price": 103.9,
-   "chg1d_pct": -2.04
+   "price": 105.33,
+   "chg1d_pct": -0.69
   },
   "GOLD": {
-   "price": 4177.3,
-   "chg1d_pct": 1.69
+   "price": 4181.5,
+   "chg1d_pct": 1.79
   },
   "SPX_FUT": {
-   "price": 7748.75,
-   "chg1d_pct": -0.28
+   "price": 7760.25,
+   "chg1d_pct": -0.13
   },
   "NAS_FUT": {
-   "price": 29843.25,
-   "chg1d_pct": -1.12
+   "price": 29904.25,
+   "chg1d_pct": -0.92
   }
  },
  "headlines": [
   {
+   "t": "„Es hängt alles von Trump ab. Er muss eine grundlegende Entscheidung treffen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSExDWHlGXzhoMFZhbk5qVXpyZWtnMGNYanFWRXQ5Zk83bkVOdlY2VE9QX1d5Y0VIa0tXbWtjZ1dTUmF3ZHVGYnBlZ2tOQlk5LURWbm92aXk0ZUVRNFoxVXlMVENFQjREUmI0eDVMeG1hS0xEbzV5T3JlSVVjTFhxV3g2aXBlSTdQQTdGN2o0MkVhM2RhTl9MdzJWVjRrZDZYNEhLNE8zNGZ0NGdiaC01X2tKc1N5b01xWElUUEVKR01ZNmJ0MmFsVUdKcG5xakFndy1zaHBMSDVvVGVGcWZHRkhVRUhGczduOW9zbVRGZw?oc=5",
+   "pub": "Thu, 15 Oct 2026 14:39:37 GMT"
+  },
+  {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
-   "pub": "Thu, 15 Oct 2026 09:36:00 GMT"
+   "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
    "t": "Neue Eskalation im Iran-Krieg? USA prüfen Einsatz der „Mutter aller Bomben“ - Berliner Morgenpost",
@@ -66,17 +71,12 @@
   {
    "t": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
-   "pub": "Thu, 15 Oct 2026 09:19:52 GMT"
+   "pub": "Thu, 15 Oct 2026 12:22:44 GMT"
   },
   {
-   "t": "Wahlkampfrede: Trump spricht von Erschießungen wie „in den alten Zeiten üblich“ und sucht Anführer für den Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOMm0xWk5HY1hRWjV0UW41bE1hVmZ3N1hXUXVIdVJtWnlTZXp2NXQ1NW5weGVDZ1prUXN4OWdDZU5lYm00cC1WLTVMR1JUOGROVFBQU2lkMnVOeGt3TnRnTl96dGhtZ01seXhicDFDcW9QT3A3UFpFejE2aEMzc3dTcENDSmJMNjh6UVhENjkzRDBTb1hVeldKcGVoWTc0aEdzOWNGdmRGQnVjX0FNTDZXSHViRjZiNlBlSXdCOTM1bzRQaDI5T0Uyc09MQ2ozWDZWX1ZzTVM0NXRJVlBtVGtlblNHZmM1NmVzQlMyTHhCTGxXMWM5QkNFaXo0RGVWczBNbXAtbHdlc09LZkZ5MVZ6UU9GQQ?oc=5",
-   "pub": "Thu, 15 Oct 2026 00:47:28 GMT"
-  },
-  {
-   "t": "Mutmaßliche Spione des Iran in Hamburg vor Gericht - Urteile erwartet - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemIxTnRNalhaNkpCcTBfWnlRR3NnQVlWamoxczE4Yk5PYWhDU1BoZUxqXzQ3Y0pZc3c0YUYzaDdMOTdvbEROdFhWelMtOEVEVFVuYXlWVGhUVE5xd0ExUjRpdG9CY1lSeTF5cHZIVjhtb1RfU3dIdHJ5SUgzWjVUUXpidExuTGVRWkhRUnVsVm9WOHY5bUdROTFMNUJDSU9sQVo3aUVMOUZfNDRvQi1HN19jZkZza3BPazZIblNXUEpnRml1LXkxNVRB?oc=5",
-   "pub": "Thu, 15 Oct 2026 05:02:00 GMT"
+   "t": "Justiz - Haftstrafen für mutmaßliche Anschlagspläne im Auftrag des Iran - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXZJRGd4LWtsSTRVaXZ1WGU3WlVJbmpvYUEzQnM1Z0lQblc4b3VJdTRPLWRMN0trOVdraDNGSzJkekc3d0ZsbEswVVhHSFFheTEyR3ZFWTNGaFU2XzFBeXRld3UxZG5Kd1JjUVBrdUZuMUZrd2dmWmU4N09RMC1LbjhtWXNxZ0J0UnY2Vjl2dHp3NFlUN3VFZEJ5b3NOWGVwdHVxQS1iTUg?oc=5",
+   "pub": "Thu, 15 Oct 2026 12:02:27 GMT"
   },
   {
    "t": "Golf von Oman: US-Militär zerstört Schiff mit Iran-Verbindungen - Logistik Heute",
@@ -84,29 +84,29 @@
    "pub": "Thu, 15 Oct 2026 08:55:00 GMT"
   },
   {
-   "t": "US-Inflation heizt Zinsängste an: Droht der nächste Fed Zinsentscheid schon im Oktober? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjZReEhpcEVkUm5TVlJiMmdfaW5LMWNzb0h3d2Jjd21BQUgwSlZub25qQkdfcGRhR0J5ZURrZFVxUmM0OEdmYmRBV19tWUd6SGl6X2lkb1VSREMxWk9FOERMSHo2TkZkaWVXOFN3dHE1Nm9rZndfMjdMSFMwNjRLTlZqeEpLbHE4Y3JWNjR6dWFObGFwYzVtWDF1MVBiMmV2R1FXVXQzLXREa3VRREJpMGQwTVFuRm54c1ZfWlJWQlJBMWxQaUlrUDJNMkxjWVJXbG1R?oc=5",
-   "pub": "Wed, 14 Oct 2026 15:53:00 GMT"
+   "t": "USA erwägen offenbar Einsatz der \"Mutter aller Bomben\" im Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWR5aFlGaFFQUkFtY0pKeFZZeER2N2lnOFhhbWpCT28tc0NGTXl6MXE0UHlVLUVuTWVkdUlpaVJuTzNEaEMtSlNxU0ozOU1jeDN2Q3g3YjlWOXpPU1I2alZRcEdtV3VmT002Q0hnZGF2bXgzckJXUnRLbFFxTWk1endsUkRBZDVkLVdqOWN2ZHlYV2xjSkRWb3dDSm1icnFPMS1FbQ?oc=5",
+   "pub": "Thu, 15 Oct 2026 09:42:39 GMT"
   },
   {
-   "t": "USA-News: \"Mutter aller Bomben\" gegen Iran? Was das US-Militär plant - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkFTSG9aMVp2Z1FkbmVaSnludTRYZU9RX0Z2b1FFTWxMUGVlQzNWanUwNkV5R0JZX2JHY2xLQWlEUGJnTjBndjZBRlc3MXZmQnd4TFhCV0tnelBkd0Zsa0tXVlYxQVVSQnJRZGlGVkRKSUJobDNyamRjcll2VEh5Ym12eDZhb0Z5WFAtWkFwVFBlS0ZXSXBQVVRmT2RNZ29PODhxNUVBcU5IcHVSV0VJeG1rMU84RDcza0Zmd0piOFJmbFF0MlJz?oc=5",
-   "pub": "Thu, 15 Oct 2026 06:03:00 GMT"
+   "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSy1UTXFOWVY3MTRTbUZiRUY1anVRY21NUDYyeVhQUnhNQloxUlU1dm42bXlmSzZxVGxjOFRHZTJXVFdhY1F2dmZCZ3dIZjZta0NyY25QNU9RWW1oZ2E1MlNRcmlmZUhOY1JKallNX3N6eGJJTXVKNVRMeXhmNXgyVFhIUmJsaGF1em5kQkl5SnpiMjgtVUtGUmQwT0FYQ1VDbWFZOTFKY2F2MFhuWmRFaWFJelZ1WTVZX1R1a0lMVXVUWWNvM2k1RG95Q3hWQWM?oc=5",
+   "pub": "Thu, 15 Oct 2026 12:43:12 GMT"
   },
   {
-   "t": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say - CNN",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo0UGtXa1ZlVDJ4SDZUYXl6RWNMTk84eDVRbEdrQjlaaWdaV1RnUllsSzFoZ1NyUFplOThtUXhwVTNJTUNyQ2tqM3dDc1dPOU1CTWM1dWF4MmVWalo1MnVOZWpYeEtoZnNNeVNhVFRhV3JRZkx6aDZDSWU2MkN3a3UzTjVJN2txZzhn?oc=5",
-   "pub": "Thu, 15 Oct 2026 04:01:44 GMT"
+   "t": "USA erwägen Einsatz von „Mutter aller Bomben“ gegen Iran - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTTBhMTNxcUhJQ2I1Q0JOT2tPaTBYTmpld3I5Ym50OHc0dDNDdFZIYmVWNkdRblFFcXlGQ3QzRXNhanlCYUNHaklEWDZVeVZ3Y29UWE5YSVo2VHdBS1JNOHJjZHYzcFI5TUljWDg5TC1tVkJ1THhCQWpzbXlaM2ZlQS1MRGVUTzNXd1VBWkFlc3Q2a2N4dndHUXNfMUpFOGxUaDBzajZNLUlOU1hjdTdoQkxQcVdwSGcyYm9Cbnl1Y1YxVmNFMG94NTVQWkxDaGc?oc=5",
+   "pub": "Thu, 15 Oct 2026 13:56:00 GMT"
   },
   {
-   "t": "Ölkonzern: Krieg mit Iran lässt Gewinne von TotalEnergies sprudeln - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa1MwZXdyTzhSUDlCLVBFTmtyc2d5SHJTWmo5Vllmb2VGdnY3SXE4dUlfQjlEejlvelJBeFZlMGxsdy1fX3pkZVVQakIyWXJpM2R3M0xtZnU2U04wbV9NZWN6UHdWRTBqb0hFY3BrNUNGeWFReTh1eFNLMUdDS0ZfYm0yUHZwbHdrWkcwby1nWXlrMG9YTUl0Y0Nfc2lqY0dVLWlzOXd5cVFiSVJuZURXamVCT3BMbEZQR0p5a2Y2MVZXdw?oc=5",
-   "pub": "Thu, 15 Oct 2026 08:42:01 GMT"
+   "t": "US-Militärpläne: Trump-Regierung erwägt offenbar Einsatz von „Mutter aller Bomben“ gegen Iran - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDEwZGRydDJPVjRqS0h4b00yMXd6OGl3SE95TENJVXJqX1h3VDFJb3pJLVJmQU1naE90WUtITnhzZ0RqQktaOWc3eGlkcXYtQlZkQlQtNFlxSVA0dEtFTTBFT1ltYllxZEx0Y0NHaU95MDRMQS1LUjgwLXhEUmlHOTduY3QyaXJrRmpwZUduSm5xa2lXcjdURGlXUjl0MHNXeDI0UkNGQTdFalg2RmdUR2gxSWJyQnN0Tmc?oc=5",
+   "pub": "Thu, 15 Oct 2026 14:09:18 GMT"
   },
   {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Wed, 14 Oct 2026 00:47:39 GMT"
+   "t": "USA erwägen offenbar Einsatz der „Mutter aller Bomben“ gegen Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmlwejRILVJ6emJISWh1by1Oc2JidGpxTWZkUEZIYlFvTjFQT3dvT2JJOXp4cUlPdHJNTzM4dVlCRVdrUWJDRU5yd3Q3bnBEbGdFQ2pFV0VJNElwSGV5ZzczT2dITDJSc3BqMWFxNl9PMUhGYWRhSVN3X2drOFY2MVZGbmtDdnpEMS01LVpsXzYxYlRLaER5cnlHOEZadS1yMFNaYkROWWVTamVOMU1BUkwyQmdGZDNESGdab2FqREt3cFpJWDRTTHN6VnlGYWVFcHVZ?oc=5",
+   "pub": "Thu, 15 Oct 2026 13:49:41 GMT"
   }
  ]
 }
