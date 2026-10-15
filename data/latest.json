@@ -1,72 +1,72 @@
 {
- "collected_at": "2026-10-15T04:42:28Z",
+ "collected_at": "2026-10-15T09:57:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8298,
-   "chg1d_pct": -0.34
+   "price": 0.8294,
+   "chg1d_pct": -0.38
   },
   "USDJPY": {
-   "price": 157.928,
-   "chg1d_pct": -0.25
+   "price": 157.695,
+   "chg1d_pct": -0.4
   },
   "GBPCAD": {
-   "price": 1.8813,
-   "chg1d_pct": -0.17
+   "price": 1.8831,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 109.824,
-   "chg1d_pct": -0.65
+   "price": 109.116,
+   "chg1d_pct": -1.29
   },
   "EURUSD": {
-   "price": 1.122,
-   "chg1d_pct": 0.14
+   "price": 1.1223,
+   "chg1d_pct": 0.17
   },
   "GBPCHF": {
-   "price": 1.0989,
-   "chg1d_pct": -0.45
+   "price": 1.1,
+   "chg1d_pct": -0.35
   },
   "WTI": {
-   "price": 93.99,
-   "chg1d_pct": -1.16
+   "price": 93.58,
+   "chg1d_pct": -1.59
   },
   "BRENT": {
-   "price": 104.23,
-   "chg1d_pct": -1.73
+   "price": 103.9,
+   "chg1d_pct": -2.04
   },
   "GOLD": {
-   "price": 4167.7,
-   "chg1d_pct": 1.46
+   "price": 4177.3,
+   "chg1d_pct": 1.69
   },
   "SPX_FUT": {
-   "price": 7744.75,
-   "chg1d_pct": -0.33
+   "price": 7748.75,
+   "chg1d_pct": -0.28
   },
   "NAS_FUT": {
-   "price": 29929.5,
-   "chg1d_pct": -0.84
+   "price": 29843.25,
+   "chg1d_pct": -1.12
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: Zwei Containerschiffe nach Beschuss in Straße von Hormus gesunken - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOTB6R2U0aS1DLVN1TVNJUE5lOG1aQ09MelNQMnFJQnB0a0NSOTRfM3RuNlNzc3VnTmw5MVFJVFFKTDFJel9yWnUyV3dnZjlTLW16dFRRNWlTVDZmREsxYVNrVFIwT094R2lUSE5QRUFEZ2NLU19BZjhGaDVGenBqdGdBOElUX0puLTNwRENyLVRFR0p2S3Fid0sySXhBUE4wWjl3YS1RN3VwRHgzOEx2NmpLX0xUcF96OEVSWS02R0FWU2g4bGp5c3p1VHR4X2sxNWJfUXBtLXVpZFAtNlhjSg?oc=5",
-   "pub": "Thu, 15 Oct 2026 02:22:00 GMT"
+   "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
+   "pub": "Thu, 15 Oct 2026 09:36:00 GMT"
   },
   {
-   "t": "US-Inflation heizt Zinsängste an: Droht der nächste Fed Zinsentscheid schon im Oktober? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjZReEhpcEVkUm5TVlJiMmdfaW5LMWNzb0h3d2Jjd21BQUgwSlZub25qQkdfcGRhR0J5ZURrZFVxUmM0OEdmYmRBV19tWUd6SGl6X2lkb1VSREMxWk9FOERMSHo2TkZkaWVXOFN3dHE1Nm9rZndfMjdMSFMwNjRLTlZqeEpLbHE4Y3JWNjR6dWFObGFwYzVtWDF1MVBiMmV2R1FXVXQzLXREa3VRREJpMGQwTVFuRm54c1ZfWlJWQlJBMWxQaUlrUDJNMkxjWVJXbG1R?oc=5",
-   "pub": "Wed, 14 Oct 2026 15:53:00 GMT"
+   "t": "Neue Eskalation im Iran-Krieg? USA prüfen Einsatz der „Mutter aller Bomben“ - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmRCNlFmS3FvV3NzVGc5X1BQcU5ROUs5NC1GS3NJRktBSmNkWDFNREswVG1ZT09ma045a1haT0FBaExsQTNpSk50YjNBcy1KSWZGdWNteDllbWlqeklTTWZUbWpJOGp3T1g5b0daS3hUbmVXUE91d19USzd1VDUxVzMxVG0tY0hkR2tzQTZNM05JMUltSmk1blk3M2k3T0RBQ1F2N3QyaVlWTF96Y3pNeTFRdFgta2g3a2dBSUo5RGdZSnQwU1JzZA?oc=5",
+   "pub": "Thu, 15 Oct 2026 07:26:45 GMT"
   },
   {
-   "t": "„Iran ist vorbereitet“: Revolutionsgarden warnen vor US-Schlag vor Midterms – während Südosten eskaliert - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQTBoMXJLZmticURXb0JSTklDWTF4NldJeU9zcHlyU3VSY0FKWGtJU2ZnRmdTaFBiUDc3R2RMa3FpMmhSTzhfWmY3cDE2ekZKZjF4Y1o0cDlKRlZTNGNtWmZvQmdZMlRUTDVTSnM2dWY4SGNMTGdhWEZ2aVZ5eDdTa1V6MlRfdVBOU0ZGN3RIV0hEa0pIQ2xZXzRza2xXT2JWTldEV3ZsNlRNU1ZGMjFQWk95Tm9EVDdUUjEzSElZVQ?oc=5",
-   "pub": "Wed, 14 Oct 2026 13:07:24 GMT"
+   "t": "Iran: US-Militär prüft Einsatz der „Mutter aller Bomben“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDB4YWEtNzRYdzM5TV9YV3ZaUERhMXlhV003b2FzWmx5dnBmSVBOSXhpVnljbGJqdWpZS1RON2JCNTJ3anRPZjFCLTM1b3F0NmF0a3ZxOE1PbklEWUZQTFAza2dKeEozSm16Nm4yQnpFT3FnRV91SVdnM2tad0FOSHR5QzNhUTJSenJmc3ZFc29nS1UwWXBQNDVqSXZiZWk3OEN6UlR2cGZieHpyZ1NpYnJ3R2g2QTlKMXlKYS1QSlpTVnVrYThHQ2czQUR6QzdaWlE?oc=5",
+   "pub": "Thu, 15 Oct 2026 09:13:53 GMT"
   },
   {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Wed, 14 Oct 2026 00:47:39 GMT"
+   "t": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
+   "pub": "Thu, 15 Oct 2026 09:19:52 GMT"
   },
   {
    "t": "Wahlkampfrede: Trump spricht von Erschießungen wie „in den alten Zeiten üblich“ und sucht Anführer für den Iran - WELT",
@@ -74,39 +74,39 @@
    "pub": "Thu, 15 Oct 2026 00:47:28 GMT"
   },
   {
-   "t": "Wie sich ein stärkerer Yen auf Ihr Portfolio auswirken könnte - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDFrM3VmbWpVTWZla1hmMXpPWmF5MzdQVl9XczZ2M1BxWkpJX00zYjB0SThvTDNZNzdSVWRTQVo2TmFLaDRlWmFIZy1od1VnWEtKenZQQTR0MVZPRDgzV1hNeFlSZ0cyaDg1TFlWZ1hONWJEbmRyNzQyalVrV1FBck9xRW0tQnV3b1I3VnNtMVpkVmpOc2tXRjZhYnM1SnBoSmFzZUJzbmh4MmdING9iQWdaWVVmV2pWdFdibjUyckpGVUNveGFEcEFYLXlLam1CdlBfTw?oc=5",
-   "pub": "Wed, 14 Oct 2026 12:48:00 GMT"
+   "t": "Mutmaßliche Spione des Iran in Hamburg vor Gericht - Urteile erwartet - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOemIxTnRNalhaNkpCcTBfWnlRR3NnQVlWamoxczE4Yk5PYWhDU1BoZUxqXzQ3Y0pZc3c0YUYzaDdMOTdvbEROdFhWelMtOEVEVFVuYXlWVGhUVE5xd0ExUjRpdG9CY1lSeTF5cHZIVjhtb1RfU3dIdHJ5SUgzWjVUUXpidExuTGVRWkhRUnVsVm9WOHY5bUdROTFMNUJDSU9sQVo3aUVMOUZfNDRvQi1HN19jZkZza3BPazZIblNXUEpnRml1LXkxNVRB?oc=5",
+   "pub": "Thu, 15 Oct 2026 05:02:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Saudi-Arabien und Jemen: Eine neue Front im Iran-Krieg - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOU1rNE5iVkFuT0RMX0t4Y2xRMEp0ZWhoOTNTd2ZKY3hVcE5IelNGelBUUnZyOVVGTlNaTl9XbFFDMGtYQVg1ektXTDk1RmxRY3g2eFVQQzdRSEdvQ3V5NmRMaTZVQk9BYTVzSlRVMmdpbHppTkktcFROVS1jM3VlMTlxcjFCcWpiSzAxVEwtUjltTjg?oc=5",
-   "pub": "Mon, 12 Oct 2026 12:26:51 GMT"
+   "t": "Golf von Oman: US-Militär zerstört Schiff mit Iran-Verbindungen - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlV1NGV0bGNYZUdscWd1cmxWRUIzSTlUMmU3bmx1c1h2MHVzWUQ4SGx0bFhkcEtjZGZ3TWlPd1ZSNkdfWUdLX01RaHRhVG9IRl8zVWltd1JWR1lRVDBZZnVoeWJJYlgxM01fUDVLVlVjcjl4Y0xENm9vN0pQZ2NTQjJhOVVBTjVYMFRaNDRqRlpSSWtNY2VBSERZc1Q2TVNaWm00WVRaRk1HQ00?oc=5",
+   "pub": "Thu, 15 Oct 2026 08:55:00 GMT"
   },
   {
-   "t": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
-   "pub": "Wed, 14 Oct 2026 08:36:54 GMT"
+   "t": "US-Inflation heizt Zinsängste an: Droht der nächste Fed Zinsentscheid schon im Oktober? - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjZReEhpcEVkUm5TVlJiMmdfaW5LMWNzb0h3d2Jjd21BQUgwSlZub25qQkdfcGRhR0J5ZURrZFVxUmM0OEdmYmRBV19tWUd6SGl6X2lkb1VSREMxWk9FOERMSHo2TkZkaWVXOFN3dHE1Nm9rZndfMjdMSFMwNjRLTlZqeEpLbHE4Y3JWNjR6dWFObGFwYzVtWDF1MVBiMmV2R1FXVXQzLXREa3VRREJpMGQwTVFuRm54c1ZfWlJWQlJBMWxQaUlrUDJNMkxjWVJXbG1R?oc=5",
+   "pub": "Wed, 14 Oct 2026 15:53:00 GMT"
   },
   {
-   "t": "Angriffe ausgeweitet: Iran bestätigt neue Taktik gegen Handelsschiffe - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXNjLXNLQjJMbzhzYjYzOUZ0ZzdDeXhpR3pjdHdfSDVyMkVWM0lFb3ZPcmNET1MzVjhlZkxtdWI5R1oyTFowOVFLQngyQTlXajh5VElMcTJ2b1Nob0NWM1loUTE4dy13TlczSXpQRXd3ajJIMDgwekdnTjZyNVhlbnN4QlZiRk9ZMzdJRmotdXdGTWQ3YnY0b0kwalZkam1fbTRXRjN3Nl9TTkhWWUtXYk45elVqd0I1dEE?oc=5",
-   "pub": "Wed, 14 Oct 2026 07:16:36 GMT"
+   "t": "USA-News: \"Mutter aller Bomben\" gegen Iran? Was das US-Militär plant - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkFTSG9aMVp2Z1FkbmVaSnludTRYZU9RX0Z2b1FFTWxMUGVlQzNWanUwNkV5R0JZX2JHY2xLQWlEUGJnTjBndjZBRlc3MXZmQnd4TFhCV0tnelBkd0Zsa0tXVlYxQVVSQnJRZGlGVkRKSUJobDNyamRjcll2VEh5Ym12eDZhb0Z5WFAtWkFwVFBlS0ZXSXBQVVRmT2RNZ29PODhxNUVBcU5IcHVSV0VJeG1rMU84RDcza0Zmd0piOFJmbFF0MlJz?oc=5",
+   "pub": "Thu, 15 Oct 2026 06:03:00 GMT"
   },
   {
-   "t": "Iran sichert Atomanlagen - neue US-Angriffe nach den Midterms? - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdi1IN1VTM1Q2Rkh5TWV1aG5PMnNIVmpFS0ZtMlltTlNITkhGZGhzeTVyVW5peEctcVVqOUJvTllIaHJNYzA2TVJwdER6cUw3UkxIOUttTGVrVEVfWmJERHpUYjhLdlQ3SjhrcG1tUDZSbEtiRHB4Y3JlVl9hTEN0emRTY1loSGVveEFuM2xQNm5xTnl2VDFISDdmMUc5T09Eemt5ajM3WVNGd0tIeG94QzgwbUl1Um1XT3FicEFMQy1iMUtjRGtaaExNbU5rbWRKOUphd2Zjaw?oc=5",
-   "pub": "Wed, 14 Oct 2026 03:55:09 GMT"
+   "t": "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say - CNN",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXo0UGtXa1ZlVDJ4SDZUYXl6RWNMTk84eDVRbEdrQjlaaWdaV1RnUllsSzFoZ1NyUFplOThtUXhwVTNJTUNyQ2tqM3dDc1dPOU1CTWM1dWF4MmVWalo1MnVOZWpYeEtoZnNNeVNhVFRhV3JRZkx6aDZDSWU2MkN3a3UzTjVJN2txZzhn?oc=5",
+   "pub": "Thu, 15 Oct 2026 04:01:44 GMT"
   },
   {
-   "t": "„Wir könnten zu weit gegangen sein“ Trump gibt Fehler im Iran-Krieg zu, den er selbst prognostiziert hatte - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS1UwbmRJN3BVNlVZVFUzUUFZV3gzT25wS1dJRHEzY3BLSDFUX3lzby0wdGRwdXBYb1VxRXN3NTl1Y0htU1BULVlEbXBsSzBFNmljbm5pd3FMcUdWSnM2dzFFZVhIU0VBakRVNGFTQ2hlUW9NYW1CLW1jWDR4UWpaOXFIY2pxVXVtTTh6OW16czhrcWhsck1Bc0Y1TXNPS05GeU9ZWHZrakpURVJwaWl4X2paUGR6RDFQRTdmdjk2R1M2N0ZvcmVuXzcwYjBsSXB1NU9jY25JRDZ5TmRleHR1ZEtIYWwwd1BnWEdVazM2dEZ5SWM?oc=5",
-   "pub": "Tue, 13 Oct 2026 09:58:16 GMT"
+   "t": "Ölkonzern: Krieg mit Iran lässt Gewinne von TotalEnergies sprudeln - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa1MwZXdyTzhSUDlCLVBFTmtyc2d5SHJTWmo5Vllmb2VGdnY3SXE4dUlfQjlEejlvelJBeFZlMGxsdy1fX3pkZVVQakIyWXJpM2R3M0xtZnU2U04wbV9NZWN6UHdWRTBqb0hFY3BrNUNGeWFReTh1eFNLMUdDS0ZfYm0yUHZwbHdrWkcwby1nWXlrMG9YTUl0Y0Nfc2lqY0dVLWlzOXd5cVFiSVJuZURXamVCT3BMbEZQR0p5a2Y2MVZXdw?oc=5",
+   "pub": "Thu, 15 Oct 2026 08:42:01 GMT"
   },
   {
-   "t": "„Es hängt alles von Trump ab. Er muss eine grundlegende Entscheidung treffen“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSExDWHlGXzhoMFZhbk5qVXpyZWtnMGNYanFWRXQ5Zk83bkVOdlY2VE9QX1d5Y0VIa0tXbWtjZ1dTUmF3ZHVGYnBlZ2tOQlk5LURWbm92aXk0ZUVRNFoxVXlMVENFQjREUmI0eDVMeG1hS0xEbzV5T3JlSVVjTFhxV3g2aXBlSTdQQTdGN2o0MkVhM2RhTl9MdzJWVjRrZDZYNEhLNE8zNGZ0NGdiaC01X2tKc1N5b01xWElUUEVKR01ZNmJ0MmFsVUdKcG5xakFndy1zaHBMSDVvVGVGcWZHRkhVRUhGczduOW9zbVRGZw?oc=5",
-   "pub": "Wed, 14 Oct 2026 08:40:35 GMT"
+   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
+   "pub": "Wed, 14 Oct 2026 00:47:39 GMT"
   }
  ]
 }
