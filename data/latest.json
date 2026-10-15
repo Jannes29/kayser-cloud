@@ -1,57 +1,67 @@
 {
- "collected_at": "2026-10-15T19:09:59Z",
+ "collected_at": "2026-10-15T22:20:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8272,
-   "chg1d_pct": -0.65
+   "price": 0.827,
+   "chg1d_pct": -0.55
   },
   "USDJPY": {
-   "price": 158.138,
-   "chg1d_pct": -0.12
+   "price": 158.043,
+   "chg1d_pct": 0.05
   },
   "GBPCAD": {
-   "price": 1.8829,
-   "chg1d_pct": -0.09
+   "price": 1.883,
+   "chg1d_pct": 0.17
   },
   "AUDJPY": {
-   "price": 109.407,
-   "chg1d_pct": -1.02
+   "price": 109.381,
+   "chg1d_pct": -0.77
   },
   "EURUSD": {
-   "price": 1.1215,
-   "chg1d_pct": 0.09
+   "price": 1.1217,
+   "chg1d_pct": 0.2
   },
   "GBPCHF": {
    "price": 1.0977,
-   "chg1d_pct": -0.56
+   "chg1d_pct": -0.23
   },
   "WTI": {
-   "price": 96.41,
-   "chg1d_pct": 1.39
+   "price": 95.98,
+   "chg1d_pct": 0.94
   },
   "BRENT": {
-   "price": 105.87,
-   "chg1d_pct": -0.18
+   "price": 105.51,
+   "chg1d_pct": -0.52
   },
   "GOLD": {
-   "price": 4178.6,
-   "chg1d_pct": 1.72
+   "price": 4192.7,
+   "chg1d_pct": 2.06
   },
   "SPX_FUT": {
-   "price": 7779.5,
-   "chg1d_pct": 0.12
+   "price": 7792.5,
+   "chg1d_pct": 0.29
   },
   "NAS_FUT": {
-   "price": 30035.25,
-   "chg1d_pct": -0.49
+   "price": 30120.5,
+   "chg1d_pct": -0.21
   }
  },
  "headlines": [
   {
    "t": "„Es hängt alles von Trump ab. Er muss eine grundlegende Entscheidung treffen“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSExDWHlGXzhoMFZhbk5qVXpyZWtnMGNYanFWRXQ5Zk83bkVOdlY2VE9QX1d5Y0VIa0tXbWtjZ1dTUmF3ZHVGYnBlZ2tOQlk5LURWbm92aXk0ZUVRNFoxVXlMVENFQjREUmI0eDVMeG1hS0xEbzV5T3JlSVVjTFhxV3g2aXBlSTdQQTdGN2o0MkVhM2RhTl9MdzJWVjRrZDZYNEhLNE8zNGZ0NGdiaC01X2tKc1N5b01xWElUUEVKR01ZNmJ0MmFsVUdKcG5xakFndy1zaHBMSDVvVGVGcWZHRkhVRUhGczduOW9zbVRGZw?oc=5",
-   "pub": "Thu, 15 Oct 2026 19:07:54 GMT"
+   "pub": "Thu, 15 Oct 2026 22:09:43 GMT"
+  },
+  {
+   "t": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
+   "pub": "Thu, 15 Oct 2026 21:31:39 GMT"
+  },
+  {
+   "t": "„Mutter aller Bomben“: Pentagon schließt Einsatz gegen den Iran nicht aus – und Trump hätte einen Ausweg - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXJXYUF0WmFVdmtTaEg1VUlNeFllWUhTTFFDRHh3cGs2NlpaSjZsT2tISUJBSlAyQWZ0cXpVUU1YOGVkN29SNjBVQUQ5akNLcmdFUldXVHFNV3B0U2lVVzE5MmdCSG53VG0wemNWUW1aeEsxaUR1VjJoWDBqblFRck5mNzZDZktxUE1IbWxtUl9jWTctVFotdFQydjhTaXJNZm1MRg?oc=5",
+   "pub": "Thu, 15 Oct 2026 16:15:51 GMT"
   },
   {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
@@ -59,24 +69,9 @@
    "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
-   "t": "Goldpreis: Fed macht Hoffnung – doch heute wartet der nächste Härtetest - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQmV0OFZoTXNTeFY5eDVKcDgyOVJLczIyaXU1cXNXSkNvdURfWEhoNDUzTXd4dms0TTBBemZVMkxBQ0RfSkM1aHNPNmRJaU9INGxCVUhRejIxdFBQbVY3OXMwbExPZGNCZDdTS3gtS2tmVTVFeXFjWmhuWFVmcXhMbDAxT0hRdXhCdkJtVDVoc1VERWF4dW9iNG5nZ1dTcXQ3WFVBWm9ScmJxN29lUGs3bE16Qlg?oc=5",
-   "pub": "Thu, 15 Oct 2026 18:32:05 GMT"
-  },
-  {
-   "t": "USA erwägen offenbar Einsatz der \"Mutter aller Bomben\" im Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWR5aFlGaFFQUkFtY0pKeFZZeER2N2lnOFhhbWpCT28tc0NGTXl6MXE0UHlVLUVuTWVkdUlpaVJuTzNEaEMtSlNxU0ozOU1jeDN2Q3g3YjlWOXpPU1I2alZRcEdtV3VmT002Q0hnZGF2bXgzckJXUnRLbFFxTWk1endsUkRBZDVkLVdqOWN2ZHlYV2xjSkRWb3dDSm1icnFPMS1FbQ?oc=5",
-   "pub": "Thu, 15 Oct 2026 18:21:39 GMT"
-  },
-  {
    "t": "Neue Eskalation im Iran-Krieg? USA prüfen Einsatz der „Mutter aller Bomben“ - Berliner Morgenpost",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmRCNlFmS3FvV3NzVGc5X1BQcU5ROUs5NC1GS3NJRktBSmNkWDFNREswVG1ZT09ma045a1haT0FBaExsQTNpSk50YjNBcy1KSWZGdWNteDllbWlqeklTTWZUbWpJOGp3T1g5b0daS3hUbmVXUE91d19USzd1VDUxVzMxVG0tY0hkR2tzQTZNM05JMUltSmk1blk3M2k3T0RBQ1F2N3QyaVlWTF96Y3pNeTFRdFgta2g3a2dBSUo5RGdZSnQwU1JzZA?oc=5",
    "pub": "Thu, 15 Oct 2026 07:26:45 GMT"
-  },
-  {
-   "t": "„Mutter aller Bomben“: Pentagon schließt Einsatz gegen den Iran nicht aus – und Trump hätte einen Ausweg - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXJXYUF0WmFVdmtTaEg1VUlNeFllWUhTTFFDRHh3cGs2NlpaSjZsT2tISUJBSlAyQWZ0cXpVUU1YOGVkN29SNjBVQUQ5akNLcmdFUldXVHFNV3B0U2lVVzE5MmdCSG53VG0wemNWUW1aeEsxaUR1VjJoWDBqblFRck5mNzZDZktxUE1IbWxtUl9jWTctVFotdFQydjhTaXJNZm1MRg?oc=5",
-   "pub": "Thu, 15 Oct 2026 16:15:51 GMT"
   },
   {
    "t": "Iran: US-Militär prüft Einsatz der „Mutter aller Bomben“ - BILD",
@@ -94,9 +89,14 @@
    "pub": "Thu, 15 Oct 2026 08:55:00 GMT"
   },
   {
-   "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmxxUndMaDJlOWRjelk0YVV1cXFxN2RxZTd3RzY0cGkycnpPM3dZNDVINzBENjNSMFMtSkFmQmpseXBzYU1QT1dfNUlzam9QazFydkhyMWFPYmZCRlcxSG1RUXlLVjB0N3ZKNG9KbDBqMzEyWTJYNEJESEp6TkotLWZ3Wlc5ZTNpdGV2WWdXanlRZWFucmxVM3ozVVVKNF9vLXkxRWpZS013QmdidEtnYndyMWhkcEVyeVdOWEdiNA?oc=5",
-   "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
+   "t": "USA erwägen offenbar Einsatz der \"Mutter aller Bomben\" im Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWR5aFlGaFFQUkFtY0pKeFZZeER2N2lnOFhhbWpCT28tc0NGTXl6MXE0UHlVLUVuTWVkdUlpaVJuTzNEaEMtSlNxU0ozOU1jeDN2Q3g3YjlWOXpPU1I2alZRcEdtV3VmT002Q0hnZGF2bXgzckJXUnRLbFFxTWk1endsUkRBZDVkLVdqOWN2ZHlYV2xjSkRWb3dDSm1icnFPMS1FbQ?oc=5",
+   "pub": "Thu, 15 Oct 2026 09:42:39 GMT"
+  },
+  {
+   "t": "Lange Haftstrafen für zwei Männer nach Anschlagsplänen im Auftrag von Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aUzVpanBMczR6YWhDNmhFazJmSmhKWVo3cUhKQTJ2RTZaN1MtM29FSGZxZ1hhOE5wWlpadGVDdF9STTJWc0Y5d1hyTXBjUVpBMEd3SXoweE96RkVqS1U5SUQ3Szl5NEk?oc=5",
+   "pub": "Thu, 15 Oct 2026 20:46:59 GMT"
   },
   {
    "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
