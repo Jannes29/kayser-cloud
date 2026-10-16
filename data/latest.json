@@ -1,62 +1,67 @@
 {
- "collected_at": "2026-10-16T12:27:03Z",
+ "collected_at": "2026-10-16T17:25:41Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8238,
-   "chg1d_pct": -0.94
+   "price": 0.8244,
+   "chg1d_pct": -0.87
   },
   "USDJPY": {
-   "price": 157.957,
-   "chg1d_pct": -0.0
-  },
-  "GBPCAD": {
-   "price": 1.889,
-   "chg1d_pct": 0.49
-  },
-  "AUDJPY": {
-   "price": 109.932,
-   "chg1d_pct": -0.27
-  },
-  "EURUSD": {
-   "price": 1.1254,
-   "chg1d_pct": 0.53
-  },
-  "GBPCHF": {
-   "price": 1.0989,
-   "chg1d_pct": -0.12
-  },
-  "WTI": {
-   "price": 96.27,
-   "chg1d_pct": -1.74
-  },
-  "BRENT": {
-   "price": 106.16,
-   "chg1d_pct": 0.23
-  },
-  "GOLD": {
-   "price": 4194.2,
-   "chg1d_pct": 0.58
-  },
-  "SPX_FUT": {
-   "price": 7798.75,
+   "price": 158.119,
    "chg1d_pct": 0.1
   },
+  "GBPCAD": {
+   "price": 1.8852,
+   "chg1d_pct": 0.28
+  },
+  "AUDJPY": {
+   "price": 109.712,
+   "chg1d_pct": -0.47
+  },
+  "EURUSD": {
+   "price": 1.1228,
+   "chg1d_pct": 0.29
+  },
+  "GBPCHF": {
+   "price": 1.0975,
+   "chg1d_pct": -0.25
+  },
+  "WTI": {
+   "price": 98.65,
+   "chg1d_pct": 0.69
+  },
+  "BRENT": {
+   "price": 109.28,
+   "chg1d_pct": 3.17
+  },
+  "GOLD": {
+   "price": 4177.6,
+   "chg1d_pct": 0.18
+  },
+  "SPX_FUT": {
+   "price": 7704.5,
+   "chg1d_pct": -1.11
+  },
   "NAS_FUT": {
-   "price": 30088.5,
-   "chg1d_pct": -0.18
+   "price": 29481.25,
+   "chg1d_pct": -2.2
   }
  },
  "headlines": [
+  {
+   "t": "Iran exportiert Flüssiggas trotz US-Seeblockade: Bericht enthüllt Tankerrouten - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeC1TMWpKR1hwbzNiWWZwWTBROERiV2oxWmlDT0I5VlI4dWVNOGREc3NfUlRXMjAzaFFvbllnb3FiNW1fUzFodHF1VmtKSndnTHdyemF2ak50UXFMOTVUYlVSRms1MlBpa05MZk5qUEdIOHlnOE9WUkhORWJyQld6OWZxWElmN0RaZjNhaw?oc=5",
+   "pub": "Fri, 16 Oct 2026 14:26:33 GMT"
+  },
   {
    "t": "Iran: Wenn \"Ehre\" zum Todesurteil für Frauen wird - DW.com",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3docHM5YVlTandlQURwVzZwcEtrekU5QnFjSzRfOWxUUVZKUmJodGdnUFowNl93STlaLTRmdTZ3QnRpUjh5OVNYVkpxdnY4NUdoZUNOOGx3Wkl2SlFZZUY2LVNzaTBkZVZ5blpZMW1jdTVrN1FwWkQwNFN2emFQNVo5LTFaSFpfTXBPc9IBjAFBVV95cUxQUFZaMkwyNGpHRmFHWHNUbXpFVVhyTHBMM2ZsRUl6UEhYelZ6ZmVQc2d5eFRsOFdCbVJBSmZDNlE1SU83SHhSTFNGRjVOV2xyVldiV25lNkdZM1ZnYzJxZm4wS2dMNURMbXlPQ1g1UFQ0bXB0SFp6dlNsWVV2SkxLZ0lac0lOOVFiZk9jdg?oc=5",
    "pub": "Fri, 16 Oct 2026 08:51:34 GMT"
   },
   {
-   "t": "USA erwägen offenbar Einsatz der \"Mutter aller Bomben\" im Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeVRJRU9UWW54TDY3UTJxY09zWXNTYnRESnZ0OUNhU1RpQngxelJvc2hLSS1WZVFtenhUSFpGdnpsdnlOOXBpamVCTW8xdHhZOWg5a3VsUmhSdDJJV3gzdTFVb1FjWnRadktJMmZSMUhMd040ZG9ROTVHUXdXWWZYV1A4RDRPZnBHVWxQYlZJOWYyZEVYRUJsY0UxOEUxVVFGWlVUNjJwYUNlT1ZaX241MzZEMk5HbEFDNjl2NA?oc=5",
-   "pub": "Fri, 16 Oct 2026 05:20:36 GMT"
+   "t": "Islamwissenschaftler der Freien Universität: „Im Iran muss keine Frau mehr Kopftuch tragen“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTG9wT1ZId09NTno1WGItM2JDa0wwSEhaZ1RBcEE0aWpON1NlR28zbjRLY3lrYjBCZ1NtaUtwVGhmbEs2SGhFSUN6TkV5VFZFYUJCM196UkpxNUlSUF9ZaUxmNTl1OUF3RkgtaFVXMS1WamNmSGJGcXlxc2NsZERCT2JzREgyZGN2WElaYndmNEcxVXlWTEI0RGdrUlN1LXpqOFpvUEQxNEpoRFh1VTg3OFMxVDhhcERYb3NfRlhSMFBNYXJ4aTh4em91cG12eXFVOExhaENiSnp3bUxDS3VMaE83REh1SVlqeUsyUi12WWppQWw5YkdoNA?oc=5",
+   "pub": "Fri, 16 Oct 2026 05:00:00 GMT"
   },
   {
    "t": "Kevin Warsh: Fed-Chef verbreitet Konjunkturoptimismus – kein Zeichen für Zinsschritt - Manager Magazin",
@@ -64,9 +69,19 @@
    "pub": "Fri, 16 Oct 2026 10:10:00 GMT"
   },
   {
-   "t": "Islamwissenschaftler der Freien Universität: „Im Iran muss keine Frau mehr Kopftuch tragen“ - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTG9wT1ZId09NTno1WGItM2JDa0wwSEhaZ1RBcEE0aWpON1NlR28zbjRLY3lrYjBCZ1NtaUtwVGhmbEs2SGhFSUN6TkV5VFZFYUJCM196UkpxNUlSUF9ZaUxmNTl1OUF3RkgtaFVXMS1WamNmSGJGcXlxc2NsZERCT2JzREgyZGN2WElaYndmNEcxVXlWTEI0RGdrUlN1LXpqOFpvUEQxNEpoRFh1VTg3OFMxVDhhcERYb3NfRlhSMFBNYXJ4aTh4em91cG12eXFVOExhaENiSnp3bUxDS3VMaE83REh1SVlqeUsyUi12WWppQWw5YkdoNA?oc=5",
-   "pub": "Fri, 16 Oct 2026 05:00:00 GMT"
+   "t": "Verstärkte US-Militärpräsenz vor Iran: Kommt die \"Mutter aller Bomben\"? - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk9LeXNMUE83WHhzZkduMTlsMXl5LWdZaFoxQ1VNcnhrNXJZcWdWaHRvOTF6NGMwOVFEMGhaWGlCUGNVUDQ2Q0VrRWdVbXlxTElYeFp3eEQ1eUI1c3VCdEhpRFR4TUY4RFBzT1c1QkdlZGM0OF9RVTVqWC1ORElrMDVtX3lXeldaczF0bVdrc2hKVXd6SHVlei0tOGZkOVlxc09z?oc=5",
+   "pub": "Fri, 16 Oct 2026 11:29:54 GMT"
+  },
+  {
+   "t": "Iran-Politik: der neue deutsche Botschafter produziert Realsatire - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlh2SnMxSWg4T3BQLXpiS0dkUlNlMW1Tdkh6bG8xWXZPTEhuMlVPNXFmU3FjbFNrLXhUYXQtSU9ScjRIakJhSUFONzZ4YjRrcGcxLU9BcEVqUEhuSXFQZEZWbEgwV3hnc1RhdkFVVVB0LVJJaXV3Q2ZRUGtIbHAxb3BDeFRSMmMxOHFtOUJwdy1iMWd2cU1RbFJiejdGTGJGX1BTcjJMckRCUldhblJCS2ZwcHUyZw?oc=5",
+   "pub": "Fri, 16 Oct 2026 11:47:00 GMT"
+  },
+  {
+   "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
+   "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
    "t": "EUR/USD Prognose & Forex Aktuell: Erholung trotz US-Erzeugerpreisen - XTB.com",
@@ -79,34 +94,19 @@
    "pub": "Fri, 16 Oct 2026 06:38:39 GMT"
   },
   {
-   "t": "Iran-Politik: der neue deutsche Botschafter produziert Realsatire - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlh2SnMxSWg4T3BQLXpiS0dkUlNlMW1Tdkh6bG8xWXZPTEhuMlVPNXFmU3FjbFNrLXhUYXQtSU9ScjRIakJhSUFONzZ4YjRrcGcxLU9BcEVqUEhuSXFQZEZWbEgwV3hnc1RhdkFVVVB0LVJJaXV3Q2ZRUGtIbHAxb3BDeFRSMmMxOHFtOUJwdy1iMWd2cU1RbFJiejdGTGJGX1BTcjJMckRCUldhblJCS2ZwcHUyZw?oc=5",
-   "pub": "Fri, 16 Oct 2026 11:47:00 GMT"
-  },
-  {
    "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmxxUndMaDJlOWRjelk0YVV1cXFxN2RxZTd3RzY0cGkycnpPM3dZNDVINzBENjNSMFMtSkFmQmpseXBzYU1QT1dfNUlzam9QazFydkhyMWFPYmZCRlcxSG1RUXlLVjB0N3ZKNG9KbDBqMzEyWTJYNEJESEp6TkotLWZ3Wlc5ZTNpdGV2WWdXanlRZWFucmxVM3ozVVVKNF9vLXkxRWpZS013QmdidEtnYndyMWhkcEVyeVdOWEdiNA?oc=5",
    "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
   },
   {
-   "t": "Fed-Chef Warsh hält Märkte in Atem - Wallstreet Online",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDJ1cUo4TW8ycFgxN3RQTl9CX2c4T2F6YWdWUnhNdm5TN3lfVTRQYzltd2owNzZqUG4tNFMyalV2cmVTb1ZWcy1FQWJIZDNadXVIVUtyZThYU19wdmx0MS1FOVpJVkZzc1Q5aEhiRVJ2cXppSm91LXc5ZHNTRWphR2diQ2hzc2Y3cldZbkV3TGx3aDhBQ3A3Zmd1b0FwVms1LXRnbWJWMWhtWWIwbmc?oc=5",
-   "pub": "Fri, 16 Oct 2026 06:38:00 GMT"
+   "t": "Neue Eskalation im Iran-Krieg? USA prüfen Einsatz der „Mutter aller Bomben“ - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmRCNlFmS3FvV3NzVGc5X1BQcU5ROUs5NC1GS3NJRktBSmNkWDFNREswVG1ZT09ma045a1haT0FBaExsQTNpSk50YjNBcy1KSWZGdWNteDllbWlqeklTTWZUbWpJOGp3T1g5b0daS3hUbmVXUE91d19USzd1VDUxVzMxVG0tY0hkR2tzQTZNM05JMUltSmk1blk3M2k3T0RBQ1F2N3QyaVlWTF96Y3pNeTFRdFgta2g3a2dBSUo5RGdZSnQwU1JzZA?oc=5",
+   "pub": "Thu, 15 Oct 2026 07:26:45 GMT"
   },
   {
-   "t": "Fed-Chef Warsh: KI treibt Produktivität, keine Hinweise auf nächste Zinserhöhung - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEhFNmpOOE1iQ0NDUkN1RE5PdVFGUjNGRHM1V2ZydG9JeVV3dGJ6azVUeGxKZVpaRFhVTkFGRDBoaUFHR1dwQ1Q5ai1Ub1ZBb2Q4MGxfN0FDZlNQTVJPN3loX05CY0dEVG1TcDJaTW9nT3NCWno0WC1PWmNaOVNic1hiVDhDamdfaFk4VXI1Q0Z4LUdSbXdHQlZWeHQ5QmdKS0FtZTNyTk5qUjlPaXFZLTVicw?oc=5",
-   "pub": "Fri, 16 Oct 2026 09:32:16 GMT"
-  },
-  {
-   "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
-   "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
-  },
-  {
-   "t": "Was erlebte Michel Foucault 1978 in Teheran? - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3dJR2E1T1hQOVg1eHVuSnhHODdZNWEzdmJ2Q2NJYXVmSG1rSC1hQmlybWdOZUJUbGQ5TjhnSGR1UnhOQ29za1VaY1lTeDF0YkVNRHFCbHUxY2ZTUFR3UVZWa2ZJdTZQNFZEUUtHbngtM1Q1QWRoendkZnlWbHhtd0tEbnBRTEZaMl9LZXZYcEc4QlBfOFF0U3FKMGJycVl1eUMtSEMyU2xucDBYbkJEYkloNA?oc=5",
-   "pub": "Fri, 16 Oct 2026 06:39:05 GMT"
+   "t": "Hamburg: Iran-Spione zu Haftstrafen verurteilt - Israelnetz",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQm1NWkRiMXN0SkJsbVo5a0h6RVdwWW4wX1JUM1VKcXlYQlYwT1dOdEhrVzhBLTBBX0x4MXFELUJsWVI0VVloOXhHVmNVdC05NG4zUU1jZEpJamw1eEwxZWdSbzBtZlc1dlRpQnZDSDFpRzJvSDhPTC1CWkxkUQ?oc=5",
+   "pub": "Fri, 16 Oct 2026 13:25:36 GMT"
   }
  ]
 }
