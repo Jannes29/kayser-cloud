@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-17T19:25:30Z",
+ "collected_at": "2026-10-17T22:21:03Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,9 +54,24 @@
    "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
   },
   {
+   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
+   "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
+  },
+  {
+   "t": "Saudi-Arabien will Industrienation werden – zerbomben Iran und Huthi das Vorhaben? - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSndTMmI2NXFDbE9Kb05fYVVobWIwX1RoRkNOTTVZTnVubHZqQUk5dGVpdzVFbVdXSUhWNDdtckthb1BmLWNiZXRCaG15MzdpS0hROUF1YzAwQTBDNkNQeHVySEZZeElIS1dpQkw3Z3UzS1l3R0p3TWxHZFhnUVNqRjFualRwOHFrYms5T2JaaTAwN2F0czRCcFFVWVplRUxlVXM4aFlCTktibDRvd3ZHUFhwbGRXN0RKcnJSM0hiLUVLNFhzeGtxQktXNjVjSE83WUJFTUNCb243YzNwcldn?oc=5",
+   "pub": "Sat, 17 Oct 2026 08:15:54 GMT"
+  },
+  {
    "t": "Iran soll Huthi bei Angriffen auf Saudi-Arabien mit Zieldaten versorgen - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzdkenFtdDJZRTZLVnA0NVZfdExTSHpodHFCZ2V1aHl1bGJ2dmIwSFNBX0hYSktHSXI5bEYzOFdaUC14SkJiRkN0ZXpBWF9fVU9XM3Npa0dFU3ZBamk2V09lel8zcGVxNHlnTzFkOHNjMUE4YnhYYWZBai12QWQwTVRtM3dBQVF6RGRyZ3R0dVZRYndEcXBuTndSZWpRc2VneHhUeHhzQkhESU5ZTEdqSlhVcHJlVEZFYUNDWg?oc=5",
    "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
+  },
+  {
+   "t": "WDH/Iran: Supertanker fährt in Straße von Hormus auf Seemine - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1N5T0FORWlhejR5ZHE0MGgxRnViUmZLeWhucE4tRVpLT3BrclhQNHV0eXVBTEcwcHQ5Z3R4bHlpdFpqRXlNeUk5NXl6XzlyQWtLTXB1UllkS20zOXdVOFZhWHZrUnNoc1RTRmktMWRkaHZTeFh6VXR4RTVvTnVFWkpqdWQ5dTNuaTVBX2dMT01DYmYwc2RBS0dFeGVCV2hCLVA1b1lsTGE0WmlaMU0wVW5n?oc=5",
+   "pub": "Sat, 17 Oct 2026 13:27:37 GMT"
   },
   {
    "t": "Iran intensiviert Angriffe: Behörde meldet Tankerbeschuss weit von Hormus-Passage entfernt - n-tv.de",
@@ -69,9 +84,9 @@
    "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
   },
   {
-   "t": "Explosion in der Straße von Hormus: Supertanker trifft Seemine – Lage am Golf eskaliert - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk5kTU5HS3JQM2xrOWdoX1pwZmM4RV9PdTdvakg5eXVockVUcjJXQmtPZEJoNnZwU081X2J2MzNJNUtZSkdEaUlSU3JHeVlFRkNia3lSMWs0Q01uWkdZYzdDc3BvNElibXJkeTl2S1o5dEo0S3pCVS0wTUdUdG5ETnZDUENJRmNqQkFwaHN2Z3RsMTBDTjRqNTdKdUt5VVZqMWJvcDNkQnpPVmNUNVNSZWlWcEM5UQ?oc=5",
-   "pub": "Sat, 17 Oct 2026 13:10:00 GMT"
+   "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1Z5UmpwTl9XcXB4OHd5dE1QV1N4TEVrVTdRd040SHpFTFBQV296U0YxZEd2UWtHLWRNQVVKdjRBcWlLdThEV2otbGZVLTVRdC1KLTE5MGEzUTlPN0JDT3ktX0hacmdOVkx6WUtlV05SRW1JOTBPNy1HeW52UlBrUi1oVHk2Z3hnb0dydWhpaUdENFFhUjhRdGxJVmlaVllPRzhKMWJyZk9RbFFITjVEWTVCTWJEMURhUXVhUjZtcFJndTh3M0RtcGY0M0toX3RKMW5r?oc=5",
+   "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
   },
   {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
@@ -79,34 +94,19 @@
    "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
-   "t": "Iran: Wenn \"Ehre\" zum Todesurteil für Frauen wird - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3docHM5YVlTandlQURwVzZwcEtrekU5QnFjSzRfOWxUUVZKUmJodGdnUFowNl93STlaLTRmdTZ3QnRpUjh5OVNYVkpxdnY4NUdoZUNOOGx3Wkl2SlFZZUY2LVNzaTBkZVZ5blpZMW1jdTVrN1FwWkQwNFN2emFQNVo5LTFaSFpfTXBPc9IBjAFBVV95cUxQUFZaMkwyNGpHRmFHWHNUbXpFVVhyTHBMM2ZsRUl6UEhYelZ6ZmVQc2d5eFRsOFdCbVJBSmZDNlE1SU83SHhSTFNGRjVOV2xyVldiV25lNkdZM1ZnYzJxZm4wS2dMNURMbXlPQ1g1UFQ0bXB0SFp6dlNsWVV2SkxLZ0lac0lOOVFiZk9jdg?oc=5",
-   "pub": "Sat, 17 Oct 2026 01:29:02 GMT"
-  },
-  {
-   "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1Z5UmpwTl9XcXB4OHd5dE1QV1N4TEVrVTdRd040SHpFTFBQV296U0YxZEd2UWtHLWRNQVVKdjRBcWlLdThEV2otbGZVLTVRdC1KLTE5MGEzUTlPN0JDT3ktX0hacmdOVkx6WUtlV05SRW1JOTBPNy1HeW52UlBrUi1oVHk2Z3hnb0dydWhpaUdENFFhUjhRdGxJVmlaVllPRzhKMWJyZk9RbFFITjVEWTVCTWJEMURhUXVhUjZtcFJndTh3M0RtcGY0M0toX3RKMW5r?oc=5",
-   "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
-  },
-  {
    "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
    "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
   },
   {
-   "t": "Iran meldet Öltanker-Explosion - auf Seemine gefahren? - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0dZTDBhMXJnYnVQcDAzQlF0Q0RoV3RNUFR2QTRyZFdPVWZvR0d0cXVkcmJqYnJXRThFRm9ZVU1WZWZ4VUlySDU1aWlxanZ2NTRObmlPZk1GZ1pjWXpMVVhlYnY2NHd0NkVFczUwRWFkR0JERUg5X21oU2lwbE1mQW9sbWdvMkI0U0p6aWo3Q2ZfNjA5T1BvdzNvTWlHQlBlTjZXTjgtcWM?oc=5",
-   "pub": "Sat, 17 Oct 2026 14:43:58 GMT"
+   "t": "Kaiserin Soraya von Iran: Schönheit zwischen Tradition und Selbstbestimmung - GALA.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW9RSnE3ZXhocGV2dUVscUVTU243VzhXQnRrSEtkQWZiSFQ4a2ZabE9xVnhrSkhiaHA4b3otZ2xZdUl5dzd2RnhON1U0WUc3RTJfWk1nVWIyX083N0VkNDhGaTdPVFZmQkYyWjJvNUM2QmhQN3l1UVZNbTV1dWE4Qk9fUDBfaktIaUIwYVVlR1dDQWVXQXZFMlAtbHVnbk80bE5CRkZPYzZVaFg1RGt4OWdoWjRCOUgyOW1Nc1dpT0tCSGstZWc4QTdqc3A?oc=5",
+   "pub": "Sat, 17 Oct 2026 20:00:00 GMT"
   },
   {
-   "t": "Die nächste Zinserhöhung der Fed? Entscheidend ist etwas anderes. - J.P. Morgan Private Bank",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0w5S2ZPMjI4NXNhbU80dk5SWUxxbkJrRzdmUUJmaGxoSGd1b1ByRTZSSUg0RGN3WjVjUkN3dnhxQUNtdGd1Y1psSTk2TUNaUjVNY0s5ZFNnV2tFeGxEeHNZR1JOblVLVV9HMG5SQ3lPY1NkaUR3RXMwRS1zLVVPalVxQ1lmRUUzd3djVml3VDJ6cDRhRDIzTFdDTHZNbFNIY2xoSEt0Vk1yei1tRjV3RDJtT1Y?oc=5",
-   "pub": "Mon, 12 Oct 2026 07:00:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0p1aUQxSVN5cEtlQmg4bjZBOGlxMUtmSmxveFhVeWlDUkIxRU9hNFA0eHlBbmpBYlNqWlY0UzZ5cUpRTW9SZ2kxUzZsWjZhTjNLZEpqdTRWVVZDYXNiSkxad2tMYWhFVm1fY0hoQVFnd19jVS1kbmhneENHODhidmJHRnBpLS1xTG12YU95ZDRjbWV0MXRTN09odEtDT2NlbnRXWEM1Y0JrZTNjZzNXSlVrM0FrMV9R?oc=5",
-   "pub": "Sat, 17 Oct 2026 15:00:37 GMT"
+   "t": "Explosion in der Straße von Hormus: Supertanker trifft Seemine – Lage am Golf eskaliert - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk5kTU5HS3JQM2xrOWdoX1pwZmM4RV9PdTdvakg5eXVockVUcjJXQmtPZEJoNnZwU081X2J2MzNJNUtZSkdEaUlSU3JHeVlFRkNia3lSMWs0Q01uWkdZYzdDc3BvNElibXJkeTl2S1o5dEo0S3pCVS0wTUdUdG5ETnZDUENJRmNqQkFwaHN2Z3RsMTBDTjRqNTdKdUt5VVZqMWJvcDNkQnpPVmNUNVNSZWlWcEM5UQ?oc=5",
+   "pub": "Sat, 17 Oct 2026 13:10:00 GMT"
   }
  ]
 }
