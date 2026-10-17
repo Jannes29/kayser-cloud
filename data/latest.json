@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-16T23:37:14Z",
+ "collected_at": "2026-10-17T04:29:34Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -27,41 +27,36 @@
    "chg1d_pct": -0.03
   },
   "WTI": {
-   "price": 99.04,
-   "chg1d_pct": 1.09
+   "price": 99.02,
+   "chg1d_pct": 1.07
   },
   "BRENT": {
-   "price": 109.69,
-   "chg1d_pct": 3.56
+   "price": 109.86,
+   "chg1d_pct": 3.72
   },
   "GOLD": {
-   "price": 4186.7,
-   "chg1d_pct": 0.4
+   "price": 4181.1,
+   "chg1d_pct": 0.26
   },
   "SPX_FUT": {
-   "price": 7703.0,
-   "chg1d_pct": -1.13
+   "price": 7704.25,
+   "chg1d_pct": -1.11
   },
   "NAS_FUT": {
-   "price": 29391.25,
+   "price": 29391.5,
    "chg1d_pct": -2.5
   }
  },
  "headlines": [
   {
+   "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1Z5UmpwTl9XcXB4OHd5dE1QV1N4TEVrVTdRd040SHpFTFBQV296U0YxZEd2UWtHLWRNQVVKdjRBcWlLdThEV2otbGZVLTVRdC1KLTE5MGEzUTlPN0JDT3ktX0hacmdOVkx6WUtlV05SRW1JOTBPNy1HeW52UlBrUi1oVHk2Z3hnb0dydWhpaUdENFFhUjhRdGxJVmlaVllPRzhKMWJyZk9RbFFITjVEWTVCTWJEMURhUXVhUjZtcFJndTh3M0RtcGY0M0toX3RKMW5r?oc=5",
+   "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
+  },
+  {
    "t": "Iran exportiert Flüssiggas trotz US-Seeblockade: Bericht enthüllt Tankerrouten - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeC1TMWpKR1hwbzNiWWZwWTBROERiV2oxWmlDT0I5VlI4dWVNOGREc3NfUlRXMjAzaFFvbllnb3FiNW1fUzFodHF1VmtKSndnTHdyemF2ak50UXFMOTVUYlVSRms1MlBpa05MZk5qUEdIOHlnOE9WUkhORWJyQld6OWZxWElmN0RaZjNhaw?oc=5",
    "pub": "Fri, 16 Oct 2026 14:26:33 GMT"
-  },
-  {
-   "t": "Iran: Wenn \"Ehre\" zum Todesurteil für Frauen wird - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3docHM5YVlTandlQURwVzZwcEtrekU5QnFjSzRfOWxUUVZKUmJodGdnUFowNl93STlaLTRmdTZ3QnRpUjh5OVNYVkpxdnY4NUdoZUNOOGx3Wkl2SlFZZUY2LVNzaTBkZVZ5blpZMW1jdTVrN1FwWkQwNFN2emFQNVo5LTFaSFpfTXBPc9IBjAFBVV95cUxQUFZaMkwyNGpHRmFHWHNUbXpFVVhyTHBMM2ZsRUl6UEhYelZ6ZmVQc2d5eFRsOFdCbVJBSmZDNlE1SU83SHhSTFNGRjVOV2xyVldiV25lNkdZM1ZnYzJxZm4wS2dMNURMbXlPQ1g1UFQ0bXB0SFp6dlNsWVV2SkxLZ0lac0lOOVFiZk9jdg?oc=5",
-   "pub": "Fri, 16 Oct 2026 08:51:34 GMT"
-  },
-  {
-   "t": "Islamwissenschaftler der Freien Universität: „Im Iran muss keine Frau mehr Kopftuch tragen“ - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTG9wT1ZId09NTno1WGItM2JDa0wwSEhaZ1RBcEE0aWpON1NlR28zbjRLY3lrYjBCZ1NtaUtwVGhmbEs2SGhFSUN6TkV5VFZFYUJCM196UkpxNUlSUF9ZaUxmNTl1OUF3RkgtaFVXMS1WamNmSGJGcXlxc2NsZERCT2JzREgyZGN2WElaYndmNEcxVXlWTEI0RGdrUlN1LXpqOFpvUEQxNEpoRFh1VTg3OFMxVDhhcERYb3NfRlhSMFBNYXJ4aTh4em91cG12eXFVOExhaENiSnp3bUxDS3VMaE83REh1SVlqeUsyUi12WWppQWw5YkdoNA?oc=5",
-   "pub": "Fri, 16 Oct 2026 05:00:00 GMT"
   },
   {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
@@ -69,19 +64,14 @@
    "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
+   "t": "Iran: Wenn \"Ehre\" zum Todesurteil für Frauen wird - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV3docHM5YVlTandlQURwVzZwcEtrekU5QnFjSzRfOWxUUVZKUmJodGdnUFowNl93STlaLTRmdTZ3QnRpUjh5OVNYVkpxdnY4NUdoZUNOOGx3Wkl2SlFZZUY2LVNzaTBkZVZ5blpZMW1jdTVrN1FwWkQwNFN2emFQNVo5LTFaSFpfTXBPc9IBjAFBVV95cUxQUFZaMkwyNGpHRmFHWHNUbXpFVVhyTHBMM2ZsRUl6UEhYelZ6ZmVQc2d5eFRsOFdCbVJBSmZDNlE1SU83SHhSTFNGRjVOV2xyVldiV25lNkdZM1ZnYzJxZm4wS2dMNURMbXlPQ1g1UFQ0bXB0SFp6dlNsWVV2SkxLZ0lac0lOOVFiZk9jdg?oc=5",
+   "pub": "Fri, 16 Oct 2026 08:51:34 GMT"
+  },
+  {
    "t": "Iran-Politik: der neue deutsche Botschafter produziert Realsatire - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlh2SnMxSWg4T3BQLXpiS0dkUlNlMW1Tdkh6bG8xWXZPTEhuMlVPNXFmU3FjbFNrLXhUYXQtSU9ScjRIakJhSUFONzZ4YjRrcGcxLU9BcEVqUEhuSXFQZEZWbEgwV3hnc1RhdkFVVVB0LVJJaXV3Q2ZRUGtIbHAxb3BDeFRSMmMxOHFtOUJwdy1iMWd2cU1RbFJiejdGTGJGX1BTcjJMckRCUldhblJCS2ZwcHUyZw?oc=5",
    "pub": "Fri, 16 Oct 2026 11:47:00 GMT"
-  },
-  {
-   "t": "Kevin Warsh: Fed-Chef verbreitet Konjunkturoptimismus – kein Zeichen für Zinsschritt - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZUVCNmY5MVJKSmxtRm04TmVKdndGYzFPZmdsSjNlMHYxYUpQYTFkbEs1YjRuOWFHcUhHcGV0WkJhUjBnSUZYUXAyU0FDc1NGR1ItSzZCOU5FdDc1cVk1c19mb082V0JUbVBxOGJGeVBLemtXN3lFVlQ0N1pxaUZYYUtlT2VoaTYydWlEakoxVlVLOGt6eDVPaUl2b3E0VUJ5dXVPOFJIRWdwR2tOV2xuSGFnVXNMRS1hTFZVS1huTnBWcTZTRFlzQzN6bnl4MXNmYVB6U0lCeFlYaDE3bl9RbkxNSWNDOXAzemx0dXVjVWdMWkVSbVBpUnRRZEgwTjFQeENKN0JR?oc=5",
-   "pub": "Fri, 16 Oct 2026 10:10:00 GMT"
-  },
-  {
-   "t": "Verstärkte US-Militärpräsenz vor Iran: Kommt die \"Mutter aller Bomben\"? - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk9LeXNMUE83WHhzZkduMTlsMXl5LWdZaFoxQ1VNcnhrNXJZcWdWaHRvOTF6NGMwOVFEMGhaWGlCUGNVUDQ2Q0VrRWdVbXlxTElYeFp3eEQ1eUI1c3VCdEhpRFR4TUY4RFBzT1c1QkdlZGM0OF9RVTVqWC1ORElrMDVtX3lXeldaczF0bVdrc2hKVXd6SHVlei0tOGZkOVlxc09z?oc=5",
-   "pub": "Fri, 16 Oct 2026 11:29:54 GMT"
   },
   {
    "t": "Neue Eskalation im Iran-Krieg? USA prüfen Einsatz der „Mutter aller Bomben“ - Berliner Morgenpost",
@@ -94,19 +84,29 @@
    "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
   },
   {
-   "t": "Der Börsen-Tag: Zinserhöhung in den USA? Das sagt Fed-Chef Warsh - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzY4aXFRTGw2V3c3Vm1TUmllbDZaRVVQa1ZHcF96a0dRTzNyLVp4cjBMX3YtNWcwTXhsZU4zR3I0VkthM0ctYWRUV2R0eEFlR2M0dWdUZDZrNDFNd1FlZF9jcHR3Y2tELWFNT1BkU3JjaDVyTTlQcE5LejIxeGhFNGROVjJsOXJodWJUbVFrYU1DUFhtTnI3dEpCOXhsRmpIZUprZ1BZMDRZRUNXc1dzaw?oc=5",
-   "pub": "Fri, 16 Oct 2026 08:04:00 GMT"
-  },
-  {
    "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
    "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
   },
   {
-   "t": "Hamburg: Iran-Spione zu Haftstrafen verurteilt - Israelnetz",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fQm1NWkRiMXN0SkJsbVo5a0h6RVdwWW4wX1JUM1VKcXlYQlYwT1dOdEhrVzhBLTBBX0x4MXFELUJsWVI0VVloOXhHVmNVdC05NG4zUU1jZEpJamw1eEwxZWdSbzBtZlc1dlRpQnZDSDFpRzJvSDhPTC1CWkxkUQ?oc=5",
-   "pub": "Fri, 16 Oct 2026 13:25:36 GMT"
+   "t": "Verstärkte US-Militärpräsenz vor Iran: Kommt die \"Mutter aller Bomben\"? - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk9LeXNMUE83WHhzZkduMTlsMXl5LWdZaFoxQ1VNcnhrNXJZcWdWaHRvOTF6NGMwOVFEMGhaWGlCUGNVUDQ2Q0VrRWdVbXlxTElYeFp3eEQ1eUI1c3VCdEhpRFR4TUY4RFBzT1c1QkdlZGM0OF9RVTVqWC1ORElrMDVtX3lXeldaczF0bVdrc2hKVXd6SHVlei0tOGZkOVlxc09z?oc=5",
+   "pub": "Fri, 16 Oct 2026 11:29:54 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Saudi-Arabien und Jemen: Eine neue Front im Iran-Krieg - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOU1rNE5iVkFuT0RMX0t4Y2xRMEp0ZWhoOTNTd2ZKY3hVcE5IelNGelBUUnZyOVVGTlNaTl9XbFFDMGtYQVg1ektXTDk1RmxRY3g2eFVQQzdRSEdvQ3V5NmRMaTZVQk9BYTVzSlRVMmdpbHppTkktcFROVS1jM3VlMTlxcjFCcWpiSzAxVEwtUjltTjg?oc=5",
+   "pub": "Mon, 12 Oct 2026 12:26:51 GMT"
+  },
+  {
+   "t": "Kevin Warsh: Fed-Chef verbreitet Konjunkturoptimismus – kein Zeichen für Zinsschritt - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZUVCNmY5MVJKSmxtRm04TmVKdndGYzFPZmdsSjNlMHYxYUpQYTFkbEs1YjRuOWFHcUhHcGV0WkJhUjBnSUZYUXAyU0FDc1NGR1ItSzZCOU5FdDc1cVk1c19mb082V0JUbVBxOGJGeVBLemtXN3lFVlQ0N1pxaUZYYUtlT2VoaTYydWlEakoxVlVLOGt6eDVPaUl2b3E0VUJ5dXVPOFJIRWdwR2tOV2xuSGFnVXNMRS1hTFZVS1huTnBWcTZTRFlzQzN6bnl4MXNmYVB6U0lCeFlYaDE3bl9RbkxNSWNDOXAzemx0dXVjVWdMWkVSbVBpUnRRZEgwTjFQeENKN0JR?oc=5",
+   "pub": "Fri, 16 Oct 2026 10:10:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Wie die Drohungen von US-Präsident Trump ins Leere laufen - SWR",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDByY2dCVjV1QkZOSU1TRXNrMERvNFVmVjNvY3RPcEdhaU1iREs2bUtHT25HX0dnMThPVWZBTnJNQWVvZVhoejV1SFByVGh5SHFmZWFaOFZqZnQ1cGRCcy0yZ2FkY29fUTM0cmFSaDV6LWZDYVZjUEdpaEtfOXR3VndTMWwzOUYyMFY5VA?oc=5",
+   "pub": "Tue, 13 Oct 2026 12:00:00 GMT"
   }
  ]
 }
