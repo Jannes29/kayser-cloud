@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-17T09:23:27Z",
+ "collected_at": "2026-10-17T13:44:13Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -19,8 +19,8 @@
    "chg1d_pct": 0.32
   },
   "EURUSD": {
-   "price": 1.1244,
-   "chg1d_pct": 0.28
+   "price": 1.1242,
+   "chg1d_pct": 0.26
   },
   "GBPCHF": {
    "price": 1.0981,
@@ -54,14 +54,19 @@
    "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
   },
   {
-   "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1Z5UmpwTl9XcXB4OHd5dE1QV1N4TEVrVTdRd040SHpFTFBQV296U0YxZEd2UWtHLWRNQVVKdjRBcWlLdThEV2otbGZVLTVRdC1KLTE5MGEzUTlPN0JDT3ktX0hacmdOVkx6WUtlV05SRW1JOTBPNy1HeW52UlBrUi1oVHk2Z3hnb0dydWhpaUdENFFhUjhRdGxJVmlaVllPRzhKMWJyZk9RbFFITjVEWTVCTWJEMURhUXVhUjZtcFJndTh3M0RtcGY0M0toX3RKMW5r?oc=5",
-   "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
+   "t": "Iran meldet erneut Explosion an Supertanker - Allgemeine Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajQwLUdKT2p5UW9rUjNhMFFnaTY0dm5lckc5U1ozSXE0SEtObWxkN1p1dUV6R0MxYjltMGhWNG5scXl4ZXotVWJ5MFZOeTYyTkhYTWdMdEF6OTZ0YUgySkIwanVST2hYT3RJdHlrTkVEdGRsaHowQ1FxZ0Uxby01R2JzN0l1R1AtcDloVkh1U3VSUGRmQmVrVGdKUi1PX21HRU92eGxhZGZfMVMzNkxZ?oc=5",
+   "pub": "Sat, 17 Oct 2026 13:08:00 GMT"
   },
   {
-   "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmxxUndMaDJlOWRjelk0YVV1cXFxN2RxZTd3RzY0cGkycnpPM3dZNDVINzBENjNSMFMtSkFmQmpseXBzYU1QT1dfNUlzam9QazFydkhyMWFPYmZCRlcxSG1RUXlLVjB0N3ZKNG9KbDBqMzEyWTJYNEJESEp6TkotLWZ3Wlc5ZTNpdGV2WWdXanlRZWFucmxVM3ozVVVKNF9vLXkxRWpZS013QmdidEtnYndyMWhkcEVyeVdOWEdiNA?oc=5",
-   "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
+   "t": "Explosion in der Straße von Hormus: Supertanker trifft Seemine – Lage am Golf eskaliert - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSk5kTU5HS3JQM2xrOWdoX1pwZmM4RV9PdTdvakg5eXVockVUcjJXQmtPZEJoNnZwU081X2J2MzNJNUtZSkdEaUlSU3JHeVlFRkNia3lSMWs0Q01uWkdZYzdDc3BvNElibXJkeTl2S1o5dEo0S3pCVS0wTUdUdG5ETnZDUENJRmNqQkFwaHN2Z3RsMTBDTjRqNTdKdUt5VVZqMWJvcDNkQnpPVmNUNVNSZWlWcEM5UQ?oc=5",
+   "pub": "Sat, 17 Oct 2026 08:21:14 GMT"
+  },
+  {
+   "t": "Iran intensiviert Angriffe: Behörde meldet Tankerbeschuss weit von Hormus-Passage entfernt - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGprZ3lqblYwOFJDU3IzTWY1czVjb01YZkdtaV9uUVlWSGVOUG1QWXdjaGQtSFBKTlBZRUIzRXpDbHM2RzhJWUNlNjFaNlFXV2c1aGtGcW1QR1o5NkdUbVhkQk9OczByYUttbTc1d3ppVkpnWGU3NEdVTDJZSG9zVzBMODAxaXNXeGtDLVliaDZSaUdjMmVSTzBqUW1SaUJ5Ny1pUkRqcXpPaDQ?oc=5",
+   "pub": "Sat, 17 Oct 2026 11:45:20 GMT"
   },
   {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
@@ -69,19 +74,14 @@
    "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
-   "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
-   "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
+   "t": "Iran meldet erneut Explosion an Supertanker - Echo Online",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzUtZVRDenhqZTFYMHR6LVg5QXNyVUd1azR6MEt0MzNqTXFwaDRmTGlXRW4wejZoRER1VFliSThvWXIwZy1KS25JdzVFeENPRUkxeGNZSVV0QWhia2ktSDMzQkF6LU5yTXFublQ4NmFBUXl2UjItQWk5SGd4UGdFM3FkTU9UNHB2dWdKd3ZpcDNVRjNUbHRUVGRkcE5NclAwNk9tS2oxb3Nycm0xVUkyUEl3?oc=5",
+   "pub": "Sat, 17 Oct 2026 13:08:00 GMT"
   },
   {
-   "t": "Saudi-Arabien will Industrienation werden – zerbomben Iran und Huthi das Vorhaben? - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSndTMmI2NXFDbE9Kb05fYVVobWIwX1RoRkNOTTVZTnVubHZqQUk5dGVpdzVFbVdXSUhWNDdtckthb1BmLWNiZXRCaG15MzdpS0hROUF1YzAwQTBDNkNQeHVySEZZeElIS1dpQkw3Z3UzS1l3R0p3TWxHZFhnUVNqRjFualRwOHFrYms5T2JaaTAwN2F0czRCcFFVWVplRUxlVXM4aFlCTktibDRvd3ZHUFhwbGRXN0RKcnJSM0hiLUVLNFhzeGtxQktXNjVjSE83WUJFTUNCb243YzNwcldn?oc=5",
-   "pub": "Sat, 17 Oct 2026 08:15:54 GMT"
-  },
-  {
-   "t": "Aktuelle Lage im Persischen Golf: Tägliches Update zu festgesetzten Öl-Tankern - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYU91bERxejlIQ0tNRjZrUE1OdlNhLXQzNTlZYXlUS3djM0hjZklEWFNIWHZtN21YWHprMHJtaGlxN21Zb1VkdFAwTWJvbFh3Tm12M0o3SGJJbjBUYVNsek04cmtlOWNhd2NnVXBCYVRmRWlsTTdUbXotRlJlaXNYeUNzeUc0UVMyakVqZVZGSXF3R2RSUVFFZUI0Z05lSWtYeXp3MFd3UE1DdGVPSGNWY0YtU1RuWFZsZ1pNQlJQbkpxZU1Wenc?oc=5",
-   "pub": "Sat, 17 Oct 2026 04:32:12 GMT"
+   "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmxxUndMaDJlOWRjelk0YVV1cXFxN2RxZTd3RzY0cGkycnpPM3dZNDVINzBENjNSMFMtSkFmQmpseXBzYU1QT1dfNUlzam9QazFydkhyMWFPYmZCRlcxSG1RUXlLVjB0N3ZKNG9KbDBqMzEyWTJYNEJESEp6TkotLWZ3Wlc5ZTNpdGV2WWdXanlRZWFucmxVM3ozVVVKNF9vLXkxRWpZS013QmdidEtnYndyMWhkcEVyeVdOWEdiNA?oc=5",
+   "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
   },
   {
    "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
@@ -89,19 +89,19 @@
    "pub": "Tue, 13 Oct 2026 08:27:51 GMT"
   },
   {
-   "t": "USA erwägen offenbar Einsatz der „Mutter aller Bomben“ gegen Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWmlwejRILVJ6emJISWh1by1Oc2JidGpxTWZkUEZIYlFvTjFQT3dvT2JJOXp4cUlPdHJNTzM4dVlCRVdrUWJDRU5yd3Q3bnBEbGdFQ2pFV0VJNElwSGV5ZzczT2dITDJSc3BqMWFxNl9PMUhGYWRhSVN3X2drOFY2MVZGbmtDdnpEMS01LVpsXzYxYlRLaER5cnlHOEZadS1yMFNaYkROWWVTamVOMU1BUkwyQmdGZDNESGdab2FqREt3cFpJWDRTTHN6VnlGYWVFcHVZ?oc=5",
-   "pub": "Thu, 15 Oct 2026 13:49:41 GMT"
-  },
-  {
-   "t": "Die nächste Zinserhöhung der Fed? Entscheidend ist etwas anderes. - J.P. Morgan Private Bank",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0w5S2ZPMjI4NXNhbU80dk5SWUxxbkJrRzdmUUJmaGxoSGd1b1ByRTZSSUg0RGN3WjVjUkN3dnhxQUNtdGd1Y1psSTk2TUNaUjVNY0s5ZFNnV2tFeGxEeHNZR1JOblVLVV9HMG5SQ3lPY1NkaUR3RXMwRS1zLVVPalVxQ1lmRUUzd3djVml3VDJ6cDRhRDIzTFdDTHZNbFNIY2xoSEt0Vk1yei1tRjV3RDJtT1Y?oc=5",
-   "pub": "Mon, 12 Oct 2026 07:00:00 GMT"
-  },
-  {
    "t": "Iran-Krieg: Saudi-Arabien und Jemen: Eine neue Front im Iran-Krieg - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOU1rNE5iVkFuT0RMX0t4Y2xRMEp0ZWhoOTNTd2ZKY3hVcE5IelNGelBUUnZyOVVGTlNaTl9XbFFDMGtYQVg1ektXTDk1RmxRY3g2eFVQQzdRSEdvQ3V5NmRMaTZVQk9BYTVzSlRVMmdpbHppTkktcFROVS1jM3VlMTlxcjFCcWpiSzAxVEwtUjltTjg?oc=5",
    "pub": "Mon, 12 Oct 2026 12:26:51 GMT"
+  },
+  {
+   "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1Z5UmpwTl9XcXB4OHd5dE1QV1N4TEVrVTdRd040SHpFTFBQV296U0YxZEd2UWtHLWRNQVVKdjRBcWlLdThEV2otbGZVLTVRdC1KLTE5MGEzUTlPN0JDT3ktX0hacmdOVkx6WUtlV05SRW1JOTBPNy1HeW52UlBrUi1oVHk2Z3hnb0dydWhpaUdENFFhUjhRdGxJVmlaVllPRzhKMWJyZk9RbFFITjVEWTVCTWJEMURhUXVhUjZtcFJndTh3M0RtcGY0M0toX3RKMW5r?oc=5",
+   "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
+  },
+  {
+   "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
+   "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
   },
   {
    "t": "Iran exportiert Flüssiggas trotz US-Seeblockade: Bericht enthüllt Tankerrouten - Berliner Zeitung",
