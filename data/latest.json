@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-10-18T18:07:05Z",
+ "collected_at": "2026-10-18T20:45:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8236,
-   "chg1d_pct": -0.5
+   "price": 0.8253,
+   "chg1d_pct": -0.3
   },
   "USDJPY": {
-   "price": 157.987,
-   "chg1d_pct": -0.1
+   "price": 157.945,
+   "chg1d_pct": -0.13
   },
   "GBPCAD": {
-   "price": 1.8844,
-   "chg1d_pct": 0.04
+   "price": 1.8793,
+   "chg1d_pct": -0.23
   },
   "AUDJPY": {
-   "price": 109.614,
-   "chg1d_pct": 0.19
+   "price": 109.937,
+   "chg1d_pct": 0.49
   },
   "EURUSD": {
-   "price": 1.1242,
-   "chg1d_pct": 0.26
+   "price": 1.1188,
+   "chg1d_pct": -0.22
   },
   "GBPCHF": {
-   "price": 1.0981,
-   "chg1d_pct": -0.03
+   "price": 1.0995,
+   "chg1d_pct": 0.09
   },
   "WTI": {
    "price": 99.02,
@@ -56,7 +56,12 @@
   {
    "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0p1aUQxSVN5cEtlQmg4bjZBOGlxMUtmSmxveFhVeWlDUkIxRU9hNFA0eHlBbmpBYlNqWlY0UzZ5cUpRTW9SZ2kxUzZsWjZhTjNLZEpqdTRWVVZDYXNiSkxad2tMYWhFVm1fY0hoQVFnd19jVS1kbmhneENHODhidmJHRnBpLS1xTG12YU95ZDRjbWV0MXRTN09odEtDT2NlbnRXWEM1Y0JrZTNjZzNXSlVrM0FrMV9R?oc=5",
-   "pub": "Sun, 18 Oct 2026 18:02:36 GMT"
+   "pub": "Sun, 18 Oct 2026 16:20:26 GMT"
+  },
+  {
+   "t": "Israel und die USA: Donald Trump ruft vor Israelwahl zur Unterstützung Netanjahus auf - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRkTFFmdXU1aEJmc3V2UmJQOE93aVM2Vll3WkJEUDZBWWJHaVNoVlF4di1KWFY3Q0JpRUJ4LU8wM3NZNkJYYTlrZVhFQWx4UnUtOHV0T3N2SGxxSDFnLTlaODhWektXSlVJbXdLLVQxUlBnc2psNF9YUGdnbEJpN2FKcE5xa2dkMUhkSHlIVFIwekhfTEt3NlBNZ1hwWThhalZHLU1URTZwTlU?oc=5",
+   "pub": "Sun, 18 Oct 2026 16:39:30 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -64,14 +69,14 @@
    "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
   },
   {
-   "t": "Cheibar Schekan: Huthis bauen Rakete unabhängig von Iran - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55aVlSSnNSbXQ5ajg3TUdDY1lBRXlsaWVwdUs0LXFyaFF1QzU0NWRHQXhUNG1Qd1JLdmV0SGNneVZoRGNtMFE?oc=5",
-   "pub": "Sun, 18 Oct 2026 05:32:59 GMT"
-  },
-  {
    "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFdLSENEY1o0V09Yc3owcEVBbzVVYkl6TG84VG1SdVVTYWt3SC1VMUlmT2hPWDd3cGdaeVJNV0hEdlpoZ183MFlYVzRaQmFET0dZYkNNc3hNS09zTzVOZUVlZG1SV1R0MGxMZG42OW92VFBXMlRuTzhLVEROOXBaNTZCNDJhRzNuMWd2X3JJcGxRREUzTkFtczA4QjFYYmVjQ2FkU2hFdlkwaXltb3U1akw0V2cwMktvVEJ6eE01UkJoVVRHeURlczhGVDViajFyZ2MyMzd6UHNPNDRya0FLSlFnMXBRejk2OUh3?oc=5",
    "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
+  },
+  {
+   "t": "Cheibar Schekan: Huthis bauen Rakete unabhängig von Iran - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55aVlSSnNSbXQ5ajg3TUdDY1lBRXlsaWVwdUs0LXFyaFF1QzU0NWRHQXhUNG1Qd1JLdmV0SGNneVZoRGNtMFE?oc=5",
+   "pub": "Sun, 18 Oct 2026 05:32:59 GMT"
   },
   {
    "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
@@ -89,24 +94,19 @@
    "pub": "Sat, 17 Oct 2026 08:15:54 GMT"
   },
   {
-   "t": "Israel und die USA: Donald Trump ruft vor Israelwahl zur Unterstützung Netanjahus auf - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRkTFFmdXU1aEJmc3V2UmJQOE93aVM2Vll3WkJEUDZBWWJHaVNoVlF4di1KWFY3Q0JpRUJ4LU8wM3NZNkJYYTlrZVhFQWx4UnUtOHV0T3N2SGxxSDFnLTlaODhWektXSlVJbXdLLVQxUlBnc2psNF9YUGdnbEJpN2FKcE5xa2dkMUhkSHlIVFIwekhfTEt3NlBNZ1hwWThhalZHLU1URTZwTlU?oc=5",
-   "pub": "Sun, 18 Oct 2026 16:39:30 GMT"
+   "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
+   "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
   },
   {
-   "t": "Kaiserin Soraya von Iran: Schönheit zwischen Tradition und Selbstbestimmung - GALA.de",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW9RSnE3ZXhocGV2dUVscUVTU243VzhXQnRrSEtkQWZiSFQ4a2ZabE9xVnhrSkhiaHA4b3otZ2xZdUl5dzd2RnhON1U0WUc3RTJfWk1nVWIyX083N0VkNDhGaTdPVFZmQkYyWjJvNUM2QmhQN3l1UVZNbTV1dWE4Qk9fUDBfaktIaUIwYVVlR1dDQWVXQXZFMlAtbHVnbk80bE5CRkZPYzZVaFg1RGt4OWdoWjRCOUgyOW1Nc1dpT0tCSGstZWc4QTdqc3A?oc=5",
-   "pub": "Sun, 18 Oct 2026 13:14:00 GMT"
+   "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
+   "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
    "t": "Iran soll Huthi bei Angriffen auf Saudi-Arabien mit Zieldaten versorgen - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzdkenFtdDJZRTZLVnA0NVZfdExTSHpodHFCZ2V1aHl1bGJ2dmIwSFNBX0hYSktHSXI5bEYzOFdaUC14SkJiRkN0ZXpBWF9fVU9XM3Npa0dFU3ZBamk2V09lel8zcGVxNHlnTzFkOHNjMUE4YnhYYWZBai12QWQwTVRtM3dBQVF6RGRyZ3R0dVZRYndEcXBuTndSZWpRc2VneHhUeHhzQkhESU5ZTEdqSlhVcHJlVEZFYUNDWg?oc=5",
    "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
-  },
-  {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Tue, 13 Oct 2026 08:27:51 GMT"
   }
  ]
 }
