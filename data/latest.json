@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-18T14:35:59Z",
+ "collected_at": "2026-10-18T18:07:05Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -15,8 +15,8 @@
    "chg1d_pct": 0.04
   },
   "AUDJPY": {
-   "price": 109.751,
-   "chg1d_pct": 0.32
+   "price": 109.614,
+   "chg1d_pct": 0.19
   },
   "EURUSD": {
    "price": 1.1242,
@@ -54,6 +54,11 @@
    "pub": "Sun, 18 Oct 2026 11:17:00 GMT"
   },
   {
+   "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0p1aUQxSVN5cEtlQmg4bjZBOGlxMUtmSmxveFhVeWlDUkIxRU9hNFA0eHlBbmpBYlNqWlY0UzZ5cUpRTW9SZ2kxUzZsWjZhTjNLZEpqdTRWVVZDYXNiSkxad2tMYWhFVm1fY0hoQVFnd19jVS1kbmhneENHODhidmJHRnBpLS1xTG12YU95ZDRjbWV0MXRTN09odEtDT2NlbnRXWEM1Y0JrZTNjZzNXSlVrM0FrMV9R?oc=5",
+   "pub": "Sun, 18 Oct 2026 18:02:36 GMT"
+  },
+  {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
    "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
@@ -69,11 +74,6 @@
    "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
   },
   {
-   "t": "Kaiserin Soraya von Iran: Schönheit zwischen Tradition und Selbstbestimmung - GALA.de",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW9RSnE3ZXhocGV2dUVscUVTU243VzhXQnRrSEtkQWZiSFQ4a2ZabE9xVnhrSkhiaHA4b3otZ2xZdUl5dzd2RnhON1U0WUc3RTJfWk1nVWIyX083N0VkNDhGaTdPVFZmQkYyWjJvNUM2QmhQN3l1UVZNbTV1dWE4Qk9fUDBfaktIaUIwYVVlR1dDQWVXQXZFMlAtbHVnbk80bE5CRkZPYzZVaFg1RGt4OWdoWjRCOUgyOW1Nc1dpT0tCSGstZWc4QTdqc3A?oc=5",
-   "pub": "Sun, 18 Oct 2026 13:14:00 GMT"
-  },
-  {
    "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmxxUndMaDJlOWRjelk0YVV1cXFxN2RxZTd3RzY0cGkycnpPM3dZNDVINzBENjNSMFMtSkFmQmpseXBzYU1QT1dfNUlzam9QazFydkhyMWFPYmZCRlcxSG1RUXlLVjB0N3ZKNG9KbDBqMzEyWTJYNEJESEp6TkotLWZ3Wlc5ZTNpdGV2WWdXanlRZWFucmxVM3ozVVVKNF9vLXkxRWpZS013QmdidEtnYndyMWhkcEVyeVdOWEdiNA?oc=5",
    "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
@@ -84,19 +84,19 @@
    "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
   },
   {
-   "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
-   "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
-  },
-  {
    "t": "Saudi-Arabien will Industrienation werden – zerbomben Iran und Huthi das Vorhaben? - WirtschaftsWoche",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSndTMmI2NXFDbE9Kb05fYVVobWIwX1RoRkNOTTVZTnVubHZqQUk5dGVpdzVFbVdXSUhWNDdtckthb1BmLWNiZXRCaG15MzdpS0hROUF1YzAwQTBDNkNQeHVySEZZeElIS1dpQkw3Z3UzS1l3R0p3TWxHZFhnUVNqRjFualRwOHFrYms5T2JaaTAwN2F0czRCcFFVWVplRUxlVXM4aFlCTktibDRvd3ZHUFhwbGRXN0RKcnJSM0hiLUVLNFhzeGtxQktXNjVjSE83WUJFTUNCb243YzNwcldn?oc=5",
    "pub": "Sat, 17 Oct 2026 08:15:54 GMT"
   },
   {
-   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
-   "pub": "Tue, 13 Oct 2026 08:27:51 GMT"
+   "t": "Israel und die USA: Donald Trump ruft vor Israelwahl zur Unterstützung Netanjahus auf - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRkTFFmdXU1aEJmc3V2UmJQOE93aVM2Vll3WkJEUDZBWWJHaVNoVlF4di1KWFY3Q0JpRUJ4LU8wM3NZNkJYYTlrZVhFQWx4UnUtOHV0T3N2SGxxSDFnLTlaODhWektXSlVJbXdLLVQxUlBnc2psNF9YUGdnbEJpN2FKcE5xa2dkMUhkSHlIVFIwekhfTEt3NlBNZ1hwWThhalZHLU1URTZwTlU?oc=5",
+   "pub": "Sun, 18 Oct 2026 16:39:30 GMT"
+  },
+  {
+   "t": "Kaiserin Soraya von Iran: Schönheit zwischen Tradition und Selbstbestimmung - GALA.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW9RSnE3ZXhocGV2dUVscUVTU243VzhXQnRrSEtkQWZiSFQ4a2ZabE9xVnhrSkhiaHA4b3otZ2xZdUl5dzd2RnhON1U0WUc3RTJfWk1nVWIyX083N0VkNDhGaTdPVFZmQkYyWjJvNUM2QmhQN3l1UVZNbTV1dWE4Qk9fUDBfaktIaUIwYVVlR1dDQWVXQXZFMlAtbHVnbk80bE5CRkZPYzZVaFg1RGt4OWdoWjRCOUgyOW1Nc1dpT0tCSGstZWc4QTdqc3A?oc=5",
+   "pub": "Sun, 18 Oct 2026 13:14:00 GMT"
   },
   {
    "t": "Iran soll Huthi bei Angriffen auf Saudi-Arabien mit Zieldaten versorgen - Berliner Zeitung",
@@ -104,9 +104,9 @@
    "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
   },
   {
-   "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
-   "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
+   "t": "Iran: Machtkämpfe inmitten der Krise - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HRzRCNFZvcFdsWWFrM1owUUd4VnNFT0RVMHRoZGlvMnhId3lacTllbTdjYlhaYlZWVUNHZWtYR3NSTmp0TkxDNWFsX3RUaVdycVdibXA5UkRtX09aQUZUZU1keDhEQ0xmZEhnVjBHOFZzNnFZb0JIYUZuV2d1QdIBfkFVX3lxTE9LdW03ZHFTdjFLV2VGUDlIbE1YQkRqeENpeUpXbHcwYTFkREcteHVkYWdDLUZqT2k1UXNmdmtrdXVGT19NLV80UDUtcEpTaXQ3Z3BjWGYtYnRQanEwSko4dEdiNEZTYlhxUDV5MWozTEVrNmxPX21tU3U2U1AyZw?oc=5",
+   "pub": "Tue, 13 Oct 2026 08:27:51 GMT"
   }
  ]
 }
