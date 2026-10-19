@@ -1,57 +1,82 @@
 {
- "collected_at": "2026-10-19T07:48:28Z",
+ "collected_at": "2026-10-19T15:37:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8247,
-   "chg1d_pct": -0.37
+   "price": 0.8263,
+   "chg1d_pct": -0.18
   },
   "USDJPY": {
-   "price": 158.071,
-   "chg1d_pct": -0.05
+   "price": 158.435,
+   "chg1d_pct": 0.18
   },
   "GBPCAD": {
-   "price": 1.8771,
-   "chg1d_pct": -0.35
+   "price": 1.8758,
+   "chg1d_pct": -0.41
   },
   "AUDJPY": {
-   "price": 110.269,
-   "chg1d_pct": 0.79
+   "price": 110.642,
+   "chg1d_pct": 1.13
   },
   "EURUSD": {
-   "price": 1.1212,
-   "chg1d_pct": -0.01
+   "price": 1.1221,
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.0986,
-   "chg1d_pct": 0.01
+   "price": 1.1,
+   "chg1d_pct": 0.14
   },
   "WTI": {
-   "price": 96.91,
-   "chg1d_pct": -4.44
+   "price": 97.7,
+   "chg1d_pct": -3.66
   },
   "BRENT": {
-   "price": 106.98,
-   "chg1d_pct": -2.62
+   "price": 108.2,
+   "chg1d_pct": -1.51
   },
   "GOLD": {
-   "price": 4205.5,
-   "chg1d_pct": 0.58
+   "price": 4168.3,
+   "chg1d_pct": -0.31
   },
   "SPX_FUT": {
-   "price": 7755.75,
-   "chg1d_pct": 0.67
+   "price": 7770.75,
+   "chg1d_pct": 0.86
   },
   "NAS_FUT": {
-   "price": 29766.25,
-   "chg1d_pct": 1.28
+   "price": 29963.5,
+   "chg1d_pct": 1.95
   }
  },
  "headlines": [
   {
+   "t": "Iran: Auswärtiges Amt bestellt iranischen Botschafter ein - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2hXR2tEbm9VRUp3eGdNd3NJM3JvWDNOT2tnR19nOEpVX0pwUjFlZmJYUTNuVHhOS3p5Y2RhTndZZ0IxUUVyb1ZiazQ2QWVoOW9aeFFCbVU0eUcxNU9PUU5Sa0MyMTgyWjNoMFJZVmMwZU14RFVfMlYxUXphalY4TGJHV210Z0czRERfRjNJNHhHZXcxcHZDdEhjbWxjcDhfc3BTaVBXaWNHU3FXZXA0?oc=5",
+   "pub": "Mon, 19 Oct 2026 10:08:50 GMT"
+  },
+  {
+   "t": "Realitätscheck: Iran kündigt erneut eigenes Kampflugzeug an - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPZ29McUc4OFJXbGdYLVhUMFptQUoxdHU2Q3ZIWXdkYWtpaGo5TUgxcFZXX24tYU9UbzRmNldqc1FFQTlrSXpUQWpQRzBDdmxsczFYN0VKVnlaU0JUUU54cGxEck0tY0REUF95dGdCV1cyT2Mz?oc=5",
+   "pub": "Mon, 19 Oct 2026 10:22:19 GMT"
+  },
+  {
+   "t": "Iran bereitet sich auf neuen Krieg vor – US-Basis Ramstein in Deutschland könnte Ziel werden - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTE5DVzd0RjZLTzhjYmZnYm1JemVhTE44Q2ZQLXRkb25HVVhteEVaY1BKT2Q2bldQRnRuNWhTc0g2U1JJVzJPMEkzS3NWbnJOb1dja3ZwZVhGdzhXeXZaVlFJdDVQZ29RQ3Q0djZxT1FIaC1xMGVlRWs0emZhWWltNVhqbmtvdXdZUGdHeDFyc0xPRmEzYnc?oc=5",
+   "pub": "Mon, 19 Oct 2026 08:08:02 GMT"
+  },
+  {
+   "t": "Iran droht, Israel werde nur noch »verbrannte Erde« sein - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOakRDa3RzOGdyMkhFT3F4WEctcElNUURDMFBQU3RLRjhRWC1mRjhwenZMcmNwa0VhT2luOE9lWER3bmlJQ1NWRGFzZGtPbWRfNUZBR1hHelpiS1hkek02UXJDVFp3MGh1LWs1VWRhbHNHVWozMU8wQ1oxaU1SbVFnODZVQUtUSmNteThYaTdoQWNVd0JFcUpBOFc2ck40Zw?oc=5",
+   "pub": "Mon, 19 Oct 2026 14:50:00 GMT"
+  },
+  {
    "t": "Iran: Teheran bestätigt sanktionierten Verteidigungsminister im Amt – Drohungen gegen USA - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORWN3RklSTEhGczFsOFFpTEhESHBQYXJXSEtWdHlwR1p4MnkwTEFYTHBiVXZyMy12MG5ycXYzYlBiTnZqa0dpYkFLWENiMFN0MWROYzIxdWhjX2d4cUJwVnBxSFJXQWpyaDhTUVV4NlFSMVJ6NW0tdVJTM0VqeEVFNHBlS083bGN6MWZ0cU1lQkM4bHRFMUp5Q0xMR3YtZHd3aUc3S2VwRGJpbzZvWXFtR2FiX1dxR1Q2TjdQX2pCNzIwQk1NZU4ydksxUXhCdllZSHY2SzdSSG4tTUJaVDE4cEpURjFvTWcwS1V3Vndn?oc=5",
    "pub": "Sun, 18 Oct 2026 11:17:00 GMT"
+  },
+  {
+   "t": "Sergej Lawrow für Gespräche in Teheran eingetroffen - Watson",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTFtMkU5QUdURGNHV0NwcG42QnYyS1hDLTBkeXBPdEN2SU5XUVpzdnBGY2NsU1VSXzZFbWRKY0dwSzdJcnByRUJhbkVDOUpvSjRwYXM5bUhPaDdWTFcyMmNwTmtmdmZKeVZ6MFNvbXhXejFVU2RSREg0MXlyZFZ6WWxyVjFzRVNiR3VzVl9HMVBZQU53VjNMZHJwcVdSWGZvSDFyMEc1SQ?oc=5",
+   "pub": "Mon, 19 Oct 2026 12:04:01 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -59,19 +84,14 @@
    "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
   },
   {
-   "t": "Israel und die USA: Donald Trump ruft vor Israelwahl zur Unterstützung Netanjahus auf - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRkTFFmdXU1aEJmc3V2UmJQOE93aVM2Vll3WkJEUDZBWWJHaVNoVlF4di1KWFY3Q0JpRUJ4LU8wM3NZNkJYYTlrZVhFQWx4UnUtOHV0T3N2SGxxSDFnLTlaODhWektXSlVJbXdLLVQxUlBnc2psNF9YUGdnbEJpN2FKcE5xa2dkMUhkSHlIVFIwekhfTEt3NlBNZ1hwWThhalZHLU1URTZwTlU?oc=5",
-   "pub": "Sun, 18 Oct 2026 16:39:30 GMT"
+   "t": "Russischer Außenminister Lawrow reist in den Iran - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjFiWTE1bXVLTm8yV2xxRjVFb3p4SlFCQmQtM2htZ1lRb0lCZkpTODU3Q1hvNGU2cll2clhCSlVrRHZweEVMeGFTVEtjZzUxNHdBakh3TmhkN1ZIRFRFS0hnazVDNzJERUNoLUpiNGNtZkEzb01xVW5RMmVqcEFwMkFqSWh6SGRlN3dEUDdOT0UzWW1x?oc=5",
+   "pub": "Mon, 19 Oct 2026 08:22:33 GMT"
   },
   {
-   "t": "Kaiserin Soraya von Iran: Schönheit zwischen Tradition und Selbstbestimmung - GALA.de",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW9RSnE3ZXhocGV2dUVscUVTU243VzhXQnRrSEtkQWZiSFQ4a2ZabE9xVnhrSkhiaHA4b3otZ2xZdUl5dzd2RnhON1U0WUc3RTJfWk1nVWIyX083N0VkNDhGaTdPVFZmQkYyWjJvNUM2QmhQN3l1UVZNbTV1dWE4Qk9fUDBfaktIaUIwYVVlR1dDQWVXQXZFMlAtbHVnbk80bE5CRkZPYzZVaFg1RGt4OWdoWjRCOUgyOW1Nc1dpT0tCSGstZWc4QTdqc3A?oc=5",
-   "pub": "Mon, 19 Oct 2026 06:05:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0p1aUQxSVN5cEtlQmg4bjZBOGlxMUtmSmxveFhVeWlDUkIxRU9hNFA0eHlBbmpBYlNqWlY0UzZ5cUpRTW9SZ2kxUzZsWjZhTjNLZEpqdTRWVVZDYXNiSkxad2tMYWhFVm1fY0hoQVFnd19jVS1kbmhneENHODhidmJHRnBpLS1xTG12YU95ZDRjbWV0MXRTN09odEtDT2NlbnRXWEM1Y0JrZTNjZzNXSlVrM0FrMV9R?oc=5",
-   "pub": "Sun, 18 Oct 2026 16:20:26 GMT"
+   "t": "Iran: Inszenierte Stärke, tiefe Krise - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZk9jN1lZQmZTWVFvdUVIMUZteXk0WHZrRjJUdlZTX0Jka3J4YmhRY1A2U2VBRHh1d3JOZDNveTRnaWVhSWVRUk9WZFpCTUxZYTBoRGhMekc4QnI3d2hpVWYydE4yTUlsSEktY1JNaHg1eGxJaFZacXJ2a1U3clRDNGxjX1Vtb1d6NHhB?oc=5",
+   "pub": "Mon, 19 Oct 2026 10:00:00 GMT"
   },
   {
    "t": "»Sich als progressiv Verstehende scheinen kein Interesse an den realen Menschen im Iran zu haben« - Mena-Watch",
@@ -79,34 +99,14 @@
    "pub": "Mon, 19 Oct 2026 07:00:00 GMT"
   },
   {
-   "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV1Z5UmpwTl9XcXB4OHd5dE1QV1N4TEVrVTdRd040SHpFTFBQV296U0YxZEd2UWtHLWRNQVVKdjRBcWlLdThEV2otbGZVLTVRdC1KLTE5MGEzUTlPN0JDT3ktX0hacmdOVkx6WUtlV05SRW1JOTBPNy1HeW52UlBrUi1oVHk2Z3hnb0dydWhpaUdENFFhUjhRdGxJVmlaVllPRzhKMWJyZk9RbFFITjVEWTVCTWJEMURhUXVhUjZtcFJndTh3M0RtcGY0M0toX3RKMW5r?oc=5",
-   "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
+   "t": "Warum Irans Regime so viele Menschen hinrichten lässt - zenith.me",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVHhTeHYtRS12d1djWkFqT2h5OWNLS09WYUp0RnBlZmdXcFN3aXlNeE9iZzhGajY3U1FaRm1sb0dJYXhaeUkxaXZyQ0VSRTZXQ29UcEtHaTVIWldYbXEwN0NSM21YeXRWZm9ueG5Ga29EZ0ctNlZLRUw3YXZBRTRyMXRBWkZ4TjRn?oc=5",
+   "pub": "Mon, 19 Oct 2026 07:14:37 GMT"
   },
   {
-   "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFdLSENEY1o0V09Yc3owcEVBbzVVYkl6TG84VG1SdVVTYWt3SC1VMUlmT2hPWDd3cGdaeVJNV0hEdlpoZ183MFlYVzRaQmFET0dZYkNNc3hNS09zTzVOZUVlZG1SV1R0MGxMZG42OW92VFBXMlRuTzhLVEROOXBaNTZCNDJhRzNuMWd2X3JJcGxRREUzTkFtczA4QjFYYmVjQ2FkU2hFdlkwaXltb3U1akw0V2cwMktvVEJ6eE01UkJoVVRHeURlczhGVDViajFyZ2MyMzd6UHNPNDRya0FLSlFnMXBRejk2OUh3?oc=5",
-   "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
-  },
-  {
-   "t": "Brent Crude Oil: Trend in der emotionalen Phase - was bedeutet das? - FinanzNachrichten.de",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXZxNlZVc1Z5d2dVMjRhOU54R3Z0VmxvMG9lUEdYbklUZ0doOUU4cElXaE9XME9hdnJCcjdfZXBKMTF4TEVlZk1ZMVJNS2tuVFVUSGxMRGl3ZWhDaVJCZHBhTG50RHcyZnY0OWxPN0hkMmFKZkdHQktpaE9MZDZfd05SUVFYR2loa0gzN3J1MkpheXI1UEI5OXFNTmZBU3dBdVVkVTJHMDZSZmdodkVVeFBCeUdIdWtKX2xtOEtXRzFna0hfU0h3STdqTW1idw?oc=5",
-   "pub": "Mon, 19 Oct 2026 06:06:00 GMT"
-  },
-  {
-   "t": "Japanischer Yen hält sich nahe 158,00, da Ueda von der BoJ sagt, die zugrunde liegende Inflation liege nahe am Ziel - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xaE5PdmJYanNHakNGWjBBY2pab1ctSGhhV2ppLXFxRE4tY1NUNWdQX1JJck5lOWRrN0ZfcVVkci05M25pOWdHelhlYWNkZGZxWXZOZE0wTGM5TTRlMnhhbmZxbjZ4MzU5?oc=5",
-   "pub": "Mon, 19 Oct 2026 06:52:00 GMT"
-  },
-  {
-   "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
-   "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNldTLXhUSDQzR1k2VXgtNGhrajM2WEVfV1o3eC1FODRCNi1pLVI0UXdYcm9rSkRUb0g0VFFDZnpkYS1mU1FPNkg0YXRQT2JaZ29sQ1IzbEd1TThtSjlnT0hSWklibVVOMzFzX3Bfc2hEV1V3d2I0M3VMSHAybU1qdGFra2JqZXRnUWJTQXo5ZzNxcFd4b0FuU2wxU3FQbVIxUjhSV2RweWpKV1FxeUhTbS14QW9yMnlBeXAyeWpIZU5QQzdJN3I4a2JNM1JHcFk?oc=5",
-   "pub": "Sun, 18 Oct 2026 03:15:40 GMT"
+   "t": "Saudi-Arabien fängt ballistische Raketen der Houthis aus dem Jemen ab - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGZVT3pENDF6TDZnckFZOV9lR1BRRHRQWUNwLWk3RFpYQzVHSzVPUW5Wd1NRLUdrR2RhQXZvYi1ZTmNMUWl4RmJ5dmtHVDUxSWNxS0pzQXRUWDRFeEM3UVA1ZW5ucW9mZEllWTBWNkRhV3JUTlZzM00wLV8yNnJhazZiR3dDNm9oREg4dTUwZklsR3dHZU1LYUxtdHRCVTBlOHFZN2pUZHpod21VSWhjZzJOR3A0bF9FY1dGMU00MFRsZ2M?oc=5",
+   "pub": "Mon, 19 Oct 2026 14:31:20 GMT"
   }
  ]
 }
