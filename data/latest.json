@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-18T23:14:30Z",
+ "collected_at": "2026-10-19T01:20:13Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8244,
-   "chg1d_pct": -0.4
+   "price": 0.8243,
+   "chg1d_pct": -0.42
   },
   "USDJPY": {
-   "price": 157.894,
-   "chg1d_pct": -0.16
+   "price": 157.948,
+   "chg1d_pct": -0.12
   },
   "GBPCAD": {
-   "price": 1.8822,
-   "chg1d_pct": -0.07
+   "price": 1.882,
+   "chg1d_pct": -0.08
   },
   "AUDJPY": {
-   "price": 109.937,
-   "chg1d_pct": 0.49
+   "price": 110.024,
+   "chg1d_pct": 0.57
   },
   "EURUSD": {
-   "price": 1.1216,
-   "chg1d_pct": 0.03
+   "price": 1.123,
+   "chg1d_pct": 0.15
   },
   "GBPCHF": {
-   "price": 1.0984,
-   "chg1d_pct": -0.01
+   "price": 1.0985,
+   "chg1d_pct": 0.0
   },
   "WTI": {
-   "price": 98.19,
-   "chg1d_pct": -3.18
+   "price": 97.8,
+   "chg1d_pct": -3.56
   },
   "BRENT": {
-   "price": 108.78,
-   "chg1d_pct": -0.98
+   "price": 108.35,
+   "chg1d_pct": -1.37
   },
   "GOLD": {
-   "price": 4201.8,
-   "chg1d_pct": 0.5
+   "price": 4189.1,
+   "chg1d_pct": 0.19
   },
   "SPX_FUT": {
-   "price": 7732.75,
-   "chg1d_pct": 0.37
+   "price": 7741.0,
+   "chg1d_pct": 0.48
   },
   "NAS_FUT": {
-   "price": 29611.5,
-   "chg1d_pct": 0.75
+   "price": 29668.25,
+   "chg1d_pct": 0.94
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Iran: Teheran bestätigt sanktionierten Verteidigungsminister im Amt – Drohungen gegen USA - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORWN3RklSTEhGczFsOFFpTEhESHBQYXJXSEtWdHlwR1p4MnkwTEFYTHBiVXZyMy12MG5ycXYzYlBiTnZqa0dpYkFLWENiMFN0MWROYzIxdWhjX2d4cUJwVnBxSFJXQWpyaDhTUVV4NlFSMVJ6NW0tdVJTM0VqeEVFNHBlS083bGN6MWZ0cU1lQkM4bHRFMUp5Q0xMR3YtZHd3aUc3S2VwRGJpbzZvWXFtR2FiX1dxR1Q2TjdQX2pCNzIwQk1NZU4ydksxUXhCdllZSHY2SzdSSG4tTUJaVDE4cEpURjFvTWcwS1V3Vndn?oc=5",
    "pub": "Sun, 18 Oct 2026 11:17:00 GMT"
+  },
+  {
+   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
+   "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
   },
   {
    "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
@@ -62,11 +67,6 @@
    "t": "Israel und die USA: Donald Trump ruft vor Israelwahl zur Unterstützung Netanjahus auf - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRkTFFmdXU1aEJmc3V2UmJQOE93aVM2Vll3WkJEUDZBWWJHaVNoVlF4di1KWFY3Q0JpRUJ4LU8wM3NZNkJYYTlrZVhFQWx4UnUtOHV0T3N2SGxxSDFnLTlaODhWektXSlVJbXdLLVQxUlBnc2psNF9YUGdnbEJpN2FKcE5xa2dkMUhkSHlIVFIwekhfTEt3NlBNZ1hwWThhalZHLU1URTZwTlU?oc=5",
    "pub": "Sun, 18 Oct 2026 16:39:30 GMT"
-  },
-  {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
   },
   {
    "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
@@ -99,14 +99,14 @@
    "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
   },
   {
-   "t": "Iran soll Huthi bei Angriffen auf Saudi-Arabien mit Zieldaten versorgen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzdkenFtdDJZRTZLVnA0NVZfdExTSHpodHFCZ2V1aHl1bGJ2dmIwSFNBX0hYSktHSXI5bEYzOFdaUC14SkJiRkN0ZXpBWF9fVU9XM3Npa0dFU3ZBamk2V09lel8zcGVxNHlnTzFkOHNjMUE4YnhYYWZBai12QWQwTVRtM3dBQVF6RGRyZ3R0dVZRYndEcXBuTndSZWpRc2VneHhUeHhzQkhESU5ZTEdqSlhVcHJlVEZFYUNDWg?oc=5",
-   "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
-  },
-  {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTzRKUlNmY2tMdk9lbmlHdWN5SUt5RndCVVBINUozNjFlYnVrazNwUHVnSXZkZUI2LXRfLWVfWEd6MWtPRTBFRHJ2NTc1U2I4bGtCallWcy1SMXRLQ1Y4cE9tVmRkZGRLUEYyYk84U3hIc3pZZnE0dVl6bXJIWWZWSTFvWjA2bWhYd2hlOGpmVEtBTVFILVB6QUFWNHN1ZzBtd1BMaXBpNzVNd09iZnZjZEFTOUZSVXZMX0s3NDhTNEFYNVRlZ0lHbC0zOXVkUzJHU0FwdFRiRGhrR09YcDZWaDVtRVJnMldFaWdiUWZB?oc=5",
    "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
+  },
+  {
+   "t": "Iran soll Huthi bei Angriffen auf Saudi-Arabien mit Zieldaten versorgen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzdkenFtdDJZRTZLVnA0NVZfdExTSHpodHFCZ2V1aHl1bGJ2dmIwSFNBX0hYSktHSXI5bEYzOFdaUC14SkJiRkN0ZXpBWF9fVU9XM3Npa0dFU3ZBamk2V09lel8zcGVxNHlnTzFkOHNjMUE4YnhYYWZBai12QWQwTVRtM3dBQVF6RGRyZ3R0dVZRYndEcXBuTndSZWpRc2VneHhUeHhzQkhESU5ZTEdqSlhVcHJlVEZFYUNDWg?oc=5",
+   "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
   }
  ]
 }
