@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-19T01:20:13Z",
+ "collected_at": "2026-10-19T07:48:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8243,
-   "chg1d_pct": -0.42
+   "price": 0.8247,
+   "chg1d_pct": -0.37
   },
   "USDJPY": {
-   "price": 157.948,
-   "chg1d_pct": -0.12
+   "price": 158.071,
+   "chg1d_pct": -0.05
   },
   "GBPCAD": {
-   "price": 1.882,
-   "chg1d_pct": -0.08
+   "price": 1.8771,
+   "chg1d_pct": -0.35
   },
   "AUDJPY": {
-   "price": 110.024,
-   "chg1d_pct": 0.57
+   "price": 110.269,
+   "chg1d_pct": 0.79
   },
   "EURUSD": {
-   "price": 1.123,
-   "chg1d_pct": 0.15
+   "price": 1.1212,
+   "chg1d_pct": -0.01
   },
   "GBPCHF": {
-   "price": 1.0985,
-   "chg1d_pct": 0.0
+   "price": 1.0986,
+   "chg1d_pct": 0.01
   },
   "WTI": {
-   "price": 97.8,
-   "chg1d_pct": -3.56
+   "price": 96.91,
+   "chg1d_pct": -4.44
   },
   "BRENT": {
-   "price": 108.35,
-   "chg1d_pct": -1.37
+   "price": 106.98,
+   "chg1d_pct": -2.62
   },
   "GOLD": {
-   "price": 4189.1,
-   "chg1d_pct": 0.19
+   "price": 4205.5,
+   "chg1d_pct": 0.58
   },
   "SPX_FUT": {
-   "price": 7741.0,
-   "chg1d_pct": 0.48
+   "price": 7755.75,
+   "chg1d_pct": 0.67
   },
   "NAS_FUT": {
-   "price": 29668.25,
-   "chg1d_pct": 0.94
+   "price": 29766.25,
+   "chg1d_pct": 1.28
   }
  },
  "headlines": [
@@ -59,29 +59,24 @@
    "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
   },
   {
-   "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0p1aUQxSVN5cEtlQmg4bjZBOGlxMUtmSmxveFhVeWlDUkIxRU9hNFA0eHlBbmpBYlNqWlY0UzZ5cUpRTW9SZ2kxUzZsWjZhTjNLZEpqdTRWVVZDYXNiSkxad2tMYWhFVm1fY0hoQVFnd19jVS1kbmhneENHODhidmJHRnBpLS1xTG12YU95ZDRjbWV0MXRTN09odEtDT2NlbnRXWEM1Y0JrZTNjZzNXSlVrM0FrMV9R?oc=5",
-   "pub": "Sun, 18 Oct 2026 16:20:26 GMT"
-  },
-  {
    "t": "Israel und die USA: Donald Trump ruft vor Israelwahl zur Unterstützung Netanjahus auf - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHRkTFFmdXU1aEJmc3V2UmJQOE93aVM2Vll3WkJEUDZBWWJHaVNoVlF4di1KWFY3Q0JpRUJ4LU8wM3NZNkJYYTlrZVhFQWx4UnUtOHV0T3N2SGxxSDFnLTlaODhWektXSlVJbXdLLVQxUlBnc2psNF9YUGdnbEJpN2FKcE5xa2dkMUhkSHlIVFIwekhfTEt3NlBNZ1hwWThhalZHLU1URTZwTlU?oc=5",
    "pub": "Sun, 18 Oct 2026 16:39:30 GMT"
   },
   {
-   "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFdLSENEY1o0V09Yc3owcEVBbzVVYkl6TG84VG1SdVVTYWt3SC1VMUlmT2hPWDd3cGdaeVJNV0hEdlpoZ183MFlYVzRaQmFET0dZYkNNc3hNS09zTzVOZUVlZG1SV1R0MGxMZG42OW92VFBXMlRuTzhLVEROOXBaNTZCNDJhRzNuMWd2X3JJcGxRREUzTkFtczA4QjFYYmVjQ2FkU2hFdlkwaXltb3U1akw0V2cwMktvVEJ6eE01UkJoVVRHeURlczhGVDViajFyZ2MyMzd6UHNPNDRya0FLSlFnMXBRejk2OUh3?oc=5",
-   "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
+   "t": "Kaiserin Soraya von Iran: Schönheit zwischen Tradition und Selbstbestimmung - GALA.de",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW9RSnE3ZXhocGV2dUVscUVTU243VzhXQnRrSEtkQWZiSFQ4a2ZabE9xVnhrSkhiaHA4b3otZ2xZdUl5dzd2RnhON1U0WUc3RTJfWk1nVWIyX083N0VkNDhGaTdPVFZmQkYyWjJvNUM2QmhQN3l1UVZNbTV1dWE4Qk9fUDBfaktIaUIwYVVlR1dDQWVXQXZFMlAtbHVnbk80bE5CRkZPYzZVaFg1RGt4OWdoWjRCOUgyOW1Nc1dpT0tCSGstZWc4QTdqc3A?oc=5",
+   "pub": "Mon, 19 Oct 2026 06:05:00 GMT"
   },
   {
-   "t": "Cheibar Schekan: Huthis bauen Rakete unabhängig von Iran - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE55aVlSSnNSbXQ5ajg3TUdDY1lBRXlsaWVwdUs0LXFyaFF1QzU0NWRHQXhUNG1Qd1JLdmV0SGNneVZoRGNtMFE?oc=5",
-   "pub": "Sun, 18 Oct 2026 05:32:59 GMT"
+   "t": "Iran-Krieg eskaliert: Benzinpreise in der Schweiz steigen dramatisch - NZZ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0p1aUQxSVN5cEtlQmg4bjZBOGlxMUtmSmxveFhVeWlDUkIxRU9hNFA0eHlBbmpBYlNqWlY0UzZ5cUpRTW9SZ2kxUzZsWjZhTjNLZEpqdTRWVVZDYXNiSkxad2tMYWhFVm1fY0hoQVFnd19jVS1kbmhneENHODhidmJHRnBpLS1xTG12YU95ZDRjbWV0MXRTN09odEtDT2NlbnRXWEM1Y0JrZTNjZzNXSlVrM0FrMV9R?oc=5",
+   "pub": "Sun, 18 Oct 2026 16:20:26 GMT"
   },
   {
-   "t": "Mutmaßliche Iran-Spione vor Gericht: Urteile wegen Anschlagsplänen in Hamburg erwartet - NDR.de",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmxxUndMaDJlOWRjelk0YVV1cXFxN2RxZTd3RzY0cGkycnpPM3dZNDVINzBENjNSMFMtSkFmQmpseXBzYU1QT1dfNUlzam9QazFydkhyMWFPYmZCRlcxSG1RUXlLVjB0N3ZKNG9KbDBqMzEyWTJYNEJESEp6TkotLWZ3Wlc5ZTNpdGV2WWdXanlRZWFucmxVM3ozVVVKNF9vLXkxRWpZS013QmdidEtnYndyMWhkcEVyeVdOWEdiNA?oc=5",
-   "pub": "Thu, 15 Oct 2026 14:18:57 GMT"
+   "t": "»Sich als progressiv Verstehende scheinen kein Interesse an den realen Menschen im Iran zu haben« - Mena-Watch",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWWtTbm4wdG42NVl6TmhXX2xjdFVINm40SEJnY3BnME02VnNtbFlhdGdmUUdwTy00OUxtVmtYUnVXeDh0WWhfbDlvWXladzlYQjBLLU5IVjdKeTg4ams5dGZVc3ZEMk1HVGlxOE1mRzVUSktBbmdYZQ?oc=5",
+   "pub": "Mon, 19 Oct 2026 07:00:00 GMT"
   },
   {
    "t": "„Wir werden reagieren“: Wadephul droht Iran wegen Anschlagsplänen mit Konsequenzen - Tagesspiegel",
@@ -89,14 +84,19 @@
    "pub": "Fri, 16 Oct 2026 14:02:34 GMT"
   },
   {
-   "t": "Saudi-Arabien will Industrienation werden – zerbomben Iran und Huthi das Vorhaben? - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSndTMmI2NXFDbE9Kb05fYVVobWIwX1RoRkNOTTVZTnVubHZqQUk5dGVpdzVFbVdXSUhWNDdtckthb1BmLWNiZXRCaG15MzdpS0hROUF1YzAwQTBDNkNQeHVySEZZeElIS1dpQkw3Z3UzS1l3R0p3TWxHZFhnUVNqRjFualRwOHFrYms5T2JaaTAwN2F0czRCcFFVWVplRUxlVXM4aFlCTktibDRvd3ZHUFhwbGRXN0RKcnJSM0hiLUVLNFhzeGtxQktXNjVjSE83WUJFTUNCb243YzNwcldn?oc=5",
-   "pub": "Sat, 17 Oct 2026 08:15:54 GMT"
+   "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFdLSENEY1o0V09Yc3owcEVBbzVVYkl6TG84VG1SdVVTYWt3SC1VMUlmT2hPWDd3cGdaeVJNV0hEdlpoZ183MFlYVzRaQmFET0dZYkNNc3hNS09zTzVOZUVlZG1SV1R0MGxMZG42OW92VFBXMlRuTzhLVEROOXBaNTZCNDJhRzNuMWd2X3JJcGxRREUzTkFtczA4QjFYYmVjQ2FkU2hFdlkwaXltb3U1akw0V2cwMktvVEJ6eE01UkJoVVRHeURlczhGVDViajFyZ2MyMzd6UHNPNDRya0FLSlFnMXBRejk2OUh3?oc=5",
+   "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
   },
   {
-   "t": "Iran-Agenten: Spione in Hamburg zu Gefängnis verurteilt - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1RMbnN6ZVlHejdISDhzWXdabXhERzlFWF9TTVFKSm5NQ1c5aVQ3TjBLaDNwdV9WRXVmbEFORHlpUVdiOHNxdFZfZTk3eGIyVmxjU0U3Q04yZ0d5eUNTSmNmekN2RmJEZGNqMnRzSi16TEw0MUx3a1p1bGlpZEx2Ymxibk1iN2NZeXZtV2VsU1E0Rk5w?oc=5",
-   "pub": "Thu, 15 Oct 2026 13:38:00 GMT"
+   "t": "Brent Crude Oil: Trend in der emotionalen Phase - was bedeutet das? - FinanzNachrichten.de",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXZxNlZVc1Z5d2dVMjRhOU54R3Z0VmxvMG9lUEdYbklUZ0doOUU4cElXaE9XME9hdnJCcjdfZXBKMTF4TEVlZk1ZMVJNS2tuVFVUSGxMRGl3ZWhDaVJCZHBhTG50RHcyZnY0OWxPN0hkMmFKZkdHQktpaE9MZDZfd05SUVFYR2loa0gzN3J1MkpheXI1UEI5OXFNTmZBU3dBdVVkVTJHMDZSZmdodkVVeFBCeUdIdWtKX2xtOEtXRzFna0hfU0h3STdqTW1idw?oc=5",
+   "pub": "Mon, 19 Oct 2026 06:06:00 GMT"
+  },
+  {
+   "t": "Japanischer Yen hält sich nahe 158,00, da Ueda von der BoJ sagt, die zugrunde liegende Inflation liege nahe am Ziel - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xaE5PdmJYanNHakNGWjBBY2pab1ctSGhhV2ppLXFxRE4tY1NUNWdQX1JJck5lOWRrN0ZfcVVkci05M25pOWdHelhlYWNkZGZxWXZOZE0wTGM5TTRlMnhhbmZxbjZ4MzU5?oc=5",
+   "pub": "Mon, 19 Oct 2026 06:52:00 GMT"
   },
   {
    "t": "Die USA erwägen offenbar Einsatz von größter nicht nuklearer Bombe gegen Iran - Spiegel",
@@ -104,9 +104,9 @@
    "pub": "Thu, 15 Oct 2026 04:53:00 GMT"
   },
   {
-   "t": "Iran soll Huthi bei Angriffen auf Saudi-Arabien mit Zieldaten versorgen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzdkenFtdDJZRTZLVnA0NVZfdExTSHpodHFCZ2V1aHl1bGJ2dmIwSFNBX0hYSktHSXI5bEYzOFdaUC14SkJiRkN0ZXpBWF9fVU9XM3Npa0dFU3ZBamk2V09lel8zcGVxNHlnTzFkOHNjMUE4YnhYYWZBai12QWQwTVRtM3dBQVF6RGRyZ3R0dVZRYndEcXBuTndSZWpRc2VneHhUeHhzQkhESU5ZTEdqSlhVcHJlVEZFYUNDWg?oc=5",
-   "pub": "Sat, 17 Oct 2026 06:52:51 GMT"
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNldTLXhUSDQzR1k2VXgtNGhrajM2WEVfV1o3eC1FODRCNi1pLVI0UXdYcm9rSkRUb0g0VFFDZnpkYS1mU1FPNkg0YXRQT2JaZ29sQ1IzbEd1TThtSjlnT0hSWklibVVOMzFzX3Bfc2hEV1V3d2I0M3VMSHAybU1qdGFra2JqZXRnUWJTQXo5ZzNxcFd4b0FuU2wxU3FQbVIxUjhSV2RweWpKV1FxeUhTbS14QW9yMnlBeXAyeWpIZU5QQzdJN3I4a2JNM1JHcFk?oc=5",
+   "pub": "Sun, 18 Oct 2026 03:15:40 GMT"
   }
  ]
 }
