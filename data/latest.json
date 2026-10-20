@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-19T21:04:31Z",
+ "collected_at": "2026-10-20T00:21:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8258,
-   "chg1d_pct": 0.25
+   "price": 0.8261,
+   "chg1d_pct": 0.29
   },
   "USDJPY": {
-   "price": 158.436,
-   "chg1d_pct": 0.4
+   "price": 158.548,
+   "chg1d_pct": 0.47
   },
   "GBPCAD": {
-   "price": 1.8761,
-   "chg1d_pct": -0.35
+   "price": 1.8766,
+   "chg1d_pct": -0.32
   },
   "AUDJPY": {
-   "price": 110.54,
-   "chg1d_pct": 0.49
+   "price": 110.61,
+   "chg1d_pct": 0.55
   },
   "EURUSD": {
-   "price": 1.1215,
-   "chg1d_pct": -0.09
+   "price": 1.122,
+   "chg1d_pct": -0.05
   },
   "GBPCHF": {
-   "price": 1.0985,
-   "chg1d_pct": 0.01
+   "price": 1.0997,
+   "chg1d_pct": 0.12
   },
   "WTI": {
-   "price": 98.4,
-   "chg1d_pct": -2.97
+   "price": 98.09,
+   "chg1d_pct": -3.27
   },
   "BRENT": {
-   "price": 109.38,
-   "chg1d_pct": -0.44
+   "price": 109.06,
+   "chg1d_pct": -0.73
   },
   "GOLD": {
-   "price": 4157.8,
+   "price": 4157.7,
    "chg1d_pct": -0.56
   },
   "SPX_FUT": {
-   "price": 7739.25,
+   "price": 7739.0,
    "chg1d_pct": 0.45
   },
   "NAS_FUT": {
-   "price": 29739.0,
-   "chg1d_pct": 1.18
+   "price": 29691.0,
+   "chg1d_pct": 1.02
   }
  },
  "headlines": [
@@ -52,6 +52,16 @@
    "t": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHJKRHY4cXlsUHRpWTREcEVkM3AtWk5tcWxQRzhMYUJWQ1BOYnVPclBCY01JdDJMMmpseFI2ejRFbHNCVjBRM0hyWVJnYTFTQXF6TDhMQzBmTm1lZHZNd1o2OUE5R1ZMTHNaRTJ3UEZFWU5kMW92ZVJ1MXpmV3Q0MkhnQ1VQZUVPUVJzU1hqNENBUzFKMXNKdkowejRvbE50eHdkLW5CZGtjZTFBRGVMcjM2VzJvSTd0dlZ3U0NSTGltbHkxNlFjaFFLV19Ndm80?oc=5",
    "pub": "Mon, 19 Oct 2026 20:45:00 GMT"
+  },
+  {
+   "t": "Diplomatische Spannungen: Iran bestellt deutschen Botschafter ein und beschwert sich über „verächtliche Haltung“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPR0o3VXR0RnhHd2UyNWp3c0RPUDE5dkl4dWF0YzBSR21ZcW1xZDhnaW1HWHhwWllvZlhpNHF0MmFVV2lTdmt1UFFVR2V5V0NsLUtnalRPeWVodGFjQnFZck95T09FN1RLU2FuZlh3YW4zSldBTWxaUTBiaEkwczM4SFpnWjFreGpNYm5zZ0VReUdGampadm1jT01zeW1nb012TmlHZTBmand1UXdDNGdQc0l1M3g3Zk9hX2VCajNjUkNHTEpBN2RmRTcyMlJobHlka1dZalI1UHNZMWg1YlM3ZzRJaThpaFg2eDdEN29kbkRscVNxdmlWYzdCLWJEbEZlNnhtZEF0LTVNazliYWgzSnpB?oc=5",
+   "pub": "Mon, 19 Oct 2026 21:13:46 GMT"
+  },
+  {
+   "t": "Iran bestellt deutschen Botschafter ein – worum es geht - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmxqR1pIcE1vQ3RRMExGOHlnRWdsbDdDTjM2d1ktT3I1RlZVaU1DejNWdTgyZ1U0N09mMVNuREJoVzNKMjlvOVNPRW1XWTN4OWx3OU44dWpUVlBiN1haNGZUaGV5RTlZa0Zxb0Z2TFlza3JIem5NaEZsaW5oa3dxSlZvbFIwdXhjbU9kS0UzbXI4dmtReWFudU4waENqXzhidjNLMmhUWWFjZw?oc=5",
+   "pub": "Mon, 19 Oct 2026 20:49:00 GMT"
   },
   {
    "t": "Iran: Auswärtiges Amt bestellt iranischen Botschafter ein - DIE ZEIT",
@@ -64,19 +74,14 @@
    "pub": "Mon, 19 Oct 2026 10:22:19 GMT"
   },
   {
-   "t": "Iran bestellt deutschen Botschafter ein – worum es geht - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmxqR1pIcE1vQ3RRMExGOHlnRWdsbDdDTjM2d1ktT3I1RlZVaU1DejNWdTgyZ1U0N09mMVNuREJoVzNKMjlvOVNPRW1XWTN4OWx3OU44dWpUVlBiN1haNGZUaGV5RTlZa0Zxb0Z2TFlza3JIem5NaEZsaW5oa3dxSlZvbFIwdXhjbU9kS0UzbXI4dmtReWFudU4waENqXzhidjNLMmhUWWFjZw?oc=5",
-   "pub": "Mon, 19 Oct 2026 20:49:00 GMT"
+   "t": "Iran bereitet sich auf neuen Krieg vor – US-Basis Ramstein in Deutschland könnte Ziel werden - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTE5DVzd0RjZLTzhjYmZnYm1JemVhTE44Q2ZQLXRkb25HVVhteEVaY1BKT2Q2bldQRnRuNWhTc0g2U1JJVzJPMEkzS3NWbnJOb1dja3ZwZVhGdzhXeXZaVlFJdDVQZ29RQ3Q0djZxT1FIaC1xMGVlRWs0emZhWWltNVhqbmtvdXdZUGdHeDFyc0xPRmEzYnc?oc=5",
+   "pub": "Mon, 19 Oct 2026 08:08:02 GMT"
   },
   {
    "t": "Iran droht, Israel werde nur noch »verbrannte Erde« sein - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOakRDa3RzOGdyMkhFT3F4WEctcElNUURDMFBQU3RLRjhRWC1mRjhwenZMcmNwa0VhT2luOE9lWER3bmlJQ1NWRGFzZGtPbWRfNUZBR1hHelpiS1hkek02UXJDVFp3MGh1LWs1VWRhbHNHVWozMU8wQ1oxaU1SbVFnODZVQUtUSmNteThYaTdoQWNVd0JFcUpBOFc2ck40Zw?oc=5",
    "pub": "Mon, 19 Oct 2026 14:50:00 GMT"
-  },
-  {
-   "t": "Iran bereitet sich auf neuen Krieg vor – US-Basis Ramstein in Deutschland könnte Ziel werden - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTE5DVzd0RjZLTzhjYmZnYm1JemVhTE44Q2ZQLXRkb25HVVhteEVaY1BKT2Q2bldQRnRuNWhTc0g2U1JJVzJPMEkzS3NWbnJOb1dja3ZwZVhGdzhXeXZaVlFJdDVQZ29RQ3Q0djZxT1FIaC1xMGVlRWs0emZhWWltNVhqbmtvdXdZUGdHeDFyc0xPRmEzYnc?oc=5",
-   "pub": "Mon, 19 Oct 2026 08:08:02 GMT"
   },
   {
    "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
@@ -89,24 +94,19 @@
    "pub": "Mon, 19 Oct 2026 12:04:01 GMT"
   },
   {
-   "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFdLSENEY1o0V09Yc3owcEVBbzVVYkl6TG84VG1SdVVTYWt3SC1VMUlmT2hPWDd3cGdaeVJNV0hEdlpoZ183MFlYVzRaQmFET0dZYkNNc3hNS09zTzVOZUVlZG1SV1R0MGxMZG42OW92VFBXMlRuTzhLVEROOXBaNTZCNDJhRzNuMWd2X3JJcGxRREUzTkFtczA4QjFYYmVjQ2FkU2hFdlkwaXltb3U1akw0V2cwMktvVEJ6eE01UkJoVVRHeURlczhGVDViajFyZ2MyMzd6UHNPNDRya0FLSlFnMXBRejk2OUh3?oc=5",
-   "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
-  },
-  {
    "t": "Iran: Teheran bestätigt sanktionierten Verteidigungsminister im Amt – Drohungen gegen USA - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORWN3RklSTEhGczFsOFFpTEhESHBQYXJXSEtWdHlwR1p4MnkwTEFYTHBiVXZyMy12MG5ycXYzYlBiTnZqa0dpYkFLWENiMFN0MWROYzIxdWhjX2d4cUJwVnBxSFJXQWpyaDhTUVV4NlFSMVJ6NW0tdVJTM0VqeEVFNHBlS083bGN6MWZ0cU1lQkM4bHRFMUp5Q0xMR3YtZHd3aUc3S2VwRGJpbzZvWXFtR2FiX1dxR1Q2TjdQX2pCNzIwQk1NZU4ydksxUXhCdllZSHY2SzdSSG4tTUJaVDE4cEpURjFvTWcwS1V3Vndn?oc=5",
    "pub": "Sun, 18 Oct 2026 11:17:00 GMT"
   },
   {
-   "t": "Russischer Außenminister Lawrow reist in den Iran - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjFiWTE1bXVLTm8yV2xxRjVFb3p4SlFCQmQtM2htZ1lRb0lCZkpTODU3Q1hvNGU2cll2clhCSlVrRHZweEVMeGFTVEtjZzUxNHdBakh3TmhkN1ZIRFRFS0hnazVDNzJERUNoLUpiNGNtZkEzb01xVW5RMmVqcEFwMkFqSWh6SGRlN3dEUDdOT0UzWW1x?oc=5",
-   "pub": "Mon, 19 Oct 2026 08:22:33 GMT"
+   "t": "Straße von Hormus: Supertanker gestoppt – Iran meldet erneut Explosion durch Seemine - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTFdLSENEY1o0V09Yc3owcEVBbzVVYkl6TG84VG1SdVVTYWt3SC1VMUlmT2hPWDd3cGdaeVJNV0hEdlpoZ183MFlYVzRaQmFET0dZYkNNc3hNS09zTzVOZUVlZG1SV1R0MGxMZG42OW92VFBXMlRuTzhLVEROOXBaNTZCNDJhRzNuMWd2X3JJcGxRREUzTkFtczA4QjFYYmVjQ2FkU2hFdlkwaXltb3U1akw0V2cwMktvVEJ6eE01UkJoVVRHeURlczhGVDViajFyZ2MyMzd6UHNPNDRya0FLSlFnMXBRejk2OUh3?oc=5",
+   "pub": "Sat, 17 Oct 2026 13:35:54 GMT"
   },
   {
-   "t": "Völkermordprozess gegen Myanmar: Warum Deutschland seine Intervention verteidigen sollte - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEZYd0tyODVycEVOTmQ3SGM5UmRTcjVyYWRsbVhpbkYyTmlnemdLaC1tRDdnTElTdXQ0VGxZS2xkRE51N3k0UEtCcXZQeFZoUmtydFlubk9VSEF4V1NhS0RJanY1bnFONjZJTERhck56TUk3RFBOQURWRXhaMXREcXB2NDBRWWVhejFla3NtbzBHTjlydnYxM3JMUUlMRjdyNTNoSmVHQ3JmUlRmaXlSQ0oxMGtuVUNPVDFpTElUT1BOdC1XdlptMVp4OVJORDBvZnJTRi11WjkwZ2czR3ZQVGVNczE?oc=5",
-   "pub": "Mon, 19 Oct 2026 15:09:15 GMT"
+   "t": "Anschlagspläne: Deutschland bestellt iranischen Botschafter ein – Iran reagiert - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQV9WX1hiZ2ZUZnhNb0drc0RxOWJlaGJyNGlDU3VCdjJjSHdobnJpSmNTZEVTanVUNU5Yc2VvQnNaNFB6Qlh1ZFJrMDNubHk4UGthMlJGNXlSMFA3VGhhRlFqTjA5LW9IaHVEck4xTGZrRi1YSGltamMyNDVtWGV3aWdDWmVzMWg4Uy05SzJVTVEyeHpwQms2bFRuZGs4UFVScUl3U2UtYVhxeGtUcUtfWTNn?oc=5",
+   "pub": "Mon, 19 Oct 2026 18:54:44 GMT"
   }
  ]
 }
