@@ -1,57 +1,67 @@
 {
- "collected_at": "2026-10-20T06:02:46Z",
+ "collected_at": "2026-10-20T11:40:33Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8252,
-   "chg1d_pct": 0.18
+   "price": 0.8243,
+   "chg1d_pct": 0.07
   },
   "USDJPY": {
-   "price": 158.14,
-   "chg1d_pct": 0.21
+   "price": 158.21,
+   "chg1d_pct": 0.26
   },
   "GBPCAD": {
-   "price": 1.8777,
-   "chg1d_pct": -0.26
+   "price": 1.8738,
+   "chg1d_pct": -0.47
   },
   "AUDJPY": {
-   "price": 110.421,
-   "chg1d_pct": 0.38
+   "price": 110.572,
+   "chg1d_pct": 0.52
   },
   "EURUSD": {
-   "price": 1.1231,
-   "chg1d_pct": 0.05
+   "price": 1.1213,
+   "chg1d_pct": -0.11
   },
   "GBPCHF": {
-   "price": 1.1009,
-   "chg1d_pct": 0.23
+   "price": 1.0997,
+   "chg1d_pct": 0.12
   },
   "WTI": {
-   "price": 98.97,
-   "chg1d_pct": -4.52
+   "price": 100.88,
+   "chg1d_pct": -2.68
   },
   "BRENT": {
-   "price": 110.2,
-   "chg1d_pct": 0.59
+   "price": 111.51,
+   "chg1d_pct": 1.79
   },
   "GOLD": {
-   "price": 4143.0,
-   "chg1d_pct": -0.41
+   "price": 4142.8,
+   "chg1d_pct": -0.42
   },
   "SPX_FUT": {
-   "price": 7734.0,
-   "chg1d_pct": -0.01
+   "price": 7723.5,
+   "chg1d_pct": -0.14
   },
   "NAS_FUT": {
-   "price": 29642.0,
-   "chg1d_pct": -0.27
+   "price": 29545.0,
+   "chg1d_pct": -0.6
   }
  },
  "headlines": [
   {
+   "t": "Lawrow besucht die Mullahs: Iran: Kooperation mit Russland so eng wie nie zuvor - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmp4SXVkT0NTa1BCdHl4UVJmbUNBMnlpSEFxd0F1WXRTdUJjZTJYNjBCekZ3M3JWNmJiU21Fd0tuaUViWTk0U3FDQWlFMUU1TzRMNlNYTmMzYXlxS2paanRfS3hjU1YyRzNTUGgyT1diQVc3aXhhNm03Z3k5THpMNlJLV3NHVUNfVGpTOVVrQmxLTEo2UXFBdWd3?oc=5",
+   "pub": "Tue, 20 Oct 2026 08:00:39 GMT"
+  },
+  {
    "t": "Diplomatische Spannungen: Iran bestellt deutschen Botschafter ein und beschwert sich über „verächtliche Haltung“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPR0o3VXR0RnhHd2UyNWp3c0RPUDE5dkl4dWF0YzBSR21ZcW1xZDhnaW1HWHhwWllvZlhpNHF0MmFVV2lTdmt1UFFVR2V5V0NsLUtnalRPeWVodGFjQnFZck95T09FN1RLU2FuZlh3YW4zSldBTWxaUTBiaEkwczM4SFpnWjFreGpNYm5zZ0VReUdGampadm1jT01zeW1nb012TmlHZTBmand1UXdDNGdQc0l1M3g3Zk9hX2VCajNjUkNHTEpBN2RmRTcyMlJobHlka1dZalI1UHNZMWg1YlM3ZzRJaThpaFg2eDdEN29kbkRscVNxdmlWYzdCLWJEbEZlNnhtZEF0LTVNazliYWgzSnpB?oc=5",
    "pub": "Mon, 19 Oct 2026 21:13:46 GMT"
+  },
+  {
+   "t": "Neue Iran-Angriffe im Gespräch: Hegseth trifft Netanjahu auf Militärbasis - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNeEpBTnozVHJweXo4ZWRZS3AtVE13amk2UmtlR2xSS2hZdXZlbGxnd0RqalN4amxkYkpvRG1XT2JWQmZ6SFlKQTFmbGlzbkdxWDQycjZVQkd4Z3JDR2t5Rk82SE9pdU0tcE1SSmF5aVE5c0ViMTk2am42ZVVtdnJhd3h6d3VaRGxJQjR1aHpDbE5MUjJUekM0Q2Nuc1I1V1lPR18wbDhJbDd3MFo4MFVpU3JEb2o2ZWtGem1nZ3pRUzhjcXljUWlmLXhINE1wZEptTzJsZVVUSVlEc3JqSnY4akhVeVhpb1ZNT1JVRlFvanI2YXZQMWF1SlNaSmdCVXVkemFGNHdrRGV3WXpkczdlWWdVNlhidUJEOWZEQzFGUDh3SDhOcDlDMVRFUHA?oc=5",
+   "pub": "Tue, 20 Oct 2026 08:09:54 GMT"
   },
   {
    "t": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt - Spiegel",
@@ -59,14 +69,14 @@
    "pub": "Mon, 19 Oct 2026 20:45:00 GMT"
   },
   {
-   "t": "Lawrow bekräftigt Russlands Unterstützung für Iran - Trump verteidigt Lockerung gegen Moskau - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsckpaNS05NVNOOER4U2lLb0ctd0tCTDZ6akR4YTR5OW1kU3BJVGZxQ2JfX3kzN3RTbkNNYU12SDdmSGVRZEZKNHhuYld2SGNENmczdFZlQ2t5VzhXVHNubGVhTDBpTFBYWTN3OE5CUGZsWU00Tk9F?oc=5",
-   "pub": "Tue, 20 Oct 2026 04:40:31 GMT"
+   "t": "Iran: Warum die Gewalt in Belutschistan zunimmt - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGxQSVFwbDVNVmc2UXh4LTN3a3NUWjdjcDdNZ3J5SE1OX2xiUERPUHlPbG1kWlBDUlRSZGZEUk9BVDFXM016VDJPM1JhUTJUQkZvMXlnY0wtdDNhUkc3blBlNWl5ZXZ2b04ybE5memhjX0RzSFFmVV9ReU5QUnFNc2ZPMzBEQdIBhgFBVV95cUxONm9uWlBhQmVCWkZfeERvcm85UkcxZ3pzQXhIUWwySXQzbjk0WDJveU1GZnZlMDU0YjR1dmQybG1GUGpRb1RaVVBnUXhPbG5obkQ5OVRIaEVZbW92T1RkQ013N1lUblc4S0RLZ1E0MWxoZVM2aUJsay0yZ2NFQWN6RVhFNXdXUQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 10:25:36 GMT"
   },
   {
-   "t": "«Die Welt wird staunen»: Iran bereitet sich auf nächsten Krieg vor - Watson",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3R2RkI5S0JaRFBoRE9LNWhxTGM3YjRDbkZTNVJRTlBxbGRKcmtvTWh4TS1LQUwyeDFBVTNidnkxNHg2MjFXS2wwcEhoY1FHY0JuOVVlNjJkNHNRcU1tTnNwR0FCYnBqR0RrYlVfb2JaTElTakh2c1R1aVpQLVU1aEpBQnl0Z1N0MGc5UkxybTVZUktjQTBWTjZYY3hzVkphUjZfVFJKWjQzeEI2amNQQ3p2SUZRdw?oc=5",
-   "pub": "Tue, 20 Oct 2026 03:13:45 GMT"
+   "t": "Lawrow bekräftigt Russlands Unterstützung für Iran - Trump verteidigt Lockerung gegen Moskau - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsckpaNS05NVNOOER4U2lLb0ctd0tCTDZ6akR4YTR5OW1kU3BJVGZxQ2JfX3kzN3RTbkNNYU12SDdmSGVRZEZKNHhuYld2SGNENmczdFZlQ2t5VzhXVHNubGVhTDBpTFBYWTN3OE5CUGZsWU00Tk9F?oc=5",
+   "pub": "Tue, 20 Oct 2026 04:40:31 GMT"
   },
   {
    "t": "Iran bestellt deutschen Botschafter ein – worum es geht - STERN.de",
@@ -76,37 +86,27 @@
   {
    "t": "Rekordzins wegen des Iran-Kriegs: Immobilienkredite so teuer wie zur Finanzkrise 2009 - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjByM1I4WWhheFk4RlhQazk3NnRwUVh6MHBpeGpPVm5uNWJuYno0V3d0RFF6LVpnMkhhWGk2ajBjdWlXMjZjcXhhdVQyUV9HTVkxWmlSVVJyNWYzNFY0OFQxeEF5V3p5TVRjeHRTQm51Q2taUUJZN0RYMmMzUkNNb2NUQW9wNnVIQXViTHJWazhTV2hsdWZkanc3aHUzUEE?oc=5",
-   "pub": "Tue, 20 Oct 2026 03:43:56 GMT"
+   "pub": "Tue, 20 Oct 2026 11:23:17 GMT"
   },
   {
-   "t": "Iran: Auswärtiges Amt bestellt iranischen Botschafter ein - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2hXR2tEbm9VRUp3eGdNd3NJM3JvWDNOT2tnR19nOEpVX0pwUjFlZmJYUTNuVHhOS3p5Y2RhTndZZ0IxUUVyb1ZiazQ2QWVoOW9aeFFCbVU0eUcxNU9PUU5Sa0MyMTgyWjNoMFJZVmMwZU14RFVfMlYxUXphalY4TGJHV210Z0czRERfRjNJNHhHZXcxcHZDdEhjbWxjcDhfc3BTaVBXaWNHU3FXZXA0?oc=5",
-   "pub": "Mon, 19 Oct 2026 10:08:50 GMT"
+   "t": "Hypothekenzinsen in Deutschland steigen auf Rekord seit 2009: Iran-Krieg schürt Inflationssorgen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2x2QUdpdDBVSlNKNmRzdXpETzI5OVQxOFhkV0tJcjJoSnktLWxxTEtCZzlEekdIVVVJaTl0eS1HVTM1M3R6R3ZyWjUxNXRIdFc2WXQyRjc3UUlQa05KRFZnQnZXUFF3cUYtMk5FV2l1QW1tM204V0xya3BSX1FYMXlIWVNQVjI2bFg4c1M4UWhDOTFvQzZNWnRRRjJ2bzMtQm5WSjBwdkZwWUFPOS1wc2xXME5QVUZJellfQ1BoTUlFUzA?oc=5",
+   "pub": "Tue, 20 Oct 2026 09:06:57 GMT"
   },
   {
-   "t": "Gold: Dollar und Renditen drücken vor Fed-Sitzung - Börse Express",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOU9USkloa1RhaERlQWs0WS1pMVNNTmxTNW5tSTJTbU5QV3VWY1FMd1B0THdWMFFQXy1WYWVVZ3NLSFUzU1o2VDVuLWJLQW1OSzlWNTNucjFuNUJnbjBfREdSNWdCanpjbFBPZ2ZRT2thVllQTC1PZy05ellQY09wSWdQeWR1MmhBMnVKaktBUFVkZVVfV1BUcVNtUkxubk1hZlJV?oc=5",
-   "pub": "Tue, 20 Oct 2026 05:42:06 GMT"
-  },
-  {
-   "t": "Iran droht, Israel werde nur noch »verbrannte Erde« sein - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOakRDa3RzOGdyMkhFT3F4WEctcElNUURDMFBQU3RLRjhRWC1mRjhwenZMcmNwa0VhT2luOE9lWER3bmlJQ1NWRGFzZGtPbWRfNUZBR1hHelpiS1hkek02UXJDVFp3MGh1LWs1VWRhbHNHVWozMU8wQ1oxaU1SbVFnODZVQUtUSmNteThYaTdoQWNVd0JFcUpBOFc2ck40Zw?oc=5",
-   "pub": "Mon, 19 Oct 2026 14:50:00 GMT"
-  },
-  {
-   "t": "Chance auf Frieden im Nahen Osten nutzen - bundesregierung.de",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDRWSkZxVjA4ejlPMktyaGtzTGFJUUNRalJmYTJjWUVyZ0VYNkhFUld6Q2tjM1JkWUJoNXhCaDQ5UHpGbFN4LXZaaVluMjFua0NUMHlrcnFUeHZraURBTnhoU1Z4NF9CSXZuZVR2WkZYMUZFTlZ5S0lGZGEtWmswQ0lrLV81S1du?oc=5",
-   "pub": "Wed, 14 Oct 2026 08:00:00 GMT"
-  },
-  {
-   "t": "Warnstufe Rot für US-Bürger in Nahost nach Attacken auf Saudi-Arabien - Euronews",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFUkxFSmdCUXlid3U3ZjZJZk5uaVBPUENneXR3SWpqOHhiSGladE1KanBELTd4REQtUGNoX1dmQzhIV0ZFQWNCVkhzMktaT1lyV3JES1hlNGtxV0h1UXVobVdWLUYxUWZ2eUpmYmplTmdGV2tsSmtaOXZkd083UQ?oc=5",
-   "pub": "Mon, 19 Oct 2026 12:29:46 GMT"
+   "t": "Dow-Jones-Futures steigen, da die Märkte auf eine Beibehaltung der Fed-Zinsen setzen, Tech-Erholung - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wMDFlR2o0b2c3OUtkZXR5Wjl4c0hSVk8xdFBXNVBUazk4SnhpWjVfSjZXOFhFZk9CYlB1YjRZM2pzbUlLMWItMUpfc2YzYWhPeVcyYTBocnB1d25YU2NrXzdWS2hlLWNi?oc=5",
+   "pub": "Tue, 20 Oct 2026 09:05:15 GMT"
   },
   {
    "t": "Iran: Teheran bestätigt sanktionierten Verteidigungsminister im Amt – Drohungen gegen USA - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORWN3RklSTEhGczFsOFFpTEhESHBQYXJXSEtWdHlwR1p4MnkwTEFYTHBiVXZyMy12MG5ycXYzYlBiTnZqa0dpYkFLWENiMFN0MWROYzIxdWhjX2d4cUJwVnBxSFJXQWpyaDhTUVV4NlFSMVJ6NW0tdVJTM0VqeEVFNHBlS083bGN6MWZ0cU1lQkM4bHRFMUp5Q0xMR3YtZHd3aUc3S2VwRGJpbzZvWXFtR2FiX1dxR1Q2TjdQX2pCNzIwQk1NZU4ydksxUXhCdllZSHY2SzdSSG4tTUJaVDE4cEpURjFvTWcwS1V3Vndn?oc=5",
    "pub": "Sun, 18 Oct 2026 11:17:00 GMT"
+  },
+  {
+   "t": "«Die Welt wird staunen»: Iran bereitet sich auf nächsten Krieg vor - Watson",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3R2RkI5S0JaRFBoRE9LNWhxTGM3YjRDbkZTNVJRTlBxbGRKcmtvTWh4TS1LQUwyeDFBVTNidnkxNHg2MjFXS2wwcEhoY1FHY0JuOVVlNjJkNHNRcU1tTnNwR0FCYnBqR0RrYlVfb2JaTElTakh2c1R1aVpQLVU1aEpBQnl0Z1N0MGc5UkxybTVZUktjQTBWTjZYY3hzVkphUjZfVFJKWjQzeEI2amNQQ3p2SUZRdw?oc=5",
+   "pub": "Tue, 20 Oct 2026 03:13:45 GMT"
   }
  ]
 }
