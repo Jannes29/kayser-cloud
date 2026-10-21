@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-21T15:16:54Z",
+ "collected_at": "2026-10-21T19:21:45Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8255,
-   "chg1d_pct": -0.16
+   "price": 0.8251,
+   "chg1d_pct": -0.21
   },
   "USDJPY": {
-   "price": 158.125,
-   "chg1d_pct": -0.25
+   "price": 158.277,
+   "chg1d_pct": -0.16
   },
   "GBPCAD": {
-   "price": 1.8827,
-   "chg1d_pct": 0.3
+   "price": 1.8802,
+   "chg1d_pct": 0.16
   },
   "AUDJPY": {
-   "price": 111.07,
-   "chg1d_pct": 0.35
+   "price": 111.183,
+   "chg1d_pct": 0.45
   },
   "EURUSD": {
-   "price": 1.1223,
-   "chg1d_pct": 0.06
+   "price": 1.1226,
+   "chg1d_pct": 0.09
   },
   "GBPCHF": {
-   "price": 1.1047,
-   "chg1d_pct": 0.39
+   "price": 1.1043,
+   "chg1d_pct": 0.35
   },
   "WTI": {
-   "price": 97.91,
-   "chg1d_pct": -3.81
+   "price": 98.47,
+   "chg1d_pct": -3.26
   },
   "BRENT": {
-   "price": 109.16,
-   "chg1d_pct": 0.34
+   "price": 110.43,
+   "chg1d_pct": 1.51
   },
   "GOLD": {
-   "price": 4146.1,
-   "chg1d_pct": 0.08
+   "price": 4129.3,
+   "chg1d_pct": -0.32
   },
   "SPX_FUT": {
-   "price": 7777.75,
-   "chg1d_pct": 0.29
+   "price": 7776.0,
+   "chg1d_pct": 0.27
   },
   "NAS_FUT": {
-   "price": 29932.75,
-   "chg1d_pct": 0.87
+   "price": 29911.25,
+   "chg1d_pct": 0.8
   }
  },
  "headlines": [
@@ -64,6 +64,16 @@
    "pub": "Wed, 21 Oct 2026 13:11:33 GMT"
   },
   {
+   "t": "Fed-Leitzins: Aktuelle Prognose für 2026 und 2027 im Überblick - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUlPRlpKUnM3elNrd3NXRkJlelB5VWYtbGlNb19aN3E5MEtWLVlpbV9HQnZMNktfbWJqc3FraGJWNTIyM3pUc2pIcDQ1b2wtTnZLdVFzZ05MSXVrWC1pT3hnVER3REoyVWNObDFSbGxhYV9PRTRZcVpVWW1VVDZ2SHp2VDJUbFFIcGkyQmNSdGtKNEtKRFVVSG1wSjVfc1NMb19EVExXeWVKSVpJalVjLXNHMTAycHpSa1FBQnVzcw?oc=5",
+   "pub": "Wed, 21 Oct 2026 11:48:00 GMT"
+  },
+  {
+   "t": "Netanjahu: Bedrohung durch Iran kann nur durch Regierungssturz beseitigt werden - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbG5MLU8yLUpKQktLNFpCQUlvNmFjcG1acmtybUNvZXZrSmV4YlJadUVuWjIzbXZ2UXdRVTJGM2FaZXc3V2NQMkdHbnNlSDY0TDdJWmtSTENkLVFoM0F2NHhVZlFXUGVhb0EyNWlGNGZ4dW1HbjZZd3c1RHA4YzVxYWZWdC05ckJ5WmhmT29aZ0d4SVNQLWNjV0VqLTh1amRYb0Ixc0trTWwzdmxrb2hWZ3RuRzg3TWpKN3hv?oc=5",
+   "pub": "Wed, 21 Oct 2026 15:41:41 GMT"
+  },
+  {
    "t": "Gold: Iran-Hoffnungen verpuffen - Börse Express",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEliQ05ycGpVMFgzQkx2cmFmMDQ0RnNzaVRqMV9vM2pNSktpQmZGTFFiQU1WYm9ON2dBNVlFZ29KQ3ZFUmdBTFNnenVGODlsY1NzVjhuNjlpbm9POWdOZU9SaEhHaXJtSElFWUhIa254NVhUY1FQbnNNdlk3eTlTQXJEOExMeHZMY0E?oc=5",
    "pub": "Wed, 21 Oct 2026 06:07:13 GMT"
@@ -74,39 +84,29 @@
    "pub": "Mon, 19 Oct 2026 20:45:00 GMT"
   },
   {
-   "t": "Iran besteht auf Verbleib von hoch angereichertem Uran - Südtirol News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEIyUFl2R3FpWlpzcGR1Q3ZFenpCcmtsVGNJaVpCejZxcXYzRHl2QTQ4V3lwVkE4V2daYzh2M0tOd3I1eWl2a2gwUVdITFpoQnFSbjBxUUJBellnVDRxbFF5ak1zR2FuMUtqTkdtakxtejJxdnoyTVJKYlctY2RyMTh4bTFUOFowTFBQeHdLR2pZZTFaRWc?oc=5",
-   "pub": "Wed, 21 Oct 2026 01:25:19 GMT"
-  },
-  {
-   "t": "„Rückkehr eines großangelegten Krieges verhindern“ Russland bietet sich als Vermittler im Iran-Konflikt an - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkVkSENQeFpaYmdNbTMyZDFqdW1scnllNHhHQWZtUUNDY3A2bnZoZV80NTRHcHFKSm9BZVhEVGFVNWFCUVZ2MXB6Q1RVMU5lRmNlT2JjSDRaejFiSWJJVm5nSG9ZVjJiaTZJQVdYeElxYUNrbTdRd1JvU2hIdXlmdzFMMHVnUktTMXVKQUxfRUg1bG1sU01wZEVvY21vdTJUXzZsMnFFVC16czhlYVFBTU9hSzBCaGhDR1l2a3VUY1FmM1RycVB6NlA1cVRFUmlBUGNHU2hMbFEyMVV2RDdKZ3NjbnFGV200eHZ6bGFUbHRJdWw0cEE?oc=5",
-   "pub": "Tue, 20 Oct 2026 17:23:32 GMT"
-  },
-  {
    "t": "Iran: Auswärtiges Amt bestellt iranischen Botschafter ein - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2hXR2tEbm9VRUp3eGdNd3NJM3JvWDNOT2tnR19nOEpVX0pwUjFlZmJYUTNuVHhOS3p5Y2RhTndZZ0IxUUVyb1ZiazQ2QWVoOW9aeFFCbVU0eUcxNU9PUU5Sa0MyMTgyWjNoMFJZVmMwZU14RFVfMlYxUXphalY4TGJHV210Z0czRERfRjNJNHhHZXcxcHZDdEhjbWxjcDhfc3BTaVBXaWNHU3FXZXA0?oc=5",
    "pub": "Mon, 19 Oct 2026 10:08:50 GMT"
   },
   {
-   "t": "Fed-Leitzins: Aktuelle Prognose für 2026 und 2027 im Überblick - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUlPRlpKUnM3elNrd3NXRkJlelB5VWYtbGlNb19aN3E5MEtWLVlpbV9HQnZMNktfbWJqc3FraGJWNTIyM3pUc2pIcDQ1b2wtTnZLdVFzZ05MSXVrWC1pT3hnVER3REoyVWNObDFSbGxhYV9PRTRZcVpVWW1VVDZ2SHp2VDJUbFFIcGkyQmNSdGtKNEtKRFVVSG1wSjVfc1NMb19EVExXeWVKSVpJalVjLXNHMTAycHpSa1FBQnVzcw?oc=5",
-   "pub": "Wed, 21 Oct 2026 11:48:00 GMT"
+   "t": "Hormus: Iran droht mit Kappen der Unterseekabel im Persischen Golf - Golem.de",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczZOYUp1VzUtUFZZUlYtRmVSc19wazYyWnZxRTB3VGc3c0h4Vm5XMjJodkYwQUhaZlJaRU1WbzdiRm9YR2VwNUV0cGY5cGhCU1EwMmxzWTRhS0Juc3VmYjRDajd3S0J0WHN4X1NiNFhmWGRIRDhnNUNoWFcyZm9RcUpWUW5WRDI2QThETUk4b1lKdGFGQk9DU2V2T3RleXRVQVcxLW9EMGlMOHJ4?oc=5",
+   "pub": "Wed, 21 Oct 2026 10:44:02 GMT"
+  },
+  {
+   "t": "Iran besteht auf Verbleib von hoch angereichertem Uran - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEIyUFl2R3FpWlpzcGR1Q3ZFenpCcmtsVGNJaVpCejZxcXYzRHl2QTQ4V3lwVkE4V2daYzh2M0tOd3I1eWl2a2gwUVdITFpoQnFSbjBxUUJBellnVDRxbFF5ak1zR2FuMUtqTkdtakxtejJxdnoyTVJKYlctY2RyMTh4bTFUOFowTFBQeHdLR2pZZTFaRWc?oc=5",
+   "pub": "Wed, 21 Oct 2026 01:25:19 GMT"
+  },
+  {
+   "t": "Lawrow besucht die Mullahs: Iran: Kooperation mit Russland so eng wie nie zuvor - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmp4SXVkT0NTa1BCdHl4UVJmbUNBMnlpSEFxd0F1WXRTdUJjZTJYNjBCekZ3M3JWNmJiU21Fd0tuaUViWTk0U3FDQWlFMUU1TzRMNlNYTmMzYXlxS2paanRfS3hjU1YyRzNTUGgyT1diQVc3aXhhNm03Z3k5THpMNlJLV3NHVUNfVGpTOVVrQmxLTEo2UXFBdWd3?oc=5",
+   "pub": "Tue, 20 Oct 2026 08:00:39 GMT"
   },
   {
    "t": "Israel-Wahl 2026: Laut Berichten dringt Netanjahu auf weitere Iran-Angriffe - FAZ",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjV6ZUw1TDhuWktfWV8xMUI1dTlTNGJWQWJTd2lRdHNkQURCNDJsYzlicjBOU215UzJYR09xcW1EcXdLRVJLLTA4UTFGOFZHaF9YT1dFWFIwRW1FNWRkTFE0N1gtWWNjS3MwdDlJamRaLWw4bTZXdFpxTjd0OUlvLU9YTVlwcHlmcmg2azVudlVKcXBpQ3FwUnB0Nk1LY2tQb1Ntd0ltWnU4QVM3SW12MzhBeUgtM1dHQUo4V0d4QUxJZ3hjSS1RNWdNelladw?oc=5",
    "pub": "Wed, 21 Oct 2026 13:07:46 GMT"
-  },
-  {
-   "t": "Iran beharrt auf Uranvorräten - \"für die Nutzung im Inland\" - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb0QyNmRMeW5ESEk0UkhOTnRGcnNxZTVPakJFcnRhRWZfWFhlVkdtWmJsRG9oTzFWWDQyOVY2WTU5WkF0anJVSHlRbTAwMk55UDdKNnFOMExncWtRc29IVEw0UVQxaGh2dVZVMllBLS05MWh5N29ZTGhvTjdfazhJTg?oc=5",
-   "pub": "Wed, 21 Oct 2026 02:32:06 GMT"
-  },
-  {
-   "t": "(S+) Iran: Wollte das Regime heimlich eine Bank in Oberbayern kaufen? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3B4Yzl3U05wbXNpTThnNW1kWDRoZjRwRDZTdGRwcmlJU1R6N2xVOG1YcGotRWhzbGlDX09tRHcxbzZmbDBleGU3dllSeUVEZG9BRzYwcGUweEJYU3lwUWdvUFhfZTBHRU5TVnQtZnJkYkdrUlpQcmh1bWRnZEJPeHR5SXoxZzBPSTk1cTR2amtIb1pMU2RPVnNOU2loMXdwYnlfdWRKMmhRdnpCa2pSQWFtVlJDZWNGWml0TEF5MmhRQnA1bjFLaTVhbFp2ZzE4T1Atem9KZw?oc=5",
-   "pub": "Wed, 21 Oct 2026 09:00:00 GMT"
   }
  ]
 }
