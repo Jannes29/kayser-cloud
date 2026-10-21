@@ -1,57 +1,67 @@
 {
- "collected_at": "2026-10-21T10:11:29Z",
+ "collected_at": "2026-10-21T15:16:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8253,
-   "chg1d_pct": -0.19
+   "price": 0.8255,
+   "chg1d_pct": -0.16
   },
   "USDJPY": {
-   "price": 158.086,
-   "chg1d_pct": -0.28
+   "price": 158.125,
+   "chg1d_pct": -0.25
   },
   "GBPCAD": {
-   "price": 1.8823,
-   "chg1d_pct": 0.28
+   "price": 1.8827,
+   "chg1d_pct": 0.3
   },
   "AUDJPY": {
-   "price": 111.062,
-   "chg1d_pct": 0.34
+   "price": 111.07,
+   "chg1d_pct": 0.35
   },
   "EURUSD": {
    "price": 1.1223,
    "chg1d_pct": 0.06
   },
   "GBPCHF": {
-   "price": 1.1057,
-   "chg1d_pct": 0.48
+   "price": 1.1047,
+   "chg1d_pct": 0.39
   },
   "WTI": {
-   "price": 99.63,
-   "chg1d_pct": -2.12
+   "price": 97.91,
+   "chg1d_pct": -3.81
   },
   "BRENT": {
-   "price": 110.33,
-   "chg1d_pct": 1.42
+   "price": 109.16,
+   "chg1d_pct": 0.34
   },
   "GOLD": {
-   "price": 4135.7,
-   "chg1d_pct": -0.17
+   "price": 4146.1,
+   "chg1d_pct": 0.08
   },
   "SPX_FUT": {
-   "price": 7766.25,
-   "chg1d_pct": 0.14
+   "price": 7777.75,
+   "chg1d_pct": 0.29
   },
   "NAS_FUT": {
-   "price": 29789.0,
-   "chg1d_pct": 0.38
+   "price": 29932.75,
+   "chg1d_pct": 0.87
   }
  },
  "headlines": [
   {
+   "t": "USA: Trump verhinderte Angriff Israels auf Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXJJSkYtSUZEVnh3dDUzem5uZ19vZXkyR0ZSVTc4UGt3RVFGYkY2LUZQd1gydDlzSC1NZmFldFA5S3g5MG1kOFhjMTJCRGdHMzV5aGpCUzg5Uy1tU29vMFJwT01VZ2UyUjNyQUZvUEgtbHhhZU41aldMN2lCNWE0N0ZyS2V4NEVnMS1BT3ZoWExfVm5QaTViWkVIUTFfcjdqbjNQZXoySGs5Nk1ZZE5FdlNZeUQ?oc=5",
+   "pub": "Wed, 21 Oct 2026 09:23:00 GMT"
+  },
+  {
    "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SDE4WGFYREpJU1l6WkF1X1kwQzBDRkROYXhwQ3kwamY1TWhtR2U3NzZPdEJrakZ3dkMydUpKQ1QzZGppNHVvZnNTOWFSZUIweHVnaW90eVp3VS1sWnpz?oc=5",
    "pub": "Wed, 21 Oct 2026 06:29:49 GMT"
+  },
+  {
+   "t": "Netanjahu wollte Iran angreifen – Trump soll ihn gestoppt haben - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOblpzRWJEV1pnYjliV1M5MEJLSmVlR3JacFpQWVVVSXl2aDlCa1JPRGtFWllZSnVsc0IxcG1IdWRvcElWTE8zQnhrMTA2ZklTbDZINWRrOVFpZ0x1eXhKeWdlQWJkTVdfcDBTV05yTVRncU1fUzdhdGN4MmpLcl82ZmJWcW5BeHptUTB0SUVFUjF5Y2wyQXhEZmlBRGQ4MV95a2NpZ1VHQXN1UUl6R2h2M0hPc2tvcnM4bDVxUm5qbFZNNEo3OHRpRk50cEhGOEZDbWozbkFrdnN0WGpqNnpnWlpsNldmNHU0WHpmOA?oc=5",
+   "pub": "Wed, 21 Oct 2026 13:11:33 GMT"
   },
   {
    "t": "Gold: Iran-Hoffnungen verpuffen - Börse Express",
@@ -59,34 +69,19 @@
    "pub": "Wed, 21 Oct 2026 06:07:13 GMT"
   },
   {
-   "t": "„Rückkehr eines großangelegten Krieges verhindern“ Russland bietet sich als Vermittler im Iran-Konflikt an - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkVkSENQeFpaYmdNbTMyZDFqdW1scnllNHhHQWZtUUNDY3A2bnZoZV80NTRHcHFKSm9BZVhEVGFVNWFCUVZ2MXB6Q1RVMU5lRmNlT2JjSDRaejFiSWJJVm5nSG9ZVjJiaTZJQVdYeElxYUNrbTdRd1JvU2hIdXlmdzFMMHVnUktTMXVKQUxfRUg1bG1sU01wZEVvY21vdTJUXzZsMnFFVC16czhlYVFBTU9hSzBCaGhDR1l2a3VUY1FmM1RycVB6NlA1cVRFUmlBUGNHU2hMbFEyMVV2RDdKZ3NjbnFGV200eHZ6bGFUbHRJdWw0cEE?oc=5",
-   "pub": "Tue, 20 Oct 2026 17:23:32 GMT"
-  },
-  {
-   "t": "USA: Trump verhinderte Angriff Israels auf Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXJJSkYtSUZEVnh3dDUzem5uZ19vZXkyR0ZSVTc4UGt3RVFGYkY2LUZQd1gydDlzSC1NZmFldFA5S3g5MG1kOFhjMTJCRGdHMzV5aGpCUzg5Uy1tU29vMFJwT01VZ2UyUjNyQUZvUEgtbHhhZU41aldMN2lCNWE0N0ZyS2V4NEVnMS1BT3ZoWExfVm5QaTViWkVIUTFfcjdqbjNQZXoySGs5Nk1ZZE5FdlNZeUQ?oc=5",
-   "pub": "Wed, 21 Oct 2026 09:23:00 GMT"
-  },
-  {
    "t": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHJKRHY4cXlsUHRpWTREcEVkM3AtWk5tcWxQRzhMYUJWQ1BOYnVPclBCY01JdDJMMmpseFI2ejRFbHNCVjBRM0hyWVJnYTFTQXF6TDhMQzBmTm1lZHZNd1o2OUE5R1ZMTHNaRTJ3UEZFWU5kMW92ZVJ1MXpmV3Q0MkhnQ1VQZUVPUVJzU1hqNENBUzFKMXNKdkowejRvbE50eHdkLW5CZGtjZTFBRGVMcjM2VzJvSTd0dlZ3U0NSTGltbHkxNlFjaFFLV19Ndm80?oc=5",
    "pub": "Mon, 19 Oct 2026 20:45:00 GMT"
   },
   {
-   "t": "Ölpreis aktuell: Ölpreis wegen Furcht vor Angriffen auf Öltanker auf höchstem Stand seit Mai - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcVFBTkJSXzRMSkZfZDd6ZjBCaVhZeklWN0NDX21rUHczbU9ETDZQTVY1QXBQblJ5VS1iQUNzZ0JubjRCSWR0N2tVT0NiVjE0RW9Ea1R5eHpaTXNtbkZ3NGlsd2NaNnNBOHFWYW9LVmVaZjdyR0w4OXpTRF9JNDZDMXctcWhHM0o1NDJjN0Rfc1FLNXFkQ1AxNzV4VEZWdzdiQ1lQNU5IS05pZUZSbnRsSndSdWhwUG5JYzJRVXdfQm1lR0hZTnN1WTZHRjJpUEJJWWkyWTZR?oc=5",
-   "pub": "Wed, 21 Oct 2026 07:20:26 GMT"
+   "t": "Iran besteht auf Verbleib von hoch angereichertem Uran - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWEIyUFl2R3FpWlpzcGR1Q3ZFenpCcmtsVGNJaVpCejZxcXYzRHl2QTQ4V3lwVkE4V2daYzh2M0tOd3I1eWl2a2gwUVdITFpoQnFSbjBxUUJBellnVDRxbFF5ak1zR2FuMUtqTkdtakxtejJxdnoyTVJKYlctY2RyMTh4bTFUOFowTFBQeHdLR2pZZTFaRWc?oc=5",
+   "pub": "Wed, 21 Oct 2026 01:25:19 GMT"
   },
   {
-   "t": "Iran droht USA mit Zerstörung von Internetkabeln in Straße von Hormus - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNjIzTUxlbXFVMmx0SVEteXh2RlE4Y1A0VVdReWwzbjFrTFVkMFM5Z19Wd2k2enRCZU13bHVhM3N0d1dXLWFOYmkwa2drS2VHMjRjWWFiVFlFMU1iODFGdDFrd2d1WGk0ejRjM2htWVpoc1h2Z2F5YjRKNTB0dkN2eUxCVHQzdTVTaHBJT0F2X0FmR1ZaWEJRRDlxd25aYkFNczZkazVOLXZGVmNNV3lyWnZreXRiMHNLNmxWbw?oc=5",
-   "pub": "Wed, 21 Oct 2026 09:03:54 GMT"
-  },
-  {
-   "t": "\"Sie sind besessen\": Iran will Trump bei den Midterms stürzen - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3Z2NTZqN2owcm8wUFdzeThxV2JIb0VoMl9hOUM5YTZBeXBSV3RpWTNVUTkxMUdIMHVBNjhqN2I0OGhZcVBINk1haU9aWm9DVXlTSkNPU096WVFsSEx6OG1peGstSkZIMWdwWVIzUWhuNHhoMmFjTXcxeklZQ2xPVjdPNkRKamlxYVBSYW4zQnpLSk1NQlBILTloNEtJcHA5TWRFZ0pB?oc=5",
-   "pub": "Tue, 20 Oct 2026 13:31:00 GMT"
+   "t": "„Rückkehr eines großangelegten Krieges verhindern“ Russland bietet sich als Vermittler im Iran-Konflikt an - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkVkSENQeFpaYmdNbTMyZDFqdW1scnllNHhHQWZtUUNDY3A2bnZoZV80NTRHcHFKSm9BZVhEVGFVNWFCUVZ2MXB6Q1RVMU5lRmNlT2JjSDRaejFiSWJJVm5nSG9ZVjJiaTZJQVdYeElxYUNrbTdRd1JvU2hIdXlmdzFMMHVnUktTMXVKQUxfRUg1bG1sU01wZEVvY21vdTJUXzZsMnFFVC16czhlYVFBTU9hSzBCaGhDR1l2a3VUY1FmM1RycVB6NlA1cVRFUmlBUGNHU2hMbFEyMVV2RDdKZ3NjbnFGV200eHZ6bGFUbHRJdWw0cEE?oc=5",
+   "pub": "Tue, 20 Oct 2026 17:23:32 GMT"
   },
   {
    "t": "Iran: Auswärtiges Amt bestellt iranischen Botschafter ein - DIE ZEIT",
@@ -94,9 +89,14 @@
    "pub": "Mon, 19 Oct 2026 10:08:50 GMT"
   },
   {
-   "t": "Lawrow bekräftigt Russlands Unterstützung für Iran - Trump verteidigt Lockerung gegen Moskau - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsckpaNS05NVNOOER4U2lLb0ctd0tCTDZ6akR4YTR5OW1kU3BJVGZxQ2JfX3kzN3RTbkNNYU12SDdmSGVRZEZKNHhuYld2SGNENmczdFZlQ2t5VzhXVHNubGVhTDBpTFBYWTN3OE5CUGZsWU00Tk9F?oc=5",
-   "pub": "Tue, 20 Oct 2026 04:40:31 GMT"
+   "t": "Fed-Leitzins: Aktuelle Prognose für 2026 und 2027 im Überblick - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUlPRlpKUnM3elNrd3NXRkJlelB5VWYtbGlNb19aN3E5MEtWLVlpbV9HQnZMNktfbWJqc3FraGJWNTIyM3pUc2pIcDQ1b2wtTnZLdVFzZ05MSXVrWC1pT3hnVER3REoyVWNObDFSbGxhYV9PRTRZcVpVWW1VVDZ2SHp2VDJUbFFIcGkyQmNSdGtKNEtKRFVVSG1wSjVfc1NMb19EVExXeWVKSVpJalVjLXNHMTAycHpSa1FBQnVzcw?oc=5",
+   "pub": "Wed, 21 Oct 2026 11:48:00 GMT"
+  },
+  {
+   "t": "Israel-Wahl 2026: Laut Berichten dringt Netanjahu auf weitere Iran-Angriffe - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjV6ZUw1TDhuWktfWV8xMUI1dTlTNGJWQWJTd2lRdHNkQURCNDJsYzlicjBOU215UzJYR09xcW1EcXdLRVJLLTA4UTFGOFZHaF9YT1dFWFIwRW1FNWRkTFE0N1gtWWNjS3MwdDlJamRaLWw4bTZXdFpxTjd0OUlvLU9YTVlwcHlmcmg2azVudlVKcXBpQ3FwUnB0Nk1LY2tQb1Ntd0ltWnU4QVM3SW12MzhBeUgtM1dHQUo4V0d4QUxJZ3hjSS1RNWdNelladw?oc=5",
+   "pub": "Wed, 21 Oct 2026 13:07:46 GMT"
   },
   {
    "t": "Iran beharrt auf Uranvorräten - \"für die Nutzung im Inland\" - ZDFheute",
