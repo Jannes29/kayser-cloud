@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-21T23:21:51Z",
+ "collected_at": "2026-10-22T04:50:37Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8243,
-   "chg1d_pct": -0.16
+   "price": 0.8229,
+   "chg1d_pct": -0.33
   },
   "USDJPY": {
-   "price": 158.15,
-   "chg1d_pct": -0.07
+   "price": 157.71,
+   "chg1d_pct": -0.35
   },
   "GBPCAD": {
-   "price": 1.8809,
-   "chg1d_pct": 0.0
+   "price": 1.8799,
+   "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 111.061,
-   "chg1d_pct": 0.16
+   "price": 110.647,
+   "chg1d_pct": -0.21
   },
   "EURUSD": {
-   "price": 1.1235,
-   "chg1d_pct": 0.07
+   "price": 1.1246,
+   "chg1d_pct": 0.17
   },
   "GBPCHF": {
-   "price": 1.1039,
-   "chg1d_pct": -0.01
+   "price": 1.1023,
+   "chg1d_pct": -0.15
   },
   "WTI": {
-   "price": 97.82,
-   "chg1d_pct": -3.9
+   "price": 98.55,
+   "chg1d_pct": 1.44
   },
   "BRENT": {
-   "price": 109.85,
-   "chg1d_pct": 0.97
+   "price": 110.75,
+   "chg1d_pct": 1.77
   },
   "GOLD": {
-   "price": 4144.1,
-   "chg1d_pct": 0.04
+   "price": 4105.5,
+   "chg1d_pct": -1.07
   },
   "SPX_FUT": {
-   "price": 7772.0,
-   "chg1d_pct": 0.22
+   "price": 7747.0,
+   "chg1d_pct": -0.68
   },
   "NAS_FUT": {
-   "price": 29837.25,
-   "chg1d_pct": 0.55
+   "price": 29595.0,
+   "chg1d_pct": -1.37
   }
  },
  "headlines": [
@@ -59,24 +59,9 @@
    "pub": "Wed, 21 Oct 2026 06:29:49 GMT"
   },
   {
-   "t": "Iran: Warum die Gewalt in mit der Grenzregion Belutschistan zunimmt - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnlhZUx4aHFOVEFwSEdmTnJRekh4ZE5TQmtUMjMtVll0M09FWG9tV053SUFMeVJCdVVXdHhHVklFUll6bld2dTRnTFlDenk1eXdRWHpYd3lZUURtODhHcV91elZMOHhFdjZFdElpSG1KV0pPTld4T2hUODNPRzd6WVdJZGZVTDFUU2Jfa9IBjAFBVV95cUxPekhKSXc4RFpDU210eUlPYzJ1T2tWRzlhNG1uXy12NklIOU5SOGh3MkU4T1RRTnVZMW1IU0pGWVQ3UWxQNk5WQWpPX3M1WVBDY1JhVUExSGViUjJGTE44eFAwZkNmemJjR2pDdEZ6Y1B1ZDVBWTBDU21YQzZFM0tma2hkeXBhb05wMU5FcQ?oc=5",
-   "pub": "Wed, 21 Oct 2026 05:36:21 GMT"
-  },
-  {
    "t": "Netanjahu wollte Iran angreifen – Trump soll ihn gestoppt haben - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOblpzRWJEV1pnYjliV1M5MEJLSmVlR3JacFpQWVVVSXl2aDlCa1JPRGtFWllZSnVsc0IxcG1IdWRvcElWTE8zQnhrMTA2ZklTbDZINWRrOVFpZ0x1eXhKeWdlQWJkTVdfcDBTV05yTVRncU1fUzdhdGN4MmpLcl82ZmJWcW5BeHptUTB0SUVFUjF5Y2wyQXhEZmlBRGQ4MV95a2NpZ1VHQXN1UUl6R2h2M0hPc2tvcnM4bDVxUm5qbFZNNEo3OHRpRk50cEhGOEZDbWozbkFrdnN0WGpqNnpnWlpsNldmNHU0WHpmOA?oc=5",
    "pub": "Wed, 21 Oct 2026 13:11:33 GMT"
-  },
-  {
-   "t": "Fed-Leitzins: Aktuelle Prognose für 2026 und 2027 im Überblick - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUlPRlpKUnM3elNrd3NXRkJlelB5VWYtbGlNb19aN3E5MEtWLVlpbV9HQnZMNktfbWJqc3FraGJWNTIyM3pUc2pIcDQ1b2wtTnZLdVFzZ05MSXVrWC1pT3hnVER3REoyVWNObDFSbGxhYV9PRTRZcVpVWW1VVDZ2SHp2VDJUbFFIcGkyQmNSdGtKNEtKRFVVSG1wSjVfc1NMb19EVExXeWVKSVpJalVjLXNHMTAycHpSa1FBQnVzcw?oc=5",
-   "pub": "Wed, 21 Oct 2026 11:48:00 GMT"
-  },
-  {
-   "t": "Iran Air hat 9000 Mitarbeitende und nur noch sechs einsatzfähige Flugzeuge - aeroTELEGRAPH",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXY4VG94ZHlJbmJjVWR1bUIxa1BzbG12R1RPejJmTk9CQVA3eHdpb3JjcWFOakx5eFhfMVFLV2pibm1MZTlwVW9nMEVBLUhSMzhfTEVwOXZNY0dOOTBMb0xTU1V5dVh4TGZYZUJzQUdWMTR0MFZSamR0MklTQm5IOGxHbm1GMUc0X2p6SEhLanZ5bzh2dDI2TFpBY1k2NV9UVEJpeHdxM1VqOG9kczhpS0dTekJTTDFnY21Zck1qQQ?oc=5",
-   "pub": "Wed, 21 Oct 2026 08:25:00 GMT"
   },
   {
    "t": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt - Spiegel",
@@ -84,9 +69,14 @@
    "pub": "Mon, 19 Oct 2026 20:45:00 GMT"
   },
   {
-   "t": "Netanjahu: Bedrohung durch Iran kann nur durch Regierungssturz beseitigt werden - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbG5MLU8yLUpKQktLNFpCQUlvNmFjcG1acmtybUNvZXZrSmV4YlJadUVuWjIzbXZ2UXdRVTJGM2FaZXc3V2NQMkdHbnNlSDY0TDdJWmtSTENkLVFoM0F2NHhVZlFXUGVhb0EyNWlGNGZ4dW1HbjZZd3c1RHA4YzVxYWZWdC05ckJ5WmhmT29aZ0d4SVNQLWNjV0VqLTh1amRYb0Ixc0trTWwzdmxrb2hWZ3RuRzg3TWpKN3hv?oc=5",
-   "pub": "Wed, 21 Oct 2026 15:41:41 GMT"
+   "t": "Iran Air hat 9000 Mitarbeitende und nur noch sechs einsatzfähige Flugzeuge - aeroTELEGRAPH",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXY4VG94ZHlJbmJjVWR1bUIxa1BzbG12R1RPejJmTk9CQVA3eHdpb3JjcWFOakx5eFhfMVFLV2pibm1MZTlwVW9nMEVBLUhSMzhfTEVwOXZNY0dOOTBMb0xTU1V5dVh4TGZYZUJzQUdWMTR0MFZSamR0MklTQm5IOGxHbm1GMUc0X2p6SEhLanZ5bzh2dDI2TFpBY1k2NV9UVEJpeHdxM1VqOG9kczhpS0dTekJTTDFnY21Zck1qQQ?oc=5",
+   "pub": "Wed, 21 Oct 2026 08:25:00 GMT"
+  },
+  {
+   "t": "Fed-Leitzins: Aktuelle Prognose für 2026 und 2027 im Überblick - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdUlPRlpKUnM3elNrd3NXRkJlelB5VWYtbGlNb19aN3E5MEtWLVlpbV9HQnZMNktfbWJqc3FraGJWNTIyM3pUc2pIcDQ1b2wtTnZLdVFzZ05MSXVrWC1pT3hnVER3REoyVWNObDFSbGxhYV9PRTRZcVpVWW1VVDZ2SHp2VDJUbFFIcGkyQmNSdGtKNEtKRFVVSG1wSjVfc1NMb19EVExXeWVKSVpJalVjLXNHMTAycHpSa1FBQnVzcw?oc=5",
+   "pub": "Wed, 21 Oct 2026 11:48:00 GMT"
   },
   {
    "t": "Iran: Auswärtiges Amt bestellt iranischen Botschafter ein - DIE ZEIT",
@@ -94,19 +84,29 @@
    "pub": "Mon, 19 Oct 2026 10:08:50 GMT"
   },
   {
-   "t": "Gold: Iran-Hoffnungen verpuffen - Börse Express",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEliQ05ycGpVMFgzQkx2cmFmMDQ0RnNzaVRqMV9vM2pNSktpQmZGTFFiQU1WYm9ON2dBNVlFZ29KQ3ZFUmdBTFNnenVGODlsY1NzVjhuNjlpbm9POWdOZU9SaEhHaXJtSElFWUhIa254NVhUY1FQbnNNdlk3eTlTQXJEOExMeHZMY0E?oc=5",
-   "pub": "Wed, 21 Oct 2026 06:07:13 GMT"
+   "t": "„Rückkehr eines großangelegten Krieges verhindern“ Russland bietet sich als Vermittler im Iran-Konflikt an - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYkVkSENQeFpaYmdNbTMyZDFqdW1scnllNHhHQWZtUUNDY3A2bnZoZV80NTRHcHFKSm9BZVhEVGFVNWFCUVZ2MXB6Q1RVMU5lRmNlT2JjSDRaejFiSWJJVm5nSG9ZVjJiaTZJQVdYeElxYUNrbTdRd1JvU2hIdXlmdzFMMHVnUktTMXVKQUxfRUg1bG1sU01wZEVvY21vdTJUXzZsMnFFVC16czhlYVFBTU9hSzBCaGhDR1l2a3VUY1FmM1RycVB6NlA1cVRFUmlBUGNHU2hMbFEyMVV2RDdKZ3NjbnFGV200eHZ6bGFUbHRJdWw0cEE?oc=5",
+   "pub": "Tue, 20 Oct 2026 17:23:32 GMT"
   },
   {
-   "t": "Alexander Gruber: Wie wird es mit dem Krieg gegen den Iran weitergehen? - Jungle.World",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlRrckZIWHMyVTNFVGRjNlZZakZKZ2JOTDh4c28yX2NRQW5YWkZINFFWNHpQZm1xeEhTbkZXRmRsc1VWZV9LRTM4SHdKQ0dQTlBrckxGTGoyaFkxTXhCUFlBTWhUeGpyekRKaUhxeGl6UkhuMTJWY3UzN0U5Qm5JSDBzMFJ5UzB2Q1RwODlJR1h5TFN2M1M3bTNBcGtXaXBqRmRYT1ZXemY3WUVUc0E?oc=5",
-   "pub": "Wed, 21 Oct 2026 19:28:00 GMT"
+   "t": "Iran: Warum die Gewalt in mit der Grenzregion Belutschistan zunimmt - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnlhZUx4aHFOVEFwSEdmTnJRekh4ZE5TQmtUMjMtVll0M09FWG9tV053SUFMeVJCdVVXdHhHVklFUll6bld2dTRnTFlDenk1eXdRWHpYd3lZUURtODhHcV91elZMOHhFdjZFdElpSG1KV0pPTld4T2hUODNPRzd6WVdJZGZVTDFUU2Jfa9IBjAFBVV95cUxPekhKSXc4RFpDU210eUlPYzJ1T2tWRzlhNG1uXy12NklIOU5SOGh3MkU4T1RRTnVZMW1IU0pGWVQ3UWxQNk5WQWpPX3M1WVBDY1JhVUExSGViUjJGTE44eFAwZkNmemJjR2pDdEZ6Y1B1ZDVBWTBDU21YQzZFM0tma2hkeXBhb05wMU5FcQ?oc=5",
+   "pub": "Tue, 20 Oct 2026 10:25:39 GMT"
+  },
+  {
+   "t": "\"Sie sind besessen\": Iran will Trump bei den Midterms stürzen - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY3Z2NTZqN2owcm8wUFdzeThxV2JIb0VoMl9hOUM5YTZBeXBSV3RpWTNVUTkxMUdIMHVBNjhqN2I0OGhZcVBINk1haU9aWm9DVXlTSkNPU096WVFsSEx6OG1peGstSkZIMWdwWVIzUWhuNHhoMmFjTXcxeklZQ2xPVjdPNkRKamlxYVBSYW4zQnpLSk1NQlBILTloNEtJcHA5TWRFZ0pB?oc=5",
+   "pub": "Tue, 20 Oct 2026 13:31:00 GMT"
   },
   {
    "t": "Lawrow bekräftigt Russlands Unterstützung für Iran - Trump verteidigt Lockerung gegen Moskau - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsckpaNS05NVNOOER4U2lLb0ctd0tCTDZ6akR4YTR5OW1kU3BJVGZxQ2JfX3kzN3RTbkNNYU12SDdmSGVRZEZKNHhuYld2SGNENmczdFZlQ2t5VzhXVHNubGVhTDBpTFBYWTN3OE5CUGZsWU00Tk9F?oc=5",
    "pub": "Tue, 20 Oct 2026 04:40:31 GMT"
+  },
+  {
+   "t": "Israel-Wahl 2026: Laut Berichten dringt Netanjahu auf weitere Iran-Angriffe - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZjV6ZUw1TDhuWktfWV8xMUI1dTlTNGJWQWJTd2lRdHNkQURCNDJsYzlicjBOU215UzJYR09xcW1EcXdLRVJLLTA4UTFGOFZHaF9YT1dFWFIwRW1FNWRkTFE0N1gtWWNjS3MwdDlJamRaLWw4bTZXdFpxTjd0OUlvLU9YTVlwcHlmcmg2azVudlVKcXBpQ3FwUnB0Nk1LY2tQb1Ntd0ltWnU4QVM3SW12MzhBeUgtM1dHQUo4V0d4QUxJZ3hjSS1RNWdNelladw?oc=5",
+   "pub": "Wed, 21 Oct 2026 13:07:46 GMT"
   }
  ]
 }
