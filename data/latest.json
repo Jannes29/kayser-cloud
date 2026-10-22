@@ -1,62 +1,62 @@
 {
- "collected_at": "2026-10-22T20:08:21Z",
+ "collected_at": "2026-10-22T23:24:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8209,
-   "chg1d_pct": -0.38
+   "price": 0.8201,
+   "chg1d_pct": -0.47
   },
   "USDJPY": {
-   "price": 156.865,
-   "chg1d_pct": -0.8
+   "price": 156.641,
+   "chg1d_pct": -0.94
   },
   "GBPCAD": {
-   "price": 1.8765,
-   "chg1d_pct": -0.21
+   "price": 1.8764,
+   "chg1d_pct": -0.22
   },
   "AUDJPY": {
-   "price": 110.085,
-   "chg1d_pct": -0.96
+   "price": 109.9,
+   "chg1d_pct": -1.12
   },
   "EURUSD": {
-   "price": 1.1218,
-   "chg1d_pct": -0.15
+   "price": 1.1223,
+   "chg1d_pct": -0.1
   },
   "GBPCHF": {
-   "price": 1.0996,
-   "chg1d_pct": -0.37
+   "price": 1.099,
+   "chg1d_pct": -0.43
   },
   "WTI": {
-   "price": 99.32,
-   "chg1d_pct": 2.23
+   "price": 99.12,
+   "chg1d_pct": 2.03
   },
   "BRENT": {
-   "price": 113.1,
-   "chg1d_pct": 3.93
+   "price": 112.98,
+   "chg1d_pct": 3.82
   },
   "GOLD": {
-   "price": 4041.9,
-   "chg1d_pct": -2.6
+   "price": 4040.7,
+   "chg1d_pct": -2.63
   },
   "SPX_FUT": {
-   "price": 7702.0,
-   "chg1d_pct": -1.26
+   "price": 7706.5,
+   "chg1d_pct": -1.2
   },
   "NAS_FUT": {
-   "price": 29130.75,
-   "chg1d_pct": -2.92
+   "price": 29084.75,
+   "chg1d_pct": -3.07
   }
  },
  "headlines": [
   {
-   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
-   "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
-  },
-  {
    "t": "Kurz und intensiv: USA planen Angriff auf Iran nach Midterms - FOCUS online",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanZRQVdVLWoyeWh4bU40ZldMS1JuY2xndlk1N3ZHQXR4SFlOY1VmbElqQzB2bTNtYU9nZlhINE5JSzUtOGM4eEtZbmRVeGpncFVuRkxpVTh2eUxFMlp0WE44X0t4ekwyZFV6QWRobkQyZDZ1dzJQOVlWcE1vMUNpWU9ZSmp3aVROaFp1bWsxT1dYMWx4TjRmM3NyWFZPblFMMUVFNnc2OGNYLUxLZF90Sk9WUWY3QVlkLXg4ZTFoYUc4eVFzMmY3b2hRaUw0WWw2X3p3VA?oc=5",
    "pub": "Thu, 22 Oct 2026 17:23:00 GMT"
+  },
+  {
+   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
   },
   {
    "t": "Bericht über Angriffsmanöver: USA und Israel planen massive Iran-Angriffe nach Wahlen - n-tv.de",
@@ -64,24 +64,24 @@
    "pub": "Thu, 22 Oct 2026 14:49:47 GMT"
   },
   {
-   "t": "Iran und USA: Neue Angriffspläne nach den Midterms – und eine Drohung der Iraner - Politik - SZ.de - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1NGaGFZSm9jN183Q0JZNl9HSk4xTkVmSEUyQ1dSajlYZzRySzZWSWlPQnNnXy13MVB4ZEhvU0FuRDdhVDVlbmliZ0F1MUlHT1RGNDZjdUdDT2dwTUpjcXBCUmZEQ2hWVC00eVAtSUlRRnlzd3lzY2xzSnNodUdFdTBkRTUwT0JqbzVBa01NLUVWV2ZFcFZHaTVROU8wZjJmZGJadkRMSll0NEpFd1JUS2Zn?oc=5",
-   "pub": "Thu, 22 Oct 2026 12:45:03 GMT"
-  },
-  {
    "t": "USA und Israel bereiten offenbar neue Angriffe auf Iran vor - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzI0M3h1ZlRsMng4VlJ0UmJlam14SzBOOTF3VnZxTHp4aVlySnhFdHVuMUFtNDNpOEFQbWJCREJIUFVqcUdpZ09pSlVWQkl3cGZmRXBrTzdxOUVWR0lVR196ZkdYYmVMWkVHaWQzWGdlczZjRFhIYlNhcDFrWWxHM0N1aHBMU1BnRFkyWVRLY3d0M0wwNnVMbDJ4clczQkV1X1YtUzFrdw?oc=5",
    "pub": "Thu, 22 Oct 2026 09:50:00 GMT"
   },
   {
-   "t": "Iran droht Trump mit \"Vater aller Bomben\" - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU2dmbERkVnExVmowQkNnR1dwZEU5RjBYcGp6NEpnMUROb2NnRHZLRmN0UjNnSGsxOXhMY2paUDNqZktWZUdxZ2VXcHJ4SEZ1NHBWajhqNDVPZHhvWk5JUGdNaFQ1cEVWVFkwQ3g3b2RXcXlLZUNhcWRzS0FqT2xDZ1ZEV3oyYVE1bDNHcFV4akV3VGRRNEZoUzFlOFd6Q2pkYTFoMXhZRWxRNTg2amUzMC1KVWZsdUxlVGplR3hFaHVZS1dyVFRRVDVKU3daano0WWtUUjNPZzVlR3hDVkxTN0xMNEtxejZTTnY0?oc=5",
-   "pub": "Thu, 22 Oct 2026 15:56:12 GMT"
+   "t": "Iran und USA: Neue Angriffspläne nach den Midterms – und eine Drohung der Iraner - Politik - SZ.de - SZ.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1NGaGFZSm9jN183Q0JZNl9HSk4xTkVmSEUyQ1dSajlYZzRySzZWSWlPQnNnXy13MVB4ZEhvU0FuRDdhVDVlbmliZ0F1MUlHT1RGNDZjdUdDT2dwTUpjcXBCUmZEQ2hWVC00eVAtSUlRRnlzd3lzY2xzSnNodUdFdTBkRTUwT0JqbzVBa01NLUVWV2ZFcFZHaTVROU8wZjJmZGJadkRMSll0NEpFd1JUS2Zn?oc=5",
+   "pub": "Thu, 22 Oct 2026 12:45:03 GMT"
   },
   {
    "t": "Heute im TV: Einer besten & brachialsten Actionfilme der letzten Jahre – mit \"John Wick 4\"-Star Donnie Yen in Bestform! - Filmstarts",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpWGtSVU9zNjhLSXppTG1OSHZycnVVSi1tWjJqT1RnSkdsMGYzbjUyZFF6YmhFYk83SU9WLVFvUkxxLW4zUF80cjlXOUVWTC1pWmZPNHU1WG5RUTctcGp2S1ZOcw?oc=5",
    "pub": "Thu, 22 Oct 2026 06:04:51 GMT"
+  },
+  {
+   "t": "Iran droht Trump mit \"Vater aller Bomben\" - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU2dmbERkVnExVmowQkNnR1dwZEU5RjBYcGp6NEpnMUROb2NnRHZLRmN0UjNnSGsxOXhMY2paUDNqZktWZUdxZ2VXcHJ4SEZ1NHBWajhqNDVPZHhvWk5JUGdNaFQ1cEVWVFkwQ3g3b2RXcXlLZUNhcWRzS0FqT2xDZ1ZEV3oyYVE1bDNHcFV4akV3VGRRNEZoUzFlOFd6Q2pkYTFoMXhZRWxRNTg2amUzMC1KVWZsdUxlVGplR3hFaHVZS1dyVFRRVDVKU3daano0WWtUUjNPZzVlR3hDVkxTN0xMNEtxejZTTnY0?oc=5",
+   "pub": "Thu, 22 Oct 2026 15:56:12 GMT"
   },
   {
    "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
@@ -91,7 +91,12 @@
   {
    "t": "Ölpreis aktuell: Angriff auf Ölfeld in Saudi Arabien – Ölpreis über 112 Dollar - WirtschaftsWoche",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0RSeHNzcWVsQVZxelNKbXozRUhQbWdTR1NNcklfOWNmRG5zZGFVcGRpTkg1a1NVcmF5dFFORG9USk8zbDZSTU5IcmZYQi1RYlFDRU1PaXd4SGFrcU9BSFNWSWtmVFgtdmxTNGs2WUJqRkFCMW1LYlEteE1UUTRReGVGZHBLS3JSTjNyQkJIaFBmQ3dQYjhJeTJIX3VKNW9TYnJHbm03bmMwcWdsdWJfZFJoRnE4dTFLcC0xSWNsRFY?oc=5",
-   "pub": "Thu, 22 Oct 2026 20:01:02 GMT"
+   "pub": "Thu, 22 Oct 2026 21:24:55 GMT"
+  },
+  {
+   "t": "Iran wirft Trump Kriegsverbrechen vor – und stellt ihn hinter Gitter - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWxjcG1CWks4RWxqZFRWZHVKQkFQMjk1cGt2SGVkTlVsbW96UGFkOGdQd2JGQ1FVRVU3V251YVc0bVNycXFXOWRMYlI1TjNnZ2hiWHNCVktReDlpb0NjUWhzYUpKdEhJZ2ZpYnctQk5EcWljVUJYYlcyeWU2cWlGQ2pFX2FDUkpfWG1uX1h4QU0tbFh3bjdXQzg2WUhPbWVVRExpejY1N0VHRGFkdlJuZEhHcHN4QjUwNzJkbGEwMA?oc=5",
+   "pub": "Thu, 22 Oct 2026 16:41:13 GMT"
   },
   {
    "t": "Iran provoziert mit bizarrer Aktion: Donald Trump hinter Gitter - BILD",
@@ -99,14 +104,9 @@
    "pub": "Thu, 22 Oct 2026 13:22:41 GMT"
   },
   {
-   "t": "Inflationsdruck bleibt hoch: Fed könnte Anleger überraschen - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXpCMUNZTGV1ellHRU5jMDVXdWVZMUYxRUFEaE1IU3JOMDlTWk9HQ011ODA0LTJkXzhWMXp2WXhYekk4R3JKNnV2MmxPbGtkNlQyeU9kMk85MDlTMkZVS2FxbXJrS2pHRF9EMVRYNXZpUVEzelFOZDBPWVkxclhCenhGMUxuYmpBcWJRNE9VZkd6dU9MWVNuVTVYSFlLLUI0emptRVN3RmlPSmUyLWgwTVFWVzhYSldvd0syd1pJbmlTaC1QVC1fSExvNEdrMV9RTWpR?oc=5",
-   "pub": "Thu, 22 Oct 2026 10:46:00 GMT"
-  },
-  {
-   "t": "Strait of Hormuz: Iran's Revolutionary Guards report fires on several oil tankers - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWM5QjR1Y1Y2QU9jZlA1bzRhRjVIdHZ4MjZ2X282RkVnY1JGVzA3amx3MnpRdEVHMDdSSFBlSmcyelJGN01hMTdqdFhTM0J5YXJCTmdTVmNjU3o0amw3c0pxYUFqRk9XS2JwdUxOT2xUQkJtV29oN0lXdTdZd3pLcjl2SjNZMnJ4SXNMNnJYcnVmaDY4SG9rTG5qdEdwQ3VkZEkwSEVXblJpMjQ0RjdlNUFRZHNZYWY3U2l3?oc=5",
-   "pub": "Thu, 22 Oct 2026 17:56:00 GMT"
+   "t": "Iran: Spionageurteile belasten Verhältnis – Botschafter einbestellt - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHJKRHY4cXlsUHRpWTREcEVkM3AtWk5tcWxQRzhMYUJWQ1BOYnVPclBCY01JdDJMMmpseFI2ejRFbHNCVjBRM0hyWVJnYTFTQXF6TDhMQzBmTm1lZHZNd1o2OUE5R1ZMTHNaRTJ3UEZFWU5kMW92ZVJ1MXpmV3Q0MkhnQ1VQZUVPUVJzU1hqNENBUzFKMXNKdkowejRvbE50eHdkLW5CZGtjZTFBRGVMcjM2VzJvSTd0dlZ3U0NSTGltbHkxNlFjaFFLV19Ndm80?oc=5",
+   "pub": "Mon, 19 Oct 2026 20:45:00 GMT"
   }
  ]
 }
