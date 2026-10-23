@@ -1,67 +1,72 @@
 {
- "collected_at": "2026-10-23T19:15:24Z",
+ "collected_at": "2026-10-23T22:18:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8253,
-   "chg1d_pct": 0.16
+   "price": 0.8241,
+   "chg1d_pct": 0.52
   },
   "USDJPY": {
-   "price": 156.867,
-   "chg1d_pct": -0.8
+   "price": 156.814,
+   "chg1d_pct": 0.2
   },
   "GBPCAD": {
-   "price": 1.8719,
-   "chg1d_pct": -0.46
+   "price": 1.8726,
+   "chg1d_pct": -0.21
   },
   "AUDJPY": {
-   "price": 110.393,
-   "chg1d_pct": -0.68
+   "price": 110.356,
+   "chg1d_pct": 0.46
   },
   "EURUSD": {
-   "price": 1.1198,
-   "chg1d_pct": -0.33
+   "price": 1.1204,
+   "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.1035,
-   "chg1d_pct": -0.02
+   "price": 1.1031,
+   "chg1d_pct": 0.39
   },
   "WTI": {
-   "price": 103.45,
-   "chg1d_pct": 4.0
+   "price": 103.44,
+   "chg1d_pct": 3.99
   },
   "BRENT": {
-   "price": 111.81,
-   "chg1d_pct": -1.2
+   "price": 111.66,
+   "chg1d_pct": -1.33
   },
   "GOLD": {
-   "price": 4010.6,
-   "chg1d_pct": -1.23
+   "price": 4010.0,
+   "chg1d_pct": -1.24
   },
   "SPX_FUT": {
-   "price": 7667.5,
-   "chg1d_pct": -0.48
+   "price": 7672.5,
+   "chg1d_pct": -0.42
   },
   "NAS_FUT": {
-   "price": 29143.0,
-   "chg1d_pct": 0.0
+   "price": 29175.0,
+   "chg1d_pct": 0.11
   }
  },
  "headlines": [
+  {
+   "t": "Ölpreis aktuell: Ölpreise steigen weiter – Fed-Zinsentscheid im Fokus - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVlyMkRsUDd0YlNWRE5XV0hSTjVHS045RUxQcEFTRUpBczFIVlRjN2l3MV9BVjlZNWZHcDFRbnltRXd5LUhRbXFiWHJpTVFfc0NCZWdBRTAzbzBvN1lfUWk0a1dhSVUxZFVvR192QlBFVkFxNkpsMW9HeTRGNkNkYm9xS01ka3AwdHdFUjdBVlF6RFkzZFVOckZvUTJOQVlqOThxMmRIaHo5ejVVYkJTV29B?oc=5",
+   "pub": "Fri, 23 Oct 2026 20:26:29 GMT"
+  },
   {
    "t": "Krieg im Nahen Osten: Angriff auf den Iran vor den Wahlen? „Der Zeitpunkt rückt näher“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUpwNk1OaHAzcHNiLUpWWllIUlk0cHFUTEJ0YzgyUERnTVdjRzhON3VyUkRCaEpoRkprMGVxdGcyclowVTh3aHFlQmxmM3J0c3lLLWV2UWI3NXlHaEZQdUdkSmZPdlptLThpeXBZQmxIZmZYNzVYbDZhMVZsenI2VUNRM0JWaDdKc0cyUU5HU1VYVUg0b25FLWN1aV9ScWVfN0k1bURaV05DM01PbkVMNlpQdUlYQXRRRVliY0IzSTF1MU9CYkM3NFMyM092dnRDeFczTzBlbXh1NFZFZ0dmcnZhRjd1MUMwY0E?oc=5",
    "pub": "Fri, 23 Oct 2026 16:00:50 GMT"
   },
   {
-   "t": "Ölpreis aktuell: Ölpreise steigen weiter – Fed-Zinsentscheid im Fokus - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVlyMkRsUDd0YlNWRE5XV0hSTjVHS045RUxQcEFTRUpBczFIVlRjN2l3MV9BVjlZNWZHcDFRbnltRXd5LUhRbXFiWHJpTVFfc0NCZWdBRTAzbzBvN1lfUWk0a1dhSVUxZFVvR192QlBFVkFxNkpsMW9HeTRGNkNkYm9xS01ka3AwdHdFUjdBVlF6RFkzZFVOckZvUTJOQVlqOThxMmRIaHo5ejVVYkJTV29B?oc=5",
-   "pub": "Fri, 23 Oct 2026 17:24:37 GMT"
-  },
-  {
    "t": "Greift Israel den Iran vor den Wahlen an? Jetzt spricht Armee-Chef Zamir - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1NDNlFoZkQ3cnhoN09wMHBkR3B4RWhPOUNEWDNYRFItWWYtQ1ZEYkgya3drSk5MaHhVN1lfY0FOQW9PcU9YM0hnYzhvOXBpdkZDaThYQVVZenhERDhQQmFlY19KckZ1TEpYc0RaVTFsUUxwZXBGNjlSbTJvaVZEV2xEbXZmVXJmendpeGpSdTZFZ21pUXlRS2JrZVVKR05zd3hBTnhOVkdyRFU2a0tLSHdFT0lRZw?oc=5",
    "pub": "Fri, 23 Oct 2026 06:55:00 GMT"
+  },
+  {
+   "t": "Israel, USA, Iran: Das Eskalationskarussell dreht hoch - Telepolis",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODdETUtkQUVVVWZsQThOb0RQcnhsMWFwTnM5Q28taFR5UHNWOHJoREZwSkNzQk5HbEEyaElwUzFzVk1jMXY1MTZqNDlDSUw4eURTMTNhekRIb2tsOXA2dFZuZDN5cEJzMUxiaHVYX1J3T204QWk0djVXOXo5SUtFX1lkRFNRWTRUYVByWVdYVWZPZXZXM3FaX3JkT284ZTA?oc=5",
+   "pub": "Fri, 23 Oct 2026 14:00:00 GMT"
   },
   {
    "t": "Nach US-Drohungen: Iran kündigt \"Vater aller Bomben\" an - WEB.DE",
@@ -74,14 +79,14 @@
    "pub": "Fri, 23 Oct 2026 08:31:25 GMT"
   },
   {
-   "t": "Außenministertreffen in Istanbul - Wadephul: Nicht hinnehmbar, dass Iran und Huthi-Miliz den Welthandel erpressen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXZfLWotaEItWUxjVE45dzJjc194RUlyTldBbE1ORGwtU2VCOHJ2dWI4UHJfR28wbUVsd0ZpN2FfaVFaa2xvS2loNWNwUnF3ZE5hZy11X3Q5VGcwNzlqYm9TZXA4R24xeWRvN3dSVzJzcUdrNGtJX25ZZDMxR2lKUy05UzA5Ym1mMmxQMExYTkp5enRIMDFqaGxmLXFxcm8wYUZzd3k1ZU8zczhqcDNDZEpQSFB1ZWs?oc=5",
-   "pub": "Fri, 23 Oct 2026 16:01:08 GMT"
-  },
-  {
    "t": "Treffen in Istanbul: Außenminister fordern Deeskalation im Iran-Krieg und Hormus-Öffnung - STERN.de",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHhvbEtMU05DMHQyWGhGVmlCVVVTQ2VMTzJCZzJOelY0WnZZZUllNVJIT2V0b3dqaVRjRkZ1dmJua21GeFRGWkhiN203Z0ViN3pRNWxIYVJfVkZvUVRMMG5YMDBIQ1loRjhlU01RaG13TmQ4Y21wY0dBRWVmcGg2Q2dmbG9vandVdzlCYXcwOUYxZzg1S0VEbU5CMVA3X1JDN1h1eUxzMHR0VEpzT1FRRWZXVVdzZ1A5bmJocEpfV0xja21CYXptQkF3?oc=5",
    "pub": "Fri, 23 Oct 2026 18:39:24 GMT"
+  },
+  {
+   "t": "Außenministertreffen in Istanbul - Wadephul: Nicht hinnehmbar, dass Iran und Huthi-Miliz den Welthandel erpressen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXZfLWotaEItWUxjVE45dzJjc194RUlyTldBbE1ORGwtU2VCOHJ2dWI4UHJfR28wbUVsd0ZpN2FfaVFaa2xvS2loNWNwUnF3ZE5hZy11X3Q5VGcwNzlqYm9TZXA4R24xeWRvN3dSVzJzcUdrNGtJX25ZZDMxR2lKUy05UzA5Ym1mMmxQMExYTkp5enRIMDFqaGxmLXFxcm8wYUZzd3k1ZU8zczhqcDNDZEpQSFB1ZWs?oc=5",
+   "pub": "Fri, 23 Oct 2026 16:01:08 GMT"
   },
   {
    "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
@@ -89,24 +94,19 @@
    "pub": "Thu, 22 Oct 2026 14:32:37 GMT"
   },
   {
-   "t": "„Wir hätten es nicht tun sollen“: Tech-Milliardär Thiel kritisiert Trumps Iran-Krieg offen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUcteTh6R0NEbzI3UjlGMTZaOVJmNXUyZFhOWU9fRkd5cVdMWjRpUnNuX050eTNYVk8xREVQUjgtSjd2V1l2bEpFc3BLZGdLZXJybVk1TWhXSkdHbTVNZzVtMG1DRFhkWmdjZ1pKVEViLVprWmdyY00wNkhWODctbHRIX1llV2VfSHFyMTVIcDZsYW5qV21nN3ZwbnBrcUlKUEtWWXAzYWJ2SEdvUVVOZVp5eW9oakVTUXNadlNxZFI?oc=5",
-   "pub": "Fri, 23 Oct 2026 16:07:09 GMT"
-  },
-  {
    "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
    "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
   },
   {
-   "t": "Lufthansa verschiebt Neustart der Flüge nach Dubai wegen angespannter Lage im Nahen Osten - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMndfc0ZJdURLdl9oTk1LM3FERnZpaGlWQ01Mc1ROSy1ZcUVJa1ZEYTQ2aVRZalhsQzlIendXU255MXJWd0p2Z2Y0RVUwamtXSFJhRnlld0JQUldRT3ZWVmgybHhtWWxwdy1TOW9FbFpsejV6ZllZZ2ZoUjRJdjMyUHlZdjRQOW9pcHd6NjAwMHFsczg0WW90bk15dlNfSV9HVDR2UGtVa2JkTm1SdGdyOEUyRlpHTmlEYWl5dHJ6Mjg0aWV2eW5QNktCTTU0SzBrV00xRktpcG9nWkxnUzlvWQ?oc=5",
-   "pub": "Fri, 23 Oct 2026 14:15:00 GMT"
+   "t": "Internetkabel im Visier: Iran soll Angriffe planen und Reparaturen verhindern wollen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZjNqTlk0Y3VXbVgycjBucm1YUE85MWRkel9STkMzZXFsdzRUS21ELVUteGE0ZHI2OW05MjZqSjNzNTdaQ241QXlqQ2czUHRQWVZfcWF5dmZyTHVyYTBqZ2o1UnZWb0hRblFlQ0p1SFZCM3R2Rm5WSFhvaGdmalo1V05CNldoUmduVENSb1VyVkQwLXRGTjFmel96aDRBSjYwS211cXdfdDlOaHlwallSbllpeV9OQ0RqMzZOVW0tbEZYcWJ5bEVJUTA5QklaTmItSWc?oc=5",
+   "pub": "Fri, 23 Oct 2026 18:14:23 GMT"
   },
   {
-   "t": "Israel, USA, Iran: Das Eskalationskarussell dreht hoch - Telepolis",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODdETUtkQUVVVWZsQThOb0RQcnhsMWFwTnM5Q28taFR5UHNWOHJoREZwSkNzQk5HbEEyaElwUzFzVk1jMXY1MTZqNDlDSUw4eURTMTNhekRIb2tsOXA2dFZuZDN5cEJzMUxiaHVYX1J3T204QWk0djVXOXo5SUtFX1lkRFNRWTRUYVByWVdYVWZPZXZXM3FaX3JkT284ZTA?oc=5",
-   "pub": "Fri, 23 Oct 2026 14:00:00 GMT"
+   "t": "Heute im TV: Einer besten & brachialsten Actionfilme der letzten Jahre – mit \"John Wick 4\"-Star Donnie Yen in Bestform! - Filmstarts",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpWGtSVU9zNjhLSXppTG1OSHZycnVVSi1tWjJqT1RnSkdsMGYzbjUyZFF6YmhFYk83SU9WLVFvUkxxLW4zUF80cjlXOUVWTC1pWmZPNHU1WG5RUTctcGp2S1ZOcw?oc=5",
+   "pub": "Thu, 22 Oct 2026 06:04:51 GMT"
   }
  ]
 }
