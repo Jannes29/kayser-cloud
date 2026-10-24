@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-24T07:18:52Z",
+ "collected_at": "2026-10-24T12:41:20Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,39 +49,24 @@
  },
  "headlines": [
   {
-   "t": "\"Noch an diesem Wochenende\": US-Botschafter hält Angriff auf Iran für möglich - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUVIWE5uZGNsZF9XSkxobEhJTktnMGppZldKUGczOEc3V2Y2UU55UXNwYmZCTzl1T1o3NTBmMXNjaFBVdVBLcG5SeGU5SV9yZDVaOUtBYkZub2JWVzZ3UnFLSUNQbHBaY2pLdjlsQ0JiNzNJY3AxUVdSLWdzUWhyaHE4N1MycEFlZGdBc29GMUdkSlMzeU5BSnYxYw?oc=5",
-   "pub": "Sat, 24 Oct 2026 01:57:26 GMT"
+   "t": "\"Unter keinen Umständen\": Iran verbietet US-Schiffen die Einfahrt - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUM3Z3NibGFINnpjaXZfSnpFU1h0RUpWS0d3N21TU2dXdFd6MnpWbUZvT1BsdkYzTXY0VDJjLUMtc3QwMmhyNEQwaEJHNWRsT2hhNV9oWWNBX3pOUS1LSHM2ZDJydU1DLWhEX2U1THY4bGdSOGRCTFhhREZjWGVQX2M3TEhLRlFxdUdiSWFJRnZILWxoTUFNZFRxcU1WdmR3Qmc2ZQ?oc=5",
+   "pub": "Sat, 24 Oct 2026 09:32:39 GMT"
   },
   {
    "t": "Ölpreis aktuell: Ölpreise steigen weiter – Fed-Zinsentscheid im Fokus - WirtschaftsWoche",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVlyMkRsUDd0YlNWRE5XV0hSTjVHS045RUxQcEFTRUpBczFIVlRjN2l3MV9BVjlZNWZHcDFRbnltRXd5LUhRbXFiWHJpTVFfc0NCZWdBRTAzbzBvN1lfUWk0a1dhSVUxZFVvR192QlBFVkFxNkpsMW9HeTRGNkNkYm9xS01ka3AwdHdFUjdBVlF6RFkzZFVOckZvUTJOQVlqOThxMmRIaHo5ejVVYkJTV29B?oc=5",
-   "pub": "Sat, 24 Oct 2026 04:39:45 GMT"
+   "pub": "Sat, 24 Oct 2026 10:42:52 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Angriff auf den Iran vor den Wahlen? „Der Zeitpunkt rückt näher“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUpwNk1OaHAzcHNiLUpWWllIUlk0cHFUTEJ0YzgyUERnTVdjRzhON3VyUkRCaEpoRkprMGVxdGcyclowVTh3aHFlQmxmM3J0c3lLLWV2UWI3NXlHaEZQdUdkSmZPdlptLThpeXBZQmxIZmZYNzVYbDZhMVZsenI2VUNRM0JWaDdKc0cyUU5HU1VYVUg0b25FLWN1aV9ScWVfN0k1bURaV05DM01PbkVMNlpQdUlYQXRRRVliY0IzSTF1MU9CYkM3NFMyM092dnRDeFczTzBlbXh1NFZFZ0dmcnZhRjd1MUMwY0E?oc=5",
-   "pub": "Fri, 23 Oct 2026 16:00:50 GMT"
+   "t": "Iran: US-Geheimdienstchef Jay Clayton warnt vor »tödlichen Planungen gegen US-Bürger« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT21HSDBGUTVEQk94VGxLcnhROUVneVFNSTFmcWprdFFOZU5OMnpIYTBLRmlTbHk0TkRKVUVnbDJUVEtEczg1NnJKNml3UnRFWnpUZ3RxRmx3RGFQWmFRbHFTWmEwcDdKN3RraDVsNElsN3VzZ3htQVAxbXFySXBkM0hiaktUUk1qVVUzaTM2dmpIREptZTFkWWVra1pwMnV6dHFqc2hyS1puOU9EaWF1TlNxd19pNzZUOUN0X1ZINHdXUFg0Vng3TXEtM0xYbk53ZlpuRnBhV0JfT2Q3TC1ybXJWSGNURm1rVVE?oc=5",
+   "pub": "Sat, 24 Oct 2026 11:55:00 GMT"
   },
   {
-   "t": "US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1lBb3AxcjhWLU90RVZ0dnI0WDhwbWw0YlRnMlhKUUduM201dWtMVWdnbFJJZGlVNE1sRThzUm00cWlIMF93RjFUMGhkZ1RvS19xRWFGRl94bDh4Tl9IT3JjcHBEWUM4YzVkWXJQTE5kTFRXN0dFamdtUUFxb0RMT2NCUFpkVGE0Sk5tZFFrblJERjM0bm1kbE12SnZwQlpWUkxaSl8yMDJ1QndNeFE?oc=5",
-   "pub": "Sat, 24 Oct 2026 05:13:47 GMT"
-  },
-  {
-   "t": "Israel, USA, Iran: Das Eskalationskarussell dreht hoch - Telepolis",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODdETUtkQUVVVWZsQThOb0RQcnhsMWFwTnM5Q28taFR5UHNWOHJoREZwSkNzQk5HbEEyaElwUzFzVk1jMXY1MTZqNDlDSUw4eURTMTNhekRIb2tsOXA2dFZuZDN5cEJzMUxiaHVYX1J3T204QWk0djVXOXo5SUtFX1lkRFNRWTRUYVByWVdYVWZPZXZXM3FaX3JkT284ZTA?oc=5",
-   "pub": "Fri, 23 Oct 2026 14:00:00 GMT"
-  },
-  {
-   "t": "Veteranen und der Iran-Krieg - US-Veteran: «Ich werde diesen ersten Typen nie vergessen» - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcFVLYnZyYWpmYVNzbFVqRkVaUlUzamthbldtQkstbE1oLU5qMW42QU1QaHFLaXNINjBHNDg2T0hUdWhPcXJQVnNfTExVY1ctOWVlbDdSQTFfNDQ0WjctVFBhdFhzUjQ0UDRiXzJzRDlGaFJ0NW5CaXF4aVpIVkd5emctRVRNaG4yaThhSkJ4YkVyVXNXd3R1dU5WMy14VXpLR0dJcE9vWnJDQVZ4MlBsaFloN2poVHpfMVFrY0ZyVXNwTkk?oc=5",
-   "pub": "Fri, 23 Oct 2026 15:23:59 GMT"
-  },
-  {
-   "t": "Zwischen Krieg und Wirtschaftskrise: Einblicke in den Alltag im Iran - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yRjRuQ1dvOTM0WnBMb0N4a3lLbkYzQWJZZzFQQzNQR3dUcF80VnhQNU1MUmpBOHN0RkM2cXcxVWdUSGRENmc?oc=5",
-   "pub": "Fri, 23 Oct 2026 21:32:53 GMT"
+   "t": "\"Noch an diesem Wochenende\": US-Botschafter hält Angriff auf Iran für möglich - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUVIWE5uZGNsZF9XSkxobEhJTktnMGppZldKUGczOEc3V2Y2UU55UXNwYmZCTzl1T1o3NTBmMXNjaFBVdVBLcG5SeGU5SV9yZDVaOUtBYkZub2JWVzZ3UnFLSUNQbHBaY2pLdjlsQ0JiNzNJY3AxUVdSLWdzUWhyaHE4N1MycEFlZGdBc29GMUdkSlMzeU5BSnYxYw?oc=5",
+   "pub": "Sat, 24 Oct 2026 01:57:26 GMT"
   },
   {
    "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
@@ -94,19 +79,34 @@
    "pub": "Fri, 23 Oct 2026 06:55:00 GMT"
   },
   {
-   "t": "Trump zu beschäftigt für Aussage im BBC-Verfahren - er flog lieber zu Spendenveranstaltung - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2VxVE01MHpEbUpWWHg2dzBNeGlnUGNFeGRtS0NxXzV2Y0cwbjVlY3R0TEFxVnJNdFdYYUdoM1VwRXpPMU9HbTh5bUVGRkdxQVp2ZWVWaEgydW5zZDV3WlljWEtyRTVKQXFmNm5tcGV4SEJ6aWRid0xTSHZxZk1PelBDOTg4M3o3MjVoelBucWltM09BZ1VhekNjSElfNzY5RkFfVElUZkYyVktzUktPdkdqWW1JaVEzR0lSZ3ZZWk5ZU2ZsZXFGWUh6TGZaZw?oc=5",
-   "pub": "Fri, 23 Oct 2026 13:32:54 GMT"
+   "t": "Krieg im Nahen Osten: Angriff auf den Iran vor den Wahlen? „Der Zeitpunkt rückt näher“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUpwNk1OaHAzcHNiLUpWWllIUlk0cHFUTEJ0YzgyUERnTVdjRzhON3VyUkRCaEpoRkprMGVxdGcyclowVTh3aHFlQmxmM3J0c3lLLWV2UWI3NXlHaEZQdUdkSmZPdlptLThpeXBZQmxIZmZYNzVYbDZhMVZsenI2VUNRM0JWaDdKc0cyUU5HU1VYVUg0b25FLWN1aV9ScWVfN0k1bURaV05DM01PbkVMNlpQdUlYQXRRRVliY0IzSTF1MU9CYkM3NFMyM092dnRDeFczTzBlbXh1NFZFZ0dmcnZhRjd1MUMwY0E?oc=5",
+   "pub": "Fri, 23 Oct 2026 16:00:50 GMT"
   },
   {
-   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews",
+   "t": "Zwischen Krieg und Wirtschaftskrise: Einblicke in den Alltag im Iran - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yRjRuQ1dvOTM0WnBMb0N4a3lLbkYzQWJZZzFQQzNQR3dUcF80VnhQNU1MUmpBOHN0RkM2cXcxVWdUSGRENmc?oc=5",
+   "pub": "Fri, 23 Oct 2026 21:32:53 GMT"
+  },
+  {
+   "t": "Der Iran vor dem nächsten Krieg: Teheran fährt wohl Drohnenproduktion hoch - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEI1VGlWenNKQ1ZQOXE3ZjBYY3ZJWTg4XzRlLW9rRlFUYzcycUFqNlJRNHZ1aURKeGNpQVZaLUxXbTBJXzZ2Mk0xMm1NMWdZaTJXak9LU3lSdGREZ2wzZW9GaWtTMnVNQVRxZ3Z5R3k0MmVmbWhWejBWV05WclR4Nm43Y1ZHYU5heUlzUFpXOXVYT3FCeTVxN2JWRmtOamlXbUVweDdDMjNxRHRvdnBYOHUtbVRfNjRwclNRdmtMS3pnTTB0aHhra05ZM2ZkS1doOEdsSmJDeWhuU01LTTlnVG90OFRVbVVJR0g3Ug?oc=5",
+   "pub": "Sat, 24 Oct 2026 12:03:20 GMT"
+  },
+  {
+   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
    "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
   },
   {
-   "t": "Außenministertreffen in Istanbul - Wadephul: Nicht hinnehmbar, dass Iran und Huthi-Miliz den Welthandel erpressen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXZfLWotaEItWUxjVE45dzJjc194RUlyTldBbE1ORGwtU2VCOHJ2dWI4UHJfR28wbUVsd0ZpN2FfaVFaa2xvS2loNWNwUnF3ZE5hZy11X3Q5VGcwNzlqYm9TZXA4R24xeWRvN3dSVzJzcUdrNGtJX25ZZDMxR2lKUy05UzA5Ym1mMmxQMExYTkp5enRIMDFqaGxmLXFxcm8wYUZzd3k1ZU8zczhqcDNDZEpQSFB1ZWs?oc=5",
-   "pub": "Fri, 23 Oct 2026 16:01:08 GMT"
+   "t": "Politischer Widerstand im Iran: Der Westen sieht weg - SWR",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZLc0J4T01tLTdRZU1TeUlnYlotZGZvLWFNN1JIMmgteENRUEplT1A4WV92a2IyWmJaOW9FWVdYb1NwUWhCRk9VNFRkRk5FTXNQRldHU2NtbXdoU1dyemZkRkZDTXRWTjFHTDlBVFFsVDlwUVBpNlROSEdpR2JiOXBlR2ZCdFhsa2t5V3M3X0lORE00Y3gwQWdLQmc2aUdaVGc?oc=5",
+   "pub": "Wed, 21 Oct 2026 16:05:00 GMT"
+  },
+  {
+   "t": "Israel, USA, Iran: Das Eskalationskarussell dreht hoch - Telepolis",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODdETUtkQUVVVWZsQThOb0RQcnhsMWFwTnM5Q28taFR5UHNWOHJoREZwSkNzQk5HbEEyaElwUzFzVk1jMXY1MTZqNDlDSUw4eURTMTNhekRIb2tsOXA2dFZuZDN5cEJzMUxiaHVYX1J3T204QWk0djVXOXo5SUtFX1lkRFNRWTRUYVByWVdYVWZPZXZXM3FaX3JkT284ZTA?oc=5",
+   "pub": "Fri, 23 Oct 2026 14:00:00 GMT"
   }
  ]
 }
