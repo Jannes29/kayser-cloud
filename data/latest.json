@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-24T01:36:27Z",
+ "collected_at": "2026-10-24T07:18:52Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -23,35 +23,40 @@
    "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.1031,
-   "chg1d_pct": 0.39
+   "price": 1.1028,
+   "chg1d_pct": 0.37
   },
   "WTI": {
-   "price": 103.44,
-   "chg1d_pct": 3.99
+   "price": 103.27,
+   "chg1d_pct": 3.82
   },
   "BRENT": {
-   "price": 111.66,
-   "chg1d_pct": -1.33
+   "price": 111.7,
+   "chg1d_pct": -1.3
   },
   "GOLD": {
-   "price": 4010.0,
-   "chg1d_pct": -1.24
+   "price": 4007.9,
+   "chg1d_pct": -1.29
   },
   "SPX_FUT": {
-   "price": 7672.5,
-   "chg1d_pct": -0.42
+   "price": 7659.75,
+   "chg1d_pct": -0.58
   },
   "NAS_FUT": {
-   "price": 29175.0,
-   "chg1d_pct": 0.11
+   "price": 29117.75,
+   "chg1d_pct": -0.08
   }
  },
  "headlines": [
   {
+   "t": "\"Noch an diesem Wochenende\": US-Botschafter hält Angriff auf Iran für möglich - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUVIWE5uZGNsZF9XSkxobEhJTktnMGppZldKUGczOEc3V2Y2UU55UXNwYmZCTzl1T1o3NTBmMXNjaFBVdVBLcG5SeGU5SV9yZDVaOUtBYkZub2JWVzZ3UnFLSUNQbHBaY2pLdjlsQ0JiNzNJY3AxUVdSLWdzUWhyaHE4N1MycEFlZGdBc29GMUdkSlMzeU5BSnYxYw?oc=5",
+   "pub": "Sat, 24 Oct 2026 01:57:26 GMT"
+  },
+  {
    "t": "Ölpreis aktuell: Ölpreise steigen weiter – Fed-Zinsentscheid im Fokus - WirtschaftsWoche",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZVlyMkRsUDd0YlNWRE5XV0hSTjVHS045RUxQcEFTRUpBczFIVlRjN2l3MV9BVjlZNWZHcDFRbnltRXd5LUhRbXFiWHJpTVFfc0NCZWdBRTAzbzBvN1lfUWk0a1dhSVUxZFVvR192QlBFVkFxNkpsMW9HeTRGNkNkYm9xS01ka3AwdHdFUjdBVlF6RFkzZFVOckZvUTJOQVlqOThxMmRIaHo5ejVVYkJTV29B?oc=5",
-   "pub": "Fri, 23 Oct 2026 23:31:03 GMT"
+   "pub": "Sat, 24 Oct 2026 04:39:45 GMT"
   },
   {
    "t": "Krieg im Nahen Osten: Angriff auf den Iran vor den Wahlen? „Der Zeitpunkt rückt näher“ - WELT",
@@ -59,9 +64,9 @@
    "pub": "Fri, 23 Oct 2026 16:00:50 GMT"
   },
   {
-   "t": "Greift Israel den Iran vor den Wahlen an? Jetzt spricht Armee-Chef Zamir - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1NDNlFoZkQ3cnhoN09wMHBkR3B4RWhPOUNEWDNYRFItWWYtQ1ZEYkgya3drSk5MaHhVN1lfY0FOQW9PcU9YM0hnYzhvOXBpdkZDaThYQVVZenhERDhQQmFlY19KckZ1TEpYc0RaVTFsUUxwZXBGNjlSbTJvaVZEV2xEbXZmVXJmendpeGpSdTZFZ21pUXlRS2JrZVVKR05zd3hBTnhOVkdyRFU2a0tLSHdFT0lRZw?oc=5",
-   "pub": "Fri, 23 Oct 2026 06:55:00 GMT"
+   "t": "US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1lBb3AxcjhWLU90RVZ0dnI0WDhwbWw0YlRnMlhKUUduM201dWtMVWdnbFJJZGlVNE1sRThzUm00cWlIMF93RjFUMGhkZ1RvS19xRWFGRl94bDh4Tl9IT3JjcHBEWUM4YzVkWXJQTE5kTFRXN0dFamdtUUFxb0RMT2NCUFpkVGE0Sk5tZFFrblJERjM0bm1kbE12SnZwQlpWUkxaSl8yMDJ1QndNeFE?oc=5",
+   "pub": "Sat, 24 Oct 2026 05:13:47 GMT"
   },
   {
    "t": "Israel, USA, Iran: Das Eskalationskarussell dreht hoch - Telepolis",
@@ -69,24 +74,14 @@
    "pub": "Fri, 23 Oct 2026 14:00:00 GMT"
   },
   {
-   "t": "Trump zu beschäftigt für Aussage im BBC-Verfahren - er flog lieber zu Spendenveranstaltung - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2VxVE01MHpEbUpWWHg2dzBNeGlnUGNFeGRtS0NxXzV2Y0cwbjVlY3R0TEFxVnJNdFdYYUdoM1VwRXpPMU9HbTh5bUVGRkdxQVp2ZWVWaEgydW5zZDV3WlljWEtyRTVKQXFmNm5tcGV4SEJ6aWRid0xTSHZxZk1PelBDOTg4M3o3MjVoelBucWltM09BZ1VhekNjSElfNzY5RkFfVElUZkYyVktzUktPdkdqWW1JaVEzR0lSZ3ZZWk5ZU2ZsZXFGWUh6TGZaZw?oc=5",
-   "pub": "Fri, 23 Oct 2026 13:32:54 GMT"
+   "t": "Veteranen und der Iran-Krieg - US-Veteran: «Ich werde diesen ersten Typen nie vergessen» - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcFVLYnZyYWpmYVNzbFVqRkVaUlUzamthbldtQkstbE1oLU5qMW42QU1QaHFLaXNINjBHNDg2T0hUdWhPcXJQVnNfTExVY1ctOWVlbDdSQTFfNDQ0WjctVFBhdFhzUjQ0UDRiXzJzRDlGaFJ0NW5CaXF4aVpIVkd5emctRVRNaG4yaThhSkJ4YkVyVXNXd3R1dU5WMy14VXpLR0dJcE9vWnJDQVZ4MlBsaFloN2poVHpfMVFrY0ZyVXNwTkk?oc=5",
+   "pub": "Fri, 23 Oct 2026 15:23:59 GMT"
   },
   {
-   "t": "Nach US-Drohungen: Iran kündigt \"Vater aller Bomben\" an - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odFZaZGw3V2E2Y3hVRHVkbXBGRkZQTU5Gc3k0Rnp5V1dEZXM3YXRkSEU3S01PZFJ0dVdVUUhwTExhTjVpRFczRjlwb0FJYndhN0dGTFVLXzlPQV9Xd1hPNHRoSlJ0M3R2TGgwQTR3b2JvWVI0UUE?oc=5",
-   "pub": "Fri, 23 Oct 2026 10:04:28 GMT"
-  },
-  {
-   "t": "Treffen in Istanbul: Außenminister fordern Deeskalation im Iran-Krieg und Hormus-Öffnung - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHhvbEtMU05DMHQyWGhGVmlCVVVTQ2VMTzJCZzJOelY0WnZZZUllNVJIT2V0b3dqaVRjRkZ1dmJua21GeFRGWkhiN203Z0ViN3pRNWxIYVJfVkZvUVRMMG5YMDBIQ1loRjhlU01RaG13TmQ4Y21wY0dBRWVmcGg2Q2dmbG9vandVdzlCYXcwOUYxZzg1S0VEbU5CMVA3X1JDN1h1eUxzMHR0VEpzT1FRRWZXVVdzZ1A5bmJocEpfV0xja21CYXptQkF3?oc=5",
-   "pub": "Fri, 23 Oct 2026 18:39:24 GMT"
-  },
-  {
-   "t": "Außenministertreffen in Istanbul - Wadephul: Nicht hinnehmbar, dass Iran und Huthi-Miliz den Welthandel erpressen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXZfLWotaEItWUxjVE45dzJjc194RUlyTldBbE1ORGwtU2VCOHJ2dWI4UHJfR28wbUVsd0ZpN2FfaVFaa2xvS2loNWNwUnF3ZE5hZy11X3Q5VGcwNzlqYm9TZXA4R24xeWRvN3dSVzJzcUdrNGtJX25ZZDMxR2lKUy05UzA5Ym1mMmxQMExYTkp5enRIMDFqaGxmLXFxcm8wYUZzd3k1ZU8zczhqcDNDZEpQSFB1ZWs?oc=5",
-   "pub": "Fri, 23 Oct 2026 16:01:08 GMT"
+   "t": "Zwischen Krieg und Wirtschaftskrise: Einblicke in den Alltag im Iran - ORF",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yRjRuQ1dvOTM0WnBMb0N4a3lLbkYzQWJZZzFQQzNQR3dUcF80VnhQNU1MUmpBOHN0RkM2cXcxVWdUSGRENmc?oc=5",
+   "pub": "Fri, 23 Oct 2026 21:32:53 GMT"
   },
   {
    "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
@@ -94,19 +89,24 @@
    "pub": "Thu, 22 Oct 2026 14:32:37 GMT"
   },
   {
-   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews.com",
+   "t": "Greift Israel den Iran vor den Wahlen an? Jetzt spricht Armee-Chef Zamir - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1NDNlFoZkQ3cnhoN09wMHBkR3B4RWhPOUNEWDNYRFItWWYtQ1ZEYkgya3drSk5MaHhVN1lfY0FOQW9PcU9YM0hnYzhvOXBpdkZDaThYQVVZenhERDhQQmFlY19KckZ1TEpYc0RaVTFsUUxwZXBGNjlSbTJvaVZEV2xEbXZmVXJmendpeGpSdTZFZ21pUXlRS2JrZVVKR05zd3hBTnhOVkdyRFU2a0tLSHdFT0lRZw?oc=5",
+   "pub": "Fri, 23 Oct 2026 06:55:00 GMT"
+  },
+  {
+   "t": "Trump zu beschäftigt für Aussage im BBC-Verfahren - er flog lieber zu Spendenveranstaltung - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd2VxVE01MHpEbUpWWHg2dzBNeGlnUGNFeGRtS0NxXzV2Y0cwbjVlY3R0TEFxVnJNdFdYYUdoM1VwRXpPMU9HbTh5bUVGRkdxQVp2ZWVWaEgydW5zZDV3WlljWEtyRTVKQXFmNm5tcGV4SEJ6aWRid0xTSHZxZk1PelBDOTg4M3o3MjVoelBucWltM09BZ1VhekNjSElfNzY5RkFfVElUZkYyVktzUktPdkdqWW1JaVEzR0lSZ3ZZWk5ZU2ZsZXFGWUh6TGZaZw?oc=5",
+   "pub": "Fri, 23 Oct 2026 13:32:54 GMT"
+  },
+  {
+   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
    "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
   },
   {
-   "t": "Politischer Widerstand im Iran: Der Westen sieht weg - SWR",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZLc0J4T01tLTdRZU1TeUlnYlotZGZvLWFNN1JIMmgteENRUEplT1A4WV92a2IyWmJaOW9FWVdYb1NwUWhCRk9VNFRkRk5FTXNQRldHU2NtbXdoU1dyemZkRkZDTXRWTjFHTDlBVFFsVDlwUVBpNlROSEdpR2JiOXBlR2ZCdFhsa2t5V3M3X0lORE00Y3gwQWdLQmc2aUdaVGc?oc=5",
-   "pub": "Wed, 21 Oct 2026 16:05:00 GMT"
-  },
-  {
-   "t": "Kurz und intensiv: USA planen Angriff auf Iran nach Midterms - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanZRQVdVLWoyeWh4bU40ZldMS1JuY2xndlk1N3ZHQXR4SFlOY1VmbElqQzB2bTNtYU9nZlhINE5JSzUtOGM4eEtZbmRVeGpncFVuRkxpVTh2eUxFMlp0WE44X0t4ekwyZFV6QWRobkQyZDZ1dzJQOVlWcE1vMUNpWU9ZSmp3aVROaFp1bWsxT1dYMWx4TjRmM3NyWFZPblFMMUVFNnc2OGNYLUxLZF90Sk9WUWY3QVlkLXg4ZTFoYUc4eVFzMmY3b2hRaUw0WWw2X3p3VA?oc=5",
-   "pub": "Thu, 22 Oct 2026 17:23:00 GMT"
+   "t": "Außenministertreffen in Istanbul - Wadephul: Nicht hinnehmbar, dass Iran und Huthi-Miliz den Welthandel erpressen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeXZfLWotaEItWUxjVE45dzJjc194RUlyTldBbE1ORGwtU2VCOHJ2dWI4UHJfR28wbUVsd0ZpN2FfaVFaa2xvS2loNWNwUnF3ZE5hZy11X3Q5VGcwNzlqYm9TZXA4R24xeWRvN3dSVzJzcUdrNGtJX25ZZDMxR2lKUy05UzA5Ym1mMmxQMExYTkp5enRIMDFqaGxmLXFxcm8wYUZzd3k1ZU8zczhqcDNDZEpQSFB1ZWs?oc=5",
+   "pub": "Fri, 23 Oct 2026 16:01:08 GMT"
   }
  ]
 }
