@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-24T19:29:33Z",
+ "collected_at": "2026-10-24T22:29:15Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -23,8 +23,8 @@
    "chg1d_pct": -0.16
   },
   "GBPCHF": {
-   "price": 1.1028,
-   "chg1d_pct": 0.37
+   "price": 1.1031,
+   "chg1d_pct": 0.39
   },
   "WTI": {
    "price": 103.27,
@@ -49,7 +49,64 @@
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "Iran: US-Geheimdienstchef Jay Clayton warnt vor »tödlichen Planungen gegen US-Bürger« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT21HSDBGUTVEQk94VGxLcnhROUVneVFNSTFmcWprdFFOZU5OMnpIYTBLRmlTbHk0TkRKVUVnbDJUVEtEczg1NnJKNml3UnRFWnpUZ3RxRmx3RGFQWmFRbHFTWmEwcDdKN3RraDVsNElsN3VzZ3htQVAxbXFySXBkM0hiaktUUk1qVVUzaTM2dmpIREptZTFkWWVra1pwMnV6dHFqc2hyS1puOU9EaWF1TlNxd19pNzZUOUN0X1ZINHdXUFg0Vng3TXEtM0xYbk53ZlpuRnBhV0JfT2Q3TC1ybXJWSGNURm1rVVE?oc=5",
+   "pub": "Sat, 24 Oct 2026 10:28:00 GMT"
+  },
+  {
+   "t": "\"Fortgeschrittenes Stadium\": Geheimdienst-Memo: Iran plant Anschläge auf US-Bürger - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmZ2RjBVbUdkdU9JYlQyMEZUOTdOQ0llRDVSWWY2VV96OTlEME03dVRoTDdyVUZNbTNFUnctTGtqNi1NMVJFTTdPZF9sNVhzN3ZHTHhVSXVhS3I2dEtKcUJhMkR3dFBlLUQ5NFJSaHZsRy10VW9xeG1jN09WNmd1SzFvLXhiM215M3hxQ3hqcUFSVlJ1el9tUFFIUVNPOEU?oc=5",
+   "pub": "Sat, 24 Oct 2026 17:47:19 GMT"
+  },
+  {
+   "t": "\"Unter keinen Umständen\": Iran verbietet US-Schiffen die Einfahrt - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUM3Z3NibGFINnpjaXZfSnpFU1h0RUpWS0d3N21TU2dXdFd6MnpWbUZvT1BsdkYzTXY0VDJjLUMtc3QwMmhyNEQwaEJHNWRsT2hhNV9oWWNBX3pOUS1LSHM2ZDJydU1DLWhEX2U1THY4bGdSOGRCTFhhREZjWGVQX2M3TEhLRlFxdUdiSWFJRnZILWxoTUFNZFRxcU1WdmR3Qmc2ZQ?oc=5",
+   "pub": "Sat, 24 Oct 2026 09:32:39 GMT"
+  },
+  {
+   "t": "Der Iran vor dem nächsten Krieg: Teheran fährt wohl Drohnenproduktion hoch - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEI1VGlWenNKQ1ZQOXE3ZjBYY3ZJWTg4XzRlLW9rRlFUYzcycUFqNlJRNHZ1aURKeGNpQVZaLUxXbTBJXzZ2Mk0xMm1NMWdZaTJXak9LU3lSdGREZ2wzZW9GaWtTMnVNQVRxZ3Z5R3k0MmVmbWhWejBWV05WclR4Nm43Y1ZHYU5heUlzUFpXOXVYT3FCeTVxN2JWRmtOamlXbUVweDdDMjNxRHRvdnBYOHUtbVRfNjRwclNRdmtMS3pnTTB0aHhra05ZM2ZkS1doOEdsSmJDeWhuU01LTTlnVG90OFRVbVVJR0g3Ug?oc=5",
+   "pub": "Sat, 24 Oct 2026 12:03:20 GMT"
+  },
+  {
+   "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSmZ4MW5WQUtIVXBTU1VHMVhxeFFJb2M3TlYtTXRGS29VZk1ZSkJldS10NkxJV1BURWtwbUhtTFdtTkQyV1RFV3dZb2luUXFOcWRlSEw1NnZrdUlLbFI0?oc=5",
+   "pub": "Thu, 22 Oct 2026 14:32:37 GMT"
+  },
+  {
+   "t": "Greift Israel den Iran vor den Wahlen an? Jetzt spricht Armee-Chef Zamir - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1NDNlFoZkQ3cnhoN09wMHBkR3B4RWhPOUNEWDNYRFItWWYtQ1ZEYkgya3drSk5MaHhVN1lfY0FOQW9PcU9YM0hnYzhvOXBpdkZDaThYQVVZenhERDhQQmFlY19KckZ1TEpYc0RaVTFsUUxwZXBGNjlSbTJvaVZEV2xEbXZmVXJmendpeGpSdTZFZ21pUXlRS2JrZVVKR05zd3hBTnhOVkdyRFU2a0tLSHdFT0lRZw?oc=5",
+   "pub": "Fri, 23 Oct 2026 06:55:00 GMT"
+  },
+  {
+   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
+   "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
+  },
+  {
+   "t": "Krieg im Nahen Osten: Angriff auf den Iran vor den Wahlen? „Der Zeitpunkt rückt näher“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUpwNk1OaHAzcHNiLUpWWllIUlk0cHFUTEJ0YzgyUERnTVdjRzhON3VyUkRCaEpoRkprMGVxdGcyclowVTh3aHFlQmxmM3J0c3lLLWV2UWI3NXlHaEZQdUdkSmZPdlptLThpeXBZQmxIZmZYNzVYbDZhMVZsenI2VUNRM0JWaDdKc0cyUU5HU1VYVUg0b25FLWN1aV9ScWVfN0k1bURaV05DM01PbkVMNlpQdUlYQXRRRVliY0IzSTF1MU9CYkM3NFMyM092dnRDeFczTzBlbXh1NFZFZ0dmcnZhRjd1MUMwY0E?oc=5",
+   "pub": "Fri, 23 Oct 2026 16:00:50 GMT"
+  },
+  {
+   "t": "US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1lBb3AxcjhWLU90RVZ0dnI0WDhwbWw0YlRnMlhKUUduM201dWtMVWdnbFJJZGlVNE1sRThzUm00cWlIMF93RjFUMGhkZ1RvS19xRWFGRl94bDh4Tl9IT3JjcHBEWUM4YzVkWXJQTE5kTFRXN0dFamdtUUFxb0RMT2NCUFpkVGE0Sk5tZFFrblJERjM0bm1kbE12SnZwQlpWUkxaSl8yMDJ1QndNeFE?oc=5",
+   "pub": "Sat, 24 Oct 2026 05:13:47 GMT"
+  },
+  {
+   "t": "\"Noch an diesem Wochenende\": US-Botschafter hält Angriff auf Iran für möglich - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUVIWE5uZGNsZF9XSkxobEhJTktnMGppZldKUGczOEc3V2Y2UU55UXNwYmZCTzl1T1o3NTBmMXNjaFBVdVBLcG5SeGU5SV9yZDVaOUtBYkZub2JWVzZ3UnFLSUNQbHBaY2pLdjlsQ0JiNzNJY3AxUVdSLWdzUWhyaHE4N1MycEFlZGdBc29GMUdkSlMzeU5BSnYxYw?oc=5",
+   "pub": "Sat, 24 Oct 2026 01:57:26 GMT"
+  },
+  {
+   "t": "USA und Israel bereiten offenbar neue Angriffe auf Iran vor - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzI0M3h1ZlRsMng4VlJ0UmJlam14SzBOOTF3VnZxTHp4aVlySnhFdHVuMUFtNDNpOEFQbWJCREJIUFVqcUdpZ09pSlVWQkl3cGZmRXBrTzdxOUVWR0lVR196ZkdYYmVMWkVHaWQzWGdlczZjRFhIYlNhcDFrWWxHM0N1aHBMU1BnRFkyWVRLY3d0M0wwNnVMbDJ4clczQkV1X1YtUzFrdw?oc=5",
+   "pub": "Thu, 22 Oct 2026 09:50:00 GMT"
+  },
+  {
+   "t": "USA: Trump verhinderte Angriff Israels auf Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXJJSkYtSUZEVnh3dDUzem5uZ19vZXkyR0ZSVTc4UGt3RVFGYkY2LUZQd1gydDlzSC1NZmFldFA5S3g5MG1kOFhjMTJCRGdHMzV5aGpCUzg5Uy1tU29vMFJwT01VZ2UyUjNyQUZvUEgtbHhhZU41aldMN2lCNWE0N0ZyS2V4NEVnMS1BT3ZoWExfVm5QaTViWkVIUTFfcjdqbjNQZXoySGs5Nk1ZZE5FdlNZeUQ?oc=5",
+   "pub": "Wed, 21 Oct 2026 09:23:00 GMT"
   }
  ]
 }
