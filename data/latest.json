@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-25T19:38:52Z",
+ "collected_at": "2026-10-25T22:34:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8237,
-   "chg1d_pct": 0.47
+   "price": 0.8249,
+   "chg1d_pct": 0.62
   },
   "USDJPY": {
-   "price": 156.813,
-   "chg1d_pct": 0.2
+   "price": 156.866,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8753,
-   "chg1d_pct": -0.07
+   "price": 1.8738,
+   "chg1d_pct": -0.15
   },
   "AUDJPY": {
-   "price": 110.202,
-   "chg1d_pct": 0.32
+   "price": 110.399,
+   "chg1d_pct": 0.5
   },
   "EURUSD": {
-   "price": 1.1218,
-   "chg1d_pct": -0.03
+   "price": 1.1213,
+   "chg1d_pct": -0.08
   },
   "GBPCHF": {
-   "price": 1.1022,
-   "chg1d_pct": 0.31
+   "price": 1.1031,
+   "chg1d_pct": 0.39
   },
   "WTI": {
-   "price": 103.27,
-   "chg1d_pct": 3.82
+   "price": 102.13,
+   "chg1d_pct": -1.1
   },
   "BRENT": {
-   "price": 111.7,
-   "chg1d_pct": -1.3
+   "price": 110.81,
+   "chg1d_pct": -5.06
   },
   "GOLD": {
-   "price": 4007.9,
-   "chg1d_pct": -1.29
+   "price": 4009.6,
+   "chg1d_pct": 0.04
   },
   "SPX_FUT": {
-   "price": 7659.75,
-   "chg1d_pct": -0.58
+   "price": 7682.75,
+   "chg1d_pct": 0.3
   },
   "NAS_FUT": {
-   "price": 29117.75,
-   "chg1d_pct": -0.08
+   "price": 29240.5,
+   "chg1d_pct": 0.42
   }
  },
  "headlines": [
@@ -69,29 +69,14 @@
    "pub": "Sun, 25 Oct 2026 06:52:26 GMT"
   },
   {
+   "t": "Angriff auf Tanker im Iran-Krieg: Emirate schließen Strände wegen Ölverschmutzung - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmNCV012cko2eXRwb3VZTTF1RWdJVUh3QjJ3WGE2SHlpRlFhc0lQRzR2TnpHdnAxTUpnMVFxVXFSWDVmajdIdE5hb2xfYmNNQUJzcWl2ZU5tR1RsSlNhWGZuZ0hQMWhqbGJtTVN6ZnhKbURSRXN4d1djYTVvZEhEYXpYQlZDWHN3MDZnbUdENkVEcURXUDhKZk5n?oc=5",
+   "pub": "Sun, 25 Oct 2026 13:56:24 GMT"
+  },
+  {
    "t": "Trump: Iran könnte noch heute angegriffen werden, hält der Bitcoin-Kurs die 80.000-USD-Marke? - BeInCrypto",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTkRBczV4bjlPOExQV2FOTU1kWWhwNkttQVVlR1pnYzF6NC1yNDY2Q3NpNzJXRHFxNTIxUXFrbTk5TWVnejBKLWk4UkpXY1pySXk2YzFabkNWcjlDN1FLSVVPMENER2d2S3pv?oc=5",
    "pub": "Sun, 25 Oct 2026 06:38:00 GMT"
-  },
-  {
-   "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSmZ4MW5WQUtIVXBTU1VHMVhxeFFJb2M3TlYtTXRGS29VZk1ZSkJldS10NkxJV1BURWtwbUhtTFdtTkQyV1RFV3dZb2luUXFOcWRlSEw1NnZrdUlLbFI0?oc=5",
-   "pub": "Thu, 22 Oct 2026 14:32:37 GMT"
-  },
-  {
-   "t": "Politischer Widerstand im Iran: Der Westen sieht weg - SWR",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZLc0J4T01tLTdRZU1TeUlnYlotZGZvLWFNN1JIMmgteENRUEplT1A4WV92a2IyWmJaOW9FWVdYb1NwUWhCRk9VNFRkRk5FTXNQRldHU2NtbXdoU1dyemZkRkZDTXRWTjFHTDlBVFFsVDlwUVBpNlROSEdpR2JiOXBlR2ZCdFhsa2t5V3M3X0lORE00Y3gwQWdLQmc2aUdaVGc?oc=5",
-   "pub": "Fri, 23 Oct 2026 08:05:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg - Strände in Emiraten wegen Ölverschmutzung geschlossen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDFDcjdnU2VHY2ZWM2RRTUxwMElaTzU1dTlNdGlfZmFIOVdIZFVhMnl4WXNsWlJxT0FINGVrcUJXY1RZaUFmYzVrTHBQMlRuQTd6cXdQZ1lKNTRXWi10Nl80dkZHdmxwSlhsZ24wYlJFOW5YVUEwczgxejJSaS1VSTI0M3VxQzdLeU1BdHZIODY1SHN1M2V2QjFGVQ?oc=5",
-   "pub": "Sun, 25 Oct 2026 13:04:45 GMT"
-  },
-  {
-   "t": "Peak Oil: Wann die Welt weniger Öl verbraucht - Cleanthinking.de",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5YUFVU05iWmdTelZqdWVnSGdiMWxidXhMUkVBUGZfT09kMjlzclI1WTU5MTBNRGdXS2VzNDd4WUkxMzZ3eVhUbDF3b1lwYXM?oc=5",
-   "pub": "Sun, 25 Oct 2026 13:00:00 GMT"
   },
   {
    "t": "Greift Israel den Iran vor den Wahlen an? Jetzt spricht Armee-Chef Zamir - Jüdische Allgemeine",
@@ -99,14 +84,29 @@
    "pub": "Fri, 23 Oct 2026 06:55:00 GMT"
   },
   {
-   "t": "Netanjahu warnt Iran vor Angriffen zur Störung der Israel-Wahl - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWlZQ3JyWU54Q3JxaC0xUEtnU3B2dXRWbzhPcU4yT0dOSzlXQjN1ZlRxc1I3WlByYWlBN1dNN2R4eDVfRkFmU2RnNkxjME1xVEdPVFM0d0h2ejVQUmtTZ2lHTnJjQVpFYURvUVN3Qkc3U1FzNEFwMHRFcFE2VVZnUXhxVThlemp6WGdwRXZYZ3Y0ejRORVNVd2xub3pFWU41Vmg2NFR3?oc=5",
-   "pub": "Sun, 25 Oct 2026 17:04:45 GMT"
+   "t": "Nach vereiteltem Mordplan: Plötzlich drohen die Mullahs der Bundeswehr! - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQk5XdTBJM3JmSDR0SFJMQzVXNnprdmZjQlJGY3A4d1ZJMlhsV0FUZGxCRTQ1b1F0OE5TUm9VTlZOSUh2a2REMjFOLXBUQmk5emhGaDl5TU1FMlktalVpbEJmS0VnbTRzUjZ4SDJHYndxeVUzVDF6NDc4R1BEX3l0bFE0RVJZd1pON1VvSDJXMW5rckpOcEFiRy01aExhRDVmLW5xVURvZFNldFM0WVEyb19ELU1NekROMHRmRjhPajZfNWJwcS1rem52UE1mRmtGYmQ0YlFDUl9uYzBXRm1XZmZlTlg5clE?oc=5",
+   "pub": "Sun, 25 Oct 2026 18:19:21 GMT"
   },
   {
-   "t": "Angriff auf Tanker im Iran-Krieg: Emirate schließen Strände wegen Ölverschmutzung - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmNCV012cko2eXRwb3VZTTF1RWdJVUh3QjJ3WGE2SHlpRlFhc0lQRzR2TnpHdnAxTUpnMVFxVXFSWDVmajdIdE5hb2xfYmNNQUJzcWl2ZU5tR1RsSlNhWGZuZ0hQMWhqbGJtTVN6ZnhKbURSRXN4d1djYTVvZEhEYXpYQlZDWHN3MDZnbUdENkVEcURXUDhKZk5n?oc=5",
-   "pub": "Sun, 25 Oct 2026 13:56:24 GMT"
+   "t": "Iran-Krieg - Strände in Emiraten wegen Ölverschmutzung geschlossen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDFDcjdnU2VHY2ZWM2RRTUxwMElaTzU1dTlNdGlfZmFIOVdIZFVhMnl4WXNsWlJxT0FINGVrcUJXY1RZaUFmYzVrTHBQMlRuQTd6cXdQZ1lKNTRXWi10Nl80dkZHdmxwSlhsZ24wYlJFOW5YVUEwczgxejJSaS1VSTI0M3VxQzdLeU1BdHZIODY1SHN1M2V2QjFGVQ?oc=5",
+   "pub": "Sun, 25 Oct 2026 13:04:45 GMT"
+  },
+  {
+   "t": "Naher Osten – Saudi-Arabien, Jemen und Iran vor einem langen Krieg - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUMySXVuTWdoaU9POXUwcW1MRVRfNmRZSUoyZzhEODhFREZGZnh6Zi0wYXhjNnBVZG1kR2VHVjdwRjlWOXBwSHJkRlV1RnFhY3JEWmFmSzNkT0V0akJQbVdaMm5yeVBqZ0h2ME5zbXNFUkFmUlRWQ3drZUg0WVF3MzRDYW1zQ2VnWGk1LU5ZMWV6cTBna0pidU1jNGxlMWdMZHJQVS1Sb3QxdjBLSW5R?oc=5",
+   "pub": "Sat, 24 Oct 2026 15:37:16 GMT"
+  },
+  {
+   "t": "Peak Oil: Wann die Welt weniger Öl verbraucht - Cleanthinking.de",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5YUFVU05iWmdTelZqdWVnSGdiMWxidXhMUkVBUGZfT09kMjlzclI1WTU5MTBNRGdXS2VzNDd4WUkxMzZ3eVhUbDF3b1lwYXM?oc=5",
+   "pub": "Sun, 25 Oct 2026 13:00:00 GMT"
+  },
+  {
+   "t": "Iran: US-Geheimdienstchef Jay Clayton warnt vor »tödlichen Planungen gegen US-Bürger« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT21HSDBGUTVEQk94VGxLcnhROUVneVFNSTFmcWprdFFOZU5OMnpIYTBLRmlTbHk0TkRKVUVnbDJUVEtEczg1NnJKNml3UnRFWnpUZ3RxRmx3RGFQWmFRbHFTWmEwcDdKN3RraDVsNElsN3VzZ3htQVAxbXFySXBkM0hiaktUUk1qVVUzaTM2dmpIREptZTFkWWVra1pwMnV6dHFqc2hyS1puOU9EaWF1TlNxd19pNzZUOUN0X1ZINHdXUFg0Vng3TXEtM0xYbk53ZlpuRnBhV0JfT2Q3TC1ybXJWSGNURm1rVVE?oc=5",
+   "pub": "Sat, 24 Oct 2026 10:28:00 GMT"
   }
  ]
 }
