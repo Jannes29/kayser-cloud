@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-25T06:09:33Z",
+ "collected_at": "2026-10-25T11:33:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,6 +49,26 @@
  },
  "headlines": [
   {
+   "t": "Neuer Iran-Krieg noch vor den Wahlen? Netanjahu fordert Sturz des Regimes – Alarm bei USA - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXJFd2loVjI4SmZ1SnBBRnV3ajBObjBsaWVMYjUxU3lKN0hUZFNKakl3UDRhdmp6RkxUcE9sdzZ0QzJoRFpCZFprS214U3NFYlpfcWRyVWoxcmw1aEwwTGwxbWdKdnJWSGFEaVQ3YVU1b0hpOC1yU1dvSV83Y1BubWxlY0VxRFE1d2VLWDNmdk5pcjhvdW9QRERUV2t4REhQSl9HcS1fdGY?oc=5",
+   "pub": "Sun, 25 Oct 2026 07:24:33 GMT"
+  },
+  {
+   "t": "Iran kündigt \"Vater aller Bomben\" an - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORV93YmpNM0NGQThkYktOUXdlQzI3U3pRX0tIZ0cySzBXNUtnb2hjZzdyNDIwOVZ3d19OQ0luYVNtal90d3U1cFVnQjNscFlKTlVZaDZVRWVocFZnazg5Yk5tYmJRdVdIZlZkVjdhQV8xak9Qdk41UFdGajR0WVQ4MF9oMlJyRXc?oc=5",
+   "pub": "Sun, 25 Oct 2026 05:13:47 GMT"
+  },
+  {
+   "t": "Iran: Mordanschläge auf US-Diplomaten geplant – auch Europa im Visier - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDVVbWFzNzh0WXBlM2Y0QUIyb1locjdyTmdsS29XZFlEaVBERVJUR2c0RlM1UW1wc3ltaXptWFpieGtsV2ZKUUJxVkt2c0pKMTNielNSbjVMNzdiSTFFVTdrdlZuX2RQZkRVUG9EWDlmVkFVcFFtQzZiamYxeVlyZlp1VTZBNEc5ZEl5Wm9nek9odWxL?oc=5",
+   "pub": "Sun, 25 Oct 2026 06:52:26 GMT"
+  },
+  {
+   "t": "Trump: Iran könnte noch heute angegriffen werden, hält der Bitcoin-Kurs die 80.000-USD-Marke? - BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTkRBczV4bjlPOExQV2FOTU1kWWhwNkttQVVlR1pnYzF6NC1yNDY2Q3NpNzJXRHFxNTIxUXFrbTk5TWVnejBKLWk4UkpXY1pySXk2YzFabkNWcjlDN1FLSVVPMENER2d2S3pv?oc=5",
+   "pub": "Sun, 25 Oct 2026 06:38:00 GMT"
+  },
+  {
    "t": "\"Fortgeschrittenes Stadium\": Geheimdienst-Memo: Iran plant Anschläge auf US-Bürger - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmZ2RjBVbUdkdU9JYlQyMEZUOTdOQ0llRDVSWWY2VV96OTlEME03dVRoTDdyVUZNbTNFUnctTGtqNi1NMVJFTTdPZF9sNVhzN3ZHTHhVSXVhS3I2dEtKcUJhMkR3dFBlLUQ5NFJSaHZsRy10VW9xeG1jN09WNmd1SzFvLXhiM215M3hxQ3hqcUFSVlJ1el9tUFFIUVNPOEU?oc=5",
    "pub": "Sat, 24 Oct 2026 17:47:19 GMT"
@@ -57,16 +77,6 @@
    "t": "Iran: US-Geheimdienstchef Jay Clayton warnt vor »tödlichen Planungen gegen US-Bürger« - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT21HSDBGUTVEQk94VGxLcnhROUVneVFNSTFmcWprdFFOZU5OMnpIYTBLRmlTbHk0TkRKVUVnbDJUVEtEczg1NnJKNml3UnRFWnpUZ3RxRmx3RGFQWmFRbHFTWmEwcDdKN3RraDVsNElsN3VzZ3htQVAxbXFySXBkM0hiaktUUk1qVVUzaTM2dmpIREptZTFkWWVra1pwMnV6dHFqc2hyS1puOU9EaWF1TlNxd19pNzZUOUN0X1ZINHdXUFg0Vng3TXEtM0xYbk53ZlpuRnBhV0JfT2Q3TC1ybXJWSGNURm1rVVE?oc=5",
    "pub": "Sat, 24 Oct 2026 10:28:00 GMT"
-  },
-  {
-   "t": "US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHMxVTdxM1BtSmFlNWpSLUsyV1ZMaS10cDZGQWhCRFdnQW5SVGJtWjE3R0tSQXdULVpkVEFmeS1xSmFXT3JDRWhZOUZ0TEtiMDhDcVJVY212WWNuOGxfQmpOVUFPSU1FOTR2djN3V25MX0tDaU1tWTNtMUJocG12emxSYTUwZTRQM0lmaXh5ZjIxVmowSlNETURoc1huSUt2X213UjY2eVFuYUwzVzM1eFdYY0Z5emc?oc=5",
-   "pub": "Sun, 25 Oct 2026 04:11:57 GMT"
-  },
-  {
-   "t": "Der Iran vor dem nächsten Krieg: Teheran fährt wohl Drohnenproduktion hoch - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEI1VGlWenNKQ1ZQOXE3ZjBYY3ZJWTg4XzRlLW9rRlFUYzcycUFqNlJRNHZ1aURKeGNpQVZaLUxXbTBJXzZ2Mk0xMm1NMWdZaTJXak9LU3lSdGREZ2wzZW9GaWtTMnVNQVRxZ3Z5R3k0MmVmbWhWejBWV05WclR4Nm43Y1ZHYU5heUlzUFpXOXVYT3FCeTVxN2JWRmtOamlXbUVweDdDMjNxRHRvdnBYOHUtbVRfNjRwclNRdmtMS3pnTTB0aHhra05ZM2ZkS1doOEdsSmJDeWhuU01LTTlnVG90OFRVbVVJR0g3Ug?oc=5",
-   "pub": "Sat, 24 Oct 2026 12:03:20 GMT"
   },
   {
    "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
@@ -84,14 +94,9 @@
    "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
   },
   {
-   "t": "Krieg im Nahen Osten: Angriff auf den Iran vor den Wahlen? „Der Zeitpunkt rückt näher“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRUpwNk1OaHAzcHNiLUpWWllIUlk0cHFUTEJ0YzgyUERnTVdjRzhON3VyUkRCaEpoRkprMGVxdGcyclowVTh3aHFlQmxmM3J0c3lLLWV2UWI3NXlHaEZQdUdkSmZPdlptLThpeXBZQmxIZmZYNzVYbDZhMVZsenI2VUNRM0JWaDdKc0cyUU5HU1VYVUg0b25FLWN1aV9ScWVfN0k1bURaV05DM01PbkVMNlpQdUlYQXRRRVliY0IzSTF1MU9CYkM3NFMyM092dnRDeFczTzBlbXh1NFZFZ0dmcnZhRjd1MUMwY0E?oc=5",
-   "pub": "Fri, 23 Oct 2026 16:00:50 GMT"
-  },
-  {
-   "t": "Iran kündigt \"Vater aller Bomben\" an - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORV93YmpNM0NGQThkYktOUXdlQzI3U3pRX0tIZ0cySzBXNUtnb2hjZzdyNDIwOVZ3d19OQ0luYVNtal90d3U1cFVnQjNscFlKTlVZaDZVRWVocFZnazg5Yk5tYmJRdVdIZlZkVjdhQV8xak9Qdk41UFdGajR0WVQ4MF9oMlJyRXc?oc=5",
-   "pub": "Sun, 25 Oct 2026 05:13:47 GMT"
+   "t": "Drei Monate Iran-Krieg: \"Eine nie dagewesene Schwere liegt auf dem Land\" - SWR",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHY3MGowa3NaOWNVUUx5T0ZCLUg1bFNpUlYtSWFaZ2lFV2JyNHpjZW1pU1QxbFZLYkNZMG5mek9jS1d0SF9OaGxrX253SzhLRGUyRlphNVk2bXl1Q09lY2NiZURuNXNERU9BX0U1X2NnWE5OUkpyLXNRVjhua2FMRGF4YWZyVUhNS1BNUEU4V1lDUUxSMUFFM3RJWUJsZEh5ZEh6RXVkbFZ4M2l0aHN3Ulp4VUE?oc=5",
+   "pub": "Thu, 22 Oct 2026 22:00:00 GMT"
   },
   {
    "t": "USA und Israel bereiten offenbar neue Angriffe auf Iran vor - Jüdische Allgemeine",
@@ -102,11 +107,6 @@
    "t": "\"Unter keinen Umständen\": Iran verbietet US-Schiffen die Einfahrt - WEB.DE",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUM3Z3NibGFINnpjaXZfSnpFU1h0RUpWS0d3N21TU2dXdFd6MnpWbUZvT1BsdkYzTXY0VDJjLUMtc3QwMmhyNEQwaEJHNWRsT2hhNV9oWWNBX3pOUS1LSHM2ZDJydU1DLWhEX2U1THY4bGdSOGRCTFhhREZjWGVQX2M3TEhLRlFxdUdiSWFJRnZILWxoTUFNZFRxcU1WdmR3Qmc2ZQ?oc=5",
    "pub": "Sat, 24 Oct 2026 09:32:39 GMT"
-  },
-  {
-   "t": "\"Noch an diesem Wochenende\": US-Botschafter hält Angriff auf Iran für möglich - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUVIWE5uZGNsZF9XSkxobEhJTktnMGppZldKUGczOEc3V2Y2UU55UXNwYmZCTzl1T1o3NTBmMXNjaFBVdVBLcG5SeGU5SV9yZDVaOUtBYkZub2JWVzZ3UnFLSUNQbHBaY2pLdjlsQ0JiNzNJY3AxUVdSLWdzUWhyaHE4N1MycEFlZGdBc29GMUdkSlMzeU5BSnYxYw?oc=5",
-   "pub": "Sat, 24 Oct 2026 01:57:26 GMT"
   }
  ]
 }
