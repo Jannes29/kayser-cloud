@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-26T19:57:22Z",
+ "collected_at": "2026-10-26T23:54:53Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8275,
-   "chg1d_pct": 0.94
+   "price": 0.8277,
+   "chg1d_pct": 0.96
   },
   "USDJPY": {
-   "price": 157.483,
-   "chg1d_pct": 0.63
+   "price": 157.54,
+   "chg1d_pct": 0.67
   },
   "GBPCAD": {
-   "price": 1.8709,
-   "chg1d_pct": -0.31
+   "price": 1.8695,
+   "chg1d_pct": -0.38
   },
   "AUDJPY": {
-   "price": 110.541,
-   "chg1d_pct": 0.63
+   "price": 110.564,
+   "chg1d_pct": 0.65
   },
   "EURUSD": {
-   "price": 1.1184,
-   "chg1d_pct": -0.33
+   "price": 1.1176,
+   "chg1d_pct": -0.41
   },
   "GBPCHF": {
-   "price": 1.1043,
-   "chg1d_pct": 0.5
+   "price": 1.1044,
+   "chg1d_pct": 0.51
   },
   "WTI": {
-   "price": 101.84,
-   "chg1d_pct": -1.38
+   "price": 101.42,
+   "chg1d_pct": -1.79
   },
   "BRENT": {
-   "price": 110.73,
-   "chg1d_pct": -5.13
+   "price": 110.34,
+   "chg1d_pct": -5.47
   },
   "GOLD": {
-   "price": 4025.7,
-   "chg1d_pct": 0.44
+   "price": 4022.9,
+   "chg1d_pct": 0.37
   },
   "SPX_FUT": {
-   "price": 7715.75,
-   "chg1d_pct": 0.73
+   "price": 7722.75,
+   "chg1d_pct": 0.82
   },
   "NAS_FUT": {
-   "price": 29484.25,
-   "chg1d_pct": 1.26
+   "price": 29518.5,
+   "chg1d_pct": 1.38
   }
  },
  "headlines": [
@@ -79,24 +79,19 @@
    "pub": "Mon, 26 Oct 2026 08:41:00 GMT"
   },
   {
-   "t": "Strände nahe Dubai nach Ölverschmutzung offenbar infolge des Iran-Kriegs geschlossen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOS04U3l4eERFQjVGSG85ZmNDNDZOVUI2NWw0S1ZMWFQ0b05LQk1BRzc0cXdJZ2dXSmVWeTE1Q3NTZ09kUW4xSU1ld2RLSTROYjRuUEp6ZG9VdDBwWXA1MkVLVjVpY3BzNlluWGFvVmI0V3g5LVA3bU54SDZtMDRmQTdXX3FZQ2tUazBVQlJadllSdGpId3NELXJHbk9BRHA1VDBRMzQxTjMweEJMRVY3M0lmc0NKcElaQ2kwUlNndUd5Wkoy?oc=5",
-   "pub": "Mon, 26 Oct 2026 05:00:00 GMT"
-  },
-  {
    "t": "Fed, EZB und BoJ: Die Zinsentscheide der Zentralbanken stehen an - Der Aktionär",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOFA2MWtJenB5SjdWWUFRSXhWSDVYTEVyT2swSzBoUlR2blhSNHVmOFdmWldxTFE5Z2lZLWV2RFBTR2lhRENvWEZhbVdIamZjazVmWXVWLTdNeFRaRUJxeHl0b1JYMlJzQTcyQWREN3BZSEZfV2VCQnRUTGxwLUlFOC1YVWhweDNUSU9aN1cyajRVM2N4aVNORDhQV3hKc0ZpdTlzSzNnbWdXX2xZVVhLOGRLSGlwWmFhY1Uw?oc=5",
    "pub": "Mon, 26 Oct 2026 08:42:55 GMT"
   },
   {
-   "t": "Iran und Länder des Mekka-Abkommens vereinbaren weitere Gespräche über Zusammenarbeit - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNRdi1IYkpUX1owOVpOVmg5Y09aeHFYV2pnZnF5VXBOc29BNkxCT1VnNlJ6dHVVMTg4LUdaNlJuQlZEWmNKdHJQdXA5YThOLWxYZllIc0tjV3JHTm45Y21KLXBOMzNld1I0THc2b2lUQm5abW9aOU85MzNjUDJublBVNVhqTDY5QVlKS2h2ZDVJX3VOQWRzNHgzSVZ4YVQ5WmFBQmlWTGZVV2JHeE9wSE01dGd5SW9FRVVKNFpiUVlvaUVkOXlF?oc=5",
-   "pub": "Mon, 26 Oct 2026 17:42:31 GMT"
-  },
-  {
    "t": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFLaXhFX2IyTVRFdGtrWWdiWGFHLUR1YkE3aHFvdUxkbWhycUtmZE1ybUVoaHVXSU9Uay1yZWpOSTZtTzl4RVFMZDB1SVU5dWpmeVBsY05zbE8yT21ZNV9RN1c0X1Jva25WNXZYYzdnRG5BUE5KR3lHemdONjZvLTdFVlpjN2F3bnBkd2kzVFZURy1FUlF6bVJKUEpMSVdDaWl4VkY2a0V1ZGRNUFhnUV9HNWZ2dm9LYU4ybHd6YU9qUVBWdjRlNzhQMmE?oc=5",
    "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
+  },
+  {
+   "t": "Iran und Länder des Mekka-Abkommens vereinbaren weitere Gespräche über Zusammenarbeit - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNRdi1IYkpUX1owOVpOVmg5Y09aeHFYV2pnZnF5VXBOc29BNkxCT1VnNlJ6dHVVMTg4LUdaNlJuQlZEWmNKdHJQdXA5YThOLWxYZllIc0tjV3JHTm45Y21KLXBOMzNld1I0THc2b2lUQm5abW9aOU85MzNjUDJublBVNVhqTDY5QVlKS2h2ZDVJX3VOQWRzNHgzSVZ4YVQ5WmFBQmlWTGZVV2JHeE9wSE01dGd5SW9FRVVKNFpiUVlvaUVkOXlF?oc=5",
+   "pub": "Mon, 26 Oct 2026 17:42:31 GMT"
   },
   {
    "t": "AB-Chefvolkswirt Eric Winograd: Warum die Märkte das Risiko einer Fed-Zinserhöhung unterschätzen - e-fundresearch.com",
@@ -107,6 +102,11 @@
    "t": "Bericht: Hisbollah-Miliz rüstet gegen Israel mit Geldern aus dem Iran auf - n-tv.de",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVpRY0NmOEsxMHFNSjQxNGdMdWZOWGhGaTAxcFZfR2tpRnlUSXd0MENDbFhweVdvRFgwM2VUZnNneGVodG1UVUltS1c3MS1PS3JDekowQ2xRUGhESm5hZWdqTU5ScUU3dUJPcW9Jc0liSUs3aU1ZY1JHNUQ5SzBzSTNVRkdzWkpydk55QUNUV09fejBzWHE3N2ZPbE0xaUZNZXVteUdqMDFRWEgxclVLbVd1NERYLWc0?oc=5",
    "pub": "Mon, 26 Oct 2026 18:59:10 GMT"
+  },
+  {
+   "t": "Börse Aktuell: DAX im Aufwind: Fed-Zinsentscheid und Brasilien-Beben 🏛️ - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWVzeWZmOUJxZVB3VFZjZ3NUX0N6QzhoaWlSUF9waTdqUk1hcXRsSTQyal9ITnZyMXM5OWVvMVE2OUswNUhGX09fRUlrc01oeFlCZGFaMUJqSWlVTHZlRkFXbldxRy01cHNjbjJON0o3OEVRSE5hOG10SWp4SWdBRV93SmpGRTJhZ21UNTNJTGFOc2c0LUd1eGVPbmI4U0xpdnY5Znk4V2kyTTlWVWlIUWZWRkpjdnBL?oc=5",
+   "pub": "Mon, 26 Oct 2026 14:04:00 GMT"
   }
  ]
 }
