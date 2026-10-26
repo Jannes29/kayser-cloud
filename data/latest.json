@@ -1,53 +1,78 @@
 {
- "collected_at": "2026-10-26T13:17:48Z",
+ "collected_at": "2026-10-26T19:57:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8263,
-   "chg1d_pct": 0.79
+   "price": 0.8275,
+   "chg1d_pct": 0.94
   },
   "USDJPY": {
-   "price": 157.439,
-   "chg1d_pct": 0.6
+   "price": 157.483,
+   "chg1d_pct": 0.63
   },
   "GBPCAD": {
-   "price": 1.8717,
-   "chg1d_pct": -0.26
+   "price": 1.8709,
+   "chg1d_pct": -0.31
   },
   "AUDJPY": {
-   "price": 110.57,
-   "chg1d_pct": 0.65
+   "price": 110.541,
+   "chg1d_pct": 0.63
   },
   "EURUSD": {
-   "price": 1.1189,
-   "chg1d_pct": -0.29
+   "price": 1.1184,
+   "chg1d_pct": -0.33
   },
   "GBPCHF": {
-   "price": 1.1026,
-   "chg1d_pct": 0.35
+   "price": 1.1043,
+   "chg1d_pct": 0.5
   },
   "WTI": {
-   "price": 101.57,
-   "chg1d_pct": -1.65
+   "price": 101.84,
+   "chg1d_pct": -1.38
   },
   "BRENT": {
-   "price": 110.36,
-   "chg1d_pct": -5.45
+   "price": 110.73,
+   "chg1d_pct": -5.13
   },
   "GOLD": {
-   "price": 4031.1,
-   "chg1d_pct": 0.58
+   "price": 4025.7,
+   "chg1d_pct": 0.44
   },
   "SPX_FUT": {
-   "price": 7683.0,
-   "chg1d_pct": 0.3
+   "price": 7715.75,
+   "chg1d_pct": 0.73
   },
   "NAS_FUT": {
-   "price": 29275.75,
-   "chg1d_pct": 0.54
+   "price": 29484.25,
+   "chg1d_pct": 1.26
   }
  },
  "headlines": [
+  {
+   "t": "Großangriff gegen den Iran geplant? Trump riskiert Verschärfung der globalen Wirtschaftskrise - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzRUdWZiOGVKWEc5c3o2NTduQ3Nya0xfV0FDcTVGLS1PN1F2VlBVbVNWamwtZmZGWGkwVWt4cHdDQ0tuVkRBckZqWGl3R0ZsT3RsdHNfZmprdjVCSW1Va29HTjBtaGRJRXhWSmM3R3FOVlNwM055QjR4UHlPRTg5cVRmdmRtNkIwOUUtWDEzQmtvbGFHN21uNEpVQTJkVVFNTFQ0azI4RmVWdVludVRtTmdYMEhUWTVkZ01EVmZmZlBpTTlvUTNJeg?oc=5",
+   "pub": "Mon, 26 Oct 2026 17:02:39 GMT"
+  },
+  {
+   "t": "Deutschland füllt, der Iran blockiert - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHpsNkhxUWJxTldickhYdWdQTnhPQnVzelNsNU5TSXFYTjVyUFpWOXFsZm90YlVfalFzUWszcUdIUTVscTRmU2JPaEFVUzh5Qjdaem9DQWYweTAyWHpBdlZUTThMUDZZelBsS1hTSV9ZUy1XeDgzeUZQZmZvQjZFNWs5dw?oc=5",
+   "pub": "Mon, 26 Oct 2026 14:30:03 GMT"
+  },
+  {
+   "t": "Militärstrategien von USA und Iran: Wie alte Mythen neue Kriege legitimieren - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbXFaTHZxb1VQRV9Leno2blFfNVdxT21JNTZuUDZHenFHMnNsN1ZZMHBHRDhnQnJ1NXhYWWstS0NDUWVGWFhUcC1xWmc3TWZrMHBHaklMTDdnVVJzT3lEQU43QzFVSTdmaGVrVg?oc=5",
+   "pub": "Mon, 26 Oct 2026 06:18:31 GMT"
+  },
+  {
+   "t": "Tee, Kunst und Protest: Diese Malerin kam es aus dem Iran nach Bremen - buten un binnen",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDluNXBWZHZUYmthRnlJNXJQLWtaMjZhVmstZkFsNWpRMEpVYVlHY2hKNUVOYVRIb0JuX3lKMEx2Ny14ZjRteEVZMkJFSlo0bGZmYlJNdWtLVUp5eV9JYTdtMUtHNTAxU2ZyOGdvMkpISC0zaUhVZjdBajlIOEc4Nkhqa2R6TFVQeUxLODZ4QVViQURST2dnT1dB?oc=5",
+   "pub": "Mon, 26 Oct 2026 19:18:31 GMT"
+  },
+  {
+   "t": "Huthi melden neue Angriffe auf Saudi-Arabiens Ölroute – Trump offenbar vor Iran-Entscheidung - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTdHSlB3Uk95bUtTenVmRmIzTmRJNkJUeUtlTy1kOVJiQVVvazltLWlmX3BFeDRsakR1SmhhUDZXSlNnMDl2WHBqVmdleS1ZUEwxN2dIX0YtSHowX0VGSDFmN3ZSdXAzZUlGQ0VKYXVXLUpHbTMtSlFSQ1h1RmY1aXc5NG1JbnlkeE5HYy15SlE1aFhyek5TYjFvTzdCZXhDeFpEUWwzR19yMHg2?oc=5",
+   "pub": "Mon, 26 Oct 2026 11:23:38 GMT"
+  },
   {
    "t": "Israel: Israel will Iran vor der Wahl nicht mehr angreifen - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1gwUDA0aGJZcVBzZzRCSUV3dkRWT24xSHZkSkZvSHlyT3AwY3JzX3dvMlRYeFJ2c2htLWxVVmkxWGh4QlRDTUJQODZpbWt4NlVxYXhGb1pySEYtUEEwR1FZenRENlNVZ0RqSEs5RGQ2d1VSQjdYQVd4V1ZsWF9TRnpodmFzZEpFQ2FQRHR0ODlYcjBMQk10WVhHNkV4NVlSMktRSWlscjl5YXRwZDVfYTBn?oc=5",
@@ -59,24 +84,19 @@
    "pub": "Mon, 26 Oct 2026 05:00:00 GMT"
   },
   {
-   "t": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFLaXhFX2IyTVRFdGtrWWdiWGFHLUR1YkE3aHFvdUxkbWhycUtmZE1ybUVoaHVXSU9Uay1yZWpOSTZtTzl4RVFMZDB1SVU5dWpmeVBsY05zbE8yT21ZNV9RN1c0X1Jva25WNXZYYzdnRG5BUE5KR3lHemdONjZvLTdFVlpjN2F3bnBkd2kzVFZURy1FUlF6bVJKUEpMSVdDaWl4VkY2a0V1ZGRNUFhnUV9HNWZ2dm9LYU4ybHd6YU9qUVBWdjRlNzhQMmE?oc=5",
-   "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
-  },
-  {
-   "t": "Ölpreise starten mit deutlichen Verlusten in die neue Handelswoche - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGcza3VVaDg3YWhYSnZxeGhXQ2lHMUdURV9qSnJVRDF5ZFZwWjRNRFFjNjJwSzh3NjRRNi1wOTFaZndZZjMyaFpKSVhoaHlRTk1nT19MYmM3enU3WUdHRzhVSGpFZ1Btd2U5MVhDbG1SVVVZQXI5MTlrMlc4RFlHb1ZuM3NMY1lIMGtubDEwS1hoVmdBVWVvdTFFV2duaXFEU0hnMkpvX0ZILTBwel93R2FUN3pnMG03LW5RM1VCeVZaQXhadVNv?oc=5",
-   "pub": "Mon, 26 Oct 2026 12:56:11 GMT"
-  },
-  {
-   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUR3NERoal9uYWdRcnc2WXNsaWhYQmRXRTdMR2JXWVUxbFVLN1RjeUlBZ2Y4THRPa3dmc2ZfWk5iSEExTU9WVTBxRTlUaUh3OTVpeVkxT0NMeGc5UU51RFVHVTRPZlI3WEVIMEZkMmJDY09HaVU2S2pUWlMwNXJ3dW53aFlZaUpmMG55RlNkTl9HVUFhazlkVS1vRFV4dmQ0QkkwMG8xVmIydjRYaFZZOEhJNXdLTEYtOUtscEkwRzJVSWVDNHNieW9OYXFlTFE?oc=5",
-   "pub": "Mon, 26 Oct 2026 09:43:17 GMT"
-  },
-  {
    "t": "Fed, EZB und BoJ: Die Zinsentscheide der Zentralbanken stehen an - Der Aktionär",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOFA2MWtJenB5SjdWWUFRSXhWSDVYTEVyT2swSzBoUlR2blhSNHVmOFdmWldxTFE5Z2lZLWV2RFBTR2lhRENvWEZhbVdIamZjazVmWXVWLTdNeFRaRUJxeHl0b1JYMlJzQTcyQWREN3BZSEZfV2VCQnRUTGxwLUlFOC1YVWhweDNUSU9aN1cyajRVM2N4aVNORDhQV3hKc0ZpdTlzSzNnbWdXX2xZVVhLOGRLSGlwWmFhY1Uw?oc=5",
    "pub": "Mon, 26 Oct 2026 08:42:55 GMT"
+  },
+  {
+   "t": "Iran und Länder des Mekka-Abkommens vereinbaren weitere Gespräche über Zusammenarbeit - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNRdi1IYkpUX1owOVpOVmg5Y09aeHFYV2pnZnF5VXBOc29BNkxCT1VnNlJ6dHVVMTg4LUdaNlJuQlZEWmNKdHJQdXA5YThOLWxYZllIc0tjV3JHTm45Y21KLXBOMzNld1I0THc2b2lUQm5abW9aOU85MzNjUDJublBVNVhqTDY5QVlKS2h2ZDVJX3VOQWRzNHgzSVZ4YVQ5WmFBQmlWTGZVV2JHeE9wSE01dGd5SW9FRVVKNFpiUVlvaUVkOXlF?oc=5",
+   "pub": "Mon, 26 Oct 2026 17:42:31 GMT"
+  },
+  {
+   "t": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFLaXhFX2IyTVRFdGtrWWdiWGFHLUR1YkE3aHFvdUxkbWhycUtmZE1ybUVoaHVXSU9Uay1yZWpOSTZtTzl4RVFMZDB1SVU5dWpmeVBsY05zbE8yT21ZNV9RN1c0X1Jva25WNXZYYzdnRG5BUE5KR3lHemdONjZvLTdFVlpjN2F3bnBkd2kzVFZURy1FUlF6bVJKUEpMSVdDaWl4VkY2a0V1ZGRNUFhnUV9HNWZ2dm9LYU4ybHd6YU9qUVBWdjRlNzhQMmE?oc=5",
+   "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
   },
   {
    "t": "AB-Chefvolkswirt Eric Winograd: Warum die Märkte das Risiko einer Fed-Zinserhöhung unterschätzen - e-fundresearch.com",
@@ -84,29 +104,9 @@
    "pub": "Mon, 26 Oct 2026 11:45:00 GMT"
   },
   {
-   "t": "USA könnten Iran binnen 96 Stunden angreifen - Watson",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTVuejVPY2tPWTRNYmdyY2J1aThfSzNndDdJMHIwN2x3OTVfYjBzVjNkUUtRYTdwUWdEUk5hNF9QUEtveTFPemdLX1RlcENuUzhsdUpJeWxlaDVqdXdFSk5weVdnOWRaUmNhalJJdUViSUo4Ym45b253bll0RFAxWTIwRld6Y1RhTDJ1dVF4ZFplTXlwdms2THdzMA?oc=5",
-   "pub": "Mon, 26 Oct 2026 05:40:52 GMT"
-  },
-  {
-   "t": "Ölpreis fällt über sechs Prozent vom Kriegsniveau, Iran-Diplomatie zieht an - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0UtLU9mdU1WblNWTEJpb0hBMkZNeDFpOTBtU00zbFlROU1VX3ZRWlNvYkozS1lLbXJBNGkzdm92R3NVWWxZRzM3elVXWnlNNW8tV0cwLW53bXpzOWRyMlBacTc2ZmFpMUxIOXhkaDd5YmlSUDhxa2tybFdsZWV5ZExVZGNNejA4MjRJSU5MQUxscjdPTFhlbHVCdi1YT3VtYTdxd19MZWpvSE1iVmc?oc=5",
-   "pub": "Mon, 26 Oct 2026 10:20:19 GMT"
-  },
-  {
-   "t": "Militärstrategien von USA und Iran: Wie alte Mythen neue Kriege legitimieren - taz.de",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbXFaTHZxb1VQRV9Leno2blFfNVdxT21JNTZuUDZHenFHMnNsN1ZZMHBHRDhnQnJ1NXhYWWstS0NDUWVGWFhUcC1xWmc3TWZrMHBHaklMTDdnVVJzT3lEQU43QzFVSTdmaGVrVg?oc=5",
-   "pub": "Mon, 26 Oct 2026 06:18:31 GMT"
-  },
-  {
-   "t": "Huthi melden neue Angriffe auf Saudi-Arabiens Ölroute – Trump offenbar vor Iran-Entscheidung - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTdHSlB3Uk95bUtTenVmRmIzTmRJNkJUeUtlTy1kOVJiQVVvazltLWlmX3BFeDRsakR1SmhhUDZXSlNnMDl2WHBqVmdleS1ZUEwxN2dIX0YtSHowX0VGSDFmN3ZSdXAzZUlGQ0VKYXVXLUpHbTMtSlFSQ1h1RmY1aXc5NG1JbnlkeE5HYy15SlE1aFhyek5TYjFvTzdCZXhDeFpEUWwzR19yMHg2?oc=5",
-   "pub": "Mon, 26 Oct 2026 11:23:38 GMT"
-  },
-  {
-   "t": "Vor Wahlen in Israel Militär soll Netanjahu Gefolgschaft für neue Angriffe auf Iran verweigern - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUkZkLV9odmdGN0xud0s3VnV3Q1gyZkQ1VEFSYTFqSkk1d0g4V2pORXMzTDJ6aTBueWdaOFVTVmNNRzZfMTZtb0VpdzZSOEJFMnJzcjBGNnVVeHU0dXB3STY5dU1CVzB3cUJOaDduMEx6Q0w2N3FZSUIxYU5ra3N3Vkl4aXc2RTd5UXhtVVNoX0ZZWTdKeW5KZkNCUkVBcjBBWTJjanVVVndYZ1I0ZWhWbWQ1dkU0T1JUazdUMHZkM2wzNC1wVzhnbHhqbEhla1puYlZuY0pIampFbWNCVW9DbVVHNGhnSnc?oc=5",
-   "pub": "Mon, 26 Oct 2026 12:45:07 GMT"
+   "t": "Bericht: Hisbollah-Miliz rüstet gegen Israel mit Geldern aus dem Iran auf - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVpRY0NmOEsxMHFNSjQxNGdMdWZOWGhGaTAxcFZfR2tpRnlUSXd0MENDbFhweVdvRFgwM2VUZnNneGVodG1UVUltS1c3MS1PS3JDekowQ2xRUGhESm5hZWdqTU5ScUU3dUJPcW9Jc0liSUs3aU1ZY1JHNUQ5SzBzSTNVRkdzWkpydk55QUNUV09fejBzWHE3N2ZPbE0xaUZNZXVteUdqMDFRWEgxclVLbVd1NERYLWc0?oc=5",
+   "pub": "Mon, 26 Oct 2026 18:59:10 GMT"
   }
  ]
 }
