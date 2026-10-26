@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-26T01:12:22Z",
+ "collected_at": "2026-10-26T06:16:50Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8236,
-   "chg1d_pct": 0.46
+   "price": 0.8242,
+   "chg1d_pct": 0.54
   },
   "USDJPY": {
-   "price": 156.931,
-   "chg1d_pct": 0.28
+   "price": 157.106,
+   "chg1d_pct": 0.39
   },
   "GBPCAD": {
-   "price": 1.8739,
-   "chg1d_pct": -0.15
+   "price": 1.8737,
+   "chg1d_pct": -0.16
   },
   "AUDJPY": {
-   "price": 110.319,
-   "chg1d_pct": 0.42
+   "price": 110.342,
+   "chg1d_pct": 0.45
   },
   "EURUSD": {
-   "price": 1.1225,
-   "chg1d_pct": 0.03
+   "price": 1.122,
+   "chg1d_pct": -0.01
   },
   "GBPCHF": {
-   "price": 1.1023,
-   "chg1d_pct": 0.32
+   "price": 1.1019,
+   "chg1d_pct": 0.28
   },
   "WTI": {
-   "price": 101.73,
-   "chg1d_pct": -1.49
+   "price": 100.92,
+   "chg1d_pct": -2.28
   },
   "BRENT": {
-   "price": 110.29,
-   "chg1d_pct": -5.51
+   "price": 109.53,
+   "chg1d_pct": -6.16
   },
   "GOLD": {
-   "price": 3997.2,
-   "chg1d_pct": -0.27
+   "price": 4027.6,
+   "chg1d_pct": 0.49
   },
   "SPX_FUT": {
-   "price": 7661.5,
-   "chg1d_pct": 0.02
+   "price": 7676.5,
+   "chg1d_pct": 0.22
   },
   "NAS_FUT": {
-   "price": 29101.75,
-   "chg1d_pct": -0.05
+   "price": 29152.5,
+   "chg1d_pct": 0.12
   }
  },
  "headlines": [
@@ -54,34 +54,14 @@
    "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
   },
   {
-   "t": "Iran: Mordanschläge auf US-Diplomaten geplant – auch Europa im Visier - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDVVbWFzNzh0WXBlM2Y0QUIyb1locjdyTmdsS29XZFlEaVBERVJUR2c0RlM1UW1wc3ltaXptWFpieGtsV2ZKUUJxVkt2c0pKMTNielNSbjVMNzdiSTFFVTdrdlZuX2RQZkRVUG9EWDlmVkFVcFFtQzZiamYxeVlyZlp1VTZBNEc5ZEl5Wm9nek9odWxL?oc=5",
-   "pub": "Sun, 25 Oct 2026 06:52:26 GMT"
-  },
-  {
-   "t": "Iran kündigt \"Vater aller Bomben\" an - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORV93YmpNM0NGQThkYktOUXdlQzI3U3pRX0tIZ0cySzBXNUtnb2hjZzdyNDIwOVZ3d19OQ0luYVNtal90d3U1cFVnQjNscFlKTlVZaDZVRWVocFZnazg5Yk5tYmJRdVdIZlZkVjdhQV8xak9Qdk41UFdGajR0WVQ4MF9oMlJyRXc?oc=5",
-   "pub": "Sun, 25 Oct 2026 05:13:47 GMT"
-  },
-  {
-   "t": "Neuer Iran-Krieg noch vor den Wahlen? Netanjahu fordert Sturz des Regimes – Alarm bei USA - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXJFd2loVjI4SmZ1SnBBRnV3ajBObjBsaWVMYjUxU3lKN0hUZFNKakl3UDRhdmp6RkxUcE9sdzZ0QzJoRFpCZFprS214U3NFYlpfcWRyVWoxcmw1aEwwTGwxbWdKdnJWSGFEaVQ3YVU1b0hpOC1yU1dvSV83Y1BubWxlY0VxRFE1d2VLWDNmdk5pcjhvdW9QRERUV2t4REhQSl9HcS1fdGY?oc=5",
-   "pub": "Sun, 25 Oct 2026 07:24:33 GMT"
-  },
-  {
-   "t": "Report Mainz: Iran - Die Spur des Geldes - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RSmZ4MW5WQUtIVXBTU1VHMVhxeFFJb2M3TlYtTXRGS29VZk1ZSkJldS10NkxJV1BURWtwbUhtTFdtTkQyV1RFV3dZb2luUXFOcWRlSEw1NnZrdUlLbFI0?oc=5",
-   "pub": "Thu, 22 Oct 2026 14:32:37 GMT"
+   "t": "Strände nahe Dubai nach Ölverschmutzung offenbar infolge des Iran-Kriegs geschlossen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOS04U3l4eERFQjVGSG85ZmNDNDZOVUI2NWw0S1ZMWFQ0b05LQk1BRzc0cXdJZ2dXSmVWeTE1Q3NTZ09kUW4xSU1ld2RLSTROYjRuUEp6ZG9VdDBwWXA1MkVLVjVpY3BzNlluWGFvVmI0V3g5LVA3bU54SDZtMDRmQTdXX3FZQ2tUazBVQlJadllSdGpId3NELXJHbk9BRHA1VDBRMzQxTjMweEJMRVY3M0lmc0NKcElaQ2kwUlNndUd5Wkoy?oc=5",
+   "pub": "Mon, 26 Oct 2026 05:00:00 GMT"
   },
   {
    "t": "Politischer Widerstand im Iran: Der Westen sieht weg - SWR",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZLc0J4T01tLTdRZU1TeUlnYlotZGZvLWFNN1JIMmgteENRUEplT1A4WV92a2IyWmJaOW9FWVdYb1NwUWhCRk9VNFRkRk5FTXNQRldHU2NtbXdoU1dyemZkRkZDTXRWTjFHTDlBVFFsVDlwUVBpNlROSEdpR2JiOXBlR2ZCdFhsa2t5V3M3X0lORE00Y3gwQWdLQmc2aUdaVGc?oc=5",
    "pub": "Fri, 23 Oct 2026 08:05:00 GMT"
-  },
-  {
-   "t": "Angriff auf Tanker im Iran-Krieg: Emirate schließen Strände wegen Ölverschmutzung - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmNCV012cko2eXRwb3VZTTF1RWdJVUh3QjJ3WGE2SHlpRlFhc0lQRzR2TnpHdnAxTUpnMVFxVXFSWDVmajdIdE5hb2xfYmNNQUJzcWl2ZU5tR1RsSlNhWGZuZ0hQMWhqbGJtTVN6ZnhKbURSRXN4d1djYTVvZEhEYXpYQlZDWHN3MDZnbUdENkVEcURXUDhKZk5n?oc=5",
-   "pub": "Sun, 25 Oct 2026 13:56:24 GMT"
   },
   {
    "t": "Greift Israel den Iran vor den Wahlen an? Jetzt spricht Armee-Chef Zamir - Jüdische Allgemeine",
@@ -94,19 +74,39 @@
    "pub": "Sat, 24 Oct 2026 15:37:16 GMT"
   },
   {
-   "t": "Trump: Iran könnte noch heute angegriffen werden, hält der Bitcoin-Kurs die 80.000-USD-Marke? - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTkRBczV4bjlPOExQV2FOTU1kWWhwNkttQVVlR1pnYzF6NC1yNDY2Q3NpNzJXRHFxNTIxUXFrbTk5TWVnejBKLWk4UkpXY1pySXk2YzFabkNWcjlDN1FLSVVPMENER2d2S3pv?oc=5",
-   "pub": "Sun, 25 Oct 2026 06:38:00 GMT"
+   "t": "Angriff auf Tanker im Iran-Krieg: Emirate schließen Strände wegen Ölverschmutzung - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmNCV012cko2eXRwb3VZTTF1RWdJVUh3QjJ3WGE2SHlpRlFhc0lQRzR2TnpHdnAxTUpnMVFxVXFSWDVmajdIdE5hb2xfYmNNQUJzcWl2ZU5tR1RsSlNhWGZuZ0hQMWhqbGJtTVN6ZnhKbURSRXN4d1djYTVvZEhEYXpYQlZDWHN3MDZnbUdENkVEcURXUDhKZk5n?oc=5",
+   "pub": "Sun, 25 Oct 2026 13:56:24 GMT"
   },
   {
-   "t": "Iran-Krieg - Strände in Emiraten wegen Ölverschmutzung geschlossen - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDFDcjdnU2VHY2ZWM2RRTUxwMElaTzU1dTlNdGlfZmFIOVdIZFVhMnl4WXNsWlJxT0FINGVrcUJXY1RZaUFmYzVrTHBQMlRuQTd6cXdQZ1lKNTRXWi10Nl80dkZHdmxwSlhsZ24wYlJFOW5YVUEwczgxejJSaS1VSTI0M3VxQzdLeU1BdHZIODY1SHN1M2V2QjFGVQ?oc=5",
-   "pub": "Sun, 25 Oct 2026 13:04:45 GMT"
+   "t": "USA könnten Iran binnen 96 Stunden angreifen - Watson",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeTVuejVPY2tPWTRNYmdyY2J1aThfSzNndDdJMHIwN2x3OTVfYjBzVjNkUUtRYTdwUWdEUk5hNF9QUEtveTFPemdLX1RlcENuUzhsdUpJeWxlaDVqdXdFSk5weVdnOWRaUmNhalJJdUViSUo4Ym45b253bll0RFAxWTIwRld6Y1RhTDJ1dVF4ZFplTXlwdms2THdzMA?oc=5",
+   "pub": "Mon, 26 Oct 2026 05:40:52 GMT"
   },
   {
-   "t": "Vor Wahl in Israel: Golfstaaten stellen sich auf möglichen US-Iran-Großkrieg ein - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOVk1OTlLWE5iTXBYdk5lXzZaSGQ4bXFqRUg1aGRoaFBVblh0bUR5cnJ2RE95ZWJkdmVlZmo5QzI1Mk1LTE5rX3pnQlAyVDZLRXk0WE03TkF3V2hYVFl4UFBBWXo4bUxZQTBnOTVCV2FoVi1wWHlQZy1zT0dtTW9KVUliRmFaTWdhU3NFV01mVWVnOGd0ZVN2LTRBbVN2cWNEdmppUDVVU2RaRWFyeDJTS0xhcGV1QQ?oc=5",
-   "pub": "Thu, 22 Oct 2026 13:44:32 GMT"
+   "t": "US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1lBb3AxcjhWLU90RVZ0dnI0WDhwbWw0YlRnMlhKUUduM201dWtMVWdnbFJJZGlVNE1sRThzUm00cWlIMF93RjFUMGhkZ1RvS19xRWFGRl94bDh4Tl9IT3JjcHBEWUM4YzVkWXJQTE5kTFRXN0dFamdtUUFxb0RMT2NCUFpkVGE0Sk5tZFFrblJERjM0bm1kbE12SnZwQlpWUkxaSl8yMDJ1QndNeFE?oc=5",
+   "pub": "Sat, 24 Oct 2026 05:13:47 GMT"
+  },
+  {
+   "t": "Iran: US-Geheimdienstchef Jay Clayton warnt vor »tödlichen Planungen gegen US-Bürger« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT21HSDBGUTVEQk94VGxLcnhROUVneVFNSTFmcWprdFFOZU5OMnpIYTBLRmlTbHk0TkRKVUVnbDJUVEtEczg1NnJKNml3UnRFWnpUZ3RxRmx3RGFQWmFRbHFTWmEwcDdKN3RraDVsNElsN3VzZ3htQVAxbXFySXBkM0hiaktUUk1qVVUzaTM2dmpIREptZTFkWWVra1pwMnV6dHFqc2hyS1puOU9EaWF1TlNxd19pNzZUOUN0X1ZINHdXUFg0Vng3TXEtM0xYbk53ZlpuRnBhV0JfT2Q3TC1ybXJWSGNURm1rVVE?oc=5",
+   "pub": "Sat, 24 Oct 2026 10:28:00 GMT"
+  },
+  {
+   "t": "\"Unter keinen Umständen\": Iran verbietet US-Schiffen die Einfahrt - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdUM3Z3NibGFINnpjaXZfSnpFU1h0RUpWS0d3N21TU2dXdFd6MnpWbUZvT1BsdkYzTXY0VDJjLUMtc3QwMmhyNEQwaEJHNWRsT2hhNV9oWWNBX3pOUS1LSHM2ZDJydU1DLWhEX2U1THY4bGdSOGRCTFhhREZjWGVQX2M3TEhLRlFxdUdiSWFJRnZILWxoTUFNZFRxcU1WdmR3Qmc2ZQ?oc=5",
+   "pub": "Sat, 24 Oct 2026 09:32:39 GMT"
+  },
+  {
+   "t": "\"Fortgeschrittenes Stadium\": Geheimdienst-Memo: Iran plant Anschläge auf US-Bürger - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmZ2RjBVbUdkdU9JYlQyMEZUOTdOQ0llRDVSWWY2VV96OTlEME03dVRoTDdyVUZNbTNFUnctTGtqNi1NMVJFTTdPZF9sNVhzN3ZHTHhVSXVhS3I2dEtKcUJhMkR3dFBlLUQ5NFJSaHZsRy10VW9xeG1jN09WNmd1SzFvLXhiM215M3hxQ3hqcUFSVlJ1el9tUFFIUVNPOEU?oc=5",
+   "pub": "Sat, 24 Oct 2026 17:47:19 GMT"
+  },
+  {
+   "t": "Iran: In Teheran ist Donald Trump plötzlich populär – als Parodie hinter Gittern - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOHRXVlVKUmlUWUdlQUhtV0F6MHBuR0R1bF9ieFoycWp6dUxpSXNlUHVYZURNdTN2ZGNxTTh1dE1kR1N5TEliRWxlVi1yaTJONVYyOFNCWHFUcWNFWm5jZG9OYmJ6amdlZ2JucEcxNUdFUUpyT2d5WHJrN1lGRXBfdnp0RC03dkpOT0pvNjNWR0lkbDNEVjMxVk94RVRzX0xwLVFwS3FDamZFZ2RpZU94ak5vOGtnQlg4ZFZzWDd5UTZnaldhWlVfbUJGRFNxbDlhX05EM3RPZEw0cjdTMkJGQTR3RQ?oc=5",
+   "pub": "Sat, 24 Oct 2026 12:33:00 GMT"
   }
  ]
 }
