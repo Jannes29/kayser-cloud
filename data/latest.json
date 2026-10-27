@@ -1,112 +1,55 @@
 {
- "collected_at": "2026-10-26T23:54:53Z",
+ "collected_at": "2026-10-27T05:08:31Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8277,
-   "chg1d_pct": 0.96
+   "price": 0.8279,
+   "chg1d_pct": 0.49
   },
   "USDJPY": {
-   "price": 157.54,
-   "chg1d_pct": 0.67
-  },
-  "GBPCAD": {
-   "price": 1.8695,
-   "chg1d_pct": -0.38
-  },
-  "AUDJPY": {
-   "price": 110.564,
-   "chg1d_pct": 0.65
-  },
-  "EURUSD": {
-   "price": 1.1176,
-   "chg1d_pct": -0.41
-  },
-  "GBPCHF": {
-   "price": 1.1044,
+   "price": 157.626,
    "chg1d_pct": 0.51
   },
+  "GBPCAD": {
+   "price": 1.8691,
+   "chg1d_pct": -0.28
+  },
+  "AUDJPY": {
+   "price": 110.682,
+   "chg1d_pct": 0.4
+  },
+  "EURUSD": {
+   "price": 1.1171,
+   "chg1d_pct": -0.42
+  },
+  "GBPCHF": {
+   "price": 1.1039,
+   "chg1d_pct": 0.17
+  },
   "WTI": {
-   "price": 101.42,
-   "chg1d_pct": -1.79
+   "price": 100.69,
+   "chg1d_pct": -1.05
   },
   "BRENT": {
-   "price": 110.34,
-   "chg1d_pct": -5.47
+   "price": 109.64,
+   "chg1d_pct": -5.33
   },
   "GOLD": {
-   "price": 4022.9,
-   "chg1d_pct": 0.37
+   "price": 4023.7,
+   "chg1d_pct": -0.36
   },
   "SPX_FUT": {
-   "price": 7722.75,
-   "chg1d_pct": 0.82
+   "price": 7721.25,
+   "chg1d_pct": 0.09
   },
   "NAS_FUT": {
-   "price": 29518.5,
-   "chg1d_pct": 1.38
+   "price": 29413.25,
+   "chg1d_pct": -0.08
   }
  },
  "headlines": [
   {
-   "t": "Großangriff gegen den Iran geplant? Trump riskiert Verschärfung der globalen Wirtschaftskrise - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzRUdWZiOGVKWEc5c3o2NTduQ3Nya0xfV0FDcTVGLS1PN1F2VlBVbVNWamwtZmZGWGkwVWt4cHdDQ0tuVkRBckZqWGl3R0ZsT3RsdHNfZmprdjVCSW1Va29HTjBtaGRJRXhWSmM3R3FOVlNwM055QjR4UHlPRTg5cVRmdmRtNkIwOUUtWDEzQmtvbGFHN21uNEpVQTJkVVFNTFQ0azI4RmVWdVludVRtTmdYMEhUWTVkZ01EVmZmZlBpTTlvUTNJeg?oc=5",
-   "pub": "Mon, 26 Oct 2026 17:02:39 GMT"
-  },
-  {
-   "t": "Deutschland füllt, der Iran blockiert - Südtirol News",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHpsNkhxUWJxTldickhYdWdQTnhPQnVzelNsNU5TSXFYTjVyUFpWOXFsZm90YlVfalFzUWszcUdIUTVscTRmU2JPaEFVUzh5Qjdaem9DQWYweTAyWHpBdlZUTThMUDZZelBsS1hTSV9ZUy1XeDgzeUZQZmZvQjZFNWs5dw?oc=5",
-   "pub": "Mon, 26 Oct 2026 14:30:03 GMT"
-  },
-  {
-   "t": "Militärstrategien von USA und Iran: Wie alte Mythen neue Kriege legitimieren - taz.de",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbXFaTHZxb1VQRV9Leno2blFfNVdxT21JNTZuUDZHenFHMnNsN1ZZMHBHRDhnQnJ1NXhYWWstS0NDUWVGWFhUcC1xWmc3TWZrMHBHaklMTDdnVVJzT3lEQU43QzFVSTdmaGVrVg?oc=5",
-   "pub": "Mon, 26 Oct 2026 06:18:31 GMT"
-  },
-  {
-   "t": "Tee, Kunst und Protest: Diese Malerin kam es aus dem Iran nach Bremen - buten un binnen",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDluNXBWZHZUYmthRnlJNXJQLWtaMjZhVmstZkFsNWpRMEpVYVlHY2hKNUVOYVRIb0JuX3lKMEx2Ny14ZjRteEVZMkJFSlo0bGZmYlJNdWtLVUp5eV9JYTdtMUtHNTAxU2ZyOGdvMkpISC0zaUhVZjdBajlIOEc4Nkhqa2R6TFVQeUxLODZ4QVViQURST2dnT1dB?oc=5",
-   "pub": "Mon, 26 Oct 2026 19:18:31 GMT"
-  },
-  {
-   "t": "Huthi melden neue Angriffe auf Saudi-Arabiens Ölroute – Trump offenbar vor Iran-Entscheidung - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTdHSlB3Uk95bUtTenVmRmIzTmRJNkJUeUtlTy1kOVJiQVVvazltLWlmX3BFeDRsakR1SmhhUDZXSlNnMDl2WHBqVmdleS1ZUEwxN2dIX0YtSHowX0VGSDFmN3ZSdXAzZUlGQ0VKYXVXLUpHbTMtSlFSQ1h1RmY1aXc5NG1JbnlkeE5HYy15SlE1aFhyek5TYjFvTzdCZXhDeFpEUWwzR19yMHg2?oc=5",
-   "pub": "Mon, 26 Oct 2026 11:23:38 GMT"
-  },
-  {
-   "t": "Israel: Israel will Iran vor der Wahl nicht mehr angreifen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc1gwUDA0aGJZcVBzZzRCSUV3dkRWT24xSHZkSkZvSHlyT3AwY3JzX3dvMlRYeFJ2c2htLWxVVmkxWGh4QlRDTUJQODZpbWt4NlVxYXhGb1pySEYtUEEwR1FZenRENlNVZ0RqSEs5RGQ2d1VSQjdYQVd4V1ZsWF9TRnpodmFzZEpFQ2FQRHR0ODlYcjBMQk10WVhHNkV4NVlSMktRSWlscjl5YXRwZDVfYTBn?oc=5",
-   "pub": "Mon, 26 Oct 2026 08:41:00 GMT"
-  },
-  {
-   "t": "Fed, EZB und BoJ: Die Zinsentscheide der Zentralbanken stehen an - Der Aktionär",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOFA2MWtJenB5SjdWWUFRSXhWSDVYTEVyT2swSzBoUlR2blhSNHVmOFdmWldxTFE5Z2lZLWV2RFBTR2lhRENvWEZhbVdIamZjazVmWXVWLTdNeFRaRUJxeHl0b1JYMlJzQTcyQWREN3BZSEZfV2VCQnRUTGxwLUlFOC1YVWhweDNUSU9aN1cyajRVM2N4aVNORDhQV3hKc0ZpdTlzSzNnbWdXX2xZVVhLOGRLSGlwWmFhY1Uw?oc=5",
-   "pub": "Mon, 26 Oct 2026 08:42:55 GMT"
-  },
-  {
-   "t": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFLaXhFX2IyTVRFdGtrWWdiWGFHLUR1YkE3aHFvdUxkbWhycUtmZE1ybUVoaHVXSU9Uay1yZWpOSTZtTzl4RVFMZDB1SVU5dWpmeVBsY05zbE8yT21ZNV9RN1c0X1Jva25WNXZYYzdnRG5BUE5KR3lHemdONjZvLTdFVlpjN2F3bnBkd2kzVFZURy1FUlF6bVJKUEpMSVdDaWl4VkY2a0V1ZGRNUFhnUV9HNWZ2dm9LYU4ybHd6YU9qUVBWdjRlNzhQMmE?oc=5",
-   "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
-  },
-  {
-   "t": "Iran und Länder des Mekka-Abkommens vereinbaren weitere Gespräche über Zusammenarbeit - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNRdi1IYkpUX1owOVpOVmg5Y09aeHFYV2pnZnF5VXBOc29BNkxCT1VnNlJ6dHVVMTg4LUdaNlJuQlZEWmNKdHJQdXA5YThOLWxYZllIc0tjV3JHTm45Y21KLXBOMzNld1I0THc2b2lUQm5abW9aOU85MzNjUDJublBVNVhqTDY5QVlKS2h2ZDVJX3VOQWRzNHgzSVZ4YVQ5WmFBQmlWTGZVV2JHeE9wSE01dGd5SW9FRVVKNFpiUVlvaUVkOXlF?oc=5",
-   "pub": "Mon, 26 Oct 2026 17:42:31 GMT"
-  },
-  {
-   "t": "AB-Chefvolkswirt Eric Winograd: Warum die Märkte das Risiko einer Fed-Zinserhöhung unterschätzen - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOS2N4aGZieV8wM1JkYmNxODhuWUxFcnZUWlFueXZoQkUxTHMxRWEyMTFQV3JrRXhCbVU0UV8xLWFVWm1QcktYSGY5UFlEd2FPY21xQzhuNjRoR1JhdDhSYXJ1UHFxaDBIMXYzSUNlMDJhUHZPWUU2aXVCMFBKOTJfcUN2eW1icDUzSTBGRDZIZklwQkpEek9rOG1pVW93OVVaNG1PV3ZQeUQ0ZGwxZ1k1dXJYTGtsOFRMUGZxTTBkaUt6UzJWX3RzWFoyZlFIQ1NaQk9Db3pUTmJKSC1hTTNyaElwd21pUW1hZGlpTjk5d3NBdG5ST2RCc1dleENVb2NWQ0E?oc=5",
-   "pub": "Mon, 26 Oct 2026 11:45:00 GMT"
-  },
-  {
-   "t": "Bericht: Hisbollah-Miliz rüstet gegen Israel mit Geldern aus dem Iran auf - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOVpRY0NmOEsxMHFNSjQxNGdMdWZOWGhGaTAxcFZfR2tpRnlUSXd0MENDbFhweVdvRFgwM2VUZnNneGVodG1UVUltS1c3MS1PS3JDekowQ2xRUGhESm5hZWdqTU5ScUU3dUJPcW9Jc0liSUs3aU1ZY1JHNUQ5SzBzSTNVRkdzWkpydk55QUNUV09fejBzWHE3N2ZPbE0xaUZNZXVteUdqMDFRWEgxclVLbVd1NERYLWc0?oc=5",
-   "pub": "Mon, 26 Oct 2026 18:59:10 GMT"
-  },
-  {
-   "t": "Börse Aktuell: DAX im Aufwind: Fed-Zinsentscheid und Brasilien-Beben 🏛️ - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZWVzeWZmOUJxZVB3VFZjZ3NUX0N6QzhoaWlSUF9waTdqUk1hcXRsSTQyal9ITnZyMXM5OWVvMVE2OUswNUhGX09fRUlrc01oeFlCZGFaMUJqSWlVTHZlRkFXbldxRy01cHNjbjJON0o3OEVRSE5hOG10SWp4SWdBRV93SmpGRTJhZ21UNTNJTGFOc2c0LUd1eGVPbmI4U0xpdnY5Znk4V2kyTTlWVWlIUWZWRkpjdnBL?oc=5",
-   "pub": "Mon, 26 Oct 2026 14:04:00 GMT"
+   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
   }
  ]
 }
