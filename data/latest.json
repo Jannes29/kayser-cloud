@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-10-27T16:42:03Z",
+ "collected_at": "2026-10-27T21:20:54Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8285,
-   "chg1d_pct": 0.57
+   "price": 0.8283,
+   "chg1d_pct": 0.54
   },
   "USDJPY": {
-   "price": 157.876,
-   "chg1d_pct": 0.67
-  },
-  "GBPCAD": {
-   "price": 1.8692,
-   "chg1d_pct": -0.27
-  },
-  "AUDJPY": {
-   "price": 111.0,
+   "price": 157.905,
    "chg1d_pct": 0.69
   },
+  "GBPCAD": {
+   "price": 1.8689,
+   "chg1d_pct": -0.29
+  },
+  "AUDJPY": {
+   "price": 110.934,
+   "chg1d_pct": 0.63
+  },
   "EURUSD": {
-   "price": 1.1145,
-   "chg1d_pct": -0.65
+   "price": 1.113,
+   "chg1d_pct": -0.78
   },
   "GBPCHF": {
-   "price": 1.1027,
-   "chg1d_pct": 0.06
+   "price": 1.1025,
+   "chg1d_pct": 0.04
   },
   "WTI": {
-   "price": 99.85,
-   "chg1d_pct": -1.88
+   "price": 100.2,
+   "chg1d_pct": -1.53
   },
   "BRENT": {
-   "price": 109.35,
-   "chg1d_pct": -5.58
+   "price": 109.74,
+   "chg1d_pct": -5.24
   },
   "GOLD": {
-   "price": 4071.4,
-   "chg1d_pct": 0.82
+   "price": 4073.1,
+   "chg1d_pct": 0.86
   },
   "SPX_FUT": {
-   "price": 7762.0,
-   "chg1d_pct": 0.62
+   "price": 7756.75,
+   "chg1d_pct": 0.55
   },
   "NAS_FUT": {
-   "price": 29839.0,
-   "chg1d_pct": 1.36
+   "price": 29803.0,
+   "chg1d_pct": 1.24
   }
  },
  "headlines": [
@@ -54,14 +54,19 @@
    "pub": "Tue, 27 Oct 2026 09:07:25 GMT"
   },
   {
+   "t": "Wie geht es bei der Fed weiter? Das erwarten die Volkswirte - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3pOTUNfQXJMWXFFZThOcWo2djB6aklxZ2Zpd2s0QlhVMlNoRkRKZGJZdG5xenBObDlFZUhKd1BidDZNSkhpcWpLLUtVREpOZjRmQVZBck5LNXBCUFh4YWpMdUxrdjBLVGF0Z0YtZFRKN0V4aFlhQ3o2enc4ZDBFZXUyLWtSYjQyeDNJbm93bGhHMkQwTUpXdExsSnJ6dmNocFRCamZFVy1CNHRMYUNBb1huYkhqQQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 17:54:38 GMT"
+  },
+  {
+   "t": "Putin spricht mit iranischem Präsidenten über Iran-Krieg - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0ZaaXJQZlRZRVNhSmd6Qm56M3h1Q2hPekhqd0RuNHhEUXQ1ZGRZQ3lhUUFSVGUxYVU1U3dHRUZCUGx3RThRQ3dqR1Zyakp5RzJqWlVsd0RQeEdHdXhBQVFTTEVOQ0NvYmJ5X3B5ZV9fZ0lfME9nbnZqYVlzd1hLZy1FNVdVdndrdVhyUV9xUWYwd0ZpZk43RmdaT2hrY1U?oc=5",
+   "pub": "Tue, 27 Oct 2026 19:13:07 GMT"
+  },
+  {
    "t": "(S+) USA und Iran – die Zeichen stehen wieder auf Krieg - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVNwREFYYzc2TVdPMHJwR3U3WElYMWVlOVdfVHM0R084UFVGcGdPTW1BdGdiU2hBNlJYMGNxNFpfTU9TWnZ2UjVWWUlnUEdiTkJKU2tCeVRvOGZ3NFNTYmJydU1tNVpLdTVfQkF5YjNmY3hJUVlST2M4RU1pU1dQU1BpbXRDekRUb0NvaUVhTUE2U00yMC1vdTgzWVBLeU9YQlB4WUhUb0ZqUEVxUGI0MXNsdVFvZkVvODU1MXd6ZTNzY3lvbUpGdkg3bw?oc=5",
    "pub": "Tue, 27 Oct 2026 08:55:00 GMT"
-  },
-  {
-   "t": "Hat sich Trump im Iran-Krieg verkalkuliert? - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZTIwekVTTlFFUTF4UEd3UTFKZHViUlAtb0ZOXzBTalA5b2JUaWFfX05aOXIzMzNBZjJsMVlodW5sVDBESHRmOVFRWkJya29ETFc0YmZPX2RaS1oxMTF1NVlleTVwbUtGNlRBMm9GdFRqaGtRQmVlLUZDWTJVU0lOTDdOY0RhR1g0eU9wY0JQOA?oc=5",
-   "pub": "Tue, 27 Oct 2026 14:17:29 GMT"
   },
   {
    "t": "Fed-Zinsentscheid: Nächster Termin und klare Prognose für die Zinsen - Berliner Morgenpost",
@@ -69,9 +74,14 @@
    "pub": "Tue, 27 Oct 2026 11:22:42 GMT"
   },
   {
-   "t": "Iran Air wagt sich erstmals an den großen Check einer Boeing 747 - aeroTELEGRAPH",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW5WdU5IanRNa01MUnNmdjNDaFg0cTl2RnMydVJYamZiaS1GdDNuS0lYS2N1bG5rN3FqNEZjYmcyZW5BaDdnaElwSEtNMTlOQTlvVzJKOGhOdmVXSVBrdE1jRlFQdmNyZFAycFJpaW5GNHBjZ3VuQi0wUVNiWVFSYUR5SWQzTk5vMl93MmhpbXNDT3NURTM5UlRGWWtKNmFTcmN6bVhjWENKc1gxRkh1WVF4VQ?oc=5",
-   "pub": "Tue, 27 Oct 2026 05:04:00 GMT"
+   "t": "Fed vor Zinsentscheidung: Bitcoin droht neuer Verkaufsdruck - FOCUS online",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWkJQWnZQdTVycDE4d1RQSG9uU2Y0S2RuRmd4Sk1kaWJBVTFmOUdxNFdaQXhpQ00wN05LYWNhUWFJUHBVY0g3OWRjenFqR0NWMU9SYWZDZVBCa2JCZjFEWURGMk4zOTA0MTFHT3FwZDA0VHJJa3hKYUllTUEwQ1ZKNy1RZUZ6VlJubndEblF1SDg1YW03c1MtN0ZEQmhFQ2RsU09uRlc4WnZvdHA3N2VOY2ZVMXk0OTNXYndmS2wzX2lrdnM1dVI2Nm5HVEZBc2hvZDZR?oc=5",
+   "pub": "Tue, 27 Oct 2026 08:15:00 GMT"
+  },
+  {
+   "t": "Atomprogramm - IAEA-Chef Grossi fordert von Iran Kooperation mit seiner Behörde - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0ZOS3k0UGMwZk45MDJfVkhYU2NBNlh2MS1TdWVwZ1hBZjRBdFd4UmtkM1ZyVEl5V1M3SV9vdE8taXNpN0EzZk1GcVlKdXBPYVZKOElXalZnSFVEVm1rVUJlWFliQkdaOHNpLXBHSTFtUWNaMk1DN3F1U2hRR0xNVnl1eFZSN0ZWSVI3R3hsazh5cVZVS05YLWZ5cW11LW1jTjRnMjg5UzA?oc=5",
+   "pub": "Tue, 27 Oct 2026 20:01:58 GMT"
   },
   {
    "t": "Fed-Entscheid im Fokus: Warsh ringt mit hoher Inflation, Ölpreisen und US-Zwischenwahlen - Euronews.com",
@@ -79,19 +89,14 @@
    "pub": "Tue, 27 Oct 2026 14:25:27 GMT"
   },
   {
-   "t": "Russland unterstützt Iran bei elektronischer Kampfführung - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BSGlDelk2YkV6bTh1eUw5U3NYUUxfcm5CQTdLVklySGctVUx2ODZWdVBwVkNUU1UzNmdDTk1BSGlKMGlHRExkMzBURUViZkRhVDItdUNYUjZLZ3dGNnU5NnBzMS1qbFotbmQySHhzVXk2cWx5YlhWOU1RQTVtczQ?oc=5",
-   "pub": "Tue, 27 Oct 2026 11:06:11 GMT"
+   "t": "Iran Air wagt sich erstmals an den großen Check einer Boeing 747 - aeroTELEGRAPH",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW5WdU5IanRNa01MUnNmdjNDaFg0cTl2RnMydVJYamZiaS1GdDNuS0lYS2N1bG5rN3FqNEZjYmcyZW5BaDdnaElwSEtNMTlOQTlvVzJKOGhOdmVXSVBrdE1jRlFQdmNyZFAycFJpaW5GNHBjZ3VuQi0wUVNiWVFSYUR5SWQzTk5vMl93MmhpbXNDT3NURTM5UlRGWWtKNmFTcmN6bVhjWENKc1gxRkh1WVF4VQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 05:04:00 GMT"
   },
   {
-   "t": "Streit um Iran: Will Netanjahu den Generalstabschef entlassen? - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlJwekRKY011RWFHdUZwN05Ib1BVVHRycDAtU0dsMDltemRfRHIyN3ljdWF0XzFuNU5FM056LUZmNERnMmdrdVhuVldLWHpoWERuS0JFZjFsaURtZzBGakRYLWlMaWx0eEc0LUo4U2JjQTNVNTc5enFPTjUzRmJCMUttOE4zN18zSDhRUVRNeWNjdGhYLVhqQ3hXbzdwc1ZmWWhaekRGRQ?oc=5",
-   "pub": "Tue, 27 Oct 2026 05:45:00 GMT"
-  },
-  {
-   "t": "Ölpreis steigt wieder: Huthis feuern weiter - Trump könnte binnen 96 Stunden Iran attackieren - FinanzNachrichten.de",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjhOXzcwTUh5dXc5LVA3UW9yV0VzaVg5V0g2a1pubHBabG1FSHR3N1lOV3k2V2JkM0lrejl6WFBHR2prS0tWS2RnLU9LWHpSYWQtdm1oOTk1SWJNTFkxeThURjlwMjF1aDF6WUR2T1RjaTJueW1iZnBmSExzMXA0MWp1N0VoYnpDaEtWcDVyVDNWUlJZZFFVVlZUS250WnppVkFvcENMZjdwNF9RWTlwSDBiejMwNVBXUTJFS1hER3RUWFg0Q1g4ZDJLc2J4bklXbDA3OVM3NHp6Uk5pR1Y2U2RvVzdOWHhkdWZEREpMdllwajlU?oc=5",
-   "pub": "Tue, 27 Oct 2026 08:23:00 GMT"
+   "t": "Nach Iran-Krieg: Israel verzichtet auf neue Raketen - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TNkVFMS1lOUstSUwtaUZRZWJya3dtSGxST0VuWTM4VThQVm50S1plR253RjlVdjlLUElldlowcXhFa3U5Q3FjQnNlc2wzbFlBZ1A1bGlLbEUydXdQS2s2d0xXalVYX3laeGg5OVJPeUIyLUtz?oc=5",
+   "pub": "Tue, 27 Oct 2026 18:00:23 GMT"
   },
   {
    "t": "Tech-Rallye an der US Börse: OpenAI Rivalen rüsten vor dem Fed-Entscheid auf 🤖 - XTB.com",
@@ -99,14 +104,9 @@
    "pub": "Tue, 27 Oct 2026 15:24:00 GMT"
   },
   {
-   "t": "Carmignac-Experte Kevin Thozet: Warum der eigentliche Test für die Fed erst im Dezember kommt - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnhoa1FqSmpHaEZOMDVIYWlsOThLSzh5cTBCOEJjQnF1bWZrWXl4cThqXzMwbHJhWlNsc204QmZVMjRyNTRRbGRoQi1vV1RrQUdLVXdxUk53Zm9SVENQRmFYY0cxWUxqMDlOR1hKSDctWElfZnRnaXZrdVJ0aUJoMFpzWFBiS3E3VlJtaWlMV3hBVnZLV1pGRGUzblZlWEtXYUNaZDh1NzJpM3pkZmY2VkRQeGdhTHhsTVJLdzI4RHhIcUw1TWdLRmZsUXlBSERZX1lSTVk0WVVDR1FLMkJTOWFDV3BjbGlYcUZlVi1JbWk?oc=5",
-   "pub": "Tue, 27 Oct 2026 15:26:00 GMT"
-  },
-  {
-   "t": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFLaXhFX2IyTVRFdGtrWWdiWGFHLUR1YkE3aHFvdUxkbWhycUtmZE1ybUVoaHVXSU9Uay1yZWpOSTZtTzl4RVFMZDB1SVU5dWpmeVBsY05zbE8yT21ZNV9RN1c0X1Jva25WNXZYYzdnRG5BUE5KR3lHemdONjZvLTdFVlpjN2F3bnBkd2kzVFZURy1FUlF6bVJKUEpMSVdDaWl4VkY2a0V1ZGRNUFhnUV9HNWZ2dm9LYU4ybHd6YU9qUVBWdjRlNzhQMmE?oc=5",
-   "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
+   "t": "Japanischer Yen: Attraktivität zur Absicherung gegenüber dem US-Dollar nimmt zu - OCBC - www.tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWNKYWNjNks5Wnc0M3pHOXBLc19vTjFCV0wwclZtTUhodDVLV1VFUHN4ZDBKY2pMaGdJaXR4ZHREXzdLeXJYTWU0d2pZNnRGUC1tT0Rzb1VnVXM5LWs0ZmEzbEFYczkzNlFDeGRpYVpBR2tOdnBmQnZHVTJKS1Q5dm1SREp1Sm9NZThoNXBwMFFIdHJMVDZObTkwZWlUYXU5dU5QMG0wNWRRdkFkSUJnclFYVmptX3RjMEd2NHA0VHpNS3Mz?oc=5",
+   "pub": "Tue, 27 Oct 2026 17:06:54 GMT"
   }
  ]
 }
