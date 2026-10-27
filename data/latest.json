@@ -1,55 +1,112 @@
 {
- "collected_at": "2026-10-27T05:08:31Z",
+ "collected_at": "2026-10-27T10:36:49Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8279,
-   "chg1d_pct": 0.49
+   "price": 0.8284,
+   "chg1d_pct": 0.55
   },
   "USDJPY": {
-   "price": 157.626,
-   "chg1d_pct": 0.51
+   "price": 157.767,
+   "chg1d_pct": 0.6
   },
   "GBPCAD": {
-   "price": 1.8691,
-   "chg1d_pct": -0.28
+   "price": 1.8652,
+   "chg1d_pct": -0.49
   },
   "AUDJPY": {
-   "price": 110.682,
-   "chg1d_pct": 0.4
+   "price": 110.86,
+   "chg1d_pct": 0.56
   },
   "EURUSD": {
-   "price": 1.1171,
-   "chg1d_pct": -0.42
+   "price": 1.1142,
+   "chg1d_pct": -0.67
   },
   "GBPCHF": {
-   "price": 1.1039,
-   "chg1d_pct": 0.17
+   "price": 1.1028,
+   "chg1d_pct": 0.07
   },
   "WTI": {
-   "price": 100.69,
-   "chg1d_pct": -1.05
+   "price": 102.29,
+   "chg1d_pct": 0.52
   },
   "BRENT": {
-   "price": 109.64,
-   "chg1d_pct": -5.33
+   "price": 111.16,
+   "chg1d_pct": -4.02
   },
   "GOLD": {
-   "price": 4023.7,
-   "chg1d_pct": -0.36
+   "price": 4007.9,
+   "chg1d_pct": -0.76
   },
   "SPX_FUT": {
-   "price": 7721.25,
-   "chg1d_pct": 0.09
+   "price": 7711.5,
+   "chg1d_pct": -0.04
   },
   "NAS_FUT": {
-   "price": 29413.25,
-   "chg1d_pct": -0.08
+   "price": 29429.5,
+   "chg1d_pct": -0.03
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "(S+) Spannungen zwischen Iran und USA: Die Zeichen stehen auf Krieg - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVNwREFYYzc2TVdPMHJwR3U3WElYMWVlOVdfVHM0R084UFVGcGdPTW1BdGdiU2hBNlJYMGNxNFpfTU9TWnZ2UjVWWUlnUEdiTkJKU2tCeVRvOGZ3NFNTYmJydU1tNVpLdTVfQkF5YjNmY3hJUVlST2M4RU1pU1dQU1BpbXRDekRUb0NvaUVhTUE2U00yMC1vdTgzWVBLeU9YQlB4WUhUb0ZqUEVxUGI0MXNsdVFvZkVvODU1MXd6ZTNzY3lvbUpGdkg3bw?oc=5",
+   "pub": "Tue, 27 Oct 2026 08:55:00 GMT"
+  },
+  {
+   "t": "Fed Zinsentscheid morgen: Uhrzeit, Ablaufplan und Prognose - LBBW",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2NnSzdlaWZHdW5HMV9YcEV4TVRwRHNCTml1bHl4Q2RUX1hCX0NyZDRQcVc4ek5XTUxxREJzUTROOWdYeGZnazVvOTU1UGtRSFUzM0IydEx4ZkdTTnN4OUhOOEdlY2R3bHd4YUVaRlZXRkkyYm5UNl9QQzBjWk5hdzVmdWFHcG5KLTFfOTVjdXMtamg2QnZGaTUyT1JZVncyOEtCcXdKTk40YWZtbzJ2U213MkxpZElXQ1E?oc=5",
+   "pub": "Tue, 27 Oct 2026 09:07:25 GMT"
+  },
+  {
+   "t": "Ölpreis steigt wieder: Huthis feuern weiter - Trump könnte binnen 96 Stunden Iran attackieren - FinanzNachrichten.de",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjhOXzcwTUh5dXc5LVA3UW9yV0VzaVg5V0g2a1pubHBabG1FSHR3N1lOV3k2V2JkM0lrejl6WFBHR2prS0tWS2RnLU9LWHpSYWQtdm1oOTk1SWJNTFkxeThURjlwMjF1aDF6WUR2T1RjaTJueW1iZnBmSExzMXA0MWp1N0VoYnpDaEtWcDVyVDNWUlJZZFFVVlZUS250WnppVkFvcENMZjdwNF9RWTlwSDBiejMwNVBXUTJFS1hER3RUWFg0Q1g4ZDJLc2J4bklXbDA3OVM3NHp6Uk5pR1Y2U2RvVzdOWHhkdWZEREpMdllwajlU?oc=5",
+   "pub": "Tue, 27 Oct 2026 08:23:00 GMT"
+  },
+  {
+   "t": "Iran Air wagt sich erstmals an den großen Check einer Boeing 747 - aeroTELEGRAPH",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW5WdU5IanRNa01MUnNmdjNDaFg0cTl2RnMydVJYamZiaS1GdDNuS0lYS2N1bG5rN3FqNEZjYmcyZW5BaDdnaElwSEtNMTlOQTlvVzJKOGhOdmVXSVBrdE1jRlFQdmNyZFAycFJpaW5GNHBjZ3VuQi0wUVNiWVFSYUR5SWQzTk5vMl93MmhpbXNDT3NURTM5UlRGWWtKNmFTcmN6bVhjWENKc1gxRkh1WVF4VQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 05:04:00 GMT"
+  },
+  {
+   "t": "Streit um Iran: Will Netanjahu den Generalstabschef entlassen? - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlJwekRKY011RWFHdUZwN05Ib1BVVHRycDAtU0dsMDltemRfRHIyN3ljdWF0XzFuNU5FM056LUZmNERnMmdrdVhuVldLWHpoWERuS0JFZjFsaURtZzBGakRYLWlMaWx0eEc0LUo4U2JjQTNVNTc5enFPTjUzRmJCMUttOE4zN18zSDhRUVRNeWNjdGhYLVhqQ3hXbzdwc1ZmWWhaekRGRQ?oc=5",
+   "pub": "Tue, 27 Oct 2026 05:45:00 GMT"
+  },
+  {
+   "t": "Großangriff gegen den Iran geplant? Trump riskiert Verschärfung der globalen Wirtschaftskrise - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzRUdWZiOGVKWEc5c3o2NTduQ3Nya0xfV0FDcTVGLS1PN1F2VlBVbVNWamwtZmZGWGkwVWt4cHdDQ0tuVkRBckZqWGl3R0ZsT3RsdHNfZmprdjVCSW1Va29HTjBtaGRJRXhWSmM3R3FOVlNwM055QjR4UHlPRTg5cVRmdmRtNkIwOUUtWDEzQmtvbGFHN21uNEpVQTJkVVFNTFQ0azI4RmVWdVludVRtTmdYMEhUWTVkZ01EVmZmZlBpTTlvUTNJeg?oc=5",
+   "pub": "Mon, 26 Oct 2026 17:02:39 GMT"
+  },
+  {
+   "t": "Renes Market Minutes - Superwoche mit FED, EZB und wichtigen Quartalszahlen! - stock3",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDQ5SHBPLWhSUE0xQnZGakg2enNTY1VGemk1NzlaYmk0YUVEU04yeEpSalFrRmN0R1NYWW9jS0pDZEI3czcydG00c0pPSlc3TmVoQXRCakpRUmd6VjlTQlNaajY1Y3hqYXBPWkZjM2Nrb2dKejNLTGVmRmtWX2Nrb3h3Z1BlWjlyX08ySl9oRXpwN1U3dC10SGlSMHRYWHhmYXJJVGdzY1Q?oc=5",
+   "pub": "Tue, 27 Oct 2026 07:41:20 GMT"
+  },
+  {
+   "t": "Deutschland füllt, der Iran blockiert - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWHpsNkhxUWJxTldickhYdWdQTnhPQnVzelNsNU5TSXFYTjVyUFpWOXFsZm90YlVfalFzUWszcUdIUTVscTRmU2JPaEFVUzh5Qjdaem9DQWYweTAyWHpBdlZUTThMUDZZelBsS1hTSV9ZUy1XeDgzeUZQZmZvQjZFNWs5dw?oc=5",
+   "pub": "Mon, 26 Oct 2026 14:30:03 GMT"
+  },
+  {
+   "t": "Tee, Kunst und Protest: Diese Malerin kam es aus dem Iran nach Bremen - buten un binnen",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDluNXBWZHZUYmthRnlJNXJQLWtaMjZhVmstZkFsNWpRMEpVYVlHY2hKNUVOYVRIb0JuX3lKMEx2Ny14ZjRteEVZMkJFSlo0bGZmYlJNdWtLVUp5eV9JYTdtMUtHNTAxU2ZyOGdvMkpISC0zaUhVZjdBajlIOEc4Nkhqa2R6TFVQeUxLODZ4QVViQURST2dnT1dB?oc=5",
+   "pub": "Mon, 26 Oct 2026 19:18:31 GMT"
+  },
+  {
+   "t": "Militärstrategien von USA und Iran: Wie alte Mythen neue Kriege legitimieren - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkbXFaTHZxb1VQRV9Leno2blFfNVdxT21JNTZuUDZHenFHMnNsN1ZZMHBHRDhnQnJ1NXhYWWstS0NDUWVGWFhUcC1xWmc3TWZrMHBHaklMTDdnVVJzT3lEQU43QzFVSTdmaGVrVg?oc=5",
+   "pub": "Mon, 26 Oct 2026 06:18:31 GMT"
+  },
+  {
+   "t": "Iran: Revolutionswächter greifen kurdische Stellung im Irak an - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONFFLaXhFX2IyTVRFdGtrWWdiWGFHLUR1YkE3aHFvdUxkbWhycUtmZE1ybUVoaHVXSU9Uay1yZWpOSTZtTzl4RVFMZDB1SVU5dWpmeVBsY05zbE8yT21ZNV9RN1c0X1Jva25WNXZYYzdnRG5BUE5KR3lHemdONjZvLTdFVlpjN2F3bnBkd2kzVFZURy1FUlF6bVJKUEpMSVdDaWl4VkY2a0V1ZGRNUFhnUV9HNWZ2dm9LYU4ybHd6YU9qUVBWdjRlNzhQMmE?oc=5",
+   "pub": "Sun, 25 Oct 2026 17:36:00 GMT"
+  },
+  {
+   "t": "Iran: US-Geheimdienstchef Jay Clayton warnt vor »tödlichen Planungen gegen US-Bürger« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT21HSDBGUTVEQk94VGxLcnhROUVneVFNSTFmcWprdFFOZU5OMnpIYTBLRmlTbHk0TkRKVUVnbDJUVEtEczg1NnJKNml3UnRFWnpUZ3RxRmx3RGFQWmFRbHFTWmEwcDdKN3RraDVsNElsN3VzZ3htQVAxbXFySXBkM0hiaktUUk1qVVUzaTM2dmpIREptZTFkWWVra1pwMnV6dHFqc2hyS1puOU9EaWF1TlNxd19pNzZUOUN0X1ZINHdXUFg0Vng3TXEtM0xYbk53ZlpuRnBhV0JfT2Q3TC1ybXJWSGNURm1rVVE?oc=5",
+   "pub": "Sat, 24 Oct 2026 10:28:00 GMT"
   }
  ]
 }
