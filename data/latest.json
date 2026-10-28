@@ -1,57 +1,72 @@
 {
- "collected_at": "2026-10-28T01:24:23Z",
+ "collected_at": "2026-10-28T08:35:49Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8295,
-   "chg1d_pct": 0.24
+   "price": 0.8301,
+   "chg1d_pct": 0.31
   },
   "USDJPY": {
-   "price": 157.858,
-   "chg1d_pct": 0.21
+   "price": 157.716,
+   "chg1d_pct": 0.12
   },
   "GBPCAD": {
-   "price": 1.8701,
-   "chg1d_pct": 0.02
+   "price": 1.8686,
+   "chg1d_pct": -0.06
   },
   "AUDJPY": {
-   "price": 111.184,
-   "chg1d_pct": 0.56
+   "price": 110.93,
+   "chg1d_pct": 0.33
   },
   "EURUSD": {
-   "price": 1.113,
-   "chg1d_pct": -0.39
+   "price": 1.1128,
+   "chg1d_pct": -0.41
   },
   "GBPCHF": {
-   "price": 1.1036,
-   "chg1d_pct": -0.07
+   "price": 1.1035,
+   "chg1d_pct": -0.08
   },
   "WTI": {
-   "price": 101.06,
-   "chg1d_pct": -0.69
+   "price": 101.31,
+   "chg1d_pct": 1.41
   },
   "BRENT": {
-   "price": 110.7,
-   "chg1d_pct": -4.41
+   "price": 110.97,
+   "chg1d_pct": -2.56
   },
   "GOLD": {
-   "price": 4072.0,
-   "chg1d_pct": 0.83
+   "price": 4062.6,
+   "chg1d_pct": -0.29
   },
   "SPX_FUT": {
-   "price": 7756.5,
-   "chg1d_pct": 0.54
+   "price": 7764.0,
+   "chg1d_pct": 0.07
   },
   "NAS_FUT": {
-   "price": 29824.5,
-   "chg1d_pct": 1.32
+   "price": 29944.5,
+   "chg1d_pct": 0.44
   }
  },
  "headlines": [
   {
+   "t": "Teure Machtdemonstration: Iran-Krieg kostet Trump-Regierung bislang 47 Milliarden Dollar - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ1pWeV9QRmdXbm1WSHlGcXotUzdpX0tNTWRUT016WmNUdFE5dmZIZnVPV2phX0xrSkhOTTdSaVVJZlhVS011VmFYeEpCbEpwUDJhYVhuX2ZnZnVHaXBwbWZBVUlpMS1tUGt2cTZ6YWx4c2h6NkxKWHNBN0NIMlhDV0dKSF83eU5XT0VWS1kyOEd1LUlkdk84THM5a3QwWFpBS1lkWFA0WEFMaVBabXNlUUJOUFp4YTZFaklTQkpER3hZUHBHWUMxRDA5RWVtekp0OHVSRHcybWpveXdXeFlPUVEwTkFUNmJvSWJLNTVwX3NSQQ?oc=5",
+   "pub": "Wed, 28 Oct 2026 00:57:50 GMT"
+  },
+  {
    "t": "Wie geht es bei der Fed weiter? Das erwarten die Volkswirte - WirtschaftsWoche",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ3pOTUNfQXJMWXFFZThOcWo2djB6aklxZ2Zpd2s0QlhVMlNoRkRKZGJZdG5xenBObDlFZUhKd1BidDZNSkhpcWpLLUtVREpOZjRmQVZBck5LNXBCUFh4YWpMdUxrdjBLVGF0Z0YtZFRKN0V4aFlhQ3o2enc4ZDBFZXUyLWtSYjQyeDNJbm93bGhHMkQwTUpXdExsSnJ6dmNocFRCamZFVy1CNHRMYUNBb1huYkhqQQ?oc=5",
    "pub": "Tue, 27 Oct 2026 17:54:38 GMT"
+  },
+  {
+   "t": "Putin spricht mit iranischem Präsidenten über Iran-Krieg - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0ZaaXJQZlRZRVNhSmd6Qm56M3h1Q2hPekhqd0RuNHhEUXQ1ZGRZQ3lhUUFSVGUxYVU1U3dHRUZCUGx3RThRQ3dqR1Zyakp5RzJqWlVsd0RQeEdHdXhBQVFTTEVOQ0NvYmJ5X3B5ZV9fZ0lfME9nbnZqYVlzd1hLZy1FNVdVdndrdVhyUV9xUWYwd0ZpZk43RmdaT2hrY1U?oc=5",
+   "pub": "Tue, 27 Oct 2026 19:13:07 GMT"
+  },
+  {
+   "t": "Morgan Stanley: Fed-Entscheidung heute bedeutet kein Ende der Zinserhöhungen - Yahoo Finanzen Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0NEbWFRbmNiLVlkeUd1cTBWYXNWU3FvZlFEM1RXeUtFaG5Oc1JyQzZVbnVRM2k1WnZiUlRSdWNEajdETlBvTVcyOFo4eFZGN0hseUt4blFfaVljSzVfdTZFM3lJeFlkSTBrdW9fS21VVVFEUS0xWXh2OThYeTBxWlZVNWVOMjNXUk84UUkzWXhEOHEtSElTRw?oc=5",
+   "pub": "Wed, 28 Oct 2026 02:16:00 GMT"
   },
   {
    "t": "Fed Zinsentscheid morgen: Uhrzeit, Ablaufplan und Prognose - LBBW",
@@ -59,9 +74,9 @@
    "pub": "Tue, 27 Oct 2026 09:07:25 GMT"
   },
   {
-   "t": "Putin spricht mit iranischem Präsidenten über Iran-Krieg - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0ZaaXJQZlRZRVNhSmd6Qm56M3h1Q2hPekhqd0RuNHhEUXQ1ZGRZQ3lhUUFSVGUxYVU1U3dHRUZCUGx3RThRQ3dqR1Zyakp5RzJqWlVsd0RQeEdHdXhBQVFTTEVOQ0NvYmJ5X3B5ZV9fZ0lfME9nbnZqYVlzd1hLZy1FNVdVdndrdVhyUV9xUWYwd0ZpZk43RmdaT2hrY1U?oc=5",
-   "pub": "Tue, 27 Oct 2026 19:13:07 GMT"
+   "t": "Wirtschaftskalender: Wichtige Entscheidungen der Fed und der BoC 🔎 - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUItYThhdlJYanVhaUVQOThGZFEzMlRJR240bzNJSUoyRlA2dzlqS2xSMjJZZnRnMVZpdTRNbkkycEVUd1pMeS1NUjF6cjNLaHFzdHEwcTduMGJWZ1B0STRNbmFOcnREcy1OY193Sy10X0pyOHVldExqM0VtOS1fY2Z2MkFTVmtVaDFRTkF0U1dINjE0SjJiX1FNUGpRRGxjeEREX2p4ZXRDS2tTeE4zRk5lcw?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:14:00 GMT"
   },
   {
    "t": "(S+) USA und Iran – die Zeichen stehen wieder auf Krieg - Spiegel",
@@ -70,8 +85,13 @@
   },
   {
    "t": "Atomprogramm - IAEA-Chef Grossi fordert von Iran Kooperation mit seiner Behörde - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGRxNFVjMXRkbUE0T0RYUlc0SDV5U01USmcwRGRqbXZNMFNtQUZ6WUZIb3NlUU8zaVlrT3RMdWFSamNEenRGYVRaM1JUYzN2S1ltSXQwWjBSZlJmZTF2TGFRamdTdjIwWU5CY0MtVTUydUNYSnNEa0ZIaUpNdVkwbmVROGhxVlllX3lVdHVHVlpZVHJPdXZ3ZkxVbEJfQ2ZRSWxvZVgwY0E?oc=5",
-   "pub": "Tue, 27 Oct 2026 23:01:34 GMT"
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFdNNFJsNWFSd3JpSFdEaUJ5V2JNc05TU3J4YVNTdjZfNm1fYm9JWVZuYXlxSDdoMEE1S0VtdzNOOHhkaXpLQW14MDQwelIwOHFFeXRPbTc5eDdvZ0Y0eUZMMHB6d0o3X3A5b1lOcFRDLUsyamFDeUMyeDN2dWhMVDdTR0x4SGdVNC04UmlPbmYwMnpOVUZtR0toWFdKM0RDXzdzZ21pSFc?oc=5",
+   "pub": "Wed, 28 Oct 2026 05:04:53 GMT"
+  },
+  {
+   "t": "Renes Market Minutes - Bringt die FED die Entscheidung! - stock3",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2RoMkR0QTd3bUZaZkMyaHlYQjVEVWltS0o2ZXFOTjJyRG9SSU5tXzNRRkpCZ1FhM0NCZkVFZDJJNmVIZl9OMGdoaXlRQkVfd2tCZFpuQ0dpdTlPSVR6dk9aWUIwTHA3R25xLXFTWEpZcU5jSzBDZ2JkVm5FQXNzV05hVXcwRjhEWVpsa0lR?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:51:48 GMT"
   },
   {
    "t": "Fed-Zinsentscheid: Nächster Termin und klare Prognose für die Zinsen - Berliner Morgenpost",
@@ -79,34 +99,14 @@
    "pub": "Tue, 27 Oct 2026 11:22:42 GMT"
   },
   {
-   "t": "Fed-Entscheid im Fokus: Warsh ringt mit hoher Inflation, Ölpreisen und US-Zwischenwahlen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTm51T3BtTjNMM29jOUp6RWxHUVI2c0RQVHFXajRRUmQxUm1POWhXTndrTlpGRHozbGxoZFVZZUFsTXFxMHBYVm5Ka0xYSlRBXzJScHpVRDdmVjVFOU9tTXIyOWRTWGczUmEzM2dyYTRuX3F0aUVjdDhnVk5FM0JTb1RpRVRoVExPNjlXaHpKVThZQ3hTUmFIejJpWUF3Y2Npa1hYVTZOVHZ4YkpvYXl1Nnd6RVRtZ0NEY0dYWXlR?oc=5",
-   "pub": "Tue, 27 Oct 2026 14:25:27 GMT"
+   "t": "Goldpreis: Hochspannung vor heutiger Fed-Entscheidung - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFNCNGRiV0VvWW1HM0ZQU1o3WFczU0x4MTZqdDRqR1pScU9RQWdSVmVEczZCY3ZVdU9abUpvUXdTOXpVcHZFWURmd1NuQk5iNlVHMHpjMmxGZVl0UTFWUnkzTmlHem5mdzdTNEQ1RDBjbHg1RlVRU2VpY1lrdjhMSkhLYnU5VU5heVJfcXhjNWhYaVNxamFJMnFKUXNDazlVeDY3bks3cE13RzM4bnhtRHZiVXNyekUyNVNxZm5YanhuVkZsaGNnWA?oc=5",
+   "pub": "Wed, 28 Oct 2026 07:34:34 GMT"
   },
   {
-   "t": "Nach Iran-Krieg: Israel verzichtet auf neue Raketen - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TNkVFMS1lOUstSUwtaUZRZWJya3dtSGxST0VuWTM4VThQVm50S1plR253RjlVdjlLUElldlowcXhFa3U5Q3FjQnNlc2wzbFlBZ1A1bGlLbEUydXdQS2s2d0xXalVYX3laeGg5OVJPeUIyLUtz?oc=5",
-   "pub": "Tue, 27 Oct 2026 18:00:23 GMT"
-  },
-  {
-   "t": "Iran Air wagt sich erstmals an den großen Check einer Boeing 747 - aeroTELEGRAPH",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMW5WdU5IanRNa01MUnNmdjNDaFg0cTl2RnMydVJYamZiaS1GdDNuS0lYS2N1bG5rN3FqNEZjYmcyZW5BaDdnaElwSEtNMTlOQTlvVzJKOGhOdmVXSVBrdE1jRlFQdmNyZFAycFJpaW5GNHBjZ3VuQi0wUVNiWVFSYUR5SWQzTk5vMl93MmhpbXNDT3NURTM5UlRGWWtKNmFTcmN6bVhjWENKc1gxRkh1WVF4VQ?oc=5",
-   "pub": "Tue, 27 Oct 2026 05:04:00 GMT"
-  },
-  {
-   "t": "Tech-Rallye an der US Börse: OpenAI Rivalen rüsten vor dem Fed-Entscheid auf 🤖 - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVlQTlRHaWhLZEQxTnVZWHc3OVZDbE1qM2xYbm1ObXFkdl9TZnFMRThsdUtlQ3lZazNRMno5OHBqRm04b2NqOENUQmdZLUJzdEUtUjVNbjBNOUNLTWd5Yzg3dEpFSHl1U1RQMFl4U01LLXdER0hXMmV4azhCSFZXMUFucUF6RzdTeFF6MGRYanc4NWRkMXNlcGlOa3lWaVlDRVNSSmpXMWN4RmFrU2dtekdnQk9ZQTBjS2FpVlMtdDR5amswckE?oc=5",
-   "pub": "Tue, 27 Oct 2026 15:24:00 GMT"
-  },
-  {
-   "t": "Ölpreis steigt wieder: Huthis feuern weiter - Trump könnte binnen 96 Stunden Iran attackieren - FinanzNachrichten.de",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjhOXzcwTUh5dXc5LVA3UW9yV0VzaVg5V0g2a1pubHBabG1FSHR3N1lOV3k2V2JkM0lrejl6WFBHR2prS0tWS2RnLU9LWHpSYWQtdm1oOTk1SWJNTFkxeThURjlwMjF1aDF6WUR2T1RjaTJueW1iZnBmSExzMXA0MWp1N0VoYnpDaEtWcDVyVDNWUlJZZFFVVlZUS250WnppVkFvcENMZjdwNF9RWTlwSDBiejMwNVBXUTJFS1hER3RUWFg0Q1g4ZDJLc2J4bklXbDA3OVM3NHp6Uk5pR1Y2U2RvVzdOWHhkdWZEREpMdllwajlU?oc=5",
-   "pub": "Tue, 27 Oct 2026 08:23:00 GMT"
-  },
-  {
-   "t": "Japanischer Yen: Attraktivität zur Absicherung gegenüber dem US-Dollar nimmt zu - OCBC - www.tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWNKYWNjNks5Wnc0M3pHOXBLc19vTjFCV0wwclZtTUhodDVLV1VFUHN4ZDBKY2pMaGdJaXR4ZHREXzdLeXJYTWU0d2pZNnRGUC1tT0Rzb1VnVXM5LWs0ZmEzbEFYczkzNlFDeGRpYVpBR2tOdnBmQnZHVTJKS1Q5dm1SREp1Sm9NZThoNXBwMFFIdHJMVDZObTkwZWlUYXU5dU5QMG0wNWRRdkFkSUJnclFYVmptX3RjMEd2NHA0VHpNS3Mz?oc=5",
-   "pub": "Tue, 27 Oct 2026 17:06:54 GMT"
+   "t": "Wenig Marktbewegung am Morgen, Anleger warten auf Fed-Zinsentscheid - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYjUxMUcyMC1iUWtQTk1NQ05ETnUwUDQxbWxYNW1yeDRCRzB0bDA4cW1relh4YllEVFhadzRiY1J5ZjFma2NVT1B5azFFaDR5aVNlem9ldlpMNEltN2RHZEpnb0d2U0tGSkFKMF93ZGlqbTFwRXVxdkVpQjdpQzlzdlRGQURNekxsMFB5X1hMZTF4cnRqQ2dRS1BnTWN3djJDRG5SemJGeXhqcGpjNVZncXkzQVljTVdkSTBpQmloWQ?oc=5",
+   "pub": "Wed, 28 Oct 2026 08:23:55 GMT"
   }
  ]
 }
