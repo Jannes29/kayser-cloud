@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-10-29T14:22:33Z",
+ "collected_at": "2026-10-29T20:19:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8276,
-   "chg1d_pct": -0.14
-  },
-  "USDJPY": {
-   "price": 157.877,
-   "chg1d_pct": -0.07
-  },
-  "GBPCAD": {
-   "price": 1.8665,
-   "chg1d_pct": -0.15
-  },
-  "AUDJPY": {
-   "price": 110.945,
-   "chg1d_pct": -0.1
-  },
-  "EURUSD": {
-   "price": 1.1153,
-   "chg1d_pct": 0.21
-  },
-  "GBPCHF": {
-   "price": 1.1042,
-   "chg1d_pct": 0.12
-  },
-  "WTI": {
-   "price": 101.09,
-   "chg1d_pct": -1.64
-  },
-  "BRENT": {
-   "price": 110.53,
-   "chg1d_pct": -4.15
-  },
-  "GOLD": {
-   "price": 4030.0,
+   "price": 0.8244,
    "chg1d_pct": -0.53
   },
+  "USDJPY": {
+   "price": 157.682,
+   "chg1d_pct": -0.2
+  },
+  "GBPCAD": {
+   "price": 1.8708,
+   "chg1d_pct": 0.08
+  },
+  "AUDJPY": {
+   "price": 110.828,
+   "chg1d_pct": -0.21
+  },
+  "EURUSD": {
+   "price": 1.1177,
+   "chg1d_pct": 0.43
+  },
+  "GBPCHF": {
+   "price": 1.1027,
+   "chg1d_pct": -0.02
+  },
+  "WTI": {
+   "price": 102.77,
+   "chg1d_pct": -0.01
+  },
+  "BRENT": {
+   "price": 111.55,
+   "chg1d_pct": -3.27
+  },
+  "GOLD": {
+   "price": 4040.9,
+   "chg1d_pct": -0.26
+  },
   "SPX_FUT": {
-   "price": 7740.0,
-   "chg1d_pct": -0.56
+   "price": 7722.25,
+   "chg1d_pct": -0.78
   },
   "NAS_FUT": {
-   "price": 29509.5,
-   "chg1d_pct": -1.57
+   "price": 29196.75,
+   "chg1d_pct": -2.61
   }
  },
  "headlines": [
+  {
+   "t": "Trotz US-Blockade: Iran importiert Rüstungsgüter für Milliarden - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmo3cTBVdkNIUjRiRU40azFKUmNMaXhBSkItckU1bVU1RzZRWHpueXVfb0JUNnNiN3R1NGE3REVmck9rR1lxUkhIRHdYMF9CRm03MmZWdzhJbWZZckpvcFZKR0kyWjdqUm5BRVhGSXltamVHVmp2NzRlaUh1dGxoa2ZKOTZZOEFsWTJGUGNCTFp5UkJsVGVJaVRya1gxR1dzeXY4RDJMRkdoOFNHVmljODRQVzc?oc=5",
+   "pub": "Thu, 29 Oct 2026 13:13:23 GMT"
+  },
   {
    "t": "Iran: Nach Midterms drohen neue Angriffe - USA versuchen es mit Diplomatie - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU3V5SE5CN2szazFpS0FmMkZhazlIVEU3SXNZNXRBZkRKcXlMLVFXZlZFSnU1M090S1pKazdXX3hMYld1YmxvVjhJZl9QSkZNSkRjSERKMkJxejlCaXhHaUNqUHdpS3JoQ2NyNEVSN0ZFOTdmZWdubmNxQVF6X0NsZnV4Q1A1Y093cFVvZ19aTkg0NW9BakJEM3dNUm5lRHM1em5TQnNDcHhBcGpGYlRIb3BfR290Sy1sS2VzNzZuWWZUVGFfLWNmRjJXeER4UHQyRjVOVHc5NWw4NmM5Mlg5Qm1zNHFfU25BREQ4?oc=5",
@@ -59,19 +64,14 @@
    "pub": "Wed, 28 Oct 2026 18:38:39 GMT"
   },
   {
+   "t": "Visastopp trifft Studierende aus dem Iran - NDR.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0R4RHJZSTJIUWZvcUlBbTRqZDhOYXd3a25YZjZVTXNNWTczdkRBd1E1TElZamd4MldxTXlTbEZ2ZmFHcC01ZjNlQWxEQ2ZuYldEcklaSnNOdnhQZUtlQ1doNTk4VDV2YkRWamZHUklybmxfUFVkWlBYMUV6aU42ZHZuV2xkV2Fid09Nc0FVa0RLQ213ekZSMW1pbEUtLW1jNE0xSXQzZy15dmkzR1M3SHFB?oc=5",
+   "pub": "Thu, 29 Oct 2026 18:47:29 GMT"
+  },
+  {
    "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
    "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
-  },
-  {
-   "t": "JD Vance schreibt Brief an Irans Sicherheitschef – will selbst verhandeln - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1d0N1RJbUtEX25HUl9UbjZyWVEwQjQ4cEtuLXBrYlMwNUVSZWdTSnRCUUVweHRSbDVmTk5NY2Y5ZE5NTFdfdG5EM0liVGgtWUY3UDgtaVdXVHdVc25zemFMaUlsX2pxOTRGWDJzNThzSDQ2d0xfb0V2NGx2TXM3bUpmbXRqdHFSS3FveThn?oc=5",
-   "pub": "Thu, 29 Oct 2026 09:30:57 GMT"
-  },
-  {
-   "t": "Grenzen wirtschaftlicher Anreize: Warum eine Einigung mit Iran schwierig bleibt - DGAP",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFZyNm1mZS1NMUJ4WmgzVDItMHhjWXFDd3FWUFZrRmM3amFRRHE0Yjl0a0JyTENXWFJibS1YQnpnR2pVM2VDdktHNWhRQXg4ZGh2UExHbVEzMGlSUmpUUmpJOHl3Y1VBdlJ5NlEzeGVGUXNYcnp6MjNVblpMNno2bEZmdzhYZENCeUYxZ2p5ekZQQ283MDlpcldTSlpCcEFMSVluTEgtYzVtY1N4NTBFRzB1VFhLQQ?oc=5",
-   "pub": "Thu, 29 Oct 2026 11:46:56 GMT"
   },
   {
    "t": "Vor möglichen neuen Angriffen: Vance sucht diplomatischen Ausweg aus Iran-Krieg - n-tv.de",
@@ -79,24 +79,19 @@
    "pub": "Thu, 29 Oct 2026 03:26:44 GMT"
   },
   {
+   "t": "Grenzen wirtschaftlicher Anreize: Warum eine Einigung mit Iran schwierig bleibt - DGAP",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFZyNm1mZS1NMUJ4WmgzVDItMHhjWXFDd3FWUFZrRmM3amFRRHE0Yjl0a0JyTENXWFJibS1YQnpnR2pVM2VDdktHNWhRQXg4ZGh2UExHbVEzMGlSUmpUUmpJOHl3Y1VBdlJ5NlEzeGVGUXNYcnp6MjNVblpMNno2bEZmdzhYZENCeUYxZ2p5ekZQQ283MDlpcldTSlpCcEFMSVluTEgtYzVtY1N4NTBFRzB1VFhLQQ?oc=5",
+   "pub": "Thu, 29 Oct 2026 11:46:56 GMT"
+  },
+  {
    "t": "Börse: DAX-Ausblick, Fed, Bilanzen von Microsoft und Alphabet - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03dnNlaGFNd0t6eHlFQ3pxdUxTV2RSYmxEdHZadFVnb0ZodUEyRl9xYVpYWlhSWExoX0o1Tkt4cTN4Q2tzSVVfbTM4QXQ3TzV3RVVzRGR1QmdhRk9Fc1hVZ2NlYS1PYXhIVnlpZ1ZR?oc=5",
    "pub": "Thu, 29 Oct 2026 05:17:00 GMT"
   },
   {
-   "t": "Fed-Zinsentscheid: Wahlkampfhilfe für Trump? Warum Warsh pausiert - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNU9nQWVxXzVHU1NUZGtGSWlQSmUtTl96c1Axc1dSdmF4d3g0YXhoZTlqTlhCbUo0NVQ1UWJIS3JxLXhzVndnT2RVY3d4M0xTMTdpcXZHdlY4eTZwVC1VaTlidGx0OU5uUmpsZXNlbndFcDBYQ1VIVVJ3M3c3ellRN2I4NHVtQi0tZDB5MHJIUFBndndoSjdPbWFvTWNKT3ZCNGZ2aVRTQ0xHVXA5ZUhnUkxzSXVLUQ?oc=5",
-   "pub": "Thu, 29 Oct 2026 07:03:30 GMT"
-  },
-  {
-   "t": "Fed Zinsentscheid heute: Zinspause erwartet – Was bedeutet das Votum für den US Dollar? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVFPQVJJYm1DbzRpSGI3S3Y5cW1wTUFTNTdzUEJ3QWg4anE2YkZiX0tPUGRiWXZGQ01fWkF4NEFIYkM5YV82WWs1NE9XcUpVMGhnZXRRX1kyQzd4UWRZY3h1eGs4M3E5bk5uMXlNLWhPWHd0N1Z1QWxFSy1nNHlsTWxKT01EWHRaZmdyUVRWUzZaeUhUVzY5N0hfWEZ1R1hFWktNaXpnek03U09fNm8yaFFNcjJreHRyTFpLZ2Y0dUZqYnBGaEhNbjN1aGRCbU0?oc=5",
-   "pub": "Wed, 28 Oct 2026 17:41:00 GMT"
-  },
-  {
-   "t": "US-Notenbank Fed mit Zinspause: Fed Chef Warsh lässt Zinsen unverändert - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc052cEpoWGhBdENVU1Z3S0RiSkhjMlJoNUFFb3hGUTg4Nk5yc205ZC1idHk5MHFqaDg0bDBHT0tQNDd4cmxTYW1YaXBTZHZhMTdKSkI0NlhzR1FTUnVDUEZOLUJMTVh2aVpJS1NoeWF4VFVpbklVbnkzNDlKUk92RktMMmY3b3NyX1VkckR2ZS10S2lud0dUUGZ2b3pTOGY1Nm5Hb1NoNmFsTmxweXl6M3IzOEhGRGpsM2p2VUpna0ZQMVlQc19QSDI0RjlDNm5GMzI5akFYSGs0ZTlzQVBKaDdOT1BXU3Z3UWQxcURpM0piUVU?oc=5",
-   "pub": "Thu, 29 Oct 2026 05:57:00 GMT"
+   "t": "AB-Chefvolkswirt Eric Winograd: Fed hält still – doch die Zinserhöhung rückt näher - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRzZlZlBqaFBQenZ1b0VwMUticGxoOEVxcGVocHpCTmxQRE1MVXZSdHpqRDJKQ0xrX3BnbHduY0xRcWU2NWVGRHgyRDhQVVB6eFk3N29uOHpXeGpDRGtLUlNBWHpOaHFzRzVkeHc3czVweUZ1R3RlYlRBa0VKVVRCenM1LU0wNDBMbDQ3aFBxd3RUZkp3SzM5OGZ0YlNld2NBdEtIbkRpNUFnX19CQ1NXZFFoZUVldWpRZGVRRlhtVHAybU41T0EwZ2NmSE9UQ1o3elJFUjBpdENJQVFTSWo2RjU1X2ZMSDVDdE5zdGRR?oc=5",
+   "pub": "Thu, 29 Oct 2026 10:34:00 GMT"
   },
   {
    "t": "US-Medien: Vance kontaktiert Irans Sicherheitsratschef Resaei - ZDFheute",
@@ -104,9 +99,14 @@
    "pub": "Thu, 29 Oct 2026 02:36:43 GMT"
   },
   {
-   "t": "Trotz Inflationsgefahr: Fed hält Leitzins konstant - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXRKU3FvOUxTcDMybVZHMWlYTHI0SW9Sd2p3V3IyVmR0ZDdLMElRd2VMaGxTUk9uM1p3YU1zMDdOS2FaVEtnVk5wbnVPOWU3VkdHYTFJaVVUaGVKQWhGaHlDR2tyS1Nwcnd2blkxQXM1YVEtaXZlVTRSQ1hLNWptc3gzSmd2YXhOeTZMWWtGQTUxOFFWQnF4aUhpeFZWdjhELUhwRHk2cUJhLVpjYTRBWVEwbWNsQWxIdWt2QV9OaElYRFN1aWYyMHY4blN6YjVfYkhLZQ?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:21:00 GMT"
+   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHRpSEhDazdQNE56OFozN3NyOGNLYm5QTWg5UVVkaVJyOVpHeUtqcDBQck1kR1lzd2c3Vk9lVERVZ0padkhXamFyTW8xZHhUb053Um11YkdVQ1ZVd3NLakp0N1g2aHBfbF9CSTlRVnVZUnk2OE9yQV9BYWlZRFNkcFBBTHl0Y3Izd2JoNGttSnRrR0NqdlBhU29KY05TS3FSOVFKLUJPb2xtS290aDRxSHFzQXE5VDRu?oc=5",
+   "pub": "Wed, 28 Oct 2026 09:43:37 GMT"
+  },
+  {
+   "t": "JD Vance schreibt Brief an Irans Sicherheitschef – will selbst verhandeln - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1d0N1RJbUtEX25HUl9UbjZyWVEwQjQ4cEtuLXBrYlMwNUVSZWdTSnRCUUVweHRSbDVmTk5NY2Y5ZE5NTFdfdG5EM0liVGgtWUY3UDgtaVdXVHdVc25zemFMaUlsX2pxOTRGWDJzNThzSDQ2d0xfb0V2NGx2TXM3bUpmbXRqdHFSS3FveThn?oc=5",
+   "pub": "Thu, 29 Oct 2026 09:30:57 GMT"
   }
  ]
 }
