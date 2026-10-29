@@ -1,57 +1,102 @@
 {
- "collected_at": "2026-10-29T00:58:57Z",
+ "collected_at": "2026-10-29T07:08:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.829,
-   "chg1d_pct": 0.02
+   "price": 0.8283,
+   "chg1d_pct": -0.06
   },
   "USDJPY": {
-   "price": 157.966,
-   "chg1d_pct": -0.02
+   "price": 157.869,
+   "chg1d_pct": -0.08
   },
   "GBPCAD": {
-   "price": 1.8628,
-   "chg1d_pct": -0.35
+   "price": 1.8632,
+   "chg1d_pct": -0.33
   },
   "AUDJPY": {
-   "price": 111.391,
-   "chg1d_pct": 0.3
+   "price": 111.232,
+   "chg1d_pct": 0.15
   },
   "EURUSD": {
    "price": 1.1143,
    "chg1d_pct": 0.12
   },
   "GBPCHF": {
-   "price": 1.1037,
-   "chg1d_pct": 0.07
+   "price": 1.103,
+   "chg1d_pct": 0.01
   },
   "WTI": {
-   "price": 102.04,
-   "chg1d_pct": 2.14
+   "price": 101.4,
+   "chg1d_pct": -1.34
   },
   "BRENT": {
-   "price": 110.78,
-   "chg1d_pct": -2.72
+   "price": 110.26,
+   "chg1d_pct": -4.39
   },
   "GOLD": {
-   "price": 4049.6,
-   "chg1d_pct": -0.61
+   "price": 4045.8,
+   "chg1d_pct": -0.14
   },
   "SPX_FUT": {
-   "price": 7765.25,
-   "chg1d_pct": 0.09
+   "price": 7760.5,
+   "chg1d_pct": -0.29
   },
   "NAS_FUT": {
-   "price": 29758.25,
-   "chg1d_pct": -0.18
+   "price": 29648.25,
+   "chg1d_pct": -1.1
   }
  },
  "headlines": [
   {
+   "t": "Iran-Konflikt: USA versuchen es mit Diplomatie – doch nach Midterms drohen neue Angriffe - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU3V5SE5CN2szazFpS0FmMkZhazlIVEU3SXNZNXRBZkRKcXlMLVFXZlZFSnU1M090S1pKazdXX3hMYld1YmxvVjhJZl9QSkZNSkRjSERKMkJxejlCaXhHaUNqUHdpS3JoQ2NyNEVSN0ZFOTdmZWdubmNxQVF6X0NsZnV4Q1A1Y093cFVvZ19aTkg0NW9BakJEM3dNUm5lRHM1em5TQnNDcHhBcGpGYlRIb3BfR290Sy1sS2VzNzZuWWZUVGFfLWNmRjJXeER4UHQyRjVOVHc5NWw4NmM5Mlg5Qm1zNHFfU25BREQ4?oc=5",
+   "pub": "Thu, 29 Oct 2026 02:28:00 GMT"
+  },
+  {
+   "t": "US-Medien: Vance kontaktiert Irans Sicherheitsratschef Resaei - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXRHTV9uQU9iLTNWSFA1eDJsSjlMZHhxVVpsZkQ4bHQzbE01WmJkM0dUZkFhc1NkR3JTeG1oRXR0VFhLWWpyal9mOWJidkppOUxpeG9KR0pFRmRSS2hvZk4yZGNidldYaWg0SVdSS2I5dW51NGkzRm5tSFEtUVFlTHk4bUZWSFhaTnBoWXAwSllURzJRSTRF?oc=5",
+   "pub": "Thu, 29 Oct 2026 02:36:43 GMT"
+  },
+  {
    "t": "Fed-Zinsentscheid: Aktueller Leitzins und Prognose 2026 - LBBW",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0VkRnZ4QVVNejlNWVFsZFdVYmRRejF2Z1dHbWh1eDJQbUprYXlfZE9BRnpFdzBXZEl1ZU9yQVFPcUgtazA0NVRuQzlDVEgxQlIwbk4tVDVJVXJHTWhmZDE0azhfSWhFZTJIRzdSYmphRTlLWk5aYkpVeDZubGNJT3VzQ04yZFJzTi1tQzFaU01DeFZVZHVaTXlIcEpTSjJzeXc?oc=5",
    "pub": "Wed, 28 Oct 2026 18:38:39 GMT"
+  },
+  {
+   "t": "Vor möglichen neuen Angriffen: Vance sucht diplomatischen Ausweg aus Iran-Krieg - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFZ5YnA3T2JTNU9YaHNGeVJmc05TQjBOWGNUT3pGeU5VNG1ERG5sZXlqaURiWC16Z21kd2EyeTBTcy0tUzZvZHhHS2poNDNZalAxVW5jNHRiSUJsSWpET1pFMlc1T3hxMU5MQ2xTTnloVWJuSmsxSjg2Y3NvbzI3a3pFeGtqWnVHMDdybXV3aks3VGhYb2hV?oc=5",
+   "pub": "Thu, 29 Oct 2026 03:26:44 GMT"
+  },
+  {
+   "t": "Börse: DAX-Ausblick, Fed, Bilanzen von Microsoft und Alphabet - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03dnNlaGFNd0t6eHlFQ3pxdUxTV2RSYmxEdHZadFVnb0ZodUEyRl9xYVpYWlhSWExoX0o1Tkt4cTN4Q2tzSVVfbTM4QXQ3TzV3RVVzRGR1QmdhRk9Fc1hVZ2NlYS1PYXhIVnlpZ1ZR?oc=5",
+   "pub": "Thu, 29 Oct 2026 05:17:00 GMT"
+  },
+  {
+   "t": "Fed Zinsentscheid heute: Zinspause erwartet – Was bedeutet das Votum für den US Dollar? - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVFPQVJJYm1DbzRpSGI3S3Y5cW1wTUFTNTdzUEJ3QWg4anE2YkZiX0tPUGRiWXZGQ01fWkF4NEFIYkM5YV82WWs1NE9XcUpVMGhnZXRRX1kyQzd4UWRZY3h1eGs4M3E5bk5uMXlNLWhPWHd0N1Z1QWxFSy1nNHlsTWxKT01EWHRaZmdyUVRWUzZaeUhUVzY5N0hfWEZ1R1hFWktNaXpnek03U09fNm8yaFFNcjJreHRyTFpLZ2Y0dUZqYnBGaEhNbjN1aGRCbU0?oc=5",
+   "pub": "Wed, 28 Oct 2026 17:41:00 GMT"
+  },
+  {
+   "t": "Fed legt vor Zwischenwahlen Zinspause ein:\"Politik spielte keine Rolle\" - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVm1Ra2t2YlZVR2lYMnBLV09DTXhURVNqZ1h2WHVWVXFGVHR6ZmlVR3FrdE1zdGthQWxjUjNoZ1I1anYtYnJWeHJaMnkxeEJqUzBfSW1hbnVqUXM0OVNGdlZZMEhaREFwZFhQaDQ2SDItS1A4RGZhaTREN21NUGl1b0U5UVRGX0pJdGhDczhJNG0wSnBta1F4aUxKVDdoMm9iMmx4MTJB?oc=5",
+   "pub": "Thu, 29 Oct 2026 06:34:24 GMT"
+  },
+  {
+   "t": "US-Notenbank Fed mit Zinspause: Fed Chef Warsh lässt Zinsen unverändert - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc052cEpoWGhBdENVU1Z3S0RiSkhjMlJoNUFFb3hGUTg4Nk5yc205ZC1idHk5MHFqaDg0bDBHT0tQNDd4cmxTYW1YaXBTZHZhMTdKSkI0NlhzR1FTUnVDUEZOLUJMTVh2aVpJS1NoeWF4VFVpbklVbnkzNDlKUk92RktMMmY3b3NyX1VkckR2ZS10S2lud0dUUGZ2b3pTOGY1Nm5Hb1NoNmFsTmxweXl6M3IzOEhGRGpsM2p2VUpna0ZQMVlQc19QSDI0RjlDNm5GMzI5akFYSGs0ZTlzQVBKaDdOT1BXU3Z3UWQxcURpM0piUVU?oc=5",
+   "pub": "Thu, 29 Oct 2026 05:57:00 GMT"
+  },
+  {
+   "t": "Fed-Zinsentscheid heute: US-Notenbank legt kurz vor Midterms Leitzinspause ein - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWlHbjU2R28tVTZ4d2ZvRnBRZ3g4UWIwYTF5VGFQdUJNZEhELWpycEdlM0hFcVhPVmlkZmFhcndIbFY3LXE2dE1oVnAwQjh0b0pEMlNIaGlLbHBTN1VMZGh5SUs1NjVJbjh0b1FGLWRpR3JtZGdQdmtYd1dDT3BxbDVzS0xBc1BoWE1FQnQzZGRaYnZqMzEtN2RiUFdWNEZENUdDZjBMSzF4aG9YeFVMUUZld0JBS1JMYnA3eWhMV19KdTRjMHE0?oc=5",
+   "pub": "Wed, 28 Oct 2026 19:17:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg kostet Trump-Regierung bislang 47 Milliarden Dollar - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQURaY1Znd1hhTmNmVHlyTmlvRnlrR3hFTmJVRnJMcGIyNTMzSFdzbEJhc2lTYUpEdWNCM1c5VVdiREE4TGdXMk9mMThRU0psb0dmU1NnRjhDbGY1VzMtaWhCYTgzZW56T1h5VE1SVURjbFU1X2liUFBvZ1J4Y0ZhcUlUWjVQQnhVYm1TY2E0RmxOSEwteHlKWmt0MVZVeGlDbUpfblM4S1dCS0VVRmFTOXFmQ3ZzVWZhMFV3MzFnSnlhUHhxb1ZFQ1JBZkpxYU5u?oc=5",
+   "pub": "Wed, 28 Oct 2026 14:18:28 GMT"
   },
   {
    "t": "USA – Notenbank: Fed hält Leitzins konstant – trotz Inflation - Spiegel",
@@ -62,51 +107,6 @@
    "t": "US-Notenbank Fed hebt Leitzins nicht erneut an - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHMtZnVnUk1UcVBWUk9DQ3R0dkt3cmZIZ29OX3AwSkhLVjROMW8zZ0h1YmJrYUY1UFNTUE82WHo5R0oyODE3bFMyMHVjWTNDdDF0RWRCd3hqMkFrTlBvNEp4LUVYTTRDYzd5ajZBUDh1X3VPSmRpYU1OeDRtT1lmMGxMNXgwSnlK?oc=5",
    "pub": "Wed, 28 Oct 2026 18:41:17 GMT"
-  },
-  {
-   "t": "Fed-Zinsentscheid heute: US-Notenbank legt kurz vor Midterms Leitzinspause ein - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWlHbjU2R28tVTZ4d2ZvRnBRZ3g4UWIwYTF5VGFQdUJNZEhELWpycEdlM0hFcVhPVmlkZmFhcndIbFY3LXE2dE1oVnAwQjh0b0pEMlNIaGlLbHBTN1VMZGh5SUs1NjVJbjh0b1FGLWRpR3JtZGdQdmtYd1dDT3BxbDVzS0xBc1BoWE1FQnQzZGRaYnZqMzEtN2RiUFdWNEZENUdDZjBMSzF4aG9YeFVMUUZld0JBS1JMYnA3eWhMV19KdTRjMHE0?oc=5",
-   "pub": "Wed, 28 Oct 2026 19:17:00 GMT"
-  },
-  {
-   "t": "Fed Zinsentscheid heute: Zinspause erwartet – Was bedeutet das Votum für den US Dollar? - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNVFPQVJJYm1DbzRpSGI3S3Y5cW1wTUFTNTdzUEJ3QWg4anE2YkZiX0tPUGRiWXZGQ01fWkF4NEFIYkM5YV82WWs1NE9XcUpVMGhnZXRRX1kyQzd4UWRZY3h1eGs4M3E5bk5uMXlNLWhPWHd0N1Z1QWxFSy1nNHlsTWxKT01EWHRaZmdyUVRWUzZaeUhUVzY5N0hfWEZ1R1hFWktNaXpnek03U09fNm8yaFFNcjJreHRyTFpLZ2Y0dUZqYnBGaEhNbjN1aGRCbU0?oc=5",
-   "pub": "Wed, 28 Oct 2026 17:41:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg kostet Trump-Regierung bislang 47 Milliarden Dollar - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQURaY1Znd1hhTmNmVHlyTmlvRnlrR3hFTmJVRnJMcGIyNTMzSFdzbEJhc2lTYUpEdWNCM1c5VVdiREE4TGdXMk9mMThRU0psb0dmU1NnRjhDbGY1VzMtaWhCYTgzZW56T1h5VE1SVURjbFU1X2liUFBvZ1J4Y0ZhcUlUWjVQQnhVYm1TY2E0RmxOSEwteHlKWmt0MVZVeGlDbUpfblM4S1dCS0VVRmFTOXFmQ3ZzVWZhMFV3MzFnSnlhUHhxb1ZFQ1JBZkpxYU5u?oc=5",
-   "pub": "Wed, 28 Oct 2026 14:18:28 GMT"
-  },
-  {
-   "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
-  },
-  {
-   "t": "Warsh macht überraschende Ansage: Fed tastet Leitzins trotz Uneinigkeit nicht an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ2FNYUxkSjFVUmVKeGN2UXIyME40S01qcG0xWFNlMUFDVUd1dGFTSm1pSkE1QUtueEcxNk1NV1ZTMXVjUk9iRWNzdC0tYm93ZFdZeUJyLXNhZm96ZmJibkVwdTBqQmwtS2w3YUJKVzY3SjhTb2NGckJlUjl5WDkyaENnNXEwTWtXV2NCWVZ2QTdiWVVna2V1Xw?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:42:45 GMT"
-  },
-  {
-   "t": "Fed belässt Zinsen kurz vor US‑Zwischenwahlen, zwei Mitglieder drängen auf weiteren Anstieg - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkZ0NHJPOEdtay0yLUI4VWZTLWtRb3hWUFVEdWdoT1kyTkdPZkNWQS1hSER5TkhRYmJJRVcyQzFJbldfbUxVYWF1N1NQNG5QbS1xSkNLX3c3MXRxZi1jdWJORlFpZlJrb3l3SlFPN25kaFhFRlk2RmNleHVvVDRKU29hdlh4bjdqQVNqOHlBSlEtRE4zQVNnVEpuRkxUOHhpSF8teXRMb0NuQUhiNjUtMUV6YlZxT3NueVlydm9pMEItdw?oc=5",
-   "pub": "Wed, 28 Oct 2026 19:03:32 GMT"
-  },
-  {
-   "t": "US-Notenbank Fed mit Zinspause: Fed Chef Warsh lässt Zinsen unverändert - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc052cEpoWGhBdENVU1Z3S0RiSkhjMlJoNUFFb3hGUTg4Nk5yc205ZC1idHk5MHFqaDg0bDBHT0tQNDd4cmxTYW1YaXBTZHZhMTdKSkI0NlhzR1FTUnVDUEZOLUJMTVh2aVpJS1NoeWF4VFVpbklVbnkzNDlKUk92RktMMmY3b3NyX1VkckR2ZS10S2lud0dUUGZ2b3pTOGY1Nm5Hb1NoNmFsTmxweXl6M3IzOEhGRGpsM2p2VUpna0ZQMVlQc19QSDI0RjlDNm5GMzI5akFYSGs0ZTlzQVBKaDdOT1BXU3Z3UWQxcURpM0piUVU?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:00:00 GMT"
-  },
-  {
-   "t": "Brisanter Bericht: Trump-Regierung plant offenbar Militärschlag gegen Iran nach Midterms - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFBxSkpoelBoeE1HVjN2amVCN0h0STZ2QkpNUDlKSTl5eFlHa2hjdk01ODdaSlNmN3pqRG5Ibi1HRDVrdloxMF9BSzh0MDFIb1pfUFlnZHZjZVhmVlY1SkIzN0VUQktRY212QkViRFFDV3lEbER1WjA1ZTUzT3hTODhQN0ZsQ1dOWEd6UTMtbndWdERUOVFhVURuWHpHOGlYN2pIWGJMY0s?oc=5",
-   "pub": "Wed, 28 Oct 2026 13:27:58 GMT"
-  },
-  {
-   "t": "Fed trifft vor Zwischenwahlen Leitzinsentscheidung - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZXhZdXJxWmY4c2xJZmR4dk95TUlJR2V4aDZybXFfcll4MXhLbmZsX1p2MWc2MHhvcENHSkttTjkzYlVtNGhkalFZb1J0YTlaMFA0QkQ2bTkzSHJ0enRzOU5YN0tyYzVnTUE1N09YM3U0Wll0M05MdW1qbWUtY0pOaHRtRFFENXlrQVVzbG1JZ082QjdWRC02cUYzOGlCTTE3dDNEZEkwY0p4cmpVV1h4SWxvVWJZR2hzMnhr?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:21:55 GMT"
   }
  ]
 }
