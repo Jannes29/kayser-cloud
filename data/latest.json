@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-31T05:44:53Z",
+ "collected_at": "2026-10-31T12:34:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,9 +49,29 @@
  },
  "headlines": [
   {
-   "t": "\"Wage es bloß nicht\": Warum die Angst vor der nächsten Eskalation im Iran wächst - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzl6N0FpakV2NnlaNWxMUWc0VS1LSDc4VzF0SFgyRkdLSWNoeDM1clppZUYwREl5cE5fM3NjZG5Lc1pTamNJSW9IeDRCZlVlYnJsZkN0TWkwdWpYRkp1Mm1xNU9FckoyTzFkUk5DZ3hYZlZtUWJkTTRJZjF6a1l3NEFoamZQbnRZU1FYVmx6RWNxcXZ2NG1EaU1ETWxKUEVmQzNNVl9NaHFDSWRzZHA5YmJvN0Z0TndZSVNoVlpTc1NuRk1N?oc=5",
-   "pub": "Fri, 30 Oct 2026 14:40:11 GMT"
+   "t": "„Rote Linien gehören der Vergangenheit an“ – Iran weist Äußerungen von Bundeskanzler Merz zurück - WELT",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTEhFZXRQOV9HclNhdUZGMG5NUTFzMVgtT1Qtb0hLWDUyWDY4U3BBSHlqLWJUUzFwSmRaQ3hldlZsM0JBck82MkFzbUpzTDBTdTdsTU1fa1l0dHdzNzJPUkNDMHJVS25McWd1a2JXRmRsTU5JbzdMR2E0cU90cjhZQ2FxcFFVekxVZ0xTd1ZLdUlucEIwS3FkbnJ4QVlOWWQ4UWJpWDhvQW9oN1kzOGJGTTIxM0VqRVdEc2x3bmdRUWoxZjdNZUNURDFURUVkTEFiUldzVDlYREU0YU4ycmxsT24tbUhOcV80dS15eEtjeE1RbS1TQi1IbDMydWJ4M1YxcjNweC1nTEZmbDVxQzl6NWx1b2ZkZw?oc=5",
+   "pub": "Sat, 31 Oct 2026 09:23:05 GMT"
+  },
+  {
+   "t": "Iran droht Deutschland mit \"vernichtendem Schlag\" – und zitiert Merz - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT2UybGc3T2llTTlyY2E3ejBBVThHWGtXZGtzOHo0MDNOWF9uRS16UXkzZTlqR0locUhtdk9Vc2RsR1p5Z1JXVmJaeWxhREhsbVBTVFlLYkE4NkxPMGY5ekdMTHdMWXpHak5EODhJb2xXbEx0SFlpLUc5X3F0Wkk3dFJ4OEJ3RFRzYTVPVVFwUjRxd0dmLU1WdE44N0tXYWVmVjZwcGRyOGFHUXpkSW1xdXotOVFsZTkyLU5BcXBtbU44bktteTlzd0VkMW1obmVodjFiZnBEdmhFaExjWkpJSXRPZw?oc=5",
+   "pub": "Sat, 31 Oct 2026 09:13:50 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Irans oberster Führer: Auf jede Bedrohung wirksam reagieren - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1NqMk9vblhTWVBSMlo1ejhwVlZGS3U0eFhuYXJhdnZXRHlmM1dOT3dkNkhFZE5xT2pWMUFPcmVLZlpzRjVxMWRmY19wbXQ5WDdYZllWaG9MSmw2MTB3VU9UN3lRTlJidGRJdnFuV2lGX2JJX0xfOWtjZGxCMkhsWVlLaC1RdFpVTGVTTkdNSk5lcUdBSzF0QVEtZw?oc=5",
+   "pub": "Sat, 31 Oct 2026 11:15:10 GMT"
+  },
+  {
+   "t": "Fed-Zinsentscheid: Aktueller Leitzins und Prognose 2026 - LBBW",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0VkRnZ4QVVNejlNWVFsZFdVYmRRejF2Z1dHbWh1eDJQbUprYXlfZE9BRnpFdzBXZEl1ZU9yQVFPcUgtazA0NVRuQzlDVEgxQlIwbk4tVDVJVXJHTWhmZDE0azhfSWhFZTJIRzdSYmphRTlLWk5aYkpVeDZubGNJT3VzQ04yZFJzTi1tQzFaU01DeFZVZHVaTXlIcEpTSjJzeXc?oc=5",
+   "pub": "Wed, 28 Oct 2026 18:38:39 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Irans oberster Führer: Auf jede Bedrohung wirksam reagieren - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmVDZ0hxV3V3cnNPRUgwTnNobVpQUDFWZDA4M29oSllFRk95dV95cTZRSTZRY1kzbFlIRWs0X0t2dGZWYXpCc2hvcFJNa0FzNkZNMG1lamxJOGw3YVBoV041bF9xVHRmNDhKWjFQQzFKdFBvbGZ3MEtJMXgzYXFjZU9tRkNpODNwVE5RSllwV0YzVGxWME9BLXdLQ3NRMWk0ekNFRnNUZ3lhRFotRmdLTGM5WU54alhySFU0RTBsdzJxZURaMFFWSVZrUQ?oc=5",
+   "pub": "Sat, 31 Oct 2026 10:56:16 GMT"
   },
   {
    "t": "Spannungen mit Iran: Mehr US-Militärflugzeuge landen in Israel - Jüdische Allgemeine",
@@ -59,54 +79,34 @@
    "pub": "Fri, 30 Oct 2026 08:07:00 GMT"
   },
   {
-   "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
-  },
-  {
-   "t": "Letzte Chance vor den Midterms? Vance sucht Kontakt zum Iran – für Trump „ist das in Ordnung“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVk1nVU1PYzRTTlM3NEtUeXRieXBMX3BQazgzVlFGZXV1cl9YUGV1LWhfdFFEcG9oRUs3U3BiWUw0ZEtlNjNILUlDVjA4bnpSNS02N2xMYXkwempiaW44cGV3T25keHpCWDVxd3Y1aHg5TXcwc2o1WC1hcmRvOW5KZkNTTU5EbzJaWFRfTFUxQ29pS3Q2QXpRNW9jQXN4ZmVBWmZFOG1vRQ?oc=5",
-   "pub": "Fri, 30 Oct 2026 09:47:19 GMT"
-  },
-  {
-   "t": "Massive Angriffe nach Zwischenwahlen? Trump lässt sich offenbar von Befehlshaber persönlich über Optionen gegen den Iran beraten - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNGhrOGZDRWg2d3U1Rm1CcURsUzg3STljVnlkVDA4bjhQSGlTcW1VNHdWS2hzTGI1N1oxdmEtTTJWTnNRejFUb25sWHQ4TGNBeVB4Sjk1WmF5U3hZWTdIQzE5RDlOTk95UW5KWVY4NmpYNEM5bVFVUGRyUG9DLW8tQTNvZVMzTVFTLUpVa0cyT29ZR0FDUGR0X0dGakFESkcxckRPVGxXUlRacy1mUXlwejYzQVZLMS1pUHJpUVdIUmVubERkWTVUQUU5R05vN3FqMkk1ZzNMczRuLXB2Z2pTbXROSVZqTGxQWlkzTXVzbDBpTzVfTWROMVJzcFJJZHNPR3M0SGUtYzFoQ3R5MmJEYVFvQQ?oc=5",
-   "pub": "Fri, 30 Oct 2026 07:39:31 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Militärchef berät Trump zu Optionen für Angriffe – US-Senator nennt Kriegsplan „wahnsinnig“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSUtwcjR6T1dRQ0Fpc0dnZ0FZRGRyMF9tTDJ3cXRCYVF0ck9ZcnlGdHhMemtlOVJpVzdiNHItX3RPelpOcGhUSk9TaUx1V1c3MVdqY08wZTNYMV9OVFNyUEhQQmlrTkZ3bV9DOUFsaVBWZlhDbmVicU1FWmxMWjEtNE5BalpNcmpkZDdlemU4N21KNHZBOWFOdU1WU1lFXzlJTVhLOVRtWXRlVEk1Q3BSR1g4WGd0Z09sVW1raGVGWkZTbEpDVWVYMkFlTFNzSlVJUGJzdFVVUnRTUHpwdTlxZk0wbjdnNWhqQU41ekZ2M3EzRngwb2xKUks5Q3ZoS3J0UUdJVg?oc=5",
-   "pub": "Fri, 30 Oct 2026 07:07:13 GMT"
-  },
-  {
-   "t": "Iran: Nach Midterms drohen neue Angriffe - USA versuchen es mit Diplomatie - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU3V5SE5CN2szazFpS0FmMkZhazlIVEU3SXNZNXRBZkRKcXlMLVFXZlZFSnU1M090S1pKazdXX3hMYld1YmxvVjhJZl9QSkZNSkRjSERKMkJxejlCaXhHaUNqUHdpS3JoQ2NyNEVSN0ZFOTdmZWdubmNxQVF6X0NsZnV4Q1A1Y093cFVvZ19aTkg0NW9BakJEM3dNUm5lRHM1em5TQnNDcHhBcGpGYlRIb3BfR290Sy1sS2VzNzZuWWZUVGFfLWNmRjJXeER4UHQyRjVOVHc5NWw4NmM5Mlg5Qm1zNHFfU25BREQ4?oc=5",
-   "pub": "Thu, 29 Oct 2026 02:28:00 GMT"
-  },
-  {
-   "t": "Kurs des iShares STOXX Europe 600 Oil & Gas ETF entwickelt sich fester - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUXhOVlM3NXBYRVhHd1JPZjJtekN5bmFkY1psSFl2aFBmanNHOE40N3dCWDN2elMyckR1Zko3Vk1xSG5kMEhIY25DRHlDVU5ZQ1ItcjlDaEJLVXZxc2JtaWF5eWNZdkpYMWtENHU4aC1zS215VnBpRlgtZjBhbFNZM2hoVXlxaGYtZVpzcVNXTEVMbXU0QmRBT3FHUkhxcE9HVHRBeVhDYTFia2tJ?oc=5",
-   "pub": "Sat, 31 Oct 2026 00:45:00 GMT"
-  },
-  {
-   "t": "US-Medien: Vance kontaktiert Irans Sicherheitsratschef Resaei - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXRHTV9uQU9iLTNWSFA1eDJsSjlMZHhxVVpsZkQ4bHQzbE01WmJkM0dUZkFhc1NkR3JTeG1oRXR0VFhLWWpyal9mOWJidkppOUxpeG9KR0pFRmRSS2hvZk4yZGNidldYaWg0SVdSS2I5dW51NGkzRm5tSFEtUVFlTHk4bUZWSFhaTnBoWXAwSllURzJRSTRF?oc=5",
-   "pub": "Thu, 29 Oct 2026 02:36:43 GMT"
-  },
-  {
    "t": "USA-Iran-Krieg: Wieder Tanker in Straße von Hormus getroffen - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3ZhR1pTRHV2UUItSUJqeXlscFlhWllSTm00N0pxUHEwQ2hrb0hOOTJtOGZZR21vZHhONzBweEVrcWJsMFRkN0N2aXNzQk0zOFZURF9VeTE2bXRVc1FhYkpCaXFRdngzSEFrYVJjLU5HaUc2VXBOME5zeHVoOVZVd2tOWU1VaUVCa0FYTzBmSWxkeTFVdEpjZ24tdzZBd1JsMzZfaEJEWFh0SHJxalNwcTFnZkNqRFJYVFo0bkF3SnF5WldmUS16WGdVM2lhMUZ3RWZ3SXE3dkRvQ2c5eHVn?oc=5",
    "pub": "Thu, 29 Oct 2026 22:36:00 GMT"
   },
   {
-   "t": "Trotz Inflationsgefahr: Fed hält Leitzins konstant - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXRKU3FvOUxTcDMybVZHMWlYTHI0SW9Sd2p3V3IyVmR0ZDdLMElRd2VMaGxTUk9uM1p3YU1zMDdOS2FaVEtnVk5wbnVPOWU3VkdHYTFJaVVUaGVKQWhGaHlDR2tyS1Nwcnd2blkxQXM1YVEtaXZlVTRSQ1hLNWptc3gzSmd2YXhOeTZMWWtGQTUxOFFWQnF4aUhpeFZWdjhELUhwRHk2cUJhLVpjYTRBWVEwbWNsQWxIdWt2QV9OaElYRFN1aWYyMHY4blN6YjVfYkhLZQ?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:21:00 GMT"
+   "t": "Irans Außenminister droht Merz mit dem „vernichtenden Schlag“ – und hält ihm „Drecksarbeit“-Satz vor - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTUwUGdaRElrRmFvSkxianFKU1FYQVRnUzMxbk5aWnJzejlFcWNQWnRfTGFZR2I4bWZaa2hCUmJ6bnV0RkQ1ZFFfSDJfUVpxc3g1THZSNWJmZzF1ek9GeDJ5ampVbnhQbWtDNUtrYU9Oc0ctOFE0SXZFaHQ3NFhuQVE0RExWT0pZTkI2R1VNb0g0dk5LQjBZcTVR?oc=5",
+   "pub": "Sat, 31 Oct 2026 11:25:43 GMT"
   },
   {
-   "t": "Big Oil: BP, Shell und ExxonMobil erzielen Rekordgewinne - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEpaR2U1T2Z0dHJDU1B4Zm9WX0V2Vm5XNW9Ra21lUThxdGNneWEwcTh5YzlkQzRRRlRfYVBvZUxoU1hQakVvR2ZyME95Uld6bXM1SW5hT01ZNVFpYU1KMDhiR0JURTJMcWFkQ2JjMnhTbV9EOUg2M2VqLWwwemhENGhCUzhPblNDaWFlRWpnRkJCUWFGVVRYR2ZrM1llV09VM19ZakRSZVlKNjB2TW5mYXlkaDRPODBFbEh3dQ?oc=5",
-   "pub": "Fri, 30 Oct 2026 13:13:47 GMT"
+   "t": "Deutschland mit «vernichtendem Schlag» des Irans konfrontiert? - Blick",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlhoa3U0Uk5sT0V1RW9LZDhNN0NPSVI2VzZERFk4QWItWHQwTXZSRnl3V01qOW5NMFU1aXNTZXFRTFVHX2k1WkxnZV8zbi1SQk5BMGJLSy1vWTE5VGtSN3piYzI0RVlSeV9XUnYzTTQtSHltcDVKSFZWREd0dm5YRWNpUWEwVGlmTk5McQ?oc=5",
+   "pub": "Sat, 31 Oct 2026 10:23:07 GMT"
+  },
+  {
+   "t": "»Tod für Amerika«: Iran will Millionen Schüler mobilisieren - Mena-Watch",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83RkJndkJLSEJsLVVhdGZ3N0I3Yk9kWGl4NlZ6Y2tDMFFiTnZYdTdZZUYwY2ZiVVhoTFZMb20xYzc4WGEyaDNOZkZjODBndUVLdG9MbkNnMHlMSHNFLUNfTjBBVEM0LXJOa1JvRnBHaUlfQQ?oc=5",
+   "pub": "Sat, 31 Oct 2026 04:40:00 GMT"
+  },
+  {
+   "t": "Gefährliche Wette nach den Midterms: Plant Trump eine neue Angriffswelle gegen Iran? - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYzJRMG1GUTVBbjBJZ3FRUlhnUGhpWXVpcVdVT21PbW9RN1pZWEEzYTFkZFowY255ZlNNVXhSb18wQlhGekw0cm9CSHdORl93Qm9SX0JYbG9BZ1VHSWFSTjg3Ynp0d1RBVzRYTnVMMkxPQ3hpNW9ackM3WEg0SllmUndMUXRQdV9nYVhhd0x6bW4tMF9EVFAzREZFbDVwLWY3ZDdqbGRxLXFoZkRwa00zOXNRdVRWSENMaElVZXpVNDVQc0RZUloySjRBZ2lqeVRxZGppQ1dR?oc=5",
+   "pub": "Sat, 31 Oct 2026 10:15:00 GMT"
+  },
+  {
+   "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
+   "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
   }
  ]
 }
