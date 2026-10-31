@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-10-31T17:44:57Z",
+ "collected_at": "2026-10-31T21:37:05Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -54,9 +54,9 @@
    "pub": "Sat, 31 Oct 2026 14:57:55 GMT"
   },
   {
-   "t": "Irans Außenminister droht Merz mit dem „vernichtenden Schlag“ – und hält ihm „Drecksarbeit“-Satz vor - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTUwUGdaRElrRmFvSkxianFKU1FYQVRnUzMxbk5aWnJzejlFcWNQWnRfTGFZR2I4bWZaa2hCUmJ6bnV0RkQ1ZFFfSDJfUVpxc3g1THZSNWJmZzF1ek9GeDJ5ampVbnhQbWtDNUtrYU9Oc0ctOFE0SXZFaHQ3NFhuQVE0RExWT0pZTkI2R1VNb0g0dk5LQjBZcTVR?oc=5",
-   "pub": "Sat, 31 Oct 2026 11:25:43 GMT"
+   "t": "Iran: Friedrich Merz wird für Drecksarbeit-Aussage attackiert - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWJFVmNPdWZCaFlnNHJvOXpneXpTZVdIaTYwMXpIbkxRTDhBb2RCcHFhZ2EzTGRFejdqRHhBZmNfNm1XbFdNVm5IMGtyOVJBQzU0WkVFYUdTLWt5N09uLWhWclpvWnA2aEt0OUtQVXNiLVk2UFNWTDdQcVk4RkRVb1RSZjJQUjNQc0dSZkl3VmdmZkNLVGlWX2tVVmNKeGxTR2RzZTE4dGdVamNKeFBHdGJock5YWnpWMldxMnNzanBkYjdFb1lCOUlPUQ?oc=5",
+   "pub": "Sat, 31 Oct 2026 18:29:00 GMT"
   },
   {
    "t": "„Rote Linien gehören der Vergangenheit an“ – Iran weist Äußerungen von Bundeskanzler Merz zurück - WELT",
@@ -64,9 +64,19 @@
    "pub": "Sat, 31 Oct 2026 09:23:05 GMT"
   },
   {
-   "t": "Iran-Krieg: Irans oberster Führer: Auf jede Bedrohung wirksam reagieren - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR1NqMk9vblhTWVBSMlo1ejhwVlZGS3U0eFhuYXJhdnZXRHlmM1dOT3dkNkhFZE5xT2pWMUFPcmVLZlpzRjVxMWRmY19wbXQ5WDdYZllWaG9MSmw2MTB3VU9UN3lRTlJidGRJdnFuV2lGX2JJX0xfOWtjZGxCMkhsWVlLaC1RdFpVTGVTTkdNSk5lcUdBSzF0QVEtZw?oc=5",
-   "pub": "Sat, 31 Oct 2026 11:15:10 GMT"
+   "t": "Gefährliche Wette nach den Midterms: Plant Trump eine neue Angriffswelle gegen Iran? - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYzJRMG1GUTVBbjBJZ3FRUlhnUGhpWXVpcVdVT21PbW9RN1pZWEEzYTFkZFowY255ZlNNVXhSb18wQlhGekw0cm9CSHdORl93Qm9SX0JYbG9BZ1VHSWFSTjg3Ynp0d1RBVzRYTnVMMkxPQ3hpNW9ackM3WEg0SllmUndMUXRQdV9nYVhhd0x6bW4tMF9EVFAzREZFbDVwLWY3ZDdqbGRxLXFoZkRwa00zOXNRdVRWSENMaElVZXpVNDVQc0RZUloySjRBZ2lqeVRxZGppQ1dR?oc=5",
+   "pub": "Sat, 31 Oct 2026 10:15:00 GMT"
+  },
+  {
+   "t": "Irans Außenminister droht Merz mit dem „vernichtenden Schlag“ – und hält ihm „Drecksarbeit“-Satz vor - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTUwUGdaRElrRmFvSkxianFKU1FYQVRnUzMxbk5aWnJzejlFcWNQWnRfTGFZR2I4bWZaa2hCUmJ6bnV0RkQ1ZFFfSDJfUVpxc3g1THZSNWJmZzF1ek9GeDJ5ampVbnhQbWtDNUtrYU9Oc0ctOFE0SXZFaHQ3NFhuQVE0RExWT0pZTkI2R1VNb0g0dk5LQjBZcTVR?oc=5",
+   "pub": "Sat, 31 Oct 2026 11:25:43 GMT"
+  },
+  {
+   "t": "US-Außenminister: Trump hat noch keine Entscheidung über neue Iran-Angriffe getroffen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFpuRFhob25PM1BkaTZ6VkZuYTk2LUlNTU1VVFFOamJzMlQ3ZVBUS0dFZjI5VG1nM3ZudmI1a1cweDVaRWJaRWxCdjE4RkMxMHFhTjZNdEJOd1FtM1pfTnJVMUZicndGLVlkc0lmVEJJVWx2MmdxT1lnTDUtQnBXRzI0VW9XSV9SelJuZHhvMXg3bFRpNUxYNjFCRU8xMV9zUEt1MkRNMkdhRk9UUjNNaGR2Tl85YlA0SERTYm42MXJWajhRT1E?oc=5",
+   "pub": "Sat, 31 Oct 2026 17:13:42 GMT"
   },
   {
    "t": "Iran droht Deutschland mit \"vernichtendem Schlag\" – und zitiert Merz - T-Online",
@@ -74,9 +84,19 @@
    "pub": "Sat, 31 Oct 2026 09:13:50 GMT"
   },
   {
-   "t": "Iran-Krieg: Irans Außenminister: Keine Notwendigkeit für USA-Treffen - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkdHMU40bnRDVkdNRU5ReUJuNXNteGZCbHVTb0hwYmwtck91VG5iWmlhVUJWaUJDSHVDS0xfQjlOUHlvSXpXY0JiYmtydHhUTHl6TVRrSm9LaVlaQWtyangzVEtuRXd4UWFFcU5hcl9ScVJDdmtBTmR6M196d1cyWWR1ck1abXhvVS1jaGIwaXljN1ZZU3hyTlF6aEROeVdtNDhOTTIwbDdiVnVyZmZ2YzFnbHhDWEN4TWo1Q1NR?oc=5",
-   "pub": "Sat, 31 Oct 2026 13:46:50 GMT"
+   "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
+   "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
+  },
+  {
+   "t": "Deutschland mit «vernichtendem Schlag» des Irans konfrontiert? - Blick",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlhoa3U0Uk5sT0V1RW9LZDhNN0NPSVI2VzZERFk4QWItWHQwTXZSRnl3V01qOW5NMFU1aXNTZXFRTFVHX2k1WkxnZV8zbi1SQk5BMGJLSy1vWTE5VGtSN3piYzI0RVlSeV9XUnYzTTQtSHltcDVKSFZWREd0dm5YRWNpUWEwVGlmTk5McQ?oc=5",
+   "pub": "Sat, 31 Oct 2026 18:37:07 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Irans oberster Führer: Auf jede Bedrohung wirksam reagieren - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUGNtbFRRRG1FVHc3UHpFc2FBRGJBYzExV21DRkZXVFhoUDgwcm5obXlNd2hoYzBwRHNYWnh0NVc4RzNqMXRsR3QzQVVldmpmU0tyUGFycmZBdHpsNmhTc1c3YldhQXd6QTBNSEZ3ZktPWEpFc3R2NVdEWXM2WGRyR25jaVFzdUFkdmpNaV84ZFVUZUpsaE5RVlpnT05sWWZIZlJLdS1XUzk4U2w1YzI0ZkNvenN5Sm1NTk9oNDhvSFc5S19lWFRaVnR6dlUwZk9MYlE?oc=5",
+   "pub": "Sat, 31 Oct 2026 11:15:00 GMT"
   },
   {
    "t": "Spannungen mit Iran: Mehr US-Militärflugzeuge landen in Israel - Jüdische Allgemeine",
@@ -84,29 +104,9 @@
    "pub": "Fri, 30 Oct 2026 08:07:00 GMT"
   },
   {
-   "t": "USA-Iran-Krieg: Wieder Tanker in Straße von Hormus getroffen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3ZhR1pTRHV2UUItSUJqeXlscFlhWllSTm00N0pxUHEwQ2hrb0hOOTJtOGZZR21vZHhONzBweEVrcWJsMFRkN0N2aXNzQk0zOFZURF9VeTE2bXRVc1FhYkpCaXFRdngzSEFrYVJjLU5HaUc2VXBOME5zeHVoOVZVd2tOWU1VaUVCa0FYTzBmSWxkeTFVdEpjZ24tdzZBd1JsMzZfaEJEWFh0SHJxalNwcTFnZkNqRFJYVFo0bkF3SnF5WldmUS16WGdVM2lhMUZ3RWZ3SXE3dkRvQ2c5eHVn?oc=5",
-   "pub": "Thu, 29 Oct 2026 22:36:00 GMT"
-  },
-  {
-   "t": "Deutschland mit «vernichtendem Schlag» des Irans konfrontiert? - Blick",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlhoa3U0Uk5sT0V1RW9LZDhNN0NPSVI2VzZERFk4QWItWHQwTXZSRnl3V01qOW5NMFU1aXNTZXFRTFVHX2k1WkxnZV8zbi1SQk5BMGJLSy1vWTE5VGtSN3piYzI0RVlSeV9XUnYzTTQtSHltcDVKSFZWREd0dm5YRWNpUWEwVGlmTk5McQ?oc=5",
-   "pub": "Sat, 31 Oct 2026 12:35:14 GMT"
-  },
-  {
-   "t": "Araghtschi: Iran sieht derzeit „keine Notwendigkeit“ für Gespräche mit den USA - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkE4VlhUb0hySkEwTUFDMUxzQVQzUGdiQlR0WlhnT3ZIMW1GMUwxUHNCVWpLRFZCVVNSYnBCUjE4VVFBNDJTNElETWl4eEI2c2ZidWpsaDlaTlJrRzYwd0RKdnlXT2xtSmI2cThpZWVIeERGY3VSTndnVUFoX0QwcmZweXZ0S3NXM296M3RLRGgxd0FqSlBNc0xUZFc4SlU1b29PRnVzVDBzdFhHSDhVelR5Z3hCajM3WkJEaA?oc=5",
-   "pub": "Sat, 31 Oct 2026 15:34:06 GMT"
-  },
-  {
-   "t": "Gefährliche Wette nach den Midterms: Plant Trump eine neue Angriffswelle gegen Iran? - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYzJRMG1GUTVBbjBJZ3FRUlhnUGhpWXVpcVdVT21PbW9RN1pZWEEzYTFkZFowY255ZlNNVXhSb18wQlhGekw0cm9CSHdORl93Qm9SX0JYbG9BZ1VHSWFSTjg3Ynp0d1RBVzRYTnVMMkxPQ3hpNW9ackM3WEg0SllmUndMUXRQdV9nYVhhd0x6bW4tMF9EVFAzREZFbDVwLWY3ZDdqbGRxLXFoZkRwa00zOXNRdVRWSENMaElVZXpVNDVQc0RZUloySjRBZ2lqeVRxZGppQ1dR?oc=5",
-   "pub": "Sat, 31 Oct 2026 10:15:00 GMT"
-  },
-  {
-   "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
+   "t": "US-Medien: Vance kontaktiert Irans Sicherheitsratschef Resaei - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXRHTV9uQU9iLTNWSFA1eDJsSjlMZHhxVVpsZkQ4bHQzbE01WmJkM0dUZkFhc1NkR3JTeG1oRXR0VFhLWWpyal9mOWJidkppOUxpeG9KR0pFRmRSS2hvZk4yZGNidldYaWg0SVdSS2I5dW51NGkzRm5tSFEtUVFlTHk4bUZWSFhaTnBoWXAwSllURzJRSTRF?oc=5",
+   "pub": "Thu, 29 Oct 2026 02:36:43 GMT"
   }
  ]
 }
