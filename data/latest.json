@@ -1,57 +1,82 @@
 {
- "collected_at": "2026-11-02T15:58:11Z",
+ "collected_at": "2026-11-02T23:32:42Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8198,
-   "chg1d_pct": -0.46
+   "price": 0.8187,
+   "chg1d_pct": -0.6
   },
   "USDJPY": {
-   "price": 157.881,
-   "chg1d_pct": 0.05
+   "price": 157.903,
+   "chg1d_pct": 0.06
   },
   "GBPCAD": {
-   "price": 1.8734,
-   "chg1d_pct": 0.13
+   "price": 1.8747,
+   "chg1d_pct": 0.2
   },
   "AUDJPY": {
-   "price": 110.782,
-   "chg1d_pct": -0.09
+   "price": 110.497,
+   "chg1d_pct": -0.35
   },
   "EURUSD": {
-   "price": 1.1202,
-   "chg1d_pct": 0.17
+   "price": 1.1191,
+   "chg1d_pct": 0.07
   },
   "GBPCHF": {
-   "price": 1.0999,
-   "chg1d_pct": -0.16
+   "price": 1.0975,
+   "chg1d_pct": -0.38
   },
   "WTI": {
-   "price": 97.21,
-   "chg1d_pct": -6.64
+   "price": 96.28,
+   "chg1d_pct": -7.53
   },
   "BRENT": {
-   "price": 105.94,
-   "chg1d_pct": -9.95
+   "price": 104.26,
+   "chg1d_pct": -11.37
   },
   "GOLD": {
-   "price": 3968.3,
-   "chg1d_pct": 1.78
+   "price": 3955.3,
+   "chg1d_pct": 1.45
   },
   "SPX_FUT": {
-   "price": 7680.5,
-   "chg1d_pct": 0.87
+   "price": 7588.25,
+   "chg1d_pct": -0.34
   },
   "NAS_FUT": {
-   "price": 28792.0,
-   "chg1d_pct": 0.9
+   "price": 28261.5,
+   "chg1d_pct": -0.96
   }
  },
  "headlines": [
   {
+   "t": "Krieg in Nahost: Iran meldet Plan, Straße von Hormus binnen zwei Tagen zu öffnen – sofern USA Forderungen erfüllen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVXhibFRkcEFZb0lhamtHbjNxa0pFSkQ3cmZxQVN6QzV6akNZNVFkc18xR2ZDOFFaMjA0YXcxVFdUOGlqYlg3UW9QZkl6X0NkeVR5YkdZZjh2QUM0eHVwS3dJYTA2SUJRNVJIZnZRN05scUFjanVZNmxGcllmZDBrbFdzclZsUlBnMFVRcWY3SVRVQzBYRnZLX0pLcUxOdW40cUlOSms5TU5aeVRScktVMmhXZkl6ZEFiZVYtTGlmdVYzaDJEaTFIOHI2TEZwbG5iNUNJRFFLS3FwdlQ2RVJJYklYWGlrOTlQRmVvUWlhWUxvcUdQMEk4eVEtZ0dhdWplZ3lLQ0hTN1hBQQ?oc=5",
+   "pub": "Mon, 02 Nov 2026 18:52:44 GMT"
+  },
+  {
+   "t": "Indirekte Gespräche mit den USA: Iran meldet \"sehr intensive\" Verhandlungen - Vermittler aktiv - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHI5US0teDFWb3pkWHhCdDRBcUNLdGxPODVDNkZMYkF1Nks3Y0V0MnFDOTlCcUx2ZU5sbHVLUWZiNDg1NmRfTWNjcGo2Z3FsN09BNXR1S240LW9GZkVmUHJGbERPc0JqRWdTdlhNd0p5aVdTZW9MV3ZQWG9pQUZBN3pKMGtFYjhFa2lpQVJfbGRYbHZXMk1RM1h3ZlFSelBlQUNV?oc=5",
+   "pub": "Mon, 02 Nov 2026 17:51:34 GMT"
+  },
+  {
+   "t": "Hinrichtungen im Iran: Bis der Galgen sie scheidet - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnl2TFRTdklPamlVMlVLd0dGWGJDUGtVWTBvb21TcExzd1FpQXg0NmhQSUtBVGhocVc1YWxEWHNJZUZ6SXh4bXBNUDVRN0I0V0czVjJYdnU3SDh0LW11Qnk4OXF3TlBiOGVhY0ZZT0V0SU1Nb3NlWnVsQ0I0dVhpVURYTXpNM3B3b3o4WWhGeE5acVVKX2xvTmhKbEpHWTJrSTQw?oc=5",
+   "pub": "Mon, 02 Nov 2026 18:56:00 GMT"
+  },
+  {
+   "t": "Tucker Carlson behauptet: Donald Trump plant Atomschlag gegen Iran - BILD",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1ViZjhubHpYYXFDZ2FwVnd5M19xQlR0dE5wNURaZzh4dGZWNGktVU45MllCajktVG4wUnotVGM3ZnQ3eUc4Z0ZaTFJrRHdzS2lVcnk2a25zcFBrODl0OE9nb0h1WUtsT3hYRE5VRVhlZFd6LVU2ZnFETFdPQ3ZicWYyLTFfVW9FMzFWNGU0VFFMeHdUcTlqdEtmSUVBTG1sdEt2eVJvVHZMYV9qMTRVSEVuRTJBQkJPU1E?oc=5",
+   "pub": "Mon, 02 Nov 2026 18:30:09 GMT"
+  },
+  {
    "t": "Militärschlag gegen Iran nach den Midterms? „Die US-Streitmacht ist heute in Teilen stärker belastet als zu Kriegsbeginn“ - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdnlFbU9XRlNUcWt5QVdiSnBVaHozSGtEb2cxczRvbWdMWHpEX0czQnRrVDU2a1FmMkVHOUktVW5HR1pQVnBSVkhlMnhFcjFGOEY4bGJfY1pRMEsyZG1QWjJFd2NoOVUwalU1QjR5UWlKa3ZIdTU0LVd3VS1nWTA4ZG5DSm5ySzJpdmFDNG5fRjJ6U0QyQThtdFI0UDRiNmRhQzRTVUc3Q3VTRWxySlQ3TDVuaV9yYXdxdDcxYW1YVFFqWHhlNzFUbEd6WXBfTHJWUEJNMlBMcFZocXdSb08wT25sUU5rSnFGRm9aT05odk1JTFhkRUJQdmVrc2poRWhIYnBsTXlpbw?oc=5",
    "pub": "Mon, 02 Nov 2026 12:57:49 GMT"
+  },
+  {
+   "t": "Nach Trump-Drohung: Iran nimmt strategische Ziele am Golf ins Visier - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNklfRU9VZk1xNm9tZGswS2NWSUZyVkNIQ0lHYmpReTZlZHFqeVpWRkI4V0s4ZmVfMWJFUC1zQUU5dVBVaGJWcnE3OVFfcjE3bmlJNWRhZWFDa0lnRTBPNnNHVWxCVmd1dFJTNUlfdEU3bjl3cmEybWVNYS1wdy1qaUJCRGdqb09kbWxKamRXM29DY280Znp1bjNBRVFuNDc5UXpJcjRTWmVBekIwNTlBM1BVckVveWpDVmFUdWp0UkRmalpsZzJyd0VORXVXeFhiWXNwLVdUVmFFTUtKc2pYYVNuRGlueVFv?oc=5",
+   "pub": "Mon, 02 Nov 2026 15:19:54 GMT"
   },
   {
    "t": "Ölpreis fällt bei Hormus-Gesprächen – Trump hält Iran-Angriffe offen - Euronews.com",
@@ -59,9 +84,19 @@
    "pub": "Mon, 02 Nov 2026 10:22:46 GMT"
   },
   {
-   "t": "„Können wir in zehn Minuten erledigen“ – Trump nennt weitere Angriffsziele im Iran - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWhfTkJxZDF1WG00dGw3UmFrSlN0QlhlcWpjalpHUGhxRTU5X091Z2ZIeE9wa0NEcGNVaDA0LVJTaUVzOXN2X1hNZjZibzBtV1R3MU5vdU52UmNRWG5PcUFKTlBZSGc5WjNsa3h3OEVtX25tbUkxa0k0QkpRUW9oTGxLU01lMTNsdkFvaW16WGZjLXd5VXZwbW5wcS14UUl6WmJWYTMtanIyeXR3d2lwUVl6U1o0UkhmcTI4cjI5dlMtUG94RU1GTFJxMkZRUXJPOFVicGc5dmt2cHRqWVJpeG1LQmN3UVU?oc=5",
-   "pub": "Mon, 02 Nov 2026 07:38:36 GMT"
+   "t": "Straße von Hormus: Iran stellt Öffnung binnen zwei Tagen in Aussicht – unter Bedingungen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUl9aa2JJUVBoTXRWNFgwNGtnbEVPRjBscW9hSE9XMTB3NEpQc0Itb1BwNmVobV9sZjRNRzJuYVY4aUNrNkZ2dW5rakxVMnpXMmFiVVd6RVVCT2N1U0lnZnF3V21FU3pJYV9ETUVqc2FtZnFnWGZLWS1lT2tGOTlVWFBWbU0wZzZNVkxLZDlxZnhkbzFaZ2hPSFB4cklUYThCQW9PSkpIRU83VTBkRHRjNHp0MmJpZnZNQWtMUjQtTVJwOVd2WnpxcFJmXzNNQzEwenc?oc=5",
+   "pub": "Mon, 02 Nov 2026 14:58:58 GMT"
+  },
+  {
+   "t": "Ölpreise starten mit Verlusten in die neue Handelswoche - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnc0cVZPYVFxRzMtUXMzeGhQN0pKMmpkNF9CZEI4X0w2U3lMbF9wclF2V1lWVzJic3drVElCZWdPZ0NFd2dzaTB4Z3JQbkJYUUVOSWdKamhRcEkyUUNhLU04c0RfSlhsZ2oxMWl3aU5hSlJCTzBaNlZhVE1vSG1sYi1DN1dMYm1SeTRHSWdFT3NPTXpudlEzV2ZDSTlNOWhLaVk3UGcwUWNTb1lFMUJFRDJoZ1JHWnVt?oc=5",
+   "pub": "Mon, 02 Nov 2026 21:27:22 GMT"
+  },
+  {
+   "t": "Börse: Friedenssignale aus Iran drücken Ölpreis, Dax und Dow legen zu - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkRmakdZd3IxY0JBTG5VRXpxUXdTT1FzMDVFeTlaQS1iMFZYQnRxdm1qb2RaQkF6SW5peVl2OVJmTXMyTUlqb1o1bzNjMXhBbkd4SFkxTWt4bE5TVGZweDFzb3poTEw1R2hqaDY2SktpRjd4Z01lT3otWjIwUE54V19kcjUzWnVfazRHR1ljZndzV2ljaVRzYWxkcl9ZVXN0eWRwNWtuaFFYUmhQd2RrUEFOcnV2c21veEh1d1JPRXk4b1YzZU1tRUd5ckdPaGM2c1dfN1ZnWTM0WGpoZUE?oc=5",
+   "pub": "Mon, 02 Nov 2026 16:59:00 GMT"
   },
   {
    "t": "Nachts telefonieren Netanjahu und Trump über einen Iran-Angriff – doch ihre Ziele gehen auseinander - Frankfurter Rundschau",
@@ -72,41 +107,6 @@
    "t": "Donald Trump prahlt neue Angriffsziele in Iran ins Spiel - »Pickaxe Mountain«? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWF3XzNpWnc0Z3Z4Mkg5RlA5VEsxenluTWlfRmxWQ3BmWW54NmZuLU8wQjk2S1RhZW81VkdaaE1MMHQ1OWRWNlRYRFFuNUg0SjVzZEl0NDFLdGNGUmxxZDg1Zml5QjRqWnJYblNFVFpFX3hZVjJxODBITURJOWRzUXlnZHl1bVV5alBZeXRfZkZva1pLcUg1RnQzMVlyMDFhQnFpbWUwQkJIdDlpQ3lMdXk0R3J3NHM2cWFvc2NxR2cxQldkMC1WSzF1VzhpR2tmSFZBak90M1NzZjg?oc=5",
    "pub": "Sun, 01 Nov 2026 20:51:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Warnung vor neuer Eskalation - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWNEQ2xDU1N5dGxDNG1sblVFekJvUW5tTnJqRGl0VFNHN3RxcjFUSzdIcWFSTXB5ZHVpZmxMbEJrSnJHekp3RVJNeURlNVh3WjN0R044d05Hcl9WTXRWQ2dzQjVDdEtzQnZDYjMzbTl4RFpDeS1SdE5VbU1nemU3S3c3WQ?oc=5",
-   "pub": "Mon, 02 Nov 2026 08:12:41 GMT"
-  },
-  {
-   "t": "Iran stellt erneut Öffnung der Hormuz-Straße in Aussicht - Südtirol News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlJ3MWhwREVSYm12MUhBNGNxSHpjSnNMM2dzbU0xckhGNk9IQXg3QVk5XzljQ2tUTUtQWGZzS09ZWlZWRjBiMlF2OWswbGZrUG0yX3dJck1yN1lHOXVtc0Z2bmpSTUs5Wk03X3E1a0ozaWktOS1Yc2RMWkNzTGtPQVNlRlM0ZElYVGgxZTNsbkUtZlkwb3hZSlJyOA?oc=5",
-   "pub": "Mon, 02 Nov 2026 10:08:00 GMT"
-  },
-  {
-   "t": "Donald Trump und Benjamin Netanjahu: Zwei geschwächte Männer, die jetzt den Sieg brauchen - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPellpUUFXcE9mcEoydzdfTkpsdjZWX3F1Rmt1RjdTV1hVZzg1eUtZM2dLa3Bzalh3YmlBTFpZbDlYVndwRFFKSFh0VzdVbXdzYjhyTktPLV8zUEExLVduM2NTM0VRTW9sOGI2YjI1dWFhcmJ2a04tYmxaNzM3VWRfLWZDT2psdVN2X1hISWdHc2YwWG8?oc=5",
-   "pub": "Mon, 02 Nov 2026 04:34:53 GMT"
-  },
-  {
-   "t": "Brent-Ölpreis fällt um 3,2 Prozent: Katar vermittelt im Iran-Krieg - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm1JNml4RFBKdTFaSnJMV1djcVRJU0JHSFpqeFhDSGFMajlXMTlGZDljcy1XY0FwMVpwQ0gxMXBRRGxmUGRyaGpsTXJMUmZLdDdRVzZGd2tUOC0wZ1F0WDNMLTAzOXI2QzJvZnFmMlZBT0FOMVVVZFMtYmRvaHJYRzR6bmV1VS1jX0ZzRE1zdEF6SzVlT3V4aFRsYlNObjVEcWFCWnhZTkdPNHFxSXhycnZIeklQZw?oc=5",
-   "pub": "Mon, 02 Nov 2026 05:55:29 GMT"
-  },
-  {
-   "t": "Donald Trump setzt wohl auf Diplomatie im Iran – Europas Gaspreis gibt nach - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanBXYTZlSzJvbDBBcnNhOEllY2JFeWdRYzRKd0xLOHVmbE54SUNCZE1RT3A0THBoWmNINUczLVB6bm1aVmQ0eU9fX012QWUwMlllRnBWR1VQaDJCLVd4YzNTb1ExQUFXUHNuUXQtdGJaRlR4QlVfTGVOcHE1MEJ6WWt2MjBMbTRvSW9UeFRqU2JHbzV5OGtXU2lTamhKLUZ0Q0JHQVZNUGdUMEdBeE5icWg4MFZVQ01zLTE2aUFmRkhMQQ?oc=5",
-   "pub": "Mon, 02 Nov 2026 14:23:00 GMT"
-  },
-  {
-   "t": "Iran: \"Geographisch uneingeschränkte Antwort\" bei US-Attacke - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGZ1N0tNRFlBM1duQ2Z4N0xqRGYxWGpqWVEySFFvMGdSOUFLZS10WmNCdjg5RVh5TkM2ZnN2RUlVLUlyQUJCc01ROTdna3ZYWng1UzAxVG1EeXNOZG0tdmJ5ZTVXVmtZX0ZIM2xjX0E5R3NkbUR3eEsxYTlrdGlVNTVOV01GTDhGT2NLTWFMU2E2MngyV1ZzRDlLMNIBmwFBVV95cUxObHlDbEdkTmFadXBnZkhLUGZkckd3SnRyMXg1S1NMekpBdnl4R2haMnVsOFo4UDJmMm9GYWxjTXdpdUZsN3hYaHpDMVY5dzg0NUIwMHdnS2tqZEphTXpQMWI3WGNobHc0YlVLWlBuYjlDRXhMVE9kRjZJel82Sk04cDh0VUlHUHNGb3hpcDQwREViY253LXpYSXFaVQ?oc=5",
-   "pub": "Sun, 01 Nov 2026 00:25:05 GMT"
-  },
-  {
-   "t": "Zwei Tage vor US-Kongresswahlen: Trump bekräftigt Drohung gegen Iran - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2RxSXVIWk1tVUJIVlJBak5TNllObXNzdml1cTlYMGpxUHlxU3lSNUdSb1dRRi13ZDhaTEdlemd6RjdWVkd4R2lXOGRVc2FjYTNkQnV3Z0VZY0hKcXlDZHJTQzZ2TDNybTRHdGZFNDVHMjU1TXZ1Z3BDRVgwU2h1Rk5UMFJYWnctZldPVXRsZzFFZ0dYZzhITjlUYXJOdW8zM1piVHE4NWN0eC1NVVE?oc=5",
-   "pub": "Mon, 02 Nov 2026 03:33:54 GMT"
   }
  ]
 }
