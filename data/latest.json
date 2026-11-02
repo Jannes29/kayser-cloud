@@ -1,72 +1,102 @@
 {
- "collected_at": "2026-11-02T06:08:23Z",
+ "collected_at": "2026-11-02T15:58:11Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8231,
-   "chg1d_pct": -0.06
+   "price": 0.8198,
+   "chg1d_pct": -0.46
   },
   "USDJPY": {
-   "price": 157.776,
-   "chg1d_pct": -0.02
+   "price": 157.881,
+   "chg1d_pct": 0.05
   },
   "GBPCAD": {
-   "price": 1.8731,
-   "chg1d_pct": 0.12
+   "price": 1.8734,
+   "chg1d_pct": 0.13
   },
   "AUDJPY": {
-   "price": 110.776,
+   "price": 110.782,
    "chg1d_pct": -0.09
   },
   "EURUSD": {
-   "price": 1.1189,
-   "chg1d_pct": 0.06
+   "price": 1.1202,
+   "chg1d_pct": 0.17
   },
   "GBPCHF": {
-   "price": 1.103,
-   "chg1d_pct": 0.12
+   "price": 1.0999,
+   "chg1d_pct": -0.16
   },
   "WTI": {
-   "price": 100.58,
-   "chg1d_pct": -3.4
+   "price": 97.21,
+   "chg1d_pct": -6.64
   },
   "BRENT": {
-   "price": 109.82,
-   "chg1d_pct": -6.65
+   "price": 105.94,
+   "chg1d_pct": -9.95
   },
   "GOLD": {
-   "price": 3922.7,
-   "chg1d_pct": 0.61
+   "price": 3968.3,
+   "chg1d_pct": 1.78
   },
   "SPX_FUT": {
-   "price": 7654.75,
-   "chg1d_pct": 0.54
+   "price": 7680.5,
+   "chg1d_pct": 0.87
   },
   "NAS_FUT": {
-   "price": 28822.75,
-   "chg1d_pct": 1.01
+   "price": 28792.0,
+   "chg1d_pct": 0.9
   }
  },
  "headlines": [
+  {
+   "t": "Militärschlag gegen Iran nach den Midterms? „Die US-Streitmacht ist heute in Teilen stärker belastet als zu Kriegsbeginn“ - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdnlFbU9XRlNUcWt5QVdiSnBVaHozSGtEb2cxczRvbWdMWHpEX0czQnRrVDU2a1FmMkVHOUktVW5HR1pQVnBSVkhlMnhFcjFGOEY4bGJfY1pRMEsyZG1QWjJFd2NoOVUwalU1QjR5UWlKa3ZIdTU0LVd3VS1nWTA4ZG5DSm5ySzJpdmFDNG5fRjJ6U0QyQThtdFI0UDRiNmRhQzRTVUc3Q3VTRWxySlQ3TDVuaV9yYXdxdDcxYW1YVFFqWHhlNzFUbEd6WXBfTHJWUEJNMlBMcFZocXdSb08wT25sUU5rSnFGRm9aT05odk1JTFhkRUJQdmVrc2poRWhIYnBsTXlpbw?oc=5",
+   "pub": "Mon, 02 Nov 2026 12:57:49 GMT"
+  },
+  {
+   "t": "Ölpreis fällt bei Hormus-Gesprächen – Trump hält Iran-Angriffe offen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDFVOU9IOElIVDFneGh4UTQyVmdld0lTMzhWT1JxamdoQ2lrWmlxQ0p2Q2hvc0hxTnJBVFZzcnBLQlAzalFvd0xQamVuS3paWEhsMW9ONHl3cm04M3FORXRfd1J5U1ZrTWNuNUxOc3BmME5iVlh4R2ZTLTgxRmNmREdJTkx6bjU1X2g4Y3R6clJ0OHI1Q25zVnozb0tpT0FYaFl3?oc=5",
+   "pub": "Mon, 02 Nov 2026 10:22:46 GMT"
+  },
+  {
+   "t": "„Können wir in zehn Minuten erledigen“ – Trump nennt weitere Angriffsziele im Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMWhfTkJxZDF1WG00dGw3UmFrSlN0QlhlcWpjalpHUGhxRTU5X091Z2ZIeE9wa0NEcGNVaDA0LVJTaUVzOXN2X1hNZjZibzBtV1R3MU5vdU52UmNRWG5PcUFKTlBZSGc5WjNsa3h3OEVtX25tbUkxa0k0QkpRUW9oTGxLU01lMTNsdkFvaW16WGZjLXd5VXZwbW5wcS14UUl6WmJWYTMtanIyeXR3d2lwUVl6U1o0UkhmcTI4cjI5dlMtUG94RU1GTFJxMkZRUXJPOFVicGc5dmt2cHRqWVJpeG1LQmN3UVU?oc=5",
+   "pub": "Mon, 02 Nov 2026 07:38:36 GMT"
+  },
+  {
+   "t": "Nachts telefonieren Netanjahu und Trump über einen Iran-Angriff – doch ihre Ziele gehen auseinander - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnpOOWpSTzNlb3BpNG5XZUlZSFBFbldKdS1KcWx3WXBNVzNMY1dtQnJKUFVnUVFYTGthYl9vUnQtUlM5QlFPMzNsOG50YzhRTG9VUmZrLXFGZXEtaWkxSDE0QnZDRnlEbTJ3VDBCc3NQcUM1ZDIteGFUUGtCMXZaNm8zeWJiZjZIel9fME9Rbklsd3BVUXpjV280Qkl4Y011MFZ5V1dVNURCb0U?oc=5",
+   "pub": "Mon, 02 Nov 2026 09:11:09 GMT"
+  },
   {
    "t": "Donald Trump prahlt neue Angriffsziele in Iran ins Spiel - »Pickaxe Mountain«? - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWF3XzNpWnc0Z3Z4Mkg5RlA5VEsxenluTWlfRmxWQ3BmWW54NmZuLU8wQjk2S1RhZW81VkdaaE1MMHQ1OWRWNlRYRFFuNUg0SjVzZEl0NDFLdGNGUmxxZDg1Zml5QjRqWnJYblNFVFpFX3hZVjJxODBITURJOWRzUXlnZHl1bVV5alBZeXRfZkZva1pLcUg1RnQzMVlyMDFhQnFpbWUwQkJIdDlpQ3lMdXk0R3J3NHM2cWFvc2NxR2cxQldkMC1WSzF1VzhpR2tmSFZBak90M1NzZjg?oc=5",
    "pub": "Sun, 01 Nov 2026 20:51:00 GMT"
   },
   {
-   "t": "„Der Begriff Zukunft ergibt keinen Sinn mehr“ – Im Iran kippt die Stimmung in Verzweiflung - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZVBDbE1HSVROZER5dTFVUjlTT2ozRkFXdGtfd3ZKMGJOelphVi1kVDVtOTFydHJucnFxalpzYlNLTjNfNElhUEJJSWVpZnJEbmtzQlZlTG9sejF3U2Fmb2NmendvVHhMbExtWjJxZkdoUUM3SFVvQ0w0R1VNblg4SjZqc2lyaVo3WVVNSXRIMXVtWUROMllqTFFUVDN0cEdXWVFmeEhRX3RvNDZyTjVTQnpDTkp0Z3pxUDNuSkF0bGx3Z1JRS3FjUzdYVC1XX1N1UWpLbVFTWVNTaXA0MTJKcGVENDBFMTlYWi16X3RhaE1wUXc?oc=5",
-   "pub": "Sun, 01 Nov 2026 12:13:52 GMT"
+   "t": "Iran-Krieg: Warnung vor neuer Eskalation - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWNEQ2xDU1N5dGxDNG1sblVFekJvUW5tTnJqRGl0VFNHN3RxcjFUSzdIcWFSTXB5ZHVpZmxMbEJrSnJHekp3RVJNeURlNVh3WjN0R044d05Hcl9WTXRWQ2dzQjVDdEtzQnZDYjMzbTl4RFpDeS1SdE5VbU1nemU3S3c3WQ?oc=5",
+   "pub": "Mon, 02 Nov 2026 08:12:41 GMT"
   },
   {
-   "t": "Sorgen am Golf vor einer nächsten Runde im Krieg zwischen den USA und Iran - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSMmU5dW5TdUc1MDBkeVhEaXY4aTh6andfN0FvR2kyNFg5ejZEc2dQUnA3TzVONW9IdXVKdWhlb3FhcnlUN2VxeWNXdEZwcHEzcU11VzdjbzVMTlg2WHlZTXJmWU1CbllqSHhhYzJR?oc=5",
-   "pub": "Sun, 01 Nov 2026 15:31:00 GMT"
+   "t": "Iran stellt erneut Öffnung der Hormuz-Straße in Aussicht - Südtirol News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSlJ3MWhwREVSYm12MUhBNGNxSHpjSnNMM2dzbU0xckhGNk9IQXg3QVk5XzljQ2tUTUtQWGZzS09ZWlZWRjBiMlF2OWswbGZrUG0yX3dJck1yN1lHOXVtc0Z2bmpSTUs5Wk03X3E1a0ozaWktOS1Yc2RMWkNzTGtPQVNlRlM0ZElYVGgxZTNsbkUtZlkwb3hZSlJyOA?oc=5",
+   "pub": "Mon, 02 Nov 2026 10:08:00 GMT"
   },
   {
-   "t": "Zwei Tage vor US-Kongresswahlen: Trump bekräftigt Drohung gegen Iran - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2RxSXVIWk1tVUJIVlJBak5TNllObXNzdml1cTlYMGpxUHlxU3lSNUdSb1dRRi13ZDhaTEdlemd6RjdWVkd4R2lXOGRVc2FjYTNkQnV3Z0VZY0hKcXlDZHJTQzZ2TDNybTRHdGZFNDVHMjU1TXZ1Z3BDRVgwU2h1Rk5UMFJYWnctZldPVXRsZzFFZ0dYZzhITjlUYXJOdW8zM1piVHE4NWN0eC1NVVE?oc=5",
-   "pub": "Mon, 02 Nov 2026 03:33:54 GMT"
+   "t": "Donald Trump und Benjamin Netanjahu: Zwei geschwächte Männer, die jetzt den Sieg brauchen - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPellpUUFXcE9mcEoydzdfTkpsdjZWX3F1Rmt1RjdTV1hVZzg1eUtZM2dLa3Bzalh3YmlBTFpZbDlYVndwRFFKSFh0VzdVbXdzYjhyTktPLV8zUEExLVduM2NTM0VRTW9sOGI2YjI1dWFhcmJ2a04tYmxaNzM3VWRfLWZDT2psdVN2X1hISWdHc2YwWG8?oc=5",
+   "pub": "Mon, 02 Nov 2026 04:34:53 GMT"
+  },
+  {
+   "t": "Brent-Ölpreis fällt um 3,2 Prozent: Katar vermittelt im Iran-Krieg - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNm1JNml4RFBKdTFaSnJMV1djcVRJU0JHSFpqeFhDSGFMajlXMTlGZDljcy1XY0FwMVpwQ0gxMXBRRGxmUGRyaGpsTXJMUmZLdDdRVzZGd2tUOC0wZ1F0WDNMLTAzOXI2QzJvZnFmMlZBT0FOMVVVZFMtYmRvaHJYRzR6bmV1VS1jX0ZzRE1zdEF6SzVlT3V4aFRsYlNObjVEcWFCWnhZTkdPNHFxSXhycnZIeklQZw?oc=5",
+   "pub": "Mon, 02 Nov 2026 05:55:29 GMT"
+  },
+  {
+   "t": "Donald Trump setzt wohl auf Diplomatie im Iran – Europas Gaspreis gibt nach - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanBXYTZlSzJvbDBBcnNhOEllY2JFeWdRYzRKd0xLOHVmbE54SUNCZE1RT3A0THBoWmNINUczLVB6bm1aVmQ0eU9fX012QWUwMlllRnBWR1VQaDJCLVd4YzNTb1ExQUFXUHNuUXQtdGJaRlR4QlVfTGVOcHE1MEJ6WWt2MjBMbTRvSW9UeFRqU2JHbzV5OGtXU2lTamhKLUZ0Q0JHQVZNUGdUMEdBeE5icWg4MFZVQ01zLTE2aUFmRkhMQQ?oc=5",
+   "pub": "Mon, 02 Nov 2026 14:23:00 GMT"
   },
   {
    "t": "Iran: \"Geographisch uneingeschränkte Antwort\" bei US-Attacke - DW.com",
@@ -74,39 +104,9 @@
    "pub": "Sun, 01 Nov 2026 00:25:05 GMT"
   },
   {
-   "t": "Fed-Zinsentscheid: Aktueller Leitzins und Prognose 2026 - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0VkRnZ4QVVNejlNWVFsZFdVYmRRejF2Z1dHbWh1eDJQbUprYXlfZE9BRnpFdzBXZEl1ZU9yQVFPcUgtazA0NVRuQzlDVEgxQlIwbk4tVDVJVXJHTWhmZDE0azhfSWhFZTJIRzdSYmphRTlLWk5aYkpVeDZubGNJT3VzQ04yZFJzTi1tQzFaU01DeFZVZHVaTXlIcEpTSjJzeXc?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:38:39 GMT"
-  },
-  {
-   "t": "\"Auslöschen\" und \"Hölle\": Krieg ohne Strategie? Trumps Iran-Politik gerät ins Wanken - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2tJWWtTcmxkSEh1Wk4tWkxsMkZucWxhdmg4ZEZxV051Zk9CVDZUbUYzMm5MME50RGN5UUdGVmZUa2x3UXppWEdZaDFyVjRrdWZyRVRqc3djVE5MYmJXbDQzQ0g2a3pPUktPSERrTjNjaXJLVTljSTJhZ3RFZmlHNzZJVTl0SFZta3JkMTdjcDZDc3QyU0VMdm8za1RWazkwbkstc3hPY0JMRk8xTXlqb1ZZRHYzbGZoVUxVTHlwX1dDbnFDNF9V?oc=5",
-   "pub": "Sun, 01 Nov 2026 16:30:35 GMT"
-  },
-  {
-   "t": "Neue Angriffe auf den Iran?: Trump und Netanjahu offenbar uneinig über weiteres Vorgehen - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnpZNUVKcTVIN0cwaE5CZEM4VFRSMHZtZ0ZfQnZwaFBReWZ3M3poUlJjMTgwWUc0eTdBZ0ZVOXZ0NlRzdnhFQ3dGUGRHazl5UWRwaXEzdzlOeE5iZUJua094NUQyWmt5R1l2aWtfTF9CeUtQc0VJZ0dMZ0hEcXV2dGw3Vmh0N0FsazM3eHNhOTV1R21EWU9HWTFzSWRCRFIyYUlQOTg4ZzRTTzdRTmNGbTBJUEdMcDdjVXBrQ3YzcUkteVRkRHBoXzBxMlYzTVlicGZYdDdHN21VZ0FB?oc=5",
-   "pub": "Sun, 01 Nov 2026 20:39:43 GMT"
-  },
-  {
-   "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
-   "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
-  },
-  {
-   "t": "\"Irre\" Kriegspläne nach den Midterms: Die Angst vor neuer Eskalation im Iran wächst - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelg1Vk1TNzhWZDdzakk3aElRZ1JDQlhZanl3UmFpOTNRNU54MUktUlYyVmJ2T2lWRl9UZmJTcERoSnpWVnBpSWJNV2N4dXdZMlVLSkJDTXN1OXp0bXFta1pLM0RhODEtQjIwdko1UkU5VUpYYjZjWlFHVnFDNFZha0JjbFBPSlA5cmluaGpwZDRqMWQ5MmFaM1dield0UEF5SlY3U3JRVjR1anp0VDJLVEo1ZXhLZlBvZzNCVGFYb1liU2R5cU1sd1doRjRsV0ox?oc=5",
-   "pub": "Mon, 02 Nov 2026 02:28:00 GMT"
-  },
-  {
-   "t": "Israel: Yair Golan warnt vor neuem Krieg mit Iran unter Netanyahu - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSUpaOHdiNDRwTncwa0dzMkRYS2d2T085QXhvVzJxSkRiNG1hWlNGZ3ZjdmVHSWpiNG5jbG5rOU5vdFhLdm9mVnFZZWxCd2ZWcXJBcVIwYlBhcWUtVks5U1hqOEhrMkFkZ2F3bjdFUjVWVWsxSThyX1VyUHhOenZ5ZXNuWDBmZW9YcU9DdEdFWjZHYjRrb09IcTdRZTNDRmJsRWQwZW4xWks4UTk3SUZUWjFlbjJuYjFNZ0ZfbGZpbmp2N05yU1RDRzdMeEtqY00?oc=5",
-   "pub": "Sun, 01 Nov 2026 20:51:00 GMT"
-  },
-  {
-   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHRpSEhDazdQNE56OFozN3NyOGNLYm5QTWg5UVVkaVJyOVpHeUtqcDBQck1kR1lzd2c3Vk9lVERVZ0padkhXamFyTW8xZHhUb053Um11YkdVQ1ZVd3NLakp0N1g2aHBfbF9CSTlRVnVZUnk2OE9yQV9BYWlZRFNkcFBBTHl0Y3Izd2JoNGttSnRrR0NqdlBhU29KY05TS3FSOVFKLUJPb2xtS290aDRxSHFzQXE5VDRu?oc=5",
-   "pub": "Wed, 28 Oct 2026 09:43:37 GMT"
+   "t": "Zwei Tage vor US-Kongresswahlen: Trump bekräftigt Drohung gegen Iran - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2RxSXVIWk1tVUJIVlJBak5TNllObXNzdml1cTlYMGpxUHlxU3lSNUdSb1dRRi13ZDhaTEdlemd6RjdWVkd4R2lXOGRVc2FjYTNkQnV3Z0VZY0hKcXlDZHJTQzZ2TDNybTRHdGZFNDVHMjU1TXZ1Z3BDRVgwU2h1Rk5UMFJYWnctZldPVXRsZzFFZ0dYZzhITjlUYXJOdW8zM1piVHE4NWN0eC1NVVE?oc=5",
+   "pub": "Mon, 02 Nov 2026 03:33:54 GMT"
   }
  ]
 }
