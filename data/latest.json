@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-01T23:37:14Z",
+ "collected_at": "2026-11-02T06:08:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8247,
-   "chg1d_pct": 0.13
+   "price": 0.8231,
+   "chg1d_pct": -0.06
   },
   "USDJPY": {
-   "price": 157.637,
-   "chg1d_pct": -0.11
+   "price": 157.776,
+   "chg1d_pct": -0.02
   },
   "GBPCAD": {
-   "price": 1.8707,
-   "chg1d_pct": -0.01
+   "price": 1.8731,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 110.797,
-   "chg1d_pct": -0.07
+   "price": 110.776,
+   "chg1d_pct": -0.09
   },
   "EURUSD": {
-   "price": 1.1162,
-   "chg1d_pct": -0.19
+   "price": 1.1189,
+   "chg1d_pct": 0.06
   },
   "GBPCHF": {
-   "price": 1.104,
-   "chg1d_pct": 0.21
+   "price": 1.103,
+   "chg1d_pct": 0.12
   },
   "WTI": {
-   "price": 102.4,
-   "chg1d_pct": -1.65
+   "price": 100.58,
+   "chg1d_pct": -3.4
   },
   "BRENT": {
-   "price": 111.69,
-   "chg1d_pct": -5.06
+   "price": 109.82,
+   "chg1d_pct": -6.65
   },
   "GOLD": {
-   "price": 3910.4,
-   "chg1d_pct": 0.29
+   "price": 3922.7,
+   "chg1d_pct": 0.61
   },
   "SPX_FUT": {
-   "price": 7632.5,
-   "chg1d_pct": 0.24
+   "price": 7654.75,
+   "chg1d_pct": 0.54
   },
   "NAS_FUT": {
-   "price": 28648.25,
-   "chg1d_pct": 0.4
+   "price": 28822.75,
+   "chg1d_pct": 1.01
   }
  },
  "headlines": [
@@ -59,34 +59,19 @@
    "pub": "Sun, 01 Nov 2026 12:13:52 GMT"
   },
   {
-   "t": "Trump droht Iran mit neuen Angriffen: „In zehn Minuten erledigt“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd0kwRF90aW5oaTRpWTJwc3lmakZod3hjU09Gei1fa0dGbnZSZFhFcWdpWmhpY2JYajM2LTFodEI1M3dFbTZKRUxqU1RZallpY2NCTmtiNzlnN3FVaHVhbVVRLWxSN3dtR1JucTU5WkhubVBGYVpiUWJNRkRQYnpZcFB0T3N6WElzaC1TR0xJUWYyU0oxYzdacGNfN1FOTnUzXzIyMmFUT2hIblEwLVhhMXphT1EzNWUtT3ZycFQyNWRPSGFUTUhxcUl4MHA5cFVpN1R5eXhPQkFLdw?oc=5",
-   "pub": "Sun, 01 Nov 2026 13:32:47 GMT"
-  },
-  {
    "t": "Sorgen am Golf vor einer nächsten Runde im Krieg zwischen den USA und Iran - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSMmU5dW5TdUc1MDBkeVhEaXY4aTh6andfN0FvR2kyNFg5ejZEc2dQUnA3TzVONW9IdXVKdWhlb3FhcnlUN2VxeWNXdEZwcHEzcU11VzdjbzVMTlg2WHlZTXJmWU1CbllqSHhhYzJR?oc=5",
    "pub": "Sun, 01 Nov 2026 15:31:00 GMT"
   },
   {
-   "t": "Irak: Land ohne Macht | Mapped Out - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOG9XVmJnT0VWRFBLREhPRXdBUGI1RHJZMzBxNlBudWRZdHBHSG9PV2RqQmJpcFBWV0puVkxCekFmUE1tOXgzYkZLYk5obV9wYl9LQkhEOEpySUV3WlYwWjBRVHoyVVFPQnNWZGU3NVhXNEx3ZTljQTlWdm81d0VZSW1kZUJ3eWQ4cnRhYUtJVQ?oc=5",
-   "pub": "Sun, 01 Nov 2026 11:52:38 GMT"
+   "t": "Zwei Tage vor US-Kongresswahlen: Trump bekräftigt Drohung gegen Iran - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2RxSXVIWk1tVUJIVlJBak5TNllObXNzdml1cTlYMGpxUHlxU3lSNUdSb1dRRi13ZDhaTEdlemd6RjdWVkd4R2lXOGRVc2FjYTNkQnV3Z0VZY0hKcXlDZHJTQzZ2TDNybTRHdGZFNDVHMjU1TXZ1Z3BDRVgwU2h1Rk5UMFJYWnctZldPVXRsZzFFZ0dYZzhITjlUYXJOdW8zM1piVHE4NWN0eC1NVVE?oc=5",
+   "pub": "Mon, 02 Nov 2026 03:33:54 GMT"
   },
   {
-   "t": "Neue Angriffe auf den Iran?: Trump und Netanjahu offenbar uneinig über weiteres Vorgehen - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnpZNUVKcTVIN0cwaE5CZEM4VFRSMHZtZ0ZfQnZwaFBReWZ3M3poUlJjMTgwWUc0eTdBZ0ZVOXZ0NlRzdnhFQ3dGUGRHazl5UWRwaXEzdzlOeE5iZUJua094NUQyWmt5R1l2aWtfTF9CeUtQc0VJZ0dMZ0hEcXV2dGw3Vmh0N0FsazM3eHNhOTV1R21EWU9HWTFzSWRCRFIyYUlQOTg4ZzRTTzdRTmNGbTBJUEdMcDdjVXBrQ3YzcUkteVRkRHBoXzBxMlYzTVlicGZYdDdHN21VZ0FB?oc=5",
-   "pub": "Sun, 01 Nov 2026 20:39:43 GMT"
-  },
-  {
-   "t": "Iran knüpft Gespräche mit den USA an sieben Bedingungen - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWxfVm15NEZETjlLamJzSVdJcHFDUTlBdGxSNWF3WThoRl9GeWRVUmljWjdGVkx5Q1FhUGtUbDFwcmF6cDlJLTVHUUhEQVhULVRCaDR2RElqSDYzQXl6a1hlWXFfX1pLcGYxbjdPUExUREEwWi0zVWY2MXZ1Ykx5UkxPcUVUNGhqa3hxMDFSbEZiUW84b0Q3emVaN3ZISm0zNXAzcw?oc=5",
-   "pub": "Sun, 01 Nov 2026 07:48:00 GMT"
-  },
-  {
-   "t": "\"Irre\" Kriegspläne: Die Angst vor neuer Eskalation im Iran nach den Midterms wächst - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd0J3Nk9OMVJmX283TW9iQk41dHE4SVc1NExaNEtzTEZhbjJpVXRJc0JyblMtY3R1amU2c1lSOEhJanBqa2dlVDhJYnh4NGVmc0dHQlZKMmxtS0pBRXpkSVRFOUpGTGR5VzF2QTJoUzFOUnFYb0lUWEpPYXl2YXcxTkZ5YjJic2VVY0VZaVlIX19yNEcxNi1pQzZLNTE0aUlpdlNFbk0yS0JoSlZJSGgwUDdLbHcwZVVsaFRrbzE1MjJRT0w3bmlabjhVMElMQ05BN2Fn?oc=5",
-   "pub": "Sun, 01 Nov 2026 13:53:00 GMT"
+   "t": "Iran: \"Geographisch uneingeschränkte Antwort\" bei US-Attacke - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGZ1N0tNRFlBM1duQ2Z4N0xqRGYxWGpqWVEySFFvMGdSOUFLZS10WmNCdjg5RVh5TkM2ZnN2RUlVLUlyQUJCc01ROTdna3ZYWng1UzAxVG1EeXNOZG0tdmJ5ZTVXVmtZX0ZIM2xjX0E5R3NkbUR3eEsxYTlrdGlVNTVOV01GTDhGT2NLTWFMU2E2MngyV1ZzRDlLMNIBmwFBVV95cUxObHlDbEdkTmFadXBnZkhLUGZkckd3SnRyMXg1S1NMekpBdnl4R2haMnVsOFo4UDJmMm9GYWxjTXdpdUZsN3hYaHpDMVY5dzg0NUIwMHdnS2tqZEphTXpQMWI3WGNobHc0YlVLWlBuYjlDRXhMVE9kRjZJel82Sk04cDh0VUlHUHNGb3hpcDQwREViY253LXpYSXFaVQ?oc=5",
+   "pub": "Sun, 01 Nov 2026 00:25:05 GMT"
   },
   {
    "t": "Fed-Zinsentscheid: Aktueller Leitzins und Prognose 2026 - LBBW",
@@ -94,9 +79,24 @@
    "pub": "Wed, 28 Oct 2026 18:38:39 GMT"
   },
   {
+   "t": "\"Auslöschen\" und \"Hölle\": Krieg ohne Strategie? Trumps Iran-Politik gerät ins Wanken - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2tJWWtTcmxkSEh1Wk4tWkxsMkZucWxhdmg4ZEZxV051Zk9CVDZUbUYzMm5MME50RGN5UUdGVmZUa2x3UXppWEdZaDFyVjRrdWZyRVRqc3djVE5MYmJXbDQzQ0g2a3pPUktPSERrTjNjaXJLVTljSTJhZ3RFZmlHNzZJVTl0SFZta3JkMTdjcDZDc3QyU0VMdm8za1RWazkwbkstc3hPY0JMRk8xTXlqb1ZZRHYzbGZoVUxVTHlwX1dDbnFDNF9V?oc=5",
+   "pub": "Sun, 01 Nov 2026 16:30:35 GMT"
+  },
+  {
+   "t": "Neue Angriffe auf den Iran?: Trump und Netanjahu offenbar uneinig über weiteres Vorgehen - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcnpZNUVKcTVIN0cwaE5CZEM4VFRSMHZtZ0ZfQnZwaFBReWZ3M3poUlJjMTgwWUc0eTdBZ0ZVOXZ0NlRzdnhFQ3dGUGRHazl5UWRwaXEzdzlOeE5iZUJua094NUQyWmt5R1l2aWtfTF9CeUtQc0VJZ0dMZ0hEcXV2dGw3Vmh0N0FsazM3eHNhOTV1R21EWU9HWTFzSWRCRFIyYUlQOTg4ZzRTTzdRTmNGbTBJUEdMcDdjVXBrQ3YzcUkteVRkRHBoXzBxMlYzTVlicGZYdDdHN21VZ0FB?oc=5",
+   "pub": "Sun, 01 Nov 2026 20:39:43 GMT"
+  },
+  {
    "t": "US-Wirtschaft: Notenbank Fed lässt den Leitzins vor US-Zwischenwahlen unverändert - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYnJUZDZidUZEM0stbGk5S3VjQWdHTWtNRWI4cDZwRmhfMXhaNU9HY2xYYmcySXZlUGFZY1IxQ1Jlcm9KdlJMRUxzNE4tX25XVVJQVFg1YkNZeU9Od2cyWUhLN0FadG5McUsySkZxNlROVmVvU2ZpR0ZJaEc2VGJRei1SSUtlNHM?oc=5",
    "pub": "Wed, 28 Oct 2026 18:24:46 GMT"
+  },
+  {
+   "t": "\"Irre\" Kriegspläne nach den Midterms: Die Angst vor neuer Eskalation im Iran wächst - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelg1Vk1TNzhWZDdzakk3aElRZ1JDQlhZanl3UmFpOTNRNU54MUktUlYyVmJ2T2lWRl9UZmJTcERoSnpWVnBpSWJNV2N4dXdZMlVLSkJDTXN1OXp0bXFta1pLM0RhODEtQjIwdko1UkU5VUpYYjZjWlFHVnFDNFZha0JjbFBPSlA5cmluaGpwZDRqMWQ5MmFaM1dield0UEF5SlY3U3JRVjR1anp0VDJLVEo1ZXhLZlBvZzNCVGFYb1liU2R5cU1sd1doRjRsV0ox?oc=5",
+   "pub": "Mon, 02 Nov 2026 02:28:00 GMT"
   },
   {
    "t": "Israel: Yair Golan warnt vor neuem Krieg mit Iran unter Netanyahu - Spiegel",
@@ -104,9 +104,9 @@
    "pub": "Sun, 01 Nov 2026 20:51:00 GMT"
   },
   {
-   "t": "Iran: \"Geographisch uneingeschränkte Antwort\" bei US-Attacke - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGZ1N0tNRFlBM1duQ2Z4N0xqRGYxWGpqWVEySFFvMGdSOUFLZS10WmNCdjg5RVh5TkM2ZnN2RUlVLUlyQUJCc01ROTdna3ZYWng1UzAxVG1EeXNOZG0tdmJ5ZTVXVmtZX0ZIM2xjX0E5R3NkbUR3eEsxYTlrdGlVNTVOV01GTDhGT2NLTWFMU2E2MngyV1ZzRDlLMNIBmwFBVV95cUxObHlDbEdkTmFadXBnZkhLUGZkckd3SnRyMXg1S1NMekpBdnl4R2haMnVsOFo4UDJmMm9GYWxjTXdpdUZsN3hYaHpDMVY5dzg0NUIwMHdnS2tqZEphTXpQMWI3WGNobHc0YlVLWlBuYjlDRXhMVE9kRjZJel82Sk04cDh0VUlHUHNGb3hpcDQwREViY253LXpYSXFaVQ?oc=5",
-   "pub": "Sun, 01 Nov 2026 00:25:05 GMT"
+   "t": "Fed Zinsentscheid heute: Uhrzeit, Ablaufplan und Prognose - LBBW",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHRpSEhDazdQNE56OFozN3NyOGNLYm5QTWg5UVVkaVJyOVpHeUtqcDBQck1kR1lzd2c3Vk9lVERVZ0padkhXamFyTW8xZHhUb053Um11YkdVQ1ZVd3NLakp0N1g2aHBfbF9CSTlRVnVZUnk2OE9yQV9BYWlZRFNkcFBBTHl0Y3Izd2JoNGttSnRrR0NqdlBhU29KY05TS3FSOVFKLUJPb2xtS290aDRxSHFzQXE5VDRu?oc=5",
+   "pub": "Wed, 28 Oct 2026 09:43:37 GMT"
   }
  ]
 }
