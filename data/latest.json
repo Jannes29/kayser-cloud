@@ -1,102 +1,77 @@
 {
- "collected_at": "2026-11-03T06:50:54Z",
+ "collected_at": "2026-11-03T15:10:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8181,
-   "chg1d_pct": -0.81
+   "price": 0.8205,
+   "chg1d_pct": -0.52
   },
   "USDJPY": {
-   "price": 157.852,
-   "chg1d_pct": 0.11
+   "price": 158.45,
+   "chg1d_pct": 0.49
   },
   "GBPCAD": {
-   "price": 1.8734,
-   "chg1d_pct": 0.19
+   "price": 1.8782,
+   "chg1d_pct": 0.45
   },
   "AUDJPY": {
-   "price": 110.195,
-   "chg1d_pct": -0.56
+   "price": 110.658,
+   "chg1d_pct": -0.14
   },
   "EURUSD": {
-   "price": 1.1191,
-   "chg1d_pct": 0.31
+   "price": 1.1194,
+   "chg1d_pct": 0.33
   },
   "GBPCHF": {
-   "price": 1.0971,
-   "chg1d_pct": -0.61
+   "price": 1.1015,
+   "chg1d_pct": -0.22
   },
   "WTI": {
-   "price": 97.79,
-   "chg1d_pct": 1.38
+   "price": 95.98,
+   "chg1d_pct": -0.5
   },
   "BRENT": {
-   "price": 106.2,
-   "chg1d_pct": 1.36
+   "price": 103.54,
+   "chg1d_pct": -1.17
   },
   "GOLD": {
-   "price": 3930.9,
-   "chg1d_pct": -0.97
+   "price": 3952.5,
+   "chg1d_pct": -0.43
   },
   "SPX_FUT": {
-   "price": 7559.75,
-   "chg1d_pct": -0.19
+   "price": 7588.5,
+   "chg1d_pct": 0.18
   },
   "NAS_FUT": {
-   "price": 28107.0,
-   "chg1d_pct": -0.07
+   "price": 28267.75,
+   "chg1d_pct": 0.5
   }
  },
  "headlines": [
   {
-   "t": "Bericht: USA greifen mehrere Ziele in Iran an - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9lbFUwSjhybk9oQ3NxVHh0MUxBVU4ySllXZTZkSWNYRmFNendiYnBhUUdGWmpja3ltdDl5VDk3WUc1RWwxb3Nub3pBNnl5RWdFekhEc0daZFdfMDBJbW9pQ0taN0I1YXdJcktSamtCalNCLXgtU2tJMDlzWFF3UWtjcXcwRV94b2szSExVRnZfZVhRLWJLSg?oc=5",
-   "pub": "Tue, 03 Nov 2026 04:23:31 GMT"
+   "t": "Proteste im Iran: Iran richtet zwei Männer nach Massenprotesten hin - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXQ1Y01oTTFfZ3RzN1pYRGtXQW93LXU3RVBwbi1nTEJsS253TURwM0RKSmdRMUFhSFhCSWswVTdoeEtYWTFCeG9lTEl3UXBKa1JUWld4bjlMVDlkLTkwU3cwaG5PUTFYbHRoQjEwZGNkUXl3S080TkR1bW5fM2VCODZFX0o5LTNGUjRKeHk5VWxHQ2gwelFhNXpB?oc=5",
+   "pub": "Tue, 03 Nov 2026 13:04:03 GMT"
   },
   {
-   "t": "USA bombardieren iranische Insel Qeschm - Spiegel",
+   "t": "„Sehr schön getroffen“: Trump bestätigt US-Angriff auf Luftabwehranlage im Iran - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUNUcEpkTUlLM3l3Vml3U3VJZUw0RmJyeW0tTmhyaktJUFZfZ1ZBODJiZmpRc1VnYTkwSVdGVHg4c1hid0R1WVdGM2lvWkFab2F5bUJRaENJWWVVekNRd0JrQmlHZ0dGaTFUcjZaVXhadE5YOWlqekdwR0ZBX2otSU9BN3FIT2VLTVRWVjB3c1Fjd3hjODcxQ2t3MlZMallwbEVOeU1OTUVRazZJYXI5ZGgzeF9BLUNkX1JFYzBVWTBDcVVTa2VsUk9haHhTSlE2X1FDMQ?oc=5",
+   "pub": "Tue, 03 Nov 2026 14:17:34 GMT"
+  },
+  {
+   "t": "Iran droht mit Vergeltungsschlägen in Europa - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzAwWTVBaU0wTXVOZEY1QkJSQl9pcmN4V21fRXF2TGN4V25ULUZpMDRDaFQ3c0laX09pc1BMZVlOcnlWeTI2SW01cW5YalFncUtwRno2QVZuQmFUUi1kbUxBQUxmcngxQjBuWXFoUXhQdm14aG0tRlBqdFN1U2QtZnMwLURERHhDNkNkMW9XQmlpVDR0dWpmQ3FWMGM0RnhVci04N2hybw?oc=5",
+   "pub": "Tue, 03 Nov 2026 13:46:46 GMT"
+  },
+  {
+   "t": "„Es gibt keine roten Linien mehr“ – Nun droht der Iran sogar Deutschland direkt - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWXBVdGRWUk43RlplSjJuTlFpZVVTdGZ2MTJTaWxxWC1sZ2kzWGZqZHBWVUNrWUtJc09ja3RHS1FJWWlhcnVsWm41YnFsUUczZjdiVk9sbzl1QS14M1NDN0NnVkRzWEdVcnlqc3hQTktIblcyazRsc1M4VjR5VTN3UG5QV2VjX3NHMHBFcnA4c0Y2LVh6V2x6UnhBY2ViZzY1LURqNFl3cXB6c01wMFIwZUJIUDNjUkp4ejR6SVIyWmlyVjQwRzd3V0NKWnlmY0l0NWYzamVrRjZTT0F3T2pfT3NzeWcwRUU?oc=5",
+   "pub": "Tue, 03 Nov 2026 13:49:23 GMT"
+  },
+  {
+   "t": "Iran-Krieg: USA bombardieren Insel Qeschm - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUxvakFNQUczYmZsaGJweDJSZ0Zfd01pYVRodHNoLXl5MkgyVTVEY2ZyMWRXZXQ5RncwcXdUMGFvaTl3TDJ6WVByaVZQelY2ZXprOVJOUmExbHY0OXFTelVXT0paNFhQUS1lZjRXaXROVC1NOGJ5NTZzOU1TdUVVTlprNDlYZUhwWUxEOGUyTjZSd2N4aTRqbVFid2wyUi1ZMEdRMlppWFJYOVVZbHc?oc=5",
    "pub": "Tue, 03 Nov 2026 05:37:00 GMT"
-  },
-  {
-   "t": "Qeschm: Geheimer US-Angriff auf Iran trotz Trumps Friedenssignalen - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGsxQjYzaE9GV0RpM3lnTERJRjRXWE0tR3FSWGw0UzVmQ3hIb0pKNTIzREppaUljOEJPTzh0NVZFdUNCQk0xSGYzVmFSVTBFd3RKTVZCVno1TE0tTWU1WE1xM25CNDV1d1Iwd2FPek1IZDVNUHR5Wjl1Z1FGakFYSW5ZVjdFRVFfUHlBMlZvdm5zdk9VNmNNNG9EbmZGYU5BRjFQZm1KZmxuWTJFOUVSYWNiNEhPTGlrWExtcE5UWDFJOEFnTWk0TFh6UWE5a2JSQmlGMEZEYWNSZk5VV2pv?oc=5",
-   "pub": "Tue, 03 Nov 2026 03:47:44 GMT"
-  },
-  {
-   "t": "US-Angriff auf Gheschm: Weitere geheime Einsätze im Iran - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0hCaFZ2Vm1aYm5TT0hzdU90Ujl6Uk9XOEJsNmJNS0g2MXVaRm1XalhMbWtBX3paUE1OZXR1Sk1DSXE2cjI0Wm1EMnBRWlRybXJ5QkwtSFNzaVphbzJtQkpmdXdIRjRaTl9rbnZaeEtsRVhMajVld0F5N3A2d0JFQnBCQ1l3N2R3SHA4ZGVobGxTdWlPYW9yMlhTWlpfUHB5YkN4Z1RvSXE?oc=5",
-   "pub": "Tue, 03 Nov 2026 05:50:24 GMT"
-  },
-  {
-   "t": "Krieg in Nahost: Iran meldet Plan, Straße von Hormus binnen zwei Tagen zu öffnen – sofern USA Forderungen erfüllen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVXhibFRkcEFZb0lhamtHbjNxa0pFSkQ3cmZxQVN6QzV6akNZNVFkc18xR2ZDOFFaMjA0YXcxVFdUOGlqYlg3UW9QZkl6X0NkeVR5YkdZZjh2QUM0eHVwS3dJYTA2SUJRNVJIZnZRN05scUFjanVZNmxGcllmZDBrbFdzclZsUlBnMFVRcWY3SVRVQzBYRnZLX0pLcUxOdW40cUlOSms5TU5aeVRScktVMmhXZkl6ZEFiZVYtTGlmdVYzaDJEaTFIOHI2TEZwbG5iNUNJRFFLS3FwdlQ2RVJJYklYWGlrOTlQRmVvUWlhWUxvcUdQMEk4eVEtZ0dhdWplZ3lLQ0hTN1hBQQ?oc=5",
-   "pub": "Mon, 02 Nov 2026 18:52:44 GMT"
-  },
-  {
-   "t": "Bis dass der Galgen sie scheidet - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnl2TFRTdklPamlVMlVLd0dGWGJDUGtVWTBvb21TcExzd1FpQXg0NmhQSUtBVGhocVc1YWxEWHNJZUZ6SXh4bXBNUDVRN0I0V0czVjJYdnU3SDh0LW11Qnk4OXF3TlBiOGVhY0ZZT0V0SU1Nb3NlWnVsQ0I0dVhpVURYTXpNM3B3b3o4WWhGeE5acVVKX2xvTmhKbEpHWTJrSTQw?oc=5",
-   "pub": "Mon, 02 Nov 2026 18:56:00 GMT"
-  },
-  {
-   "t": "Indirekte Gespräche mit den USA: Iran meldet \"sehr intensive\" Verhandlungen - Vermittler aktiv - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHI5US0teDFWb3pkWHhCdDRBcUNLdGxPODVDNkZMYkF1Nks3Y0V0MnFDOTlCcUx2ZU5sbHVLUWZiNDg1NmRfTWNjcGo2Z3FsN09BNXR1S240LW9GZkVmUHJGbERPc0JqRWdTdlhNd0p5aVdTZW9MV3ZQWG9pQUZBN3pKMGtFYjhFa2lpQVJfbGRYbHZXMk1RM1h3ZlFSelBlQUNV?oc=5",
-   "pub": "Mon, 02 Nov 2026 17:51:34 GMT"
-  },
-  {
-   "t": "Militärschlag gegen Iran nach den Midterms? „Die US-Streitmacht ist heute in Teilen stärker belastet als zu Kriegsbeginn“ - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdnlFbU9XRlNUcWt5QVdiSnBVaHozSGtEb2cxczRvbWdMWHpEX0czQnRrVDU2a1FmMkVHOUktVW5HR1pQVnBSVkhlMnhFcjFGOEY4bGJfY1pRMEsyZG1QWjJFd2NoOVUwalU1QjR5UWlKa3ZIdTU0LVd3VS1nWTA4ZG5DSm5ySzJpdmFDNG5fRjJ6U0QyQThtdFI0UDRiNmRhQzRTVUc3Q3VTRWxySlQ3TDVuaV9yYXdxdDcxYW1YVFFqWHhlNzFUbEd6WXBfTHJWUEJNMlBMcFZocXdSb08wT25sUU5rSnFGRm9aT05odk1JTFhkRUJQdmVrc2poRWhIYnBsTXlpbw?oc=5",
-   "pub": "Mon, 02 Nov 2026 12:57:49 GMT"
-  },
-  {
-   "t": "Nach Trump-Drohung: Iran nimmt strategische Ziele am Golf ins Visier - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNklfRU9VZk1xNm9tZGswS2NWSUZyVkNIQ0lHYmpReTZlZHFqeVpWRkI4V0s4ZmVfMWJFUC1zQUU5dVBVaGJWcnE3OVFfcjE3bmlJNWRhZWFDa0lnRTBPNnNHVWxCVmd1dFJTNUlfdEU3bjl3cmEybWVNYS1wdy1qaUJCRGdqb09kbWxKamRXM29DY280Znp1bjNBRVFuNDc5UXpJcjRTWmVBekIwNTlBM1BVckVveWpDVmFUdWp0UkRmalpsZzJyd0VORXVXeFhiWXNwLVdUVmFFTUtKc2pYYVNuRGlueVFv?oc=5",
-   "pub": "Mon, 02 Nov 2026 15:19:54 GMT"
-  },
-  {
-   "t": "Börse: Friedenssignale aus Iran drücken Ölpreis, Dax und Dow legen zu - Manager Magazin",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVkRmakdZd3IxY0JBTG5VRXpxUXdTT1FzMDVFeTlaQS1iMFZYQnRxdm1qb2RaQkF6SW5peVl2OVJmTXMyTUlqb1o1bzNjMXhBbkd4SFkxTWt4bE5TVGZweDFzb3poTEw1R2hqaDY2SktpRjd4Z01lT3otWjIwUE54V19kcjUzWnVfazRHR1ljZndzV2ljaVRzYWxkcl9ZVXN0eWRwNWtuaFFYUmhQd2RrUEFOcnV2c21veEh1d1JPRXk4b1YzZU1tRUd5ckdPaGM2c1dfN1ZnWTM0WGpoZUE?oc=5",
-   "pub": "Mon, 02 Nov 2026 16:59:00 GMT"
   },
   {
    "t": "Ölpreise fallen: Trump, Iran-Krieg und Brent - FOCUS online",
@@ -104,9 +79,34 @@
    "pub": "Tue, 03 Nov 2026 06:31:00 GMT"
   },
   {
-   "t": "Ölpreis fällt bei Hormus-Gesprächen – Trump hält Iran-Angriffe offen - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDFVOU9IOElIVDFneGh4UTQyVmdld0lTMzhWT1JxamdoQ2lrWmlxQ0p2Q2hvc0hxTnJBVFZzcnBLQlAzalFvd0xQamVuS3paWEhsMW9ONHl3cm04M3FORXRfd1J5U1ZrTWNuNUxOc3BmME5iVlh4R2ZTLTgxRmNmREdJTkx6bjU1X2g4Y3R6clJ0OHI1Q25zVnozb0tpT0FYaFl3?oc=5",
-   "pub": "Mon, 02 Nov 2026 10:22:46 GMT"
+   "t": "Spritpreise: Was US-Wahl und Iran-Krieg für uns bedeuten - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlRaRms4blYtWlNvZmVtbjN6XzdmWjlMRWNzak9yaDRWWWFBTjlnZHNyT21XdFBvMUo1cGFJeDNYa3ZodUFuY3l2YzJydDRWMXV3c055NDR5Njg4MkppS2hwZW9VZk45LUJfMGlkYnZRLVB0TjdVZm5jM3JKdVdodUVfdmh1MTlkUG96VWExd3c2dzlWY1A0MDA5clVwbHBXS0M4dnBwWlFFMmhXejlNQ19WSlIwS0plNkVlZUhn?oc=5",
+   "pub": "Tue, 03 Nov 2026 12:47:17 GMT"
+  },
+  {
+   "t": "US-Angriffe im Iran schüren Angst vor erneuter Eskalation - SRF",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkNVMEZsVGc0VE5DU2FQV2RUaWxLbnJkT0VWY0k2cThuSmdFTlZYWjRVNVQxX3BtWE1raW02bkdHRW5pX1JIcTlaX1FHTjA5eUVKbGRXZFF5UVNBTjMzcW1BenJ2dkpvRk5VclYwMjByaGRabGgtUEhnQ0lkbjF4UVFLWm1VY2FxdDZKU0V0R3ZISG9HTFFLSWxEMlA?oc=5",
+   "pub": "Tue, 03 Nov 2026 14:11:13 GMT"
+  },
+  {
+   "t": "Explosionen auf Gheschm: USA greifen Iran an – Trump sagt, seit Monaten werde nicht mehr gekämpft - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmY3R3p4ZFNtVzNtNzVqSlNEYU5RLWJmN1lUUjJvUVliYzFzX0drWXlMTU5QQ3d4cVQweUY0SVNMSENOLUtJaS1BbGFlN01MSEN1Um1ZT3VFRmlUMHUxd2p5ckxGcng2bmp4SS0zWUp3dTd6QW0tcm9fQ3FSZUZsQ2VMXzFtTExKWlZUYnd3VUswckdLSlFDdURXamVYbzhaZUh6cUJ3?oc=5",
+   "pub": "Tue, 03 Nov 2026 08:32:37 GMT"
+  },
+  {
+   "t": "Qeschm: Geheimer US-Angriff auf Iran trotz Trumps Friedenssignalen - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUGsxQjYzaE9GV0RpM3lnTERJRjRXWE0tR3FSWGw0UzVmQ3hIb0pKNTIzREppaUljOEJPTzh0NVZFdUNCQk0xSGYzVmFSVTBFd3RKTVZCVno1TE0tTWU1WE1xM25CNDV1d1Iwd2FPek1IZDVNUHR5Wjl1Z1FGakFYSW5ZVjdFRVFfUHlBMlZvdm5zdk9VNmNNNG9EbmZGYU5BRjFQZm1KZmxuWTJFOUVSYWNiNEhPTGlrWExtcE5UWDFJOEFnTWk0TFh6UWE5a2JSQmlGMEZEYWNSZk5VV2pv?oc=5",
+   "pub": "Tue, 03 Nov 2026 03:47:44 GMT"
+  },
+  {
+   "t": "USA-News | Trump skizziert drei Szenarien über weiteres Vorgehen gegen Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTXFwb1JsMWd3UGlPR2F0OGl3Wm9EWl96Y3FKVWlzNjhJbktOTGQ1bzFJRmFoRWd5NW5TVXdNQWJzWlBRQlhneEltS2xFWjhDWjZOaV9ha2ZuZGN0VGp2QUpkYjd3THNISFc5VlMxckw0TElIUGd3WlNkdkx4WS11RlNTRlBKNmZQN0pBMGt4VEhwa2p4bDlHRnU0alZxNHBEUDJUMmRnVVlvMnU2MERpR0tnV19PQk5xTjlrcll2VFJEdllQZ1h1cmxOZXBHXzdWUGh3dV9ENA?oc=5",
+   "pub": "Tue, 03 Nov 2026 08:20:37 GMT"
+  },
+  {
+   "t": "USA/Iran – Die Angst vor der Wahl - nd-aktuell.de",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnZPT0MzejZPbWZLRUJpWmZ4aWR5ekVpUlg4VE96Y0JXRDk1cVpraFRUeVdWVVpxcURwWFZJSUZIY3NteG0xWTkxQWNrak9uMVQyaWxsM09iZFRKNGpMTFAtdHU0Yi1va2xISVJqcmpvcVd4cTJyYlgzREQ4TEhaYTctRWg?oc=5",
+   "pub": "Tue, 03 Nov 2026 14:27:16 GMT"
   }
  ]
 }
