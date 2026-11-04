@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-04T01:23:42Z",
+ "collected_at": "2026-11-04T09:16:00Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8158,
-   "chg1d_pct": -0.32
+   "price": 0.8162,
+   "chg1d_pct": -0.27
   },
   "USDJPY": {
-   "price": 158.137,
-   "chg1d_pct": 0.14
+   "price": 158.332,
+   "chg1d_pct": 0.26
   },
   "GBPCAD": {
-   "price": 1.8802,
-   "chg1d_pct": 0.29
+   "price": 1.8818,
+   "chg1d_pct": 0.37
   },
   "AUDJPY": {
-   "price": 110.258,
-   "chg1d_pct": -0.25
+   "price": 110.941,
+   "chg1d_pct": 0.37
   },
   "EURUSD": {
-   "price": 1.1246,
-   "chg1d_pct": 0.48
+   "price": 1.1254,
+   "chg1d_pct": 0.55
   },
   "GBPCHF": {
-   "price": 1.0978,
-   "chg1d_pct": 0.03
+   "price": 1.1008,
+   "chg1d_pct": 0.3
   },
   "WTI": {
-   "price": 96.6,
-   "chg1d_pct": 0.15
+   "price": 96.29,
+   "chg1d_pct": 0.21
   },
   "BRENT": {
-   "price": 104.34,
-   "chg1d_pct": -0.41
+   "price": 103.82,
+   "chg1d_pct": 0.21
   },
   "GOLD": {
-   "price": 3948.1,
-   "chg1d_pct": -0.54
+   "price": 4046.4,
+   "chg1d_pct": 2.69
   },
   "SPX_FUT": {
-   "price": 7546.0,
-   "chg1d_pct": -0.38
+   "price": 7614.5,
+   "chg1d_pct": 0.23
   },
   "NAS_FUT": {
-   "price": 27906.0,
-   "chg1d_pct": -0.79
+   "price": 28336.75,
+   "chg1d_pct": 0.11
   }
  },
  "headlines": [
@@ -59,9 +59,24 @@
    "pub": "Tue, 03 Nov 2026 21:14:58 GMT"
   },
   {
+   "t": "Nach Wahlniederlage: Trump deutet neue Angriffe auf Iran an - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU1J0bTVtTWNwYnhmZi16dlZkYmxZNGQ0S21HTE42RURGeEhOYWc5RnZIbWhpelFtZVJnYXBmVGhGWUpLV0RwSHhfbDRsd2dFdGxzRXhaOW5XUWlVN2xaOTd5TVRjY3JyN01KOGJqVm5lb1VCR21HU3R5bV8xUXFuRDk1dnEwYkN1M2dDc2p1NDNzSTN5ZjUwZ3l2UDQ5a3lwVWs1ZXY0TjNvNFU1RENKYUkxaXZGY29qbWRabnZNMjl3T3NVa3lycHhDZ2dFZw?oc=5",
+   "pub": "Wed, 04 Nov 2026 08:22:00 GMT"
+  },
+  {
+   "t": "Iran droht USA mit \"neuem Schlachtfeld\" nach mutmaßlichem Angriff auf Qeschm - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IbExIeS1aemRwZHlqbm9WV1lndnRUNEhod1NwM2dCUFR5X2xVWWc0WklMdWtaYU9VYUZvdF9KR1F1OXF6R3N3NUF1UXF0ajVsSTdkeXNmT01ycy1yaHdXcVFrN0V2TUhMUW1RbjdhUW5uQQ?oc=5",
+   "pub": "Tue, 03 Nov 2026 18:14:11 GMT"
+  },
+  {
    "t": "„Die einzige militärische Option ist ein Atomschlag“: Tucker Carlson warnt vor Angriff auf Iran-Bunker - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNG5ScEZIRmozQ3lVUTFJanI4ajNqM25nNXJ4ZklaSWp3alcwRVJrMjdhVDAyOEZqcGZpNlBwcUI1NUM3UWxJRmFhbGtJLXJhci1JWUVjYTQzYmc0NG1kVlJkdUduOHloc3BoUkNPTzFyenM5TV95SUxubWlZWllrYi1XNUljblRtVHJPYlZaOVd6LVNRZmpQd3pDcVllNkItYko4?oc=5",
    "pub": "Tue, 03 Nov 2026 21:23:40 GMT"
+  },
+  {
+   "t": "Midterms: Wie zwei Pastoren Trump den Senat abnahmen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG5sVV9aOHZ5TmliWWdGc2tYRDUzSlU2SkkwWkpjU2YySm5fSEg5NmU2aHNZVnl2V1Z1d21HTDgtNmNDNXA2ZTdVX2Mwbnd0T21xbTVScTU2SmJyZGduUHVmRGdfcUJWYVJpZzlSOERlZDBWREQxS20wOGVmOHhZcVNfQkFkd24zdVRnSWRxbWgwS1BUTFU4MFNn?oc=5",
+   "pub": "Wed, 04 Nov 2026 06:45:29 GMT"
   },
   {
    "t": "„Sehr schön getroffen“: Trump bestätigt US-Angriff auf Luftabwehranlage im Iran - Tagesspiegel",
@@ -69,29 +84,14 @@
    "pub": "Tue, 03 Nov 2026 14:17:34 GMT"
   },
   {
-   "t": "Iran-Krieg: USA bombardieren Insel Qeschm - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUxvakFNQUczYmZsaGJweDJSZ0Zfd01pYVRodHNoLXl5MkgyVTVEY2ZyMWRXZXQ5RncwcXdUMGFvaTl3TDJ6WVByaVZQelY2ZXprOVJOUmExbHY0OXFTelVXT0paNFhQUS1lZjRXaXROVC1NOGJ5NTZzOU1TdUVVTlprNDlYZUhwWUxEOGUyTjZSd2N4aTRqbVFid2wyUi1ZMEdRMlppWFJYOVVZbHc?oc=5",
-   "pub": "Tue, 03 Nov 2026 05:37:00 GMT"
-  },
-  {
-   "t": "Droht nach US-Angriffen der nächste Ölpreis-Schock? - BILD",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWkJJZDdiajJPdUFIMmVCZnN6Z3MwdXg3RjYydG5ibzN4akNrdE5lVGNaSEl4SGtlU3RlUFFMc2dUM3hPdVpnckNmMmdHczc4Wkg3aHN5VnJhdEFaY1k1NWM4MUZ2QnAyU0h1cG8zZmxqN3NabzYxYmdqXy1xbmhLTFVKMkV6RzJrU3NnWVR4bjh4Um4tU3hmdFFmRVZfM0N0VjNHNEhhajFMb3FySXhsVzF4Vi04QUp3ZWl4U2VTUk1UZ0xsZWNNUDFwWDRadw?oc=5",
-   "pub": "Tue, 03 Nov 2026 21:32:14 GMT"
-  },
-  {
    "t": "Trump bestätigt neuen Angriff auf den Iran - Südtirol News",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQS1xVlBWY1pmajFOaHYzU0o3RjBGN3FrSl9mQURFU09JWGZ2WkVjNVNqM1lLdzU1YjVJRkNORExnWVlNOC1HUWV2YkdHN1dkaTNrN0ZYc0JhODhYYmZ6X0VfRHU2VW9QTkt1UTJrN2VTVkhNc2FzU0szWXpNTVBGRnc5TVd0ek0?oc=5",
    "pub": "Tue, 03 Nov 2026 16:07:00 GMT"
   },
   {
-   "t": "Iran: Warum die Insel Qeschm für die USA ein wichtiges Ziel ist - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnpvbGtPY19RVURhaTB6bHdMcUV2aVI4Vi1NQ2dTalgwV2RweFNjczNIWENIbzJMNlhJLURBelRNODRfaDg5b2dZcDY2Q25zRDJOX1hURktWdGVhdTBCanRYN1I4LWNlMDRoQlpEbnN0S2tyUTJfcDN1MDBBMC1ETEI5Y21nc0U1cUpSU1UwcTlURmFDcExGX2dRSG9yTzBrdDI2VFVVOXczc0p2Z0VWQWgxMXZaeFA5SVE2MXhxWERPa0s4Yjh1S0R0WQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 23:24:02 GMT"
-  },
-  {
-   "t": "Ölpreise fallen: Trump, Iran-Krieg und Brent - FOCUS online",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmdiM2h0T2JFemRRRVJQRG5WeEo2UHdnei1ZVDNZOGIxSmZpOUhCWW9uMUZTYkh3Z2tVZVExMWwya2lnS0o0MFlueVlkRF9LUWQ3WG1TamhoN0RLMVU1YXc1TGQzS2t4OElJUE94MlRKcGhmcDlfS0M1Tk5JWEtpbEVfX25XYUxmcVprc1FnWGJwZFJMMXF3NE0yb19fN0d6WlhUWDMxNnpPcUZGa1VETXR5V0ctQQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 06:31:00 GMT"
+   "t": "Iran-Krieg: USA bombardieren Insel Qeschm - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUxvakFNQUczYmZsaGJweDJSZ0Zfd01pYVRodHNoLXl5MkgyVTVEY2ZyMWRXZXQ5RncwcXdUMGFvaTl3TDJ6WVByaVZQelY2ZXprOVJOUmExbHY0OXFTelVXT0paNFhQUS1lZjRXaXROVC1NOGJ5NTZzOU1TdUVVTlprNDlYZUhwWUxEOGUyTjZSd2N4aTRqbVFid2wyUi1ZMEdRMlppWFJYOVVZbHc?oc=5",
+   "pub": "Tue, 03 Nov 2026 05:37:00 GMT"
   },
   {
    "t": "„Müssen mit dem Schlimmsten rechnen“ – Die Angst vor einem noch zerstörerischeren Krieg in Nahost - WELT",
@@ -99,9 +99,9 @@
    "pub": "Tue, 03 Nov 2026 21:16:22 GMT"
   },
   {
-   "t": "Angriffe auf Insel Keschm: USA greifen iranische Insel in der Straße von Hormus an - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDZZM0ZONHRwazFIbS1BQ21QcnlYdFREclpOeGktTXpKX3oyZFVsRTZhWjhSLWY3OE9QWUsxMzYzcDNxRWd1OE8wZHNSZjFuVGxBaWtTemR6Z2l4UTNnaHBrckh2WmZCdDVUTmZ6RHRXWkFNM1psTElkNS1xTmphNzRqSHktZlRjY0NqWWxjQmdVbU9XOHQwbQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 09:36:45 GMT"
+   "t": "Iran und Ukraine: Das bedeuten die Midterms für die Kriege - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUlKM0I0V0NYOW92dktFTzhrNTAwaEl5M1pOamZ3U0V4aVhaSzl3dVJiVFUyelpRZWg3a0xTMU1nN2FSdjFmZml6LTF1blp3S2dYenRaQk9BcElEMlJmOFEtODdjZy1HTXBRSFExOVgyc3BRVGU4NXNManhNYS0xZDJHUzZtWXdYWXgtNDJTcEdZbTQ?oc=5",
+   "pub": "Tue, 03 Nov 2026 17:30:00 GMT"
   },
   {
    "t": "Bericht: USA greifen mehrere Ziele in Iran an - ZDFheute",
