@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-11-04T09:16:00Z",
+ "collected_at": "2026-11-04T17:20:39Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8162,
-   "chg1d_pct": -0.27
+   "price": 0.8169,
+   "chg1d_pct": -0.18
   },
   "USDJPY": {
-   "price": 158.332,
-   "chg1d_pct": 0.26
+   "price": 158.287,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8818,
-   "chg1d_pct": 0.37
+   "price": 1.8811,
+   "chg1d_pct": 0.33
   },
   "AUDJPY": {
-   "price": 110.941,
-   "chg1d_pct": 0.37
+   "price": 111.041,
+   "chg1d_pct": 0.46
   },
   "EURUSD": {
-   "price": 1.1254,
-   "chg1d_pct": 0.55
+   "price": 1.1233,
+   "chg1d_pct": 0.37
   },
   "GBPCHF": {
-   "price": 1.1008,
-   "chg1d_pct": 0.3
+   "price": 1.1003,
+   "chg1d_pct": 0.26
   },
   "WTI": {
-   "price": 96.29,
-   "chg1d_pct": 0.21
+   "price": 88.61,
+   "chg1d_pct": -7.78
   },
   "BRENT": {
-   "price": 103.82,
-   "chg1d_pct": 0.21
+   "price": 94.98,
+   "chg1d_pct": -8.32
   },
   "GOLD": {
-   "price": 4046.4,
-   "chg1d_pct": 2.69
+   "price": 4077.0,
+   "chg1d_pct": 3.47
   },
   "SPX_FUT": {
-   "price": 7614.5,
-   "chg1d_pct": 0.23
+   "price": 7732.25,
+   "chg1d_pct": 1.78
   },
   "NAS_FUT": {
-   "price": 28336.75,
-   "chg1d_pct": 0.11
+   "price": 28693.75,
+   "chg1d_pct": 1.37
   }
  },
  "headlines": [
+  {
+   "t": "Newsblog zu den US-\"Midterms\" - Iran rechnet nicht mit anderer US-Politik und warnt vor neuen Angriffen - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUh0SnlNYUdyd3JvOUdsMmJzN1ltTkEwajUxU1FuMHRsMENDUUF3djhmM0FjTW1LSDdxRGczWEZzNlp6UW05YXo4MzIwSW5BRjZEaFBSdVp3SWQ5MjFacEZZYlNKTGV1Q3NMOU9ZeGpURVRoZUYtOGt4N3h3RTNEUWxfWmpHSTVJMkZaellfNDRwREZaTzY3QjFxdHhOdm5sYVBBVlZzRzg4RUFEclk0WQ?oc=5",
+   "pub": "Wed, 04 Nov 2026 15:43:57 GMT"
+  },
+  {
+   "t": "Midterms 2026 – internationale Reaktionen: Iran gibt sich kämpferisch, Russland hofft weiter auf Trump - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV2RZNFJWLUNNNmw3UDZEVlhDb1l6N21XczkxM3R6RElLd1BydUxvRkJIeFJLNy1hQW9tRk1Cc09fTU5hWk5sazNoeHJEWGF2cjc1cGtKc1l2U09leDF0M3R3b2JmXzNKalp6b1JkMEhiVHhiVk1scm9CSk5wSmR5OXR6Y3oySWlEV3FDWGd6QllSN2lnc3Y0WVJOWU4yeXh0ay1pQm5TM2hZa3JyZVdERWQwRl9ETTY5Uk45dkRucXBpYUJHUWZGdnNGR01Ud0VrSUNUUVV6QnZCVUo5MlRiTnEwWjk1WDBLMmRfLVcwZ1dfTEw0cUZoRGpscTNhQQ?oc=5",
+   "pub": "Wed, 04 Nov 2026 13:29:00 GMT"
+  },
+  {
+   "t": "US-Midterms: Kann Trump den Iran-Krieg einfach weiterführen? - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1Z2X3NYWWJIUktjVFFPLUlCQ1BYdEV3ZHNvTmpCV2FJa1BLREdZaEYtSm9ncU5zMmZ4SUhCQ1ZLajhENFJOeTdaYVljSzhZYUFLNm9VclpUSl90MnlGQU1nYk4wQlBkem9YTDdGZWIxYmJUY3dGUDVuaHdweUF6cWtkSFo?oc=5",
+   "pub": "Wed, 04 Nov 2026 15:07:50 GMT"
+  },
+  {
+   "t": "Jubel im Iran, Sorgen in Kiew und Europa: Wird Trump jetzt noch gefährlicher für die Welt? - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcXBXV2RaMWpWMkVjYzVUdEVfdE40ZUZyeF9IYnJwSVVoazBBODlvSS1DWnJ2cUloNDRQaWFtM0VFbGljd3czRndPcnFfVEpwTTdFb0NrTXJhMXFjcmRrQ1B4RWVmVDNQNWFUUVlVRXVjX1lURG9nVmRWSy1HSUdUUzZVNTh6RWhLQzViZVRwMUF3aWMxMWpVcFp5ZWhpX3pRRkFUYk44OVYxdV9OWGRZQkpnVWs1N3JBdkcxZm95bVhyNUJZMjd1QmRLTmJnU1BrTldWU0FSM2l3ZDZfdlFrYjJzSjZnWnpQSEJuSXp3TGdnUlJyQ2VDYkh6TFhrSzQ?oc=5",
+   "pub": "Wed, 04 Nov 2026 13:48:32 GMT"
+  },
+  {
+   "t": "US-Vizepräsident Vance: Iran-Krieg Grund für Niederlage der Republikaner bei Kongresswahlen - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXcxTk1KclpscEpXYlh5ZHRsa3ZHOGkwekJYNmZXMkRQeTlnZ1BRUXE3T2VnOEJwaHBJWmpoc2Zud2pGUzJoNjkwNGpEWTJ4VHRTaEJqSm5FTTVtRnpsc19fUEM2d01lZk9ZSzdLWDBrWG1IMEk2V3ktZjhVMVBGVFJYMHJZQW1OUG0wLUkyRWJrdjhJYzVYNFdablhrY3FHTF85bkgwcGYxTW1DVjd4blRLNFUwMmZOMl9acWp2aVgySnlwRWNXYjZ4NFMydw?oc=5",
+   "pub": "Wed, 04 Nov 2026 16:28:05 GMT"
+  },
+  {
+   "t": "Börse am Mittag: Iran-Krieg und Ölpreis – „Die Hoffnung ist natürlich Deeskalation“ - Video - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ1pxYTZZZ1ozcmtKS290Yy1LbUZZWEM4Tm9SZTRwQ2lEWG44ajk2WXVSUXR5U1NRTWs1bFE4S2dHcmt0ZXRWbHpXaHFsZHgxT3F4MnQxWGdyYTFfUGl4RXFYdktUb2poeGsycDRfaGFKRTdCRDFBOW1mWjhZM1lIcXRxUXl3OXd0bFBlLVhEbk1ZaHRsVVRHaGlacFpGbUdOTllURmFXSW55SVFZMnp1b1Qyd0FEWlRiTEEtdWs3ekdQdnhBSTNISUFsX3pielBTMkMxTnhTNUZaVldsd1p5Wg?oc=5",
+   "pub": "Wed, 04 Nov 2026 13:51:08 GMT"
+  },
+  {
+   "t": "Iran reizt Trump: Vier Öltanker fangen in Straße von Hormus Feuer - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdE53ZkVBdTRqTHczLWhNUjY1dEJCd2VySVp3VDJIWjRwMWVTTnNydlkwbWZFd2xrTWpNcmRWQ3JFR0VZbU9YMEgyS2ZvSFpVRm5NLVJtdGlsVW44MElZUk9jWHN4OWFKWk51TFZpdmpSRHQwZUFIQk9jQTZJX3VOWGo2ZGdodXRtLXpUQTUyTkh4cERGbDdnVUttblBaLWdEaWl6WHNBdVN3Rk5kRmZ2emJMZXRveGtpV1gyclVqM2dNTmhWdUR3VlhnaHQ?oc=5",
+   "pub": "Wed, 04 Nov 2026 12:10:07 GMT"
+  },
+  {
+   "t": "Iranischer Abgeordneter: Teheran droht Deutschland mit Raketen - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1oydzJhb2NYSXE0bm5NVzhRNGpjVVRvbkpjN28xZjZWWjExeXRIaDFLb2lyZHdjLVhveGEwNVJHbk5iTVdETlp4NjlHZnNBdWZFajBaWWZRQ3V4cmV2U2VaYTZ3TGljYWZTLVdMUnJaNWJFTzRIM3RVdnQwcUdLNjdvTm5OR2pvdlB5dFhfMl9sYlZYS2hMZjNBNWIteTZ1a0lUTVBRZmlibmZI?oc=5",
+   "pub": "Wed, 04 Nov 2026 10:35:19 GMT"
+  },
   {
    "t": "Proteste im Iran: Iran richtet zwei Männer nach Massenprotesten hin - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXQ1Y01oTTFfZ3RzN1pYRGtXQW93LXU3RVBwbi1nTEJsS253TURwM0RKSmdRMUFhSFhCSWswVTdoeEtYWTFCeG9lTEl3UXBKa1JUWld4bjlMVDlkLTkwU3cwaG5PUTFYbHRoQjEwZGNkUXl3S080TkR1bW5fM2VCODZFX0o5LTNGUjRKeHk5VWxHQ2gwelFhNXpB?oc=5",
    "pub": "Tue, 03 Nov 2026 13:04:03 GMT"
   },
   {
-   "t": "„Der Begriff Zukunft ergibt keinen Sinn mehr“ – Im Iran kippt die Stimmung in Verzweiflung - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZVBDbE1HSVROZER5dTFVUjlTT2ozRkFXdGtfd3ZKMGJOelphVi1kVDVtOTFydHJucnFxalpzYlNLTjNfNElhUEJJSWVpZnJEbmtzQlZlTG9sejF3U2Fmb2NmendvVHhMbExtWjJxZkdoUUM3SFVvQ0w0R1VNblg4SjZqc2lyaVo3WVVNSXRIMXVtWUROMllqTFFUVDN0cEdXWVFmeEhRX3RvNDZyTjVTQnpDTkp0Z3pxUDNuSkF0bGx3Z1JRS3FjUzdYVC1XX1N1UWpLbVFTWVNTaXA0MTJKcGVENDBFMTlYWi16X3RhaE1wUXc?oc=5",
-   "pub": "Tue, 03 Nov 2026 21:14:58 GMT"
+   "t": "Ölpreis unter Druck: DOE-Lagerdaten und US-Iran-Gespräche dämpfen Notierungen - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmFpVjB3NUg2QmluYVd4bU92X2ZoWWlSOUZnOUkzZjdGQ1FpMjVYcHZuQUlBN1dWUXlwVWFvRFF3VFEzamdrQ0FYU1JTTWNfV3MwdWNUcHhPVXcwZ0lSaXFfc3hVSTFqUFBEeVZsa3lCR0dwS01obG1waDhPdE5CcEtSQWg1ZVZNam5HY3lJR3haYTJyeG9TMlpMLWxUOTU4WGFQZ052enpieFZaSHEwY0M1SUVXVjJ5NHhPQWpDSGVIYmVJSGVjLQ?oc=5",
+   "pub": "Wed, 04 Nov 2026 16:05:00 GMT"
   },
   {
-   "t": "Nach Wahlniederlage: Trump deutet neue Angriffe auf Iran an - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU1J0bTVtTWNwYnhmZi16dlZkYmxZNGQ0S21HTE42RURGeEhOYWc5RnZIbWhpelFtZVJnYXBmVGhGWUpLV0RwSHhfbDRsd2dFdGxzRXhaOW5XUWlVN2xaOTd5TVRjY3JyN01KOGJqVm5lb1VCR21HU3R5bV8xUXFuRDk1dnEwYkN1M2dDc2p1NDNzSTN5ZjUwZ3l2UDQ5a3lwVWs1ZXY0TjNvNFU1RENKYUkxaXZGY29qbWRabnZNMjl3T3NVa3lycHhDZ2dFZw?oc=5",
-   "pub": "Wed, 04 Nov 2026 08:22:00 GMT"
+   "t": "Midterms live: Vance gibt Iran-Krieg Schuld an Wahlniederlage - WEB.DE",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT05semZSZjZFNFhVWXJ3UDBuc3ZYc0xGMHh2anJlSVc2dWh0aVd3ZG5iSklzT25EdUxNWjliY0hKVVNWV3FIbHcxRWJObXlobzdycXlST2xwLXAyTXRIOVBKQnBPMk1PWXhpRGZUMGVFUzl5bTFRakZMNkNvMFpSckltb280YkJFMGRINFVaNHJCdnBHM29GdUI0Z0hIREItZHpBdHExUklhT09FM1E?oc=5",
+   "pub": "Wed, 04 Nov 2026 16:52:39 GMT"
   },
   {
-   "t": "Iran droht USA mit \"neuem Schlachtfeld\" nach mutmaßlichem Angriff auf Qeschm - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IbExIeS1aemRwZHlqbm9WV1lndnRUNEhod1NwM2dCUFR5X2xVWWc0WklMdWtaYU9VYUZvdF9KR1F1OXF6R3N3NUF1UXF0ajVsSTdkeXNmT01ycy1yaHdXcVFrN0V2TUhMUW1RbjdhUW5uQQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 18:14:11 GMT"
-  },
-  {
-   "t": "„Die einzige militärische Option ist ein Atomschlag“: Tucker Carlson warnt vor Angriff auf Iran-Bunker - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNG5ScEZIRmozQ3lVUTFJanI4ajNqM25nNXJ4ZklaSWp3alcwRVJrMjdhVDAyOEZqcGZpNlBwcUI1NUM3UWxJRmFhbGtJLXJhci1JWUVjYTQzYmc0NG1kVlJkdUduOHloc3BoUkNPTzFyenM5TV95SUxubWlZWllrYi1XNUljblRtVHJPYlZaOVd6LVNRZmpQd3pDcVllNkItYko4?oc=5",
-   "pub": "Tue, 03 Nov 2026 21:23:40 GMT"
-  },
-  {
-   "t": "Midterms: Wie zwei Pastoren Trump den Senat abnahmen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG5sVV9aOHZ5TmliWWdGc2tYRDUzSlU2SkkwWkpjU2YySm5fSEg5NmU2aHNZVnl2V1Z1d21HTDgtNmNDNXA2ZTdVX2Mwbnd0T21xbTVScTU2SmJyZGduUHVmRGdfcUJWYVJpZzlSOERlZDBWREQxS20wOGVmOHhZcVNfQkFkd24zdVRnSWRxbWgwS1BUTFU4MFNn?oc=5",
-   "pub": "Wed, 04 Nov 2026 06:45:29 GMT"
-  },
-  {
-   "t": "„Sehr schön getroffen“: Trump bestätigt US-Angriff auf Luftabwehranlage im Iran - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMUNUcEpkTUlLM3l3Vml3U3VJZUw0RmJyeW0tTmhyaktJUFZfZ1ZBODJiZmpRc1VnYTkwSVdGVHg4c1hid0R1WVdGM2lvWkFab2F5bUJRaENJWWVVekNRd0JrQmlHZ0dGaTFUcjZaVXhadE5YOWlqekdwR0ZBX2otSU9BN3FIT2VLTVRWVjB3c1Fjd3hjODcxQ2t3MlZMallwbEVOeU1OTUVRazZJYXI5ZGgzeF9BLUNkX1JFYzBVWTBDcVVTa2VsUk9haHhTSlE2X1FDMQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 14:17:34 GMT"
-  },
-  {
-   "t": "Trump bestätigt neuen Angriff auf den Iran - Südtirol News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQS1xVlBWY1pmajFOaHYzU0o3RjBGN3FrSl9mQURFU09JWGZ2WkVjNVNqM1lLdzU1YjVJRkNORExnWVlNOC1HUWV2YkdHN1dkaTNrN0ZYc0JhODhYYmZ6X0VfRHU2VW9QTkt1UTJrN2VTVkhNc2FzU0szWXpNTVBGRnc5TVd0ek0?oc=5",
-   "pub": "Tue, 03 Nov 2026 16:07:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: USA bombardieren Insel Qeschm - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUxvakFNQUczYmZsaGJweDJSZ0Zfd01pYVRodHNoLXl5MkgyVTVEY2ZyMWRXZXQ5RncwcXdUMGFvaTl3TDJ6WVByaVZQelY2ZXprOVJOUmExbHY0OXFTelVXT0paNFhQUS1lZjRXaXROVC1NOGJ5NTZzOU1TdUVVTlprNDlYZUhwWUxEOGUyTjZSd2N4aTRqbVFid2wyUi1ZMEdRMlppWFJYOVVZbHc?oc=5",
-   "pub": "Tue, 03 Nov 2026 05:37:00 GMT"
-  },
-  {
-   "t": "„Müssen mit dem Schlimmsten rechnen“ – Die Angst vor einem noch zerstörerischeren Krieg in Nahost - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbXJwNlpCcnFKNi1wNnJuY3dFNERlSXI1WklLZVpJcnRPMy1IeUg3TGxQTzFfVi0wcDNQVThGTksxNzNIYk0yMkhqakVKajJ1Rm5VQnhySXdOejhIZDlRNzZQWXZkZkVSS0xZV0t6VERvYzZDTUNYR28wdHM0WVVVYkVob09abUVrcGNPSjdSVnk5cWVRYUg4RHEwMEtaMTI1Mm9oMFQwc045bkNTenFjYmtrNmZsUFA1LVlLanRpaVl5YXl5RG4ySFZ3SGZsX0JzRUFWTERQMC12cXI1OXE0TkJRNA?oc=5",
-   "pub": "Tue, 03 Nov 2026 21:16:22 GMT"
-  },
-  {
-   "t": "Iran und Ukraine: Das bedeuten die Midterms für die Kriege - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUlKM0I0V0NYOW92dktFTzhrNTAwaEl5M1pOamZ3U0V4aVhaSzl3dVJiVFUyelpRZWg3a0xTMU1nN2FSdjFmZml6LTF1blp3S2dYenRaQk9BcElEMlJmOFEtODdjZy1HTXBRSFExOVgyc3BRVGU4NXNManhNYS0xZDJHUzZtWXdYWXgtNDJTcEdZbTQ?oc=5",
-   "pub": "Tue, 03 Nov 2026 17:30:00 GMT"
-  },
-  {
-   "t": "Bericht: USA greifen mehrere Ziele in Iran an - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbE9lbFUwSjhybk9oQ3NxVHh0MUxBVU4ySllXZTZkSWNYRmFNendiYnBhUUdGWmpja3ltdDl5VDk3WUc1RWwxb3Nub3pBNnl5RWdFekhEc0daZFdfMDBJbW9pQ0taN0I1YXdJcktSamtCalNCLXgtU2tJMDlzWFF3UWtjcXcwRV94b2szSExVRnZfZVhRLWJLSg?oc=5",
-   "pub": "Tue, 03 Nov 2026 04:23:31 GMT"
+   "t": "(S+) Midterms 2026: Bedeutet der Sieg der Demokraten das Ende des Irankriegs? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR21rSXNUNUhFdVdYbDhiVTFsVmZlOWdHSjFieDdpMGhaRXVucC1MSnp2SFJ2UW8zVVEyS0RHVlBKTTZrWW9Sc3Vzakp5OEhjVWdxMDBEbjliM1kxd2tkX3lzQkFSUU5tTFczRDh1WXhLMDd3ME1BN2g4MmFiVVlzNDdMYmowc0xsQ0pJSU05cGtCbTlSMW1OX1RkYjhSXzdMeWFrbmdkUXp5bnNlVWRTWmZ3OXlPWm9WUEFqV2E5M2lRODJ4UnJGTnZlYjZpTE03QkNmckppaFo?oc=5",
+   "pub": "Wed, 04 Nov 2026 16:47:00 GMT"
   }
  ]
 }
