@@ -1,72 +1,72 @@
 {
- "collected_at": "2026-11-05T15:29:07Z",
+ "collected_at": "2026-11-05T21:59:51Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8146,
-   "chg1d_pct": -0.58
-  },
-  "USDJPY": {
-   "price": 157.92,
+   "price": 0.8165,
    "chg1d_pct": -0.35
   },
+  "USDJPY": {
+   "price": 157.684,
+   "chg1d_pct": -0.5
+  },
   "GBPCAD": {
-   "price": 1.8845,
-   "chg1d_pct": 0.17
-  },
-  "AUDJPY": {
-   "price": 110.061,
-   "chg1d_pct": -0.32
-  },
-  "EURUSD": {
-   "price": 1.1231,
+   "price": 1.8852,
    "chg1d_pct": 0.21
   },
+  "AUDJPY": {
+   "price": 109.269,
+   "chg1d_pct": -1.04
+  },
+  "EURUSD": {
+   "price": 1.1222,
+   "chg1d_pct": 0.13
+  },
   "GBPCHF": {
-   "price": 1.0979,
-   "chg1d_pct": -0.25
+   "price": 1.0981,
+   "chg1d_pct": -0.23
   },
   "WTI": {
-   "price": 90.17,
-   "chg1d_pct": 2.33
+   "price": 91.1,
+   "chg1d_pct": 3.38
   },
   "BRENT": {
-   "price": 97.04,
-   "chg1d_pct": 2.56
+   "price": 99.02,
+   "chg1d_pct": 4.65
   },
   "GOLD": {
-   "price": 4126.4,
-   "chg1d_pct": 1.31
+   "price": 4097.9,
+   "chg1d_pct": 0.61
   },
   "SPX_FUT": {
-   "price": 7549.5,
-   "chg1d_pct": -2.21
+   "price": 7358.0,
+   "chg1d_pct": -4.7
   },
   "NAS_FUT": {
-   "price": 27354.25,
-   "chg1d_pct": -4.24
+   "price": 26638.25,
+   "chg1d_pct": -6.75
   }
  },
  "headlines": [
-  {
-   "t": "„Man hat sich im Iran regelrecht lustig gemacht über den US-Präsidenten“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUzVFZlNja1BTY2hWeWFITGVDQmRFVTFoSVRMNlpid28ydTNZY3h6MFlESkhtRnRJRnF5YmNkWHNFU21NX0tlVWxGQk9Ra2VZV01EZ2dzNnZfdE9SSEJCOURBRmMwUUJ3VGV0Y05EcVRlc2sxRmxKa3N6UXVDRWhXOTJDMDMtLUJENms0RjhrekpTb2xIbnN0ZjMtZVJXREhQZjdxVVBFQkYxR2JwWTMtNmVBMlE2U25NMWRtZEFndk9DTnRYdy1LMU42WkcxcE9FM3BfdVRlNGRnZWpxSENUZWkyN1dVcHkwQW15ZzRLRHRBSTk0UkM3Q3BPTUQyNjcw?oc=5",
-   "pub": "Thu, 05 Nov 2026 14:02:18 GMT"
-  },
   {
    "t": "US-Kongresswahlen: Donald Trump verteidigt Vorgehen im Irankrieg trotz Wahlniederlage - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlFCS1FXRVlfcFVkaXk5SklXUkJ5Z2NaangtcTZNYmtPMzFZM1hWQURWNHA2cFlwU3VnSjgtUXlFcUtka29FbEZnTzNIU2FpZHI3cW10QzlYLVN0dnlwVkMzb1hTTnRxUE1qTnhEaFUtakxlbEcwTGNwRXJObHpEWUVpVXZlWnplMHZ1SjVYUXNTY1EwbGpj?oc=5",
    "pub": "Thu, 05 Nov 2026 07:11:10 GMT"
   },
   {
-   "t": "„Jeder weiß, warum wir verloren haben“ JD Vance distanziert sich von Trump – dieser verteidigt den Iran-Krieg - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWlvMF9FNUozYkZuUGtnLV9qSXdYRkRFS29GRXUxLXBCMUdmVF81eEhWMFZWUjdEWW9OWTBCeklOR3k2MXhLSDBqdEF4MFlqSmwxdVYtTTR5Ri0wOVdfMlFtbHBQbkdTNG1SbVFrejhOZm93djZwOXJFbW9RQmxEb1BkWUlNNXVzbkNSTjBHV3dfLUNYMkx4WDBoUHZHdV9tU05PVV9xcE53aW8yaXVvQjVNUzVJaE5VSTBmOV8zVzVTSHFXcHNqNk55Wi01NmpmeFZ5OUl3UmFxUQ?oc=5",
-   "pub": "Thu, 05 Nov 2026 07:15:00 GMT"
+   "t": "„Man hat sich im Iran regelrecht lustig gemacht über den US-Präsidenten“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUzVFZlNja1BTY2hWeWFITGVDQmRFVTFoSVRMNlpid28ydTNZY3h6MFlESkhtRnRJRnF5YmNkWHNFU21NX0tlVWxGQk9Ra2VZV01EZ2dzNnZfdE9SSEJCOURBRmMwUUJ3VGV0Y05EcVRlc2sxRmxKa3N6UXVDRWhXOTJDMDMtLUJENms0RjhrekpTb2xIbnN0ZjMtZVJXREhQZjdxVVBFQkYxR2JwWTMtNmVBMlE2U25NMWRtZEFndk9DTnRYdy1LMU42WkcxcE9FM3BfdVRlNGRnZWpxSENUZWkyN1dVcHkwQW15ZzRLRHRBSTk0UkM3Q3BPTUQyNjcw?oc=5",
+   "pub": "Thu, 05 Nov 2026 14:02:18 GMT"
   },
   {
    "t": "Iran: Zwischen Genugtuung und Skepsis nach den US-Zwischenwahlen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVZTY2xfYnRMcHZpX21VVzJTWHV2S1NKRUJQR0FTem02YjlPU2JnN1hnOWdva2JEenhQOWFPQWJoU3dmaGg4UjV3LVRvLWRZSk5GREhVdHRmc2xQUmhaMGhNdXFUVmU5d2todFVGdVh3a2t2dm5od1o2OHczbFVVaVFPU3Z6VjAwOF9ialhaX2l1TTlNT2NPYlBtdU_SAZwBQVVfeXFMUEt6QWtacW1XOV9JQ3lqSlJLa1NCSmFkV3FTSGtHQmZzMGY0bmc0b2piei1zb1NVc2Z6WlJqaEpMSXN6MWxfVHhJTEt5Q21hT1UwX01EM3I3RzJsa3dLV3hNQnR5S0lSc0p0VUV0QkU2N2xURHAteEJOUDRQOXBsQUFPcm8yOVUzLUl0eUFFdWxQWmhSbmpIZm53cldB?oc=5",
-   "pub": "Thu, 05 Nov 2026 11:59:15 GMT"
+   "pub": "Thu, 05 Nov 2026 12:53:52 GMT"
+  },
+  {
+   "t": "Große Iran-Demonstrationen am Samstag in Frankfurt | hessenschau vom 05.11.2026 - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGpDUGphMmktb1hVLXdnLWdGODRGTnZXRDRkWnk0VVZRRWZmaHBqNWhGOFJrbElqUjQwZU5HVU1PYi02ODNEVjdYWlFVZzN4VnV5ekhjYkRiU3dyNlI5SDlmRnhGcHducV90VXZYMFROa2ZRQ3VNZ0NPN1ZnekVZelYzTVUwQy1OSTRncW1jdEViS25jNnQ3Q3gyNVpqTXhjeUdReUtwYjFBSHpSd1NzVllCSWNfX2FiM3JnQzM2bkhGSjhteERwTmhxbEF4LVhpbUE?oc=5",
+   "pub": "Thu, 05 Nov 2026 19:33:23 GMT"
   },
   {
    "t": "Seefracht: Laut Iran gibt es Brände an Schiffen in der Straße von Hormus - Logistik Heute",
@@ -74,29 +74,24 @@
    "pub": "Thu, 05 Nov 2026 08:49:00 GMT"
   },
   {
-   "t": "Trumps Diesel-Deal mit Putin nimmt wohl neue Wendung - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVVB5R3JUZWk2WHhaQkRoUDNQWDJrQ2dXdVpoc2hLVzFxUWZYa1hsR3NKU0tDLV9CbGc2azA5NEVqb3FTa0hQRHo0QWhUOElra2VsN0JtczBZdGsxSjVzUXNGUkw1SW1XdFE4bFlFbkpsaElrZEx6ZTlTMVYtMWthUndOUW9UTXg0SW9oclp2RmZyX2Fxd0o1ajZ0djRQLVNxN0J6c254TXBJY2ZIS1Y5WDJxQ1kxbWVfMXpyWG1NMFFyVDdZME52Q3ljZ0p5aThV?oc=5",
-   "pub": "Thu, 05 Nov 2026 10:11:00 GMT"
+   "t": "„Jeder weiß, warum wir verloren haben“ JD Vance distanziert sich von Trump – dieser verteidigt den Iran-Krieg - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWlvMF9FNUozYkZuUGtnLV9qSXdYRkRFS29GRXUxLXBCMUdmVF81eEhWMFZWUjdEWW9OWTBCeklOR3k2MXhLSDBqdEF4MFlqSmwxdVYtTTR5Ri0wOVdfMlFtbHBQbkdTNG1SbVFrejhOZm93djZwOXJFbW9RQmxEb1BkWUlNNXVzbkNSTjBHV3dfLUNYMkx4WDBoUHZHdV9tU05PVV9xcE53aW8yaXVvQjVNUzVJaE5VSTBmOV8zVzVTSHFXcHNqNk55Wi01NmpmeFZ5OUl3UmFxUQ?oc=5",
+   "pub": "Thu, 05 Nov 2026 07:15:00 GMT"
   },
   {
-   "t": "Ölpreis aktuell: Ölpreise geben nach Midterms deutlich nach - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVpjX3AyTUZKRTJpeDV4WnZ5RXpOcDF1UkJkT3VuNklLellQVUxndDlhOC1ETURPTXhWZEFkcHlvYldabjdUVnE5ZkVZaDhZNFJhRDAzSE5sRFFfNHpMMVh5ZE0tZ2xFbkFHYVNMTWZZM2NkemRyRzNzeTNGeEpGR0ZpLW9DXzVsd2d6MEhqZHc2ZFl5NDdMOThMeU1XUlVvanQ3eWthVQ?oc=5",
-   "pub": "Thu, 05 Nov 2026 14:38:47 GMT"
-  },
-  {
-   "t": "(S+) Midterms 2026: Bedeutet der Sieg der Demokraten das Ende des Irankriegs? - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR21rSXNUNUhFdVdYbDhiVTFsVmZlOWdHSjFieDdpMGhaRXVucC1MSnp2SFJ2UW8zVVEyS0RHVlBKTTZrWW9Sc3Vzakp5OEhjVWdxMDBEbjliM1kxd2tkX3lzQkFSUU5tTFczRDh1WXhLMDd3ME1BN2g4MmFiVVlzNDdMYmowc0xsQ0pJSU05cGtCbTlSMW1OX1RkYjhSXzdMeWFrbmdkUXp5bnNlVWRTWmZ3OXlPWm9WUEFqV2E5M2lRODJ4UnJGTnZlYjZpTE03QkNmckppaFo?oc=5",
-   "pub": "Wed, 04 Nov 2026 16:47:00 GMT"
-  },
-  {
-   "t": "In der Straße von Hormus sind laut Iran zwei Öltanker beschossen worden - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ua2wzMVJRY0RkZ0NFOGd4dGZXREswbkhoQkx3dXo0dnpYYXdnRDNKM2NWRlJFQVFFU3VUYXFnZTBZOFZ5ZldybmpXUFVhbEJMekxGc0ZuM0NFaXVUVU04?oc=5",
-   "pub": "Thu, 05 Nov 2026 10:45:23 GMT"
+   "t": "Midterms 2026 – internationale Reaktionen: Iran gibt sich kämpferisch, Russland hofft weiter auf Trump - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV2RZNFJWLUNNNmw3UDZEVlhDb1l6N21XczkxM3R6RElLd1BydUxvRkJIeFJLNy1hQW9tRk1Cc09fTU5hWk5sazNoeHJEWGF2cjc1cGtKc1l2U09leDF0M3R3b2JmXzNKalp6b1JkMEhiVHhiVk1scm9CSk5wSmR5OXR6Y3oySWlEV3FDWGd6QllSN2lnc3Y0WVJOWU4yeXh0ay1pQm5TM2hZa3JyZVdERWQwRl9ETTY5Uk45dkRucXBpYUJHUWZGdnNGR01Ud0VrSUNUUVV6QnZCVUo5MlRiTnEwWjk1WDBLMmRfLVcwZ1dfTEw0cUZoRGpscTNhQQ?oc=5",
+   "pub": "Wed, 04 Nov 2026 13:29:00 GMT"
   },
   {
    "t": "„Trump könnte Rache suchen, weil er Iran als Hauptfaktor für seine Niederlage sieht“ - WELT",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNemlBYzZHbmtNSmxZbnEtWG5RR3FBRHRjSWp5TWhnX2xxUkFBXzZFMlFrOHYzNUJidXZkSjdWQm16OWxIdC1DQzE1clE2R3BBM0ZTc3J6Ym42a19qaVlhTmJGZ3hMaHliZ2ZtTl83ekFGelZaOWlGQ3RPVUZsTnc4dDNGT05qLWY1M2xhWXhXQnJseDlOcEVLOGJXQ285QlB5MHN2bTB6QUpzNXEyc3hzelB3S1BKYWc5RVhoLUJpbFQ1emFNSy1CTkVlOUxYUGtkOUJvd3A5NVF2a3JTX2YwZldZaU1FOVR6MkJSNDloSU1YU1E?oc=5",
    "pub": "Thu, 05 Nov 2026 13:52:49 GMT"
+  },
+  {
+   "t": "In der Straße von Hormus sind laut Iran zwei Öltanker beschossen worden - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ua2wzMVJRY0RkZ0NFOGd4dGZXREswbkhoQkx3dXo0dnpYYXdnRDNKM2NWRlJFQVFFU3VUYXFnZTBZOFZ5ZldybmpXUFVhbEJMekxGc0ZuM0NFaXVUVU04?oc=5",
+   "pub": "Thu, 05 Nov 2026 10:45:23 GMT"
   },
   {
    "t": "US-Midterms: Kann Trump den Iran-Krieg einfach weiterführen? - ZDFheute",
@@ -107,6 +102,11 @@
    "t": "Proteste im Iran: Iran richtet zwei Männer nach Massenprotesten hin - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXQ1Y01oTTFfZ3RzN1pYRGtXQW93LXU3RVBwbi1nTEJsS253TURwM0RKSmdRMUFhSFhCSWswVTdoeEtYWTFCeG9lTEl3UXBKa1JUWld4bjlMVDlkLTkwU3cwaG5PUTFYbHRoQjEwZGNkUXl3S080TkR1bW5fM2VCODZFX0o5LTNGUjRKeHk5VWxHQ2gwelFhNXpB?oc=5",
    "pub": "Tue, 03 Nov 2026 13:04:03 GMT"
+  },
+  {
+   "t": "(S+) Midterms 2026: Bedeutet der Sieg der Demokraten das Ende des Irankriegs? - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR21rSXNUNUhFdVdYbDhiVTFsVmZlOWdHSjFieDdpMGhaRXVucC1MSnp2SFJ2UW8zVVEyS0RHVlBKTTZrWW9Sc3Vzakp5OEhjVWdxMDBEbjliM1kxd2tkX3lzQkFSUU5tTFczRDh1WXhLMDd3ME1BN2g4MmFiVVlzNDdMYmowc0xsQ0pJSU05cGtCbTlSMW1OX1RkYjhSXzdMeWFrbmdkUXp5bnNlVWRTWmZ3OXlPWm9WUEFqV2E5M2lRODJ4UnJGTnZlYjZpTE03QkNmckppaFo?oc=5",
+   "pub": "Wed, 04 Nov 2026 16:47:00 GMT"
   }
  ]
 }
