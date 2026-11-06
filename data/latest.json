@@ -1,62 +1,67 @@
 {
- "collected_at": "2026-11-06T10:55:40Z",
+ "collected_at": "2026-11-06T17:58:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8182,
-   "chg1d_pct": 0.21
+   "price": 0.8201,
+   "chg1d_pct": 0.44
   },
   "USDJPY": {
-   "price": 158.279,
+   "price": 158.276,
    "chg1d_pct": -0.05
   },
   "GBPCAD": {
-   "price": 1.8842,
-   "chg1d_pct": 0.08
+   "price": 1.8856,
+   "chg1d_pct": 0.16
   },
   "AUDJPY": {
-   "price": 108.719,
-   "chg1d_pct": -1.97
+   "price": 108.617,
+   "chg1d_pct": -2.06
   },
   "EURUSD": {
-   "price": 1.1176,
-   "chg1d_pct": -0.52
+   "price": 1.1147,
+   "chg1d_pct": -0.78
   },
   "GBPCHF": {
-   "price": 1.0958,
-   "chg1d_pct": -0.41
+   "price": 1.0949,
+   "chg1d_pct": -0.49
   },
   "WTI": {
-   "price": 90.69,
-   "chg1d_pct": 0.19
+   "price": 90.03,
+   "chg1d_pct": -0.54
   },
   "BRENT": {
-   "price": 98.21,
-   "chg1d_pct": -0.08
+   "price": 97.4,
+   "chg1d_pct": -0.91
   },
   "GOLD": {
-   "price": 4076.6,
-   "chg1d_pct": -0.9
+   "price": 4065.5,
+   "chg1d_pct": -1.17
   },
   "SPX_FUT": {
-   "price": 7402.75,
-   "chg1d_pct": 0.27
+   "price": 7408.75,
+   "chg1d_pct": 0.35
   },
   "NAS_FUT": {
-   "price": 27136.5,
-   "chg1d_pct": 1.44
+   "price": 27038.75,
+   "chg1d_pct": 1.07
   }
  },
  "headlines": [
   {
-   "t": "Nach Midterms: Trump will bald Entscheidung zu Iran-Krieg treffen - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWRoTmN1V3JabVBnblF6bi1OVUlJZ25jNTNXbTFsRmIwVV91SlhOVHdPUTNLc3A5MzRrTExEYWc2Z25tOVpZR2lLOHhsR2lJc1E5Vmt3cDNsbFg3VjVYSV9Pa0JhM295TVZtSnh5czdqbjJaYXpFOERZMmx0WXJvQkFMUDE?oc=5",
-   "pub": "Fri, 06 Nov 2026 06:09:31 GMT"
+   "t": "Iran-Krieg: Dieses Treffen zeigt, wie Russland zu Trumps größtem Problem wird - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc2dJd1BYVW1fMXlwdE01QURlY0Z0YVRmSy1WR0RWb1d6TGpLRHI3YzlaU2xIbG0zVkp2cEVGaElXMWxKcnp3SXIxTXh2blJxYmZZVlduMW43MFpZS1g3Yk9VNUhacGpKdmZMUnBnY0hwSW90WVJKZTd5Zm1CVVBkSTlYUzNxZVc5LU5FUGwwMllmVjFDOFJFWFM2b0xCdmlPdnZMNmM3VGdMVHo1R2YwM2RadGVmT1B0VnRwTEhDbl91clhEVHBPc0U0ZzZHYVFMakotWV9ic1YwUGpwR0lpdg?oc=5",
+   "pub": "Fri, 06 Nov 2026 16:07:21 GMT"
   },
   {
-   "t": "Russland: Wladimir Putin hat mit Iran über Bau einer Gaspipeline gesprochen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaElzMnJuT2QzcEtTcjRpX3cwVXB6SkRwQUZhOFVUak1KSzg5ellPWFZtMDI0S1kzNVdmYXlRclBTdFdaY3k5bjg3NGxfenhsNTNSaVhmcVp2TkdNN084bC0xLUZ0QVhRUnh2em13SGlQaS1GQTc4czMyd2VmV3FDNVU3QmlIZzBSSEVYcEZiLXlGV3VsSGJjc0oyN21mc0NVQjlOQ3VWelBUQlZ1eU1RZlhlNHc5NVpSQVIteG85Q05qUm5YT1pxQ29MdVhmTlM1NWptbzUzVFYwejJWcVE?oc=5",
-   "pub": "Fri, 06 Nov 2026 05:53:00 GMT"
+   "t": "US-Verteidigungsminister unter Druck Hegseth verteidigt den Iran-Krieg und kämpft um sein Amt - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQenVqcFdlYjJqczZGRjF4cW94V0ZhVWJFVklkMGZPbVUtaW83UEFaamVTZHlxOWttbUxFM29PbW01RWhmMXdYMjRNbVBLZkdWVnBaOFFMZkVZNmV4RHUyaURCMnBOS01fZ0N4WjVQV1VZRm0zcWZzZm9YVGdtaksxbU1jWGp4YTVlUHNUTlpESmhmbDY0ZGNjdzN1N1gyNTkwTkJrbU1HblFlMlFWX0I1QzYxMEMxQWNyNmltb295QVMtODdybW90eG5WblZLZ3gxUS12X2ZSa1l2R3h4TDhnUA?oc=5",
+   "pub": "Fri, 06 Nov 2026 05:51:00 GMT"
+  },
+  {
+   "t": "Umfrage zu KI-gestützter Intervention nach Einsätzen - Feuerwehrverband",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTJxQzEwMnBManhZZ3g2dVFvZnhVVG9ZUnA1YmVJQi1hOG9HYmFZOFRQRTdyMDVPZnNhQmhxRmZlbXZLb0FSaktienJJSTFnV3hmNkIzemVmZExjYkw2WS1kVTUwUUNMclVWZFM2dFltZ1hsMGRoalpFSUczcW40UWZLN1BPT0lyMHNOcDRUQTY?oc=5",
+   "pub": "Fri, 06 Nov 2026 10:00:45 GMT"
   },
   {
    "t": "Trump spielt mit dem Feuer: Warum der Iran-Krieg erneut eskalieren könnte - T-Online",
@@ -64,14 +69,9 @@
    "pub": "Fri, 06 Nov 2026 08:56:16 GMT"
   },
   {
-   "t": "US-Verteidigungsminister unter Druck: Hegseth verteidigt Iran-Krieg und kämpft um sein Amt - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQenVqcFdlYjJqczZGRjF4cW94V0ZhVWJFVklkMGZPbVUtaW83UEFaamVTZHlxOWttbUxFM29PbW01RWhmMXdYMjRNbVBLZkdWVnBaOFFMZkVZNmV4RHUyaURCMnBOS01fZ0N4WjVQV1VZRm0zcWZzZm9YVGdtaksxbU1jWGp4YTVlUHNUTlpESmhmbDY0ZGNjdzN1N1gyNTkwTkJrbU1HblFlMlFWX0I1QzYxMEMxQWNyNmltb295QVMtODdybW90eG5WblZLZ3gxUS12X2ZSa1l2R3h4TDhnUA?oc=5",
-   "pub": "Fri, 06 Nov 2026 05:51:00 GMT"
-  },
-  {
-   "t": "Umfrage zu KI-gestützter Intervention nach Einsätzen - Feuerwehrverband",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTJxQzEwMnBManhZZ3g2dVFvZnhVVG9ZUnA1YmVJQi1hOG9HYmFZOFRQRTdyMDVPZnNhQmhxRmZlbXZLb0FSaktienJJSTFnV3hmNkIzemVmZExjYkw2WS1kVTUwUUNMclVWZFM2dFltZ1hsMGRoalpFSUczcW40UWZLN1BPT0lyMHNOcDRUQTY?oc=5",
-   "pub": "Fri, 06 Nov 2026 09:24:53 GMT"
+   "t": "\"Könnte ganz Europa umfassen\": Trump kündigt Deal mit Russland und Entscheidung zum Iran an - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUhCbWVYZC0yNWtkT1FvV29KTC1nQlY1MXNGQkF4WTZqR2VwNnhpcGF6cTZjNmc1eVhwZDM2QWEyV3VxX3RQQ3lkVnAwLTdFYS1Sb3BNVFhQNFAyeEp6N3czWlBaOENJODF3OXZZQ3dnVWRGVTYzWGR2ejNQSFE2bG0wRWQwaXhIV3dXUUl5eUxobjR1YUVPOWVOblR5azlUX3dRLXVuWTU?oc=5",
+   "pub": "Fri, 06 Nov 2026 03:32:19 GMT"
   },
   {
    "t": "Iran verbreitet Schutzregeln für den Atomangriff – und ein Analyst warnt vor der „eigenen Atombombe“ - Frankfurter Rundschau",
@@ -79,34 +79,34 @@
    "pub": "Fri, 06 Nov 2026 08:04:24 GMT"
   },
   {
-   "t": "\"Könnte ganz Europa umfassen\": Trump kündigt Deal mit Russland und Entscheidung zum Iran an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUhCbWVYZC0yNWtkT1FvV29KTC1nQlY1MXNGQkF4WTZqR2VwNnhpcGF6cTZjNmc1eVhwZDM2QWEyV3VxX3RQQ3lkVnAwLTdFYS1Sb3BNVFhQNFAyeEp6N3czWlBaOENJODF3OXZZQ3dnVWRGVTYzWGR2ejNQSFE2bG0wRWQwaXhIV3dXUUl5eUxobjR1YUVPOWVOblR5azlUX3dRLXVuWTU?oc=5",
-   "pub": "Fri, 06 Nov 2026 03:32:19 GMT"
+   "t": "Iran: Leben in Ungewissheit - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5RVNtaXdxMlFQY3hhT2dyTVZLNlQwUU9jd2NJNTAxLWJUVVM1eGlXVTg5dTJEVE1kbV9YeWFSZlBiNzBSSk1jcFBWaHNlNVVvaGlwWm8zaVhWcjFqcU1ia1VyZERwTnYxUEZ30gFrQVVfeXFMTmtwbXJTcjI1QWNkYm9aeEFvZ2NsNGthWi1MT1N0TEhKSTh4eXVFb21EbG82bFdZc204WHhkWXgyNDk3dm1EUC1ERTc4YVhHdU9JN1RMaWY1WjlMMmNhM3FkaGFIUEhNb1hBWFU?oc=5",
+   "pub": "Fri, 06 Nov 2026 13:30:42 GMT"
   },
   {
-   "t": "Berichte: Russland plante offenbar Lieferung von 90 Raketenstartgeräten an Iran - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGppdFUwVXF2UWJ6SFhVSVZKQ25sdmZfSWJ3Z2FkTkM0NFQzd3JYai05SUJ5MThuRVhSUWtVVkpfOTFYWkNmQnZQSEstb21EOXZUbkJ3UXNTV0M3YXp6MG5qLWRqVHNPWi1mbkx4MHJTbjBlaXdTa1RJeUVhNjVySnFtdGhacDNFLXFpYUNIT1EtZ0c0OENPVEJEQ3VwelZ3cGZpOENCQ1RZeHM0NlZGR0QzWmR3R2xQSjc1NXVlTFN2bWNKbXRn?oc=5",
-   "pub": "Fri, 06 Nov 2026 09:40:15 GMT"
+   "t": "Trump will bald Entscheidung zum Iran-Krieg verkünden - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckVNem1zSlVEbjc2QU9IYy1tcWZJQ2J5NjZDMzA0aVBhQW9FMUlwQUV2SVpPNFJlNGg5bW10U25VczQ0ZHBCVlUyMnR0dVVYdWJuNU1TLVprczlUemRrRjJqd2dzTF9DeEh5c0h5MWsweGJSaGV0RTMtXzFYMjJULUhORjlBWEZ6cWNQRWNzRUxjSUFuMHFCelpldUNZRF95?oc=5",
+   "pub": "Fri, 06 Nov 2026 08:37:00 GMT"
   },
   {
-   "t": "Proteste im Iran: Iran richtet zwei Männer nach Massenprotesten hin - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXQ1Y01oTTFfZ3RzN1pYRGtXQW93LXU3RVBwbi1nTEJsS253TURwM0RKSmdRMUFhSFhCSWswVTdoeEtYWTFCeG9lTEl3UXBKa1JUWld4bjlMVDlkLTkwU3cwaG5PUTFYbHRoQjEwZGNkUXl3S080TkR1bW5fM2VCODZFX0o5LTNGUjRKeHk5VWxHQ2gwelFhNXpB?oc=5",
-   "pub": "Tue, 03 Nov 2026 13:04:03 GMT"
+   "t": "Russland: Wladimir Putin hat mit Iran über Bau einer Gaspipeline gesprochen - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaElzMnJuT2QzcEtTcjRpX3cwVXB6SkRwQUZhOFVUak1KSzg5ellPWFZtMDI0S1kzNVdmYXlRclBTdFdaY3k5bjg3NGxfenhsNTNSaVhmcVp2TkdNN084bC0xLUZ0QVhRUnh2em13SGlQaS1GQTc4czMyd2VmV3FDNVU3QmlIZzBSSEVYcEZiLXlGV3VsSGJjc0oyN21mc0NVQjlOQ3VWelBUQlZ1eU1RZlhlNHc5NVpSQVIteG85Q05qUm5YT1pxQ29MdVhmTlM1NWptbzUzVFYwejJWcVE?oc=5",
+   "pub": "Fri, 06 Nov 2026 05:53:00 GMT"
   },
   {
-   "t": "Iran-Entscheidung naht: Trump wägt drei Optionen ab – droht eine Eskalation an der Straße von Hormus? - Frankfurter Rundschau",
+   "t": "Preis für iranisches Volk Frankfurt wappnet sich für Riesen-Demo - Hit Radio FFH",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzlnaV9qb2hxM0lDUFI5amY3VkNGT1RzZmFtOS1jVDFQUEp4aER5MVpsUG5XdGZqakpiR19CS0RZbzlkVmhQYkd0NW1EZ2tjRXVubFBQbndzUjdPUXRnalRxX0pRbHRVUE1iUmlEamdWN1kxWHhWX2JwdmVydTZPaEhBa0R6VkVyazZ4VWZGMWFjQmV3VVlkVWZTNFlYTnZwbFJpUg?oc=5",
+   "pub": "Fri, 06 Nov 2026 08:49:53 GMT"
+  },
+  {
+   "t": "Nach Midterms: Trump will bald Entscheidung zu Iran-Krieg treffen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWRoTmN1V3JabVBnblF6bi1OVUlJZ25jNTNXbTFsRmIwVV91SlhOVHdPUTNLc3A5MzRrTExEYWc2Z25tOVpZR2lLOHhsR2lJc1E5Vmt3cDNsbFg3VjVYSV9Pa0JhM295TVZtSnh5czdqbjJaYXpFOERZMmx0WXJvQkFMUDE?oc=5",
+   "pub": "Fri, 06 Nov 2026 06:09:31 GMT"
+  },
+  {
+   "t": "Trumps Entscheidung zum Iran naht: Droht nach Golf-Gesprächen neue Eskalation an der Straße von Hormus? - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVctZU5hOWw3T0liQlZGTTV2TTZGbXNOajNYZ1VSM1hGRUk3akRHQXU1aENhcVRmWDl3UWgyeUN2TzdrbjVpano4Y0F3YVdKUjg3ZU9NaWR5ZXBQLVpyMkJyNE5QbGFXN0pSUzFiQi1WZnVVcFdSc0xlNmJ2MFBERlFPNmJ3cC1wWVJOT3VfOW9ZbEtYVGV4SHg0Yw?oc=5",
    "pub": "Fri, 06 Nov 2026 07:31:31 GMT"
-  },
-  {
-   "t": "Iran: US-Regierung will trotz Kriegs nach Iran abschieben – Richterin ist entsetzt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOW43VlVZb1duSFpob0YySkw0bEZSZXdIb3c3Yk9qMnBfd0J2c2VSTm9oZ1hsclRPSVQ0N0JEcE16V092OWVWZmpQeVFDc0cteFY2M1V1T2pKeGFvYkpJSDd6b3ZIZlBOTHl0eXRUTmw0NkdxOTUtMWZ5bmtjaUQ4QmQ1T05hanlCb1Z0S3pPUHh6Vml3TUY1UDBaOXJldXpjS0JFUzlmbzVINzYtV005ZExXVjQxVEt2Mk0xUEd6M2l5am5BTGdCNFhaVmdLZUxoM0MyYWEzbEFPeFZ4MVhDTkZERQ?oc=5",
-   "pub": "Thu, 05 Nov 2026 23:45:00 GMT"
-  },
-  {
-   "t": "Niederlage bei Zwischenwahlen: US-Verteidigungsminister Hegseth verteidigt Iran-Krieg und kämpft um sein Amt - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa09kU0JrSG5uR3JINktNMlpqZHRSazU3UTFTQ1lqLWZBRm9CTDh2RlprSzJsTXp2ZUpuT213S1dVTDBrNERnNXBMZjhpSUt0LUVBZVlQeTg2LV9sR2V4NS0wSHlxbGxvZEJoUlBHSDU0Rl9PTlFnZWxhS3FoOGF1THJGRFdkd2wycllOZXZVNkM4YjlHQnU1N2huc00zLVpQcTRDc2VRRHhPLVlkZTFxczVaSzRBcVpJZUdFLWVR?oc=5",
-   "pub": "Fri, 06 Nov 2026 08:01:25 GMT"
   }
  ]
 }
