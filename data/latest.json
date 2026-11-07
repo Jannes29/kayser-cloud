@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-07T02:49:23Z",
+ "collected_at": "2026-11-07T10:14:15Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -8,7 +8,7 @@
   },
   "USDJPY": {
    "price": 158.425,
-   "chg1d_pct": 0.04
+   "chg1d_pct": 0.59
   },
   "GBPCAD": {
    "price": 1.8861,
@@ -16,97 +16,97 @@
   },
   "AUDJPY": {
    "price": 108.794,
-   "chg1d_pct": -1.9
+   "chg1d_pct": -0.32
   },
   "EURUSD": {
    "price": 1.1143,
    "chg1d_pct": -0.82
   },
   "GBPCHF": {
-   "price": 1.095,
-   "chg1d_pct": -0.48
+   "price": 1.0953,
+   "chg1d_pct": -0.17
   },
   "WTI": {
-   "price": 90.34,
-   "chg1d_pct": -0.2
+   "price": 90.83,
+   "chg1d_pct": 0.34
   },
   "BRENT": {
-   "price": 97.76,
-   "chg1d_pct": -0.54
+   "price": 98.32,
+   "chg1d_pct": 0.03
   },
   "GOLD": {
-   "price": 4079.5,
-   "chg1d_pct": -0.83
+   "price": 4074.9,
+   "chg1d_pct": -0.94
   },
   "SPX_FUT": {
-   "price": 7404.0,
-   "chg1d_pct": 0.28
+   "price": 7402.0,
+   "chg1d_pct": 0.26
   },
   "NAS_FUT": {
-   "price": 27107.5,
-   "chg1d_pct": 1.33
+   "price": 27085.25,
+   "chg1d_pct": 1.25
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: Dieses Treffen zeigt, wie Russland zu Trumps größtem Problem wird - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc2dJd1BYVW1fMXlwdE01QURlY0Z0YVRmSy1WR0RWb1d6TGpLRHI3YzlaU2xIbG0zVkp2cEVGaElXMWxKcnp3SXIxTXh2blJxYmZZVlduMW43MFpZS1g3Yk9VNUhacGpKdmZMUnBnY0hwSW90WVJKZTd5Zm1CVVBkSTlYUzNxZVc5LU5FUGwwMllmVjFDOFJFWFM2b0xCdmlPdnZMNmM3VGdMVHo1R2YwM2RadGVmT1B0VnRwTEhDbl91clhEVHBPc0U0ZzZHYVFMakotWV9ic1YwUGpwR0lpdg?oc=5",
-   "pub": "Fri, 06 Nov 2026 16:07:21 GMT"
+   "t": "Hessen: Iran-Demos in Frankfurt: Umstrittener Freiheitspreis - mehrere Demonstationen in Frankfurt - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUxpU1BMZy1hSkN2NXBZYWVmd0hlcUpsYVQtdC1hQ1l6YUxEZTNyeEhkMmUwbEJORzV5a0VseFFXZWZkR2JOQWtndWVIb1dxSkM2WlpfV1puYktyem81N2RGUXlpZnRnU3NVLXo3bzI0d1BaUFlmUUVXS2RmNmJFbDQyVHpyZ2hQOVBKdU90UEY2Xzhza2R4OUtyS0t5ZGF3QjNsT3dqWll3MkxZTEQ5UlVtTWFEaEtiM3JKOEJyUWl0MVA2LUt3VlF0QWZnNXg2LU9Nd01qUEU4MlZoM0tqMS1B?oc=5",
+   "pub": "Sat, 07 Nov 2026 08:49:00 GMT"
   },
   {
-   "t": "Hegseth schlägt zurück: „Sie greifen uns an, weil wir wirksam sind“ – doch sein Job wackelt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0VHLXlYbHJKdk83dVNHd0M1WE83SHVwOEl6OUJWdzE4eDFaVmV5S08yaXF5UkV1WkRPemd6ZFBVUk1BTm9MQWpxVXlEUWtMTmlsRFFSSVI1WUJoUTR2TmRwR1ZzWmRVbXM5cVVISFBpVGJDcDYtcWNvZlBIYlM5YjR6dExhbHYxSTZiM3p5UUY3dzROTUZZUEQ5SW5SSzd3NzVDaW5qb3hXaXlrN245eURxSDRZdw?oc=5",
-   "pub": "Fri, 06 Nov 2026 20:17:09 GMT"
+   "t": "Trump und Vance: Hinter den Kulissen gemeinsam gegen den Iran-Krieg - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHNMRDlzd2dOMEhWSGpubm9Eakt2TGZyazhhRG54cWNzVm5LdmRZQU5nTUtRYWZ2WWt0XzVSZnhuV0VveUIxRmRlcTdyWjVHZEwwbG1jWTBCZ1ZKaXI2WEtYbmoyQ0l1SDFJOE5ncVhIUjVNZzdDOTFmT0tPMFVXN01wR056MkwyU1ZzdVRXc3p1Z0VUMktET09IWTdTNUhvUWk0NkdpcFVOUkJGY21yeDFfRDJWaURZeDJWZmkyWng5cVU3NFE3dmZnTDR2UkJvOHphYll5OW1nT0x5ODM1NQ?oc=5",
+   "pub": "Sat, 07 Nov 2026 05:07:57 GMT"
   },
   {
-   "t": "Bewegung im Atomstreit: Iran und USA nähern sich möglichem Abkommen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamJ0NlEtUVJ2S013cFVRSnlOSm1vallISlNOQTFMQWFRNm5SQlhYUkJCVWJ6Nksyd2twcFo5RFgyaTlkY3oybVZkZkRpS0djdXZUQm5YenNQOVh5VU96UUNiWkpHNk53OEkzYnZQNzBFbldsWlBaVWp5YTBscUZxYzhHS3JWa0tEOWdqZjdoaDB2cV94NTlnSnYtM25HR0VH?oc=5",
-   "pub": "Fri, 06 Nov 2026 16:34:46 GMT"
+   "t": "Iran: Hunderte demonstrieren vor Preisverleihung - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZG1wWF9MS3FXT09XaHBNUDJNM2VfQWFaZzZLNU9hblFCWE05QVJkUW1tNEdTczd6VWI0SGljTjZvckpoX2lMYk1rOG1CV2lWZGVHQVhwLU9GZWw0bmdlY1JwV2hoS0hEM1hwazVRT0d3cF9FSlNSQm5YbHdCQzZDYnltVTM?oc=5",
+   "pub": "Sat, 07 Nov 2026 08:58:11 GMT"
   },
   {
-   "t": "Russland: Wladimir Putin hat mit Iran über Bau einer Gaspipeline gesprochen - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaElzMnJuT2QzcEtTcjRpX3cwVXB6SkRwQUZhOFVUak1KSzg5ellPWFZtMDI0S1kzNVdmYXlRclBTdFdaY3k5bjg3NGxfenhsNTNSaVhmcVp2TkdNN084bC0xLUZ0QVhRUnh2em13SGlQaS1GQTc4czMyd2VmV3FDNVU3QmlIZzBSSEVYcEZiLXlGV3VsSGJjc0oyN21mc0NVQjlOQ3VWelBUQlZ1eU1RZlhlNHc5NVpSQVIteG85Q05qUm5YT1pxQ29MdVhmTlM1NWptbzUzVFYwejJWcVE?oc=5",
-   "pub": "Fri, 06 Nov 2026 05:53:00 GMT"
+   "t": "Preis für iranisches Volk So wappnet sich Frankfurt für Riesen-Demo - Hit Radio FFH",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzlnaV9qb2hxM0lDUFI5amY3VkNGT1RzZmFtOS1jVDFQUEp4aER5MVpsUG5XdGZqakpiR19CS0RZbzlkVmhQYkd0NW1EZ2tjRXVubFBQbndzUjdPUXRnalRxX0pRbHRVUE1iUmlEamdWN1kxWHhWX2JwdmVydTZPaEhBa0R6VkVyazZ4VWZGMWFjQmV3VVlkVWZTNFlYTnZwbFJpUg?oc=5",
+   "pub": "Sat, 07 Nov 2026 08:26:49 GMT"
   },
   {
-   "t": "Umfrage zu KI-gestützter Intervention nach Einsätzen - Feuerwehrverband",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTJxQzEwMnBManhZZ3g2dVFvZnhVVG9ZUnA1YmVJQi1hOG9HYmFZOFRQRTdyMDVPZnNhQmhxRmZlbXZLb0FSaktienJJSTFnV3hmNkIzemVmZExjYkw2WS1kVTUwUUNMclVWZFM2dFltZ1hsMGRoalpFSUczcW40UWZLN1BPT0lyMHNOcDRUQTY?oc=5",
-   "pub": "Fri, 06 Nov 2026 10:00:45 GMT"
+   "t": "Großdemo in Frankfurt: Zehntausende erwartet – Streit um Iran-Preisträger - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hkdk95ek5SMnRaRi11a1FkbHg2RWlkeWZyTlBSbjhJX2l4X25XUktyUlNfZE5SR3drekZIRU5NZ29DM0dBTS1Pd0JoNEtSVEFPZWxwZlRZN1dsMC1qMHFLSWRWU3k1YWFja2xNSm5YLVlrem12NTBQT3ZFX0J4YmE3X0x5T0g3TklWLWI0QWhrSTd4d1dhaWNqMG1FMkF5d3dhWl9HVVhmMEVLRG1YT25Md2k?oc=5",
+   "pub": "Sat, 07 Nov 2026 07:49:23 GMT"
   },
   {
-   "t": "Iran: Zwischen Genugtuung und Skepsis nach den US-Zwischenwahlen - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVZTY2xfYnRMcHZpX21VVzJTWHV2S1NKRUJQR0FTem02YjlPU2JnN1hnOWdva2JEenhQOWFPQWJoU3dmaGg4UjV3LVRvLWRZSk5GREhVdHRmc2xQUmhaMGhNdXFUVmU5d2todFVGdVh3a2t2dm5od1o2OHczbFVVaVFPU3Z6VjAwOF9ialhaX2l1TTlNT2NPYlBtdU_SAZwBQVVfeXFMUEt6QWtacW1XOV9JQ3lqSlJLa1NCSmFkV3FTSGtHQmZzMGY0bmc0b2piei1zb1NVc2Z6WlJqaEpMSXN6MWxfVHhJTEt5Q21hT1UwX01EM3I3RzJsa3dLV3hNQnR5S0lSc0p0VUV0QkU2N2xURHAteEJOUDRQOXBsQUFPcm8yOVUzLUl0eUFFdWxQWmhSbmpIZm53cldB?oc=5",
-   "pub": "Fri, 06 Nov 2026 06:36:40 GMT"
+   "t": "Trump bestätigt neuen Angriff auf Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmFhdGpVY2M3QXhGcndjVHowM0ZLTXJUV21yS0NFSllOcE80dURFTkg1VW16TEJ6N3VmQTBkT2xQckItbkEtWnJMWEpTb3BJTlh4QV9GbFlhWGJtYUVMQWJwWnNuTTl3QmVVcElkandjNlBRSXkwWlpiZFNMcEp3SUdDbTRBTnpnSHdxd2ZoMk9mOXBjeFg3SHpSOFhQam9pODVudjFETlR4UlIxVVViWXBGWnhid2tJU2Q4Yko3RlVNUTRi?oc=5",
+   "pub": "Sat, 07 Nov 2026 02:46:38 GMT"
   },
   {
-   "t": "US-Verteidigungsminister unter Druck Hegseth verteidigt den Iran-Krieg und kämpft um sein Amt - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQenVqcFdlYjJqczZGRjF4cW94V0ZhVWJFVklkMGZPbVUtaW83UEFaamVTZHlxOWttbUxFM29PbW01RWhmMXdYMjRNbVBLZkdWVnBaOFFMZkVZNmV4RHUyaURCMnBOS01fZ0N4WjVQV1VZRm0zcWZzZm9YVGdtaksxbU1jWGp4YTVlUHNUTlpESmhmbDY0ZGNjdzN1N1gyNTkwTkJrbU1HblFlMlFWX0I1QzYxMEMxQWNyNmltb295QVMtODdybW90eG5WblZLZ3gxUS12X2ZSa1l2R3h4TDhnUA?oc=5",
-   "pub": "Fri, 06 Nov 2026 05:51:00 GMT"
+   "t": "Trump bestätigt neue US-Angriffe auf iranische Luftabwehr - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN25YSEY4aHpqTWFyUU41V3B1b0wzOUJvQkdFei04RFlGNWhweWFWbG1pT0NWV2hhaUhuTnFHWkVubjVBMXZqRm1rUFRpOUpzSUpDOUFxVW9Nc01xcm9JWnNobkZPblhqM2ZRMTBseEo4VG9GVmRoQklpck9ESEpnY1lVblN1ZjR1N2pfVE9hWGFZbGxZbk9yNHNRR2FrSTJ5NVNJR3dZbEh1OUk?oc=5",
+   "pub": "Sat, 07 Nov 2026 07:09:44 GMT"
   },
   {
-   "t": "Trump spielt mit dem Feuer: Warum der Iran-Krieg erneut eskalieren könnte - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQURVQXRoQndhNWNOT0g4QWxreUwta3ppUmFHVVYxcDNjNzdnVGNQTVo0NnU3TFl4NHBzcWlUSWJYSEg5WVVaRldtbDdfZDN5dGs3Y0ZaSEVCVUJSbzhEaGlDTmZFLTRjYXlheXZtcG9Uenl3WFBaR0ROM0drYmM5S3hIY09EeFpoZXNQMTE2ZVN2QkVzQ0dWbkN4dEg3N25DS2ZUZzA5TmsyRW5lUnk2Y25pWXBqeUNzeEFpQTlXNWNtcVk4d1h1Y1B3d3dhTHVwam82dzhmWQ?oc=5",
-   "pub": "Fri, 06 Nov 2026 08:56:16 GMT"
+   "t": "„Versuchung für Iran ist, Trumps Schwäche misszuverstehen und das eigene Blatt zu überreizen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcnJXRVVrYlk0NjRjZzY4dHh3bEhnMjN0b25KX1UyaExza2JFNDlWRFBfc0ZNcnpwNG5yWUl2MkdNNUJaWmhUWWsyOGd2dXV0emUzcmlNaW5mTWVpcjhndTZENGhBcnJnWnA1Q2RXRUJoYS1Pem9XNllPNW56TXFBNmtwcjlsdTBKZG9KT2xnQ19NaGVpSlR4cHNFdTRhUjBBaG44SG9nYmttNnd5MVNJT0tjNmR6TmF4TFBGdVk5a3E0TnlVbFBjN0pUdk11NTV1T2pUbkMzQzdrbldFN1Fwb21tT3dPc0MybzNGVVB6aVQzMC0xamd4d2c2R0kzdVBsNHVYYkVwZ3FuWXM?oc=5",
+   "pub": "Sat, 07 Nov 2026 09:33:54 GMT"
   },
   {
-   "t": "Vor der Iran-Demo am Samstag - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkxqMDhkQmJVazAydjg1Q0hKdE5SM3hnWnBlanNSbzZyNEpKWHNGaTYzNUh5T3JtQ1N5QXZwZzVYM0hMc3NLTFIwc29sdGxYYzJVeXVCbzNuSEQweDZIUUFYaTlfTThzVFVyTkFwN0RaN19Vdkc3d25TZ3NwZ2V1RGRBZmtfdXBZN250bmxka2pSN1loOXQwTDBLYw?oc=5",
-   "pub": "Fri, 06 Nov 2026 19:48:29 GMT"
+   "t": "Iran-Demos in Frankfurt erwartet: Schah-Sohn nimmt Preis entgegen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3o0TDF6TVpPNjRTMWdXWUJvMmljUlRfeTZMbThrS3UzY3lpMThfV2xMOVRPVTBoYVNCYVhsa1RZZ3lXNERqUk1tOFNURThHZkdMdTFGVXNSeXZ6R1Vfa0dkTFRYekxVVUZqMl9aajFTN1VVNWhYTU5kSTNDZzRERDVteGVxS1JOazhB?oc=5",
+   "pub": "Sat, 07 Nov 2026 09:02:19 GMT"
   },
   {
-   "t": "Nach Midterms: Trump will bald Entscheidung zu Iran-Krieg treffen - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWRoTmN1V3JabVBnblF6bi1OVUlJZ25jNTNXbTFsRmIwVV91SlhOVHdPUTNLc3A5MzRrTExEYWc2Z25tOVpZR2lLOHhsR2lJc1E5Vmt3cDNsbFg3VjVYSV9Pa0JhM295TVZtSnh5czdqbjJaYXpFOERZMmx0WXJvQkFMUDE?oc=5",
-   "pub": "Fri, 06 Nov 2026 06:09:31 GMT"
+   "t": "Trump greift Iran an: „Nur ein kleiner Angriff“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkxUUmhONG16MnBDcC1KRzZHU1pHQkNEbC1TZ0VaT3hGVEtTZlpJTHc4UklocVU2RFNsYkNxQ0NIVE54WFpuVEFiTnpXMlhjUTBFby1BQTdZUGp4MVZPOWloV1BpTG8yLTNpdWZ2YTBWVEZlTVlFeVNYTE54eU13dkNVQ3RqeEpjWmRFSmJJSmFOenhINUdiZTNkRVBra09Rb3hEVGQ3NGVUbVpuVDl4M0M0SXRldG15Z3BjaFJmU1ZkTzA?oc=5",
+   "pub": "Sat, 07 Nov 2026 04:03:30 GMT"
   },
   {
-   "t": "Iran verbreitet Schutzregeln für den Atomangriff – und ein Analyst warnt vor der „eigenen Atombombe“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0JBWGhHcDhQNlpCWTR3SHhHTmFNN0lsSDdTNGhjeUlBSWlVdFRfQXRZVW9PSHBZYkRkckpFSkNrcEYycGp3QVlmYWtYLVljS3J4eFJpUHo0eGx1UkU0b2UwQ0lnbXIzc19IbWxidktfak1RTzhLV0lKd0lBUlJkTmxGYmdJQ3VNVHJjbXFvZDBhOG5RVm02dEFaWUpsMW5XckFtWTdRYUFmYTVaa1ZJeDRUcDgyZw?oc=5",
-   "pub": "Fri, 06 Nov 2026 08:04:24 GMT"
+   "t": "Nächster Demo-Tag in Frankfurt: Zehntausend Teilnehmer und Verkehrsbehinderungen erwartet - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT2NZR2xjLWh5bkRUUWJwM3lwcE9YbFZjZEQ4amZvcHF6b1hpMS01QmJpbzJjamFGTzF2bWpTMWRvc25vRy1pa3A3LXkwNzhVSURHTlhPaWJzTmFibjJTM1VhYkc5aGNENUZzOFhoRWVIajZqUGN5R1N3aTgyNWJZWWVzRUtZbkhlU0xSNHJtNmxURXVuSGhqNGRNT3RBTFdwa0YzMW5rb1NDWnZjRGVta1BLS3dmWjU5eVJhaFZ2bGtqRUFlRU8tNjRaNWFWT09ObEtYcGlhWm52ZXN0ZWpSMzNn?oc=5",
+   "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
   },
   {
-   "t": "US-Midterms: Kann Trump den Iran-Krieg einfach weiterführen? - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1Z2X3NYWWJIUktjVFFPLUlCQ1BYdEV3ZHNvTmpCV2FJa1BLREdZaEYtSm9ncU5zMmZ4SUhCQ1ZLajhENFJOeTdaYVljSzhZYUFLNm9VclpUSl90MnlGQU1nYk4wQlBkem9YTDdGZWIxYmJUY3dGUDVuaHdweUF6cWtkSFo?oc=5",
-   "pub": "Wed, 04 Nov 2026 15:07:00 GMT"
+   "t": "Militärschlag an Straße von Hormus: US-Angriff auf iranische Luftabwehr – Ölmarkt unter Druck - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmhQd3FzZlBtMC1xZ0FfekNUYnFwZEVWRTdtLWx5Tm9ibUtqRHp3RHBkbjM4NGtwQmxWTnlMOGlTNWctRGhINjgyTmJhOGM2Q2JublFkaXVvUUlZUEd6QWdpMG1BbnRFbFhSYXpla19fRDJRWUR0cDZzVWJETk5BcE15SEstSW9nRGszZTFzMnp2eTl0d0ZWOFBBWFU1b2Zxb1k2eTdHZw?oc=5",
+   "pub": "Sat, 07 Nov 2026 06:41:14 GMT"
   }
  ]
 }
