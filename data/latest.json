@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-06T23:10:49Z",
+ "collected_at": "2026-11-07T02:49:23Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -12,7 +12,7 @@
   },
   "GBPCAD": {
    "price": 1.8861,
-   "chg1d_pct": 0.18
+   "chg1d_pct": 0.01
   },
   "AUDJPY": {
    "price": 108.794,
@@ -69,14 +69,14 @@
    "pub": "Fri, 06 Nov 2026 05:53:00 GMT"
   },
   {
+   "t": "Umfrage zu KI-gestützter Intervention nach Einsätzen - Feuerwehrverband",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTJxQzEwMnBManhZZ3g2dVFvZnhVVG9ZUnA1YmVJQi1hOG9HYmFZOFRQRTdyMDVPZnNhQmhxRmZlbXZLb0FSaktienJJSTFnV3hmNkIzemVmZExjYkw2WS1kVTUwUUNMclVWZFM2dFltZ1hsMGRoalpFSUczcW40UWZLN1BPT0lyMHNOcDRUQTY?oc=5",
+   "pub": "Fri, 06 Nov 2026 10:00:45 GMT"
+  },
+  {
    "t": "Iran: Zwischen Genugtuung und Skepsis nach den US-Zwischenwahlen - DW.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVZTY2xfYnRMcHZpX21VVzJTWHV2S1NKRUJQR0FTem02YjlPU2JnN1hnOWdva2JEenhQOWFPQWJoU3dmaGg4UjV3LVRvLWRZSk5GREhVdHRmc2xQUmhaMGhNdXFUVmU5d2todFVGdVh3a2t2dm5od1o2OHczbFVVaVFPU3Z6VjAwOF9ialhaX2l1TTlNT2NPYlBtdU_SAZwBQVVfeXFMUEt6QWtacW1XOV9JQ3lqSlJLa1NCSmFkV3FTSGtHQmZzMGY0bmc0b2piei1zb1NVc2Z6WlJqaEpMSXN6MWxfVHhJTEt5Q21hT1UwX01EM3I3RzJsa3dLV3hNQnR5S0lSc0p0VUV0QkU2N2xURHAteEJOUDRQOXBsQUFPcm8yOVUzLUl0eUFFdWxQWmhSbmpIZm53cldB?oc=5",
    "pub": "Fri, 06 Nov 2026 06:36:40 GMT"
-  },
-  {
-   "t": "Vor der Iran-Demo am Samstag - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkxqMDhkQmJVazAydjg1Q0hKdE5SM3hnWnBlanNSbzZyNEpKWHNGaTYzNUh5T3JtQ1N5QXZwZzVYM0hMc3NLTFIwc29sdGxYYzJVeXVCbzNuSEQweDZIUUFYaTlfTThzVFVyTkFwN0RaN19Vdkc3d25TZ3NwZ2V1RGRBZmtfdXBZN250bmxka2pSN1loOXQwTDBLYw?oc=5",
-   "pub": "Fri, 06 Nov 2026 19:48:29 GMT"
   },
   {
    "t": "US-Verteidigungsminister unter Druck Hegseth verteidigt den Iran-Krieg und kämpft um sein Amt - Tagesspiegel",
@@ -84,29 +84,29 @@
    "pub": "Fri, 06 Nov 2026 05:51:00 GMT"
   },
   {
-   "t": "Trump will bald Entscheidung zum Iran-Krieg verkünden - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckVNem1zSlVEbjc2QU9IYy1tcWZJQ2J5NjZDMzA0aVBhQW9FMUlwQUV2SVpPNFJlNGg5bW10U25VczQ0ZHBCVlUyMnR0dVVYdWJuNU1TLVprczlUemRrRjJqd2dzTF9DeEh5c0h5MWsweGJSaGV0RTMtXzFYMjJULUhORjlBWEZ6cWNQRWNzRUxjSUFuMHFCelpldUNZRF95?oc=5",
-   "pub": "Fri, 06 Nov 2026 08:37:00 GMT"
-  },
-  {
-   "t": "Umfrage zu KI-gestützter Intervention nach Einsätzen - Feuerwehrverband",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTJxQzEwMnBManhZZ3g2dVFvZnhVVG9ZUnA1YmVJQi1hOG9HYmFZOFRQRTdyMDVPZnNhQmhxRmZlbXZLb0FSaktienJJSTFnV3hmNkIzemVmZExjYkw2WS1kVTUwUUNMclVWZFM2dFltZ1hsMGRoalpFSUczcW40UWZLN1BPT0lyMHNOcDRUQTY?oc=5",
-   "pub": "Fri, 06 Nov 2026 10:00:45 GMT"
-  },
-  {
    "t": "Trump spielt mit dem Feuer: Warum der Iran-Krieg erneut eskalieren könnte - T-Online",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQURVQXRoQndhNWNOT0g4QWxreUwta3ppUmFHVVYxcDNjNzdnVGNQTVo0NnU3TFl4NHBzcWlUSWJYSEg5WVVaRldtbDdfZDN5dGs3Y0ZaSEVCVUJSbzhEaGlDTmZFLTRjYXlheXZtcG9Uenl3WFBaR0ROM0drYmM5S3hIY09EeFpoZXNQMTE2ZVN2QkVzQ0dWbkN4dEg3N25DS2ZUZzA5TmsyRW5lUnk2Y25pWXBqeUNzeEFpQTlXNWNtcVk4d1h1Y1B3d3dhTHVwam82dzhmWQ?oc=5",
    "pub": "Fri, 06 Nov 2026 08:56:16 GMT"
   },
   {
-   "t": "\"Könnte ganz Europa umfassen\": Trump kündigt Deal mit Russland und Entscheidung zum Iran an - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUhCbWVYZC0yNWtkT1FvV29KTC1nQlY1MXNGQkF4WTZqR2VwNnhpcGF6cTZjNmc1eVhwZDM2QWEyV3VxX3RQQ3lkVnAwLTdFYS1Sb3BNVFhQNFAyeEp6N3czWlBaOENJODF3OXZZQ3dnVWRGVTYzWGR2ejNQSFE2bG0wRWQwaXhIV3dXUUl5eUxobjR1YUVPOWVOblR5azlUX3dRLXVuWTU?oc=5",
-   "pub": "Fri, 06 Nov 2026 03:32:19 GMT"
+   "t": "Vor der Iran-Demo am Samstag - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkxqMDhkQmJVazAydjg1Q0hKdE5SM3hnWnBlanNSbzZyNEpKWHNGaTYzNUh5T3JtQ1N5QXZwZzVYM0hMc3NLTFIwc29sdGxYYzJVeXVCbzNuSEQweDZIUUFYaTlfTThzVFVyTkFwN0RaN19Vdkc3d25TZ3NwZ2V1RGRBZmtfdXBZN250bmxka2pSN1loOXQwTDBLYw?oc=5",
+   "pub": "Fri, 06 Nov 2026 19:48:29 GMT"
   },
   {
    "t": "Nach Midterms: Trump will bald Entscheidung zu Iran-Krieg treffen - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWRoTmN1V3JabVBnblF6bi1OVUlJZ25jNTNXbTFsRmIwVV91SlhOVHdPUTNLc3A5MzRrTExEYWc2Z25tOVpZR2lLOHhsR2lJc1E5Vmt3cDNsbFg3VjVYSV9Pa0JhM295TVZtSnh5czdqbjJaYXpFOERZMmx0WXJvQkFMUDE?oc=5",
    "pub": "Fri, 06 Nov 2026 06:09:31 GMT"
+  },
+  {
+   "t": "Iran verbreitet Schutzregeln für den Atomangriff – und ein Analyst warnt vor der „eigenen Atombombe“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0JBWGhHcDhQNlpCWTR3SHhHTmFNN0lsSDdTNGhjeUlBSWlVdFRfQXRZVW9PSHBZYkRkckpFSkNrcEYycGp3QVlmYWtYLVljS3J4eFJpUHo0eGx1UkU0b2UwQ0lnbXIzc19IbWxidktfak1RTzhLV0lKd0lBUlJkTmxGYmdJQ3VNVHJjbXFvZDBhOG5RVm02dEFaWUpsMW5XckFtWTdRYUFmYTVaa1ZJeDRUcDgyZw?oc=5",
+   "pub": "Fri, 06 Nov 2026 08:04:24 GMT"
+  },
+  {
+   "t": "US-Midterms: Kann Trump den Iran-Krieg einfach weiterführen? - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1Z2X3NYWWJIUktjVFFPLUlCQ1BYdEV3ZHNvTmpCV2FJa1BLREdZaEYtSm9ncU5zMmZ4SUhCQ1ZLajhENFJOeTdaYVljSzhZYUFLNm9VclpUSl90MnlGQU1nYk4wQlBkem9YTDdGZWIxYmJUY3dGUDVuaHdweUF6cWtkSFo?oc=5",
+   "pub": "Wed, 04 Nov 2026 15:07:00 GMT"
   }
  ]
 }
