@@ -1,72 +1,62 @@
 {
- "collected_at": "2026-11-08T19:44:07Z",
+ "collected_at": "2026-11-08T23:44:10Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8194,
-   "chg1d_pct": 0.49
+   "price": 0.8196,
+   "chg1d_pct": 0.52
   },
   "USDJPY": {
-   "price": 158.402,
-   "chg1d_pct": 0.57
+   "price": 158.345,
+   "chg1d_pct": 0.54
   },
   "GBPCAD": {
-   "price": 1.8857,
-   "chg1d_pct": -0.01
+   "price": 1.8859,
+   "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 108.828,
-   "chg1d_pct": -0.29
+   "price": 108.809,
+   "chg1d_pct": -0.31
   },
   "EURUSD": {
-   "price": 1.1138,
-   "chg1d_pct": -0.8
+   "price": 1.1148,
+   "chg1d_pct": -0.71
   },
   "GBPCHF": {
-   "price": 1.0943,
-   "chg1d_pct": -0.26
+   "price": 1.0949,
+   "chg1d_pct": -0.21
   },
   "WTI": {
-   "price": 90.83,
-   "chg1d_pct": 0.34
+   "price": 90.34,
+   "chg1d_pct": -0.54
   },
   "BRENT": {
-   "price": 98.32,
-   "chg1d_pct": 0.03
+   "price": 97.47,
+   "chg1d_pct": -0.86
   },
   "GOLD": {
-   "price": 4074.9,
-   "chg1d_pct": -0.94
+   "price": 4076.1,
+   "chg1d_pct": 0.03
   },
   "SPX_FUT": {
-   "price": 7402.0,
-   "chg1d_pct": 0.26
+   "price": 7416.75,
+   "chg1d_pct": 0.2
   },
   "NAS_FUT": {
-   "price": 27085.25,
-   "chg1d_pct": 1.25
+   "price": 27164.25,
+   "chg1d_pct": 0.29
   }
  },
  "headlines": [
   {
-   "t": "Weitere Todesurteile im Iran vollstreckt: Drei Männer wegen Rolle bei Protesten hingerichtet - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWU1yUFBoaS1UYUJzQWpDbDdSVGZOVlRfb3lPNFhUVjFHZnphNTBKeEgyU1paSlV1VXNFNjNGWDNJVXU4UXB2TmlrdlgxWDh5U1N2YllMZ25MM0tiWkR0cnUySVFUb2R1bmtXZjlwUUJLZE5rN2ZHSDJYSWdMZ1RFdmxYX3dYSUN3UHRnWDRyQVg1ZmcwUXdXYmhlSdIBmwFBVV95cUxNSkE0NUFxdDZMVUx6UWdCRlY1QWVXNVhZZWVzdlRoWVU5NTAtNzNwbHU2T3JUbzRUMC0weFJMa1ZoSHU2cllsMjBxa3p2aDlQTE1VRkxPcE9oaC1CZUpGVnNOVVV4WW5Wb1FPcEhXamxvU0l3dnJKdmNoMHJxcDNpWml2a3VNbGZkYnBXMWdGa2hHdDZONERoR3p0SQ?oc=5",
-   "pub": "Sun, 08 Nov 2026 09:26:36 GMT"
+   "t": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnFmaUZ6TEw3THUydjVoOHAzaHk4UVdQa2FtaWtTeEppeW1hSExDc08xanZCQjZoSTZ6OUI2Y3dBUGlDa2VsU1FiaFgxWkdSMFVQV2dENkczdzBFMDdGVmNIZ3ptd2xqSFhTNGJ2RnBfMGIxYW1mSXdTMGtEQVB0Y19qSjNUUHRtWlVmcjM3VlJBaDhDdVVOQ0RDV3E?oc=5",
+   "pub": "Sun, 08 Nov 2026 22:08:20 GMT"
   },
   {
-   "t": "Zwei tiefe Risse zerreißen eine abtauchende Erdplatte unter dem Iran - Scinexx",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVpQdnc3R1c5cFk1cnppc3hZSURuNThBR2x1aVhlcFZES3M0ZTVKSWE4dXlGSzlwcFZCcjBTWEN4eEN6aWs2SGlja1AyQ2hlNGhJX1BSS0ZIZlF1QTZSeU5ZeFhUNWpUSFlRVm9zQjdKZkNLSXhyLWcySUxsc1pOQTJwN1QxZzkwZGFxWG1CM1VVY1RzTkhoNVNUb0R2MmpDUEs4RmFnZ05Cb2VG?oc=5",
-   "pub": "Sun, 08 Nov 2026 09:54:13 GMT"
-  },
-  {
-   "t": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzFIczBJa1BUUHB5SVlYaERtYlh6eGhlQVB3aG11dkdHaGNIT21OdERQTVAxdUVtVEFBWlkxd1dqNVlicjljRHR5bGljajFmbzFlVWZFaTUyZFJUVWpvUGljZ2xLeVEwa0t5MUNCaFBpRlhvcjR5d1ZJMGtib2d0TE1vWTlwYUp1Tnh3YWpsOFJ0TWZWMkxnamNIdW1jRHlmSmdjMlplOUl1TnN4Tno4V3lhbHNWTEFaWk8tZlIxU3F5MWxVVTFLcVpGakVNR0EzQlhn?oc=5",
-   "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXllcmRjeDBsSWM2eDJYR1BQaVlBelR3cnRXWnVDQWRmcll4b3ktN2RXb3dTSWVZMFNSUlFCLUFsM09ObkJmQzhlanlOMWNNX1FJUWJsSDAtTTFHYU8tMXVDeVRQU1hvakktaXBnLVhmWTJmcVZoNUpzcENqMElBTG1waDJWV0hsUE1iVmNQTFV6ZHpGczZ3b1RIZTFLSF9OaWVGOWRoWWcyTVNWM0xxdGFCLUFiaGJjcDc2bzI0dldYakFfRmJrVFdfRWk?oc=5",
-   "pub": "Sun, 08 Nov 2026 18:59:02 GMT"
+   "t": "Einigung statt Eskalation?: Trump hält neue Angriffe auf den Iran für \"höchst unwahrscheinlich\" - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFpHVGliWlZjWFBveXRtVGp5UzNacjUtSFdPOFlOeWU3NW5tSVFqb3M4MXVfaXVKVW44RXlRVkx0LTJYeWhldlVWcEhlWDl1UWo1ajJlR2I0bkxhMFNOMmdpTVR5QmV3RllqWUJBNnNiUllmMEF4TzIzQjRlYzY2azNlY3RTc0lmWHJwY2EzTm1ESHBwcXJiYmJWWlRyZGVXTnlwR0REOVdQM2Y4eUdib21B?oc=5",
+   "pub": "Sun, 08 Nov 2026 19:53:26 GMT"
   },
   {
    "t": "Hessen: Iran-Demos in Frankfurt: 25.000 Menschen bei friedlichen Iran-Demos - tagesschau.de",
@@ -74,19 +64,14 @@
    "pub": "Sat, 07 Nov 2026 19:53:00 GMT"
   },
   {
-   "t": "Bat Yam verklagt Iran auf 250 Millionen Schekel - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1dtREFDRFBvTWRGRmZWc2pBYy1tWC1RMkppbjBpSUo1SFpWMXVGX2p4b1E3R3VqUkFIMnNuWmtvTS13TTNubWZWenJ0N3lRVlIyS2thbVR5c3dKUmhJZk1KRHh3OHdRcHZvTTMwai1md0tOaHRLSVVMdU1PQ2lNbVd6bklzWnZrZGxvTElZMlh3bkxkY0kxWlpVeWYxNTdiNkxn?oc=5",
-   "pub": "Sun, 08 Nov 2026 15:16:00 GMT"
+   "t": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzFIczBJa1BUUHB5SVlYaERtYlh6eGhlQVB3aG11dkdHaGNIT21OdERQTVAxdUVtVEFBWlkxd1dqNVlicjljRHR5bGljajFmbzFlVWZFaTUyZFJUVWpvUGljZ2xLeVEwa0t5MUNCaFBpRlhvcjR5d1ZJMGtib2d0TE1vWTlwYUp1Tnh3YWpsOFJ0TWZWMkxnamNIdW1jRHlmSmdjMlplOUl1TnN4Tno4V3lhbHNWTEFaWk8tZlIxU3F5MWxVVTFLcVpGakVNR0EzQlhn?oc=5",
+   "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
   },
   {
-   "t": "Iran meldet: Zwei Öltanker laufen auf Minen und brennen – Explosionen in der Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY3UyekplV0l3SFhLRlRSdUduSklLMjZOSFYxYjJyblVBWHdPaUtQcV9HNGx1N0lxWW1JMXd3SGJ5eFpHSU1tTzVUWGpTYllIWmlpVHBKREdfWFQzakZBZDM0WVhBUVJvYm1qdFBoS0dTcGxUX1cxaEg4RWNQSllCcUdkWHdhMlAzdGNtNERENFRqcWt2RTJMb2UwUWlXQlNVS2FYSHRkUmtkTDhKYUlneUhKeUE2aGI3eFdHTGIwa2lJYm5sR1BMNW45UFA0eTVCcDNpR3ZNUkphTXVtV0RqcjQwT3lzanFUTkpJY28zZ1o3ZVhHTDc5NlZB?oc=5",
-   "pub": "Sun, 08 Nov 2026 03:04:39 GMT"
-  },
-  {
-   "t": "Irans Regime richtet drei Männer nach Protesten hin - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1hBNzdSU1NnUmR3QkMtOC1wR19JcW04alZPZFJNTmZ2ei1vSFo1YUtHbzEzR2Q2WXFpSFd1S3hYdG9vN2lVYnFzLVRPengxV1ZmOWtQN201SHdaQ0Y4RW5GVW9xQTQ4TEg5OWt1MHhWWDVJZTFDcEIzQ2ltYjVqbVJnMVdVYmp2UWMwYjFoWXlaSnJsWE9kUEZxcUpVbTgzZlk1TDFhQkxNQQ?oc=5",
-   "pub": "Sun, 08 Nov 2026 07:14:00 GMT"
+   "t": "Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFVseDFEZmxyekxsc0xzeGlhX2QzSXduZEhRem1ra1VHTFlDM0VPUWJHOWRxQ29lSklTbS1KZnlhQlNxSkt3ZVV4UmViM0gxOUtydGhYYVpjMnJxZGJWcmt0REhOb1MzNmRkbWJGdEFWeFJMajN1V2tOc1pxbVhsSXQ0dXdoWVZXWDF5dFlJZDBIWXhWSVE2cTBfSXVQSXhBeXBjTzcxenB5ZEczX1dQbG9KR2NQeGU2WHZ6ZWxiNA?oc=5",
+   "pub": "Sun, 08 Nov 2026 18:59:14 GMT"
   },
   {
    "t": "Ukraine, Iran, Weltwirtschaft: Wie Trump wird’s bis zum Ende seiner Amtszeit? - BILD",
@@ -94,19 +79,34 @@
    "pub": "Sun, 08 Nov 2026 19:16:30 GMT"
   },
   {
+   "t": "Bat Yam verklagt Iran auf 250 Millionen Schekel - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1dtREFDRFBvTWRGRmZWc2pBYy1tWC1RMkppbjBpSUo1SFpWMXVGX2p4b1E3R3VqUkFIMnNuWmtvTS13TTNubWZWenJ0N3lRVlIyS2thbVR5c3dKUmhJZk1KRHh3OHdRcHZvTTMwai1md0tOaHRLSVVMdU1PQ2lNbVd6bklzWnZrZGxvTElZMlh3bkxkY0kxWlpVeWYxNTdiNkxn?oc=5",
+   "pub": "Sun, 08 Nov 2026 15:16:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: US-Regierung hält trotz Kriegs an Abschiebeplänen nach Iran fest - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1VST05RNnJwNGZETU93THcxcEpLUktibmY5MVVub1pMTy14b3B5UFkwM1NXdU9MUFo2MW9JVExraUp3RnZKVHNjcFAyWEJJR2dVTTlxQUJpdGtUSF82TEdMTFc4SFpmWUlUSUFDbVdsVTVjSXJRbHl5ZjladU11X3Y0bkNnZUl0OGw5NjI4UXdDQmwwc2JjR3ZpMWJGMEcxYUp2S3RWVTZhbzFNNXFQMjJkYU12Z0ttWjNuTzI1Uml2RDdfUWVKZlpELVZuTVk5cWhldWlDa2ZOa0paazBtdQ?oc=5",
+   "pub": "Thu, 05 Nov 2026 23:45:00 GMT"
+  },
+  {
+   "t": "Iran meldet: Zwei Öltanker laufen auf Minen und brennen – Explosionen in der Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY3UyekplV0l3SFhLRlRSdUduSklLMjZOSFYxYjJyblVBWHdPaUtQcV9HNGx1N0lxWW1JMXd3SGJ5eFpHSU1tTzVUWGpTYllIWmlpVHBKREdfWFQzakZBZDM0WVhBUVJvYm1qdFBoS0dTcGxUX1cxaEg4RWNQSllCcUdkWHdhMlAzdGNtNERENFRqcWt2RTJMb2UwUWlXQlNVS2FYSHRkUmtkTDhKYUlneUhKeUE2aGI3eFdHTGIwa2lJYm5sR1BMNW45UFA0eTVCcDNpR3ZNUkphTXVtV0RqcjQwT3lzanFUTkpJY28zZ1o3ZVhHTDc5NlZB?oc=5",
+   "pub": "Sun, 08 Nov 2026 03:04:39 GMT"
+  },
+  {
    "t": "25.000 Menschen bei Iran-Demos in Frankfurt: So lief der Auftritt von Schah-Sohn Pahlavi - hessenschau.de",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVl9IV3Z2aTR5MjVnZHV0TEtWY2dDRTRnOGNRYTdldTN6UTBySGlyTVliZFR0RGx5SnMya3Z4N2gyb1EzOG5PV3ZjTE1qZm5PLTViZXVTSkVlaThkUnFkNHBZRU43MEx0SS1tSGVUWXZ1MVRLbkEwbVFEaFVQYjFsSGx2Q0ZGNE1EZTJPNkJZVllBYTFrZWFKSVh6bkgwT1k5aTBOcWZCQks2M2ZmOEJlTG1MODRWbzI5cFJpc0psZmhfaTZEWHo1eVZ5b0t3Z1UtdTFJYkt2d2tXSlB2TnJseXBQR3hYWG5Nd01XcFVTUG1jMWM?oc=5",
    "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
   },
   {
-   "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdvc2duSmU2Nm5fNFFPcTlQSldIODFiOVYxdm94OEJHZWVablRHU0dvX2cweHM3azVnUDdLUGpwWWltel9ENS1uSWE3MUdaMW5tbnk3bnBZOXdpbFNYemgtbk9WT1dlWmp2cXdNVVpMRFZPWDJ4NGdIWDk1aDF5b19ybGcySHRLTHZNejdyNDdTWTd1RHJuNE04Tk0?oc=5",
-   "pub": "Sat, 07 Nov 2026 20:52:00 GMT"
-  },
-  {
    "t": "Schah-Sohn nimmt Ehrung entgegen: Iran-Demos in Frankfurt - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3o0TDF6TVpPNjRTMWdXWUJvMmljUlRfeTZMbThrS3UzY3lpMThfV2xMOVRPVTBoYVNCYVhsa1RZZ3lXNERqUk1tOFNURThHZkdMdTFGVXNSeXZ6R1Vfa0dkTFRYekxVVUZqMl9aajFTN1VVNWhYTU5kSTNDZzRERDVteGVxS1JOazhB?oc=5",
    "pub": "Sat, 07 Nov 2026 15:32:00 GMT"
+  },
+  {
+   "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdvc2duSmU2Nm5fNFFPcTlQSldIODFiOVYxdm94OEJHZWVablRHU0dvX2cweHM3azVnUDdLUGpwWWltel9ENS1uSWE3MUdaMW5tbnk3bnBZOXdpbFNYemgtbk9WT1dlWmp2cXdNVVpMRFZPWDJ4NGdIWDk1aDF5b19ybGcySHRLTHZNejdyNDdTWTd1RHJuNE04Tk0?oc=5",
+   "pub": "Sat, 07 Nov 2026 20:52:00 GMT"
   }
  ]
 }
