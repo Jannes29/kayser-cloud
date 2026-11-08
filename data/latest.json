@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-11-08T15:14:26Z",
+ "collected_at": "2026-11-08T19:44:07Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.82,
-   "chg1d_pct": 0.43
+   "price": 0.8194,
+   "chg1d_pct": 0.49
   },
   "USDJPY": {
-   "price": 158.425,
-   "chg1d_pct": 0.59
+   "price": 158.402,
+   "chg1d_pct": 0.57
   },
   "GBPCAD": {
-   "price": 1.8861,
-   "chg1d_pct": 0.01
+   "price": 1.8857,
+   "chg1d_pct": -0.01
   },
   "AUDJPY": {
-   "price": 108.794,
-   "chg1d_pct": -0.32
+   "price": 108.828,
+   "chg1d_pct": -0.29
   },
   "EURUSD": {
-   "price": 1.1143,
-   "chg1d_pct": -0.82
+   "price": 1.1138,
+   "chg1d_pct": -0.8
   },
   "GBPCHF": {
-   "price": 1.0953,
-   "chg1d_pct": -0.17
+   "price": 1.0943,
+   "chg1d_pct": -0.26
   },
   "WTI": {
    "price": 90.83,
@@ -54,19 +54,49 @@
    "pub": "Sun, 08 Nov 2026 09:26:36 GMT"
   },
   {
-   "t": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzFIczBJa1BUUHB5SVlYaERtYlh6eGhlQVB3aG11dkdHaGNIT21OdERQTVAxdUVtVEFBWlkxd1dqNVlicjljRHR5bGljajFmbzFlVWZFaTUyZFJUVWpvUGljZ2xLeVEwa0t5MUNCaFBpRlhvcjR5d1ZJMGtib2d0TE1vWTlwYUp1Tnh3YWpsOFJ0TWZWMkxnamNIdW1jRHlmSmdjMlplOUl1TnN4Tno4V3lhbHNWTEFaWk8tZlIxU3F5MWxVVTFLcVpGakVNR0EzQlhn?oc=5",
-   "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
-  },
-  {
    "t": "Zwei tiefe Risse zerreißen eine abtauchende Erdplatte unter dem Iran - Scinexx",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVpQdnc3R1c5cFk1cnppc3hZSURuNThBR2x1aVhlcFZES3M0ZTVKSWE4dXlGSzlwcFZCcjBTWEN4eEN6aWs2SGlja1AyQ2hlNGhJX1BSS0ZIZlF1QTZSeU5ZeFhUNWpUSFlRVm9zQjdKZkNLSXhyLWcySUxsc1pOQTJwN1QxZzkwZGFxWG1CM1VVY1RzTkhoNVNUb0R2MmpDUEs4RmFnZ05Cb2VG?oc=5",
    "pub": "Sun, 08 Nov 2026 09:54:13 GMT"
   },
   {
+   "t": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzFIczBJa1BUUHB5SVlYaERtYlh6eGhlQVB3aG11dkdHaGNIT21OdERQTVAxdUVtVEFBWlkxd1dqNVlicjljRHR5bGljajFmbzFlVWZFaTUyZFJUVWpvUGljZ2xLeVEwa0t5MUNCaFBpRlhvcjR5d1ZJMGtib2d0TE1vWTlwYUp1Tnh3YWpsOFJ0TWZWMkxnamNIdW1jRHlmSmdjMlplOUl1TnN4Tno4V3lhbHNWTEFaWk8tZlIxU3F5MWxVVTFLcVpGakVNR0EzQlhn?oc=5",
+   "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXllcmRjeDBsSWM2eDJYR1BQaVlBelR3cnRXWnVDQWRmcll4b3ktN2RXb3dTSWVZMFNSUlFCLUFsM09ObkJmQzhlanlOMWNNX1FJUWJsSDAtTTFHYU8tMXVDeVRQU1hvakktaXBnLVhmWTJmcVZoNUpzcENqMElBTG1waDJWV0hsUE1iVmNQTFV6ZHpGczZ3b1RIZTFLSF9OaWVGOWRoWWcyTVNWM0xxdGFCLUFiaGJjcDc2bzI0dldYakFfRmJrVFdfRWk?oc=5",
+   "pub": "Sun, 08 Nov 2026 18:59:02 GMT"
+  },
+  {
    "t": "Hessen: Iran-Demos in Frankfurt: 25.000 Menschen bei friedlichen Iran-Demos - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUxpU1BMZy1hSkN2NXBZYWVmd0hlcUpsYVQtdC1hQ1l6YUxEZTNyeEhkMmUwbEJORzV5a0VseFFXZWZkR2JOQWtndWVIb1dxSkM2WlpfV1puYktyem81N2RGUXlpZnRnU3NVLXo3bzI0d1BaUFlmUUVXS2RmNmJFbDQyVHpyZ2hQOVBKdU90UEY2Xzhza2R4OUtyS0t5ZGF3QjNsT3dqWll3MkxZTEQ5UlVtTWFEaEtiM3JKOEJyUWl0MVA2LUt3VlF0QWZnNXg2LU9Nd01qUEU4MlZoM0tqMS1B?oc=5",
    "pub": "Sat, 07 Nov 2026 19:53:00 GMT"
+  },
+  {
+   "t": "Bat Yam verklagt Iran auf 250 Millionen Schekel - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1dtREFDRFBvTWRGRmZWc2pBYy1tWC1RMkppbjBpSUo1SFpWMXVGX2p4b1E3R3VqUkFIMnNuWmtvTS13TTNubWZWenJ0N3lRVlIyS2thbVR5c3dKUmhJZk1KRHh3OHdRcHZvTTMwai1md0tOaHRLSVVMdU1PQ2lNbVd6bklzWnZrZGxvTElZMlh3bkxkY0kxWlpVeWYxNTdiNkxn?oc=5",
+   "pub": "Sun, 08 Nov 2026 15:16:00 GMT"
+  },
+  {
+   "t": "Iran meldet: Zwei Öltanker laufen auf Minen und brennen – Explosionen in der Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY3UyekplV0l3SFhLRlRSdUduSklLMjZOSFYxYjJyblVBWHdPaUtQcV9HNGx1N0lxWW1JMXd3SGJ5eFpHSU1tTzVUWGpTYllIWmlpVHBKREdfWFQzakZBZDM0WVhBUVJvYm1qdFBoS0dTcGxUX1cxaEg4RWNQSllCcUdkWHdhMlAzdGNtNERENFRqcWt2RTJMb2UwUWlXQlNVS2FYSHRkUmtkTDhKYUlneUhKeUE2aGI3eFdHTGIwa2lJYm5sR1BMNW45UFA0eTVCcDNpR3ZNUkphTXVtV0RqcjQwT3lzanFUTkpJY28zZ1o3ZVhHTDc5NlZB?oc=5",
+   "pub": "Sun, 08 Nov 2026 03:04:39 GMT"
+  },
+  {
+   "t": "Irans Regime richtet drei Männer nach Protesten hin - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1hBNzdSU1NnUmR3QkMtOC1wR19JcW04alZPZFJNTmZ2ei1vSFo1YUtHbzEzR2Q2WXFpSFd1S3hYdG9vN2lVYnFzLVRPengxV1ZmOWtQN201SHdaQ0Y4RW5GVW9xQTQ4TEg5OWt1MHhWWDVJZTFDcEIzQ2ltYjVqbVJnMVdVYmp2UWMwYjFoWXlaSnJsWE9kUEZxcUpVbTgzZlk1TDFhQkxNQQ?oc=5",
+   "pub": "Sun, 08 Nov 2026 07:14:00 GMT"
+  },
+  {
+   "t": "Ukraine, Iran, Weltwirtschaft: Wie Trump wird’s bis zum Ende seiner Amtszeit? - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUkZOUEZDV2p2OVIzQVRsVno1NjVQZ1pIenU5dmt1QVFVb080dlZxOVg2dVpwbkg3V0V5dmlCOW1RYVg1bGNKb0dzLU5pZDlhRzE2Wll0Z1BKR3V6cVhIYzMzdkNPeFJjRkJ5MVB1ZXRCXzctWWs4VEVqT29aeHdyY2lma3lDazNwNml2c1puQ1dDXzE0bGVxOXJuYXlTTmRPLV9BaVYzODlDcDhBckpDNHZBNlhHLU5ZT0s3MFdBZlA2ckVmNnlicmpUZVduZ2Y4NjZ6Y2MwNW9SQlI5RGg4QmdOMDBudEZI?oc=5",
+   "pub": "Sun, 08 Nov 2026 19:16:30 GMT"
+  },
+  {
+   "t": "25.000 Menschen bei Iran-Demos in Frankfurt: So lief der Auftritt von Schah-Sohn Pahlavi - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVl9IV3Z2aTR5MjVnZHV0TEtWY2dDRTRnOGNRYTdldTN6UTBySGlyTVliZFR0RGx5SnMya3Z4N2gyb1EzOG5PV3ZjTE1qZm5PLTViZXVTSkVlaThkUnFkNHBZRU43MEx0SS1tSGVUWXZ1MVRLbkEwbVFEaFVQYjFsSGx2Q0ZGNE1EZTJPNkJZVllBYTFrZWFKSVh6bkgwT1k5aTBOcWZCQks2M2ZmOEJlTG1MODRWbzI5cFJpc0psZmhfaTZEWHo1eVZ5b0t3Z1UtdTFJYkt2d2tXSlB2TnJseXBQR3hYWG5Nd01XcFVTUG1jMWM?oc=5",
+   "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
   },
   {
    "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
@@ -77,36 +107,6 @@
    "t": "Schah-Sohn nimmt Ehrung entgegen: Iran-Demos in Frankfurt - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3o0TDF6TVpPNjRTMWdXWUJvMmljUlRfeTZMbThrS3UzY3lpMThfV2xMOVRPVTBoYVNCYVhsa1RZZ3lXNERqUk1tOFNURThHZkdMdTFGVXNSeXZ6R1Vfa0dkTFRYekxVVUZqMl9aajFTN1VVNWhYTU5kSTNDZzRERDVteGVxS1JOazhB?oc=5",
    "pub": "Sat, 07 Nov 2026 15:32:00 GMT"
-  },
-  {
-   "t": "25.000 Menschen bei Iran-Demos in Frankfurt: So lief der Auftritt von Schah-Sohn Pahlavi - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVl9IV3Z2aTR5MjVnZHV0TEtWY2dDRTRnOGNRYTdldTN6UTBySGlyTVliZFR0RGx5SnMya3Z4N2gyb1EzOG5PV3ZjTE1qZm5PLTViZXVTSkVlaThkUnFkNHBZRU43MEx0SS1tSGVUWXZ1MVRLbkEwbVFEaFVQYjFsSGx2Q0ZGNE1EZTJPNkJZVllBYTFrZWFKSVh6bkgwT1k5aTBOcWZCQks2M2ZmOEJlTG1MODRWbzI5cFJpc0psZmhfaTZEWHo1eVZ5b0t3Z1UtdTFJYkt2d2tXSlB2TnJseXBQR3hYWG5Nd01XcFVTUG1jMWM?oc=5",
-   "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
-  },
-  {
-   "t": "Iran: USA bieten Millionen für Informationen über iranisches Atomprogramm - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHdnOXZDakFHa0NLVUROcTQ0cnRySXN4MHJ1aWtJdmktSlQ2Y2RBcVV5VzVCMGxrdlFPZGJBUVFSckNzMmtCNHpmQ2lDTzBOaHFIemdLbkxheDN0YllwQlY0S0ItY3BaVUw5VERhUV9SV1l3UXJwbGwtZy1fWHotMzl3dmpVRmFIX0QwRGxNM0EtazExdTQ2RHU5ZDU0eG5kbnhDcEVXWkxZZ1V5NU0tVU9mTjRkNXlQQ25ZeTRFaWxmZlRnY2F6eG5lTXVLSFFQUDJhOUh4Q2lrTVpu?oc=5",
-   "pub": "Sat, 07 Nov 2026 07:42:00 GMT"
-  },
-  {
-   "t": "Israels Verteidigungsminister: Mission im Iran \"noch nicht abgeschlossen\" - WEB.DE",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzNSNmFvcnNWdXM0U2d6YlJEWTczMFUzZkQyOUthR0ZqVllyZTc5V1pwb3U0UUtkWDlTNnBTU2VTMWJjbzRETkZINjZUS3k4RUFNYnpFeEM3MVp4NElOT2RuVW82QkpycVlWbWlidVE2Y2VxU0FMSWE0Q0g4NVhrMW80VmVCUWlRUENKaEFhblFWR05kYUo3aXU0MFJTdFEzWjdfYUh3OVJTWk5jVDRqRWVB?oc=5",
-   "pub": "Sun, 08 Nov 2026 13:10:50 GMT"
-  },
-  {
-   "t": "Frankfurt am Main: Tausende Menschen demonstrieren für einen freien Iran - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmdKeWJacV9wZzNZb0JYMmU2WTJMTW5hLXBOTGpKNkZYbGd2RzJzMzFtQ00yMkc3cG1TVTFhVXZLRWNaUTA0aHNydW9NdFJNVTdBSk9VX0xFc3JIZDhySkpmWGVyRURqNzFHSElMUWdjeEE4NFlXbmJ0b0tGb0tLdUdJc3FzN05YUkJRbzZPTVRIZ296X3d0RXdncm9adw?oc=5",
-   "pub": "Sat, 07 Nov 2026 15:48:07 GMT"
-  },
-  {
-   "t": "In der Frankfurter Paulskirche nimmt der Sohn des Schah gleich den Freiheitspreis entgegen - stellvertretend für das iranische Volk - und draußen sind die Strassen voll mit seinen Unterstützern. Das Schicksal der Menschen im Iran gehört für mich zu den größ - Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ReHRpQ2JTTWwyVWJzamZuZ0xBOHBKdWdhczN5dEZidzh5NUg1b20xTTNYZnZwT2Q2TU9vcms4Ylotb2I0M0xwTDg4bEdFdkgtLThlNkd3?oc=5",
-   "pub": "Sun, 08 Nov 2026 10:19:46 GMT"
-  },
-  {
-   "t": "Irans Regime richtet drei Männer nach Protesten hin - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1hBNzdSU1NnUmR3QkMtOC1wR19JcW04alZPZFJNTmZ2ei1vSFo1YUtHbzEzR2Q2WXFpSFd1S3hYdG9vN2lVYnFzLVRPengxV1ZmOWtQN201SHdaQ0Y4RW5GVW9xQTQ4TEg5OWt1MHhWWDVJZTFDcEIzQ2ltYjVqbVJnMVdVYmp2UWMwYjFoWXlaSnJsWE9kUEZxcUpVbTgzZlk1TDFhQkxNQQ?oc=5",
-   "pub": "Sun, 08 Nov 2026 07:14:00 GMT"
   }
  ]
 }
