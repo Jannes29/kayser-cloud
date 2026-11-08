@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-07T20:54:01Z",
+ "collected_at": "2026-11-08T00:38:25Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -51,7 +51,7 @@
   {
    "t": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi - Deutschlandfunk",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzFIczBJa1BUUHB5SVlYaERtYlh6eGhlQVB3aG11dkdHaGNIT21OdERQTVAxdUVtVEFBWlkxd1dqNVlicjljRHR5bGljajFmbzFlVWZFaTUyZFJUVWpvUGljZ2xLeVEwa0t5MUNCaFBpRlhvcjR5d1ZJMGtib2d0TE1vWTlwYUp1Tnh3YWpsOFJ0TWZWMkxnamNIdW1jRHlmSmdjMlplOUl1TnN4Tno4V3lhbHNWTEFaWk8tZlIxU3F5MWxVVTFLcVpGakVNR0EzQlhn?oc=5",
-   "pub": "Sat, 07 Nov 2026 18:22:19 GMT"
+   "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
   },
   {
    "t": "Hessen: Iran-Demos in Frankfurt: 25.000 Menschen bei friedlichen Iran-Demos - tagesschau.de",
@@ -59,14 +59,24 @@
    "pub": "Sat, 07 Nov 2026 19:53:00 GMT"
   },
   {
+   "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdvc2duSmU2Nm5fNFFPcTlQSldIODFiOVYxdm94OEJHZWVablRHU0dvX2cweHM3azVnUDdLUGpwWWltel9ENS1uSWE3MUdaMW5tbnk3bnBZOXdpbFNYemgtbk9WT1dlWmp2cXdNVVpMRFZPWDJ4NGdIWDk1aDF5b19ybGcySHRLTHZNejdyNDdTWTd1RHJuNE04Tk0?oc=5",
+   "pub": "Sat, 07 Nov 2026 20:52:00 GMT"
+  },
+  {
+   "t": "Iran: USA bieten Millionen für Informationen über iranisches Atomprogramm - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRHdnOXZDakFHa0NLVUROcTQ0cnRySXN4MHJ1aWtJdmktSlQ2Y2RBcVV5VzVCMGxrdlFPZGJBUVFSckNzMmtCNHpmQ2lDTzBOaHFIemdLbkxheDN0YllwQlY0S0ItY3BaVUw5VERhUV9SV1l3UXJwbGwtZy1fWHotMzl3dmpVRmFIX0QwRGxNM0EtazExdTQ2RHU5ZDU0eG5kbnhDcEVXWkxZZ1V5NU0tVU9mTjRkNXlQQ25ZeTRFaWxmZlRnY2F6eG5lTXVLSFFQUDJhOUh4Q2lrTVpu?oc=5",
+   "pub": "Sat, 07 Nov 2026 07:42:00 GMT"
+  },
+  {
+   "t": "Trump und Vance: Hinter den Kulissen gemeinsam gegen den Iran-Krieg - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHNMRDlzd2dOMEhWSGpubm9Eakt2TGZyazhhRG54cWNzVm5LdmRZQU5nTUtRYWZ2WWt0XzVSZnhuV0VveUIxRmRlcTdyWjVHZEwwbG1jWTBCZ1ZKaXI2WEtYbmoyQ0l1SDFJOE5ncVhIUjVNZzdDOTFmT0tPMFVXN01wR056MkwyU1ZzdVRXc3p1Z0VUMktET09IWTdTNUhvUWk0NkdpcFVOUkJGY21yeDFfRDJWaURZeDJWZmkyWng5cVU3NFE3dmZnTDR2UkJvOHphYll5OW1nT0x5ODM1NQ?oc=5",
+   "pub": "Sat, 07 Nov 2026 09:18:12 GMT"
+  },
+  {
    "t": "Große Iran-Demo in Frankfurt - Pahlavi nimmt Preis entgegen - Hit Radio FFH",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzlnaV9qb2hxM0lDUFI5amY3VkNGT1RzZmFtOS1jVDFQUEp4aER5MVpsUG5XdGZqakpiR19CS0RZbzlkVmhQYkd0NW1EZ2tjRXVubFBQbndzUjdPUXRnalRxX0pRbHRVUE1iUmlEamdWN1kxWHhWX2JwdmVydTZPaEhBa0R6VkVyazZ4VWZGMWFjQmV3VVlkVWZTNFlYTnZwbFJpUg?oc=5",
    "pub": "Sat, 07 Nov 2026 16:31:00 GMT"
-  },
-  {
-   "t": "Großdemo in Frankfurt: Tausende Menschen unterwegs, eine Festnahme – Streit um Iran-Preisträger - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3hkdk95ek5SMnRaRi11a1FkbHg2RWlkeWZyTlBSbjhJX2l4X25XUktyUlNfZE5SR3drekZIRU5NZ29DM0dBTS1Pd0JoNEtSVEFPZWxwZlRZN1dsMC1qMHFLSWRWU3k1YWFja2xNSm5YLVlrem12NTBQT3ZFX0J4YmE3X0x5T0g3TklWLWI0QWhrSTd4d1dhaWNqMG1FMkF5d3dhWl9HVVhmMEVLRG1YT25Md2k?oc=5",
-   "pub": "Sat, 07 Nov 2026 15:29:00 GMT"
   },
   {
    "t": "Schah-Sohn nimmt Ehrung entgegen: Iran-Demos in Frankfurt - ZDFheute",
@@ -84,24 +94,14 @@
    "pub": "Sat, 07 Nov 2026 08:45:10 GMT"
   },
   {
-   "t": "Iran-Demos in Frankfurt - Pahlavi-Rede im Ostpark | hessenschau extra von 17:35 Uhr - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZl9uNUdBcGxoVmN3dnpFNEN4aUZjbXlreTJPRDRGTTFjdEI4QjcxMlBxeHJUZ1VrOEVyYUo1Y1laZ1FhYzI0QnczUV9qeUliSktJUXJKRmJwZ0p1U1BpNk50WWNHZ2ROZUJGVmczekVjeUE3R3VlZTBsdTdzaEVJRG9VS09mN2F0cWhpdTRUb0hoZmtmamRqaEZhQjBUZFVEcEFkSE9ZNkJTZkU4OXJNQ0tTQXdyLUNaTU41RUpEOTFreUxVR2F2a2syT3Bkdi0xM01tWVVBbEZXWGtrWjZZ?oc=5",
-   "pub": "Sat, 07 Nov 2026 17:25:11 GMT"
-  },
-  {
    "t": "Iran-Demos in Frankfurt wegen Freiheitspreis | hessenschau vom 07.11.2026 - hessenschau.de",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkpCYlFNay13V2JUdHlJdmFhdHBTc25EWndmdUJqOW9adWtVazhZRlFldnVvLV9IVjVycTF5dDU1NWhjaWlCbXhYR0RFNFN0SzlDQ0J6SWZhVlNadGVNc2N6OEJTU0VxTmMzY3ZiakZJNFJxQTM0UW5NRUFKMG5lai03Z19rMFZTcnpyaDJQWW10YzVLbnRScmZfUzMwN3M5QjhuOGlfbDZKOEJpMHNnenlwOUxTM01xUmcwYVdCMElMQ0hxT3p3WQ?oc=5",
    "pub": "Sat, 07 Nov 2026 19:57:17 GMT"
   },
   {
-   "t": "Trump und Vance: Hinter den Kulissen gemeinsam gegen den Iran-Krieg - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHNMRDlzd2dOMEhWSGpubm9Eakt2TGZyazhhRG54cWNzVm5LdmRZQU5nTUtRYWZ2WWt0XzVSZnhuV0VveUIxRmRlcTdyWjVHZEwwbG1jWTBCZ1ZKaXI2WEtYbmoyQ0l1SDFJOE5ncVhIUjVNZzdDOTFmT0tPMFVXN01wR056MkwyU1ZzdVRXc3p1Z0VUMktET09IWTdTNUhvUWk0NkdpcFVOUkJGY21yeDFfRDJWaURZeDJWZmkyWng5cVU3NFE3dmZnTDR2UkJvOHphYll5OW1nT0x5ODM1NQ?oc=5",
-   "pub": "Sat, 07 Nov 2026 09:18:12 GMT"
-  },
-  {
-   "t": "Nächster Demo-Tag in Frankfurt: Umstrittene Preisverleihung sorgt für Verkehrsprobleme - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSWo2NXZfMjVkbDBkVGJWZkFCRndhWDlIUkZBYWw2SVdzTHdlLWRXei0xUGJlc3haN2FiVTF4X1RZeEVheTFnRHVpWmtpR0ExUEYzbVFPYTRTbUpMM29rcUhjeDJIN3ljV3pfTi1sM3BpeExWS3dvQjFwV1k2OHAwNFVRWWhxWmZXTUo2VFI4bVQ3S21LdjV3T2hVTWVXck55QktLWU5FcVdFNkl4VU5KSldtb0ZZQ1VISWtNWnc2UmowYjNHT3JjMV92VEt1dUJ4VUtrWkZR?oc=5",
-   "pub": "Sat, 07 Nov 2026 13:31:47 GMT"
+   "t": "Iran-Demos in Frankfurt - Pahlavi-Rede im Ostpark | hessenschau extra von 17:35 Uhr - hessenschau.de",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZl9uNUdBcGxoVmN3dnpFNEN4aUZjbXlreTJPRDRGTTFjdEI4QjcxMlBxeHJUZ1VrOEVyYUo1Y1laZ1FhYzI0QnczUV9qeUliSktJUXJKRmJwZ0p1U1BpNk50WWNHZ2ROZUJGVmczekVjeUE3R3VlZTBsdTdzaEVJRG9VS09mN2F0cWhpdTRUb0hoZmtmamRqaEZhQjBUZFVEcEFkSE9ZNkJTZkU4OXJNQ0tTQXdyLUNaTU41RUpEOTFreUxVR2F2a2syT3Bkdi0xM01tWVVBbEZXWGtrWjZZ?oc=5",
+   "pub": "Sat, 07 Nov 2026 17:25:11 GMT"
   },
   {
    "t": "Frankfurt am Main: Tausende Menschen demonstrieren für einen freien Iran - DIE ZEIT",
