@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-08T23:44:10Z",
+ "collected_at": "2026-11-09T06:34:43Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8196,
-   "chg1d_pct": 0.52
+   "price": 0.8193,
+   "chg1d_pct": 0.48
   },
   "USDJPY": {
-   "price": 158.345,
-   "chg1d_pct": 0.54
+   "price": 158.22,
+   "chg1d_pct": 0.46
   },
   "GBPCAD": {
-   "price": 1.8859,
-   "chg1d_pct": 0.0
+   "price": 1.8872,
+   "chg1d_pct": 0.07
   },
   "AUDJPY": {
-   "price": 108.809,
-   "chg1d_pct": -0.31
+   "price": 109.027,
+   "chg1d_pct": -0.11
   },
   "EURUSD": {
-   "price": 1.1148,
-   "chg1d_pct": -0.71
+   "price": 1.1167,
+   "chg1d_pct": -0.55
   },
   "GBPCHF": {
-   "price": 1.0949,
-   "chg1d_pct": -0.21
+   "price": 1.0966,
+   "chg1d_pct": -0.05
   },
   "WTI": {
-   "price": 90.34,
-   "chg1d_pct": -0.54
+   "price": 89.78,
+   "chg1d_pct": -1.16
   },
   "BRENT": {
-   "price": 97.47,
-   "chg1d_pct": -0.86
+   "price": 96.7,
+   "chg1d_pct": -1.65
   },
   "GOLD": {
-   "price": 4076.1,
-   "chg1d_pct": 0.03
+   "price": 4128.3,
+   "chg1d_pct": 1.31
   },
   "SPX_FUT": {
-   "price": 7416.75,
-   "chg1d_pct": 0.2
+   "price": 7434.0,
+   "chg1d_pct": 0.43
   },
   "NAS_FUT": {
-   "price": 27164.25,
-   "chg1d_pct": 0.29
+   "price": 27117.25,
+   "chg1d_pct": 0.12
   }
  },
  "headlines": [
@@ -52,6 +52,11 @@
    "t": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land - DIE ZEIT",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnFmaUZ6TEw3THUydjVoOHAzaHk4UVdQa2FtaWtTeEppeW1hSExDc08xanZCQjZoSTZ6OUI2Y3dBUGlDa2VsU1FiaFgxWkdSMFVQV2dENkczdzBFMDdGVmNIZ3ptd2xqSFhTNGJ2RnBfMGIxYW1mSXdTMGtEQVB0Y19qSjNUUHRtWlVmcjM3VlJBaDhDdVVOQ0RDV3E?oc=5",
    "pub": "Sun, 08 Nov 2026 22:08:20 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump wird Katars Regierungschef zu Iran-Gesprächen empfangen - Handelsblatt",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZkplZVdGVVpaUkw1ejNLNFlOb19DRnhaeW13cnBUd2NCbUtlblBTbTZpaHFSbkk0QkpicWxscVZzTFA3cTczRVBscEZUNlpsX2hDak9STU5uNUxEcWhDRHlWd0pyWUlrZGdfdG8zY2I3aGY0bzdWcDQwR0FRUzNwWUkwbFBZbXFGa0ZuU3RCbEhldlVrVHlVa2pna2R5RkRnR2tadFJyWWF1cmtHa2xSSWZHZ0VCV2Q5WW5aV3RsUUNhMHB3WmpIQV9Ia2FLLXQ3MmdwMXR3?oc=5",
+   "pub": "Mon, 09 Nov 2026 03:23:23 GMT"
   },
   {
    "t": "Einigung statt Eskalation?: Trump hält neue Angriffe auf den Iran für \"höchst unwahrscheinlich\" - n-tv.de",
@@ -69,29 +74,9 @@
    "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
   },
   {
-   "t": "Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFVseDFEZmxyekxsc0xzeGlhX2QzSXduZEhRem1ra1VHTFlDM0VPUWJHOWRxQ29lSklTbS1KZnlhQlNxSkt3ZVV4UmViM0gxOUtydGhYYVpjMnJxZGJWcmt0REhOb1MzNmRkbWJGdEFWeFJMajN1V2tOc1pxbVhsSXQ0dXdoWVZXWDF5dFlJZDBIWXhWSVE2cTBfSXVQSXhBeXBjTzcxenB5ZEczX1dQbG9KR2NQeGU2WHZ6ZWxiNA?oc=5",
-   "pub": "Sun, 08 Nov 2026 18:59:14 GMT"
-  },
-  {
-   "t": "Ukraine, Iran, Weltwirtschaft: Wie Trump wird’s bis zum Ende seiner Amtszeit? - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUkZOUEZDV2p2OVIzQVRsVno1NjVQZ1pIenU5dmt1QVFVb080dlZxOVg2dVpwbkg3V0V5dmlCOW1RYVg1bGNKb0dzLU5pZDlhRzE2Wll0Z1BKR3V6cVhIYzMzdkNPeFJjRkJ5MVB1ZXRCXzctWWs4VEVqT29aeHdyY2lma3lDazNwNml2c1puQ1dDXzE0bGVxOXJuYXlTTmRPLV9BaVYzODlDcDhBckpDNHZBNlhHLU5ZT0s3MFdBZlA2ckVmNnlicmpUZVduZ2Y4NjZ6Y2MwNW9SQlI5RGg4QmdOMDBudEZI?oc=5",
-   "pub": "Sun, 08 Nov 2026 19:16:30 GMT"
-  },
-  {
-   "t": "Bat Yam verklagt Iran auf 250 Millionen Schekel - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1dtREFDRFBvTWRGRmZWc2pBYy1tWC1RMkppbjBpSUo1SFpWMXVGX2p4b1E3R3VqUkFIMnNuWmtvTS13TTNubWZWenJ0N3lRVlIyS2thbVR5c3dKUmhJZk1KRHh3OHdRcHZvTTMwai1md0tOaHRLSVVMdU1PQ2lNbVd6bklzWnZrZGxvTElZMlh3bkxkY0kxWlpVeWYxNTdiNkxn?oc=5",
-   "pub": "Sun, 08 Nov 2026 15:16:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: US-Regierung hält trotz Kriegs an Abschiebeplänen nach Iran fest - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1VST05RNnJwNGZETU93THcxcEpLUktibmY5MVVub1pMTy14b3B5UFkwM1NXdU9MUFo2MW9JVExraUp3RnZKVHNjcFAyWEJJR2dVTTlxQUJpdGtUSF82TEdMTFc4SFpmWUlUSUFDbVdsVTVjSXJRbHl5ZjladU11X3Y0bkNnZUl0OGw5NjI4UXdDQmwwc2JjR3ZpMWJGMEcxYUp2S3RWVTZhbzFNNXFQMjJkYU12Z0ttWjNuTzI1Uml2RDdfUWVKZlpELVZuTVk5cWhldWlDa2ZOa0paazBtdQ?oc=5",
-   "pub": "Thu, 05 Nov 2026 23:45:00 GMT"
-  },
-  {
-   "t": "Iran meldet: Zwei Öltanker laufen auf Minen und brennen – Explosionen in der Straße von Hormus - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY3UyekplV0l3SFhLRlRSdUduSklLMjZOSFYxYjJyblVBWHdPaUtQcV9HNGx1N0lxWW1JMXd3SGJ5eFpHSU1tTzVUWGpTYllIWmlpVHBKREdfWFQzakZBZDM0WVhBUVJvYm1qdFBoS0dTcGxUX1cxaEg4RWNQSllCcUdkWHdhMlAzdGNtNERENFRqcWt2RTJMb2UwUWlXQlNVS2FYSHRkUmtkTDhKYUlneUhKeUE2aGI3eFdHTGIwa2lJYm5sR1BMNW45UFA0eTVCcDNpR3ZNUkphTXVtV0RqcjQwT3lzanFUTkpJY28zZ1o3ZVhHTDc5NlZB?oc=5",
-   "pub": "Sun, 08 Nov 2026 03:04:39 GMT"
+   "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdvc2duSmU2Nm5fNFFPcTlQSldIODFiOVYxdm94OEJHZWVablRHU0dvX2cweHM3azVnUDdLUGpwWWltel9ENS1uSWE3MUdaMW5tbnk3bnBZOXdpbFNYemgtbk9WT1dlWmp2cXdNVVpMRFZPWDJ4NGdIWDk1aDF5b19ybGcySHRLTHZNejdyNDdTWTd1RHJuNE04Tk0?oc=5",
+   "pub": "Sat, 07 Nov 2026 20:52:00 GMT"
   },
   {
    "t": "25.000 Menschen bei Iran-Demos in Frankfurt: So lief der Auftritt von Schah-Sohn Pahlavi - hessenschau.de",
@@ -99,14 +84,29 @@
    "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
   },
   {
+   "t": "Iran-Krieg: Operation „Iron Gate“ – Trump setzt Spezialeinheit gegen iranische Waffentransporte ein - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUS1GU2tjNER3Y05WcGJtakUtTjU1VWVPX0k3YkRIOVI3bW9lRU5xQ0NYTkhkbm5YY0pCWURyOUdxZGQzT0pHSlBhRmViZXNzZHdEM3dTY2luZEQyLTFfemtGeWdTa01LMU1VdkxncndOdE52MWNwdE9zMTUwODdkNUg3b1gwZl9sRXh0TXVzUG9UMVRtUDBmS21QeS1KNU4yZlluRU5neFBLSHpLdHZuTUpiMTVEVmlCanpCV1h3a0JGOU5SMDhoMmp3VkgtNXhyU2h0ZkZ4WFhZOXMxamNfLXhvVzFEb3c3aklhRW9Wb3ZuZXpiamtwUGVfOA?oc=5",
+   "pub": "Mon, 09 Nov 2026 06:14:57 GMT"
+  },
+  {
+   "t": "Iran stellt USA Ultimatum und droht mit Krieg - Blick",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHJUTHZtT0lWaW11aHNOcFBDc0xRY3hZeTI4WXFrNkJUNGVnRVFvbUotS3hYXzR5WkRVR2RmcUZuakUzZXByeERoSEdIRlgtYk9nSWFqakQtUXFRQnpqUm05REVaV1ZZMDYwQzN1aDIyTmpwLU5iX3J3MXZ2aTd2TXpyNl95UWhqWlE?oc=5",
+   "pub": "Mon, 09 Nov 2026 02:25:26 GMT"
+  },
+  {
+   "t": "Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFVseDFEZmxyekxsc0xzeGlhX2QzSXduZEhRem1ra1VHTFlDM0VPUWJHOWRxQ29lSklTbS1KZnlhQlNxSkt3ZVV4UmViM0gxOUtydGhYYVpjMnJxZGJWcmt0REhOb1MzNmRkbWJGdEFWeFJMajN1V2tOc1pxbVhsSXQ0dXdoWVZXWDF5dFlJZDBIWXhWSVE2cTBfSXVQSXhBeXBjTzcxenB5ZEczX1dQbG9KR2NQeGU2WHZ6ZWxiNA?oc=5",
+   "pub": "Sun, 08 Nov 2026 18:59:14 GMT"
+  },
+  {
    "t": "Schah-Sohn nimmt Ehrung entgegen: Iran-Demos in Frankfurt - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3o0TDF6TVpPNjRTMWdXWUJvMmljUlRfeTZMbThrS3UzY3lpMThfV2xMOVRPVTBoYVNCYVhsa1RZZ3lXNERqUk1tOFNURThHZkdMdTFGVXNSeXZ6R1Vfa0dkTFRYekxVVUZqMl9aajFTN1VVNWhYTU5kSTNDZzRERDVteGVxS1JOazhB?oc=5",
    "pub": "Sat, 07 Nov 2026 15:32:00 GMT"
   },
   {
-   "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdvc2duSmU2Nm5fNFFPcTlQSldIODFiOVYxdm94OEJHZWVablRHU0dvX2cweHM3azVnUDdLUGpwWWltel9ENS1uSWE3MUdaMW5tbnk3bnBZOXdpbFNYemgtbk9WT1dlWmp2cXdNVVpMRFZPWDJ4NGdIWDk1aDF5b19ybGcySHRLTHZNejdyNDdTWTd1RHJuNE04Tk0?oc=5",
-   "pub": "Sat, 07 Nov 2026 20:52:00 GMT"
+   "t": "Bat Yam verklagt Iran auf 250 Millionen Schekel - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1dtREFDRFBvTWRGRmZWc2pBYy1tWC1RMkppbjBpSUo1SFpWMXVGX2p4b1E3R3VqUkFIMnNuWmtvTS13TTNubWZWenJ0N3lRVlIyS2thbVR5c3dKUmhJZk1KRHh3OHdRcHZvTTMwai1md0tOaHRLSVVMdU1PQ2lNbVd6bklzWnZrZGxvTElZMlh3bkxkY0kxWlpVeWYxNTdiNkxn?oc=5",
+   "pub": "Sun, 08 Nov 2026 15:16:00 GMT"
   }
  ]
 }
