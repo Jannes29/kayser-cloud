@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-11-09T06:34:43Z",
+ "collected_at": "2026-11-09T17:31:17Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8193,
-   "chg1d_pct": 0.48
+   "price": 0.8208,
+   "chg1d_pct": 0.66
   },
   "USDJPY": {
-   "price": 158.22,
-   "chg1d_pct": 0.46
+   "price": 157.956,
+   "chg1d_pct": 0.29
   },
   "GBPCAD": {
-   "price": 1.8872,
-   "chg1d_pct": 0.07
+   "price": 1.8964,
+   "chg1d_pct": 0.56
   },
   "AUDJPY": {
-   "price": 109.027,
-   "chg1d_pct": -0.11
+   "price": 109.222,
+   "chg1d_pct": 0.07
   },
   "EURUSD": {
-   "price": 1.1167,
-   "chg1d_pct": -0.55
+   "price": 1.1212,
+   "chg1d_pct": -0.14
   },
   "GBPCHF": {
-   "price": 1.0966,
-   "chg1d_pct": -0.05
+   "price": 1.102,
+   "chg1d_pct": 0.44
   },
   "WTI": {
-   "price": 89.78,
-   "chg1d_pct": -1.16
+   "price": 87.83,
+   "chg1d_pct": -3.3
   },
   "BRENT": {
-   "price": 96.7,
-   "chg1d_pct": -1.65
+   "price": 93.88,
+   "chg1d_pct": -4.52
   },
   "GOLD": {
-   "price": 4128.3,
-   "chg1d_pct": 1.31
+   "price": 4113.0,
+   "chg1d_pct": 0.93
   },
   "SPX_FUT": {
-   "price": 7434.0,
-   "chg1d_pct": 0.43
+   "price": 7569.75,
+   "chg1d_pct": 2.27
   },
   "NAS_FUT": {
-   "price": 27117.25,
-   "chg1d_pct": 0.12
+   "price": 27977.5,
+   "chg1d_pct": 3.29
   }
  },
  "headlines": [
   {
-   "t": "Iran-Krieg: US-Militär ergänzt Iran-Seeblockade mit Maßnahmen an Land - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnFmaUZ6TEw3THUydjVoOHAzaHk4UVdQa2FtaWtTeEppeW1hSExDc08xanZCQjZoSTZ6OUI2Y3dBUGlDa2VsU1FiaFgxWkdSMFVQV2dENkczdzBFMDdGVmNIZ3ptd2xqSFhTNGJ2RnBfMGIxYW1mSXdTMGtEQVB0Y19qSjNUUHRtWlVmcjM3VlJBaDhDdVVOQ0RDV3E?oc=5",
-   "pub": "Sun, 08 Nov 2026 22:08:20 GMT"
+   "t": "Trump erklärt Iran-Krieg für gewonnen – Rubio meldet keine Fortschritte - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZXN0cHNRb2tBM1ZYSDdRb09fQjlILXlVUDZxMnBzUG1ILTd4YWhXSTk2QUtlZ252cmhNd1RzZ0c2MVREVzNYNjNoODJFMnVESEkyaW9NZVNwYUFkdmxzTFRVT1g5dVpmdG1JWDhTaG92STAtZWZaelU0VjU1dDFSRW5adHlHczNyeThmWnRZTUM4cVRGalhXZW5QQzJJeGg3bDNMclNEdw?oc=5",
+   "pub": "Mon, 09 Nov 2026 13:21:57 GMT"
   },
   {
-   "t": "Iran-Krieg: Trump wird Katars Regierungschef zu Iran-Gesprächen empfangen - Handelsblatt",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZkplZVdGVVpaUkw1ejNLNFlOb19DRnhaeW13cnBUd2NCbUtlblBTbTZpaHFSbkk0QkpicWxscVZzTFA3cTczRVBscEZUNlpsX2hDak9STU5uNUxEcWhDRHlWd0pyWUlrZGdfdG8zY2I3aGY0bzdWcDQwR0FRUzNwWUkwbFBZbXFGa0ZuU3RCbEhldlVrVHlVa2pna2R5RkRnR2tadFJyWWF1cmtHa2xSSWZHZ0VCV2Q5WW5aV3RsUUNhMHB3WmpIQV9Ia2FLLXQ3MmdwMXR3?oc=5",
-   "pub": "Mon, 09 Nov 2026 03:23:23 GMT"
+   "t": "Operation „Iron Gate“ – Trump setzt Spezialeinheit gegen iranische Waffentransporte ein - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFB0WGJvdHRPZlJ3WFROWDBpMHZKTmJXV3ZKaVNiVVRwOVZEdVhkQmdUd19BeGJEcmlLQTJNM0pNblp6ekJUaDlmcDN2eTljbnpwd3poOUJMOGEtU3dMWndyWUtJaGRXZjRSaEpIZ3BaclR6ZnZqTG9UQzhOZFk4VXVQUnYyNEgwWlN3S0lVV3BqRmg0VWQyNTJoVUpfbl94bHg3ZDl2bEl4YVFVM0MyT08yZHhIelpHSlVfTWxHVzZnWV9qYmI5V244eXpfY0pWUnpkbEFodHFHZnNIOGt3aW5hWDZjUQ?oc=5",
+   "pub": "Mon, 09 Nov 2026 13:02:42 GMT"
   },
   {
-   "t": "Einigung statt Eskalation?: Trump hält neue Angriffe auf den Iran für \"höchst unwahrscheinlich\" - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFpHVGliWlZjWFBveXRtVGp5UzNacjUtSFdPOFlOeWU3NW5tSVFqb3M4MXVfaXVKVW44RXlRVkx0LTJYeWhldlVWcEhlWDl1UWo1ajJlR2I0bkxhMFNOMmdpTVR5QmV3RllqWUJBNnNiUllmMEF4TzIzQjRlYzY2azNlY3RTc0lmWHJwY2EzTm1ESHBwcXJiYmJWWlRyZGVXTnlwR0REOVdQM2Y4eUdib21B?oc=5",
-   "pub": "Sun, 08 Nov 2026 19:53:26 GMT"
+   "t": "Iran-Krieg an der Straße von Hormus: Teheran meldet zerstörte Navigationshilfen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWN2ZXo1Si03RUktVW91czFEb2VrVDBtTHIzVy0wR0NZdjRZWHZPUjBYQ29XZVIzTmIxZFhMRWZhRkNXV1FvMXUxUVBDZlMzbkZ5bnVkWHExYTd2bnlPMDdZWFBaZWdCeHhOb09ZekM3b0pQNmprM0ZHc0pWWVB1eUVTenpzU3ZYZWNGTGJrMS1BZkJHUWI5OUdFSzVfdFQzQlFVNmp3?oc=5",
+   "pub": "Mon, 09 Nov 2026 13:46:41 GMT"
   },
   {
-   "t": "Hessen: Iran-Demos in Frankfurt: 25.000 Menschen bei friedlichen Iran-Demos - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVUxpU1BMZy1hSkN2NXBZYWVmd0hlcUpsYVQtdC1hQ1l6YUxEZTNyeEhkMmUwbEJORzV5a0VseFFXZWZkR2JOQWtndWVIb1dxSkM2WlpfV1puYktyem81N2RGUXlpZnRnU3NVLXo3bzI0d1BaUFlmUUVXS2RmNmJFbDQyVHpyZ2hQOVBKdU90UEY2Xzhza2R4OUtyS0t5ZGF3QjNsT3dqWll3MkxZTEQ5UlVtTWFEaEtiM3JKOEJyUWl0MVA2LUt3VlF0QWZnNXg2LU9Nd01qUEU4MlZoM0tqMS1B?oc=5",
-   "pub": "Sat, 07 Nov 2026 19:53:00 GMT"
+   "t": "Taskforce „Iron Gate“ und 20-Millionen-Belohnung: Trump startet Doppel-Schlag gegen Irans Atomprogramm - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG1rNGdtRjZ4V1NHNlBLaURRdEFzQ3RwVHhSMHBUNlFfLVRxUFFwVFoxbnJmZGZla2lEM09vSE1SRDQ5QldhOWhTZVVOT3V0UkVidXhGcXVybFRTSDR0emdUY05tOTZoNWlHUDJNZ3ZVLTJFSTRqU1BjTGFTajQ0czJ3WGlVQVkyMTZVS2NpUVlXSElidFd6dVdiUUY2cEtyaUdadjNmbGE0TnlReUNOWQ?oc=5",
+   "pub": "Mon, 09 Nov 2026 10:13:26 GMT"
   },
   {
-   "t": "Frankfurt am Main - Tausende Menschen demonstrieren für freie Gesellschaft im Iran - Preisverleihung für Reza Pahlavi - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSzFIczBJa1BUUHB5SVlYaERtYlh6eGhlQVB3aG11dkdHaGNIT21OdERQTVAxdUVtVEFBWlkxd1dqNVlicjljRHR5bGljajFmbzFlVWZFaTUyZFJUVWpvUGljZ2xLeVEwa0t5MUNCaFBpRlhvcjR5d1ZJMGtib2d0TE1vWTlwYUp1Tnh3YWpsOFJ0TWZWMkxnamNIdW1jRHlmSmdjMlplOUl1TnN4Tno4V3lhbHNWTEFaWk8tZlIxU3F5MWxVVTFLcVpGakVNR0EzQlhn?oc=5",
-   "pub": "Sat, 07 Nov 2026 22:27:36 GMT"
+   "t": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnptc3diZzlydUtZd0xHQmRUU1FKMHl4YmNNc3o2dEtLQVJHalg5UmN5UkR6Nlo1WjlLeUJuMjh0RW4yOTU1SnJfZHNqT2xFQ3luN3hobGtaWUllbmtPSWlZUXN6X3hoRzJfajRIb2VyZmgwdk53QkFXdjdGS05vWFlHMG9FbklPVkhSOHdZazZROS1IenBkdVlic0N6SUM5NGxBM2lPZi1zN210M0M4?oc=5",
+   "pub": "Mon, 09 Nov 2026 16:23:28 GMT"
   },
   {
-   "t": "Berichte: Explosionen in Gheschm und Dschask im Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFdvc2duSmU2Nm5fNFFPcTlQSldIODFiOVYxdm94OEJHZWVablRHU0dvX2cweHM3azVnUDdLUGpwWWltel9ENS1uSWE3MUdaMW5tbnk3bnBZOXdpbFNYemgtbk9WT1dlWmp2cXdNVVpMRFZPWDJ4NGdIWDk1aDF5b19ybGcySHRLTHZNejdyNDdTWTd1RHJuNE04Tk0?oc=5",
-   "pub": "Sat, 07 Nov 2026 20:52:00 GMT"
+   "t": "Cyberangriffe auf Kühlanlagen: Frankreich macht Iran verantwortlich - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzZoVkZXQXYxLVNWdmdEMzBiMDMwX25tTEg1WFFINGxPZXJPM1lTVmdGdU8zNG1QSXUtaUJRSXo2d1hLZ3ZPQUoxdHRmQWxHRGVlbWNlLWlVaEJkTi15MHhSa01VRDZOSmxHbkc3dk5ZZUZjTjNLWmdmelhyNFEyVjRCRTd2NFBtOVdmczBpT3k4eHdJa2VxZjk1S2JoQmMyMndQRGZfcw?oc=5",
+   "pub": "Mon, 09 Nov 2026 16:47:12 GMT"
   },
   {
-   "t": "25.000 Menschen bei Iran-Demos in Frankfurt: So lief der Auftritt von Schah-Sohn Pahlavi - hessenschau.de",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVl9IV3Z2aTR5MjVnZHV0TEtWY2dDRTRnOGNRYTdldTN6UTBySGlyTVliZFR0RGx5SnMya3Z4N2gyb1EzOG5PV3ZjTE1qZm5PLTViZXVTSkVlaThkUnFkNHBZRU43MEx0SS1tSGVUWXZ1MVRLbkEwbVFEaFVQYjFsSGx2Q0ZGNE1EZTJPNkJZVllBYTFrZWFKSVh6bkgwT1k5aTBOcWZCQks2M2ZmOEJlTG1MODRWbzI5cFJpc0psZmhfaTZEWHo1eVZ5b0t3Z1UtdTFJYkt2d2tXSlB2TnJseXBQR3hYWG5Nd01XcFVTUG1jMWM?oc=5",
-   "pub": "Fri, 06 Nov 2026 20:36:17 GMT"
+   "t": "Frankreich wirft Iran Hackerangriffe auf Kühltruhen vor - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTBwV3kzSlJnOGxuMWNFRnhYLVI1a2pfWnhnQ1htaTNsLTY1bkxrcVI2MWpnbDZ2R0FtXzNKYktUaFJVLVBmQ3dwUF84czFCdHVDX1ZjZktJRDEwaVcyUW5PSW9Ha2VNUTRtRjhtcFJ1dXJRWUFPTGNUeGFiSnNtLU5EUEs3d0hPV1BNaVMwLVpoWkJYSnZGeWRDdG9OMGgxYTVwUEtLYW1OS2xKTnBxM0p3?oc=5",
+   "pub": "Mon, 09 Nov 2026 16:50:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Operation „Iron Gate“ – Trump setzt Spezialeinheit gegen iranische Waffentransporte ein - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUS1GU2tjNER3Y05WcGJtakUtTjU1VWVPX0k3YkRIOVI3bW9lRU5xQ0NYTkhkbm5YY0pCWURyOUdxZGQzT0pHSlBhRmViZXNzZHdEM3dTY2luZEQyLTFfemtGeWdTa01LMU1VdkxncndOdE52MWNwdE9zMTUwODdkNUg3b1gwZl9sRXh0TXVzUG9UMVRtUDBmS21QeS1KNU4yZlluRU5neFBLSHpLdHZuTUpiMTVEVmlCanpCV1h3a0JGOU5SMDhoMmp3VkgtNXhyU2h0ZkZ4WFhZOXMxamNfLXhvVzFEb3c3aklhRW9Wb3ZuZXpiamtwUGVfOA?oc=5",
-   "pub": "Mon, 09 Nov 2026 06:14:57 GMT"
+   "t": "Iran soll für Hackerangriffe auf vernetzte Kühlanlagen verantwortlich sein - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BcjhsUGp5MndGdmg4V2NZY2ZtV2xPcm14ZzJxUEluZTJzaDljV3pLLVFGQ21BeERtZnYxWlJ2dVZXX25VWl94ZVdPSXRIdUhqdzVBdWdrRFROdFBIMEx3?oc=5",
+   "pub": "Mon, 09 Nov 2026 17:10:17 GMT"
   },
   {
-   "t": "Iran stellt USA Ultimatum und droht mit Krieg - Blick",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHJUTHZtT0lWaW11aHNOcFBDc0xRY3hZeTI4WXFrNkJUNGVnRVFvbUotS3hYXzR5WkRVR2RmcUZuakUzZXByeERoSEdIRlgtYk9nSWFqakQtUXFRQnpqUm05REVaV1ZZMDYwQzN1aDIyTmpwLU5iX3J3MXZ2aTd2TXpyNl95UWhqWlE?oc=5",
-   "pub": "Mon, 09 Nov 2026 02:25:26 GMT"
+   "t": "Paris - G7-Außenminister befassen sich mit der Lage im Iran-Krieg - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmtyVE9RMDhmdC1kV2Q4eVdrX21OM0J3NlF4bF9mQWNqcXd4aEVYSVRWQk84ZlVRNFA5STZpU3BBYVpVc2VMekJISThZNF8xR3ByOUhfTDRBekoxaTY4NnlVZDM1d2tIZUF2cm93dE00SUtEblEybjA2SGMySl9QWW5XcFlNaTVxY0MzMWRRTGE5dUlUZFVBZkVDdlFhNUE?oc=5",
+   "pub": "Mon, 09 Nov 2026 17:04:53 GMT"
   },
   {
-   "t": "Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFVseDFEZmxyekxsc0xzeGlhX2QzSXduZEhRem1ra1VHTFlDM0VPUWJHOWRxQ29lSklTbS1KZnlhQlNxSkt3ZVV4UmViM0gxOUtydGhYYVpjMnJxZGJWcmt0REhOb1MzNmRkbWJGdEFWeFJMajN1V2tOc1pxbVhsSXQ0dXdoWVZXWDF5dFlJZDBIWXhWSVE2cTBfSXVQSXhBeXBjTzcxenB5ZEczX1dQbG9KR2NQeGU2WHZ6ZWxiNA?oc=5",
-   "pub": "Sun, 08 Nov 2026 18:59:14 GMT"
+   "t": "Frankreich macht Iran für Angriffe auf Kühlanlagen verantwortlich - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1I5UmxzZ1A1ZkR0ZVpOTV9adXlPa2V0dTcxam1YaEtfXzFLXzVPcy1aVjRlRHhfMnpDc3U1bEROQXhacWZlM2ZXM3Z5dzlDTzJ5eF8tWUVhUTRiNW9SZnZBNUFaZzNpX0x0XzFIcnhiX3lwM0FXR3ROa1BtWGlnV2txZElnaG1rR3dBVkJkcUM3eHlNTnRTb09WanFhOHJiOWo3VnBlM2VFZUNRblZHTElPVmw0dnZOY2NIdFZyeVlnNW0y?oc=5",
+   "pub": "Mon, 09 Nov 2026 17:09:10 GMT"
   },
   {
-   "t": "Schah-Sohn nimmt Ehrung entgegen: Iran-Demos in Frankfurt - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb3o0TDF6TVpPNjRTMWdXWUJvMmljUlRfeTZMbThrS3UzY3lpMThfV2xMOVRPVTBoYVNCYVhsa1RZZ3lXNERqUk1tOFNURThHZkdMdTFGVXNSeXZ6R1Vfa0dkTFRYekxVVUZqMl9aajFTN1VVNWhYTU5kSTNDZzRERDVteGVxS1JOazhB?oc=5",
-   "pub": "Sat, 07 Nov 2026 15:32:00 GMT"
+   "t": "Frankreich sieht Iran hinter Cyberangriff auf Kühlanlagen in Supermärkten - Politik - SZ.de - SZ.de",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUtOSHBSajhNcWRad0JqQy1rVGUzMG5mWXAyQnZJRnR4TUJjNVFLSENLUVc4OU5GdDlfQ29LN1prOHRHWWdzRVMtWVlBbUZPMkx1MzhHWW9WTW1HYndMWGJIMno0a29ycmVvQVJSVi1MTHhCS1pncTJxNXRMUU9pZVdKV3FzdXhUREppak15LUkzSXZ4eWJEejBqZHpTWmc3blBOeFBHYTR1VVk3WnJBaWdxdDBRb0lUNXN5NDNId18?oc=5",
+   "pub": "Mon, 09 Nov 2026 17:08:54 GMT"
   },
   {
-   "t": "Bat Yam verklagt Iran auf 250 Millionen Schekel - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1dtREFDRFBvTWRGRmZWc2pBYy1tWC1RMkppbjBpSUo1SFpWMXVGX2p4b1E3R3VqUkFIMnNuWmtvTS13TTNubWZWenJ0N3lRVlIyS2thbVR5c3dKUmhJZk1KRHh3OHdRcHZvTTMwai1md0tOaHRLSVVMdU1PQ2lNbVd6bklzWnZrZGxvTElZMlh3bkxkY0kxWlpVeWYxNTdiNkxn?oc=5",
-   "pub": "Sun, 08 Nov 2026 15:16:00 GMT"
+   "t": "Frankreich sieht Iran hinter Angriff auf Kühlanlagen - OP Online",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGNjcm4tZnJ3QU9KSDVMTEFOOGljMnY1LUJ2bG0zZ29tRTFwdmhOdW5Cek5wNjNZS2hEOEpFNktDQklJY19UOEMwa3lYeHFnUWRtLVRHckFsN0lmLWE2cjlBTHl6UXB1REN4R2JFb1FCQjk1cDJhRm42ZUdWVmNMNy12ODgxa19OTWx3QW5Sam9feE41YkVYWkI0enhpaVBGSkxTbElfMUZPUQ?oc=5",
+   "pub": "Mon, 09 Nov 2026 16:59:00 GMT"
   }
  ]
 }
