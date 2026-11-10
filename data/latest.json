@@ -1,57 +1,72 @@
 {
- "collected_at": "2026-11-10T09:53:14Z",
+ "collected_at": "2026-11-10T17:51:58Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.821,
-   "chg1d_pct": 0.18
+   "price": 0.8262,
+   "chg1d_pct": 0.81
   },
   "USDJPY": {
-   "price": 158.103,
-   "chg1d_pct": -0.12
+   "price": 158.796,
+   "chg1d_pct": 0.32
   },
   "GBPCAD": {
-   "price": 1.8977,
-   "chg1d_pct": 0.62
+   "price": 1.8914,
+   "chg1d_pct": 0.29
   },
   "AUDJPY": {
-   "price": 109.284,
-   "chg1d_pct": 0.52
-  },
-  "EURUSD": {
-   "price": 1.1228,
-   "chg1d_pct": 0.72
-  },
-  "GBPCHF": {
-   "price": 1.1022,
-   "chg1d_pct": 0.67
-  },
-  "WTI": {
-   "price": 84.54,
-   "chg1d_pct": -2.66
-  },
-  "BRENT": {
-   "price": 89.93,
-   "chg1d_pct": -2.85
-  },
-  "GOLD": {
-   "price": 4092.8,
-   "chg1d_pct": -0.53
-  },
-  "SPX_FUT": {
-   "price": 7580.5,
+   "price": 108.805,
    "chg1d_pct": 0.08
   },
+  "EURUSD": {
+   "price": 1.1156,
+   "chg1d_pct": 0.08
+  },
+  "GBPCHF": {
+   "price": 1.1013,
+   "chg1d_pct": 0.59
+  },
+  "WTI": {
+   "price": 86.27,
+   "chg1d_pct": -0.67
+  },
+  "BRENT": {
+   "price": 91.83,
+   "chg1d_pct": -0.8
+  },
+  "GOLD": {
+   "price": 4024.7,
+   "chg1d_pct": -2.18
+  },
+  "SPX_FUT": {
+   "price": 7495.75,
+   "chg1d_pct": -1.04
+  },
   "NAS_FUT": {
-   "price": 27975.5,
-   "chg1d_pct": -0.14
+   "price": 27534.75,
+   "chg1d_pct": -1.71
   }
  },
  "headlines": [
   {
-   "t": "Militärisch praktisch erledigt: Trump sieht Ende des Kriegs gegen den Iran - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDZua2dvRE50WUZjODRDcTFQdnhVM0czMGVrU3Byd3ZzcXFEc3hGZmlrblpzZG11ejdLN05LRUdmUldNMEJ5Ym5OX0l5ZF9jcVVYNzZ4OGY4UXQ2OTh3MVo0V0x5TExCbURlVlZqWkpyNnZJY0o5OU5nVTZTTFU5LTJaZnJyaEdIRTFQRW4yZ3NjM0tP?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:55:14 GMT"
+   "t": "Iran droht Israel mit Vernichtung - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlN0bENzQ255Sm1ZTFBlN2FMdXR6THFNQlZUTzJ4dFpPd3BIVGFrZTNJcktxMC1GS05DUVFyNU5xTFZXRW1ILUJJbTh5TndXNTNnaWJVTkhQbkp6Z002UG84cmJjSjItVVdvbWtEOVd0QmczeGNuMEhVQWhoSjRkQXVuRQ?oc=5",
+   "pub": "Tue, 10 Nov 2026 15:51:00 GMT"
+  },
+  {
+   "t": "Teheran wirtschaftlich am Boden?: Rubio schließt größere US-Angriffe auf den Iran vorerst aus - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2drS1FKeHE2SEZmWkxHaDdvU0cxVFBIcW5SNFJ1cnVuZlFEMEFabGdzb1k0UFZWbzVxYnNyZVZiV1NlelI2ZV96RFpJdHhfamNBR2tjUUg3V0loQkluUGJUWVBia2F3ejdRYXBqU3ZrUjBjdktDd2dZbUVyNTVwVWJhUF9ZdGhMeGI1NUR5d2JxUkthQ3FfTUdpSFZLanpqRk85OEFkamt4UQ?oc=5",
+   "pub": "Tue, 10 Nov 2026 16:10:57 GMT"
+  },
+  {
+   "t": "„Ohne uns würden sie nicht existieren“: Trump will Verbündete für den Iran-Krieg zahlen lassen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFBfRHczZkY5UHNJRWlIcWNpVmVWZ2pLZzhKLUpETF8tWlhkQ09tQlBnLVc3V1FPNUtlTDI1Uk04S2JFYzJXNVpJdzBiR2hwUjY2SXhoT1hHejVodTBDMV9PVUwteEY4Mk56QmdjOEx4Mkxuc19yelJrSVR3SXpOOGhWUDgyS1IyTEZhbHE3dmFJWWZvYmh2TEJKRy1QUEtwUzFsRzdn?oc=5",
+   "pub": "Tue, 10 Nov 2026 13:02:42 GMT"
+  },
+  {
+   "t": "Iran-Krieg laut Donald Trump »effektiv vorüber« – Teheran spricht von »Fake News« - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSnktY3NueXZPWDUyZTJRMmMzZWJHN01vcHhON1VRckdCcUFuMDE3QmozSW0zeHhTT0hPWUxIWUZBSERCYmdnMzV3WG1jUWpZdTktWmZqSjhnOFZMYWpnRmZFTUEzN1ZkVml1SktqaXdqSE55c1RZTm9OZm5naVU2T3ZMeVhTNXd0UWlTUWUyZzNEdEVzamFvd2VrM1M5eW5raGNoZkdXRE1ScFAyT3dxN1V1ZlloeGpCZDJPaDB5X2duWl9sVXJhMm10azFZc2x6OFN5ckFPN0t2MVVEQkE?oc=5",
+   "pub": "Tue, 10 Nov 2026 05:41:00 GMT"
   },
   {
    "t": "Donald Trump: Iran „praktisch erledigt“ – US-Blockade bleibt bestehen - BILD",
@@ -64,14 +79,24 @@
    "pub": "Mon, 09 Nov 2026 22:37:01 GMT"
   },
   {
-   "t": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnptc3diZzlydUtZd0xHQmRUU1FKMHl4YmNNc3o2dEtLQVJHalg5UmN5UkR6Nlo1WjlLeUJuMjh0RW4yOTU1SnJfZHNqT2xFQ3luN3hobGtaWUllbmtPSWlZUXN6X3hoRzJfajRIb2VyZmgwdk53QkFXdjdGS05vWFlHMG9FbklPVkhSOHdZazZROS1IenBkdVlic0N6SUM5NGxBM2lPZi1zN210M0M4?oc=5",
-   "pub": "Mon, 09 Nov 2026 18:56:51 GMT"
+   "t": "Cyberangriffe - Iran weist Vorwürfe Frankreichs zurück, für Hackerangriffe auf Kühlsysteme verantwortlich zu sein - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZlRmM1cVV0MzNxUVZsUXRaUU4xeHAydWpnV1I0aGxWNkRvR3FVdTJEMmUxN1d0Q3FvUDJ6TXdhTDZpY011RnNtQmFuYy0zdUNSM0FLaGZvUEZPWW1PNWxkVEdtY2dOOEw0dlVwOXZMa2pCV3NwcWF6TllIdl9Yb3Y0dVhSLUlSWEhsY1NSLUZCLUxyNHZhWF9UaEdhdFBBTGZzRmU2eURzM0wwaDl3bURVS3dkbmVmVjU2cldleFZLekZ0RVFDMFFTMElhS3lUaUViUHJ6TQ?oc=5",
+   "pub": "Tue, 10 Nov 2026 14:30:59 GMT"
   },
   {
-   "t": "Irankrieg laut Donald Trump »effektiv vorüber« – Teheran spricht von »Fake News« - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSnktY3NueXZPWDUyZTJRMmMzZWJHN01vcHhON1VRckdCcUFuMDE3QmozSW0zeHhTT0hPWUxIWUZBSERCYmdnMzV3WG1jUWpZdTktWmZqSjhnOFZMYWpnRmZFTUEzN1ZkVml1SktqaXdqSE55c1RZTm9OZm5naVU2T3ZMeVhTNXd0UWlTUWUyZzNEdEVzamFvd2VrM1M5eW5raGNoZkdXRE1ScFAyT3dxN1V1ZlloeGpCZDJPaDB5X2duWl9sVXJhMm10azFZc2x6OFN5ckFPN0t2MVVEQkE?oc=5",
-   "pub": "Tue, 10 Nov 2026 05:41:00 GMT"
+   "t": "Irankrieg: Rubio sieht »keinen Bedarf an größeren Kampfoperationen« gegen Iran - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNThWS1Bna2xlLWFLUmY2NnZEd0prMlgtaWtqYmtsNnNhLUh0RHg4cXdSbnpxU21pQm1BcUVsOXVickhzTmRydDhyU3UzZDlBc1RHcm85dUt4RWlmbThEQU4xRXNKbFBLWjVzT2xITWZ1ZkZ0UHowQzEtNVM3Z09iWk90MHNWRHV4cG5HY0trRS1OUVo4U1lV?oc=5",
+   "pub": "Tue, 10 Nov 2026 15:06:52 GMT"
+  },
+  {
+   "t": "Militärisch praktisch erledigt: Trump sieht Ende des Kriegs gegen den Iran - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDZua2dvRE50WUZjODRDcTFQdnhVM0czMGVrU3Byd3ZzcXFEc3hGZmlrblpzZG11ejdLN05LRUdmUldNMEJ5Ym5OX0l5ZF9jcVVYNzZ4OGY4UXQ2OTh3MVo0V0x5TExCbURlVlZqWkpyNnZJY0o5OU5nVTZTTFU5LTJaZnJyaEdIRTFQRW4yZ3NjM0tP?oc=5",
+   "pub": "Tue, 10 Nov 2026 06:55:14 GMT"
+  },
+  {
+   "t": "„Militärisch ist Iran praktisch erledigt“: Trump erklärt Krieg für beendet – Teheran widerspricht scharf - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFltQ1NLdTJwczJRZ00tcTJlWWNVSk1yUEthUU5aM0dlUkdsR1B6cFBZeGVXR2xBSWRmeC1GSU1wS1Y5TGlCcG9aUnhrYUZBeWsycjdhR3FINkVYM3VYYk9HTUdvVlVTQ3RzYlRyV3V1RzJ1ZDVnU0pUZlZsUFQ4bXRsekFDcXFVblNqSDR0YWFqQTFGY1E1b2NmN0x2ZEt1R2c?oc=5",
+   "pub": "Tue, 10 Nov 2026 07:59:48 GMT"
   },
   {
    "t": "Seeblockade bleibt: Trump: Iran-Krieg ist militärisch \"effektiv vorüber\" - n-tv.de",
@@ -79,34 +104,9 @@
    "pub": "Tue, 10 Nov 2026 04:13:09 GMT"
   },
   {
-   "t": "Ölpreise fallen trotz US-Seeblockade gegen den Iran - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWptTjdNYUpCQWNWQ3N6RU9zX1NHQ1JNLURtNDByZ0lBX2lISTFWd1luNEZlcDdlWmpUQ3hLMVNFX29QRHRZVm1qYWtHaXY1NWt4NFVqTUxCeHRWVWlVV3ZrMTQyZDd4S2V6dm5iaXk0OUpRUklZQnhwMlZ2TU1GbWl5ckVDeVowbEJ2djljTG5rb2hOanY5aFM3RGFHVUtTZTIw?oc=5",
-   "pub": "Tue, 10 Nov 2026 05:40:45 GMT"
-  },
-  {
-   "t": "Ölpreise fallen weiter: Anleger setzen auf US-Iran-Friedensgespräche - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRzFrOXZCT21lS0pUbTFWdjY5LVZ3a21fRWFEV184NGNGLVkxRE5aWlRROUlod25BTE5vYmFQX21Na0FkZl9HbGdyS2FkUDBDTDdQdkFQc1BDVTNUOUhKclhKQnp5d0NvaXFxd0lIaUljblhjYjM1UWdEbXBycDZudUR5NHZMQUJRSGZoUDJYb19RSVQ5VUNBdHdFNkxUUVBPZWR5SQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 07:55:24 GMT"
-  },
-  {
-   "t": "Trump: Iran-Krieg so gut wie beendet - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzdCa3B4VEd5eE1zZWp0b0l4Y0lEUG92RzdNN01ENDIwMlFtUHRtenhPUXBwclFwaVJPTlp5Y2VLWExCUHVEZ0xwZ1BWUEN0Q09VSHNTbVJLcXVNUnBxMTVLd09ULVl2SW5HekVjWldmRy1wc0M0c2pubmhMc1hyLURHYUFxM3BXTUE?oc=5",
-   "pub": "Tue, 10 Nov 2026 08:20:00 GMT"
-  },
-  {
-   "t": "Cyberangriffe auf Kühlanlagen: Frankreich macht Iran verantwortlich - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzZoVkZXQXYxLVNWdmdEMzBiMDMwX25tTEg1WFFINGxPZXJPM1lTVmdGdU8zNG1QSXUtaUJRSXo2d1hLZ3ZPQUoxdHRmQWxHRGVlbWNlLWlVaEJkTi15MHhSa01VRDZOSmxHbkc3dk5ZZUZjTjNLWmdmelhyNFEyVjRCRTd2NFBtOVdmczBpT3k4eHdJa2VxZjk1S2JoQmMyMndQRGZfcw?oc=5",
-   "pub": "Mon, 09 Nov 2026 16:47:12 GMT"
-  },
-  {
-   "t": "Frankreich beschuldigt Iran nach Angriffen auf Kühlanlagen in Supermärkten - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY0VfU3FsSGVQNzNPTnNRWGtDbEI4RlJ1MnMyZUZJN1hOZUFBZXl6UjU3TmREVElrNjBoekE3OGRqTEcyZ2k5bVpyTUlqaDBTenp2eFR0U3dJc25WWHVqTFFPM3NUZURYUlVpOEgwTkkxQ1B3NDdCeWhqTFEzMlRIdzRhSkttekc3TjI0VTgxOWtsbU52Y2VZTHpFUnd4OHlEUS1DRVZ2dkxoSDluNUV3NkJiTG1tZlBkSExpTThRZVlDaWd2RjktRmc5Z2FoVlBRdFJKTmtqRHF5aVRsMWwybjdWMU9pZlRi?oc=5",
-   "pub": "Mon, 09 Nov 2026 17:20:00 GMT"
-  },
-  {
-   "t": "„Versuchung für Iran ist, Trumps Schwäche misszuverstehen und das eigene Blatt zu überreizen“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ21OUXJjaEo0cE5YVmx6NmVfUlpoQjMta2dVTGVXLVkxU0lUMFVzUkJXUklQcDdzQld1R1ZJNTRkTmJZbHB6dElRaGphTVdFVUlWU0plQUxrcS1wTXlzQ3lmTTlYVy1NeTNnY1lDLXdhV3BSYW5pVGU1d19fUmhpZTBtX1pRNGpqVFNDTGJQOXFuMWkwZ0pIVEtrRlFsNHJhYTYxbmNTbEhoT3dCVkRkRUItOE15ZjNrSHQtTDlocnpPRVJRTG8xem9EX1dLOUNCaW5ON1B2NGgxaVh5c3Fic1FwRHpNaHNCOEJNek9oWWo0OGoyVGc?oc=5",
-   "pub": "Tue, 10 Nov 2026 09:42:35 GMT"
+   "t": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnptc3diZzlydUtZd0xHQmRUU1FKMHl4YmNNc3o2dEtLQVJHalg5UmN5UkR6Nlo1WjlLeUJuMjh0RW4yOTU1SnJfZHNqT2xFQ3luN3hobGtaWUllbmtPSWlZUXN6X3hoRzJfajRIb2VyZmgwdk53QkFXdjdGS05vWFlHMG9FbklPVkhSOHdZazZROS1IenBkdVlic0N6SUM5NGxBM2lPZi1zN210M0M4?oc=5",
+   "pub": "Mon, 09 Nov 2026 18:56:51 GMT"
   }
  ]
 }
