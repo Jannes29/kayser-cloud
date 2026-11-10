@@ -1,67 +1,67 @@
 {
- "collected_at": "2026-11-09T17:31:17Z",
+ "collected_at": "2026-11-10T01:33:32Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8208,
-   "chg1d_pct": 0.66
+   "price": 0.8192,
+   "chg1d_pct": -0.04
   },
   "USDJPY": {
-   "price": 157.956,
-   "chg1d_pct": 0.29
+   "price": 158.0,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8964,
-   "chg1d_pct": 0.56
+   "price": 1.8984,
+   "chg1d_pct": 0.66
   },
   "AUDJPY": {
-   "price": 109.222,
-   "chg1d_pct": 0.07
+   "price": 109.398,
+   "chg1d_pct": 0.62
   },
   "EURUSD": {
-   "price": 1.1212,
-   "chg1d_pct": -0.14
+   "price": 1.123,
+   "chg1d_pct": 0.74
   },
   "GBPCHF": {
-   "price": 1.102,
-   "chg1d_pct": 0.44
+   "price": 1.1014,
+   "chg1d_pct": 0.59
   },
   "WTI": {
-   "price": 87.83,
-   "chg1d_pct": -3.3
+   "price": 86.35,
+   "chg1d_pct": -4.93
   },
   "BRENT": {
-   "price": 93.88,
-   "chg1d_pct": -4.52
+   "price": 92.14,
+   "chg1d_pct": -6.29
   },
   "GOLD": {
-   "price": 4113.0,
-   "chg1d_pct": 0.93
+   "price": 4142.6,
+   "chg1d_pct": 1.66
   },
   "SPX_FUT": {
-   "price": 7569.75,
-   "chg1d_pct": 2.27
+   "price": 7580.0,
+   "chg1d_pct": 2.4
   },
   "NAS_FUT": {
-   "price": 27977.5,
-   "chg1d_pct": 3.29
+   "price": 28001.0,
+   "chg1d_pct": 3.38
   }
  },
  "headlines": [
   {
-   "t": "Trump erklärt Iran-Krieg für gewonnen – Rubio meldet keine Fortschritte - Euronews.com",
+   "t": "Katar-Vermittlung: Trump erklärt Iran-Krieg für militärisch beendet - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDNIeEFkc0duQTN4WGItVVBJZndFcnp2VTV5Y2lfVHppc3NRUmJUajFadlpFV0gyOERrTVk2RjlVYjE2OFQwb2JLSzJXYld5cTdGMl9aeGdPazQ2SndWUDVrdGJTeEpUa3I0dnZOcjVtWFJpZzUwc1lDZmg4aXRiekdJM2pEUHdOcnM5RGFvUjl3d0x0UmdyaUxrSDRXVGwyMVNkdWRnalhtbHdfcTBGR2JiOXZBdXVBazktQXFjUGpaNWFjZzNTbFRYR3IzZHJFVlVvSlEwYzYyZw?oc=5",
+   "pub": "Mon, 09 Nov 2026 22:37:01 GMT"
+  },
+  {
+   "t": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnptc3diZzlydUtZd0xHQmRUU1FKMHl4YmNNc3o2dEtLQVJHalg5UmN5UkR6Nlo1WjlLeUJuMjh0RW4yOTU1SnJfZHNqT2xFQ3luN3hobGtaWUllbmtPSWlZUXN6X3hoRzJfajRIb2VyZmgwdk53QkFXdjdGS05vWFlHMG9FbklPVkhSOHdZazZROS1IenBkdVlic0N6SUM5NGxBM2lPZi1zN210M0M4?oc=5",
+   "pub": "Mon, 09 Nov 2026 18:56:51 GMT"
+  },
+  {
+   "t": "Trump erklärt Iran-Krieg für gewonnen – Rubio sieht keine Fortschritte - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZXN0cHNRb2tBM1ZYSDdRb09fQjlILXlVUDZxMnBzUG1ILTd4YWhXSTk2QUtlZ252cmhNd1RzZ0c2MVREVzNYNjNoODJFMnVESEkyaW9NZVNwYUFkdmxzTFRVT1g5dVpmdG1JWDhTaG92STAtZWZaelU0VjU1dDFSRW5adHlHczNyeThmWnRZTUM4cVRGalhXZW5QQzJJeGg3bDNMclNEdw?oc=5",
    "pub": "Mon, 09 Nov 2026 13:21:57 GMT"
-  },
-  {
-   "t": "Operation „Iron Gate“ – Trump setzt Spezialeinheit gegen iranische Waffentransporte ein - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFB0WGJvdHRPZlJ3WFROWDBpMHZKTmJXV3ZKaVNiVVRwOVZEdVhkQmdUd19BeGJEcmlLQTJNM0pNblp6ekJUaDlmcDN2eTljbnpwd3poOUJMOGEtU3dMWndyWUtJaGRXZjRSaEpIZ3BaclR6ZnZqTG9UQzhOZFk4VXVQUnYyNEgwWlN3S0lVV3BqRmg0VWQyNTJoVUpfbl94bHg3ZDl2bEl4YVFVM0MyT08yZHhIelpHSlVfTWxHVzZnWV9qYmI5V244eXpfY0pWUnpkbEFodHFHZnNIOGt3aW5hWDZjUQ?oc=5",
-   "pub": "Mon, 09 Nov 2026 13:02:42 GMT"
-  },
-  {
-   "t": "Iran-Krieg an der Straße von Hormus: Teheran meldet zerstörte Navigationshilfen - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWN2ZXo1Si03RUktVW91czFEb2VrVDBtTHIzVy0wR0NZdjRZWHZPUjBYQ29XZVIzTmIxZFhMRWZhRkNXV1FvMXUxUVBDZlMzbkZ5bnVkWHExYTd2bnlPMDdZWFBaZWdCeHhOb09ZekM3b0pQNmprM0ZHc0pWWVB1eUVTenpzU3ZYZWNGTGJrMS1BZkJHUWI5OUdFSzVfdFQzQlFVNmp3?oc=5",
-   "pub": "Mon, 09 Nov 2026 13:46:41 GMT"
   },
   {
    "t": "Taskforce „Iron Gate“ und 20-Millionen-Belohnung: Trump startet Doppel-Schlag gegen Irans Atomprogramm - Frankfurter Rundschau",
@@ -69,9 +69,34 @@
    "pub": "Mon, 09 Nov 2026 10:13:26 GMT"
   },
   {
-   "t": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnptc3diZzlydUtZd0xHQmRUU1FKMHl4YmNNc3o2dEtLQVJHalg5UmN5UkR6Nlo1WjlLeUJuMjh0RW4yOTU1SnJfZHNqT2xFQ3luN3hobGtaWUllbmtPSWlZUXN6X3hoRzJfajRIb2VyZmgwdk53QkFXdjdGS05vWFlHMG9FbklPVkhSOHdZazZROS1IenBkdVlic0N6SUM5NGxBM2lPZi1zN210M0M4?oc=5",
-   "pub": "Mon, 09 Nov 2026 16:23:28 GMT"
+   "t": "Iran-Krieg an der Straße von Hormus: Teheran meldet zerstörte Navigationshilfen - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWN2ZXo1Si03RUktVW91czFEb2VrVDBtTHIzVy0wR0NZdjRZWHZPUjBYQ29XZVIzTmIxZFhMRWZhRkNXV1FvMXUxUVBDZlMzbkZ5bnVkWHExYTd2bnlPMDdZWFBaZWdCeHhOb09ZekM3b0pQNmprM0ZHc0pWWVB1eUVTenpzU3ZYZWNGTGJrMS1BZkJHUWI5OUdFSzVfdFQzQlFVNmp3?oc=5",
+   "pub": "Mon, 09 Nov 2026 13:46:41 GMT"
+  },
+  {
+   "t": "Michael Strempel, ARD Paris, über Frankreichs Vorwürfe gegen Iran zu Hackerangriffen auf Kühlsysteme - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lNzh2NlNNOUNORUR0emhaVEhYM2d1VUVuaHNmQi1Gcm5uZ01FNGVxMngwUkVTNFd3aVdDOWxNMzhnV3BUbEJhbmw5X2Q3TTZyZmFycTZZMTZIX0NLMDI5WkwzUWN2S04ySks3SFg2cw?oc=5",
+   "pub": "Mon, 09 Nov 2026 19:33:58 GMT"
+  },
+  {
+   "t": "Trump schließt neue Iran-Angriffe fast aus – und liefert bizarre Presse-Show - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkFFZ1BkODJDZ092ZlhjRDNiZ2QwZVBmQjg0aVNRN091OWZtTlVndjB4STR3c3YzUk5zNFh6MEgycG51eG1DUFM0M3pFZWE5bHE2QlBEZjhNMEZhTGlMQzFqN3Nma2tTay1JV3k4Z282bDdRNEdtbEpub1VMRFhXdjhXMGM2bU5OU1hPSEVuTVh1S2JXU0RBc2NDbHNnRXBweUNERUphc1NRSFpyVGp0R1ViZVMwSmdlZVpzQ2VROC1qS1VHUHJ2MEhsQQ?oc=5",
+   "pub": "Mon, 09 Nov 2026 22:59:46 GMT"
+  },
+  {
+   "t": "Frankreich macht Iran für Angriff auf Supermarkt-Kühlanlagen verantwortlich - SR.de",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGJRMElqUUhNYVU1TVJuRWhZNkp5SHNuQ2VUeE54UVVlQ3pGcFVkMEJTc2l0OENUaVdkVlNfTm9BUVk4cFFzNUt3UnBVWFVEWXhDaUNiaTBudmxkNU9wemUzdTY3OXpSclp0QTJVekpYOUdJdzR4bFZPT1hjZ3ZZTEI5ZzdoSHRhZDRYSHNfYXNBbFpRZUhQODd0NHVSLU1IQnhKX3dqVHVZaGtkMW8xTlZ1UGt5eXViZkFNb2gyZHJ0VmJyTVJ4NnJhSWJRRGdtUEJxM29nOA?oc=5",
+   "pub": "Mon, 09 Nov 2026 18:55:00 GMT"
+  },
+  {
+   "t": "Frankreich sieht Iran hinter Cyberangriff auf Kühlanlagen in Supermärkten - Politik - SZ.de - SZ.de",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUtOSHBSajhNcWRad0JqQy1rVGUzMG5mWXAyQnZJRnR4TUJjNVFLSENLUVc4OU5GdDlfQ29LN1prOHRHWWdzRVMtWVlBbUZPMkx1MzhHWW9WTW1HYndMWGJIMno0a29ycmVvQVJSVi1MTHhCS1pncTJxNXRMUU9pZVdKV3FzdXhUREppak15LUkzSXZ4eWJEejBqZHpTWmc3blBOeFBHYTR1VVk3WnJBaWdxdDBRb0lUNXN5NDNId18?oc=5",
+   "pub": "Mon, 09 Nov 2026 17:58:13 GMT"
+  },
+  {
+   "t": "Angriffe auf Kühlanlagen in Supermärkten – Frankreich beschuldigt Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY0VfU3FsSGVQNzNPTnNRWGtDbEI4RlJ1MnMyZUZJN1hOZUFBZXl6UjU3TmREVElrNjBoekE3OGRqTEcyZ2k5bVpyTUlqaDBTenp2eFR0U3dJc25WWHVqTFFPM3NUZURYUlVpOEgwTkkxQ1B3NDdCeWhqTFEzMlRIdzRhSkttekc3TjI0VTgxOWtsbU52Y2VZTHpFUnd4OHlEUS1DRVZ2dkxoSDluNUV3NkJiTG1tZlBkSExpTThRZVlDaWd2RjktRmc5Z2FoVlBRdFJKTmtqRHF5aVRsMWwybjdWMU9pZlRi?oc=5",
+   "pub": "Mon, 09 Nov 2026 17:20:00 GMT"
   },
   {
    "t": "Cyberangriffe auf Kühlanlagen: Frankreich macht Iran verantwortlich - ZDFheute",
@@ -79,34 +104,9 @@
    "pub": "Mon, 09 Nov 2026 16:47:12 GMT"
   },
   {
-   "t": "Frankreich wirft Iran Hackerangriffe auf Kühltruhen vor - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTBwV3kzSlJnOGxuMWNFRnhYLVI1a2pfWnhnQ1htaTNsLTY1bkxrcVI2MWpnbDZ2R0FtXzNKYktUaFJVLVBmQ3dwUF84czFCdHVDX1ZjZktJRDEwaVcyUW5PSW9Ha2VNUTRtRjhtcFJ1dXJRWUFPTGNUeGFiSnNtLU5EUEs3d0hPV1BNaVMwLVpoWkJYSnZGeWRDdG9OMGgxYTVwUEtLYW1OS2xKTnBxM0p3?oc=5",
-   "pub": "Mon, 09 Nov 2026 16:50:00 GMT"
-  },
-  {
-   "t": "Iran soll für Hackerangriffe auf vernetzte Kühlanlagen verantwortlich sein - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BcjhsUGp5MndGdmg4V2NZY2ZtV2xPcm14ZzJxUEluZTJzaDljV3pLLVFGQ21BeERtZnYxWlJ2dVZXX25VWl94ZVdPSXRIdUhqdzVBdWdrRFROdFBIMEx3?oc=5",
-   "pub": "Mon, 09 Nov 2026 17:10:17 GMT"
-  },
-  {
-   "t": "Paris - G7-Außenminister befassen sich mit der Lage im Iran-Krieg - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmtyVE9RMDhmdC1kV2Q4eVdrX21OM0J3NlF4bF9mQWNqcXd4aEVYSVRWQk84ZlVRNFA5STZpU3BBYVpVc2VMekJISThZNF8xR3ByOUhfTDRBekoxaTY4NnlVZDM1d2tIZUF2cm93dE00SUtEblEybjA2SGMySl9QWW5XcFlNaTVxY0MzMWRRTGE5dUlUZFVBZkVDdlFhNUE?oc=5",
-   "pub": "Mon, 09 Nov 2026 17:04:53 GMT"
-  },
-  {
-   "t": "Frankreich macht Iran für Angriffe auf Kühlanlagen verantwortlich - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1I5UmxzZ1A1ZkR0ZVpOTV9adXlPa2V0dTcxam1YaEtfXzFLXzVPcy1aVjRlRHhfMnpDc3U1bEROQXhacWZlM2ZXM3Z5dzlDTzJ5eF8tWUVhUTRiNW9SZnZBNUFaZzNpX0x0XzFIcnhiX3lwM0FXR3ROa1BtWGlnV2txZElnaG1rR3dBVkJkcUM3eHlNTnRTb09WanFhOHJiOWo3VnBlM2VFZUNRblZHTElPVmw0dnZOY2NIdFZyeVlnNW0y?oc=5",
-   "pub": "Mon, 09 Nov 2026 17:09:10 GMT"
-  },
-  {
-   "t": "Frankreich sieht Iran hinter Cyberangriff auf Kühlanlagen in Supermärkten - Politik - SZ.de - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUtOSHBSajhNcWRad0JqQy1rVGUzMG5mWXAyQnZJRnR4TUJjNVFLSENLUVc4OU5GdDlfQ29LN1prOHRHWWdzRVMtWVlBbUZPMkx1MzhHWW9WTW1HYndMWGJIMno0a29ycmVvQVJSVi1MTHhCS1pncTJxNXRMUU9pZVdKV3FzdXhUREppak15LUkzSXZ4eWJEejBqZHpTWmc3blBOeFBHYTR1VVk3WnJBaWdxdDBRb0lUNXN5NDNId18?oc=5",
-   "pub": "Mon, 09 Nov 2026 17:08:54 GMT"
-  },
-  {
-   "t": "Frankreich sieht Iran hinter Angriff auf Kühlanlagen - OP Online",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGNjcm4tZnJ3QU9KSDVMTEFOOGljMnY1LUJ2bG0zZ29tRTFwdmhOdW5Cek5wNjNZS2hEOEpFNktDQklJY19UOEMwa3lYeHFnUWRtLVRHckFsN0lmLWE2cjlBTHl6UXB1REN4R2JFb1FCQjk1cDJhRm42ZUdWVmNMNy12ODgxa19OTWx3QW5Sam9feE41YkVYWkI0enhpaVBGSkxTbElfMUZPUQ?oc=5",
-   "pub": "Mon, 09 Nov 2026 16:59:00 GMT"
+   "t": "Operation „Iron Gate“ – Trump setzt Spezialeinheit gegen iranische Waffentransporte ein - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFB0WGJvdHRPZlJ3WFROWDBpMHZKTmJXV3ZKaVNiVVRwOVZEdVhkQmdUd19BeGJEcmlLQTJNM0pNblp6ekJUaDlmcDN2eTljbnpwd3poOUJMOGEtU3dMWndyWUtJaGRXZjRSaEpIZ3BaclR6ZnZqTG9UQzhOZFk4VXVQUnYyNEgwWlN3S0lVV3BqRmg0VWQyNTJoVUpfbl94bHg3ZDl2bEl4YVFVM0MyT08yZHhIelpHSlVfTWxHVzZnWV9qYmI5V244eXpfY0pWUnpkbEFodHFHZnNIOGt3aW5hWDZjUQ?oc=5",
+   "pub": "Mon, 09 Nov 2026 13:02:42 GMT"
   }
  ]
 }
