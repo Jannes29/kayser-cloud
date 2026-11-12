@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-11T21:59:53Z",
+ "collected_at": "2026-11-12T03:01:18Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.833,
-   "chg1d_pct": 1.64
+   "price": 0.8333,
+   "chg1d_pct": 1.02
   },
   "USDJPY": {
-   "price": 159.779,
-   "chg1d_pct": 1.14
+   "price": 159.82,
+   "chg1d_pct": 0.7
   },
   "GBPCAD": {
-   "price": 1.8915,
-   "chg1d_pct": -0.33
+   "price": 1.89,
+   "chg1d_pct": -0.18
   },
   "AUDJPY": {
-   "price": 109.397,
-   "chg1d_pct": 0.08
+   "price": 109.326,
+   "chg1d_pct": 0.28
   },
   "EURUSD": {
-   "price": 1.1094,
-   "chg1d_pct": -1.14
+   "price": 1.1074,
+   "chg1d_pct": -0.85
   },
   "GBPCHF": {
-   "price": 1.1057,
-   "chg1d_pct": 0.39
+   "price": 1.1043,
+   "chg1d_pct": 0.29
   },
   "WTI": {
-   "price": 86.46,
-   "chg1d_pct": 0.49
+   "price": 85.77,
+   "chg1d_pct": -0.31
   },
   "BRENT": {
-   "price": 92.64,
-   "chg1d_pct": 1.26
+   "price": 91.97,
+   "chg1d_pct": 0.52
   },
   "GOLD": {
-   "price": 3994.0,
-   "chg1d_pct": -0.9
+   "price": 3987.7,
+   "chg1d_pct": -1.05
   },
   "SPX_FUT": {
-   "price": 7647.25,
-   "chg1d_pct": 1.37
+   "price": 7617.5,
+   "chg1d_pct": 0.97
   },
   "NAS_FUT": {
-   "price": 28471.5,
-   "chg1d_pct": 2.29
+   "price": 28290.5,
+   "chg1d_pct": 1.64
   }
  },
  "headlines": [
@@ -54,9 +54,19 @@
    "pub": "Wed, 11 Nov 2026 05:45:00 GMT"
   },
   {
-   "t": "Ölpreis aktuell: Iran-Krieg laut Donald Trump „effektiv vorüber“ - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRWN4OUoxRWs0SzFJWkJ0M2hrSlZlV202M3RMWlJ2ektVZTZ4aWZSSjZGRXphUU5PRXdXYlcwNzZGaDg2WDFIWEpFYnlaeWNvRk5xRHVGNzFsMlhDNTFoQjQyYW82NHdoRm1UTk9SSHdhYnp1QlhJVUxhb1BUaTBlT2dsZ0ZhSUhsUW1Gajh3NjBnM0FIbmdlcDNmVWNQOEV1cmM2WElMYmk0c2c?oc=5",
-   "pub": "Wed, 11 Nov 2026 19:13:05 GMT"
+   "t": "„Versuchung für Iran ist, Trumps Schwäche misszuverstehen und das eigene Blatt zu überreizen“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ21OUXJjaEo0cE5YVmx6NmVfUlpoQjMta2dVTGVXLVkxU0lUMFVzUkJXUklQcDdzQld1R1ZJNTRkTmJZbHB6dElRaGphTVdFVUlWU0plQUxrcS1wTXlzQ3lmTTlYVy1NeTNnY1lDLXdhV3BSYW5pVGU1d19fUmhpZTBtX1pRNGpqVFNDTGJQOXFuMWkwZ0pIVEtrRlFsNHJhYTYxbmNTbEhoT3dCVkRkRUItOE15ZjNrSHQtTDlocnpPRVJRTG8xem9EX1dLOUNCaW5ON1B2NGgxaVh5c3Fic1FwRHpNaHNCOEJNek9oWWo0OGoyVGc?oc=5",
+   "pub": "Thu, 12 Nov 2026 02:15:15 GMT"
+  },
+  {
+   "t": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEN3al9MbENGZ0NnVV9WTjZzOGdUdzIyWllMUGJleVNCQW1TZ28xSDBSVkw1b0xKdlpOSEVkS3pmTzNDaDZHS1ZzTWNqUU4wN3pmYmdxMlYyUGNvQ1cyT1Z6Tzgtd3QtVDMzdVJrN010TDlUSlZTa1R0aS1XNnNWQVAxZDdFOFkxdV94MC1aZ2RnbUc3NS1yQXprVFBSX0dFZUppN1FtWHBTYmpHUG1UR1RwTVFnVUl2YVNYdmVvQTMtSUJm?oc=5",
+   "pub": "Wed, 11 Nov 2026 23:41:53 GMT"
+  },
+  {
+   "t": "Warnung an USA: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMTRpTjBuWEV3NFJGR2o1WkpZbERndVY0YU5BenlSUEpia09ramxaWW1ZQ3NGZ3lJR3JaN1FrNzJNTXBZYk15N1ZVbTZDNzU3SGZlWHZPYWlfdTg0Ukk2ZE5YbVFsaHdnOC1QUmdUS2d3Mnp6NkF2UXVyR0ZPNk9mSUpJVmdybzg2eXJQbEs5dzRCSXJnZ0ltdnNORXdadVJtZWlNajJub01YR3M5ZWFWWktYR3BIUWpyNC1OS2NfcDB6Yl9fSXl2aVk5ZE5weWNO?oc=5",
+   "pub": "Wed, 11 Nov 2026 23:42:57 GMT"
   },
   {
    "t": "Drei mutmaßlich vom Iran unterstützte Terrorhelfer in den USA angeklagt - tagesschau.de",
@@ -64,34 +74,9 @@
    "pub": "Wed, 11 Nov 2026 06:18:00 GMT"
   },
   {
-   "t": "„Wenn man jemanden für den Iran-Krieg verantwortlich machen möchte, dann ist es der Präsident“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQb0g4NjM3VXM1Sl8tWjZ0anJ2RmRyYlFQM2VBUXExZ2JFZEk1a0U2QncycUdZbGtaUlMwU2FNaExqdVBOTWxaMXlNdkFZcXZZVjhXV044NmkwVmU4N09aU0FYODZtNG5qUVhWaDk1WWFjRlZQSzJ3d3UyR19kTG9YMW84ZmhKc0JFU29idWZDQnBLeFJaeVA0cGVwXzZQZHRyN1VPNUZSdHZSTjF3bjBVdVpfMFZoUG9WenphUnktQjJDVHdCYVI3VnVRUEdDSFUtOXFKano3eXk4UTdrZGlEaG9laEZVV1k4WDVHV2lRY1JiTGFkQzdVNWZuenhQWGdYY3ZFaTJWRFNTQTBtbFg3YnJ3?oc=5",
-   "pub": "Wed, 11 Nov 2026 10:33:32 GMT"
-  },
-  {
    "t": "Drei Iran-Unterstützer in den USA wegen Terrorismus angeklagt - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzdfQTBDcmVSY1dGZDZDY3hkQnhEdVNOOFVWakQ0QXdYOUFBdGVZTGY0TnhJcVF1N2VqVmEzRlRxakktTHZOSEF3RGhfcXpVZDFxdGE1QnVjbk5xSUwtUmtBOHZDVFRRX182ZERSb0VIQUVISFcxNzd3eUUzMHRxUkdrWXFfY2I4?oc=5",
    "pub": "Wed, 11 Nov 2026 15:21:58 GMT"
-  },
-  {
-   "t": "Schiitische Milizen: Machtprobe zwischen dem Irak und dem Iran - Mena-Watch",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55SmlVSVdVSElSdndJeVFvd3A3cnNiT0o1RXd0M2d1UkRZcEl6UzBHbklLYzhFRjNHSVBORm9NaGdmUUtVRmJES1hSb3d3Y0d5SlB3aVhqZ2ttVVZISHZWdy1LQUtneWFKaWJlV3lUTktsQ3duaXY3bVZUb0Y1Zw?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:00:00 GMT"
-  },
-  {
-   "t": "Cyberangriffe auf Kühlanlagen: Frankreich macht Iran verantwortlich - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzZoVkZXQXYxLVNWdmdEMzBiMDMwX25tTEg1WFFINGxPZXJPM1lTVmdGdU8zNG1QSXUtaUJRSXo2d1hLZ3ZPQUoxdHRmQWxHRGVlbWNlLWlVaEJkTi15MHhSa01VRDZOSmxHbkc3dk5ZZUZjTjNLWmdmelhyNFEyVjRCRTd2NFBtOVdmczBpT3k4eHdJa2VxZjk1S2JoQmMyMndQRGZfcw?oc=5",
-   "pub": "Mon, 09 Nov 2026 16:47:12 GMT"
-  },
-  {
-   "t": "Raketen und Marschflugkörper: Iran protzt mit Videos gewaltiger Kriegstunnel - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUhxRVAtRXlsTUg4YV9ZNjBBVEhwaTBZT0xxeEE4MURQMF9Kem1lT2JGOTEwQTVtWE11MC1mUVZ4aUVzaGxtQ25SX1JTcjhOb1BMd19nT2tzWnBobWlRTVJUZWxxVml0aVlQS0d5Vlo3VVZnSGkxNTAxTVV4R3ZIaE4ybnpYRHZoYXd1RmZGT3ZWTkhBbmYwUzlBWjdiNi1hQ3dpWEpwTlZPMUE?oc=5",
-   "pub": "Wed, 11 Nov 2026 11:21:00 GMT"
-  },
-  {
-   "t": "Trump verteidigt Iran-Krieg in Rede zum Veteranentag - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaklxZklXTkJmWWpEMnJJMGc4Qk0xa093T084NnNFNVFETG9RQy11UnRCcXAyQ3F0UFZvWjE2dnk5cWtnYjZiaEloUmxqYzlFTzZJVG52cmh1cWFJUVRHMmYyQWZzTjlqaENQcUkwZ1BaYTlnUlM2TEpnbHhpcVE1d0VNc1pDdmxCeGhOSk5DUF82a0xSbHhz?oc=5",
-   "pub": "Wed, 11 Nov 2026 19:35:37 GMT"
   },
   {
    "t": "Iran droht Israel mit Vernichtung - Jüdische Allgemeine",
@@ -99,14 +84,29 @@
    "pub": "Tue, 10 Nov 2026 15:51:00 GMT"
   },
   {
-   "t": "Cyberangriffe: Frankreich sieht Iran hinter Angriffen auf Supermarkt-Kühlsysteme - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSnptc3diZzlydUtZd0xHQmRUU1FKMHl4YmNNc3o2dEtLQVJHalg5UmN5UkR6Nlo1WjlLeUJuMjh0RW4yOTU1SnJfZHNqT2xFQ3luN3hobGtaWUllbmtPSWlZUXN6X3hoRzJfajRIb2VyZmgwdk53QkFXdjdGS05vWFlHMG9FbklPVkhSOHdZazZROS1IenBkdVlic0N6SUM5NGxBM2lPZi1zN210M0M4?oc=5",
-   "pub": "Mon, 09 Nov 2026 18:56:51 GMT"
+   "t": "Nahostkonflikt: Iran droht mit Angriffen auf US-Stützpunkte – auch in Europa - RP Online",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2Q3cnVNOGdUSXQxMGQtcWNzWmUybmh6dWc3QkpqdFRQUnhQMkZnM0t1dGhYWDJheFBtX2lwTDkwTThyWngtXzRvYVpCZGtmTExsTlNhVll1M2RzRnB6ZjZOWE1UMXhQRHoyWm5kVFhqeW9TeS1BU0xJOGJ0c1JGN0RYZW4ybUhWYTFKbEJXU3RDWlNhTGtTVTdqSHhPWEtCRlU4ZTFxLVpnekFSMC1PbDk1WWhtOTVkMzhCblJpVERDc1ZvOHRoMWhoZHNJY3M?oc=5",
+   "pub": "Wed, 11 Nov 2026 22:58:00 GMT"
   },
   {
-   "t": "Iran fordert Entschädigung für Kriegsschäden an Umwelt - derStandard.de",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0s0dWNyRW90Wk1uUUtySjY4MTJYTUlrWEVHZnBOUkpveTZhSFZsUVZlNTNEWXduN2ZfZXpFTDNRSS1scThLRFNnRU4wdlBfeXlpNVRMX0tUZU1jay13TTIybXU0VWhmZklpaEVtLTF1LV9jVU5RcTduUUN6WVRUel9hUWZwUlVEb0wxekdYZ0tLRWJYN2xoT0dGdHhwc1dQRDRuQXgyMDlxbjQ?oc=5",
-   "pub": "Wed, 11 Nov 2026 19:35:00 GMT"
+   "t": "Israel: Gadi Eisenkot warnt Benjamin Netanyahu vor Alleingängen gegen Iran - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTnZETWJmeEVQRFJJd0w3NXExT3VyTHRaR045dDdrMF9pbkx6aXFlM3UtN0E1NlNnOUFPRWc0NDdyUEFoUHRLd0N2cFpDanBnTVZWak1Pc1Q5M3Bsd2x1aDlBMExtWXRoRGxjQ0VoLXNPbTRnMXh3azVzaFpqUkJxYmotVXRSdWlNVVNCUGtmT3pFdUFhVHVvTVFkdjEyTlpWS3ZzS1RFX052TVdWYVlPa1R1V3I1YUZhLXRXYWlIMFdHNUNpMlQ5WExjdG53YThmSzd1Z2J2a0lFMmpm?oc=5",
+   "pub": "Thu, 12 Nov 2026 00:40:00 GMT"
+  },
+  {
+   "t": "„Wenn man jemanden für den Iran-Krieg verantwortlich machen möchte, dann ist es der Präsident“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQb0g4NjM3VXM1Sl8tWjZ0anJ2RmRyYlFQM2VBUXExZ2JFZEk1a0U2QncycUdZbGtaUlMwU2FNaExqdVBOTWxaMXlNdkFZcXZZVjhXV044NmkwVmU4N09aU0FYODZtNG5qUVhWaDk1WWFjRlZQSzJ3d3UyR19kTG9YMW84ZmhKc0JFU29idWZDQnBLeFJaeVA0cGVwXzZQZHRyN1VPNUZSdHZSTjF3bjBVdVpfMFZoUG9WenphUnktQjJDVHdCYVI3VnVRUEdDSFUtOXFKano3eXk4UTdrZGlEaG9laEZVV1k4WDVHV2lRY1JiTGFkQzdVNWZuenhQWGdYY3ZFaTJWRFNTQTBtbFg3YnJ3?oc=5",
+   "pub": "Wed, 11 Nov 2026 10:33:32 GMT"
+  },
+  {
+   "t": "Militärisch praktisch erledigt: Trump sieht Ende des Kriegs gegen den Iran - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDZua2dvRE50WUZjODRDcTFQdnhVM0czMGVrU3Byd3ZzcXFEc3hGZmlrblpzZG11ejdLN05LRUdmUldNMEJ5Ym5OX0l5ZF9jcVVYNzZ4OGY4UXQ2OTh3MVo0V0x5TExCbURlVlZqWkpyNnZJY0o5OU5nVTZTTFU5LTJaZnJyaEdIRTFQRW4yZ3NjM0tP?oc=5",
+   "pub": "Tue, 10 Nov 2026 06:55:14 GMT"
+  },
+  {
+   "t": "Trump verteidigt Iran-Krieg in Rede zum Veteranentag - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaklxZklXTkJmWWpEMnJJMGc4Qk0xa093T084NnNFNVFETG9RQy11UnRCcXAyQ3F0UFZvWjE2dnk5cWtnYjZiaEloUmxqYzlFTzZJVG52cmh1cWFJUVRHMmYyQWZzTjlqaENQcUkwZ1BaYTlnUlM2TEpnbHhpcVE1d0VNc1pDdmxCeGhOSk5DUF82a0xSbHhz?oc=5",
+   "pub": "Wed, 11 Nov 2026 19:35:37 GMT"
   }
  ]
 }
