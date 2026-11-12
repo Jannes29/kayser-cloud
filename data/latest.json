@@ -1,102 +1,62 @@
 {
- "collected_at": "2026-11-12T11:15:49Z",
+ "collected_at": "2026-11-12T18:58:48Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8317,
-   "chg1d_pct": 0.82
+   "price": 0.8357,
+   "chg1d_pct": 1.31
   },
   "USDJPY": {
-   "price": 159.66,
-   "chg1d_pct": 0.6
+   "price": 159.829,
+   "chg1d_pct": 0.71
   },
   "GBPCAD": {
-   "price": 1.8906,
-   "chg1d_pct": -0.15
+   "price": 1.8858,
+   "chg1d_pct": -0.4
   },
   "AUDJPY": {
-   "price": 109.033,
-   "chg1d_pct": 0.01
+   "price": 108.728,
+   "chg1d_pct": -0.27
   },
   "EURUSD": {
-   "price": 1.1098,
-   "chg1d_pct": -0.64
+   "price": 1.1052,
+   "chg1d_pct": -1.05
   },
   "GBPCHF": {
-   "price": 1.1039,
-   "chg1d_pct": 0.26
+   "price": 1.1055,
+   "chg1d_pct": 0.4
   },
   "WTI": {
-   "price": 85.75,
-   "chg1d_pct": -0.9
+   "price": 88.21,
+   "chg1d_pct": 1.94
   },
   "BRENT": {
-   "price": 92.02,
-   "chg1d_pct": -0.8
+   "price": 95.17,
+   "chg1d_pct": 2.6
   },
   "GOLD": {
-   "price": 3959.7,
-   "chg1d_pct": -1.02
+   "price": 3885.5,
+   "chg1d_pct": -2.87
   },
   "SPX_FUT": {
-   "price": 7612.5,
-   "chg1d_pct": -0.37
+   "price": 7636.75,
+   "chg1d_pct": -0.05
   },
   "NAS_FUT": {
-   "price": 28238.0,
-   "chg1d_pct": -0.83
+   "price": 28434.25,
+   "chg1d_pct": -0.14
   }
  },
  "headlines": [
   {
-   "t": "Iran droht mit Angriffen auf US-Stützpunkte auch in Europa - Spiegel",
+   "t": "Iran vs. USA: Regime in Teheran droht mit Angriffen auf Stützpunkte in Europa - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3R4bjFmcXN3eHFzVjR6anRZbHdYbGlrbG8xbTl4UUl2NUlXZ1lCQUpwY0stcUphRUxaVExhVXBCVVBtWEljSWdWVmY4elhucjYyZFQ1RnZBS1JaRmtQR1NvVVVPVnhiaEpmV2pJZWdpZHE0eW1KNVRBeXRWNHJjekpJZ1pFWENCRWp1QXNaaFlXeVNja1Z6Z2hELWdBTU90eGhVTWFNV2NxcktxU3lLNWVJVUdVWmFMLVh0LXJBQ1ZXa3JENU5kaQ?oc=5",
    "pub": "Thu, 12 Nov 2026 09:15:00 GMT"
   },
   {
-   "t": "„Ihr werdet ins Elend gestürzt“: Iran zeigt unterirdische Raketenstadt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejVIYU81Wll1b1F1SnVkM1NoZU8wRXlIR25Ec3hDYk1tVmZNRjNRYXJRckM5NnJ1TFA1ZkljYkxGeUtndDhMUGg3M0E1anlZTzM3QmpUMmkzbGRzbXNtcjBuaUxoMGpGZy1BSnQ5ZDk1OGxoQS01MUxFVVlqWmxhd0FWSkYtN2FJVm9EMFBCanQ4ZUtNdlRQcWFsRVhvaGJRVFNz?oc=5",
-   "pub": "Thu, 12 Nov 2026 04:05:12 GMT"
-  },
-  {
-   "t": "Militärisch praktisch erledigt: Trump sieht Ende des Kriegs gegen den Iran - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDZua2dvRE50WUZjODRDcTFQdnhVM0czMGVrU3Byd3ZzcXFEc3hGZmlrblpzZG11ejdLN05LRUdmUldNMEJ5Ym5OX0l5ZF9jcVVYNzZ4OGY4UXQ2OTh3MVo0V0x5TExCbURlVlZqWkpyNnZJY0o5OU5nVTZTTFU5LTJaZnJyaEdIRTFQRW4yZ3NjM0tP?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:55:14 GMT"
-  },
-  {
-   "t": "USDJPY Prognose & Chart des Tages: Yen unter Druck vor Fed & BoJ - XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbVVqT3VIcy0zNVFoSDVCWFBFU0FCVXBGXzZhcHM3bXZLMGFxRl9uMUhocVVvTTRSZmRKNG1nOFR3dDdfM01CSVQ5TEtYRHEtYmVhbzZLYXByT241NGFraHB1WWVPa3M5dkFEZFRueVdkOUNKOGhpN1JTOHpNOGVBbmQtTWt3RUF5Znd1VjBYeXhGTWN2SG4tbFl4d3BPNTJzWDRUTGozZXBxcVdZSDVuV2pVaFNtNmpEbWk2a2dvNjl1MjZfWjM1d0ZRRlpsWFktaU1pazl2Z0lQZlRQUzAxS1hWQUU?oc=5",
-   "pub": "Thu, 12 Nov 2026 09:43:00 GMT"
-  },
-  {
-   "t": "Iran droht Israel mit Vernichtung - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlN0bENzQ255Sm1ZTFBlN2FMdXR6THFNQlZUTzJ4dFpPd3BIVGFrZTNJcktxMC1GS05DUVFyNU5xTFZXRW1ILUJJbTh5TndXNTNnaWJVTkhQbkp6Z002UG84cmJjSjItVVdvbWtEOVd0QmczeGNuMEhVQWhoSjRkQXVuRQ?oc=5",
-   "pub": "Tue, 10 Nov 2026 15:51:00 GMT"
-  },
-  {
-   "t": "Nahostkonflikt: Iran droht mit Angriffen auf US-Stützpunkte – auch in Europa - RP Online",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2Q3cnVNOGdUSXQxMGQtcWNzWmUybmh6dWc3QkpqdFRQUnhQMkZnM0t1dGhYWDJheFBtX2lwTDkwTThyWngtXzRvYVpCZGtmTExsTlNhVll1M2RzRnB6ZjZOWE1UMXhQRHoyWm5kVFhqeW9TeS1BU0xJOGJ0c1JGN0RYZW4ybUhWYTFKbEJXU3RDWlNhTGtTVTdqSHhPWEtCRlU4ZTFxLVpnekFSMC1PbDk1WWhtOTVkMzhCblJpVERDc1ZvOHRoMWhoZHNJY3M?oc=5",
-   "pub": "Thu, 12 Nov 2026 11:02:40 GMT"
-  },
-  {
-   "t": "Kühlanlagen-Angriffe: Auch Belgien sieht Spuren in den Iran - Vodafone live",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3prcEVIOHVDUENLWDdZbkpaR2pvUnAtNnEtN3ctanZGMTBKN0hrSFZsSlZ2QUVaanhGdWYyNk44dl9BVHktcFd6NXh5WTIyUlM2YTJ5VjVWc2lvNXgwTkxIbjRZUjJpM0lGR0NQSmUwWVNrYXBhd3BjbkgycV9XSDlTOG9VS3BUZU9ObzdWN0xPR011dG9qdHpCbHVjNEVvRDd0U1k4bnUwZE9VTVhOX3hfblRFRVY0QkE?oc=5",
-   "pub": "Thu, 12 Nov 2026 10:57:00 GMT"
-  },
-  {
-   "t": "„Keine sichere Entfernung“: Iran droht mit Angriffen auf Stützpunkte bis Europa - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnJtZVN5ZW5WakZyZWpNYmNHM0M5OWlDMmNENkwtZ0s0SjVCUEZCMXI4ZlNvWWRNQVlKaktpS2VFLWZFdExlVkdPUklvQUd2RFdTLUdxSnV4U2xPaWQyTlVoY0dhRlZuUkIxbkZJbGM0U3YxdDdMNkVESkl5bEhST1hVVWZmS3ZNNFAwU2wyRXVMdWgzUTFHZ0w4MFQ?oc=5",
-   "pub": "Thu, 12 Nov 2026 01:01:00 GMT"
-  },
-  {
-   "t": "Der Börsen-Tag: Yen rückt in den Fokus - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTlNvSG1VM0VqSGVOT2FVcjlVMjZzM1R4Ny1FajB4b0FCVWdweHNVQWRFQmJ5ZlptZkJxeFdKV2NYTmV4NFdHZ19LakZDNmNwZndjbjljNElZT2szVXphZUx3ay1TOUlESktWUHE3S0xxNDNTQXJiSnFQVUhJYko3aFpiTS1LRXJqbGtXd2ZXSQ?oc=5",
-   "pub": "Thu, 12 Nov 2026 08:50:58 GMT"
-  },
-  {
-   "t": "US-Finanzminister Bessent zieht laut Medienberichten wegen mutmaßlicher Iran-Bedrohung auf Militärstützpunkt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc1hGQ092X2hsNUpPWjg0bjhWcWZRVHFadEM3amVIaGdOdEtoQU9hclRGWHV4M0VybS1JbjEtTFBrc0kyM2VyZHJPb2tDLXZCR0FCa3RqWHhkOFVRcFd5Ml82VkZjMVA2UUFYZkhWaGx1UzEwdkFMampqRnpMWHMtOUJ5eUdWbE53azNabFBUV29TV0VMc2NyUFBZc25NZnp6WGFaSEdsMnlacGx1QzVhdWNOVDA4d1ZMWXBiN0NhbDhxTEZoeUdNM1BnY0xxN2dPdGdfc2ptZjRuZnllZFk0clJGT0pvU0ctRFcyQWlFeTR3b0UyZnB3MmhnNW10clE?oc=5",
-   "pub": "Wed, 11 Nov 2026 05:45:00 GMT"
+   "t": "\"Brauchen kein Iran-Abkommen\": Trump pfeift Vance zurück und fordert Fokus auf USA - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaDVnTWw4aHdVT0s2LWFoRVB5N1l2RjQ2dmc5TDlsdVV5NjQ0cVM1eV9VMzBGVmFZMGdVSDVXX0FVY05pdTNaSzFtM3FJdUV1cnJJcENHaVh1d1pQd1BfMnNzT2d6X2VmSWxtWU81WnZPQnkwbEFhR1ZNSldQUmJzcHA0aTZySVFpYlJzOVIzOTZTZFgzZWhKemJ6Zzk?oc=5",
+   "pub": "Thu, 12 Nov 2026 15:35:55 GMT"
   },
   {
    "t": "„Weder Krieg noch Frieden“: Iran droht mit Vergeltung bis nach Europa – und nennt sieben Bedingungen - Frankfurter Rundschau",
@@ -104,9 +64,49 @@
    "pub": "Thu, 12 Nov 2026 08:50:42 GMT"
   },
   {
-   "t": "„Iran kann locker bis nach Europa schießen“: Experte aus München erklärt - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNVFvazdfU3p5RmhIdTZzUkdDaVp5RExvNnNCRmwtZl9tMWNfbjdJU29TWnAwTFpOUmFoMGlIQ1VrTnZST3pCNEV6Ui1tN3R4MGhQM3Zpb1M0SHpsSGVpNk5HclFlc1JhQjUtREZZWWNPelpCLUFrLU5RRi1lTTE3Y19wcG9nbUFsMWMxYmw4b2FrR29jMkZjcnFFYnhubWJ0S1UzOGo4QXNod1dpdURKTjY3bFFvSEV4QjdZZDBUT3FLeDk4R3VnY0UwbHNTSFUxM3c?oc=5",
-   "pub": "Tue, 10 Nov 2026 07:31:04 GMT"
+   "t": "Iran: Repressionen reichen bis ins Exil - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OWjBLQ1gtaDVaZFVJTEx3d2plenRRQk1lcWZGVmpZOTJxczBhY0JXVTdUeENqdTdTczh0VzROc3JJNE9PdkQ0R2dsSW5CNWhJZnJnbmRWU01WNjlvVFdpX1p0MWx5Yjk0YTBaXzA1cFh1N29TTkdLZV9KUdIBe0FVX3lxTFBSRVNGSjBDWHlxQVE0YU4zMnJkUHFmNlIzSkxlVUhsdmNvUEM3cXo0ZzRSUUZjNmpYb0hUZFQwYm02eDBDNGlRT08xNlJTRzhHLXlaNTA1NlRyZTBNMjRQWEdpZVFHVXdWYmlOQzVyMDJsVGF4UllBdnRnTQ?oc=5",
+   "pub": "Thu, 12 Nov 2026 14:37:04 GMT"
+  },
+  {
+   "t": "Konflikt zwischen Trump und Vance: Trump fordert Vance auf, sich auf die USA statt Iran zu konzentrieren - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2F6YUxpUjdIQURxVms5QWcxUi1USTJDaWFnSGZ2QzF6eHkzLW96RXJWNk4xN1N4OEZCS3FqTy1ySXVNSUtXZ2Z5Z195WC14b0t6ZEJZNlF4aDAzV1Rxb1ZVUFI5SHIzcnVjcWttdmVIWVhMNGVtWHRyOWYzTmdJZ25uRmFnc2IzMDZtTmhSZXRIelktZFdsdg?oc=5",
+   "pub": "Thu, 12 Nov 2026 15:38:56 GMT"
+  },
+  {
+   "t": "Putin könnte zum Gewinner von Trumps Iran-Plan werden – Experten warnen - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXpQV2NmZ0RXcGt3RDdJV2l1R1VGV3pzSVh1aGZJekw0dDZVU3NpWFVLTkdQNFp1WWdXUUNFU0JPcXhBLW1KTkhOM1JLSlRKOUFDeXQzOUVjZ0FuWXdIeVB5Umowd0h1bTB2NDB0Q243QnJjeXhfUUd2dnlidTFBQXJOeTE1QzN4SXFTRW9meVl0a2ZTSm1SclJhYTA1WElQeHN4OThoeGFzRC1KSFE5Z1JxSjFYMDZKY1lnTFdCSV82VGE0SWkzX1p1VUMzbTZJd3BVOU1JMkNibWRicnowYlpxeFhwOUpHcTQ2U0Rn?oc=5",
+   "pub": "Thu, 12 Nov 2026 12:19:51 GMT"
+  },
+  {
+   "t": "Ölpreis aktuell: Ölpreise legen nach jüngsten Verlusten leicht zu - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2tSMmFqdG90a0ZpNXRrUVdwVUJxYTA2NXJwYTVvWmhnWTJpbzVISU92Y25uSVh0cFhXUi1WVkM2UVlvNDY2ejFqZHdubkVmR1JqOWlaSWVLWGNWN0hURUpPS3pWY0ZtOGtjbnFEVmk4SHNYNE4zaldSMDJ6WVNiTGM2dnhCbXFfbFFXQ196a0c2cFNPR2N1T0VrWkhleW9BNERIQlM3ZlFXYUlnWnl3dw?oc=5",
+   "pub": "Thu, 12 Nov 2026 18:29:32 GMT"
+  },
+  {
+   "t": "USDJPY durchbricht Marke von 160: Japanischer Yen erholt sich nach Interventionsspekulationen - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ242WGVLYXlRSGJUTjNqanduN1VORVRCZEFyS1UwaTkwTlp6eWw5ODFUM0RSWWpNREdYTDFkaTJQdEhaNFBjN3pfdUtObHpUQU9ydFRwbC1wN1lVU0txNXdLR0p0V2YzVDJ4S3VTdzAyMVY5THVkczBQSlJJYmJ5ajRQanhFRmlIS3dHTHkxVFZlNWk4UHgycDBXNkFHalZCX3RoaENjMFRzeGZfUzE2UmhNNXQtcXRuNmVhX1NVV2ZRR25fdGprS0xPT05vVWJRY2plcXIyeklJZw?oc=5",
+   "pub": "Thu, 12 Nov 2026 17:42:00 GMT"
+  },
+  {
+   "t": "Trump: „Wir brauchen kein Abkommen mit dem Iran“ - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlhObmxxM2Z5T0kyckVYUmhWQjZueWtfZV9FUjRjTWxXM1ZTY1FHWWlpVVJ5Ykg5UjRiQWkzZTMxTU9fX3hpcFRpR3pkSnFkcHR2aVhqV2ROd0QtZUxSTWg3WGwySWlLeVZ1QkNJSVgyOWFzRC0yWEJKVXAzZlJ4eWFsWGw1NVpXbFJLYjFJeGRIdw?oc=5",
+   "pub": "Thu, 12 Nov 2026 14:03:45 GMT"
+  },
+  {
+   "t": "(S+) Warum Obamas einstiger Chefunterhändler im Irankrieg den Rückzug der USA erwartet - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2MzWGVJZ3hFREJBUWs5Skt3amNkNTNnRWpET0JxRFlCaTB3cUxKdWlCUzY1UUt3NVB0US1ZclhWd0FoYmJBMTY5d2NrV3c2VTlIcDI5R1gyaFUzb3dPUXNjdlJuTGJhQVAzUGc4OHlZanM1RFhad3ZIOVlQWVI4Q1FxSDRYeW1uWFdXcEtia0lKZ1U4X1ZLOExSaWhnTDBnNVVxWkhyUl9KNXVOSEh1b1JOV1F5bUZQS0I2X25vdndkT1dtZy1nSUhWeHpLMW9nQy1hSjFfZjdKd0tMWW5oamJUOHZ0S1JVclE?oc=5",
+   "pub": "Thu, 12 Nov 2026 12:00:00 GMT"
+  },
+  {
+   "t": "„Ihr werdet ins Elend gestürzt“: Iran zeigt unterirdische Raketenstadt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejVIYU81Wll1b1F1SnVkM1NoZU8wRXlIR25Ec3hDYk1tVmZNRjNRYXJRckM5NnJ1TFA1ZkljYkxGeUtndDhMUGg3M0E1anlZTzM3QmpUMmkzbGRzbXNtcjBuaUxoMGpGZy1BSnQ5ZDk1OGxoQS01MUxFVVlqWmxhd0FWSkYtN2FJVm9EMFBCanQ4ZUtNdlRQcWFsRVhvaGJRVFNz?oc=5",
+   "pub": "Thu, 12 Nov 2026 04:05:12 GMT"
+  },
+  {
+   "t": "\"Wir haben ihr Geld und ihre Meerenge\": Trump will kein Abkommen mit dem Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDMxcUhrNEZiRnNVZS1RY0VjaDRUUnlzYkkwd3pLeU0xVU92WktLQ0twMGRmdVp2Vnl0X1V5TVlUem1SV0gxTmgzLWgtM3p0Y3A5by1LQ05sU2tFa1dsbHJnWUEycjJXVXhfT05scUc5bGVzQ3F0cUtyQVh4VG5EZUJvVVVkWFVzNTR3UEp3cFFoZ1pScWowZ24wNzlnclJNVEpWSERod2Z0X3Nsa3RhOGk2RElsLXgxMXBJVEZ1bTJkUjhHa1ctd1JjcHNIOHc?oc=5",
+   "pub": "Thu, 12 Nov 2026 16:23:06 GMT"
   }
  ]
 }
