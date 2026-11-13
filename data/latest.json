@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-11-13T08:00:11Z",
+ "collected_at": "2026-11-13T16:27:05Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8357,
-   "chg1d_pct": 0.41
+   "price": 0.8383,
+   "chg1d_pct": 0.72
   },
   "USDJPY": {
-   "price": 159.833,
-   "chg1d_pct": 0.06
+   "price": 159.871,
+   "chg1d_pct": 0.09
   },
   "GBPCAD": {
-   "price": 1.8861,
-   "chg1d_pct": -0.28
-  },
-  "AUDJPY": {
-   "price": 108.583,
-   "chg1d_pct": -0.65
-  },
-  "EURUSD": {
-   "price": 1.1062,
-   "chg1d_pct": -0.3
-  },
-  "GBPCHF": {
-   "price": 1.1055,
-   "chg1d_pct": 0.06
-  },
-  "WTI": {
-   "price": 88.39,
+   "price": 1.8839,
    "chg1d_pct": -0.39
   },
+  "AUDJPY": {
+   "price": 108.367,
+   "chg1d_pct": -0.85
+  },
+  "EURUSD": {
+   "price": 1.1039,
+   "chg1d_pct": -0.51
+  },
+  "GBPCHF": {
+   "price": 1.1082,
+   "chg1d_pct": 0.31
+  },
+  "WTI": {
+   "price": 89.11,
+   "chg1d_pct": 0.42
+  },
   "BRENT": {
-   "price": 95.86,
-   "chg1d_pct": 0.04
+   "price": 96.45,
+   "chg1d_pct": 0.66
   },
   "GOLD": {
-   "price": 3904.8,
-   "chg1d_pct": 0.5
+   "price": 3881.6,
+   "chg1d_pct": -0.1
   },
   "SPX_FUT": {
-   "price": 7614.25,
-   "chg1d_pct": -0.01
+   "price": 7533.5,
+   "chg1d_pct": -1.07
   },
   "NAS_FUT": {
-   "price": 28338.0,
-   "chg1d_pct": -0.16
+   "price": 27728.25,
+   "chg1d_pct": -2.31
   }
  },
  "headlines": [
   {
-   "t": "Trump weist Vance zurecht – Vizepräsident soll sich auf die USA konzentrieren statt auf Iran - Spiegel",
+   "t": "IAEA warnt vor Irans Atomprogramm: Inspektoren erhalten keinen Zugang zu Atomanlage in Isfahan - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObldCOU9Fdzk0Qk5TR1BDREVZcFY5Y2JPV0k5Tk54bzFHODdPd0pWb3FCc2VJaUtqSnNoSFFtdlo2SFRnT0gwRWhFcnZkcVNBSURiRlJFcmpVbDlsMFBIM0xiR0c0QlFxemZqNmU4VDdzajY2R3ozRXFQUll1MGtIY3BlU3JuNlR6SUJWWTdrT23SAZABQVVfeXFMTmR6a2liWDVrVkFpTEdPRk1wRGNpbTlqUXlqUDRNbkhRd3FQRlR2UmZ4QlFRUkdoNVBxNWNiakVjRFlWTlR5Y2ZvU1FvSUZ4VXRjcy13c25GTEVibUh2TmJFaEU3NEJqa0MzOUc4YXBlZ0pPVWczb3B5SXQ2cGhFZ0JlQ3N5ODNJd0otWmdTUjRB?oc=5",
+   "pub": "Fri, 13 Nov 2026 11:19:13 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump weist Vance zurecht und zieht ihn von Iran-Gesprächen ab - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3BJLVJYYmVZS2o2aFVJVTZjelFTelFzajdnQXdka2RvcXdrUW5hTy1lNnktbjdWNTRmeGxheHVhcUhLX0hXSENMdkx1UzMyWVRFU2VaUHpzbndNbXBqYWNIa2ZsR0pOZ0F6dFhmVVBtTVQ0TEZPZzJkcWV5Z2g3UGRRaFJuUk55Z05PNkVlNFFyeWN3Y1dpYzR3WFRpTDRQNUpGQm9rSDd6bjFaa2xXdmhSQmlrR1RVUHJXMTNndXJ4VVRXOXhFOXpsODBMcHg3bUczdE82OXpSQ3dvNl94dQ?oc=5",
+   "pub": "Fri, 13 Nov 2026 09:03:02 GMT"
+  },
+  {
+   "t": "Vance suchte Frieden mit dem Iran – dann pfeift Trump ihn öffentlich zurück – „Haben ihre Meerenge“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThRWlEzbE5ieWh6c19zdjh6Y2UyTjA5SGJrV3dOY2kwcUxEc01paE4tSW8zckJOXzZBSFZnQ3NDWm05TEx5VVF5aGliQnJIbThFUDIybERrbVpfZmtrSXdhaktnSTRvSU5xb0xUNGZRSVNsMHo5WERKR20xQnl6ekIzR2cxWG82aE9ZVVY2UnBIaG9oLW9IS1JUS3A?oc=5",
+   "pub": "Fri, 13 Nov 2026 10:07:57 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran schließt freie Fahrt aus - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenprR0FzMnFXMmRrbjlmUDBpSDRDUUtJZ0dhaEJVeGJXWDFLbmFzUmZidWlRakRDdTZYNC1OMk1vc2dzNi1ZRVFCN1UzREkxSXdTQlhsN0VKMERBeFhMUUl1NEhZR2QtVlYzdmR4MHM5S2gtaGc2R1F4Z0VTRzVHcnIycVUzVEhLelptSF9Ha0tnalRfbGpsX1VyWk5xaHN0TzZqQQ?oc=5",
+   "pub": "Fri, 13 Nov 2026 10:35:50 GMT"
+  },
+  {
+   "t": "Zoff wegen Iran-Krieg: Trump degradiert Vance! - BILD",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0JUYTNfamcyV1Vlc0pqS0VvaXl2czUwb3JyWHphazdYS0l6aU5adFJTNHJIV2JFSnBvYkRoVzZ4RWFhNjFYWXpGUTRwa3VvY2I4YzQ5Tnp3SThrS2xITjMyWE8xRkY4NkR2VGZpdVYwRjd4VWZkMUlFWkU2MW52SDdpSmNTbTNOeE9tYmxRYy04VTg5TTFXRUFKMERJUm1sNlNhSmZTeUc5ZXFtUGp3cEFXaFN6czJ6WGtlVFdPclp6UW8?oc=5",
+   "pub": "Fri, 13 Nov 2026 12:46:26 GMT"
+  },
+  {
+   "t": "Iran lehnt Vorschlag für Gespräche zu Atominspektionen ab - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEQtU0RubElpcjNJMGJRU0tJd0VfRTZDRkRDWjNpa0dVR3BBYno2eVZaQUxVYW5Sbm0tU25xMkZULXhvRk5SVlNFOW1vcVAwUWVna0pJY1ZmeEhlaGI5MGwzMlZ5VDJjQ2pPU2c0bmkxZlhxSjdQZXJMc0tjY2NoRThmS0h6bVZuZ1RfaGVMN2ZFM1JGcDVRQjVLczVPMHY2eGdrYXBEdw?oc=5",
+   "pub": "Fri, 13 Nov 2026 10:57:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran meldet Explosionen an zwei Supertankern - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX0ZWQWRnakkzOVdkQmcxTVM2Rnc0cXlpOHBlUnFyc3BfWU01TWFZdFIzSGdkZy1kZlpfcGFWcTB2cmR5a1ZRZ2ZWbkcxdkUxTERqQXdhRzFOQXVDUEFFWE9LMEU5aXE2UldPNW1DQ1ZBMVRaM3hnOUZKc0Fjdzh5bF9GMWMtT3R5ODIwOG54TmZIZkJqN082Z1BSZE1YR2dkSkFabzV3?oc=5",
+   "pub": "Fri, 13 Nov 2026 08:16:00 GMT"
+  },
+  {
+   "t": "Trump weist Vance zurecht – Vize soll sich auf die USA konzentrieren statt auf Iran - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1BQcWlsbEp0bENzRW04bDlBUXdrMGtzYmdwM0VkMjdEbkRtdU40STFXTWxUOXduWHZxMm51blJWbUxmN3BEV1MyX1pXc1BBNlBJd0xPelV0SlktbDZsWkVfRFhjSFZnWGxVRmFRZ2NGbUJ3Rm5zN1JjWDgxWFk4MExvZmRSTVp0em9xbDVuNlNKX2RKZFk2MFdZSnNKZkNyUTNvcHBITnNGX2hpTU5NMUgyZUJjNHY2b3czMkpFcFYwSUFmazdkeHFSRWctZHlkM0FJNHBPaTlGQlU?oc=5",
-   "pub": "Fri, 13 Nov 2026 07:15:00 GMT"
+   "pub": "Thu, 12 Nov 2026 18:57:00 GMT"
+  },
+  {
+   "t": "Streit wegen Iran: Trump zeigt Vance, wer der Boss ist - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUtaanRUUU9Ta3I1WnlLTVdxdFRVcjByWHhaWER5ZU5mUmRkZV9LZVJtUkY1bnFJdUpMWUNCTHBkSnFtQnJ4QU9ESXlBaVlHbEliM0t3U0txQjlfU2xxX1pKeDlfa3NmV2VjUTRpT0U2elNBbUltUi1OeDRFVXExd3ljWmNJb1dERWJSVmJlZjJMRFowakNxS2gyRF9PN2NOa1hxNjIzZF9xM08yUmJMU2ZRUkxZYThfN3VLX0Q5Ri1wdw?oc=5",
+   "pub": "Fri, 13 Nov 2026 08:08:00 GMT"
+  },
+  {
+   "t": "Iran: Repressionen reichen bis ins Exil - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OWjBLQ1gtaDVaZFVJTEx3d2plenRRQk1lcWZGVmpZOTJxczBhY0JXVTdUeENqdTdTczh0VzROc3JJNE9PdkQ0R2dsSW5CNWhJZnJnbmRWU01WNjlvVFdpX1p0MWx5Yjk0YTBaXzA1cFh1N29TTkdLZV9KUdIBe0FVX3lxTFBSRVNGSjBDWHlxQVE0YU4zMnJkUHFmNlIzSkxlVUhsdmNvUEM3cXo0ZzRSUUZjNmpYb0hUZFQwYm02eDBDNGlRT08xNlJTRzhHLXlaNTA1NlRyZTBNMjRQWEdpZVFHVXdWYmlOQzVyMDJsVGF4UllBdnRnTQ?oc=5",
+   "pub": "Fri, 13 Nov 2026 01:16:31 GMT"
+  },
+  {
+   "t": "Iran: Revolutionsgarden melden Angriff auf US-Radaranlage in Bahrain, Explosion an Tanker - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXNRRW1QQUt2NlRmV0JGQ25sNVE2aEgwQ3RCZlJ2ZnVpeF9qc3d6Qndvek9ZczlUcElicGNWUG81QjdoRTlXX2Rma0UtTDVzcGlLNmpUYjd1cU5SRFRaSWs4VGd1cDBiNVNVYVJPNUN3NmVPcWYzNVFLQ2tVN1BtNHBkdDl0ZGJnTEFyUjBBTmdhU3RhQnBSS29QcTVTTm1JRzVVWjhWZkhSQXFuYXFDaWk0MVpQcVQyZmFCcllydVJwTUhLSE5vX0xSUVc4THFBekowajZrMnk?oc=5",
+   "pub": "Fri, 13 Nov 2026 09:13:02 GMT"
   },
   {
    "t": "Iran umgeht Hormus-Blockade über Land – Mini-Team in Florida soll Grenzen für Trump dichtmachen - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXJlZURqaWlmZlFGbEp2aFFPc1FzNnUwMUNSUDVFUUhxQVE3YVpmR0pOejVHNTdsUFk4QWZ3ZlRnU09YREdnZzhBVlJOdEs3MnQ1OUZEU3RON3RJYUNkZ3EtdWtxaWRfQnNJZDhRRGZucGZwdnJ0Nzhad2FOeUEwSGdFS2g3Ylp5YW5qeDc2VUlkMEYzMml0QUxYUWk3NVVHUVJNazZiZk1CMk5sdW1BUUhOY2t4d2VEQ2c?oc=5",
    "pub": "Fri, 13 Nov 2026 06:17:45 GMT"
-  },
-  {
-   "t": "Iran: Repressionen reichen bis ins Exil - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OWjBLQ1gtaDVaZFVJTEx3d2plenRRQk1lcWZGVmpZOTJxczBhY0JXVTdUeENqdTdTczh0VzROc3JJNE9PdkQ0R2dsSW5CNWhJZnJnbmRWU01WNjlvVFdpX1p0MWx5Yjk0YTBaXzA1cFh1N29TTkdLZV9KUdIBe0FVX3lxTFBSRVNGSjBDWHlxQVE0YU4zMnJkUHFmNlIzSkxlVUhsdmNvUEM3cXo0ZzRSUUZjNmpYb0hUZFQwYm02eDBDNGlRT08xNlJTRzhHLXlaNTA1NlRyZTBNMjRQWEdpZVFHVXdWYmlOQzVyMDJsVGF4UllBdnRnTQ?oc=5",
-   "pub": "Thu, 12 Nov 2026 16:07:04 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Israel rüstet sich – Netanjahu drängt Trump zu Angriffen - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQWVKMXh4OUR0RnZvcWZlMnpmWG5tTG12a1c3M19SU2NWaEFJTUViSi1nSzJUVjhkTHd4RVVyeWNUQUg4bTIxbGNBUVBSYjV6Z0NXUDZ5LUpCSzN5YkpfWTBvRkFPbnFzR25yREhvSnJtTjRyb2FkYjFKVGlGbjdTLVRhR25VNnZnVzktQUFmaWVfc0cxSVhCZFdtX0VRNFpvc20ybVFkNWlGak4ybjFWeFEzQ0o5b2JmR1NZZE9vSjNwN1ZqQlU5Zy1ZRmh0ZmxucEhKejl1YVMwZ0lxU2ZtUVlR?oc=5",
-   "pub": "Thu, 12 Nov 2026 16:24:57 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump will offenbar keinen Frieden mehr - Der Aktionär",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVVlUaW8yR1FFTWlYbEhtYm5mXzFRTU1PLWVvX05uZEppckFWUEIwYUZLS3hXaXpMclFXdmJrMW9ncjAyTGFXZTk3SW03QVVxWXR6NFFZWlp2R1ZGcUpQdUJtZHJWeW50U2RLTm9BeE4zUVdHV2szUGVIRkhlX01QUFMwMU1sQU9XNV9mcDkzTTRkR0ZOdTFSVnlCNU1ScDJNeEcyamhIYkNCazQ?oc=5",
-   "pub": "Thu, 12 Nov 2026 19:51:00 GMT"
-  },
-  {
-   "t": "Ölpreis aktuell: Ölpreise legen nach jüngsten Verlusten leicht zu - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2tSMmFqdG90a0ZpNXRrUVdwVUJxYTA2NXJwYTVvWmhnWTJpbzVISU92Y25uSVh0cFhXUi1WVkM2UVlvNDY2ejFqZHdubkVmR1JqOWlaSWVLWGNWN0hURUpPS3pWY0ZtOGtjbnFEVmk4SHNYNE4zaldSMDJ6WVNiTGM2dnhCbXFfbFFXQ196a0c2cFNPR2N1T0VrWkhleW9BNERIQlM3ZlFXYUlnWnl3dw?oc=5",
-   "pub": "Fri, 13 Nov 2026 05:05:49 GMT"
-  },
-  {
-   "t": "Putin könnte zum Gewinner von Trumps Iran-Plan werden – Experten warnen - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXpQV2NmZ0RXcGt3RDdJV2l1R1VGV3pzSVh1aGZJekw0dDZVU3NpWFVLTkdQNFp1WWdXUUNFU0JPcXhBLW1KTkhOM1JLSlRKOUFDeXQzOUVjZ0FuWXdIeVB5Umowd0h1bTB2NDB0Q243QnJjeXhfUUd2dnlidTFBQXJOeTE1QzN4SXFTRW9meVl0a2ZTSm1SclJhYTA1WElQeHN4OThoeGFzRC1KSFE5Z1JxSjFYMDZKY1lnTFdCSV82VGE0SWkzX1p1VUMzbTZJd3BVOU1JMkNibWRicnowYlpxeFhwOUpHcTQ2U0Rn?oc=5",
-   "pub": "Thu, 12 Nov 2026 12:19:51 GMT"
-  },
-  {
-   "t": "Militärisch praktisch erledigt: Trump sieht Ende des Kriegs gegen den Iran - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDZua2dvRE50WUZjODRDcTFQdnhVM0czMGVrU3Byd3ZzcXFEc3hGZmlrblpzZG11ejdLN05LRUdmUldNMEJ5Ym5OX0l5ZF9jcVVYNzZ4OGY4UXQ2OTh3MVo0V0x5TExCbURlVlZqWkpyNnZJY0o5OU5nVTZTTFU5LTJaZnJyaEdIRTFQRW4yZ3NjM0tP?oc=5",
-   "pub": "Tue, 10 Nov 2026 06:55:14 GMT"
-  },
-  {
-   "t": "Konflikt zwischen Trump und Vance: Trump fordert Vance auf, sich auf die USA statt Iran zu konzentrieren - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU2F6YUxpUjdIQURxVms5QWcxUi1USTJDaWFnSGZ2QzF6eHkzLW96RXJWNk4xN1N4OEZCS3FqTy1ySXVNSUtXZ2Z5Z195WC14b0t6ZEJZNlF4aDAzV1Rxb1ZVUFI5SHIzcnVjcWttdmVIWVhMNGVtWHRyOWYzTmdJZ25uRmFnc2IzMDZtTmhSZXRIelktZFdsdg?oc=5",
-   "pub": "Thu, 12 Nov 2026 15:38:56 GMT"
-  },
-  {
-   "t": "Iran vs. USA: Regime in Teheran droht mit Angriffen auf Stützpunkte in Europa - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3R4bjFmcXN3eHFzVjR6anRZbHdYbGlrbG8xbTl4UUl2NUlXZ1lCQUpwY0stcUphRUxaVExhVXBCVVBtWEljSWdWVmY4elhucjYyZFQ1RnZBS1JaRmtQR1NvVVVPVnhiaEpmV2pJZWdpZHE0eW1KNVRBeXRWNHJjekpJZ1pFWENCRWp1QXNaaFlXeVNja1Z6Z2hELWdBTU90eGhVTWFNV2NxcktxU3lLNWVJVUdVWmFMLVh0LXJBQ1ZXa3JENU5kaQ?oc=5",
-   "pub": "Thu, 12 Nov 2026 09:15:00 GMT"
-  },
-  {
-   "t": "Iranische Aktivistin Narges Mohammadi: Memoiren aus dem Gefängnis - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc3RPVWE5UW1tVERyUkNUMGF5M0RHSHE3ZkdKcDVNRGZRc0h5MWUtZW8zWHlPS2NaYlVzTG50ZnFwV05sMEE3RWdXajlaanVSTWdfTWNPNERRTFVNX3dwVldvYXpuak5ISEtjMjR5WXdnejJZaEVxOVlBRTJsYUpzVS1hYTFJVVVHclI1cmhuNURKSWtpTG5uZGZSUlVoUko4NnJtZkVqQm5BSEtzXzhqOHdQYUszWFBsSUFOVmNoZVBVVGhQT3l0WEZFWkJqT2lyLVlFOE9iQkFWdknSAdsBQVVfeXFMUDkyaWRPaVNlS2NheHVjOHBsRGU5aHNMWWI2aTVhZWlmaXVlVnAyQWZXdkprS3RKTFRDZU11eDVLNmRxV05US0YyZFBVREFlWUJtSzVBZzBIZkZMU2dBV0YyNWtkbnRnSGJ4elNmWWtPeS1hOTF5UWJoUTdoc3NkSFVpclp2MUlMZElWaERpeV9hZVJIelVrTnAwOHdtVE1UaVo3MHB0NW5JMnRIV1g0U2xDNm52WS0tVDh1Ulh4UGczbTQ3dHhwc3h4c3diaS1XemgxeGZ2c0todWln?oc=5",
-   "pub": "Fri, 13 Nov 2026 07:48:54 GMT"
-  },
-  {
-   "t": "\"Wir haben ihr Geld und ihre Meerenge\": Trump will kein Abkommen mit dem Iran - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDMxcUhrNEZiRnNVZS1RY0VjaDRUUnlzYkkwd3pLeU0xVU92WktLQ0twMGRmdVp2Vnl0X1V5TVlUem1SV0gxTmgzLWgtM3p0Y3A5by1LQ05sU2tFa1dsbHJnWUEycjJXVXhfT05scUc5bGVzQ3F0cUtyQVh4VG5EZUJvVVVkWFVzNTR3UEp3cFFoZ1pScWowZ24wNzlnclJNVEpWSERod2Z0X3Nsa3RhOGk2RElsLXgxMXBJVEZ1bTJkUjhHa1ctd1JjcHNIOHc?oc=5",
-   "pub": "Thu, 12 Nov 2026 16:23:06 GMT"
   }
  ]
 }
