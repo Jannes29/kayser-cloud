@@ -1,18 +1,18 @@
 {
- "collected_at": "2026-11-14T03:18:32Z",
+ "collected_at": "2026-11-14T11:29:38Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.8382,
-   "chg1d_pct": 0.71
+   "chg1d_pct": 0.27
   },
   "USDJPY": {
    "price": 159.686,
    "chg1d_pct": -0.03
   },
   "GBPCAD": {
-   "price": 1.885,
-   "chg1d_pct": -0.34
+   "price": 1.8858,
+   "chg1d_pct": -0.04
   },
   "AUDJPY": {
    "price": 108.135,
@@ -23,40 +23,60 @@
    "chg1d_pct": -0.61
   },
   "GBPCHF": {
-   "price": 1.108,
-   "chg1d_pct": 0.29
+   "price": 1.1084,
+   "chg1d_pct": 0.22
   },
   "WTI": {
-   "price": 88.92,
-   "chg1d_pct": 0.2
+   "price": 88.56,
+   "chg1d_pct": -0.2
   },
   "BRENT": {
-   "price": 96.08,
-   "chg1d_pct": 0.27
+   "price": 95.84,
+   "chg1d_pct": 0.02
   },
   "GOLD": {
-   "price": 3887.6,
-   "chg1d_pct": 0.06
+   "price": 3886.3,
+   "chg1d_pct": 0.03
   },
   "SPX_FUT": {
-   "price": 7561.0,
-   "chg1d_pct": -0.71
+   "price": 7583.0,
+   "chg1d_pct": -0.42
   },
   "NAS_FUT": {
-   "price": 27927.25,
-   "chg1d_pct": -1.61
+   "price": 28034.75,
+   "chg1d_pct": -1.23
   }
  },
  "headlines": [
   {
-   "t": "Wollen USA Iran-Krieg beenden? Revolutionsgarden melden Angriff auf US-Radar in Bahrain - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaG1senpDemRxWlZQM2NzM3ZGZGVCZnJ6dHNZdlFuNV8xSDQzbWR1MTQwZ0stNm9JS05BTUpkLU42YXhTZ2xHa2tqYnNBQjRzTmp6MnpURC0yaW5UYkZ0ajVRVlpDbjhKSGFEaUZFR1VWMEpyN2hITjF0U1d1cmVZX0JEc21raFhtY0RNVmxROUlKU2h6bGdTV0dHUWE5aFBqZnB0NkcwM2pIRkU5RUFpNXVkNTh2QmRjaExCdG13?oc=5",
-   "pub": "Fri, 13 Nov 2026 13:41:29 GMT"
+   "t": "Straße von Hormus: Iran meldet drei brennende Öltanker in Meerenge - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNck5HZExVSkRsTFB6R1Q5ZUxMTGtpbzB1TGhKUzZWQ0g0TnBWZ0RjU01QOTdpb0VwZDhWM1AtVzdFUEd3aWh4Y0lQaGhjcUMzTmU3V1pmaXdhSVVZbmtDWGh3cGc4T3hkTVVWSUVyc0t5a2M1WGdTdmhSQU56VnFOSExRTkJpNG1zbkpGVmYyRjh0LUdYRHpxTHZfZlVhdW9FcEZwMktLWnZmR00tQXltWGVPX29sN3R4YmhaS3lLVTRDdlU1SWlvazhzei0tbTViQ3JpeFV1dzFudWdz?oc=5",
+   "pub": "Sat, 14 Nov 2026 07:49:00 GMT"
+  },
+  {
+   "t": "Trump bezeichnet Iran-Abkommen als unnötig – „Diese Zeiten sind längst vorbei“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEpzN05GdU4zQmJ4OEVNaHlpN2JQRGdCSFZZSkVydEM4YXc4LVJ0WUczbG9SNFNYalNKcDQ4ZXFtbm43eUVNWTJhTXptM2xkb29FbVlycHhORExISURsYXZacHFuWUJzanlJVVZaZWhRXzY1ejVrck5vbUdybjBJbTA0Tjk2YnQ5ZkpMUnpjQlNkWHQ2d0tWN0UtRnpwYjk0akNn?oc=5",
+   "pub": "Sat, 14 Nov 2026 08:52:15 GMT"
   },
   {
    "t": "IAEA warnt vor Irans Atomprogramm: Inspektoren erhalten keinen Zugang zu Atomanlage in Isfahan - DW.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObldCOU9Fdzk0Qk5TR1BDREVZcFY5Y2JPV0k5Tk54bzFHODdPd0pWb3FCc2VJaUtqSnNoSFFtdlo2SFRnT0gwRWhFcnZkcVNBSURiRlJFcmpVbDlsMFBIM0xiR0c0QlFxemZqNmU4VDdzajY2R3ozRXFQUll1MGtIY3BlU3JuNlR6SUJWWTdrT23SAZABQVVfeXFMTmR6a2liWDVrVkFpTEdPRk1wRGNpbTlqUXlqUDRNbkhRd3FQRlR2UmZ4QlFRUkdoNVBxNWNiakVjRFlWTlR5Y2ZvU1FvSUZ4VXRjcy13c25GTEVibUh2TmJFaEU3NEJqa0MzOUc4YXBlZ0pPVWczb3B5SXQ2cGhFZ0JlQ3N5ODNJd0otWmdTUjRB?oc=5",
-   "pub": "Fri, 13 Nov 2026 11:19:13 GMT"
+   "pub": "Fri, 13 Nov 2026 21:40:33 GMT"
+  },
+  {
+   "t": "Theologen fordern US-Bischöfe zu Kritik an Iran-Angriffen auf - domradio.de",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVJlMDdwekEwTGl0TEJkNEFKVTRjN1NfYUdNU1ZNbVlWZVFLVjJQcWpuNnJTSTJULW96OWNiTjd0MVd6RWpnTzNkWXBDMDN3MHc1aDdLTk82WTNxaVdRd19FdWxnMmgzS0hLZFJ6dWxJbUpGa3hucFFNcVh0NHp2a3pqT19pT0xqLXpJSnFiZmRnWW1hUGc?oc=5",
+   "pub": "Sat, 14 Nov 2026 09:33:49 GMT"
+  },
+  {
+   "t": "Iran wird Thema, Ukraine nicht: Trump trifft Putin und Xi zu Dreiergipfel in China - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2h6b3BxSERETGZiU0g0UTc3N0xsZ2JoU0s2QkM3VTBsTmxOZVpvdzFnendJd0pDQzhwTURwVGNUVmJOLWtjR0lMUGxUTnJaM3JLa1cyR0hKMnZLZE9zaDMzeVUtREY5LXF5QXVmUTNCNmZLZlFRRWFfclV4bmloVVlZekNaSXJmVWtHekthSXBkSWpPZ3NqTC1R?oc=5",
+   "pub": "Sat, 14 Nov 2026 00:59:26 GMT"
+  },
+  {
+   "t": "Wollen USA Iran-Krieg beenden? Revolutionsgarden melden Angriff auf US-Radar in Bahrain - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaG1senpDemRxWlZQM2NzM3ZGZGVCZnJ6dHNZdlFuNV8xSDQzbWR1MTQwZ0stNm9JS05BTUpkLU42YXhTZ2xHa2tqYnNBQjRzTmp6MnpURC0yaW5UYkZ0ajVRVlpDbjhKSGFEaUZFR1VWMEpyN2hITjF0U1d1cmVZX0JEc21raFhtY0RNVmxROUlKU2h6bGdTV0dHUWE5aFBqZnB0NkcwM2pIRkU5RUFpNXVkNTh2QmRjaExCdG13?oc=5",
+   "pub": "Fri, 13 Nov 2026 13:41:29 GMT"
   },
   {
    "t": "Iran-Krieg: Trump weist Vance zurecht und zieht ihn von Iran-Gesprächen ab - WELT",
@@ -64,49 +84,29 @@
    "pub": "Fri, 13 Nov 2026 09:03:02 GMT"
   },
   {
-   "t": "Vance suchte Frieden mit dem Iran – dann pfeift Trump ihn öffentlich zurück – „Haben ihre Meerenge“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVThRWlEzbE5ieWh6c19zdjh6Y2UyTjA5SGJrV3dOY2kwcUxEc01paE4tSW8zckJOXzZBSFZnQ3NDWm05TEx5VVF5aGliQnJIbThFUDIybERrbVpfZmtrSXdhaktnSTRvSU5xb0xUNGZRSVNsMHo5WERKR20xQnl6ekIzR2cxWG82aE9ZVVY2UnBIaG9oLW9IS1JUS3A?oc=5",
-   "pub": "Fri, 13 Nov 2026 10:07:57 GMT"
+   "t": "Schiffe in Brand geraten: Iran: Drei Öltanker in Straße von Hormus auf Seeminen gefahren - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDdfQmVjZmt6RzRrN05TVTdFS3NUN050X2Y4bm5Ta2RQbkhiOWVldUthaXR2a0hzMU1oekdyR3RSOEhzZFM0ZkVXRHEtcTVwMFA1Y0loOUc0cGl1ei10YWVVQklXRUg3bElUVHRaUDczN2cyaGlSckRFVGVJTnQydkhkb3NOUC00REEycmpiWFpvZ0FqMzQ3dlNidnhHb2ZlWlcyazVLNkx0UHc?oc=5",
+   "pub": "Sat, 14 Nov 2026 09:33:14 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran schließt freie Fahrt aus - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenprR0FzMnFXMmRrbjlmUDBpSDRDUUtJZ0dhaEJVeGJXWDFLbmFzUmZidWlRakRDdTZYNC1OMk1vc2dzNi1ZRVFCN1UzREkxSXdTQlhsN0VKMERBeFhMUUl1NEhZR2QtVlYzdmR4MHM5S2gtaGc2R1F4Z0VTRzVHcnIycVUzVEhLelptSF9Ha0tnalRfbGpsX1VyWk5xaHN0TzZqQQ?oc=5",
-   "pub": "Fri, 13 Nov 2026 10:35:50 GMT"
+   "t": "Iran vs. USA: Regime in Teheran droht mit Angriffen auf Stützpunkte in Europa - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM3R4bjFmcXN3eHFzVjR6anRZbHdYbGlrbG8xbTl4UUl2NUlXZ1lCQUpwY0stcUphRUxaVExhVXBCVVBtWEljSWdWVmY4elhucjYyZFQ1RnZBS1JaRmtQR1NvVVVPVnhiaEpmV2pJZWdpZHE0eW1KNVRBeXRWNHJjekpJZ1pFWENCRWp1QXNaaFlXeVNja1Z6Z2hELWdBTU90eGhVTWFNV2NxcktxU3lLNWVJVUdVWmFMLVh0LXJBQ1ZXa3JENU5kaQ?oc=5",
+   "pub": "Thu, 12 Nov 2026 09:15:00 GMT"
   },
   {
-   "t": "USA: \"Kampfhandlungen nicht nötig\": Dutzende Schiffe - Iran fährt Hormus-Angriffe massiv hoch - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWFaRVdxbzRfeUFsRDNZanQ0STJzVlBCcXVEUEsyNXpsaEpsVXg1UHN4cll3a2xxMGNFVE40eGF0bGo5NkIzUUxMMVZFV0NtNENoOERLNmszZGZteGRfc2RIcUtIeTQ5eGlDS254anF5Q21jWHNxc185V0JWWHo0NXZhOU9HWHdDVDBoRGNLLU92VFA4aFRlTmVXLVJQYUxFczNlREV2VnVvU2tYV3BZMTEwZHVFcFhq?oc=5",
-   "pub": "Fri, 13 Nov 2026 17:13:03 GMT"
+   "t": "Öl-Angebot übersteigt erstmals seit Iran-Krieg wieder die Nachfrage - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUZYOG9IQjFSb1BSaFExMzNFODUwcGFNbXdTNVNBVjA3QjRfQ3U1SktFaWZVYUpQNGktcXBTR2NhWmpLdG9CTk5CU1BoLUFrSFo2el9rcXFDTm0zUXZVMWtObnEyRTlqZkRNMjQ5TmhMd1pwUjl6RGJ4U0JsV0J2cC1VODVCOS1WcFZvWlZHQ0VIaHRvOFBPWlM4cUFsT3dmTEp4dDNBTk8ycEF3SXc?oc=5",
+   "pub": "Fri, 13 Nov 2026 14:37:55 GMT"
   },
   {
    "t": "US-Finanzminister Bessent zieht laut Medienberichten wegen mutmaßlicher Iran-Bedrohung auf Militärstützpunkt - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc1hGQ092X2hsNUpPWjg0bjhWcWZRVHFadEM3amVIaGdOdEtoQU9hclRGWHV4M0VybS1JbjEtTFBrc0kyM2VyZHJPb2tDLXZCR0FCa3RqWHhkOFVRcFd5Ml82VkZjMVA2UUFYZkhWaGx1UzEwdkFMampqRnpMWHMtOUJ5eUdWbE53azNabFBUV29TV0VMc2NyUFBZc25NZnp6WGFaSEdsMnlacGx1QzVhdWNOVDA4d1ZMWXBiN0NhbDhxTEZoeUdNM1BnY0xxN2dPdGdfc2ptZjRuZnllZFk0clJGT0pvU0ctRFcyQWlFeTR3b0UyZnB3MmhnNW10clE?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRHFHVHlCWG5WeVBPNTE4RUNlT2RnclQ1c1VFS1lMNmFsSDRYWkZLUnBiZ29ra01ybm5YUWxYX1FnS1E3a0Z5MWZBNXBmWE5lYjZabVpHRkh4aC1YbEhMVUtMdGdZeUI1cmVtMW9OWWJ5TkVoNDZBV1I5LUwzODBGTVFBN1hsSHpiRzdvcGNXeW9rOElTVl9WTjk5UlR3WnAybUpiQ1liT3NVbDA5cm5RWmNCYjB6UkxZd3hWSURWR192Y3MxOEpQUWhCanhRVFlSTTVfaHNERUU4TnpVNXZpN2RlX2ZSVURfY3BUV1JsRnF3STJyb0VBQlhHOFZOWGpQN2t2Ykhxbk92VnFVV3NQdkprdw?oc=5",
    "pub": "Wed, 11 Nov 2026 05:45:00 GMT"
-  },
-  {
-   "t": "Zoff wegen Iran-Krieg: Trump degradiert Vance! - BILD",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0JUYTNfamcyV1Vlc0pqS0VvaXl2czUwb3JyWHphazdYS0l6aU5adFJTNHJIV2JFSnBvYkRoVzZ4RWFhNjFYWXpGUTRwa3VvY2I4YzQ5Tnp3SThrS2xITjMyWE8xRkY4NkR2VGZpdVYwRjd4VWZkMUlFWkU2MW52SDdpSmNTbTNOeE9tYmxRYy04VTg5TTFXRUFKMERJUm1sNlNhSmZTeUc5ZXFtUGp3cEFXaFN6czJ6WGtlVFdPclp6UW8?oc=5",
-   "pub": "Fri, 13 Nov 2026 12:46:26 GMT"
-  },
-  {
-   "t": "Iran lehnt Vorschlag für Gespräche zu Atominspektionen ab - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEQtU0RubElpcjNJMGJRU0tJd0VfRTZDRkRDWjNpa0dVR3BBYno2eVZaQUxVYW5Sbm0tU25xMkZULXhvRk5SVlNFOW1vcVAwUWVna0pJY1ZmeEhlaGI5MGwzMlZ5VDJjQ2pPU2c0bmkxZlhxSjdQZXJMc0tjY2NoRThmS0h6bVZuZ1RfaGVMN2ZFM1JGcDVRQjVLczVPMHY2eGdrYXBEdw?oc=5",
-   "pub": "Fri, 13 Nov 2026 10:57:00 GMT"
-  },
-  {
-   "t": "Fuel market: US elections push oil prices down and relieve drivers - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0o1NDNsRjJzYURVZEJ2aS1MZDF2d0lZMTBSYUd3ZERZaFVGcHBLQkIzSXQyeXdnX2syU1V3a0tXMFpPNnc1a1FKbl95dWljcnd6SVl5QXVQZXJYTVgtV1dZbVh6Qk9oWEY4RTdVWHNlTndidW9nYm5feGRjS2dCWGV5cHdIN2duTHAwRnp3dnFmRkI1cDB3VGJEc3FQcmRjTkJoWXZkZ3hQazFVV0VuVw?oc=5",
-   "pub": "Fri, 13 Nov 2026 16:24:00 GMT"
   },
   {
    "t": "Streit wegen Iran: Trump zeigt Vance, wer der Boss ist - FAZ",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUtaanRUUU9Ta3I1WnlLTVdxdFRVcjByWHhaWER5ZU5mUmRkZV9LZVJtUkY1bnFJdUpMWUNCTHBkSnFtQnJ4QU9ESXlBaVlHbEliM0t3U0txQjlfU2xxX1pKeDlfa3NmV2VjUTRpT0U2elNBbUltUi1OeDRFVXExd3ljWmNJb1dERWJSVmJlZjJMRFowakNxS2gyRF9PN2NOa1hxNjIzZF9xM08yUmJMU2ZRUkxZYThfN3VLX0Q5Ri1wdw?oc=5",
    "pub": "Fri, 13 Nov 2026 08:08:00 GMT"
-  },
-  {
-   "t": "Iran wird Thema, Ukraine nicht: Trump trifft Putin und Xi zu Dreiergipfel in China - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2h6b3BxSERETGZiU0g0UTc3N0xsZ2JoU0s2QkM3VTBsTmxOZVpvdzFnendJd0pDQzhwTURwVGNUVmJOLWtjR0lMUGxUTnJaM3JLa1cyR0hKMnZLZE9zaDMzeVUtREY5LXF5QXVmUTNCNmZLZlFRRWFfclV4bmloVVlZekNaSXJmVWtHekthSXBkSWpPZ3NqTC1R?oc=5",
-   "pub": "Sat, 14 Nov 2026 00:59:26 GMT"
   }
  ]
 }
