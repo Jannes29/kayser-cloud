@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-15T02:41:13Z",
+ "collected_at": "2026-11-15T10:57:05Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,19 +49,29 @@
  },
  "headlines": [
   {
+   "t": "Nahost: Iran greift US-Stützpunkt in Bahrain an – Saudi-Arabien wehrt Angriff auf Riad ab - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPV1NybmluZy10M0FCT1VUR3czTmdONDc5Y1FLelBpRVZvbXo4a1NQdWRYOGN1b3BERnE3VVZURE1DSUwwVzRxU2lTOVFGVlVTZUdMalUzb0FMaHdMaEhCZXp6eGFEWDZPMkVUTWp2Y0x4VjExdVNGM2RmcXVfZWpYTnFXRExleGZ4TVQ2NzlHSVlXSmVuRi1pc2VURDVIX2hBdmxlTjNHdnlrbDFfeUJnMzN2SHp2dzZMYktyZkN6bkl0RjhUejhObUxqQlN3eHBhcEdid183Y3NZTzNrWVdxN1RfMXgyaFRmOVBiY2ZzZXFzUQ?oc=5",
+   "pub": "Sun, 15 Nov 2026 08:32:51 GMT"
+  },
+  {
+   "t": "Iran greift US-Stützpunkt in Bahrain an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lbGZsZXA3cVdOTWNkOXhtTVRRSEdtQXF5RS1zN000LUdYWERJU0NwTmQyc0wzN0p4TGp5MWxpR2FvUURtOEIzZWRnR3lycnNrRGdQc0xZNXdlMUE2ZHhJ?oc=5",
+   "pub": "Sun, 15 Nov 2026 10:16:45 GMT"
+  },
+  {
+   "t": "Radarsystem getroffen: Iran greift US-Stützpunkt in Bahrain mit Drohnen an - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXBKMEp6RUxPNjdjZzJQRl9kbjRMTS03VXRhUnpSTUhlY0JtNDQ4OTZpUjdWZUZjTGtlVWdwSHllbHpBMzh5c0taYVEzS1VEUXB6dEtYQ2JaTGx0TE45ei1YWGV4MUZsMWtLWW1jUkJfSTVNejBPUUNrOXFMVUVxaHAwaVR5eXE0MnR6UFV3ZFZuZ3NBRXdxdVRMdmE?oc=5",
+   "pub": "Sun, 15 Nov 2026 09:14:06 GMT"
+  },
+  {
+   "t": "Trump will keinen Iran-Deal mehr – jetzt meldet Teheran neuen Drohnenangriff - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTNjdnluZy1FTUNORFBpcmxIWGhHbFRaUjdPM3dYRGUzMmtjNk1aeUFQTEcwN05xWmtsU3FUeS1WZEhWZC1GeW9ZU3hFTmExWnFFSDFwc19MdDM2VDkwbWdMcjd5UGtraDcxOXVUSkVRRGdSWFpIWkFPdkFkRnZCclVjbzRGaGYyUzc5R0ZiUTc0djBQR2h5cGpDNWxGUTE1NmhrTFJLcTMwMXREcjdnVWZyaVRQWHRySzlvTDlXMWFZbDdUM2NsNUM3Y216UQ?oc=5",
+   "pub": "Sun, 15 Nov 2026 07:07:19 GMT"
+  },
+  {
    "t": "Straße von Hormus: Iran meldet drei brennende Öltanker in Meerenge - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNck5HZExVSkRsTFB6R1Q5ZUxMTGtpbzB1TGhKUzZWQ0g0TnBWZ0RjU01QOTdpb0VwZDhWM1AtVzdFUEd3aWh4Y0lQaGhjcUMzTmU3V1pmaXdhSVVZbmtDWGh3cGc4T3hkTVVWSUVyc0t5a2M1WGdTdmhSQU56VnFOSExRTkJpNG1zbkpGVmYyRjh0LUdYRHpxTHZfZlVhdW9FcEZwMktLWnZmR00tQXltWGVPX29sN3R4YmhaS3lLVTRDdlU1SWlvazhzei0tbTViQ3JpeFV1dzFudWdz?oc=5",
    "pub": "Sat, 14 Nov 2026 07:49:00 GMT"
-  },
-  {
-   "t": "IAEA warnt vor Irans Atomprogramm: Inspektoren erhalten keinen Zugang zu Atomanlage in Isfahan - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObldCOU9Fdzk0Qk5TR1BDREVZcFY5Y2JPV0k5Tk54bzFHODdPd0pWb3FCc2VJaUtqSnNoSFFtdlo2SFRnT0gwRWhFcnZkcVNBSURiRlJFcmpVbDlsMFBIM0xiR0c0QlFxemZqNmU4VDdzajY2R3ozRXFQUll1MGtIY3BlU3JuNlR6SUJWWTdrT23SAZABQVVfeXFMTmR6a2liWDVrVkFpTEdPRk1wRGNpbTlqUXlqUDRNbkhRd3FQRlR2UmZ4QlFRUkdoNVBxNWNiakVjRFlWTlR5Y2ZvU1FvSUZ4VXRjcy13c25GTEVibUh2TmJFaEU3NEJqa0MzOUc4YXBlZ0pPVWczb3B5SXQ2cGhFZ0JlQ3N5ODNJd0otWmdTUjRB?oc=5",
-   "pub": "Sat, 14 Nov 2026 08:00:12 GMT"
-  },
-  {
-   "t": "Schiffe in Brand geraten: Iran: Drei Öltanker in Straße von Hormus auf Seeminen gefahren - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDdfQmVjZmt6RzRrN05TVTdFS3NUN050X2Y4bm5Ta2RQbkhiOWVldUthaXR2a0hzMU1oekdyR3RSOEhzZFM0ZkVXRHEtcTVwMFA1Y0loOUc0cGl1ei10YWVVQklXRUg3bElUVHRaUDczN2cyaGlSckRFVGVJTnQydkhkb3NOUC00REEycmpiWFpvZ0FqMzQ3dlNidnhHb2ZlWlcyazVLNkx0UHc?oc=5",
-   "pub": "Sat, 14 Nov 2026 09:33:14 GMT"
   },
   {
    "t": "Spielschema | Palästina - Iran 0:2 | 5. Spieltag | Nationalteams Freundschaftsspiele 2026 - Kicker",
@@ -69,24 +79,9 @@
    "pub": "Sat, 14 Nov 2026 17:24:04 GMT"
   },
   {
-   "t": "Trump bezeichnet Iran-Abkommen als unnötig – „Diese Zeiten sind längst vorbei“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEpzN05GdU4zQmJ4OEVNaHlpN2JQRGdCSFZZSkVydEM4YXc4LVJ0WUczbG9SNFNYalNKcDQ4ZXFtbm43eUVNWTJhTXptM2xkb29FbVlycHhORExISURsYXZacHFuWUJzanlJVVZaZWhRXzY1ejVrck5vbUdybjBJbTA0Tjk2YnQ5ZkpMUnpjQlNkWHQ2d0tWN0UtRnpwYjk0akNn?oc=5",
-   "pub": "Sat, 14 Nov 2026 08:52:15 GMT"
-  },
-  {
-   "t": "Theologen fordern US-Bischöfe zu Kritik an Iran-Angriffen auf - domradio.de",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVJlMDdwekEwTGl0TEJkNEFKVTRjN1NfYUdNU1ZNbVlWZVFLVjJQcWpuNnJTSTJULW96OWNiTjd0MVd6RWpnTzNkWXBDMDN3MHc1aDdLTk82WTNxaVdRd19FdWxnMmgzS0hLZFJ6dWxJbUpGa3hucFFNcVh0NHp2a3pqT19pT0xqLXpJSnFiZmRnWW1hUGc?oc=5",
-   "pub": "Sat, 14 Nov 2026 09:33:49 GMT"
-  },
-  {
-   "t": "Wollen USA Iran-Krieg beenden? Revolutionsgarden melden Angriff auf US-Radar in Bahrain - Euronews.com",
+   "t": "Wollen USA Iran-Krieg beenden? Revolutionsgarden melden Angriff auf US-Radar in Bahrain - Euronews",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaG1senpDemRxWlZQM2NzM3ZGZGVCZnJ6dHNZdlFuNV8xSDQzbWR1MTQwZ0stNm9JS05BTUpkLU42YXhTZ2xHa2tqYnNBQjRzTmp6MnpURC0yaW5UYkZ0ajVRVlpDbjhKSGFEaUZFR1VWMEpyN2hITjF0U1d1cmVZX0JEc21raFhtY0RNVmxROUlKU2h6bGdTV0dHUWE5aFBqZnB0NkcwM2pIRkU5RUFpNXVkNTh2QmRjaExCdG13?oc=5",
    "pub": "Fri, 13 Nov 2026 13:41:29 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Trump weist Vance zurecht und zieht ihn von Iran-Gesprächen ab - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3BJLVJYYmVZS2o2aFVJVTZjelFTelFzajdnQXdka2RvcXdrUW5hTy1lNnktbjdWNTRmeGxheHVhcUhLX0hXSENMdkx1UzMyWVRFU2VaUHpzbndNbXBqYWNIa2ZsR0pOZ0F6dFhmVVBtTVQ0TEZPZzJkcWV5Z2g3UGRRaFJuUk55Z05PNkVlNFFyeWN3Y1dpYzR3WFRpTDRQNUpGQm9rSDd6bjFaa2xXdmhSQmlrR1RVUHJXMTNndXJ4VVRXOXhFOXpsODBMcHg3bUczdE82OXpSQ3dvNl94dQ?oc=5",
-   "pub": "Fri, 13 Nov 2026 09:03:02 GMT"
   },
   {
    "t": "Iran vs. USA: Regime in Teheran droht mit Angriffen auf Stützpunkte in Europa - Spiegel",
@@ -94,19 +89,24 @@
    "pub": "Thu, 12 Nov 2026 09:15:00 GMT"
   },
   {
-   "t": "Iranisches Parlament debattiert neue Atomdoktrin und möglichen NPT-Austritt - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2RKWENkbUlRbjRQVkM1cU9qQjZPcmRNU2h4WE82VWp6d1BjYTFKS3VmdFhWamgzVkJIWkVIVTRXaUw3SXN4VkNWZzZNQWRkWEZBN0NsZWN4ajlCVk9VR1l3VHVFMFV5NWlCeTRUUXh5VVd0bWxZbE81VGt5RXFta2Ftcy1hWFRGZVVSVkpEOUtTbWVVb19JTg?oc=5",
-   "pub": "Sat, 14 Nov 2026 07:15:24 GMT"
-  },
-  {
-   "t": "Trump lehnt Iran-Deal ab: „Wir brauchen kein Abkommen mit Iran“ - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDdxOXc2M1FQNjI0dGxLTUNPN3NhdE51anNsekxFcDVtNkxMdFd3UHV6bmVBQi12X0xvZVBobWtPVjRKMWpoV2c2b0kxNGhSMWl2THdpMGRmTGU4Z3BDN2k0Qy0zSXBtSGlOMFhhbW93T01sUmtaRkVSYkZpVS03MzloeFdHSTBVMmlhOTFpVWhnbXdRTkluSUg1Skd3THpsOFVudFBn?oc=5",
-   "pub": "Sat, 14 Nov 2026 18:34:56 GMT"
-  },
-  {
    "t": "Streit wegen Iran: Trump zeigt Vance, wer der Boss ist - FAZ",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUtaanRUUU9Ta3I1WnlLTVdxdFRVcjByWHhaWER5ZU5mUmRkZV9LZVJtUkY1bnFJdUpMWUNCTHBkSnFtQnJ4QU9ESXlBaVlHbEliM0t3U0txQjlfU2xxX1pKeDlfa3NmV2VjUTRpT0U2elNBbUltUi1OeDRFVXExd3ljWmNJb1dERWJSVmJlZjJMRFowakNxS2gyRF9PN2NOa1hxNjIzZF9xM08yUmJMU2ZRUkxZYThfN3VLX0Q5Ri1wdw?oc=5",
    "pub": "Fri, 13 Nov 2026 08:08:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump weist Vance zurecht und zieht ihn von Iran-Gesprächen ab - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX3BJLVJYYmVZS2o2aFVJVTZjelFTelFzajdnQXdka2RvcXdrUW5hTy1lNnktbjdWNTRmeGxheHVhcUhLX0hXSENMdkx1UzMyWVRFU2VaUHpzbndNbXBqYWNIa2ZsR0pOZ0F6dFhmVVBtTVQ0TEZPZzJkcWV5Z2g3UGRRaFJuUk55Z05PNkVlNFFyeWN3Y1dpYzR3WFRpTDRQNUpGQm9rSDd6bjFaa2xXdmhSQmlrR1RVUHJXMTNndXJ4VVRXOXhFOXpsODBMcHg3bUczdE82OXpSQ3dvNl94dQ?oc=5",
+   "pub": "Fri, 13 Nov 2026 09:03:02 GMT"
+  },
+  {
+   "t": "Schiffe in Brand geraten: Iran: Drei Öltanker in Straße von Hormus auf Seeminen gefahren - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDdfQmVjZmt6RzRrN05TVTdFS3NUN050X2Y4bm5Ta2RQbkhiOWVldUthaXR2a0hzMU1oekdyR3RSOEhzZFM0ZkVXRHEtcTVwMFA1Y0loOUc0cGl1ei10YWVVQklXRUg3bElUVHRaUDczN2cyaGlSckRFVGVJTnQydkhkb3NOUC00REEycmpiWFpvZ0FqMzQ3dlNidnhHb2ZlWlcyazVLNkx0UHc?oc=5",
+   "pub": "Sat, 14 Nov 2026 09:33:14 GMT"
+  },
+  {
+   "t": "Kreta-Urlaub während des Iran-Kriegs: Liegt eine Reisewarnung vor? - Augsburger Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTW1heWZITzNLZjVUMi1UcGI0SUVoOEFWS01rUnItczA2a3czSFAwMXhTcEMyVFJwTjAzdGhmSXBGcVRwZkRpTy1ORnZFSFpJeUFsNVZYclFDOXl1enlVcHpkSFoyaE1aX01Xbk1yajRqQjJoc1FSRVNPcXg4dU9vSE10WTVwY3pUb2tGdTJpTGQ2a3p4LXp3QWNLTjBYcXNNUkViRXJJNUl6QXd1V3I2eVJTdWlSUlNvNENTRW9NSmJvckpoTW94XzRwT05CZFk?oc=5",
+   "pub": "Sun, 15 Nov 2026 04:15:49 GMT"
   }
  ]
 }
