@@ -1,30 +1,30 @@
 {
- "collected_at": "2026-11-15T17:43:39Z",
+ "collected_at": "2026-11-15T22:50:14Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8382,
-   "chg1d_pct": 0.27
+   "price": 0.8374,
+   "chg1d_pct": 0.18
   },
   "USDJPY": {
-   "price": 159.686,
-   "chg1d_pct": -0.03
+   "price": 159.594,
+   "chg1d_pct": -0.18
   },
   "GBPCAD": {
-   "price": 1.8858,
-   "chg1d_pct": -0.04
+   "price": 1.8843,
+   "chg1d_pct": -0.12
   },
   "AUDJPY": {
-   "price": 108.135,
-   "chg1d_pct": -1.06
+   "price": 108.177,
+   "chg1d_pct": -0.59
   },
   "EURUSD": {
    "price": 1.1028,
-   "chg1d_pct": -0.61
+   "chg1d_pct": -0.2
   },
   "GBPCHF": {
-   "price": 1.1084,
-   "chg1d_pct": 0.22
+   "price": 1.1066,
+   "chg1d_pct": 0.05
   },
   "WTI": {
    "price": 88.56,
@@ -49,24 +49,34 @@
  },
  "headlines": [
   {
+   "t": "Nahost: Iran meldet Explosionen an Öltankern in der Straße von Hormus – US-Militärstützpunkt angegriffen - WELT",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdjY4RmFUWnc0VmlPNmxJZFA5eDlVSFhRNDB0UXVTUXFGR25veENrMG1qMGMtTmYzRDd2ZHRKNk5WNEYya3FhVm1Pd085RVFXNS0yUTdhUlp2VmpZWnNzYkN0MFRlOXdSR2tZblh0anhXLW16ZUg3MDlIU0FRYkkta1RYc2xvUkV1eEphamFyM0VfLVpoY0FhUkVydFNzZk5IZ01CbzFtNGM3QXkxdlpsT05oVXh4YVdFTmRCbTVPMW5uRXdyaFFIc0g0aVdXc1pCUHgyX3dLQ09MR2R0YThuVmpzeDFObGIxNFZmLUVjQ0U0d2JzNVY3Qmh0Nm8wS0dvNUt5cmtHOWcwZw?oc=5",
+   "pub": "Sun, 15 Nov 2026 15:51:56 GMT"
+  },
+  {
+   "t": "Akute Bedrohung durch Iran: Trumps Top-Minister in gesicherte Militärstützpunkte verlegt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaElzQmdFNnM0R21lbm5WeS1nZnhqaHNZV253Qzhoa09CNy1fb3VsQ1VPNjJ6bFRZc2Jwb19OWDVZaDRtZEtQR0YyY1NUXzZGQjNaOGptakpoODRadmV5QTNCWWtiOF9sS1JCa0Qtd0pzRDctTXpNM0JUZkIxMl9vN2lsRmd5ck42SjlLcE9fbnVQZVF1bVVYVW9QM1JIRTNIUVE?oc=5",
+   "pub": "Sun, 15 Nov 2026 17:55:41 GMT"
+  },
+  {
+   "t": "Trump meidet wohl Öffentlichkeit – wegen Iran - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQzJOLTFCVHVieXhmdVltVUktYkNiTmtoQ1FfZXhqRGE3dThnTlJsYURrc1pLUGNWSUhPTndSTHVCTUJweGp3ZDQ4YjMxMGtLVDNIaFRHRF8zU0FpeHJQRUVZSmhDb25Ka3E5bXlUcERMMG0zaDJtS3Y4bXZ0VGtYMGJpYVpkRzJycl8wUExZLU92MXdrOG4xRkhpMWM0LVFUMzhJTHM2R3ZsMGIxb2E3b0hrVXlpNGRXbF8tMkF0cnFQRTlPUnNERGlTUmxudFVMeURtNQ?oc=5",
+   "pub": "Sun, 15 Nov 2026 19:21:25 GMT"
+  },
+  {
    "t": "Iran greift US-Stützpunkt in Bahrain an - tagesschau.de",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lbGZsZXA3cVdOTWNkOXhtTVRRSEdtQXF5RS1zN000LUdYWERJU0NwTmQyc0wzN0p4TGp5MWxpR2FvUURtOEIzZWRnR3lycnNrRGdQc0xZNXdlMUE2ZHhJ?oc=5",
    "pub": "Sun, 15 Nov 2026 10:16:45 GMT"
   },
   {
-   "t": "Gefahr durch Iran: Drei Minister von Donald Trump in Sicherheit gebracht - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNem5iMW5hR0xEWWFqVVJXc0o2czlzejlCQUtXNTRaaUJuNkp1STVjZ3huY1Jka21laXNkSUxlUFdZZWJ3ckZSQmhnZVVmWDJOelRNTWM4SlRaMDl6UlRyX1NTSlR4Y2cyT3loZHBVSmdBZjl1ajVIR3RScDc0aElZcVhkSlVQaGN1T0Nrc3publl3TmZiR0tWMUd1TGxnSW5nR2I4dzZSMjJWMm1DcjZNSUZPTGJ0ZWNoVzd4X3J5YS1EMU1Ma0NZV1VLRnNWczN6WUtpVThWRUo1dUg1aHRZZVF2c2ZDaW8?oc=5",
-   "pub": "Sun, 15 Nov 2026 15:24:25 GMT"
+   "t": "Persischer Golf - Iranische Revolutionsgarden melden neuen Drohnenangriff auf US-Stützpunkt im Bahrain - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTZreGJSdzAweUQzTFdjZzlTcnpBS3ZpbElNUng5TjlPYThPX3BodHRRWE9jV3lRUG5kVlczUmhCWWVValFZdnJUeHRTWGxoc1ZUbS1FMGV3QkVxN244dTRfS0VlOTJ1Wl9XWURvQkxHQndTemVBWnBkcnE0QVVic1B0cEhTbmlRVzB5dGZqMzRfaHVxS1NHU0x6bUQ0QWE3dllXZEdqRkVCX3VvaVhHYWIxUEdfUzBrQ0hXYWd1T0NXQjg?oc=5",
+   "pub": "Sun, 15 Nov 2026 19:33:13 GMT"
   },
   {
-   "t": "„Straße von Hormus ist geschlossen“: Iran meldet Drohnenangriff auf Bahrain und droht den USA offen - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDFrRFRTYzkxR245Um5naHJMS0cxUjJ2QlQ4OEpySXZoTlpEcVVEZW5qVUh1djFpT0czeG1wS0doLUxucExTdGtpdEVpcXFqLXRVWFU0UHh4RTZWZlV2U0xFTTVHdnRGMVA0YWFoaWlNSmJZOGF6czRGQmJ2dVJhRmNvVGNlelI3YlVlM0h2R2g4ZzlGdThLWkVQeFRVbjlaY01WNXVB?oc=5",
-   "pub": "Sun, 15 Nov 2026 10:18:59 GMT"
-  },
-  {
-   "t": "Ohne Mutterkonzern nicht überlebensfähig? Opel-Chef gibt überraschend offene Antwort - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3E1MGVvckZsU09vaEhXOV9XajRfbktOX1FzUEt1REZrWGJ4NFFKSGhnOS1LZXNpQVA3bDZDbDVGUTEwTjFicExpMXhJaFpTWUdjSVlCY2YwWnh3bjh6TU1ic2x2OU9sS3hHX2w0am53ODB3NDlaRTZJalk3SzRzTWptb0VhOXJoMUhhWF8wUS1oUm9lbERpbUdaR3VaOGRZNkFPdGJuUkxBYkpwNUNXREZ2Uk9keUc4b2hoQjhPUF9MYWNWbzc1WWtoeVI4bzBJYVE?oc=5",
-   "pub": "Sun, 15 Nov 2026 15:44:32 GMT"
+   "t": "Krieg in Nahost: Iran nutzte Fitness-Apps für Angriffe auf amerikanische Soldaten - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMVFVMlZ0bGJReUJra1VWeUxKakRaU053YjI4c0dNWWVaRHpFd00ySVdXVFBZc0VUa3VsMnJEbERRUU9jdmM1MXNTZFUzemp4X2FJMXctSmZuSl9SVTE5RzRNM0gwRURSNFk2bzU2U2ZDVF84LS13YUdMSjdzaDVVc2dnbENVNUozNkszNS1GdERJWG9YUDk5N2MzMWY1XzIxb253WkRidU5wNkVRQi1Yc0lzVW1wUHJoMlY5cWVYNTBGVXV6SXJnR2dxZmg0WTBpeG9WT251V2VFMmVfS2dzeVBNNVY1X1E2SFl6bElXbDI1WjZ4?oc=5",
+   "pub": "Sun, 15 Nov 2026 16:01:58 GMT"
   },
   {
    "t": "Radarsystem getroffen: Iran greift US-Stützpunkt in Bahrain mit Drohnen an - n-tv.de",
@@ -74,39 +84,29 @@
    "pub": "Sun, 15 Nov 2026 09:14:06 GMT"
   },
   {
-   "t": "Persischer Golf - Iranische Revolutionsgarden melden neuen Drohnenangriff auf US-Stützpunkt im Bahrain - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLTZreGJSdzAweUQzTFdjZzlTcnpBS3ZpbElNUng5TjlPYThPX3BodHRRWE9jV3lRUG5kVlczUmhCWWVValFZdnJUeHRTWGxoc1ZUbS1FMGV3QkVxN244dTRfS0VlOTJ1Wl9XWURvQkxHQndTemVBWnBkcnE0QVVic1B0cEhTbmlRVzB5dGZqMzRfaHVxS1NHU0x6bUQ0QWE3dllXZEdqRkVCX3VvaVhHYWIxUEdfUzBrQ0hXYWd1T0NXQjg?oc=5",
-   "pub": "Sun, 15 Nov 2026 17:01:56 GMT"
-  },
-  {
    "t": "US-Basen im Visier: Iran meldet Drohnenangriff auf Bahrain - ORF",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80bEZKd2JYMC1Vem1PeEpHQW40RGNHWVRxdnQtVk1CWlVlSDUzb2hSaV9QU0o0UlhMWkJPNzZHWkRRbGt0Y2c?oc=5",
-   "pub": "Sun, 15 Nov 2026 12:25:15 GMT"
+   "pub": "Sun, 15 Nov 2026 17:19:40 GMT"
   },
   {
-   "t": "Nahost: Iran meldet Explosionen an Öltankern in der Straße von Hormus – US-Militärstützpunkt angegriffen - WELT",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdjY4RmFUWnc0VmlPNmxJZFA5eDlVSFhRNDB0UXVTUXFGR25veENrMG1qMGMtTmYzRDd2ZHRKNk5WNEYya3FhVm1Pd085RVFXNS0yUTdhUlp2VmpZWnNzYkN0MFRlOXdSR2tZblh0anhXLW16ZUg3MDlIU0FRYkkta1RYc2xvUkV1eEphamFyM0VfLVpoY0FhUkVydFNzZk5IZ01CbzFtNGM3QXkxdlpsT05oVXh4YVdFTmRCbTVPMW5uRXdyaFFIc0g0aVdXc1pCUHgyX3dLQ09MR2R0YThuVmpzeDFObGIxNFZmLUVjQ0U0d2JzNVY3Qmh0Nm8wS0dvNUt5cmtHOWcwZw?oc=5",
-   "pub": "Sun, 15 Nov 2026 15:51:56 GMT"
+   "t": "Gefahr durch Iran: Drei Minister von Donald Trump in Sicherheit gebracht - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNem5iMW5hR0xEWWFqVVJXc0o2czlzejlCQUtXNTRaaUJuNkp1STVjZ3huY1Jka21laXNkSUxlUFdZZWJ3ckZSQmhnZVVmWDJOelRNTWM4SlRaMDl6UlRyX1NTSlR4Y2cyT3loZHBVSmdBZjl1ajVIR3RScDc0aElZcVhkSlVQaGN1T0Nrc3publl3TmZiR0tWMUd1TGxnSW5nR2I4dzZSMjJWMm1DcjZNSUZPTGJ0ZWNoVzd4X3J5YS1EMU1Ma0NZV1VLRnNWczN6WUtpVThWRUo1dUg1aHRZZVF2c2ZDaW8?oc=5",
+   "pub": "Sun, 15 Nov 2026 15:24:25 GMT"
   },
   {
-   "t": "Straße von Hormus: Iran meldet drei brennende Öltanker in Meerenge - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNck5HZExVSkRsTFB6R1Q5ZUxMTGtpbzB1TGhKUzZWQ0g0TnBWZ0RjU01QOTdpb0VwZDhWM1AtVzdFUEd3aWh4Y0lQaGhjcUMzTmU3V1pmaXdhSVVZbmtDWGh3cGc4T3hkTVVWSUVyc0t5a2M1WGdTdmhSQU56VnFOSExRTkJpNG1zbkpGVmYyRjh0LUdYRHpxTHZfZlVhdW9FcEZwMktLWnZmR00tQXltWGVPX29sN3R4YmhaS3lLVTRDdlU1SWlvazhzei0tbTViQ3JpeFV1dzFudWdz?oc=5",
-   "pub": "Sat, 14 Nov 2026 07:49:00 GMT"
+   "t": "Ohne Mutterkonzern nicht überlebensfähig? Opel-Chef gibt überraschend offene Antwort - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3E1MGVvckZsU09vaEhXOV9XajRfbktOX1FzUEt1REZrWGJ4NFFKSGhnOS1LZXNpQVA3bDZDbDVGUTEwTjFicExpMXhJaFpTWUdjSVlCY2YwWnh3bjh6TU1ic2x2OU9sS3hHX2w0am53ODB3NDlaRTZJalk3SzRzTWptb0VhOXJoMUhhWF8wUS1oUm9lbERpbUdaR3VaOGRZNkFPdGJuUkxBYkpwNUNXREZ2Uk9keUc4b2hoQjhPUF9MYWNWbzc1WWtoeVI4bzBJYVE?oc=5",
+   "pub": "Sun, 15 Nov 2026 15:44:32 GMT"
   },
   {
-   "t": "Trump will keinen Iran-Deal mehr – jetzt meldet Teheran neuen Drohnenangriff - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcTNjdnluZy1FTUNORFBpcmxIWGhHbFRaUjdPM3dYRGUzMmtjNk1aeUFQTEcwN05xWmtsU3FUeS1WZEhWZC1GeW9ZU3hFTmExWnFFSDFwc19MdDM2VDkwbWdMcjd5UGtraDcxOXVUSkVRRGdSWFpIWkFPdkFkRnZCclVjbzRGaGYyUzc5R0ZiUTc0djBQR2h5cGpDNWxGUTE1NmhrTFJLcTMwMXREcjdnVWZyaVRQWHRySzlvTDlXMWFZbDdUM2NsNUM3Y216UQ?oc=5",
-   "pub": "Sun, 15 Nov 2026 07:07:19 GMT"
+   "t": "„Straße von Hormus ist geschlossen“: Iran meldet Drohnenangriff auf Bahrain und droht den USA offen - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDFrRFRTYzkxR245Um5naHJMS0cxUjJ2QlQ4OEpySXZoTlpEcVVEZW5qVUh1djFpT0czeG1wS0doLUxucExTdGtpdEVpcXFqLXRVWFU0UHh4RTZWZlV2U0xFTTVHdnRGMVA0YWFoaWlNSmJZOGF6czRGQmJ2dVJhRmNvVGNlelI3YlVlM0h2R2g4ZzlGdThLWkVQeFRVbjlaY01WNXVB?oc=5",
+   "pub": "Sun, 15 Nov 2026 10:18:59 GMT"
   },
   {
-   "t": "\"Den Feind vernichten\": Tschador und Sturmgewehr: Iran schickt Frauen an die Waffe - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVFUZ05ab3EwMWgxZElmakk5LWk5TW1XUy1fM09NS0JRMGlUQUM5U3E2TmxRblp1eHlhaVdGYXJtc0FKMkg0VXJ6R1QwTmJUY0xHZGNMSGxjMjRmdGNTZ2xmZUlrSDVTN1Foc0QxSmhLb25PU1c2UENrZWNRMzZlTXh5TmRaMlR6SGhGZWFaZXVmMEw0UF9nUjhTWFN5dUVia04tOG9WOU5LRXcwdE03NmtnMG9CTkc2X1E?oc=5",
-   "pub": "Sun, 15 Nov 2026 10:15:00 GMT"
-  },
-  {
-   "t": "\"Versuch, unbemerkt durchzuschlüpfen\": Iran meldet Explosion an Öltanker - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZWRrcnItcl9QNjJSS1V2cHl5QVBONm1XamVUeHJTWUVHdTAxb0RURkR2NDRwN0VNc2pCWEMzdGVuYnpVaGNvZTBOZWdvSERpRHpjZlhXODlCY19TRHJMYkdadHlEd3pqaWVScHJJenl1LUxLWW9RSVBNbGpvX3ZNNmtlWFVFbjdPMF96eWx2UmhTM2FIbG81bUlTU0FQR1RUN0lUbWpNV1MwTVMwZzZHS1JHSmZkTl81Q2RLd1VWQzgwUnFEQmY5RzQ4NTdFYWVUeGc1RzNOenQ3NEpV?oc=5",
-   "pub": "Sun, 15 Nov 2026 15:20:16 GMT"
+   "t": "Trump zieht Truppen zusammen: USS Theodore Roosevelt jetzt in Nahost! - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNHdSYnF4aERMTjRDbC1aR1Y4b1gzZ2haM0NuRUFIcHNPSWtBcEhQY1dKMi1MaHZZSkdfV2tZajhtb0JlZXBiQUY0WHQ5dmV5TXlyYWYtUm9yRXA5bjhSUjd0el9WY1N4S2w5Q3JKNFRIeUdQUFY5QmlxeXBPYURmbmVvcnBFNUZPUDNzX1ozVTRrUDFNazZRdGh3RGVVLUJHb3kyYmZyVGYwQkVzUi1WRjFnTzY3T3djMzlZYWxHVWhtOEJLX1VseXFlS1lrcU1FUGJ5dlBXLXVVRmN5dEcwWEpB?oc=5",
+   "pub": "Sun, 15 Nov 2026 20:03:10 GMT"
   }
  ]
 }
