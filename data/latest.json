@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-16T02:45:26Z",
+ "collected_at": "2026-11-16T11:23:22Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8394,
-   "chg1d_pct": 0.42
+   "price": 0.8408,
+   "chg1d_pct": 0.58
   },
   "USDJPY": {
-   "price": 159.759,
-   "chg1d_pct": -0.07
+   "price": 159.631,
+   "chg1d_pct": -0.15
   },
   "GBPCAD": {
-   "price": 1.8856,
-   "chg1d_pct": -0.05
+   "price": 1.884,
+   "chg1d_pct": -0.14
   },
   "AUDJPY": {
-   "price": 108.116,
-   "chg1d_pct": -0.65
+   "price": 107.82,
+   "chg1d_pct": -0.92
   },
   "EURUSD": {
-   "price": 1.1022,
-   "chg1d_pct": -0.26
+   "price": 1.1007,
+   "chg1d_pct": -0.39
   },
   "GBPCHF": {
-   "price": 1.1086,
+   "price": 1.1087,
    "chg1d_pct": 0.24
   },
   "WTI": {
-   "price": 88.09,
-   "chg1d_pct": -0.53
+   "price": 88.28,
+   "chg1d_pct": -0.32
   },
   "BRENT": {
-   "price": 95.12,
-   "chg1d_pct": -0.75
+   "price": 95.3,
+   "chg1d_pct": -0.56
   },
   "GOLD": {
-   "price": 3883.0,
-   "chg1d_pct": -0.08
+   "price": 3876.4,
+   "chg1d_pct": -0.25
   },
   "SPX_FUT": {
-   "price": 7581.75,
-   "chg1d_pct": -0.02
+   "price": 7555.25,
+   "chg1d_pct": -0.37
   },
   "NAS_FUT": {
-   "price": 28004.25,
-   "chg1d_pct": -0.11
+   "price": 27771.75,
+   "chg1d_pct": -0.94
   }
  },
  "headlines": [
