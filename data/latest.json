@@ -1,55 +1,112 @@
 {
- "collected_at": "2026-11-16T11:23:22Z",
+ "collected_at": "2026-11-16T22:05:35Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8408,
-   "chg1d_pct": 0.58
+   "price": 0.8387,
+   "chg1d_pct": 0.33
   },
   "USDJPY": {
-   "price": 159.631,
-   "chg1d_pct": -0.15
+   "price": 159.415,
+   "chg1d_pct": -0.29
   },
   "GBPCAD": {
-   "price": 1.884,
-   "chg1d_pct": -0.14
+   "price": 1.8838,
+   "chg1d_pct": -0.15
   },
   "AUDJPY": {
-   "price": 107.82,
-   "chg1d_pct": -0.92
+   "price": 107.371,
+   "chg1d_pct": -1.33
   },
   "EURUSD": {
-   "price": 1.1007,
-   "chg1d_pct": -0.39
+   "price": 1.0999,
+   "chg1d_pct": -0.46
   },
   "GBPCHF": {
-   "price": 1.1087,
-   "chg1d_pct": 0.24
+   "price": 1.1063,
+   "chg1d_pct": 0.03
   },
   "WTI": {
-   "price": 88.28,
-   "chg1d_pct": -0.32
+   "price": 85.1,
+   "chg1d_pct": -3.91
   },
   "BRENT": {
-   "price": 95.3,
-   "chg1d_pct": -0.56
+   "price": 91.86,
+   "chg1d_pct": -4.15
   },
   "GOLD": {
-   "price": 3876.4,
-   "chg1d_pct": -0.25
+   "price": 3858.2,
+   "chg1d_pct": -0.72
   },
   "SPX_FUT": {
-   "price": 7555.25,
-   "chg1d_pct": -0.37
+   "price": 7433.5,
+   "chg1d_pct": -1.97
   },
   "NAS_FUT": {
-   "price": 27771.75,
-   "chg1d_pct": -0.94
+   "price": 27262.75,
+   "chg1d_pct": -2.75
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "Iran droht mit Raketenangriff auf britischen Stützpunkt - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNWlhLb2txWTNrUXJ1dUY3NVVIcFZtZ3loSHlsTXZpdFRMZ01qY2NyWTlhR0RRd2FXQmI4cElwN0pKRVFhZWFNV1BtQ0oydWZnSEtJTGFDcExiU2dTTERqUmhHenJ4eEpwYUFOaUtLREcwRFo3YmJEeXJ4SVphN3M?oc=5",
+   "pub": "Mon, 16 Nov 2026 16:06:54 GMT"
+  },
+  {
+   "t": "Iran: Überlebender US-Soldat geht gegen Pentagon vor - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3BHSjBhMXBnOGRaNUZlUk1fNDRZMl9LRWw2NU8tSExVRXowSFlHbmR3ZUJ3UFNheVJvMjFqY3QyVzBJdjdVU18wYlJMU3NQVWVQT3JKY2R5Q2NmejZnSUpLdlVuUEk5bUVwd3NQMzJ5R1ZTblRWOFhpYmVuQ1JwTlZ6SjdFamJnRnZjV1k5dl9lRm5wMXA2VnFPNG5jOTgxVldNQUJrTGQzcVhGYUtzaGNpU1F6b1VhRllRaWlUbS00VHRzSlE?oc=5",
+   "pub": "Mon, 16 Nov 2026 11:23:00 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Bessent: Irans Wirtschaft steht vor schnellem Zusammenbruch - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEx2MmV4b0pMWEg3WHVRX09EalZVRjhJYmhZcjdoSnlrYi1nZ2k1MG1tNE9kVHVFSEZqeEdkb3VDLWtNX2VxaUEzX21VMENGcUFBSEJtUl8yeUQ1QmJSMDV5QXhkUnRqUVRyRHUzNmVsOEp6SWw2QXNPUEVabTZzcGRuSUo2d2xGVVBLU051SDIzZXpYZXg4QzRn?oc=5",
+   "pub": "Mon, 16 Nov 2026 06:37:34 GMT"
+  },
+  {
+   "t": "Goldpreis unter 3.900 US-Dollar: So können Anleger die Schwächephase vor dem Fed-Entscheid nutzen - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONkVwLW5QRmEyLWJGYTZ4cG5wNWdPalVheDRlS2NLSjVrMGlyNkZYdHZIMTBCNkRzLWlRaG5tb2FONXAybGNRa19ZcldZckhUcHUtU3pCa081OEl6WFd3Q2hJY3dKQW92N0VxcGVYc3JaX2pseDU3Z3pyRF9pYkh3cWhZSTRHaEdHS0FSMUFNVzFUYkNVajNSck5DMW1FZXdnYUFRb3ExVjJCTmo5Z2ZvQzUtOUFXUTZza21vSXNIbEZQWG5GVWpzVVdXaHA1a29mUXZOOVYxVGRFYUU0LVdOTy1ocDdVeE5OUFdRekdsS0hwNVlFSzB2ZTZOVDVoR0hoWXZaTWZDa2g?oc=5",
+   "pub": "Mon, 16 Nov 2026 18:52:10 GMT"
+  },
+  {
+   "t": "Überlebender Major packt aus: Pentagon ignorierte Warnung vor tödlichem Iran-Drohnenangriff in Kuwait - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVZNUWhKZDVFRDlQUXpzX0dpVkk3dWpWTlFnVlRDZXJKbEJPcXVPa1VCaDM3MTZzM0RVMWhyYzZScFIzY2FNTGc1U05VSndtOHpqWWg3dGYyd1M0cFBCQ2k2QldhSGN3SHVVVm1aSk5RV2tvWUxFUkJKdl9TdkNMaUZ1bVF1UWZCQ1lLUUZGb1RPVUgxS3lqWUE2bXZXcmFYdVlHZkdNbjIzSDQxaVJYY0dOTm4yY0hNeGxxWVl3YkhYaXhjenp1THZNWDJfY2VZaFh6RzFBbnBqN3VfeWMzZHRqRmNudw?oc=5",
+   "pub": "Mon, 16 Nov 2026 18:36:10 GMT"
+  },
+  {
+   "t": "Konflikt mit Iran: Dritter US-Flugzeugträger erreicht Nahen Osten - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcXVLcWw0ZTdOcGQzeEVsUkliNWtYUWVSSUR5ZDlYM19nRjVjODBSbGNwWk9uaHRwN2lxcGtUTS1FQnFNZ0haaUNWeWI2UHl5bnBVQXd0VjRDM2pDQzdwMWNGUHZULVdxOWdLY0l6NXo5aDB2YXNWMTBreGVqenZWQ2VHQlVTdmNQWHRSaE9Xb0hWclRMRFUyWFc4MEUxSGUwcjh0N2tFc3gtOWxROXVaVWhnUWtzVnRHbDdsb3NkdWJsRE1MRjA4Z1U4ZVdWQldCT0tMZw?oc=5",
+   "pub": "Mon, 16 Nov 2026 04:35:14 GMT"
+  },
+  {
+   "t": "Dritter Flugzeugträger im Nahen Osten: USA demonstrieren Stärke nach Angriffen auf Bahrain - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUVRTDBsbVRobTZwTFRSOFlhSXhBQnJvODVFd2hhVlRQTnVaY0NvN2dyZXR6WXNONm1MUVhqT2pyTFJGUXAzTmtJZzJXcXlKUHhLMWcxZ3VQcU1OZHM1VjhHVE1IMkYtV2p2QnJDellUcDFPNmliajJXbElKeTNWV0ZKbjJ1QUFnbXBtbHpvUnNIN0I1d1JuZk43TUN0YTBTQTR3ZEhidw?oc=5",
+   "pub": "Mon, 16 Nov 2026 08:03:00 GMT"
+  },
+  {
+   "t": "Außenministertreffen - EU plant weitere Sanktionen gegen Iran wegen Hackerangriffen auf Kühlsysteme - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM09XVVhpQndXcWkwY2FKbUxpTWsyZUhlLThBYmdlR0pLRzdSWmVLTjM3OThuSUY5Z1JwczEzd2J5R1U1b0QzcFJkeXFxZkZQVkZvY29KVk04ejdGNi1Xd2ZRUlFnS1pmcF91ZXlxNWw2TGlzOG0zRU1Kakdka3ZLUkxvcDh2T1B2Z29XUEV6d05mVXlYTFRsVm5tcjRxWWcwVDNtSXNmUjNvVlpPWm9FaEhfLTZxN2ly?oc=5",
+   "pub": "Mon, 16 Nov 2026 19:00:00 GMT"
+  },
+  {
+   "t": "Iran meldet Untergang eines Supertankers – Video zeigt riesige Rauchsäule - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHhqM0tsUEp1Y0s4d2QwbjhWT0lrdEJIQ1F2UWUyd3dveDlUblVjaTJYVFZQVlpkTS1XVlYwYkJsMkFOT1hJR3BwUFVyYmlqNC1DNWczLTNCWkpFcjFOUDQ4OGw0RFBsc2ROZ0hzYklsS2lJRWJSNzJEV3E2R0g0RVpiUUJGdTNvN1Z3cHFPMy1aOEp1ckx6ZWlIN29uWDdBWlAyd0MtX0xENHdMQmxpWDhQS29HOXBVNG13aXdPVlVZbzA?oc=5",
+   "pub": "Mon, 16 Nov 2026 09:57:00 GMT"
+  },
+  {
+   "t": "Iran: Benzinmangel weckt Erinnerungen an den „Blutigen November“ - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZG9vV2hQdVFhWm9IVTRWSWx3VDY2aXlWR0k3TUxjc3AzVGlaUE04RXFWR2lzZ0lVQWV0dEFRNWVrMDkzM0dqWG0tbnZaNHVuNG9GRGFNLWZvYURGQnNyRW9TWW9aeEtOaDRLcTRSREU5ODQzQlQyeGdxOTZTWTB0NUp5TUh3RHVJVW1uOUl6TS1XRzEtb2YwMjZyUWlab1BSWUxzUHJtTFVlLXVEZ0JsNXNOYVhxY1RENzFfREFZRnk2RVBsU3FadGZCMVFmU2FmQXppTkhpeURJdw?oc=5",
+   "pub": "Mon, 16 Nov 2026 05:14:41 GMT"
+  },
+  {
+   "t": "Teheran weist Vorwürfe zurück: EU plant nach Kühltruhen-Cyberangriffen Sanktionen gegen Iran - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXNKa2ZQZGloX3c1dTUxQkNhQ25zUWVJRk1NNDlUUGxWNmFHTksza0loLWlwaVpOU3loZUhBTmJicFZaclQ5MS1FeFNJTzRucUZTTXRUNzQwUGhBempWdnVNOC1HRWUxVXlFaThPeXAzRHZQMzVPZHNYM3ZFN1hLMTlQWEFEYVdaNnZXZzJtYTRlOURwRVBfRzJVOWhrLVdOZ2N2MFBOZkZ3Zw?oc=5",
+   "pub": "Mon, 16 Nov 2026 18:35:39 GMT"
+  },
+  {
+   "t": "Strait of Hormuz: Iran reports explosions on two oil tankers - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckRfNzVGOV9CUV9GLXRLaDBhYl9KU2ZmZ2RvdGVvM19DU1U2REdxT2wtQWRVSXotWTNzamJvVkdVc2E2NnFROTN5TWVtdU0wcklMSXYtNl8xS0dqMFFBdF9ONEpiVjdXMFpyNzkwVkR6eTZrVkdpdTdVT2dfZUs2X0dfWmhJeEMzZVJxQ3ctU0k4YllaWDMyd1VQRUhKb2Ju?oc=5",
+   "pub": "Mon, 16 Nov 2026 15:16:00 GMT"
   }
  ]
 }
