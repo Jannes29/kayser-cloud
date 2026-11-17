@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-16T22:05:35Z",
+ "collected_at": "2026-11-17T04:29:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8387,
-   "chg1d_pct": 0.33
-  },
-  "USDJPY": {
-   "price": 159.415,
-   "chg1d_pct": -0.29
-  },
-  "GBPCAD": {
-   "price": 1.8838,
-   "chg1d_pct": -0.15
-  },
-  "AUDJPY": {
-   "price": 107.371,
-   "chg1d_pct": -1.33
-  },
-  "EURUSD": {
-   "price": 1.0999,
-   "chg1d_pct": -0.46
-  },
-  "GBPCHF": {
-   "price": 1.1063,
+   "price": 0.8394,
    "chg1d_pct": 0.03
   },
+  "USDJPY": {
+   "price": 159.165,
+   "chg1d_pct": -0.38
+  },
+  "GBPCAD": {
+   "price": 1.887,
+   "chg1d_pct": 0.07
+  },
+  "AUDJPY": {
+   "price": 107.301,
+   "chg1d_pct": -0.93
+  },
+  "EURUSD": {
+   "price": 1.101,
+   "chg1d_pct": -0.13
+  },
+  "GBPCHF": {
+   "price": 1.1074,
+   "chg1d_pct": -0.13
+  },
   "WTI": {
-   "price": 85.1,
-   "chg1d_pct": -3.91
+   "price": 85.01,
+   "chg1d_pct": -0.83
   },
   "BRENT": {
-   "price": 91.86,
-   "chg1d_pct": -4.15
+   "price": 91.59,
+   "chg1d_pct": -0.92
   },
   "GOLD": {
-   "price": 3858.2,
-   "chg1d_pct": -0.72
+   "price": 3869.3,
+   "chg1d_pct": 0.42
   },
   "SPX_FUT": {
-   "price": 7433.5,
-   "chg1d_pct": -1.97
+   "price": 7435.75,
+   "chg1d_pct": -0.04
   },
   "NAS_FUT": {
-   "price": 27262.75,
-   "chg1d_pct": -2.75
+   "price": 27357.0,
+   "chg1d_pct": 0.27
   }
  },
  "headlines": [
@@ -69,14 +69,24 @@
    "pub": "Mon, 16 Nov 2026 18:52:10 GMT"
   },
   {
+   "t": "Außenministertreffen - EU plant weitere Sanktionen gegen Iran wegen Hackerangriffen auf Kühlsysteme - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2dQek9wLXlEM0dDR1haRHJIdmNBMmpDZHVodmk1RjlPbTl2ajlaMWk3VUo4bEpjQ0daWkwxOTJCQ0szQzE2dGx4OFI0elhzZ0puX0UwbjhVX284WVl5dW9uWGJtVklzbXV4N1I0WmVyeEQ2LS1mUElNZ0tWVTEyNDFxa3ZYbEdXTFpOaUk3U3IzWVVocmZ0YjIycTgzSHM1V0d3aVNINUw0X1d4dkd1Vlo0OFVvQks2?oc=5",
+   "pub": "Mon, 16 Nov 2026 23:00:00 GMT"
+  },
+  {
    "t": "Überlebender Major packt aus: Pentagon ignorierte Warnung vor tödlichem Iran-Drohnenangriff in Kuwait - Berliner Zeitung",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVZNUWhKZDVFRDlQUXpzX0dpVkk3dWpWTlFnVlRDZXJKbEJPcXVPa1VCaDM3MTZzM0RVMWhyYzZScFIzY2FNTGc1U05VSndtOHpqWWg3dGYyd1M0cFBCQ2k2QldhSGN3SHVVVm1aSk5RV2tvWUxFUkJKdl9TdkNMaUZ1bVF1UWZCQ1lLUUZGb1RPVUgxS3lqWUE2bXZXcmFYdVlHZkdNbjIzSDQxaVJYY0dOTm4yY0hNeGxxWVl3YkhYaXhjenp1THZNWDJfY2VZaFh6RzFBbnBqN3VfeWMzZHRqRmNudw?oc=5",
    "pub": "Mon, 16 Nov 2026 18:36:10 GMT"
   },
   {
-   "t": "Konflikt mit Iran: Dritter US-Flugzeugträger erreicht Nahen Osten - WELT",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcXVLcWw0ZTdOcGQzeEVsUkliNWtYUWVSSUR5ZDlYM19nRjVjODBSbGNwWk9uaHRwN2lxcGtUTS1FQnFNZ0haaUNWeWI2UHl5bnBVQXd0VjRDM2pDQzdwMWNGUHZULVdxOWdLY0l6NXo5aDB2YXNWMTBreGVqenZWQ2VHQlVTdmNQWHRSaE9Xb0hWclRMRFUyWFc4MEUxSGUwcjh0N2tFc3gtOWxROXVaVWhnUWtzVnRHbDdsb3NkdWJsRE1MRjA4Z1U4ZVdWQldCT0tMZw?oc=5",
-   "pub": "Mon, 16 Nov 2026 04:35:14 GMT"
+   "t": "Explosion auf Tanker: Hormus-Straße: Iran meldet weiteren angeblichen Seeminen-Vorfall - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDdGY2NrbnczMU43OG1SSW1nTUo5cVRRV2FybE1pSVdyRmhfQWh3RUFMdGFXSWtkVmVtY29VMzU0c0hNSnZfVTNQWElranJBcEZmQTZIWXlLeEFOWmFJVWV3X245bS1ibVJXVElKMl9YOHllOWIxNHpoVkJuYTEzTE5UcDNiMHg0R0xtLURBaUl2UzhSVTl3VXVSTG5GMFJoTS1NTVpxSFY5dGFn?oc=5",
+   "pub": "Mon, 16 Nov 2026 23:33:50 GMT"
+  },
+  {
+   "t": "Iran greift US-Stützpunkt in Bahrain an - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lbGZsZXA3cVdOTWNkOXhtTVRRSEdtQXF5RS1zN000LUdYWERJU0NwTmQyc0wzN0p4TGp5MWxpR2FvUURtOEIzZWRnR3lycnNrRGdQc0xZNXdlMUE2ZHhJ?oc=5",
+   "pub": "Sun, 15 Nov 2026 10:16:45 GMT"
   },
   {
    "t": "Dritter Flugzeugträger im Nahen Osten: USA demonstrieren Stärke nach Angriffen auf Bahrain - Frankfurter Rundschau",
@@ -84,29 +94,19 @@
    "pub": "Mon, 16 Nov 2026 08:03:00 GMT"
   },
   {
-   "t": "Außenministertreffen - EU plant weitere Sanktionen gegen Iran wegen Hackerangriffen auf Kühlsysteme - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM09XVVhpQndXcWkwY2FKbUxpTWsyZUhlLThBYmdlR0pLRzdSWmVLTjM3OThuSUY5Z1JwczEzd2J5R1U1b0QzcFJkeXFxZkZQVkZvY29KVk04ejdGNi1Xd2ZRUlFnS1pmcF91ZXlxNWw2TGlzOG0zRU1Kakdka3ZLUkxvcDh2T1B2Z29XUEV6d05mVXlYTFRsVm5tcjRxWWcwVDNtSXNmUjNvVlpPWm9FaEhfLTZxN2ly?oc=5",
-   "pub": "Mon, 16 Nov 2026 19:00:00 GMT"
+   "t": "Cyberangriffe auf Supermärkte: EU will Iran wegen Hackerangriffen auf Supermärkte sanktionieren - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeS1WZzlUeEpTckFPNkJJd3cxYUtTSkJ6a0E0YURMRGk5c3VEUUtVN0R1dHdoVEpHcnltV1BNRGZMVFZ5TVZfUlEzQXFhMVJDRllWVU9lOVN6SE84dGVaQ3RUZ281eUlFQ25sUDZNb3dNeUdudjRhaXQwYU5PNUh3M283aEpZQ0FlanQwQkJGRjFYbmhQdkVYWGJlTVJvR3EtbEo4?oc=5",
+   "pub": "Mon, 16 Nov 2026 18:08:19 GMT"
   },
   {
-   "t": "Iran meldet Untergang eines Supertankers – Video zeigt riesige Rauchsäule - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHhqM0tsUEp1Y0s4d2QwbjhWT0lrdEJIQ1F2UWUyd3dveDlUblVjaTJYVFZQVlpkTS1XVlYwYkJsMkFOT1hJR3BwUFVyYmlqNC1DNWczLTNCWkpFcjFOUDQ4OGw0RFBsc2ROZ0hzYklsS2lJRWJSNzJEV3E2R0g0RVpiUUJGdTNvN1Z3cHFPMy1aOEp1ckx6ZWlIN29uWDdBWlAyd0MtX0xENHdMQmxpWDhQS29HOXBVNG13aXdPVlVZbzA?oc=5",
-   "pub": "Mon, 16 Nov 2026 09:57:00 GMT"
+   "t": "Dritter US-Flugzeugträger in Nahost: Trump erhöht Druck auf Iran - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbW9CUVRvNW4ya0FPR1h0WHAzMjl0SzA3amZ0ek8zdDVoV1UtZEVRd2JpazFYUXpERjJtSzU3a1YwQUJZZklfYmswMWszY09NSzkwWlhNX0ZFUUFvNVJiQ3Y2bU54cW5udWdNc1M3MHBBdEdZQzM1WkpXT0JXX21uR3RnQVpnVlRJaVZFZGQwS015YzV6b1d4Ng?oc=5",
+   "pub": "Mon, 16 Nov 2026 09:27:34 GMT"
   },
   {
-   "t": "Iran: Benzinmangel weckt Erinnerungen an den „Blutigen November“ - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZG9vV2hQdVFhWm9IVTRWSWx3VDY2aXlWR0k3TUxjc3AzVGlaUE04RXFWR2lzZ0lVQWV0dEFRNWVrMDkzM0dqWG0tbnZaNHVuNG9GRGFNLWZvYURGQnNyRW9TWW9aeEtOaDRLcTRSREU5ODQzQlQyeGdxOTZTWTB0NUp5TUh3RHVJVW1uOUl6TS1XRzEtb2YwMjZyUWlab1BSWUxzUHJtTFVlLXVEZ0JsNXNOYVhxY1RENzFfREFZRnk2RVBsU3FadGZCMVFmU2FmQXppTkhpeURJdw?oc=5",
-   "pub": "Mon, 16 Nov 2026 05:14:41 GMT"
-  },
-  {
-   "t": "Teheran weist Vorwürfe zurück: EU plant nach Kühltruhen-Cyberangriffen Sanktionen gegen Iran - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXNKa2ZQZGloX3c1dTUxQkNhQ25zUWVJRk1NNDlUUGxWNmFHTksza0loLWlwaVpOU3loZUhBTmJicFZaclQ5MS1FeFNJTzRucUZTTXRUNzQwUGhBempWdnVNOC1HRWUxVXlFaThPeXAzRHZQMzVPZHNYM3ZFN1hLMTlQWEFEYVdaNnZXZzJtYTRlOURwRVBfRzJVOWhrLVdOZ2N2MFBOZkZ3Zw?oc=5",
-   "pub": "Mon, 16 Nov 2026 18:35:39 GMT"
-  },
-  {
-   "t": "Strait of Hormuz: Iran reports explosions on two oil tankers - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckRfNzVGOV9CUV9GLXRLaDBhYl9KU2ZmZ2RvdGVvM19DU1U2REdxT2wtQWRVSXotWTNzamJvVkdVc2E2NnFROTN5TWVtdU0wcklMSXYtNl8xS0dqMFFBdF9ONEpiVjdXMFpyNzkwVkR6eTZrVkdpdTdVT2dfZUs2X0dfWmhJeEMzZVJxQ3ctU0k4YllaWDMyd1VQRUhKb2Ju?oc=5",
-   "pub": "Mon, 16 Nov 2026 15:16:00 GMT"
+   "t": "Iran-Krieg: Dritter US-Flugzeugträger erreicht Nahen Osten - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFNuMnJBMXp6cUZSWXc4ZVYtM1Q1Q0NGdW1LNnkxTVpCbTZheUM4a1ZoVEdENE1fb2JFdzVKdk50dVlaQ3lzaHFrNkhuWjg5dGFJV1kwYk42N21STWxzU0VpYU5ZU2xYZGhWQjBSc3hSVWVSWUszaEJUd1E4QVVmcXVpY3RINlc5V2EtVkJySFg5QmtOWmlNZG1HbmNCUFJGVnE1U2dkZ0xsSFlhcEtZTXlnR190cTRpdTFYOXpzYjYzaVFmZWIw?oc=5",
+   "pub": "Mon, 16 Nov 2026 03:37:00 GMT"
   }
  ]
 }
