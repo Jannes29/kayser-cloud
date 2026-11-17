@@ -1,112 +1,112 @@
 {
- "collected_at": "2026-11-17T04:29:44Z",
+ "collected_at": "2026-11-17T14:27:04Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8394,
-   "chg1d_pct": 0.03
+   "price": 0.8407,
+   "chg1d_pct": 0.19
   },
   "USDJPY": {
-   "price": 159.165,
-   "chg1d_pct": -0.38
+   "price": 159.33,
+   "chg1d_pct": -0.28
   },
   "GBPCAD": {
-   "price": 1.887,
-   "chg1d_pct": 0.07
+   "price": 1.8868,
+   "chg1d_pct": 0.06
   },
   "AUDJPY": {
-   "price": 107.301,
-   "chg1d_pct": -0.93
+   "price": 107.345,
+   "chg1d_pct": -0.89
   },
   "EURUSD": {
-   "price": 1.101,
-   "chg1d_pct": -0.13
+   "price": 1.0994,
+   "chg1d_pct": -0.28
   },
   "GBPCHF": {
-   "price": 1.1074,
-   "chg1d_pct": -0.13
+   "price": 1.1093,
+   "chg1d_pct": 0.04
   },
   "WTI": {
-   "price": 85.01,
-   "chg1d_pct": -0.83
+   "price": 87.29,
+   "chg1d_pct": 1.83
   },
   "BRENT": {
-   "price": 91.59,
-   "chg1d_pct": -0.92
+   "price": 94.1,
+   "chg1d_pct": 1.8
   },
   "GOLD": {
-   "price": 3869.3,
-   "chg1d_pct": 0.42
+   "price": 3859.9,
+   "chg1d_pct": 0.18
   },
   "SPX_FUT": {
-   "price": 7435.75,
-   "chg1d_pct": -0.04
+   "price": 7429.5,
+   "chg1d_pct": -0.13
   },
   "NAS_FUT": {
-   "price": 27357.0,
-   "chg1d_pct": 0.27
+   "price": 27372.0,
+   "chg1d_pct": 0.32
   }
  },
  "headlines": [
   {
-   "t": "Iran droht mit Raketenangriff auf britischen Stützpunkt - ESUT",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNWlhLb2txWTNrUXJ1dUY3NVVIcFZtZ3loSHlsTXZpdFRMZ01qY2NyWTlhR0RRd2FXQmI4cElwN0pKRVFhZWFNV1BtQ0oydWZnSEtJTGFDcExiU2dTTERqUmhHenJ4eEpwYUFOaUtLREcwRFo3YmJEeXJ4SVphN3M?oc=5",
-   "pub": "Mon, 16 Nov 2026 16:06:54 GMT"
+   "t": "US-Geheimdienste befürchten Anschlag mit „schmutziger Bombe“ durch Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnVybzBMdEVSZVIyXzFza1c3bjh0bFRXV1dYcDdEYTNra3pmWVZocFExYjVtUmpUR2Zia0ptZHlQcWtKNHdHRnpEMmJpQ0c2M0lnZmRwUDRocHEyamlTSEY5ZGo4alJwakptLUVyTXJtaFFGMVpUckNsRHQtQmhYUVh1R19MQ0d6Zm82SnQ2TTA1cWF0d3IxNlpSWG15M0x1NjUxU25rbVhzbm5fN2hCZ09sdFNlM09jNXVVdXFmR2c5eVB6czllektKNUdjTHF6Y2dzMEFfdTZYSnM?oc=5",
+   "pub": "Tue, 17 Nov 2026 11:47:46 GMT"
   },
   {
-   "t": "Iran: Überlebender US-Soldat geht gegen Pentagon vor - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN3BHSjBhMXBnOGRaNUZlUk1fNDRZMl9LRWw2NU8tSExVRXowSFlHbmR3ZUJ3UFNheVJvMjFqY3QyVzBJdjdVU18wYlJMU3NQVWVQT3JKY2R5Q2NmejZnSUpLdlVuUEk5bUVwd3NQMzJ5R1ZTblRWOFhpYmVuQ1JwTlZ6SjdFamJnRnZjV1k5dl9lRm5wMXA2VnFPNG5jOTgxVldNQUJrTGQzcVhGYUtzaGNpU1F6b1VhRllRaWlUbS00VHRzSlE?oc=5",
-   "pub": "Mon, 16 Nov 2026 11:23:00 GMT"
+   "t": "Iran dementiert Bericht zu Anschlagsplänen mit »schmutziger Bombe« gegen Washington, D.C. - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbWJrM2wzblJIN2VhY0JJOWJjVWhtOUt0XzdVNHNEVGFXeXhacE5DS2txR0R3azd2LUdDNlJsRnhfS1VUTFU3NDBBcEVTNEtXNk1GM3ZReFBDN1pLakdlM1VxWFozbkE5NFNHT0VFaGxhNTVBanFXMlBkQ0JQb3FsSlRablZpQVdseWd2R0tFOVFDRFl2Q2ZPS1BzVmZGRnY2VjBkbzVBV3NOYVgtY1dVUGUydGdRRkpQbWM4dDRxSTh6QXZTZmk0eTYwc0JaTzhFV2t0cEFLTHBaNkdiNmg1c3pzVjF4aGtZQmpfejZXZ3VZbGdVblkzcUVaRTRrMVZWQkIxYQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 12:09:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Bessent: Irans Wirtschaft steht vor schnellem Zusammenbruch - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEx2MmV4b0pMWEg3WHVRX09EalZVRjhJYmhZcjdoSnlrYi1nZ2k1MG1tNE9kVHVFSEZqeEdkb3VDLWtNX2VxaUEzX21VMENGcUFBSEJtUl8yeUQ1QmJSMDV5QXhkUnRqUVRyRHUzNmVsOEp6SWw2QXNPUEVabTZzcGRuSUo2d2xGVVBLU051SDIzZXpYZXg4QzRn?oc=5",
-   "pub": "Mon, 16 Nov 2026 06:37:34 GMT"
+   "t": "USA gegen Iran: Luftangriffe und Explosionen schüren Kriegsangst - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUt6UjVpbTU0RTBXdEhjSUpBa1FlOWJ6ZVczYmZxWWUzdDhXeWNBdlJMa1ZuZDdpVUJmZmZrYXJCcVZKTjl3VF9lTDcwVmRfMFUwSnZUcjJ0dmhpRl9DRWZqeTJvTmcyWUpwYTVlTTVfQko1LUJYRjd2TWplWjB4QUtqV0tDVXFsU0xIalBGWGp5UGs?oc=5",
+   "pub": "Tue, 17 Nov 2026 12:12:48 GMT"
+  },
+  {
+   "t": "Irankrieg: Diese Optionen hat Donald Trump im Irankrieg - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORVRTZE1BbTBScjJNNkZGcjlnYUZ6dWwyQUJQOHNYRGFXUjVlWlJ5dXVkOUt1VkFIeC1CbGZQTUtPbndOV0ctQWRHWXNZTmZoVWhETU5nc0pHOVZJUnFHbHE0SGhOTTlpdTFTUXRyM3p2bS1mbS1KUXF6aFlDcVN5YlIwOURyWmtRNmNjX2JHaw?oc=5",
+   "pub": "Tue, 17 Nov 2026 08:04:23 GMT"
+  },
+  {
+   "t": "Iran: US-Geheimdienst warnt vor Anschlag mit schmutziger Bombe in Washington - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQajRxX0s1aXdMQXFaRU5QOXNoOXljWjdQZU9jOWRtQllPYXpidm5NNWpWTzFvZllCVk9sRF82ekRmQm1fbGxPbVVZcXhkZFFxWlo3NWdXOWZ5ZmRCcEVYZWtCeDBRb1BQX1BIMzYzWDlQSU1zZzNNdDZhM1J0VklfZ3M3TGlrdG53QktEcWxlMmpXdVBVZkhtUldadTVqeDhjR09YZEVBQmx2VDJtQjE3c21pOHc4VkJCZmgwQy1PSEJSRkRUVkIwZWVCeGFDSlpoUkUwSzI3N3FmWmYtdDlTMzh4MFNSSXZYTDUzUQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 10:45:41 GMT"
+  },
+  {
+   "t": "Eskalation im Iran-Krieg: Trump hat eine gewaltige Armada – seine gefährlichen Optionen - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLWdtUzVYMWEyUEU5WXFYRzRwbTlmOUVZdzB5a1ZTSGl3dkM5OVJWT3FHbm93b2o3UFZFWWNxeDV5aFNCUWhkakU1UklKN1FLV25sYTBhdUJMWmUtMjdOOGtORzktdTg3V01kOTRuenQ1VlFmNjc5ck0wbEZ4TEo3NEhlRDlFdG9IZnZEVktEel9ZWFBXLTd1aFh6MW9nZm9GZGF1VjBlekF4emE4dTI3NGpLM2prNEpwcWJPUUNFOW40UUpEcGR6bg?oc=5",
+   "pub": "Tue, 17 Nov 2026 09:45:36 GMT"
+  },
+  {
+   "t": "Iran greift US-Militäranlage in Bahrain mit Drohnen an - ESUT",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tQTNzY0p2cWczYmJmbXJDZDM3R0ZkNTBlX1VqSDhVbXpBOWFEaG1xTWhMS3pGWWxwRFdZby03WklId1NlWS1sbldCXzduNkNnZkhKZ2NQX0xQNlRSbW9IcXh5S3Rzd25hQ1ZPVXpR?oc=5",
+   "pub": "Tue, 17 Nov 2026 14:00:56 GMT"
+  },
+  {
+   "t": "Anschlag mit „schmutziger Bombe“? Material soll schon in den USA lagern – Experte spricht von „Terrorwaffe“ - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEx0NkJlTEtPeGFCcFpEUm5vQmpwSm9MMkFmdTdzVkYxSUJfZWNVWDZtcGo5bVZCU3B3R3dfZnhUWE9kX04wZ2xXRGw0SGhIUVRzczNraXBUeFlzdzFSaDBjbm5TQmVDTWdQaHVWLXdial9JcmtSRG8yaWM0Q202MjVFRnp2eDFBbUJSQUxMTHhkSHF2b2NudzBmazl0UGlMUlE?oc=5",
+   "pub": "Tue, 17 Nov 2026 09:43:47 GMT"
+  },
+  {
+   "t": "Iran schickt Frauen an die Waffe: „Den Feind vernichten“ - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOejVFV3VhT3Z0N3ByWmRTMXFKbTdGcXQxQ3R4NHlRa0NhWWVPYlE1cVYzZGt6WUpEb0JJY0hFQXZWREhoY20yZE5DZFhVOFFUS3VVY0Q1bWFVbDBWaV9JUTljOTE0b3BLdm5TcU1RQk1GUlozb18zTzhGQkd1N2lnUFNZaEVvT3BIVkVPeFo2bzROTkJMTmMzRjNFeFEtYmM1ZUtUei1mV090M010TEE1Y3N3MmZPUDZQUXEtME5R?oc=5",
+   "pub": "Tue, 17 Nov 2026 05:43:00 GMT"
+  },
+  {
+   "t": "Straße von Hormus: Iran meldet Seeminenexplosionen an zwei Tankschiffen - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWdVTFhyVXROZnRraWEwQzJPdlZJX0RnRUpTOU9NVFBWXzExUnhjNVhyWE1EbHM1MGxET0ZCdl8xS1hPc1N0WC1JT1pRQkxqcXpjUU12UjMxWTBuNlBkVHI1QV9zOVhocDhldU5xaUtsek1OLS1MZ21GQlNKRWQybFBBeF9iblVKOF93RDhaVHNocHBJRHJQUHBoNGxNTTlRRzRRMGhRRkpjcnVRNGJiMA?oc=5",
+   "pub": "Tue, 17 Nov 2026 12:52:00 GMT"
+  },
+  {
+   "t": "Islamistisches Regime - Nobelpreisträgerin Narges Mohammadi beklagt anhaltende Repression im Iran - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHVQakdTV3dDUjZ4aXVhX2FKRHc5N1hXak94TjFqcmdmU3dVQWZaOUJ3TWxHNW0weGhBZGVnR3c1R0h0bC1vdm0xNm9DT1ByWGRoX054bjZFX3BXNWFZTWUzdWJoMDRQTTU3ZUFpdG1PUm9COHZPLTVadDBMMjNTMUxtQUJreHFvUkdLQUhkRkRKZDB3RkhjSzFSTTFTU3h1eEcyZFRuelJIc05MT0RQcjZTcDM?oc=5",
+   "pub": "Tue, 17 Nov 2026 10:31:46 GMT"
   },
   {
    "t": "Goldpreis unter 3.900 US-Dollar: So können Anleger die Schwächephase vor dem Fed-Entscheid nutzen - Finanzen.net",
    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONkVwLW5QRmEyLWJGYTZ4cG5wNWdPalVheDRlS2NLSjVrMGlyNkZYdHZIMTBCNkRzLWlRaG5tb2FONXAybGNRa19ZcldZckhUcHUtU3pCa081OEl6WFd3Q2hJY3dKQW92N0VxcGVYc3JaX2pseDU3Z3pyRF9pYkh3cWhZSTRHaEdHS0FSMUFNVzFUYkNVajNSck5DMW1FZXdnYUFRb3ExVjJCTmo5Z2ZvQzUtOUFXUTZza21vSXNIbEZQWG5GVWpzVVdXaHA1a29mUXZOOVYxVGRFYUU0LVdOTy1ocDdVeE5OUFdRekdsS0hwNVlFSzB2ZTZOVDVoR0hoWXZaTWZDa2g?oc=5",
-   "pub": "Mon, 16 Nov 2026 18:52:10 GMT"
-  },
-  {
-   "t": "Außenministertreffen - EU plant weitere Sanktionen gegen Iran wegen Hackerangriffen auf Kühlsysteme - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2dQek9wLXlEM0dDR1haRHJIdmNBMmpDZHVodmk1RjlPbTl2ajlaMWk3VUo4bEpjQ0daWkwxOTJCQ0szQzE2dGx4OFI0elhzZ0puX0UwbjhVX284WVl5dW9uWGJtVklzbXV4N1I0WmVyeEQ2LS1mUElNZ0tWVTEyNDFxa3ZYbEdXTFpOaUk3U3IzWVVocmZ0YjIycTgzSHM1V0d3aVNINUw0X1d4dkd1Vlo0OFVvQks2?oc=5",
-   "pub": "Mon, 16 Nov 2026 23:00:00 GMT"
-  },
-  {
-   "t": "Überlebender Major packt aus: Pentagon ignorierte Warnung vor tödlichem Iran-Drohnenangriff in Kuwait - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVZNUWhKZDVFRDlQUXpzX0dpVkk3dWpWTlFnVlRDZXJKbEJPcXVPa1VCaDM3MTZzM0RVMWhyYzZScFIzY2FNTGc1U05VSndtOHpqWWg3dGYyd1M0cFBCQ2k2QldhSGN3SHVVVm1aSk5RV2tvWUxFUkJKdl9TdkNMaUZ1bVF1UWZCQ1lLUUZGb1RPVUgxS3lqWUE2bXZXcmFYdVlHZkdNbjIzSDQxaVJYY0dOTm4yY0hNeGxxWVl3YkhYaXhjenp1THZNWDJfY2VZaFh6RzFBbnBqN3VfeWMzZHRqRmNudw?oc=5",
-   "pub": "Mon, 16 Nov 2026 18:36:10 GMT"
-  },
-  {
-   "t": "Explosion auf Tanker: Hormus-Straße: Iran meldet weiteren angeblichen Seeminen-Vorfall - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDdGY2NrbnczMU43OG1SSW1nTUo5cVRRV2FybE1pSVdyRmhfQWh3RUFMdGFXSWtkVmVtY29VMzU0c0hNSnZfVTNQWElranJBcEZmQTZIWXlLeEFOWmFJVWV3X245bS1ibVJXVElKMl9YOHllOWIxNHpoVkJuYTEzTE5UcDNiMHg0R0xtLURBaUl2UzhSVTl3VXVSTG5GMFJoTS1NTVpxSFY5dGFn?oc=5",
-   "pub": "Mon, 16 Nov 2026 23:33:50 GMT"
-  },
-  {
-   "t": "Iran greift US-Stützpunkt in Bahrain an - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lbGZsZXA3cVdOTWNkOXhtTVRRSEdtQXF5RS1zN000LUdYWERJU0NwTmQyc0wzN0p4TGp5MWxpR2FvUURtOEIzZWRnR3lycnNrRGdQc0xZNXdlMUE2ZHhJ?oc=5",
-   "pub": "Sun, 15 Nov 2026 10:16:45 GMT"
-  },
-  {
-   "t": "Dritter Flugzeugträger im Nahen Osten: USA demonstrieren Stärke nach Angriffen auf Bahrain - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUVRTDBsbVRobTZwTFRSOFlhSXhBQnJvODVFd2hhVlRQTnVaY0NvN2dyZXR6WXNONm1MUVhqT2pyTFJGUXAzTmtJZzJXcXlKUHhLMWcxZ3VQcU1OZHM1VjhHVE1IMkYtV2p2QnJDellUcDFPNmliajJXbElKeTNWV0ZKbjJ1QUFnbXBtbHpvUnNIN0I1d1JuZk43TUN0YTBTQTR3ZEhidw?oc=5",
-   "pub": "Mon, 16 Nov 2026 08:03:00 GMT"
-  },
-  {
-   "t": "Cyberangriffe auf Supermärkte: EU will Iran wegen Hackerangriffen auf Supermärkte sanktionieren - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeS1WZzlUeEpTckFPNkJJd3cxYUtTSkJ6a0E0YURMRGk5c3VEUUtVN0R1dHdoVEpHcnltV1BNRGZMVFZ5TVZfUlEzQXFhMVJDRllWVU9lOVN6SE84dGVaQ3RUZ281eUlFQ25sUDZNb3dNeUdudjRhaXQwYU5PNUh3M283aEpZQ0FlanQwQkJGRjFYbmhQdkVYWGJlTVJvR3EtbEo4?oc=5",
-   "pub": "Mon, 16 Nov 2026 18:08:19 GMT"
-  },
-  {
-   "t": "Dritter US-Flugzeugträger in Nahost: Trump erhöht Druck auf Iran - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbW9CUVRvNW4ya0FPR1h0WHAzMjl0SzA3amZ0ek8zdDVoV1UtZEVRd2JpazFYUXpERjJtSzU3a1YwQUJZZklfYmswMWszY09NSzkwWlhNX0ZFUUFvNVJiQ3Y2bU54cW5udWdNc1M3MHBBdEdZQzM1WkpXT0JXX21uR3RnQVpnVlRJaVZFZGQwS015YzV6b1d4Ng?oc=5",
-   "pub": "Mon, 16 Nov 2026 09:27:34 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Dritter US-Flugzeugträger erreicht Nahen Osten - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFNuMnJBMXp6cUZSWXc4ZVYtM1Q1Q0NGdW1LNnkxTVpCbTZheUM4a1ZoVEdENE1fb2JFdzVKdk50dVlaQ3lzaHFrNkhuWjg5dGFJV1kwYk42N21STWxzU0VpYU5ZU2xYZGhWQjBSc3hSVWVSWUszaEJUd1E4QVVmcXVpY3RINlc5V2EtVkJySFg5QmtOWmlNZG1HbmNCUFJGVnE1U2dkZ0xsSFlhcEtZTXlnR190cTRpdTFYOXpzYjYzaVFmZWIw?oc=5",
-   "pub": "Mon, 16 Nov 2026 03:37:00 GMT"
+   "pub": "Tue, 17 Nov 2026 06:22:11 GMT"
   }
  ]
 }
