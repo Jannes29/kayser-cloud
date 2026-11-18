@@ -1,62 +1,77 @@
 {
- "collected_at": "2026-11-18T14:01:07Z",
+ "collected_at": "2026-11-18T21:58:12Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8426,
-   "chg1d_pct": 0.33
+   "price": 0.8432,
+   "chg1d_pct": 0.4
   },
   "USDJPY": {
-   "price": 159.377,
-   "chg1d_pct": -0.09
+   "price": 159.341,
+   "chg1d_pct": -0.11
   },
   "GBPCAD": {
-   "price": 1.8838,
+   "price": 1.8839,
    "chg1d_pct": -0.05
   },
   "AUDJPY": {
-   "price": 107.282,
-   "chg1d_pct": -0.16
+   "price": 106.949,
+   "chg1d_pct": -0.47
   },
   "EURUSD": {
-   "price": 1.0972,
-   "chg1d_pct": -0.24
+   "price": 1.0977,
+   "chg1d_pct": -0.19
   },
   "GBPCHF": {
-   "price": 1.1091,
-   "chg1d_pct": 0.17
+   "price": 1.1089,
+   "chg1d_pct": 0.15
   },
   "WTI": {
-   "price": 83.72,
-   "chg1d_pct": -2.66
+   "price": 82.07,
+   "chg1d_pct": -4.58
   },
   "BRENT": {
-   "price": 89.77,
-   "chg1d_pct": -3.62
+   "price": 88.81,
+   "chg1d_pct": -4.65
   },
   "GOLD": {
-   "price": 3788.7,
-   "chg1d_pct": -1.95
+   "price": 3726.7,
+   "chg1d_pct": -3.56
   },
   "SPX_FUT": {
-   "price": 7389.75,
-   "chg1d_pct": 0.42
+   "price": 7341.25,
+   "chg1d_pct": -0.24
   },
   "NAS_FUT": {
-   "price": 27306.5,
-   "chg1d_pct": 0.85
+   "price": 27192.25,
+   "chg1d_pct": 0.43
   }
  },
  "headlines": [
   {
-   "t": "Krieg in Nahost: Golfstaaten fangen nach US-Angriff iranische Raketen und Drohnen ab - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEhzSG15U3FBQzVYZldXNldLUEZIUlJqdjIzdjFwT3BQOFJwcHVuQUtIRzlxQUxxSjNHYTB4VXZlUlJDM29kOGx1STdhbi1FYXdnaHBPSEgxS0VhMHR2VVdBQmdYcjAxbGlvUkRoRjFRajRsdG53anJPb09Jajd2UmdJSTlPN3JzSjZJRUh6ZXRsWFRxaF9IcWNxUW1rOTZOcnhMOVp2T3pPVVVMemJ0d055M1NfNXVJSV9xMU43NVRvanEwLUdKVFlKT1ZKRTltUjJ3?oc=5",
-   "pub": "Wed, 18 Nov 2026 13:19:00 GMT"
+   "t": "Angriff auf Kuwait: Iran setzt auf kalkulierte Eskalation - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmlLeWRJRHduNVpCMUlzeE9GOFB4eGhsV1dZMXE2T2hDZXZsZERBTkZ1TDRnZWYxay1OU01tek9kc01Vejl6dUNHWjctSkpqcDk0MFYwSmFfN1A1NWxQVXFyX00tU2h0YXBjWlBxQTBtUHZBQVJCVVM5aFRmblVPZnN4UC1QQUdOU0R1cXBHaHdOWHVhaVhNSHFTOUhtdjZ2ZC05amNIdGdJRWtkQUZ1dV9Sbk9QbDJzYjU1cA?oc=5",
+   "pub": "Wed, 18 Nov 2026 12:36:03 GMT"
   },
   {
-   "t": "Iran meldet US-Luftangriffe auf Insel Qeschm im Persischen Golf - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEwzeEkwNV9vWFlGNDF0RHItaXkxNGNwM2JlTTdEV0F0WDZtV05tbnZic1p3ajdZMjEyaTg1S1hkVUhMVFZxMUhvaGt5NmNoQ1pIWFF4Q29vVF9WRXZReDF2NWxyWVduNzVRcnZOZTNmcW5WNVlQakdJaWw1RXNLMFFaUy1OdFhFWGNGX3JGRlJ5M2tTemhJMGF2SklaN1E?oc=5",
-   "pub": "Wed, 18 Nov 2026 05:42:44 GMT"
+   "t": "Krieg in Nahost: Golfstaaten fangen nach US-Angriff iranische Raketen und Drohnen ab - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEhzSG15U3FBQzVYZldXNldLUEZIUlJqdjIzdjFwT3BQOFJwcHVuQUtIRzlxQUxxSjNHYTB4VXZlUlJDM29kOGx1STdhbi1FYXdnaHBPSEgxS0VhMHR2VVdBQmdYcjAxbGlvUkRoRjFRajRsdG53anJPb09Jajd2UmdJSTlPN3JzSjZJRUh6ZXRsWFRxaF9IcWNxUW1rOTZOcnhMOVp2T3pPVVVMemJ0d055M1NfNXVJSV9xMU43NVRvanEwLUdKVFlKT1ZKRTltUjJ3?oc=5",
+   "pub": "Wed, 18 Nov 2026 11:24:00 GMT"
+  },
+  {
+   "t": "Fed-Protokoll: US-Notenbank sieht höhere Zinsen – Sorge um KI-Schulden - Der Aktionär",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUkkzZ0Rhb056eUZxNDU1Yi1XWVRYd2JVWkVjVjJ5aWNiZnlNTkpQR2h0bkdyZk05Y2ZqbUoxZFlaMkVMT2ZhRTdWcWtpSXV5X09HZ2ZjNGFxWmhGZnktVmVyQzdOUENRbV94N1ZHVlN6eE93UUxLd0I3ZXlWekpRNXJhUlRTZDlCV0R6Ujh5b2VuTnRNcWg5dWkxMDA0OHJHODUzQnBoVFBveGtIa2VqOG44MThJOE1zdHFyWmdiSWFNNmUwNEdoWU9ydlNFeHYzbktwajlR?oc=5",
+   "pub": "Wed, 18 Nov 2026 20:07:59 GMT"
+  },
+  {
+   "t": "„So viel Polizeipräsenz habe ich noch nie erlebt. Das löst bei mir Angst aus“ - WELT",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaXNTYXU2VEhZVXNmV096Nm1oQ0FudnVONk00akpjanZrOXpRVm03TjVuRm9CbTdNdldnaGZ0R2ZKcXhoa2RJN1VEdDFSQXpTWTNRc19ESmthM21pbkVLRlpQWVhGQVRJV0R3Zk02dzExd1RCRDBGUVJscU0wRjc2WVMxcDZJSUl2ZFBPRU12dWxjTy1tellyM3AwM244Zk1MQlRTNnFQRldUS3dWTjktaURIbHg1bU5KUzdCekNQOWQ2LTZ5dEpnNDB0MnhIa2xlaUJ6YmUyZXdWTUxmdll0YVZiWHNZdzM5Z01MWEZmQUZDMmZOVC1ONWd1SDl5WlpVc0ZyazZoZlBLcEZBMVFBNG1n?oc=5",
+   "pub": "Wed, 18 Nov 2026 15:33:06 GMT"
+  },
+  {
+   "t": "Klimaschutz dank Krieg? Energiekrise drängt viele Länder, bei Energiewende nachzulegen - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdXNTUHM5NGQyY1hJTXhjUGt6WmhYSm1FTkxMT2hPZUszOThBRmMweEVBX1hzbDlCdEF1RzU1MHlXd2JDcXpiQzVLNEVXTEdqaHVIblJMQTZxdTZWX0hsUlZJOU92NXdWUC10TWJPOXVBbnhORThtUmdtMDJqd3VkdHgtcTZJeGpHbGZfYUNuUXBBZkRZNXBuaGtR?oc=5",
+   "pub": "Wed, 18 Nov 2026 15:17:00 GMT"
   },
   {
    "t": "Irankrieg: Bahrain und Kuwait geraten erneut unter Beschuss - taz.de",
@@ -64,9 +79,19 @@
    "pub": "Wed, 18 Nov 2026 10:20:24 GMT"
   },
   {
-   "t": "Angriff auf Kuwait: Iran setzt auf kalkulierte Eskalation - FAZ",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmlLeWRJRHduNVpCMUlzeE9GOFB4eGhsV1dZMXE2T2hDZXZsZERBTkZ1TDRnZWYxay1OU01tek9kc01Vejl6dUNHWjctSkpqcDk0MFYwSmFfN1A1NWxQVXFyX00tU2h0YXBjWlBxQTBtUHZBQVJCVVM5aFRmblVPZnN4UC1QQUdOU0R1cXBHaHdOWHVhaVhNSHFTOUhtdjZ2ZC05amNIdGdJRWtkQUZ1dV9Sbk9QbDJzYjU1cA?oc=5",
-   "pub": "Wed, 18 Nov 2026 12:36:03 GMT"
+   "t": "Iran meldet US-Luftangriffe auf Insel Qeschm im Persischen Golf - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEwzeEkwNV9vWFlGNDF0RHItaXkxNGNwM2JlTTdEV0F0WDZtV05tbnZic1p3ajdZMjEyaTg1S1hkVUhMVFZxMUhvaGt5NmNoQ1pIWFF4Q29vVF9WRXZReDF2NWxyWVduNzVRcnZOZTNmcW5WNVlQakdJaWw1RXNLMFFaUy1OdFhFWGNGX3JGRlJ5M2tTemhJMGF2SklaN1E?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:42:44 GMT"
+  },
+  {
+   "t": "Battalion Oil Aktie: EBITDA fast halbiert - AktienCheck.de",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nTTF4MkdQN0NaVTZSa2VZQ1phY0dIOFNxUmxnRkdPRVAxdWJSdk5TcHBHUFRHTXdPMy1LRWcwUXBIekN3UkgwMGpMcElvZnZzUHYwOS15UmNtNVB5SDZkbW9TNnltcWVQbHpGdjZrV0RSMnNhYXA1SzA3cw?oc=5",
+   "pub": "Wed, 18 Nov 2026 18:00:07 GMT"
+  },
+  {
+   "t": "Wadephul: Iran soll Verhandlungsbereitschaft zeigen - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmNHbmh0R2h0bXdUZWt5enBDZC1QQ2RiSVp2SWRrYkVPdzJrdDlLZGY1OWowY1YtMWFFRFhvSHFCTUh2TDRVSURVWE81d015aXVLSUdlTGlOQV9EV3h3NTExcUdBTmpnaE9VUXNQczAxR0lGb1dsSk4tbC1xcHdiTDd0aG5zOTNXNzlFc3hGNFd5RkpmcHp1cTBfdw?oc=5",
+   "pub": "Wed, 18 Nov 2026 14:29:00 GMT"
   },
   {
    "t": "Künstlerin Saba Soleymani: Flucht aus dem Iran nach Hamburg - NDR.de",
@@ -74,39 +99,14 @@
    "pub": "Wed, 18 Nov 2026 10:55:30 GMT"
   },
   {
-   "t": "„So viel Polizeipräsenz habe ich noch nie erlebt. Das löst bei mir Angst aus“ - WELT",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaXNTYXU2VEhZVXNmV096Nm1oQ0FudnVONk00akpjanZrOXpRVm03TjVuRm9CbTdNdldnaGZ0R2ZKcXhoa2RJN1VEdDFSQXpTWTNRc19ESmthM21pbkVLRlpQWVhGQVRJV0R3Zk02dzExd1RCRDBGUVJscU0wRjc2WVMxcDZJSUl2ZFBPRU12dWxjTy1tellyM3AwM244Zk1MQlRTNnFQRldUS3dWTjktaURIbHg1bU5KUzdCekNQOWQ2LTZ5dEpnNDB0MnhIa2xlaUJ6YmUyZXdWTUxmdll0YVZiWHNZdzM5Z01MWEZmQUZDMmZOVC1ONWd1SDl5WlpVc0ZyazZoZlBLcEZBMVFBNG1n?oc=5",
-   "pub": "Wed, 18 Nov 2026 06:31:08 GMT"
-  },
-  {
-   "t": "Reza Pahlavi verlangt entschlossenes Vorgehen gegen Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmV2d29oSnhRM3BOR29tUV9JSHdmTXEzdVUwODRBOWdJNXQ5d1J5dFRfUjRLSzlvQWpxRWdoYjNhemNuU3ZZTTZ0Vm8tSnZkNDEyWFNGZjB5X1FDM2c1MGhFUUFqdUJIVm9KbVdLMEhBd3g1NzAzd3FEV242N1NkZ1RpcnNrdnNRUmp2bXhzUXNoY1F1ckQxRXY4UXE4UmVDcWt3?oc=5",
-   "pub": "Wed, 18 Nov 2026 10:48:00 GMT"
-  },
-  {
-   "t": "Auch USA greifen erneut an: Kuwait gerät unter iranischen Beschuss - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWm40V0w3cTBkWmtoY29BT1VtNXNDeUZqc0JZX19rU1A1dDFnRWFwOHNfbHBCQ3YtSldYZldsaG5uakw5MUdqQTJwUVVKWTZ4Vzd0NkNFMjI3aGhDVGZTeTNIamoteG1aM2lkd3ZqUktRVDFfaGpTcVZ3UzBNWUdSckZQdVlZUWtFeW5R?oc=5",
-   "pub": "Wed, 18 Nov 2026 00:42:41 GMT"
-  },
-  {
-   "t": "FED: Wie hoch ist der Leitzins der US-Notenbank aktuell? - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1I0c0hpWXl3VFprdW9DMy04YkcwTUl1QjZBYzExa2p2WnBFeXZkNktPaW0xbF82ci1abTdyMUZlc1FLRFl5cVBwVVpwX3dwYU1Dczc2b3c2RDFOWlQtR1FncVJIMVpBSm1oSTRhRjBXTFNzdUVpbDlvUzBBYklyNlpiTjV5M0xrSWxHX0pKcWUwMXByZElDeUxfRjAtTGJ2eE5NRGhzUE1ndjlo?oc=5",
-   "pub": "Wed, 18 Nov 2026 09:01:46 GMT"
+   "t": "Fed Zinsen: FOMC-Protokolle bestätigen falkenhaften Kurs der US-Notenbank - XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmpMOG1XWEN4YlpqU25EaWdwTkRtenJqc3RGUmZPcTRseFhRU0EzZVk5bTFEa0k5WFNpN2pJek9nZXNUZW5LVzhzMF8zQUJ0elJjTGJzUXR3dXdkSDYyNkxYRlZwQVdhcE1qbS1CVWE2SU9wY09IM3ZBUk14eF9SaEItdGVTaXEtdEl2ZkNRWjB0cXNHUE1NU20zRFZ5QlBsTHEtWTc0Y2NZS0FhWnBwdWVZcUxabHczekVzVEpJWWI?oc=5",
+   "pub": "Wed, 18 Nov 2026 19:31:00 GMT"
   },
   {
    "t": "Iran-Krieg: Sicherheitsexperte zu Gefahren für die USA und Europa - ZDFheute",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpGN0wwYmNBOGJqTE9LNms0TndCTzM0dE9mNkIwU1BjRi1jQTI3QmdDX3haTjdqeGRSYUFlNXM1TTU3OTd1ODFQeU1DZ0pDdTZ3YW92WFE1d3IzYzIzX1Z2Rm16dzdEdEx3ZkV2Nzh0ZW83dFdLejR1SEZyVjRKUk0xSQ?oc=5",
    "pub": "Tue, 17 Nov 2026 20:56:00 GMT"
-  },
-  {
-   "t": "Trump droht Iran nach mutmaßlichem Anschlagsplan in Washington - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU5mbGlVUkNncFl6ZnVJQzR2a2U5NkdOX0JYanN5WlpYUkdmY19tUHpWdzZxc0M2T3kyZWlfTEF5aXBGempzTXgtVGF6bGdlRXoycjZhM01GQ1F3MjZyNkwzZW56OG5tdnBucEh4UE1sSmo3cVFkTEdEQ0tBUU9mNHQzUWljcjIyNFcwZ1NmRjhkWXVIMDBhWUZUYU1ubWs?oc=5",
-   "pub": "Tue, 17 Nov 2026 17:00:49 GMT"
-  },
-  {
-   "t": "Iran und Huthi greifen Ziele in der Golfregion an - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ3piODNPMzdlWkkwODgzR3JFbUtFakNLVFRiMWhsVGNGaVRpaGxaMm5JZnMydTlyWlFpeUE1RDVuTWNoUDVJVE1ib2h1NFVlcUpCNlNkMkF5UFhScUhmcWdwalJrRThFTTh3SUhKWTBCUm53NzFqOW9XN1MxZTNIdklhN2VTckF4T0pGRXNqZ2p4eEFPT09hMV9R?oc=5",
-   "pub": "Wed, 18 Nov 2026 11:23:00 GMT"
   }
  ]
 }
