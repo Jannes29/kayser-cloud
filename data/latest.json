@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-19T21:36:38Z",
+ "collected_at": "2026-11-20T03:18:43Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8442,
-   "chg1d_pct": 0.35
+   "price": 0.8427,
+   "chg1d_pct": -0.09
   },
   "USDJPY": {
-   "price": 159.681,
-   "chg1d_pct": 0.11
+   "price": 159.164,
+   "chg1d_pct": -0.14
   },
   "GBPCAD": {
-   "price": 1.8771,
-   "chg1d_pct": -0.58
+   "price": 1.8774,
+   "chg1d_pct": -0.33
   },
   "AUDJPY": {
-   "price": 106.338,
-   "chg1d_pct": -1.08
+   "price": 105.83,
+   "chg1d_pct": -1.07
   },
   "EURUSD": {
-   "price": 1.0972,
-   "chg1d_pct": -0.19
+   "price": 1.0976,
+   "chg1d_pct": 0.04
   },
   "GBPCHF": {
-   "price": 1.1046,
-   "chg1d_pct": -0.56
+   "price": 1.1036,
+   "chg1d_pct": -0.47
   },
   "WTI": {
-   "price": 83.21,
-   "chg1d_pct": -0.06
+   "price": 82.77,
+   "chg1d_pct": -0.53
   },
   "BRENT": {
-   "price": 90.18,
-   "chg1d_pct": -1.92
+   "price": 89.87,
+   "chg1d_pct": -2.29
   },
   "GOLD": {
-   "price": 3640.3,
-   "chg1d_pct": -2.72
+   "price": 3531.0,
+   "chg1d_pct": -4.19
   },
   "SPX_FUT": {
-   "price": 7184.25,
-   "chg1d_pct": -2.13
+   "price": 7164.5,
+   "chg1d_pct": -0.46
   },
   "NAS_FUT": {
-   "price": 26533.0,
-   "chg1d_pct": -2.4
+   "price": 26379.0,
+   "chg1d_pct": -0.83
   }
  },
  "headlines": [
@@ -69,24 +69,9 @@
    "pub": "Thu, 19 Nov 2026 07:54:00 GMT"
   },
   {
-   "t": "Giftgas- und Biowaffen-Einsatz? Trump droht Iran mit Auslöschung - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkhaZWNtbHU1UlJZWU5MSEdLYmlJV1A5Y291TWx4T2JzaElZMzJzTGgySE05N0xIdm1uamZxS2lvdTVEdzJHUGJMaVpzRlJKOW9GZ1JldW9CNFpnS0ZNQ0ZfVHA1TjJfQXpZd0pUcXVHWm5JeUFBU3ZmbVFhUkdkNlVZWFlXZ29qNTItdXJuNzB4amZRNlhFUTVWaVJOX2RFZFYtbG5jNlFrY0dFNmlfbTBpV2J5Qlhac2lV?oc=5",
-   "pub": "Thu, 19 Nov 2026 04:00:00 GMT"
-  },
-  {
    "t": "Kein Wort zu Ukraine und Iran Die Abschlusserklärung zum Gipfel von Xi, Putin und Trump im Wortlaut - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcHQ3UDh4bmRhUmtobVNsM3pMc3ZHQnU0dENUM1N3TEhuZDNLTkdCQjY0aEJDaGVzcjBWdHViWVczbDdoYmpLNU9fa1c0TnhiYy1XSkI4MmtnNVFORzlxNHByOGVRRkpNcmYtQ3NNTHI1aktpZUVfV0d4ZTRZTkFVb3FZZEhlSHBRcnBqSzZqaUUtUDg1QzJPMjlkZTVuY25rRGlRYmIwR1lLTEtCUzNfRWdUOVJ5NTVhUXVBWkk1VWx6TnFXWTBMQ2dqdDBiNF9fRE4tLTR0V1pndVllRTVlb3l6QkhzM1lreDFSR2N5QlFPUQ?oc=5",
    "pub": "Thu, 19 Nov 2026 18:15:53 GMT"
-  },
-  {
-   "t": "Iran: Anwälte unter zunehmendem Druck - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56Z1VlZFBKTFlBcmJtTlRsQXRlczl2UGI5TVhRSnBCbjg3LVR1aHVFR1Z2Q2JaYVRQRUZ0aWRVd3JfOGN6Rng4b0RMbGI2eUc0Q2VtRjd3TDl5eEgybDFNbFRhb0tHWlZoTHQ5ZWRzSW1xZm9fRzdjX09PM2J4MUnSAX9BVV95cUxPVkJ1Qkp6dnBSLVpsVFBSSVVYRDhJOS1QWndHZ1Q1ZlJxcFhmSzNJYTRrdFlLUTN1X2I5WV8xR3RoaEt2akhLOTVjekNHM01UZzBsOFNOaThUNHNZZlpxMllKd19xREwzTFVCeHQ1Q3hXWmdrTUYxTVhlSkNVX3hV?oc=5",
-   "pub": "Thu, 19 Nov 2026 12:39:32 GMT"
-  },
-  {
-   "t": "Iran meldet US-Luftangriffe auf Insel Qeschm im Persischen Golf - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEwzeEkwNV9vWFlGNDF0RHItaXkxNGNwM2JlTTdEV0F0WDZtV05tbnZic1p3ajdZMjEyaTg1S1hkVUhMVFZxMUhvaGt5NmNoQ1pIWFF4Q29vVF9WRXZReDF2NWxyWVduNzVRcnZOZTNmcW5WNVlQakdJaWw1RXNLMFFaUy1OdFhFWGNGX3JGRlJ5M2tTemhJMGF2SklaN1E?oc=5",
-   "pub": "Wed, 18 Nov 2026 05:42:44 GMT"
   },
   {
    "t": "US-Senat: Keine Mehrheit für Resolution gegen Trumps Iran-Kurs - derStandard.de",
@@ -94,9 +79,24 @@
    "pub": "Thu, 19 Nov 2026 20:16:00 GMT"
   },
   {
-   "t": "Restriktive Haltung der Fed belastet Silber zusätzlich durch stärkeren US-Dollar und die Risikostimmung - Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamRObXEwMlVPcXByaW5vMExXbS1zeXhhNVVZejJkdDJEMlhqRTQxSXJOemZJYnBtWmVUY3VDa0o3TzRPaTEzbGEtSWg1R0k1OTRESWFYVnZiSmdZN1l3TmRIMVlzSW9CWjdfaEY5ekxUOVJJdHU1Q1BvRzhoUDJkTTRObE1uRXg3VDJwNU1MZUNpQ3N6MVJZbEdB?oc=5",
-   "pub": "Thu, 19 Nov 2026 18:07:38 GMT"
+   "t": "Iran: Anwälte unter zunehmendem Druck - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56Z1VlZFBKTFlBcmJtTlRsQXRlczl2UGI5TVhRSnBCbjg3LVR1aHVFR1Z2Q2JaYVRQRUZ0aWRVd3JfOGN6Rng4b0RMbGI2eUc0Q2VtRjd3TDl5eEgybDFNbFRhb0tHWlZoTHQ5ZWRzSW1xZm9fRzdjX09PM2J4MUnSAX9BVV95cUxPVkJ1Qkp6dnBSLVpsVFBSSVVYRDhJOS1QWndHZ1Q1ZlJxcFhmSzNJYTRrdFlLUTN1X2I5WV8xR3RoaEt2akhLOTVjekNHM01UZzBsOFNOaThUNHNZZlpxMllKd19xREwzTFVCeHQ1Q3hXWmdrTUYxTVhlSkNVX3hV?oc=5",
+   "pub": "Thu, 19 Nov 2026 12:39:26 GMT"
+  },
+  {
+   "t": "Giftgas- und Biowaffen-Einsatz? Trump droht Iran mit Auslöschung - Berliner Morgenpost",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkhaZWNtbHU1UlJZWU5MSEdLYmlJV1A5Y291TWx4T2JzaElZMzJzTGgySE05N0xIdm1uamZxS2lvdTVEdzJHUGJMaVpzRlJKOW9GZ1JldW9CNFpnS0ZNQ0ZfVHA1TjJfQXpZd0pUcXVHWm5JeUFBU3ZmbVFhUkdkNlVZWFlXZ29qNTItdXJuNzB4amZRNlhFUTVWaVJOX2RFZFYtbG5jNlFrY0dFNmlfbTBpV2J5Qlhac2lV?oc=5",
+   "pub": "Thu, 19 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "t": "Iran meldet US-Luftangriffe auf Insel Qeschm im Persischen Golf - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVEwzeEkwNV9vWFlGNDF0RHItaXkxNGNwM2JlTTdEV0F0WDZtV05tbnZic1p3ajdZMjEyaTg1S1hkVUhMVFZxMUhvaGt5NmNoQ1pIWFF4Q29vVF9WRXZReDF2NWxyWVduNzVRcnZOZTNmcW5WNVlQakdJaWw1RXNLMFFaUy1OdFhFWGNGX3JGRlJ5M2tTemhJMGF2SklaN1E?oc=5",
+   "pub": "Wed, 18 Nov 2026 05:42:44 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Sicherheitsexperte zu Gefahren für die USA und Europa - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpGN0wwYmNBOGJqTE9LNms0TndCTzM0dE9mNkIwU1BjRi1jQTI3QmdDX3haTjdqeGRSYUFlNXM1TTU3OTd1ODFQeU1DZ0pDdTZ3YW92WFE1d3IzYzIzX1Z2Rm16dzdEdEx3ZkV2Nzh0ZW83dFdLejR1SEZyVjRKUk0xSQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 20:56:00 GMT"
   },
   {
    "t": "Wegen Iran: Trump stellt Vance als Nachfolger infrage - Jüdische Allgemeine",
@@ -104,9 +104,9 @@
    "pub": "Thu, 19 Nov 2026 11:12:00 GMT"
   },
   {
-   "t": "Iran-Krieg: Sicherheitsexperte zu Gefahren für die USA und Europa - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpGN0wwYmNBOGJqTE9LNms0TndCTzM0dE9mNkIwU1BjRi1jQTI3QmdDX3haTjdqeGRSYUFlNXM1TTU3OTd1ODFQeU1DZ0pDdTZ3YW92WFE1d3IzYzIzX1Z2Rm16dzdEdEx3ZkV2Nzh0ZW83dFdLejR1SEZyVjRKUk0xSQ?oc=5",
-   "pub": "Tue, 17 Nov 2026 20:56:00 GMT"
+   "t": "Krypto ohne Fed-Rückenwind: Was Bitcoin, Ether & Co. aus dem Tief holen könnte - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnZTakM1aFZvVjNzak1PbUhYSGwtdFJZdmd0QWZEZ1BpN2FKZHdVV3R6V0JBNnZBa0h6UHdtME1aMEpzdFE2QlU5dTMyU25TQWVKVzF1ZUhvRHlSNFNQSXhYdmVNQ3owc2g1c2ZhZTcwVVZ2UmpYWG12WVFXbno3NWhJZDJWMGJkSUY4SC04V3RMcDZxbEtUMkRYOW1YQU1zYlJRMTF5dzY0Ym5kaElGenotMm5TYXdJWm9ESjhEZjlmZThOT2xpUVRFcl9rQnB4R1E2MDVpdGVoMnp6MXZtV2tDbkNoQzlEaEFpWnU3SQ?oc=5",
+   "pub": "Thu, 19 Nov 2026 21:12:11 GMT"
   }
  ]
 }
