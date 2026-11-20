@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-20T12:55:48Z",
+ "collected_at": "2026-11-20T21:07:09Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8405,
-   "chg1d_pct": -0.35
+   "price": 0.84,
+   "chg1d_pct": -0.41
   },
   "USDJPY": {
-   "price": 158.803,
-   "chg1d_pct": -0.36
+   "price": 158.54,
+   "chg1d_pct": -0.53
   },
   "GBPCAD": {
-   "price": 1.8746,
-   "chg1d_pct": -0.48
+   "price": 1.8771,
+   "chg1d_pct": -0.35
   },
   "AUDJPY": {
-   "price": 105.813,
-   "chg1d_pct": -1.09
+   "price": 104.836,
+   "chg1d_pct": -2.0
   },
   "EURUSD": {
-   "price": 1.0981,
-   "chg1d_pct": 0.08
+   "price": 1.0965,
+   "chg1d_pct": -0.06
   },
   "GBPCHF": {
-   "price": 1.1013,
-   "chg1d_pct": -0.67
+   "price": 1.0985,
+   "chg1d_pct": -0.93
   },
   "WTI": {
-   "price": 82.4,
-   "chg1d_pct": -0.97
+   "price": 83.89,
+   "chg1d_pct": 0.82
   },
   "BRENT": {
-   "price": 89.38,
-   "chg1d_pct": -2.83
+   "price": 90.18,
+   "chg1d_pct": -1.96
   },
   "GOLD": {
-   "price": 3570.8,
-   "chg1d_pct": -3.11
+   "price": 3518.9,
+   "chg1d_pct": -4.52
   },
   "SPX_FUT": {
-   "price": 7124.75,
-   "chg1d_pct": -1.01
+   "price": 6909.5,
+   "chg1d_pct": -4.0
   },
   "NAS_FUT": {
-   "price": 26092.0,
-   "chg1d_pct": -1.91
+   "price": 25023.75,
+   "chg1d_pct": -5.93
   }
  },
  "headlines": [
@@ -54,9 +54,34 @@
    "pub": "Fri, 20 Nov 2026 11:22:14 GMT"
   },
   {
-   "t": "Netanjahu drängt offenbar auf neue Militärschläge gegen den Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZW5pU2wwTXYxWHZESDVNcUxRUU5oV016S2RDcWJrNjRKMjYzdFNNLUJpbExKUmVyZFpJaFdnSVlDOGdaWTZmb1I4OFdPbXZTVFhhRGVIc3FaeFlzYUJhSk5NUmtqZnZaV3YzSDQxQmRnOXI1enlpTnFvbzhtdGlZcWlGdGladWRha25naV9zams4YzJiNjA3cWZ1OThTX3RKaEtWQ1NCVWtIOHNiMFN5Ng?oc=5",
-   "pub": "Fri, 20 Nov 2026 09:08:00 GMT"
+   "t": "„Auch Brot läuft nicht ab“: US-Marine feuerte im Iran-Krieg veraltete Raketen ab - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXdCenBLRW9uYTBCVks2UFAtWE9OUHdwck9iY3diTHkyWVNRdkY3YmNmWUYwaW16aU5qbVlUSmlON2hFZmp4UUVPRWR0VVM0cHV3OFVoZGdYM0R3bkJGUEpuaUhXblF4YjFGSGF6c3dFN1k5c1ZIVUxORU9NOFctSFdyOWlvckZtbUkyYkk1LVl2R1pZY0J3YTJDQUVodTkwa1FYbDVLYktjTnRadmVmNDdLLXFjTnJ0VUgySnoyR3JLUkFVNkE?oc=5",
+   "pub": "Fri, 20 Nov 2026 17:13:50 GMT"
+  },
+  {
+   "t": "Ölpreis aktuell: Öl verbilligt sich dritte Woche in Folge - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGprRFhyLVZpVzgxc1ozY1FzWUVvcXBBald2Y3ZsRDFBUG01dm1PeXZJRTZTRmRPZ2VMMXBEN1M4SmxJZzdzbGRMN1NpRm80Z3VDUGVselVBZWw4RktvaGE1V0ZEYmp1VjZQclFZUGRiME9vdS1ZZjNXbzRzR2JRTVRISmtmSmp0Y29PMG4tYUc3NHZudGlYM2tySW5oMk5KSnZZXw?oc=5",
+   "pub": "Fri, 20 Nov 2026 18:31:56 GMT"
+  },
+  {
+   "t": "Israel: Iran produziert wieder rund 60 Raketen im Monat - ESUT - Europäische Sicherheit & Technik",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbjN1dTJjVTlLRzhsVEloSm9PNDlkTFRCRm93akxoUU1Fb0tuNklRV0U0al9vaEdxTDZJTFE1VWx3NzJZeVRCOVFXVFV6MlZVZFNPcFd0RDlBR1FCR09hQnNIMUtzOVBrRWZWZjlWZmlTVTlFd0RUclZBUXNYS3M?oc=5",
+   "pub": "Fri, 20 Nov 2026 12:52:53 GMT"
+  },
+  {
+   "t": "War der Iran-Krieg die Wahlschlappe wert? Vance weicht Reporterfrage auf Pressekonferenz mit Trump aus - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSHhmalo3cFY5LTlqTnRpUGh6NnF4dVFZODQtdzRNWG1KV1lUUUs2Q3Z4OTFka0cwZlFZZlRHSVdjMEc1YUREV0JzcFQ1NVkwSTc3endXanlYNUJIMmt3LWo3dnVZeEFHQWxNdWxQdW9GYlVQa1ZrSlllc3RRNE9zell5REJYYjJtQlcycW1GWkJ3X3oyaktzTERfNVVJMlZOYVhiN3BhLTN4elQxTkNHUFFmUWFremRxQUVuZ0YydkozSG0xMVBobWF0VDAxbHhMNVJtaU9YcnBNQlU2bW5xa3N5bXVDNGRHRWJGRnVCOWRkeFlKUHc?oc=5",
+   "pub": "Fri, 20 Nov 2026 20:34:47 GMT"
+  },
+  {
+   "t": "Nach Intervention: Deutsche Bank kooperiert mit Datenschützern - FinanzBusiness",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zS1lzUTZrS3FYVGF3Nl96d0JRSXJHR0hWRGQzLWxRZ0hsQ2FnMGcwb00zaG1SeGpCdjc0dWwtR2YtQXhUeWJLUzNqN0NUTXEyWUJwYlpKOVFBdGc2SmNGdTVhT1RKTF8xQVZmZHZSdkhndw?oc=5",
+   "pub": "Fri, 20 Nov 2026 13:54:08 GMT"
+  },
+  {
+   "t": "Trump erwägt offenbar neue Großoffensive gegen Iran - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGJTNENlQ2R5X1lIaGxnWUtGZ0xDRFBibjJxd1ZlNk5HTmsyU2FYOWkzUDhYU2J4a0R4dlBRODdyU2IxSEptUUxBTVgwWmx2X0J1NU90YVpHYkZqa3lqRDNxV3lNVC1vM2hiZmVjN0hIQW5ndElYLVIzWk5OdF9hbWlKVDhyRGN0ZEFIX3l4MXk1bV9KZFdlTThVLVdQc0E?oc=5",
+   "pub": "Thu, 19 Nov 2026 08:02:00 GMT"
   },
   {
    "t": "Iran meldet Explosionen an drei Schiffen, Energieagentur rechnet mit anhaltender Krise - Spiegel",
@@ -64,19 +89,9 @@
    "pub": "Thu, 19 Nov 2026 10:11:00 GMT"
   },
   {
-   "t": "Kein Wort zu Ukraine und Iran Die Abschlusserklärung zum Gipfel von Putin, Trump und Xi im Wortlaut - Tagesspiegel",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY2xrNDZ5SlV5MEpxcmQxNXRPUkh3NzlNaU1CU25NdkM3NUpGOWpEUC15VnVnT0RLa1haN0I3TXB1OFFZN0ZtRDVJeE1BQUxicGdfMHk5QXBXcTNvRHd5Q2FjUkwwMHZBMWcyclYtaTQxN3NrM2VFamt4SjVXektrM1JFMFVGMmRTZHhpdVVHOUd2WlpQUVdLT1Q4RTBGSDlJbHdsb1F2cVhXU3AzM04yQ2xTYVIwNnZTZGlWcjhtclo4NXh3Y3dGUmRpbnIwb2owTEpxVE1oYklvSExjU3JROTIyR2lHMHBQcWxRVm9PSU9hdjB3?oc=5",
-   "pub": "Fri, 20 Nov 2026 06:15:00 GMT"
-  },
-  {
-   "t": "Resolution gegen Trumps Iran-Kurs scheitert in US-Senat - ORF",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OZzVfWkZiSkFJdEdwcUwta01iZVhXZ0FNOGctX2oxR2MzT21vUko0cHQ4WU9ieUpTLXR2T1VvTTN4MmFtMUE?oc=5",
-   "pub": "Thu, 19 Nov 2026 20:23:32 GMT"
-  },
-  {
-   "t": "Lufthansa plant Abbau von 1.000 Stellen in Frankfurt und München: Iran-Krieg bremst Sanierung - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV3dzcW55YWdYcGd1S2xRM3RNWV9lX3RnamhzMlFZY1MzWF9HMlM0ZFlCMmRtM0xPR1AwOVZ5TUlfSzBYYTdzN0xUbXlNNlhlRUV0TnppSjJhN3BTTE5qVWlveFE1bTZIbDNVQUVGS3R5bTdxQklzazh5b1VJdXIydWQ4RkNFNXdIdFBGZjE0UU5Zd2VsZGRPeHRGaDBaVWJfdF80bzVDUjNJS1NEZHJ2ZEtrSXV6UFNYUG80Qk1ZeFpTOGc?oc=5",
-   "pub": "Fri, 20 Nov 2026 11:36:23 GMT"
+   "t": "Deutschland und Katar: Iran-Konflikt diplomatisch lösen - Panorama - SZ.de - SZ.de",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1FOZHhCem5pTEU0aWFhODBHbHNyWkxBVTdBTnVEUHRvOTB2T0lpbVkxX2hQV0N0ZXdEZWtxWTR4Y25KbDhKMHc4eU54ekZTZ3k0Y19mbUV1eHRPTzZwc2JXWnRGTnRkcmJ5Z2c4MmJoZl8yRkRmdFkxbG5tX0JwX2dLc1Yyd01YSlBmTVgyTTQ4VmNBdzgyNlhucUljWmZWV3JCQ2lB?oc=5",
+   "pub": "Fri, 20 Nov 2026 17:30:30 GMT"
   },
   {
    "t": "„Wir werden sie auslöschen“: Trump behauptet, Iran arbeite an Biowaffen – und droht mit Vergeltung - Frankfurter Rundschau",
@@ -84,29 +99,14 @@
    "pub": "Thu, 19 Nov 2026 07:54:00 GMT"
   },
   {
-   "t": "Fed beendet Phase des leichten Geldes: USD steigt, Gold und Bitcoin-Kurs fallen - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5aEpOV1BSaFRGZG1jZjNHS1VLZUxLaEhCcUNPVjNoaXF1Q251X2l2S3R4cGlMV1JJMlhIQWd6Nkd5dERnTEV6TjJmNzNDMWdZTmhaS0Vrbk8tV0djU2FpamQ2d3A2ZEFHbTlWNEkzVDU5N1ZVM2NySQ?oc=5",
-   "pub": "Fri, 20 Nov 2026 08:55:00 GMT"
+   "t": "Dollar schwächer, da die von der Fed angeheizte Rallye ins Stocken gerät; niedrigere US-Renditen stützen den Yen - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsQkt3X3dKTUdCa2pMd3pSMlIyZlE2cG1QaGxldFpiektFY21OV2x5c1VUNkFIa3VSbDJIV2RGNmRVMnUxTmFXY0RTWTgwSjlva01xdGJYeFdSTEVFaFB5MXRJSG1ka0dTMFJ0eDVHN2d6dGx3d0N3?oc=5",
+   "pub": "Fri, 20 Nov 2026 20:08:51 GMT"
   },
   {
-   "t": "Fed-Sitzung im Oktober: Zinspause jetzt, höhere Zinsen später? - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0lQUHRFNk5keEZfS3JiUlQ0WUdvTGh1Q2cxejB2Y3JyOFVobDVmUHROM2NJbGQ3OC1qQzB3TG5lRVRtSTROUDRESTVjWWpzcC14ZTlOaWlTQUtmQ0t1Y21tdnlSc1Bxd2h3cHdVaWQxdnZ5dnJXMnhsS1ljVGF2cWRBSzcyMmdVTTd1Vi1hNFJNVGpFTWloSXhqMVlwdXMxYWFackdPYVAwWlJ5aWFtUUJrR3U4dnBmcDBhOGtuU0RfMGM?oc=5",
-   "pub": "Thu, 19 Nov 2026 08:13:00 GMT"
-  },
-  {
-   "t": "Fed-Termine 2026/2027: Alle FOMC-Sitzungen und Zinsentscheide - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNE9OY0dvUGN3SW81bkdaWXI4SEdGSmVFcld5SHRzT20wOHVhM0YyYUZqZEw0UFV0a2g2Y3E4Rk1zWWh5am95SlRYeVVDZkZZNXJUVzBvMTF3aGNOLTRuTnZFbHJReGdpSWJiQUNmQWdmWXZtcTh6Q0Y5N1liYlBBSGVYaUx6ZjNhMUk2ektKeEcxUk1VNXI3TElKUmxScDgwYUliOGdoekEzMlIx?oc=5",
-   "pub": "Wed, 18 Nov 2026 20:00:00 GMT"
-  },
-  {
-   "t": "Giftgas- und Biowaffen-Einsatz? Trump droht Iran mit Auslöschung - Berliner Morgenpost",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkhaZWNtbHU1UlJZWU5MSEdLYmlJV1A5Y291TWx4T2JzaElZMzJzTGgySE05N0xIdm1uamZxS2lvdTVEdzJHUGJMaVpzRlJKOW9GZ1JldW9CNFpnS0ZNQ0ZfVHA1TjJfQXpZd0pUcXVHWm5JeUFBU3ZmbVFhUkdkNlVZWFlXZ29qNTItdXJuNzB4amZRNlhFUTVWaVJOX2RFZFYtbG5jNlFrY0dFNmlfbTBpV2J5Qlhac2lV?oc=5",
-   "pub": "Thu, 19 Nov 2026 04:00:00 GMT"
-  },
-  {
-   "t": "Trump erwägt offenbar neue Großoffensive gegen Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGJTNENlQ2R5X1lIaGxnWUtGZ0xDRFBibjJxd1ZlNk5HTmsyU2FYOWkzUDhYU2J4a0R4dlBRODdyU2IxSEptUUxBTVgwWmx2X0J1NU90YVpHYkZqa3lqRDNxV3lNVC1vM2hiZmVjN0hIQW5ndElYLVIzWk5OdF9hbWlKVDhyRGN0ZEFIX3l4MXk1bV9KZFdlTThVLVdQc0E?oc=5",
-   "pub": "Thu, 19 Nov 2026 08:02:00 GMT"
+   "t": "Iran-Krieg: Sicherheitsexperte zu Gefahren für die USA und Europa - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpGN0wwYmNBOGJqTE9LNms0TndCTzM0dE9mNkIwU1BjRi1jQTI3QmdDX3haTjdqeGRSYUFlNXM1TTU3OTd1ODFQeU1DZ0pDdTZ3YW92WFE1d3IzYzIzX1Z2Rm16dzdEdEx3ZkV2Nzh0ZW83dFdLejR1SEZyVjRKUk0xSQ?oc=5",
+   "pub": "Tue, 17 Nov 2026 20:56:00 GMT"
   }
  ]
 }
