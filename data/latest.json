@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-21T17:58:29Z",
+ "collected_at": "2026-11-21T23:19:16Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,19 +49,24 @@
  },
  "headlines": [
   {
+   "t": "„Die Explosion ließ das Meer schaukeln“ – Umweltschützer schwimmt durch Straße von Hormus - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRlh4OHhLSTh1SW4xSXVydm1wNU55TFRKWXRzTWg5UVR1VzJLY1lSYzRCNFdnbFd0V1R1bFNQMGZlX0hsaVBYbzZYdEd2WG9kWUZsM2RGcDFnalRQSHRjTnFJeGgzQXFUWnk5Yk9Oc091OUg4Z0R5U0NsOFZWY3BJMXdDM09PanFueXhiblNfQm0tZEhINExSRlZvelViMGtxbzRoeGlDUXZmUVZEYnV1T0toZFYxU2RTbm5udi16UUpWaTBNYVZfd3FfMWJwcmFXOU05UnhMd2UwT19qNHdXRjdMb2lTNHlXUWdiMmVJRFotMWhld2xfVFQyTGQ?oc=5",
+   "pub": "Sat, 21 Nov 2026 21:33:06 GMT"
+  },
+  {
    "t": "Trump verteidigt Putin-Beziehungen und wirft Iran Unehrlichkeit in Verhandlungen vor - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3lVc2JvLU9HMVZpQTIzVkF6ZzdLX3dFUXBWbmx1bzEzWjg2ZkFHMnVUekZUc3p2NUNSUHZmaTRhMEMzN0VTQXVSdW8yLWxvSENad1Z5VmJvWlNvY2VOX1Q5a3hzeDdCakY0akFCdEdZaGR5TjhTWm41VlFBQXpEUGRDN242OF9STDRjbEVZZkd0VWpkWDE1dnpRNXZyYncySFRZQ0pNRFppVVF1UE9yc3VDTVJHcWN6Q2tr?oc=5",
    "pub": "Sat, 21 Nov 2026 13:01:20 GMT"
   },
   {
-   "t": "Mit Paragrafen gegen Raketen eine israelische Stadt verklagt den Iran - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tYXRiZkJtMjV6aDM4TGYzTnBGMVJBeW9VcXg3UFJFbU9xa3pyUDBpX0pKckJZMHlsdUlsakpLY2JOZDM1Vlk1N3lfaU5fc1lkWm4yMmZ0WVZYYnh2TWVISVB0ZWM0OW9keGJkNWdR?oc=5",
-   "pub": "Fri, 20 Nov 2026 22:44:04 GMT"
-  },
-  {
    "t": "Druck und Hinrichtungen: Saudi-Arabien verschärft Vorgehen gegen Regimekritiker - DW.com",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakVpalBlR3JuQlNGZ1hfVkE1WnFkc1dKSU5TUmJIU1oyNHZoRnF5M3NxRzI5Z0ZkZnU5RFViNHdScFhJTnN4RmNweXhCUWI0VXNtSDcwVjdSa0VQQkZoeUhUOTc1eWZULWt3TlFWdjU4RFd3T3FrcC1IZzB1MFBMZHl5YU1CSUF0RkZqT2RhTHlUOWMyNGc40gGXAUFVX3lxTE03bGF6bWlDYmpVYldhU2hpSGttdkNSZ0hja1JEMDdrT0RsMVkwQzRrckhjcTBLWkZGTzZ3aHVuUUtyVDUtR3h0VUdtWnNuNlhxU1k1c0Y0aGlfRGxkZGsxWHJtLXVqVGtEWkFRZmJuZzZ2YVZIbzNXVzVneWxxeEtkc1hiU1JzLV8waDNSODNrMlpHZkJUcHM?oc=5",
    "pub": "Sat, 21 Nov 2026 05:20:50 GMT"
+  },
+  {
+   "t": "Mit Paragrafen gegen Raketen eine israelische Stadt verklagt den Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tYXRiZkJtMjV6aDM4TGYzTnBGMVJBeW9VcXg3UFJFbU9xa3pyUDBpX0pKckJZMHlsdUlsakpLY2JOZDM1Vlk1N3lfaU5fc1lkWm4yMmZ0WVZYYnh2TWVISVB0ZWM0OW9keGJkNWdR?oc=5",
+   "pub": "Fri, 20 Nov 2026 22:44:04 GMT"
   },
   {
    "t": "Trump erwägt offenbar neue Großoffensive gegen Iran - Jüdische Allgemeine",
@@ -72,21 +77,6 @@
    "t": "Iran meldet Explosionen an drei Schiffen, Energieagentur rechnet mit anhaltender Krise - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPN2MtcExYMEhxUWlPaDctcHlLZWlkaWZOWVMwbV90cldYZ1NMQnNZOXZXelJ5RVVRb3F1cjZscF9DVmhCRkh1N3dwQjJLSWE1ektjMURvbjNaWlBqLUdXYUR2QnZaSDlvd2VrS3pCa1gwWXQ2MXU5cnBaeFA5Xy1JeXh3djU1ZDAxSkh5bzlsYldER0dmRGRBT2hvZVJSWjRRVWdnN0g2WHlsbi1NbG9fYWRxOHluRUJzT01qSG1zNm5OWkhNYW5MeFVQRXluWmhTbjZwS1BndEhWRnZDY3RlUF82dkN0bzFEcTZ3N25RbWM3bHYwb1l3SkxwRXZ2WUtMdnd4Z2JMSTVubHhMUnlyN2RqYw?oc=5",
    "pub": "Thu, 19 Nov 2026 10:11:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg stellt das Gastarbeiter-System in Katar auf die Probe - SRF",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXp5U1RUdEcxVllNVGk0QjNjX2taTUplS2t1b3ZqVEdpeTMwcXluOUN1UURlQWRwcDRKTFRNNWhsbHFZSHZEWFlWSmp0T3hOQTFIcVBkSXV2VGFEdXQ1WTB6SWJoQVNFbWFUdEdOQ2tCVEU4T2pnY0NnWTNYb3VSMzVMQXVtcGtSTVNJcWt4MlJYSzRpemhyTA?oc=5",
-   "pub": "Sat, 21 Nov 2026 16:13:57 GMT"
-  },
-  {
-   "t": "Scott Bessent gegen die Notenbank: Ein Machtkampf mit Folgen für die Börse - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTBjaE9PYVhaNFNrRkNxR0U4WjVfMU9ta0h3T2tWcURXSjltUjlWbzg3d2V1SXFSUTE4d0JrbkJOU2JqSU9RaGRJWV9ZclAxTzBZR1I5eXpPa05KVk93MEZsXzRqZnlXOFpEZTU1bkZnRkVVRGlnZkw2WUJkYWxVc1l2Z0tpZFoxanp5emRteTgwWm5lbHNRYU5xdEZPU2M3NTFxS0p1U3FnekUxX3UzTXQwZFE5YWh0?oc=5",
-   "pub": "Sat, 21 Nov 2026 10:24:38 GMT"
-  },
-  {
-   "t": "Beyond Oil Aktie: Reicht das Umsatzplus? - Börse Global",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fSjdXbGFrVVZDcHhSMjF4ak5pVDdOdDJLT3g0cDFPTGQzczRvVk03SWpEWmpzbV95TWpxdzY0NnRIMFRYRnFuY05WTnFUbGhta2E5Qnk0ajNrNEpqeE1wb3IzdzUyOUtfZ0xIVlZ5eWk3YzNwbHlpRU00di00OU0?oc=5",
-   "pub": "Sat, 21 Nov 2026 16:08:23 GMT"
   },
   {
    "t": "„Auch Brot läuft nicht ab“: US-Marine feuerte im Iran-Krieg veraltete Raketen ab - Berliner Zeitung",
@@ -102,6 +92,16 @@
    "t": "Giftgas- und Biowaffen-Einsatz? Trump droht Iran mit Auslöschung - Berliner Morgenpost",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORkhaZWNtbHU1UlJZWU5MSEdLYmlJV1A5Y291TWx4T2JzaElZMzJzTGgySE05N0xIdm1uamZxS2lvdTVEdzJHUGJMaVpzRlJKOW9GZ1JldW9CNFpnS0ZNQ0ZfVHA1TjJfQXpZd0pUcXVHWm5JeUFBU3ZmbVFhUkdkNlVZWFlXZ29qNTItdXJuNzB4amZRNlhFUTVWaVJOX2RFZFYtbG5jNlFrY0dFNmlfbTBpV2J5Qlhac2lV?oc=5",
    "pub": "Thu, 19 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "t": "Scott Bessent gegen die Notenbank: Ein Machtkampf mit Folgen für die Börse - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTBjaE9PYVhaNFNrRkNxR0U4WjVfMU9ta0h3T2tWcURXSjltUjlWbzg3d2V1SXFSUTE4d0JrbkJOU2JqSU9RaGRJWV9ZclAxTzBZR1I5eXpPa05KVk93MEZsXzRqZnlXOFpEZTU1bkZnRkVVRGlnZkw2WUJkYWxVc1l2Z0tpZFoxanp5emRteTgwWm5lbHNRYU5xdEZPU2M3NTFxS0p1U3FnekUxX3UzTXQwZFE5YWh0?oc=5",
+   "pub": "Sat, 21 Nov 2026 10:24:38 GMT"
+  },
+  {
+   "t": "Iran-Krieg stellt das Gastarbeiter-System in Katar auf die Probe - SRF",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXp5U1RUdEcxVllNVGk0QjNjX2taTUplS2t1b3ZqVEdpeTMwcXluOUN1UURlQWRwcDRKTFRNNWhsbHFZSHZEWFlWSmp0T3hOQTFIcVBkSXV2VGFEdXQ1WTB6SWJoQVNFbWFUdEdOQ2tCVEU4T2pnY0NnWTNYb3VSMzVMQXVtcGtSTVNJcWt4MlJYSzRpemhyTA?oc=5",
+   "pub": "Sat, 21 Nov 2026 16:13:57 GMT"
   },
   {
    "t": "Iran will ein Ende der Seeblockade erzwingen - FAZ",
