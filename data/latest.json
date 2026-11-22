@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-22T06:52:18Z",
+ "collected_at": "2026-11-22T15:19:46Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
@@ -49,19 +49,54 @@
  },
  "headlines": [
   {
+   "t": "Persischer Golf - Iran greift erneut Bahrain an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dkp3TE5GdHZ0LVI3TENaYXBDa2FFY01nSENRQUxNbDYyVVdqc0VhZWVHaEtfREdOUmQxSm1uaW9DV2xtWGNfaFh1XzNOdTZWTFRsQVBBNFVVZ08yc21JM2NqWDVzRDlPTjE2SFpkRnlodU9LSS1YVA?oc=5",
+   "pub": "Sun, 22 Nov 2026 14:36:13 GMT"
+  },
+  {
+   "t": "Iran greift US-Stützpunkte an - Öltanker durchbrechen Blockade - Euronews",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmw2dy1BazFXNVRFOGZIVFVGU2YyYnRmRVYycUlXZENYRzI0d2o5UXJWcXBjZ0R6NmptRDRYZkN5bmVhb054bW55SnRMUUpPeUtWWENsRDF5d2F3azV2SVdRb2s5ZFhreng2MVZzUXE1a0pZblpWbWxMTTgtRWQtMnFDbUUtTEJWdnphSV9qYnAxYUF5Y1BxNmhYSmRVVnNuUU96Q2QwcmZFdw?oc=5",
+   "pub": "Sun, 22 Nov 2026 13:17:11 GMT"
+  },
+  {
+   "t": "„Unser Schweigen ist keine Zustimmung“ – im Iran stellt sich jetzt eine entscheidende Frage - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdldqVDNvSmgxQjJFVzlMdHVNLVNxNkhsdVltNEZpZWJSTWNFcTAwZnVHcEVIWVU4MWRtMlVOS24wVzdwM0xJMm56THVCTVR5WDdMT2I1LVVXaVhjMVZsMlZuaXNlcUktRndXX3VQOFlyYkJlaWN1YlJoa0t0U090czFWMTlJTkpBcWIwRlRkLVJpcjJxcEdiRGhtN1FZUUZ4ZWVvYTUyYU05RkQ4SkpjSXE2TV9pVXlDNTVpb1E0YVBldjZXckhWbkFZZkYyUTVKbzFicy00cjJ2WGZjdzJtN1h0bWN6N2VYV3R5Zi1kRjlUc2hyYTA0NXFnNFVsQQ?oc=5",
+   "pub": "Sun, 22 Nov 2026 12:56:39 GMT"
+  },
+  {
+   "t": "Iran will wieder Öl nach China liefern – USA drohen Tankern mit Militärgewalt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZldkNVBsMHdDM2hlRmNid1laeDM1Z0ZFZko5c1gzUHBacXBFRkUzSHVfcncxcXI1enNkMFY5dFh0Y09TYjBGbFhhQWdENVk3V1hEVXVQQXBEWlpaZmxMMU54M185X010M0xIMjJicURyUTlscFBUQmxlZWtBUGM2VmlJU2tWM29ZbFRmVDFVajl5NnBHS1hGV21CZm5OSTloSzlZbWFNTFYtOWJYVUE?oc=5",
+   "pub": "Sun, 22 Nov 2026 07:58:58 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Zwei Radrennen am Golf fallen aus - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRldmWnUyZlYxRXpucmlRNzM4VEF3YU9RSjc5ZHpsd1JUU0dwekNUcEhiQ1ZmTllpMVVYbG0wclhKSEhvSnRzeEpXMDJDanpiOG1jUVQyR1BTLUNNaFpWUEZsamtlbDJqd25Dc3MxWW9WZkhnRVJwVFZQOEFZVkNhOHhiVkx0MTRuZ19nSnNYZFY3ei1ZU3l3d0YzNA?oc=5",
+   "pub": "Sun, 22 Nov 2026 15:09:00 GMT"
+  },
+  {
+   "t": "Mit Paragrafen gegen Raketen – eine israelische Stadt verklagt den Iran - tagesschau.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzeFpVSFVpajFvMEdmYW1PazItSmJ2alJnQ24zWk1sU0JZbFFvbFJXa3NVX1JtaXptSWw1RW9SWThhWFRmSlY0MzFQaXJwYmUxanZzREtRZ09BUDhNdkNQWF9NS1BkTjZSMkdQVWRR?oc=5",
+   "pub": "Sun, 22 Nov 2026 08:36:35 GMT"
+  },
+  {
+   "t": "Trump und Netanjahu wanken, Teheran jubelt: Doch die neuen Gegner könnten noch härter sein - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT21mNEFpRUJzVVlMaVhRdmM0N1BzaVhlOTZUSy0xUmtSLXFtUGtZa1cwRV92UG1lMTh2TzlseU1TOFQ4aVZBUGNCMlAwZXZZR2hNTHBNdVlRNDJjU2xkQzY2SUNtQzNlV1VGZ2xmNWpEWmswc2RRMm1GVXlDa0ZEZ3ZZcTRfQmtFUUR4bWdHVkNWM0E1WFBpWWZibVZ5emhYcFQtblBIY2lqUzV5MEE2NVlXZUYzWmUxQUNLS3VaRVdYMzNoZ19lRE9mMkVVczJwaktlT05R?oc=5",
+   "pub": "Sun, 22 Nov 2026 05:00:00 GMT"
+  },
+  {
+   "t": "Iran bereitet Tankerkonvoi vor, um US-Ölblockade zu testen - IDNFinancials",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONk5mNGhfNWlHdXdNbzU0SE50MExsOVkwRVNJX2tRTzFYS1RVZmdqZ0lFdmJrWElSOFhRV1RpVTNXc2g4VWg2cnJnTEpnZHRWNDhKSHo4VHl0X0JJT2RjeGtHQWMxX3FicVczRDBqRHFUMnFWT2s3cUJHYWtzSlNWcjdHNFF4SGFFVEtRekJLand4VW5neWQ1WW5OdXJDcEV6UXZVZWJBMWxVdw?oc=5",
+   "pub": "Sun, 22 Nov 2026 10:00:00 GMT"
+  },
+  {
+   "t": "Angriffe auf Schiffe und Stützpunkte: Iran lässt die Lage am Golf eskalieren - Neue Zürcher Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb25WdnJ5UkJ4cFNMWWZtM01YX3dmTlU4ZXg2UUFBQnNxUmtDVUgxMGdxWTdPYVRqcHNva3RIYmduTTEwTkszZUFSS3NtajV6cW5abmhsaXI3TkdYRG53OGFRdmY3R0h0dEZBN21BWndobTdMUjN5VnR4dUJINnEyV2U1ekl2d2tXRjg4U1FYRE42S1N0Z3BGQkRiNEtvMFZ5ODVGallTV0lONUduU0hCY2I2MnVZWHRQNktOYQ?oc=5",
+   "pub": "Sun, 22 Nov 2026 09:43:53 GMT"
+  },
+  {
    "t": "„Die Explosion ließ das Meer schaukeln“ – Umweltschützer schwimmt durch Straße von Hormus - WELT",
    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRlh4OHhLSTh1SW4xSXVydm1wNU55TFRKWXRzTWg5UVR1VzJLY1lSYzRCNFdnbFd0V1R1bFNQMGZlX0hsaVBYbzZYdEd2WG9kWUZsM2RGcDFnalRQSHRjTnFJeGgzQXFUWnk5Yk9Oc091OUg4Z0R5U0NsOFZWY3BJMXdDM09PanFueXhiblNfQm0tZEhINExSRlZvelViMGtxbzRoeGlDUXZmUVZEYnV1T0toZFYxU2RTbm5udi16UUpWaTBNYVZfd3FfMWJwcmFXOU05UnhMd2UwT19qNHdXRjdMb2lTNHlXUWdiMmVJRFotMWhld2xfVFQyTGQ?oc=5",
    "pub": "Sat, 21 Nov 2026 21:33:06 GMT"
-  },
-  {
-   "t": "Trump verteidigt Putin-Beziehungen und wirft Iran Unehrlichkeit in Verhandlungen vor - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3lVc2JvLU9HMVZpQTIzVkF6ZzdLX3dFUXBWbmx1bzEzWjg2ZkFHMnVUekZUc3p2NUNSUHZmaTRhMEMzN0VTQXVSdW8yLWxvSENad1Z5VmJvWlNvY2VOX1Q5a3hzeDdCakY0akFCdEdZaGR5TjhTWm41VlFBQXpEUGRDN242OF9STDRjbEVZZkd0VWpkWDE1dnpRNXZyYncySFRZQ0pNRFppVVF1UE9yc3VDTVJHcWN6Q2tr?oc=5",
-   "pub": "Sat, 21 Nov 2026 13:01:20 GMT"
-  },
-  {
-   "t": "Persischer Golf - Iran greift erneut Bahrain an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dkp3TE5GdHZ0LVI3TENaYXBDa2FFY01nSENRQUxNbDYyVVdqc0VhZWVHaEtfREdOUmQxSm1uaW9DV2xtWGNfaFh1XzNOdTZWTFRsQVBBNFVVZ08yc21JM2NqWDVzRDlPTjE2SFpkRnlodU9LSS1YVA?oc=5",
-   "pub": "Sun, 22 Nov 2026 04:55:02 GMT"
   },
   {
    "t": "Mit Paragrafen gegen Raketen eine israelische Stadt verklagt den Iran - tagesschau.de",
@@ -72,41 +107,6 @@
    "t": "Iran will ein Ende der Seeblockade erzwingen - FAZ",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1o5dXEwaUZjVXNPcktsRERfczRYQS1WcGVvLWF5QzUtUXU0TFJVdjZwMDlXbTlIaVhqQjE0NW8zQzRWR2dOSHNaVEFmblJnUU52SVl2WG82SW1nMkxHNjhDN0pSS0RZWnNnRW9NZ250Q0dmRmtDVkMzZU8zVEcxc1EzTGtVeWVxaXN5UDJuM0JHQnZVWXJQUnBURjVZcklvTGRLR1F4TQ?oc=5",
    "pub": "Fri, 20 Nov 2026 11:22:14 GMT"
-  },
-  {
-   "t": "Trump erwägt offenbar neue Großoffensive gegen Iran - Jüdische Allgemeine",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGJTNENlQ2R5X1lIaGxnWUtGZ0xDRFBibjJxd1ZlNk5HTmsyU2FYOWkzUDhYU2J4a0R4dlBRODdyU2IxSEptUUxBTVgwWmx2X0J1NU90YVpHYkZqa3lqRDNxV3lNVC1vM2hiZmVjN0hIQW5ndElYLVIzWk5OdF9hbWlKVDhyRGN0ZEFIX3l4MXk1bV9KZFdlTThVLVdQc0E?oc=5",
-   "pub": "Thu, 19 Nov 2026 08:02:00 GMT"
-  },
-  {
-   "t": "Iran meldet Explosionen an drei Schiffen, Energieagentur rechnet mit anhaltender Krise - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPN2MtcExYMEhxUWlPaDctcHlLZWlkaWZOWVMwbV90cldYZ1NMQnNZOXZXelJ5RVVRb3F1cjZscF9DVmhCRkh1N3dwQjJLSWE1ektjMURvbjNaWlBqLUdXYUR2QnZaSDlvd2VrS3pCa1gwWXQ2MXU5cnBaeFA5Xy1JeXh3djU1ZDAxSkh5bzlsYldER0dmRGRBT2hvZVJSWjRRVWdnN0g2WHlsbi1NbG9fYWRxOHluRUJzT01qSG1zNm5OWkhNYW5MeFVQRXluWmhTbjZwS1BndEhWRnZDY3RlUF82dkN0bzFEcTZ3N25RbWM3bHYwb1l3SkxwRXZ2WUtMdnd4Z2JMSTVubHhMUnlyN2RqYw?oc=5",
-   "pub": "Thu, 19 Nov 2026 10:11:00 GMT"
-  },
-  {
-   "t": "Druck und Hinrichtungen: Saudi-Arabien verschärft Vorgehen gegen Regimekritiker - DW.com",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakVpalBlR3JuQlNGZ1hfVkE1WnFkc1dKSU5TUmJIU1oyNHZoRnF5M3NxRzI5Z0ZkZnU5RFViNHdScFhJTnN4RmNweXhCUWI0VXNtSDcwVjdSa0VQQkZoeUhUOTc1eWZULWt3TlFWdjU4RFd3T3FrcC1IZzB1MFBMZHl5YU1CSUF0RkZqT2RhTHlUOWMyNGc40gGXAUFVX3lxTE03bGF6bWlDYmpVYldhU2hpSGttdkNSZ0hja1JEMDdrT0RsMVkwQzRrckhjcTBLWkZGTzZ3aHVuUUtyVDUtR3h0VUdtWnNuNlhxU1k1c0Y0aGlfRGxkZGsxWHJtLXVqVGtEWkFRZmJuZzZ2YVZIbzNXVzVneWxxeEtkc1hiU1JzLV8waDNSODNrMlpHZkJUcHM?oc=5",
-   "pub": "Sat, 21 Nov 2026 05:20:50 GMT"
-  },
-  {
-   "t": "Iran droht mit Raketenangriff auf britischen Stützpunkt - ESUT - Europäische Sicherheit & Technik",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNWlhLb2txWTNrUXJ1dUY3NVVIcFZtZ3loSHlsTXZpdFRMZ01qY2NyWTlhR0RRd2FXQmI4cElwN0pKRVFhZWFNV1BtQ0oydWZnSEtJTGFDcExiU2dTTERqUmhHenJ4eEpwYUFOaUtLREcwRFo3YmJEeXJ4SVphN3M?oc=5",
-   "pub": "Mon, 16 Nov 2026 16:06:54 GMT"
-  },
-  {
-   "t": "„Auch Brot läuft nicht ab“: US-Marine feuerte im Iran-Krieg veraltete Raketen ab - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXdCenBLRW9uYTBCVks2UFAtWE9OUHdwck9iY3diTHkyWVNRdkY3YmNmWUYwaW16aU5qbVlUSmlON2hFZmp4UUVPRWR0VVM0cHV3OFVoZGdYM0R3bkJGUEpuaUhXblF4YjFGSGF6c3dFN1k5c1ZIVUxORU9NOFctSFdyOWlvckZtbUkyYkk1LVl2R1pZY0J3YTJDQUVodTkwa1FYbDVLYktjTnRadmVmNDdLLXFjTnJ0VUgySnoyR3JLUkFVNkE?oc=5",
-   "pub": "Fri, 20 Nov 2026 17:13:50 GMT"
-  },
-  {
-   "t": "„Wir werden sie auslöschen“: Trump behauptet, Iran arbeite an Biowaffen – und droht mit Vergeltung - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmlnR0Y0bzJVSWZ2VE9ZTDVvMXZtR0d1UWxFenIxU1lwY29VcjZlNUpyY0xZb0lTNy1JSUl5M0Y3T0hWbFBIeWdVT090OVcyb2hScEgzQzE0djYzVE5na0lzWTlYejlqVDlxZzVubHpMQnJyeUJUcDNQYWwtamNSV041b0w1a0NlTVhGRUM0bjY4QV9RdElON2hKdGZZSmxfMlNEYWtGbUQyX2Fw?oc=5",
-   "pub": "Thu, 19 Nov 2026 07:54:00 GMT"
-  },
-  {
-   "t": "Iran-Krieg: Sicherheitsexperte zu Gefahren für die USA und Europa - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFpGN0wwYmNBOGJqTE9LNms0TndCTzM0dE9mNkIwU1BjRi1jQTI3QmdDX3haTjdqeGRSYUFlNXM1TTU3OTd1ODFQeU1DZ0pDdTZ3YW92WFE1d3IzYzIzX1Z2Rm16dzdEdEx3ZkV2Nzh0ZW83dFdLejR1SEZyVjRKUk0xSQ?oc=5",
-   "pub": "Tue, 17 Nov 2026 20:56:00 GMT"
   }
  ]
 }
