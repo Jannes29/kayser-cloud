@@ -1,55 +1,112 @@
 {
- "collected_at": "2026-11-23T02:47:10Z",
+ "collected_at": "2026-11-23T12:48:44Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8396,
-   "chg1d_pct": -0.53
+   "price": 0.8395,
+   "chg1d_pct": -0.54
   },
   "USDJPY": {
-   "price": 158.894,
-   "chg1d_pct": -0.51
+   "price": 159.003,
+   "chg1d_pct": -0.44
   },
   "GBPCAD": {
-   "price": 1.8785,
-   "chg1d_pct": 0.09
+   "price": 1.8769,
+   "chg1d_pct": 0.0
   },
   "AUDJPY": {
-   "price": 105.416,
-   "chg1d_pct": -0.83
+   "price": 105.207,
+   "chg1d_pct": -1.02
   },
   "EURUSD": {
-   "price": 1.0989,
-   "chg1d_pct": 0.18
+   "price": 1.0936,
+   "chg1d_pct": -0.31
   },
   "GBPCHF": {
-   "price": 1.1008,
-   "chg1d_pct": -0.33
+   "price": 1.0975,
+   "chg1d_pct": -0.63
   },
   "WTI": {
-   "price": 83.08,
-   "chg1d_pct": -1.07
+   "price": 82.12,
+   "chg1d_pct": -2.21
   },
   "BRENT": {
-   "price": 89.59,
-   "chg1d_pct": -3.22
+   "price": 88.5,
+   "chg1d_pct": -4.4
   },
   "GOLD": {
-   "price": 3576.0,
-   "chg1d_pct": 1.72
+   "price": 3622.1,
+   "chg1d_pct": 3.04
   },
   "SPX_FUT": {
-   "price": 7065.25,
-   "chg1d_pct": 1.88
+   "price": 7100.0,
+   "chg1d_pct": 2.38
   },
   "NAS_FUT": {
-   "price": 25671.75,
-   "chg1d_pct": 2.17
+   "price": 25896.5,
+   "chg1d_pct": 3.06
   }
  },
  "headlines": [
   {
-   "t": "RSS-Fehler: HTTP Error 503: Service Unavailable"
+   "t": "Persischer Golf - Iran greift erneut Bahrain an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dkp3TE5GdHZ0LVI3TENaYXBDa2FFY01nSENRQUxNbDYyVVdqc0VhZWVHaEtfREdOUmQxSm1uaW9DV2xtWGNfaFh1XzNOdTZWTFRsQVBBNFVVZ08yc21JM2NqWDVzRDlPTjE2SFpkRnlodU9LSS1YVA?oc=5",
+   "pub": "Mon, 23 Nov 2026 11:11:31 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Trump nennt Verhandlungen „Bullshit“ und rechnet mit Fortsetzung der Angriffe - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY1RwQVNBYWpqOS1YQlhGdHQ1Wjl1WVRTenI4ZXZsMkNncXE3NE5uNjlsQzJYUGdvSnFraUtVdXVtQVlpOFVFR0ZXaVRJbVd3NktlVFE2UE8wVmJ2ODM2S3Fxd1hRcVF2UzdoZ0hlV0dWYXpsMkFiQ1Z4SFcyc2Foc2FWSllSajcxeVRERjN3TzhEMEdsdmlTMzZxV3R4Wk43RXpadGhsdlBPNW5pWkNkcHhDTHF0T2cxWWd0Y18zUjd4R1VFZXVsRUx5Q3ZPRWRXNXhFa1d3RHdQLTNIWW90Z0d0aGVHWDk2NnpBZURUdmg?oc=5",
+   "pub": "Mon, 23 Nov 2026 04:08:04 GMT"
+  },
+  {
+   "t": "„Das ist alles Bullshit“: Trump schimpft über Iran-Gespräche – Netanjahu drängt auf Angriff - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHlsamhtUjRoc1BoV20tMXRuaHRUZlBkekRnUlp5TlloOGswWHRTaUQ3WUZrbE1ncTlmd3Jqc2tfYmd3UXU3YnhSdlJNQjg1akJqWHU3WWw2TWhKQk5EVG80NmlCVlpfcHFUMVRDMkprQnVDa3d5T0lLTDBXUi1ac0V3cHdLajFVTk1yd2szV09PcDB6bHZCUEkxeVVoMzhWOFYtM1gyc1ROdVk?oc=5",
+   "pub": "Mon, 23 Nov 2026 08:49:37 GMT"
+  },
+  {
+   "t": "China wahrt mit Russland, Iran und Nordkorea seine Interessen – und Trump entgeht es - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhLdzJLTTNmOVdTdHVoSnhzazRvSUI0QWtIeEw0X3VLZlRpaDRsWVlyejRIVk0yeDc1TmFwXzZaYm4yVkNGYmdJMjhJMmRzcV9PLVY4Qi15Tmg2aTkzREJwNm9mbXNyTTAxT3N1eFcyeW9CSno0RW5pYU0zWnhuc2c3aFlNT3ZNMEpHS2UyMmRFOTZxV3pqZTA4R3Z4QlFqVzNWTm5abmw0VlBqUEl3ZEloa04wZjY1X0tTeWNxMWpRVTJpX0RBVVhYMWt6UQ?oc=5",
+   "pub": "Mon, 23 Nov 2026 08:02:46 GMT"
+  },
+  {
+   "t": "Riskantes Manöver: Irak will Hisbollah-Miliz Kataib Hisbollah entwaffnen - DW.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1pSNWhvV2FQOWtRV1RNUlFRNlRYT2NMMmVqLU1MRHBRTUZabnpLREtBZ0hYNDZOOGRfLW9xcHp3UGhVWW95LTB6ODRMbmtMQjUyU01uN2lPa2llWE0zcE5faFlUWGllU0g5SVdGZGxlandBa3g1LUlFV2lLZUFfdWk1cUdNZEZxNmpYR256eGJORWRlbno4YjFzSdIBmwFBVV95cUxNSEZZNUZRQ0xubEV0cFlXUHdwMEx2WlhjNjZaWHdjV0RuVG9sNTdTcDZnZFBvMHpPVlN4Qm9kTGE0RmtPQkNjMFBJSXEyeTZNRnR5X0FLSVRyR3lqa0xXWk1pZW1VN0hMWG9LMVRFUGI3UFZZQnAwNlMxLURvNXY2b3UyN1VTMkp5d2dQalJYY3liaXpNRW5TMFBXNA?oc=5",
+   "pub": "Mon, 23 Nov 2026 05:13:15 GMT"
+  },
+  {
+   "t": "Iran greift US-Stützpunkte in Bahrain an - Öltanker durchbrechen Blockade - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmw2dy1BazFXNVRFOGZIVFVGU2YyYnRmRVYycUlXZENYRzI0d2o5UXJWcXBjZ0R6NmptRDRYZkN5bmVhb054bW55SnRMUUpPeUtWWENsRDF5d2F3azV2SVdRb2s5ZFhreng2MVZzUXE1a0pZblpWbWxMTTgtRWQtMnFDbUUtTEJWdnphSV9qYnAxYUF5Y1BxNmhYSmRVVnNuUU96Q2QwcmZFdw?oc=5",
+   "pub": "Sun, 22 Nov 2026 13:17:11 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Anhaltende Lieferungen senken Ölpreis – doch Sorge bleibt hoch - WirtschaftsWoche",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMnhodFYxNXpTdl9CejJNTVYyci1UdGt1V3Z3TktIRE00VHJGU0pjVHBuMWNVUDZ1WUEwOF9vV21Qamw5TnJRc1JXLV85NG1talNtVmUtc2lONW5XT2J0MWRGNmg1cDg1ZS1NV3kzb2ZYa1JxUmlERTBYZ1lrZW9Edk5hd3RxZHRvREhLcWNCV1EwZHNWMzBwczEwT01zYlRSR3gxV1pyRHhyaGFITnd5emY5TWh4bkFfY0J6QzczZDFPVjhU?oc=5",
+   "pub": "Mon, 23 Nov 2026 10:08:00 GMT"
+  },
+  {
+   "t": "Militär warnt Netanjahu vor einem Mehrfrontenkrieg - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTNqRnlXWGJkUHZGcGVBWUsxUkV1eS1LbGh3a2RKY1pYSlNET3pWY1lSeGJDQU5mMTJkTTloTnQ5NmJjYzF2NkxWWUczOU9NaFY2bVc5VS03Q29nbU0zd2VZTUVTY2hZUUx3bXhnU09yRDRIVDV0WWZMVFhsM05XbFlQaEZhT0xZNDNaU2QzM3VkOXd6RVdpUEZIYw?oc=5",
+   "pub": "Mon, 23 Nov 2026 08:45:00 GMT"
+  },
+  {
+   "t": "Iran-Zahlung blockiert: So lösen Sie die Bankblockade - Anwalt.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3V3ZVZDYVVOVng5Z3U1aVQ3R25yczZFRU0wZXQzdHRzVW5lbUVCTEd4VWhiLTdNRTB1UzM2THF3WDlnVkl0aGpOX05OcjJub1l5VkE4VkVaazBFYV9rX1VRWl9UcXY0aTZ6Zkt2bkFQZVhoWUxOSk55OGJqUEktcDNwRXFkcTVnaU1XNTExQy1pelJELS1YbVFQNi1tSFVS?oc=5",
+   "pub": "Sun, 22 Nov 2026 23:45:31 GMT"
+  },
+  {
+   "t": "Neuer Raketenwerfer: Iran warnt seine Feinde vor „Demütigung“ - Kurier",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGFPczYtQTMzQ3NOdXc3bTNLUEQ3dElxMjZFQXlKSElYU2NoV0VxcjJNZTRqTElIOHpMY2RES3p0b0JZa3NyMDJkV2pPU1VhQVZsSGtkOXNrUDVUZVpYZDBOOVhmM296N29EeC1vMXFvU3dsaVhnWFlFYWt6NG5pbENTZkdNOWJ3ZEtVcmJYTnpDZFRVX2FZeHNHeHdVck8yRThwMzVSN0ZJTlhlQUJEUVJLWkR5NXRfcnVLcXJneW1neXN3?oc=5",
+   "pub": "Mon, 23 Nov 2026 04:55:51 GMT"
+  },
+  {
+   "t": "Japanese Yen pares gains as investors ponder BoJ’s tightening scope - tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNalZOcm5lcHltMG9ibmNlQ0FELXpobXdKV29pUWtwR0FXTzJrdnFGNlk4T0xNb0ZvdzVEd19jTDh6NjBUY1lTN1BtdUdmejNjS0pNRENlMk5sM1hlZERuVnlXY1pKRWV4c01MY0drUHl0dkR1SDVUaGpiRTlfTmo2cHFvSFJzelFVZnI5aUt0VTlIa21ZMEx0VnN2d2ZQdHZ3SXVjQXU1eW1BdklfLVgxQnpNbGFPb3NYVG5DWXJGQk9nUUJlVDRIRFp4NjM?oc=5",
+   "pub": "Mon, 23 Nov 2026 11:25:02 GMT"
+  },
+  {
+   "t": "Iran will ein Ende der Seeblockade erzwingen - FAZ",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1o5dXEwaUZjVXNPcktsRERfczRYQS1WcGVvLWF5QzUtUXU0TFJVdjZwMDlXbTlIaVhqQjE0NW8zQzRWR2dOSHNaVEFmblJnUU52SVl2WG82SW1nMkxHNjhDN0pSS0RZWnNnRW9NZ250Q0dmRmtDVkMzZU8zVEcxc1EzTGtVeWVxaXN5UDJuM0JHQnZVWXJQUnBURjVZcklvTGRLR1F4TQ?oc=5",
+   "pub": "Fri, 20 Nov 2026 11:22:14 GMT"
   }
  ]
 }
