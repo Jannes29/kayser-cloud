@@ -1,53 +1,58 @@
 {
- "collected_at": "2026-11-24T00:53:13Z",
+ "collected_at": "2026-11-24T10:57:08Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8417,
-   "chg1d_pct": 0.09
+   "price": 0.8404,
+   "chg1d_pct": -0.06
   },
   "USDJPY": {
-   "price": 159.025,
-   "chg1d_pct": 0.06
+   "price": 159.31,
+   "chg1d_pct": 0.24
   },
   "GBPCAD": {
-   "price": 1.8724,
-   "chg1d_pct": -0.26
+   "price": 1.8737,
+   "chg1d_pct": -0.2
   },
   "AUDJPY": {
-   "price": 105.363,
-   "chg1d_pct": -0.17
+   "price": 105.53,
+   "chg1d_pct": -0.01
   },
   "EURUSD": {
-   "price": 1.0909,
-   "chg1d_pct": -0.57
+   "price": 1.0942,
+   "chg1d_pct": -0.27
   },
   "GBPCHF": {
-   "price": 1.0971,
-   "chg1d_pct": -0.36
+   "price": 1.0982,
+   "chg1d_pct": -0.26
   },
   "WTI": {
-   "price": 80.46,
-   "chg1d_pct": -4.19
+   "price": 80.12,
+   "chg1d_pct": -0.06
   },
   "BRENT": {
-   "price": 86.91,
-   "chg1d_pct": -6.11
+   "price": 86.88,
+   "chg1d_pct": -2.79
   },
   "GOLD": {
-   "price": 3656.9,
-   "chg1d_pct": 4.03
+   "price": 3623.3,
+   "chg1d_pct": -0.77
   },
   "SPX_FUT": {
-   "price": 7268.5,
-   "chg1d_pct": 4.81
+   "price": 7198.0,
+   "chg1d_pct": -0.78
   },
   "NAS_FUT": {
-   "price": 26833.25,
-   "chg1d_pct": 6.79
+   "price": 26367.75,
+   "chg1d_pct": -1.64
   }
  },
  "headlines": [
+  {
+   "t": "Iran - 74 Peitschenhiebe für Sängerin nach Auftritt ohne Hijab - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2lCZjRrWkpzblY5NXhEOGNDQW1iSy0wYjdMVVNTX2hnSXFuVDZvUmpqX0hjZHFtdVNkbGd3a181Njl1Q2xidEhQQjhRVk43YTk1X3oyXzBFc2drd01IWU1vZHp6cG9CeFJ3UXVTREhOWTgzRGpmdVl1Y01Sa1ZXcVRPZTVhc0NiQTMwOVhjbk1tcHhiSjZFR3lpZjNCbnM?oc=5",
+   "pub": "Tue, 24 Nov 2026 05:52:19 GMT"
+  },
   {
    "t": "Iran: Sängerin Parastu Ahmadi wegen Verstoßes gegen Kopftuchpflicht ausgepeitscht - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ29DamdIU0E4WnpvN05VZWFqSEgtbnA3ZEFvM185OFRfWWJ3anY4SFMxYzEzeHVpRFVMLUp1QkVYY0VmQVo1RTVKZFV6UV9jM2FyTldZUmlEWV85SUlmZFFoaFlPZjg5Y2J3QUpqNEg2NlR0MkNMcVBiQXBoVVczZ3hQaGpoWTB0d1ZmWHJNQzRmN2tIS2Y1Vjk5ZWZlb29zTzFEcUF5bERwdkdncW1QSzVwY0RfbUZhZUFqcTlCUEFKcXc5R1BCZ2gwcG9NRlk5N2RVVEpCeW1TMUpOVDQ5dHZCZzQ?oc=5",
@@ -64,49 +69,44 @@
    "pub": "Mon, 23 Nov 2026 14:51:16 GMT"
   },
   {
+   "t": "Blockade „praktisch unmöglich“? Teheran gibt sich gelassen – doch hinter den Kulissen droht die Zerreißprobe - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3hoc20yVW9DOWtmSDB1TnE2SUhWUHZJUndlX1BIR3IzOXZnOUxLWnRMTmhubXhXVTVuVTBEcWFlb0RGLThkV3VEbFFIU1I4bnkzTHlZQldCMDkzUHl4aEdQTmlrWWR6RTBFa01qYURsQ0FCU3oyQlJ1SkdfaUs0UU9KYjZoU1ZoT3RNUU9tX2lhVlhNY08zeFF2NFpVSlZ0TEE?oc=5",
+   "pub": "Tue, 24 Nov 2026 09:59:52 GMT"
+  },
+  {
+   "t": "iShares STOXX Europe 600 Oil & Gas ETF mit roter Tendenz - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0QxdGUtcXVkQV8zZ1QxREpVZkNmT2dZanVGMmdqYldPY2FSLUxOeFZ4eTRkWk5KRFFUSG1hZlNFanYwelFPbEowTGVFaW1QREhENFJ3UEd4MW5ES2hEMTZBa0d1S3QxNnVFSWZHaG9zLW1Bb1p5OWFVMFlKZHFFSXFFcFg5TVJXOFpZUzI1MXh4aVQybzBTMW41R19fNDFWc1dNekdVS1FYSGFx?oc=5",
+   "pub": "Tue, 24 Nov 2026 10:09:03 GMT"
+  },
+  {
+   "t": "Aktuelle Lage im Persischen Golf: Tägliches Update zu festgesetzten Öl-Tankern - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDd6RjhtdjV4U3JtWVNzMFZONHlsTGNlWW45SGxGREpCRGJ6UGVscmVLbGZvSk5WWjF2NF9Yd3FhYnYwMUNoRnRPSFZFbjhLaXVIMTNxUXE5bUlEZnBuS3JkRXhWOTQ2YS1NcS1nb3hmLUVFNi04OVExd0ZzTnlYSFlHcmctaFB0bHpRdFk2M1lyWEU0anNmYVhsZXFOZTVmTlZFQ1J2Z0pmLWF6R0N1Sk1FTUVjM2Z3dVdHRklsdU5IMlpiMHc?oc=5",
+   "pub": "Tue, 24 Nov 2026 05:38:16 GMT"
+  },
+  {
+   "t": "Außenminister Wadephul „schockiert“ wegen Trumps Intervention bei Nvidia - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUVENFZpX0pYaElmWWtCRERLRDBEX3hnUlNRR000NVRqRVdKUFRxdXA1aGZtWm8zV2YwTkhhdkp0MnRwS0tHRjl3ZVVkLUhrT2hwaXdvUTNrbmJQN3pEYTQyTV8ydlhVR0hMMngyaGNnNWlRV013UkFJOWh3bkJiV0hzeGczcHJjVWYwM2NTY1hLTHM5VldBbTJWbzNITklwekpTMEhiTWpldXNMUEU0NmRvZw?oc=5",
+   "pub": "Tue, 24 Nov 2026 09:50:04 GMT"
+  },
+  {
+   "t": "Die Crews bedroht: USA vermuten Iran hinter Cyberangriffen auf Schiffe - heise online",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWFQYzJyTXFEZEtrNGRVYWFVeXNSYkFZRGM3aDYxQXJRTGV4UUVtRTAyQlMzY293bzRETmVsQlg1MlpIeEdyWmFVeGdWSmd4ckIydVlyQ2doRkhHY3NhS1NwZkt3azJOR2tCNVlDWFJjMFNWWnN6UlRDck5fTmlMRDd4RXZoRXZYUUVoVkhnVDdEaEtpRHA3cFJ6bkRMZzRWTmNSSXhuRGxSNWp2RkJrak9VVmJmZw?oc=5",
+   "pub": "Tue, 24 Nov 2026 05:53:00 GMT"
+  },
+  {
    "t": "Iran-Krieg: Trump nennt Verhandlungen „Bullshit“ und rechnet mit Fortsetzung der Angriffe - WELT",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOY1RwQVNBYWpqOS1YQlhGdHQ1Wjl1WVRTenI4ZXZsMkNncXE3NE5uNjlsQzJYUGdvSnFraUtVdXVtQVlpOFVFR0ZXaVRJbVd3NktlVFE2UE8wVmJ2ODM2S3Fxd1hRcVF2UzdoZ0hlV0dWYXpsMkFiQ1Z4SFcyc2Foc2FWSllSajcxeVRERjN3TzhEMEdsdmlTMzZxV3R4Wk43RXpadGhsdlBPNW5pWkNkcHhDTHF0T2cxWWd0Y18zUjd4R1VFZXVsRUx5Q3ZPRWRXNXhFa1d3RHdQLTNIWW90Z0d0aGVHWDk2NnpBZURUdmg?oc=5",
    "pub": "Mon, 23 Nov 2026 04:08:04 GMT"
   },
   {
-   "t": "Mit Paragrafen gegen Raketen – eine israelische Stadt verklagt den Iran - tagesschau.de",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3ZFpuTzEzZGJrYUtxVGU2eUl1VVMwOFhESlJzeXE1M0QtUm1JVk5yMUwyUE9nNmxLc3JMUldkLWZLSFFqRXgyMmtLNTNDeHRBcVZ0OFRrb0JHMGU5Q1BvSWxIT1NrS3lNM3ZqM0J3?oc=5",
-   "pub": "Mon, 23 Nov 2026 15:41:46 GMT"
+   "t": "Tag: Iran-Konflikt - Windkraft-Journal",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOM2tPQXQxLTZVYWluTkxGU282Z2Uzejc4djhfNkk3d1k4YmVSWUJZZ0k3czBJTzFXTk1UNnNoeG02MjhnaTR2WHlRQnpVZ1Zac1hMZGZaV1VNNWZhR2hn?oc=5",
+   "pub": "Tue, 24 Nov 2026 08:56:44 GMT"
   },
   {
-   "t": "„Das ist alles Bullshit“: Trump schimpft über Iran-Gespräche – Netanjahu drängt auf Angriff - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHlsamhtUjRoc1BoV20tMXRuaHRUZlBkekRnUlp5TlloOGswWHRTaUQ3WUZrbE1ncTlmd3Jqc2tfYmd3UXU3YnhSdlJNQjg1akJqWHU3WWw2TWhKQk5EVG80NmlCVlpfcHFUMVRDMkprQnVDa3d5T0lLTDBXUi1ac0V3cHdLajFVTk1yd2szV09PcDB6bHZCUEkxeVVoMzhWOFYtM1gyc1ROdVk?oc=5",
-   "pub": "Mon, 23 Nov 2026 08:49:37 GMT"
-  },
-  {
-   "t": "China wahrt mit Russland, Iran und Nordkorea seine Interessen – und Trump entgeht es - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhLdzJLTTNmOVdTdHVoSnhzazRvSUI0QWtIeEw0X3VLZlRpaDRsWVlyejRIVk0yeDc1TmFwXzZaYm4yVkNGYmdJMjhJMmRzcV9PLVY4Qi15Tmg2aTkzREJwNm9mbXNyTTAxT3N1eFcyeW9CSno0RW5pYU0zWnhuc2c3aFlNT3ZNMEpHS2UyMmRFOTZxV3pqZTA4R3Z4QlFqVzNWTm5abmw0VlBqUEl3ZEloa04wZjY1X0tTeWNxMWpRVTJpX0RBVVhYMWt6UQ?oc=5",
-   "pub": "Mon, 23 Nov 2026 08:02:46 GMT"
-  },
-  {
-   "t": "Strait of Hormuz: Briton Swims Across Strait in Protest Against Iran War - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1lfZjRNYzQ2M1Z5dl95c3E3dmVHOEY0YzZsUEJjOUxlOU9aaHhyY0JvSzdrbzhWNTZLLW9BZGh6ZVl0eWZQWC1Dczd6bVAwcGtjM25zQW51UGltSFdtRGxQZi1lekZ6MXozYmlPdjVvQVlzTDNlTF9nQ2w3RmlVbWVxNGNtM1NWSlJPUkdqMlBvcWlTS0FrVm1fWURhdjZnWkVPWGVwRm5FU1NRVDlLSg?oc=5",
-   "pub": "Mon, 23 Nov 2026 16:29:00 GMT"
-  },
-  {
-   "t": "Iran greift US-Stützpunkte in Bahrain an - Öltanker durchbrechen Blockade - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmw2dy1BazFXNVRFOGZIVFVGU2YyYnRmRVYycUlXZENYRzI0d2o5UXJWcXBjZ0R6NmptRDRYZkN5bmVhb054bW55SnRMUUpPeUtWWENsRDF5d2F3azV2SVdRb2s5ZFhreng2MVZzUXE1a0pZblpWbWxMTTgtRWQtMnFDbUUtTEJWdnphSV9qYnAxYUF5Y1BxNmhYSmRVVnNuUU96Q2QwcmZFdw?oc=5",
-   "pub": "Sun, 22 Nov 2026 13:17:11 GMT"
-  },
-  {
-   "t": "Iran und die USA im Eskalationspatt - zenith.me",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdURQMFRXRHBUMDZhZmc1UFBocEtJN253dGhrc3JDWnVkZFVwbFdMNGVmWWFuZjJ2eDJoVnRDX3VJWGIyZ3BtaVplZmVFSzZuZVgxczBEbWxJb000RDZSd3dwNFM2dm9DdUtJQm0wYjc1NVUwZHVfZTVNTVo4X3E1aUZQdUFvb2ZNSnAwVzQtUGx0OVZI?oc=5",
-   "pub": "Mon, 23 Nov 2026 14:15:42 GMT"
-  },
-  {
-   "t": "Kurs des iShares STOXX Europe 600 Oil & Gas ETF stärker - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWdvdldkMkhJTTVDcGk4eWxZWXpFWkVWUjl6d1JJRnhEcFBrTlRNaGlBSi1TeExUZjQxazVOeUpPSUdBc3AtcHM0T0dpRWpzNmI1TjVvMGNvSDk2UExES1FGZHN4YWZlWk9ubmIxQUNoTU5VOUg1V2lSMVFuQnZrMVZycmxubjJhX1ZWWW05OXlOcUpJMWZZYXk1c2tLdTJBN2VubFRBS0FPV2xD?oc=5",
-   "pub": "Mon, 23 Nov 2026 17:04:03 GMT"
-  },
-  {
-   "t": "Iran FIFA-Weltrangliste – Punkte, Platzierung & Verlauf | All Football - 懂球帝",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12aF9NdU5DUmRyeEhaMkRKUjJxelhBQU5RMGVOS1JvdlJwSm1BME5MZEItQTdGYXdGZ3FqblhrclZxY04yMDQ1b0VpcVQ1VDh0eWhsUFpSaGRvOXN0V1E?oc=5",
-   "pub": "Mon, 23 Nov 2026 21:22:21 GMT"
+   "t": "Japanese Yen: Range trading with upside risk against US Dollar – UOB - tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZG9XbmtzMkNPeXd0S3lUTkZnUDdWSHhvUVlUaHVYSFdNVm91c0YweF9QQ1hsemg3STFqOHJxSGhPZDgtaGlSYUlHZHpsWHB4TnFIMWhVZjQ0dFBNMmVEbWJJNVM3U3hSQ1o0WWJETEdzbFNUd2dTZ1FkY1N5RGc2WXR3RWE1RkZYYS02RGQ4S2FQY3B3QTBMOVBldTRVN1M2eG9tdGxreTZ2NWxkNTVFVW5EbUFjU3M3YnRYaVE5MDNmVjBaSHgyTUJOMA?oc=5",
+   "pub": "Tue, 24 Nov 2026 09:46:15 GMT"
   }
  ]
 }
