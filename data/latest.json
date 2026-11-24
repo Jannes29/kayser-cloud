@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-24T10:57:08Z",
+ "collected_at": "2026-11-24T21:13:10Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8404,
-   "chg1d_pct": -0.06
+   "price": 0.8355,
+   "chg1d_pct": -0.65
   },
   "USDJPY": {
-   "price": 159.31,
-   "chg1d_pct": 0.24
+   "price": 159.225,
+   "chg1d_pct": 0.18
   },
   "GBPCAD": {
-   "price": 1.8737,
-   "chg1d_pct": -0.2
+   "price": 1.8712,
+   "chg1d_pct": -0.33
   },
   "AUDJPY": {
-   "price": 105.53,
-   "chg1d_pct": -0.01
+   "price": 105.731,
+   "chg1d_pct": 0.18
   },
   "EURUSD": {
-   "price": 1.0942,
-   "chg1d_pct": -0.27
+   "price": 1.0969,
+   "chg1d_pct": -0.02
   },
   "GBPCHF": {
-   "price": 1.0982,
-   "chg1d_pct": -0.26
+   "price": 1.0956,
+   "chg1d_pct": -0.5
   },
   "WTI": {
-   "price": 80.12,
-   "chg1d_pct": -0.06
+   "price": 81.45,
+   "chg1d_pct": 1.6
   },
   "BRENT": {
-   "price": 86.88,
-   "chg1d_pct": -2.79
+   "price": 88.31,
+   "chg1d_pct": -1.19
   },
   "GOLD": {
-   "price": 3623.3,
-   "chg1d_pct": -0.77
+   "price": 3550.9,
+   "chg1d_pct": -2.75
   },
   "SPX_FUT": {
-   "price": 7198.0,
-   "chg1d_pct": -0.78
+   "price": 7209.25,
+   "chg1d_pct": -0.62
   },
   "NAS_FUT": {
-   "price": 26367.75,
-   "chg1d_pct": -1.64
+   "price": 26230.0,
+   "chg1d_pct": -2.16
   }
  },
  "headlines": [
@@ -54,14 +54,34 @@
    "pub": "Tue, 24 Nov 2026 05:52:19 GMT"
   },
   {
+   "t": "Persischer Golf - Iran greift erneut Bahrain an - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dkp3TE5GdHZ0LVI3TENaYXBDa2FFY01nSENRQUxNbDYyVVdqc0VhZWVHaEtfREdOUmQxSm1uaW9DV2xtWGNfaFh1XzNOdTZWTFRsQVBBNFVVZ08yc21JM2NqWDVzRDlPTjE2SFpkRnlodU9LSS1YVA?oc=5",
+   "pub": "Mon, 23 Nov 2026 11:11:31 GMT"
+  },
+  {
+   "t": "Fed vor überraschender Zinswende? Ökonomen erwarten gleich 3 Erhöhungen - Business Insider Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTdQTkNoSWtRTlMxa2dnOEFJMkhIZlZmX0FXSFV3Mm03ZjlHZERUN25MeXpNcWc4MTVtTXg5T0FLekRKTmJ4a0dUb1hRSnZ6cnQtS3lReWxpZ1k4OFdrN0J2RU1Kd0pfZzhKNkNqMmNZMlJxQ2ZaX3N1RllyNl9BeU92UGpGTllYd1U1eF9uVkQxYzJpSnJaYlQ5R2stTTd1VzZvVmd5VVV1cDZuM2JheWx3N1RCYXVwRmwxcEowVDE?oc=5",
+   "pub": "Tue, 24 Nov 2026 09:46:00 GMT"
+  },
+  {
+   "t": "Zins-Schock statt KI-Crash? Warum die US-Notenbank für Aktien 2027 zur größten Gefahr werden könnte - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVGN0OW85RnJNMElhRkRobzVaZkZ4aXRZb2hhXzVibE9WRXlMb3RYNEpscVppTm12RHFmNlhHdGdQZ1F4bjJERHRic2dfZGJfWWtpeG1wdGNUR2d0WkVxY2FmVTZnSm8yQnFGSDhEM0JxdmpSbzZBSHJySXlWZTc5NEdjV3VCZVctRDYtdFd0TTktNy01MjVoT2JrQjQ5RlM5SXY3QzBUQ05rdUoyYkM4Q1lUY1BFYjNuRVVMaUZ0RmdyYnlFUjVPc0wteVBpcU1uZnB4YnhGWnV3YWp3SW5ORzZ0ZHNZLUpubGR3NTllRk1vbUhjbzhoS1NQQ1FDS2RhMnBLSTZLSDU?oc=5",
+   "pub": "Tue, 24 Nov 2026 09:11:00 GMT"
+  },
+  {
+   "t": "Zahl der Drittstaaten-Zweigenstellen schrumpft - China und Iran vorne - FinanzBusiness",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12ekVhZ2dhZUhPek0xSVlPMVZ5dDdyX3E1S3hQTGV0UHRqSjg0a0VDR3A0bVl0M0hIV01FWVFZTDFvZmJzS3VJMGtCdzBnSXVBamRsZk1kdmowaHVIYlhWc0xBQ0xfOXhOemY1Y1N4MGFHZw?oc=5",
+   "pub": "Tue, 24 Nov 2026 11:58:47 GMT"
+  },
+  {
    "t": "Iran: Sängerin Parastu Ahmadi wegen Verstoßes gegen Kopftuchpflicht ausgepeitscht - Spiegel",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ29DamdIU0E4WnpvN05VZWFqSEgtbnA3ZEFvM185OFRfWWJ3anY4SFMxYzEzeHVpRFVMLUp1QkVYY0VmQVo1RTVKZFV6UV9jM2FyTldZUmlEWV85SUlmZFFoaFlPZjg5Y2J3QUpqNEg2NlR0MkNMcVBiQXBoVVczZ3hQaGpoWTB0d1ZmWHJNQzRmN2tIS2Y1Vjk5ZWZlb29zTzFEcUF5bERwdkdncW1QSzVwY0RfbUZhZUFqcTlCUEFKcXc5R1BCZ2gwcG9NRlk5N2RVVEpCeW1TMUpOVDQ5dHZCZzQ?oc=5",
    "pub": "Mon, 23 Nov 2026 19:35:00 GMT"
   },
   {
-   "t": "Persischer Golf - Iran greift erneut Bahrain an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dkp3TE5GdHZ0LVI3TENaYXBDa2FFY01nSENRQUxNbDYyVVdqc0VhZWVHaEtfREdOUmQxSm1uaW9DV2xtWGNfaFh1XzNOdTZWTFRsQVBBNFVVZ08yc21JM2NqWDVzRDlPTjE2SFpkRnlodU9LSS1YVA?oc=5",
-   "pub": "Mon, 23 Nov 2026 11:11:31 GMT"
+   "t": "Wegen Iran-Kriegs kaum gefüllt: Private Heizölvorräte sind zu Winterbeginn ungewöhnlich niedrig - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUlxSXdOdjlsR2hJTmo5YlNoYnJWUUNycHJncGJfTHhCaEZQNTlzY1gySkkxR1Z4anJqUWZkR3YzMnVZZ3ZnZHpFX01IcVR4YjJsd3FkLUgzQ05XZm1CY3A5Ul9ldUhkTEpId0p4dXk1VHhNZDNSV1lLN3JDS2tDZ295eGdqQTF6dW9IQTJ4X0FwUzF4enFaYTBSb2dfc25EanY3dno5VzJ2b285bE5jNkUtcw?oc=5",
+   "pub": "Tue, 24 Nov 2026 14:33:27 GMT"
   },
   {
    "t": "Reparationen für Kriegsschäden: Iran verlangt 290 Milliarden US-Dollar von den USA - Tagesspiegel",
@@ -69,29 +89,9 @@
    "pub": "Mon, 23 Nov 2026 14:51:16 GMT"
   },
   {
-   "t": "Blockade „praktisch unmöglich“? Teheran gibt sich gelassen – doch hinter den Kulissen droht die Zerreißprobe - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3hoc20yVW9DOWtmSDB1TnE2SUhWUHZJUndlX1BIR3IzOXZnOUxLWnRMTmhubXhXVTVuVTBEcWFlb0RGLThkV3VEbFFIU1I4bnkzTHlZQldCMDkzUHl4aEdQTmlrWWR6RTBFa01qYURsQ0FCU3oyQlJ1SkdfaUs0UU9KYjZoU1ZoT3RNUU9tX2lhVlhNY08zeFF2NFpVSlZ0TEE?oc=5",
-   "pub": "Tue, 24 Nov 2026 09:59:52 GMT"
-  },
-  {
-   "t": "iShares STOXX Europe 600 Oil & Gas ETF mit roter Tendenz - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0QxdGUtcXVkQV8zZ1QxREpVZkNmT2dZanVGMmdqYldPY2FSLUxOeFZ4eTRkWk5KRFFUSG1hZlNFanYwelFPbEowTGVFaW1QREhENFJ3UEd4MW5ES2hEMTZBa0d1S3QxNnVFSWZHaG9zLW1Bb1p5OWFVMFlKZHFFSXFFcFg5TVJXOFpZUzI1MXh4aVQybzBTMW41R19fNDFWc1dNekdVS1FYSGFx?oc=5",
-   "pub": "Tue, 24 Nov 2026 10:09:03 GMT"
-  },
-  {
-   "t": "Aktuelle Lage im Persischen Golf: Tägliches Update zu festgesetzten Öl-Tankern - RND.de",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDd6RjhtdjV4U3JtWVNzMFZONHlsTGNlWW45SGxGREpCRGJ6UGVscmVLbGZvSk5WWjF2NF9Yd3FhYnYwMUNoRnRPSFZFbjhLaXVIMTNxUXE5bUlEZnBuS3JkRXhWOTQ2YS1NcS1nb3hmLUVFNi04OVExd0ZzTnlYSFlHcmctaFB0bHpRdFk2M1lyWEU0anNmYVhsZXFOZTVmTlZFQ1J2Z0pmLWF6R0N1Sk1FTUVjM2Z3dVdHRklsdU5IMlpiMHc?oc=5",
-   "pub": "Tue, 24 Nov 2026 05:38:16 GMT"
-  },
-  {
-   "t": "Außenminister Wadephul „schockiert“ wegen Trumps Intervention bei Nvidia - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUVENFZpX0pYaElmWWtCRERLRDBEX3hnUlNRR000NVRqRVdKUFRxdXA1aGZtWm8zV2YwTkhhdkp0MnRwS0tHRjl3ZVVkLUhrT2hwaXdvUTNrbmJQN3pEYTQyTV8ydlhVR0hMMngyaGNnNWlRV013UkFJOWh3bkJiV0hzeGczcHJjVWYwM2NTY1hLTHM5VldBbTJWbzNITklwekpTMEhiTWpldXNMUEU0NmRvZw?oc=5",
-   "pub": "Tue, 24 Nov 2026 09:50:04 GMT"
-  },
-  {
-   "t": "Die Crews bedroht: USA vermuten Iran hinter Cyberangriffen auf Schiffe - heise online",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWFQYzJyTXFEZEtrNGRVYWFVeXNSYkFZRGM3aDYxQXJRTGV4UUVtRTAyQlMzY293bzRETmVsQlg1MlpIeEdyWmFVeGdWSmd4ckIydVlyQ2doRkhHY3NhS1NwZkt3azJOR2tCNVlDWFJjMFNWWnN6UlRDck5fTmlMRDd4RXZoRXZYUUVoVkhnVDdEaEtpRHA3cFJ6bkRMZzRWTmNSSXhuRGxSNWp2RkJrak9VVmJmZw?oc=5",
-   "pub": "Tue, 24 Nov 2026 05:53:00 GMT"
+   "t": "74 Hiebe - Iranische Popsängerin wegen Livestream ausgepeitscht - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazNDNDlkTlJMT0VSWGpycnpIVFhzZGdoUHpuY19uQUtHY0FLNF96Q0l6UmlZZWR1Q0t4XzZ1YXRJVG1hUUdrS0I5aTd0OVYzVDM4bjBPOTVObklKM0dwRTYtYW1LUTF6NXlJY0xIcGlQa2JZS3VmOHA2OU0xTVNaTHR1eWNhRkZRc3N0LUpwY01jTjdVVnQ1T3NMTWZPVXBBSXc?oc=5",
+   "pub": "Tue, 24 Nov 2026 13:34:52 GMT"
   },
   {
    "t": "Iran-Krieg: Trump nennt Verhandlungen „Bullshit“ und rechnet mit Fortsetzung der Angriffe - WELT",
@@ -99,14 +99,14 @@
    "pub": "Mon, 23 Nov 2026 04:08:04 GMT"
   },
   {
-   "t": "Tag: Iran-Konflikt - Windkraft-Journal",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOM2tPQXQxLTZVYWluTkxGU282Z2Uzejc4djhfNkk3d1k4YmVSWUJZZ0k3czBJTzFXTk1UNnNoeG02MjhnaTR2WHlRQnpVZ1Zac1hMZGZaV1VNNWZhR2hn?oc=5",
-   "pub": "Tue, 24 Nov 2026 08:56:44 GMT"
+   "t": "Die Crews bedroht: USA vermuten Iran hinter Cyberangriffen auf Schiffe - heise online",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWFQYzJyTXFEZEtrNGRVYWFVeXNSYkFZRGM3aDYxQXJRTGV4UUVtRTAyQlMzY293bzRETmVsQlg1MlpIeEdyWmFVeGdWSmd4ckIydVlyQ2doRkhHY3NhS1NwZkt3azJOR2tCNVlDWFJjMFNWWnN6UlRDck5fTmlMRDd4RXZoRXZYUUVoVkhnVDdEaEtpRHA3cFJ6bkRMZzRWTmNSSXhuRGxSNWp2RkJrak9VVmJmZw?oc=5",
+   "pub": "Tue, 24 Nov 2026 05:53:00 GMT"
   },
   {
-   "t": "Japanese Yen: Range trading with upside risk against US Dollar – UOB - tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZG9XbmtzMkNPeXd0S3lUTkZnUDdWSHhvUVlUaHVYSFdNVm91c0YweF9QQ1hsemg3STFqOHJxSGhPZDgtaGlSYUlHZHpsWHB4TnFIMWhVZjQ0dFBNMmVEbWJJNVM3U3hSQ1o0WWJETEdzbFNUd2dTZ1FkY1N5RGc2WXR3RWE1RkZYYS02RGQ4S2FQY3B3QTBMOVBldTRVN1M2eG9tdGxreTZ2NWxkNTVFVW5EbUFjU3M3YnRYaVE5MDNmVjBaSHgyTUJOMA?oc=5",
-   "pub": "Tue, 24 Nov 2026 09:46:15 GMT"
+   "t": "Nach der Rally der Rückschlag: KI-Werte geraten erneut unter Druck - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHRfa2EzekM2UmhWLVluUy0zd3NPbmYtX3FvdW1Wa0taMjFNdXhsSVVCVi1iOUNkNWIwajNJXzJsMU5kVUxhWTNwMkJaVkF6OFA3NGFkV1kwU2l3TmJCalBmVmxlOTJTWjJ1ckVHMldWc1NXVkxOVFlUNzB6NjFfQmN5Wk5PU203ZE5XTXRHbWV3ZmYwZ0t2SVJ0amxwenVPeC1PTXZrYTFDVGZWRmRseWJiN01URllfMXBleEw5bXh1STlSOGFMRg?oc=5",
+   "pub": "Tue, 24 Nov 2026 16:32:34 GMT"
   }
  ]
 }
