@@ -1,62 +1,72 @@
 {
- "collected_at": "2026-11-24T21:13:10Z",
+ "collected_at": "2026-11-25T04:14:25Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8355,
-   "chg1d_pct": -0.65
+   "price": 0.8365,
+   "chg1d_pct": -0.59
   },
   "USDJPY": {
-   "price": 159.225,
+   "price": 159.3,
    "chg1d_pct": 0.18
   },
   "GBPCAD": {
-   "price": 1.8712,
-   "chg1d_pct": -0.33
+   "price": 1.8685,
+   "chg1d_pct": -0.2
   },
   "AUDJPY": {
-   "price": 105.731,
-   "chg1d_pct": 0.18
+   "price": 105.229,
+   "chg1d_pct": -0.17
   },
   "EURUSD": {
-   "price": 1.0969,
-   "chg1d_pct": -0.02
+   "price": 1.0949,
+   "chg1d_pct": 0.37
   },
   "GBPCHF": {
-   "price": 1.0956,
-   "chg1d_pct": -0.5
+   "price": 1.0951,
+   "chg1d_pct": -0.16
   },
   "WTI": {
-   "price": 81.45,
-   "chg1d_pct": 1.6
+   "price": 80.69,
+   "chg1d_pct": -1.66
   },
   "BRENT": {
-   "price": 88.31,
-   "chg1d_pct": -1.19
+   "price": 87.45,
+   "chg1d_pct": -4.32
   },
   "GOLD": {
-   "price": 3550.9,
-   "chg1d_pct": -2.75
+   "price": 3544.6,
+   "chg1d_pct": -0.49
   },
   "SPX_FUT": {
-   "price": 7209.25,
-   "chg1d_pct": -0.62
+   "price": 7170.75,
+   "chg1d_pct": -0.65
   },
   "NAS_FUT": {
-   "price": 26230.0,
-   "chg1d_pct": -2.16
+   "price": 25996.75,
+   "chg1d_pct": -1.06
   }
  },
  "headlines": [
+  {
+   "t": "Nahost - Israels Verteidgungsminister \"Katz: Iran entwickelt Chemiewaffen\" - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1NGTDNaQ3BjSURqVU1YeS1HRmdfMnFvejNtT2dqTWZhVWZ5S1ZPLVFnaDBrRHVMSnZPVGktSlNQQnpnMDV0WVEtT082NXdoNnRUOVYzeUxKSUU1UzdkR3dER3NsdGJkYm11bjNodGZCNVRyRTRwbHZjZ1B6X1ZPMFJ1UGQxa3R0cWM5WkFHMW5KbWdyM1NTV1F2N051eTFqZ2gxVw?oc=5",
+   "pub": "Wed, 25 Nov 2026 00:52:17 GMT"
+  },
+  {
+   "t": "Iran: Sängerin Parastu Ahmadi wegen Verstoßes gegen Kopftuchpflicht ausgepeitscht - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ29DamdIU0E4WnpvN05VZWFqSEgtbnA3ZEFvM185OFRfWWJ3anY4SFMxYzEzeHVpRFVMLUp1QkVYY0VmQVo1RTVKZFV6UV9jM2FyTldZUmlEWV85SUlmZFFoaFlPZjg5Y2J3QUpqNEg2NlR0MkNMcVBiQXBoVVczZ3hQaGpoWTB0d1ZmWHJNQzRmN2tIS2Y1Vjk5ZWZlb29zTzFEcUF5bERwdkdncW1QSzVwY0RfbUZhZUFqcTlCUEFKcXc5R1BCZ2gwcG9NRlk5N2RVVEpCeW1TMUpOVDQ5dHZCZzQ?oc=5",
+   "pub": "Mon, 23 Nov 2026 19:35:00 GMT"
+  },
   {
    "t": "Iran - 74 Peitschenhiebe für Sängerin nach Auftritt ohne Hijab - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2lCZjRrWkpzblY5NXhEOGNDQW1iSy0wYjdMVVNTX2hnSXFuVDZvUmpqX0hjZHFtdVNkbGd3a181Njl1Q2xidEhQQjhRVk43YTk1X3oyXzBFc2drd01IWU1vZHp6cG9CeFJ3UXVTREhOWTgzRGpmdVl1Y01Sa1ZXcVRPZTVhc0NiQTMwOVhjbk1tcHhiSjZFR3lpZjNCbnM?oc=5",
    "pub": "Tue, 24 Nov 2026 05:52:19 GMT"
   },
   {
-   "t": "Persischer Golf - Iran greift erneut Bahrain an - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04dkp3TE5GdHZ0LVI3TENaYXBDa2FFY01nSENRQUxNbDYyVVdqc0VhZWVHaEtfREdOUmQxSm1uaW9DV2xtWGNfaFh1XzNOdTZWTFRsQVBBNFVVZ08yc21JM2NqWDVzRDlPTjE2SFpkRnlodU9LSS1YVA?oc=5",
-   "pub": "Mon, 23 Nov 2026 11:11:31 GMT"
+   "t": "Auch T-Mobile US ausgespäht: US-Gericht spricht Huawei wegen Iran-Geschäften und Technologiediebstahl schuldig - n-tv.de",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVkpjU05lZHRFd09mN3Q4anZtTnNzUWJ3WUVkOWtFSnE4cUJPN2lvSEg1STB5eU5Ca0hNUUVzRFlKVUgyV3F2ODZUWWQ4S2pGLWtrZTdPNUM0Z1ROWFhFSVZRc1RUUGNMTlhtVDBncWc1cFpuMVBwakRkdXpNcmtrZDA4LTBpNGRCNnoyanVNQ3hNcjdFdWdmWGUxLVVoUTB2NGtwMVZyM2swdkhZNmhhVXgxaGl2X3hQQkpia0hYTGR4RE15aVplMg?oc=5",
+   "pub": "Tue, 24 Nov 2026 22:51:28 GMT"
   },
   {
    "t": "Fed vor überraschender Zinswende? Ökonomen erwarten gleich 3 Erhöhungen - Business Insider Deutschland",
@@ -69,29 +79,9 @@
    "pub": "Tue, 24 Nov 2026 09:11:00 GMT"
   },
   {
-   "t": "Zahl der Drittstaaten-Zweigenstellen schrumpft - China und Iran vorne - FinanzBusiness",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12ekVhZ2dhZUhPek0xSVlPMVZ5dDdyX3E1S3hQTGV0UHRqSjg0a0VDR3A0bVl0M0hIV01FWVFZTDFvZmJzS3VJMGtCdzBnSXVBamRsZk1kdmowaHVIYlhWc0xBQ0xfOXhOemY1Y1N4MGFHZw?oc=5",
-   "pub": "Tue, 24 Nov 2026 11:58:47 GMT"
-  },
-  {
-   "t": "Iran: Sängerin Parastu Ahmadi wegen Verstoßes gegen Kopftuchpflicht ausgepeitscht - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ29DamdIU0E4WnpvN05VZWFqSEgtbnA3ZEFvM185OFRfWWJ3anY4SFMxYzEzeHVpRFVMLUp1QkVYY0VmQVo1RTVKZFV6UV9jM2FyTldZUmlEWV85SUlmZFFoaFlPZjg5Y2J3QUpqNEg2NlR0MkNMcVBiQXBoVVczZ3hQaGpoWTB0d1ZmWHJNQzRmN2tIS2Y1Vjk5ZWZlb29zTzFEcUF5bERwdkdncW1QSzVwY0RfbUZhZUFqcTlCUEFKcXc5R1BCZ2gwcG9NRlk5N2RVVEpCeW1TMUpOVDQ5dHZCZzQ?oc=5",
-   "pub": "Mon, 23 Nov 2026 19:35:00 GMT"
-  },
-  {
-   "t": "Wegen Iran-Kriegs kaum gefüllt: Private Heizölvorräte sind zu Winterbeginn ungewöhnlich niedrig - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUlxSXdOdjlsR2hJTmo5YlNoYnJWUUNycHJncGJfTHhCaEZQNTlzY1gySkkxR1Z4anJqUWZkR3YzMnVZZ3ZnZHpFX01IcVR4YjJsd3FkLUgzQ05XZm1CY3A5Ul9ldUhkTEpId0p4dXk1VHhNZDNSV1lLN3JDS2tDZ295eGdqQTF6dW9IQTJ4X0FwUzF4enFaYTBSb2dfc25EanY3dno5VzJ2b285bE5jNkUtcw?oc=5",
-   "pub": "Tue, 24 Nov 2026 14:33:27 GMT"
-  },
-  {
    "t": "Reparationen für Kriegsschäden: Iran verlangt 290 Milliarden US-Dollar von den USA - Tagesspiegel",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTXI1TVc0cUQ1YWg4ZkRUZXRkcTRrODhzdEZJUE9lYnVoYlk2X2lCaUxCMlNHUHNJY0hFNjBvWjRKRGtTTHdqRTNuYkg1RnhzMHN1VVlHcC1MXzljNm5jMDlrZFNUdkI3am9BdUl4SnFMM1lyUkpILXQwTU1PVHYzODZ1eHVIRDFrV3pEazI5eDRUT2YyR1FaS2pQTm50NmlWN0UxclFpWlNwazNDN2FudGdva2tNSjRlYmU2bUhsOS1wcW5kNEtBbHZNTzFaaEVqaGhyMGRR?oc=5",
    "pub": "Mon, 23 Nov 2026 14:51:16 GMT"
-  },
-  {
-   "t": "74 Hiebe - Iranische Popsängerin wegen Livestream ausgepeitscht - SRF",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazNDNDlkTlJMT0VSWGpycnpIVFhzZGdoUHpuY19uQUtHY0FLNF96Q0l6UmlZZWR1Q0t4XzZ1YXRJVG1hUUdrS0I5aTd0OVYzVDM4bjBPOTVObklKM0dwRTYtYW1LUTF6NXlJY0xIcGlQa2JZS3VmOHA2OU0xTVNaTHR1eWNhRkZRc3N0LUpwY01jTjdVVnQ1T3NMTWZPVXBBSXc?oc=5",
-   "pub": "Tue, 24 Nov 2026 13:34:52 GMT"
   },
   {
    "t": "Iran-Krieg: Trump nennt Verhandlungen „Bullshit“ und rechnet mit Fortsetzung der Angriffe - WELT",
@@ -99,14 +89,24 @@
    "pub": "Mon, 23 Nov 2026 04:08:04 GMT"
   },
   {
-   "t": "Die Crews bedroht: USA vermuten Iran hinter Cyberangriffen auf Schiffe - heise online",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWFQYzJyTXFEZEtrNGRVYWFVeXNSYkFZRGM3aDYxQXJRTGV4UUVtRTAyQlMzY293bzRETmVsQlg1MlpIeEdyWmFVeGdWSmd4ckIydVlyQ2doRkhHY3NhS1NwZkt3azJOR2tCNVlDWFJjMFNWWnN6UlRDck5fTmlMRDd4RXZoRXZYUUVoVkhnVDdEaEtpRHA3cFJ6bkRMZzRWTmNSSXhuRGxSNWp2RkJrak9VVmJmZw?oc=5",
-   "pub": "Tue, 24 Nov 2026 05:53:00 GMT"
+   "t": "Australischer Dollar legt gegenüber dem Japanischen Yen nach Veröffentlichung heißer VPI-Inflationsdaten zu - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rekI0Y3BSOVMtbWxtLWp4ZmkzSWplQTIyemRQT01scXA3bkxweXJZYjBSek5XVUc1MjVhQWFpNHZGRmhJWnA4OWJRaVZIeFM3UjlqX0hGeW03TThrY29DSGhLZXFkenJr?oc=5",
+   "pub": "Wed, 25 Nov 2026 00:57:00 GMT"
   },
   {
-   "t": "Nach der Rally der Rückschlag: KI-Werte geraten erneut unter Druck - T-Online",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHRfa2EzekM2UmhWLVluUy0zd3NPbmYtX3FvdW1Wa0taMjFNdXhsSVVCVi1iOUNkNWIwajNJXzJsMU5kVUxhWTNwMkJaVkF6OFA3NGFkV1kwU2l3TmJCalBmVmxlOTJTWjJ1ckVHMldWc1NXVkxOVFlUNzB6NjFfQmN5Wk5PU203ZE5XTXRHbWV3ZmYwZ0t2SVJ0amxwenVPeC1PTXZrYTFDVGZWRmRseWJiN01URllfMXBleEw5bXh1STlSOGFMRg?oc=5",
-   "pub": "Tue, 24 Nov 2026 16:32:34 GMT"
+   "t": "Amazon-Aktie fällt, während höhere Inflation und Fed-Signale die Treasury-Renditen steigen lassen - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWthMnBtTzU0LVJPQmZmM0ZXTlZmVkNrVWdSVXVZOWljUjFnS2RRZllYNGUtS2VUc2JYZHNoeWVVclJjZEYwcUp5MEZ6VlRUd1V3RVJoV3B3eC1EU3E5bGlyOTM3UmtKQUkteV9vcjF5MjZHMDM3cWg1eFBZaC1PenJqR3h4LXhZ?oc=5",
+   "pub": "Tue, 24 Nov 2026 20:25:39 GMT"
+  },
+  {
+   "t": "Zahl der Drittstaaten-Zweigenstellen schrumpft - China und Iran vorne - FinanzBusiness",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12ekVhZ2dhZUhPek0xSVlPMVZ5dDdyX3E1S3hQTGV0UHRqSjg0a0VDR3A0bVl0M0hIV01FWVFZTDFvZmJzS3VJMGtCdzBnSXVBamRsZk1kdmowaHVIYlhWc0xBQ0xfOXhOemY1Y1N4MGFHZw?oc=5",
+   "pub": "Tue, 24 Nov 2026 11:58:47 GMT"
+  },
+  {
+   "t": "74 Hiebe - Iranische Popsängerin wegen Livestream ausgepeitscht - SRF",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNazNDNDlkTlJMT0VSWGpycnpIVFhzZGdoUHpuY19uQUtHY0FLNF96Q0l6UmlZZWR1Q0t4XzZ1YXRJVG1hUUdrS0I5aTd0OVYzVDM4bjBPOTVObklKM0dwRTYtYW1LUTF6NXlJY0xIcGlQa2JZS3VmOHA2OU0xTVNaTHR1eWNhRkZRc3N0LUpwY01jTjdVVnQ1T3NMTWZPVXBBSXc?oc=5",
+   "pub": "Tue, 24 Nov 2026 13:34:52 GMT"
   }
  ]
 }
