@@ -1,67 +1,77 @@
 {
- "collected_at": "2026-11-26T08:22:10Z",
+ "collected_at": "2026-11-26T19:02:28Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8332,
-   "chg1d_pct": -0.31
+   "price": 0.834,
+   "chg1d_pct": -0.21
   },
   "USDJPY": {
-   "price": 159.186,
-   "chg1d_pct": -0.05
+   "price": 159.264,
+   "chg1d_pct": 0.0
   },
   "GBPCAD": {
-   "price": 1.8636,
-   "chg1d_pct": -0.41
+   "price": 1.8668,
+   "chg1d_pct": -0.24
   },
   "AUDJPY": {
-   "price": 105.563,
-   "chg1d_pct": -0.07
+   "price": 105.616,
+   "chg1d_pct": -0.02
   },
   "EURUSD": {
    "price": 1.0973,
    "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0915,
-   "chg1d_pct": -0.37
+   "price": 1.0932,
+   "chg1d_pct": -0.21
   },
   "WTI": {
-   "price": 84.01,
-   "chg1d_pct": 0.39
+   "price": 84.92,
+   "chg1d_pct": 1.48
   },
   "BRENT": {
-   "price": 90.79,
-   "chg1d_pct": -4.04
+   "price": 91.65,
+   "chg1d_pct": -3.13
   },
   "GOLD": {
-   "price": 3592.6,
-   "chg1d_pct": 1.61
+   "price": 3595.2,
+   "chg1d_pct": 1.68
   },
   "SPX_FUT": {
-   "price": 7221.25,
-   "chg1d_pct": 0.35
+   "price": 7234.5,
+   "chg1d_pct": 0.54
   },
   "NAS_FUT": {
-   "price": 26205.75,
-   "chg1d_pct": 0.4
+   "price": 26221.25,
+   "chg1d_pct": 0.46
   }
  },
  "headlines": [
   {
-   "t": "Nahost - Israels Verteidgungsminister \"Katz: Iran entwickelt Chemiewaffen\" - Deutschlandfunk",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1NGTDNaQ3BjSURqVU1YeS1HRmdfMnFvejNtT2dqTWZhVWZ5S1ZPLVFnaDBrRHVMSnZPVGktSlNQQnpnMDV0WVEtT082NXdoNnRUOVYzeUxKSUU1UzdkR3dER3NsdGJkYm11bjNodGZCNVRyRTRwbHZjZ1B6X1ZPMFJ1UGQxa3R0cWM5WkFHMW5KbWdyM1NTV1F2N051eTFqZ2gxVw?oc=5",
-   "pub": "Wed, 25 Nov 2026 14:16:58 GMT"
+   "t": "Russland und Iran könnten sich gegen Europa zusammentun, befürchten Terrorexperten - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXIzZUJQSTd1UlQtNE51ZEJCSU03T08tNUlpUVNKdFUzdGpoX243WEpYOVJHajBUbFU5S05MNC14ZUtNWW1PX3FBaXVYZVZhblNuNEpTOGoxR2pWcnBXRkJkbTMwd19UZF9fc3VaeW8yNGFFODlQNXRua2ZrRXNWSzdva0dsektHUGlHeEFzbGc4aTVMOGQySjZmUm8xWWluR292emcwWHhDMU1pS25BNkc1R0twYmh4RWJ1OW05dw?oc=5",
+   "pub": "Thu, 26 Nov 2026 16:48:00 GMT"
   },
   {
-   "t": "Frauen in Iran: Die Unbeugsame - taz.de",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XcjZyRG5mLWIwRmdpcGE0WGxWeEhNaWcwRU9QSE45UlFOQWUwQjEzdDhRZkZoUEFtQ18yY2VlTkhKLTdpSFhteGRFV1JNRHd3?oc=5",
-   "pub": "Wed, 25 Nov 2026 19:07:18 GMT"
+   "t": "Iran: Diesem Regime ist vollkommen egal, wie es im Ausland wahrgenommen wird - Kultur - SZ.de - SZ.de",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFFESlF2MVM5RW5jMm1jNXhhTk5GV25lTjUtRkg1dURyWDktUkdPMmlTbTh5TEZRaWtrcjJEcnJmOHdhRWJXUm1qVE1rRXpRRDMyUnNwZHE5R3o5YXZuUWJfTVlMaVg2ZGczbjF3UWFuMm0ydGlwQy1aWXBXOC1kdFpTeXlCazliUzFjalJ0VHhIUWZucDVOOVZ3?oc=5",
+   "pub": "Thu, 26 Nov 2026 12:10:01 GMT"
   },
   {
-   "t": "Die Kurden sollten Donald Trumps Fusstruppen im Iran-Krieg sein – jetzt wurden sie im Stich gelassen - Neue Zürcher Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1hPUklVUmIwdmN5ZVQwTkRsMXVSWURYVGZlUGd0OVFva1V0d0RYbXQydXRNaHJJbmJKZ0phWlpGeElhYWJjMUFGYTRwZWozbzdNQ0REbVVNcTJoVm45MTNfaUhLbVpJamM4eEM1T1hYNWtwYzMxT2dvLTJFbmtqTmNGREVCbzhsOXpzOTJYNWFKUTF1NXB5NWt5OFNDZC1wWjktbG9aSlExdw?oc=5",
-   "pub": "Thu, 26 Nov 2026 04:30:00 GMT"
+   "t": "Kronleuchter aus, Winterjacke an: Irans Präsident gesteht „Wir haben kein Geld“ – as hinter dem Kollaps steckt - Frankfurter Rundschau",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVhiYXNyNTg5MUdGTlZ3M2VZNXpwZkFtUTAxZlY0U2NONlI5NXVQMWxOMTRvQzJzMHZUN1Y2bk85QktOMlBDdnFFeDVOR2tUN0luWUYzRDF4YmcycnhyUjJSa0xxcVVXSmJ6S0xfQ0J3V3FCcDFHVUdQSVJLMjlsUmpyS0VZN2kzblFFLXRvX1NtaXhQLXBDYzJkaENBbk5iQkNKcUhMNA?oc=5",
+   "pub": "Thu, 26 Nov 2026 13:02:49 GMT"
+  },
+  {
+   "t": "Iran-Krieg: Zwei Rheinmetall-Beschäftigte bei Angriff in Kuwait getötet - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUxzbWxQdlVoTV9FSHBjMllnTnBWRFFOR1V0UDQ0d2ZZbV9Ba00tU0tQRF9IMWhaOC1SMUZlN0JrTl9jcEh2V3VNSk9SN3BzLV9jcngwZlEyVHB1RHk4XzRndlZuLUVyNUMydWlWRzJERW1LNFNjdmY3dUJmZXdxOWRhcVNLWU5oNHozTjk2MjhWcjhPSWJFa1Y1OUlvM0p5NjdVZzBfZWpKbGlmZmV2aFAxRjJnbVlZXzhWMFBPMVV4Zw?oc=5",
+   "pub": "Thu, 26 Nov 2026 15:35:30 GMT"
+  },
+  {
+   "t": "Iran: Geheimdokument offenbart Plan zur Verhinderung von Weihnachtsfeiern - idea.de - Das christliche Nachrichtenportal",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDVqUnVhVlhEMTBJMHlVNjZWeFp0dGdQYllyazlOTDg1U09YNElWWE9veGkybWt1LWFMMzliMnA2d05SOUtxQ1NaMVdobEpseUVYMWthaXZUdnBlbWNZTnI5TkJXRjJDTjZwM2lYYXZ5TXFJYl9ZOUtLVEI1ZXhrS1l6bnQyV3F2cnJhdS1yY2pkTTFXWFU4Yg?oc=5",
+   "pub": "Thu, 26 Nov 2026 12:05:06 GMT"
   },
   {
    "t": "Trump: Iran-Krieg ist bis Ende Januar finanziert - Jüdische Allgemeine",
@@ -69,29 +79,19 @@
    "pub": "Wed, 25 Nov 2026 10:17:00 GMT"
   },
   {
-   "t": "Peitschenhiebe für ein Konzert - iranische Sängerin Parastu Ahmadi wird vom Regime bestraft - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CaFRjRnBveW5FQk9FelI3NzRCWkZvUXQzSFFxd2JKQ3hVdDY1Nl9yQTlQWHBoNDFCQTZ5MC1PYnFwWmhDTGRvSFU2WUJJbDUzTVpFVDlmNUxNTUdZbmRHaVJYY0Q1aDJ2aVEtUWZKS0JBbzlVWEFXQmhJMA?oc=5",
-   "pub": "Wed, 25 Nov 2026 16:56:27 GMT"
+   "t": "US-PCE: Fed wird getestet - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjBHWTd0S2k0U1FxS1V4bzVEZHRITkxlV01aOHlEdmNIY01KNi1zd2dZeWpsY2pCUDNnclJzTHFBYTNVM3lDLXREVUcwS1FlMHp1LU1NdGFydU52ZWRaRldobjdnWXdoZ1dIOUJHSUlSUDJJdGNVenA2OTRxdEE5ZWhLVDBLaVEtS3B1MF9aMTZwZlJkQWk3QVc4Z2ZhX0xyaWF1TWdyMC0?oc=5",
+   "pub": "Thu, 26 Nov 2026 15:36:10 GMT"
   },
   {
-   "t": "Iran: Mindestens 20 Menschen durch gepanschten Alkohol gestorben - Spiegel",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWG9xdU9PVzVNMmRZNjJmaGxSUW1nZ3FDS1g0Y1g0NEhNOUdwODJMMnd0Ni1zYndod3JEY1g2SjRQdjIycllxeU5YSTg2bVFlQnFtTDJvMC0wZ1FtdGo0d1N3LVoweG1zWjI4czNuUUhIUFgwZ05TNDVmdDg3Ymdrc1NqYUxPYkVLTDBRc1o3Sk9FdW1LZnVsQkV3V0lsZ2pWVkUyd0JnU081OHJCZFo1WUw4OVd5RWZsQ20yVzRQdWZhQlg3MVNoZ0lRX0JUQVE?oc=5",
-   "pub": "Wed, 25 Nov 2026 05:56:00 GMT"
+   "t": "Die Kurden sollten Donald Trumps Fusstruppen im Iran-Krieg sein – jetzt wurden sie im Stich gelassen - Neue Zürcher Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1hPUklVUmIwdmN5ZVQwTkRsMXVSWURYVGZlUGd0OVFva1V0d0RYbXQydXRNaHJJbmJKZ0phWlpGeElhYWJjMUFGYTRwZWozbzdNQ0REbVVNcTJoVm45MTNfaUhLbVpJamM4eEM1T1hYNWtwYzMxT2dvLTJFbmtqTmNGREVCbzhsOXpzOTJYNWFKUTF1NXB5NWt5OFNDZC1wWjktbG9aSlExdw?oc=5",
+   "pub": "Thu, 26 Nov 2026 04:30:00 GMT"
   },
   {
-   "t": "Drohende Fed-Zinserhöhung: Kommt jetzt der nächste Schlag für KI-Aktien? - WirtschaftsWoche",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDI3S2ZURUQ2ZzVmYVpQbzFHdXhtTy0yRmRNNTJRbU11WUpmNG5qV24xa18yaUx1MUhRSE56X1kxRmhETFhqSk1kSmcyS3o3d3hUUXM1c3BRUEZkdmtuWjZDS19vbE5zSjdWVlNxU0ZzQ2VGWmQ5bU85ek5VVExzM1kyVVZMcHNhN3Bpc1dJR0Iyb1g1dUVfT3RFRkduUnJmWmdFLUpiQzNRbXZ1bmNQbWxqUlhCU1lhY1ZnWmRZeURuUQ?oc=5",
-   "pub": "Thu, 26 Nov 2026 07:52:00 GMT"
-  },
-  {
-   "t": "Sängerin erhielt 74 Peitschenhiebe – für dieses Konzert - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRnh5Tk1YNFctdHZzN2ZCUjBLc1k3WFdMOXB6MjVkV1dJZ0VFUWotTWNERVZualpUeUg3a3dVZXU4aUlRZUVra1hZelBxQzVfVVozVHRiVndfSkJucVZROElOTURESWdwVV9WbmR0cXpQcEJ0UFI2UEJaNVQxa293b1lRQTBKWmpCMmdmWFNDbS1jWlVYaExTRHJ6TWRILXZXUjFPeTJYN3VHbExLbDc3NTBNUmprT1hsM01CclYtd2RiOHVlWERwNQ?oc=5",
-   "pub": "Wed, 25 Nov 2026 17:08:00 GMT"
-  },
-  {
-   "t": "Zinserhöhungen 2027: Welche Gefahr die Deutsche Bank für Aktien sieht - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNDJSLWUyUVlYTDZwem4zM3RkNE9PVlFBM3IzLXIyZGJaQlBOa25tSUJhbVE0NDBweUpQdVM1d3pHcEZZc0J1bXdSWmZGSl9RcERaNmd6ZVJUOHhPUUdRcHgwUDJ3OFdaMUZUSG1XOUYxd01RMzVGb0tFUkxYRm5sTTdXdElEbzRwbEtvUm9XMHpCaV9UOXhpU1lBcjRfaFZ1aUFfVzd0SXZNUkdNMFB1eElwLWNHelJCaUxtcnZTckZoY3UzVXhPTEJkZlFTS2VLSDE5QmF2dXJUd0lxdzZyZkF3OTNqMXJEaHc?oc=5",
-   "pub": "Wed, 25 Nov 2026 22:09:00 GMT"
+   "t": "Frauen in Iran: Die Unbeugsame - taz.de",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XcjZyRG5mLWIwRmdpcGE0WGxWeEhNaWcwRU9QSE45UlFOQWUwQjEzdDhRZkZoUEFtQ18yY2VlTkhKLTdpSFhteGRFV1JNRHd3?oc=5",
+   "pub": "Wed, 25 Nov 2026 19:07:18 GMT"
   },
   {
    "t": "Auch T-Mobile US ausgespäht: US-Gericht spricht Huawei wegen Iran-Geschäften und Technologiediebstahl schuldig - n-tv.de",
@@ -99,14 +99,14 @@
    "pub": "Tue, 24 Nov 2026 22:51:28 GMT"
   },
   {
-   "t": "Studiogespräch: Nadine Herweg, Gesine Intervention Ennepe-Ruhr-Kreis - WDR",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEtJb1VVaUdtS2tfUHFQWXRCc09VT0ptZ2xrRWpKbW15SnhsbWNTVlY1UWpQdUlPdjlyNkRoc24yd21sdmhRd21hNUxvRGdiRlgyajVncUtFSnUwMjVNa0JFdjd4dXVNbzhvY0FvbEh4RV9QVjV6YVM0ajNxemlsZ05XbXdQQWJuNkRVWDYwYkd5TnpWeVFrY2N6bkJhdURVVXpVWmJhM2R0cFlNVWl5eWNvRzR5SkI0T3ZhQy1OX1RvWExHQmFWVERPMklzaVItTk8tYktncFbSAdcBQVVfeXFMTzRUUlNmSDdQdUxXbmgzeWw5OGVnS0REbFYybzhGWHE3Ty1mbUJFNU5sd3ByckF5S29ySTJESVZ0M2k5YkFjUlVGU1hsVjhYU1pYYnNmQnZ6cFBoX3NXTmdzSGt3eXRCWmpLaHVKQzBxNjRXTHpIak8wNW5iQi1GdDhFS0hsVVE1b0Jqa29jYy1ORXdqYUxUaWtfZ0stcmpzNWxhS3ZGTEN1OENKb2sza0dVRUdJcE96THExVkFNeklMS2JmWFA3NElUaEdSdUFRR2JwbVg4MEk?oc=5",
-   "pub": "Wed, 25 Nov 2026 20:10:45 GMT"
+   "t": "Japanese Yen: Safe haven demand and BoJ hikes lend support - MUFG - tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVlITlVieU5XUFV4cUpNQUNKV3BXOElwXzZDUGFOSWlqVWkyNXlYOWZ0T0VzODVjN29FSUVaTnpPdFhNSWw3a2dCNkNsRXNUWlJJQTJISkVJbzhCWGp3ekhCMHYxQWJOSDMyV0duV0tIemNrb2xUM2VVVkRnMGkwZW84UHRRcDM2U1BfdUhQUmw5OTJ2YTNpdXpLSTFMZHNZbENBa2d0Y0p1alpNZXJOZW03bUstMVJRYXQyMGFaSjFEMi1WZkZZ?oc=5",
+   "pub": "Thu, 26 Nov 2026 12:47:06 GMT"
   },
   {
-   "t": "Strait of Hormuz: Iran reports explosions on oil tankers again - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWHNQdWxnVXM1dENVV2ttUFRaNTR2SnpENnN6Q05CeGE2WHh4U1RyWVJ2ZDA3MG4tcG51QlBiSXh0cXgzVjAyZGo1TmtydGYzcGM0RGFnNi1qNGNUMVRwejc0aDBNNDBRbnpqY2x4M3RHYWtYMV9hZGxkeE4ycy1zSkRCZl9wTVBuUHYxRWFHQks2MVJCX2hUMklqWUdCRnV3M2VR?oc=5",
-   "pub": "Wed, 25 Nov 2026 16:27:00 GMT"
+   "t": "Iran - 74 Peitschenhiebe für Sängerin nach Auftritt ohne Hijab - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2lCZjRrWkpzblY5NXhEOGNDQW1iSy0wYjdMVVNTX2hnSXFuVDZvUmpqX0hjZHFtdVNkbGd3a181Njl1Q2xidEhQQjhRVk43YTk1X3oyXzBFc2drd01IWU1vZHp6cG9CeFJ3UXVTREhOWTgzRGpmdVl1Y01Sa1ZXcVRPZTVhc0NiQTMwOVhjbk1tcHhiSjZFR3lpZjNCbnM?oc=5",
+   "pub": "Tue, 24 Nov 2026 05:52:19 GMT"
   }
  ]
 }
