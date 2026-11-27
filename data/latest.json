@@ -1,50 +1,50 @@
 {
- "collected_at": "2026-11-26T19:02:28Z",
+ "collected_at": "2026-11-27T02:12:01Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.834,
-   "chg1d_pct": -0.21
+   "price": 0.8338,
+   "chg1d_pct": 0.31
   },
   "USDJPY": {
-   "price": 159.264,
+   "price": 159.218,
    "chg1d_pct": 0.0
   },
   "GBPCAD": {
    "price": 1.8668,
-   "chg1d_pct": -0.24
+   "chg1d_pct": 0.17
   },
   "AUDJPY": {
-   "price": 105.616,
-   "chg1d_pct": -0.02
+   "price": 106.061,
+   "chg1d_pct": 0.51
   },
   "EURUSD": {
-   "price": 1.0973,
+   "price": 1.0981,
    "chg1d_pct": 0.1
   },
   "GBPCHF": {
-   "price": 1.0932,
-   "chg1d_pct": -0.21
+   "price": 1.0938,
+   "chg1d_pct": 0.37
   },
   "WTI": {
-   "price": 84.92,
-   "chg1d_pct": 1.48
+   "price": 85.64,
+   "chg1d_pct": 2.34
   },
   "BRENT": {
-   "price": 91.65,
-   "chg1d_pct": -3.13
+   "price": 92.36,
+   "chg1d_pct": -2.38
   },
   "GOLD": {
-   "price": 3595.2,
-   "chg1d_pct": 1.68
+   "price": 3628.2,
+   "chg1d_pct": 2.61
   },
   "SPX_FUT": {
-   "price": 7234.5,
-   "chg1d_pct": 0.54
+   "price": 7277.75,
+   "chg1d_pct": 1.14
   },
   "NAS_FUT": {
-   "price": 26221.25,
-   "chg1d_pct": 0.46
+   "price": 26513.75,
+   "chg1d_pct": 1.58
   }
  },
  "headlines": [
@@ -59,19 +59,29 @@
    "pub": "Thu, 26 Nov 2026 12:10:01 GMT"
   },
   {
-   "t": "Kronleuchter aus, Winterjacke an: Irans Präsident gesteht „Wir haben kein Geld“ – as hinter dem Kollaps steckt - Frankfurter Rundschau",
+   "t": "Nahost: Iran weist Verantwortung für Angriff in Kuwait zurück - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2M5Q2FfRzVFS1JhZmtFRFFRZEx5czFBS3JXdWNEOVFJeWxRVGRINU92OE1fMnZyWGtDNWZzYXl5SjZRa191aGVGbkgxaEFDR3VHdG5CRGVyX01MN0hURU9ZMlNaRkY4N1BvRzc3TU9DVXpYakdZeWVXZXlSV0JPelF5Y251S1hNdlc0dkNsNUpEVV9mTGlPTnNhTUgzTFJxTFFtZklRME84cEN2ZERaN3pldFM?oc=5",
+   "pub": "Thu, 26 Nov 2026 21:08:29 GMT"
+  },
+  {
+   "t": "Kronleuchter aus, Winterjacke an: Irans Präsident gesteht „Wir haben kein Geld“ – was hinter dem Kollaps steckt - Frankfurter Rundschau",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVhiYXNyNTg5MUdGTlZ3M2VZNXpwZkFtUTAxZlY0U2NONlI5NXVQMWxOMTRvQzJzMHZUN1Y2bk85QktOMlBDdnFFeDVOR2tUN0luWUYzRDF4YmcycnhyUjJSa0xxcVVXSmJ6S0xfQ0J3V3FCcDFHVUdQSVJLMjlsUmpyS0VZN2kzblFFLXRvX1NtaXhQLXBDYzJkaENBbk5iQkNKcUhMNA?oc=5",
    "pub": "Thu, 26 Nov 2026 13:02:49 GMT"
   },
   {
-   "t": "Iran-Krieg: Zwei Rheinmetall-Beschäftigte bei Angriff in Kuwait getötet - STERN.de",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUxzbWxQdlVoTV9FSHBjMllnTnBWRFFOR1V0UDQ0d2ZZbV9Ba00tU0tQRF9IMWhaOC1SMUZlN0JrTl9jcEh2V3VNSk9SN3BzLV9jcngwZlEyVHB1RHk4XzRndlZuLUVyNUMydWlWRzJERW1LNFNjdmY3dUJmZXdxOWRhcVNLWU5oNHozTjk2MjhWcjhPSWJFa1Y1OUlvM0p5NjdVZzBfZWpKbGlmZmV2aFAxRjJnbVlZXzhWMFBPMVV4Zw?oc=5",
-   "pub": "Thu, 26 Nov 2026 15:35:30 GMT"
+   "t": "Nahost - Israels Verteidgungsminister \"Katz: Iran entwickelt Chemiewaffen\" - Deutschlandfunk",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1NGTDNaQ3BjSURqVU1YeS1HRmdfMnFvejNtT2dqTWZhVWZ5S1ZPLVFnaDBrRHVMSnZPVGktSlNQQnpnMDV0WVEtT082NXdoNnRUOVYzeUxKSUU1UzdkR3dER3NsdGJkYm11bjNodGZCNVRyRTRwbHZjZ1B6X1ZPMFJ1UGQxa3R0cWM5WkFHMW5KbWdyM1NTV1F2N051eTFqZ2gxVw?oc=5",
+   "pub": "Wed, 25 Nov 2026 14:16:58 GMT"
   },
   {
-   "t": "Iran: Geheimdokument offenbart Plan zur Verhinderung von Weihnachtsfeiern - idea.de - Das christliche Nachrichtenportal",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDVqUnVhVlhEMTBJMHlVNjZWeFp0dGdQYllyazlOTDg1U09YNElWWE9veGkybWt1LWFMMzliMnA2d05SOUtxQ1NaMVdobEpseUVYMWthaXZUdnBlbWNZTnI5TkJXRjJDTjZwM2lYYXZ5TXFJYl9ZOUtLVEI1ZXhrS1l6bnQyV3F2cnJhdS1yY2pkTTFXWFU4Yg?oc=5",
-   "pub": "Thu, 26 Nov 2026 12:05:06 GMT"
+   "t": "Strait of Hormuz: Iran Reports Explosions on Oil Tankers Again - Logistik Heute",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnlyM2hVZDYzN3hTT2hucGowdVAtWlRvWWdSYXlBWnU1czFadWhHeXItTFBTdTc1aWhTZlZUR1BGT0toWW14cDQyZml6WnQzLUg1QjdqbHo2Y2JPZWFmYlpTVm40OXNXZlQ5aG01NUU5UFRycFlzS0xxTUhSOTFBMXJiaGlYdGU0OXFUcnUwLUpCMll3QXNIUklZTzB0MnVKSFhV?oc=5",
+   "pub": "Thu, 26 Nov 2026 18:57:00 GMT"
+  },
+  {
+   "t": "US-PCE: Fed wird getestet - e-fundresearch.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjBHWTd0S2k0U1FxS1V4bzVEZHRITkxlV01aOHlEdmNIY01KNi1zd2dZeWpsY2pCUDNnclJzTHFBYTNVM3lDLXREVUcwS1FlMHp1LU1NdGFydU52ZWRaRldobjdnWXdoZ1dIOUJHSUlSUDJJdGNVenA2OTRxdEE5ZWhLVDBLaVEtS3B1MF9aMTZwZlJkQWk3QVc4Z2ZhX0xyaWF1TWdyMC0?oc=5",
+   "pub": "Thu, 26 Nov 2026 21:36:10 GMT"
   },
   {
    "t": "Trump: Iran-Krieg ist bis Ende Januar finanziert - Jüdische Allgemeine",
@@ -79,14 +89,9 @@
    "pub": "Wed, 25 Nov 2026 10:17:00 GMT"
   },
   {
-   "t": "US-PCE: Fed wird getestet - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjBHWTd0S2k0U1FxS1V4bzVEZHRITkxlV01aOHlEdmNIY01KNi1zd2dZeWpsY2pCUDNnclJzTHFBYTNVM3lDLXREVUcwS1FlMHp1LU1NdGFydU52ZWRaRldobjdnWXdoZ1dIOUJHSUlSUDJJdGNVenA2OTRxdEE5ZWhLVDBLaVEtS3B1MF9aMTZwZlJkQWk3QVc4Z2ZhX0xyaWF1TWdyMC0?oc=5",
-   "pub": "Thu, 26 Nov 2026 15:36:10 GMT"
-  },
-  {
-   "t": "Die Kurden sollten Donald Trumps Fusstruppen im Iran-Krieg sein – jetzt wurden sie im Stich gelassen - Neue Zürcher Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1hPUklVUmIwdmN5ZVQwTkRsMXVSWURYVGZlUGd0OVFva1V0d0RYbXQydXRNaHJJbmJKZ0phWlpGeElhYWJjMUFGYTRwZWozbzdNQ0REbVVNcTJoVm45MTNfaUhLbVpJamM4eEM1T1hYNWtwYzMxT2dvLTJFbmtqTmNGREVCbzhsOXpzOTJYNWFKUTF1NXB5NWt5OFNDZC1wWjktbG9aSlExdw?oc=5",
-   "pub": "Thu, 26 Nov 2026 04:30:00 GMT"
+   "t": "Iran: Geheimdokument offenbart Plan zur Verhinderung von Weihnachtsfeiern - idea.de - Das christliche Nachrichtenportal",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDVqUnVhVlhEMTBJMHlVNjZWeFp0dGdQYllyazlOTDg1U09YNElWWE9veGkybWt1LWFMMzliMnA2d05SOUtxQ1NaMVdobEpseUVYMWthaXZUdnBlbWNZTnI5TkJXRjJDTjZwM2lYYXZ5TXFJYl9ZOUtLVEI1ZXhrS1l6bnQyV3F2cnJhdS1yY2pkTTFXWFU4Yg?oc=5",
+   "pub": "Thu, 26 Nov 2026 12:05:06 GMT"
   },
   {
    "t": "Frauen in Iran: Die Unbeugsame - taz.de",
@@ -99,14 +104,9 @@
    "pub": "Tue, 24 Nov 2026 22:51:28 GMT"
   },
   {
-   "t": "Japanese Yen: Safe haven demand and BoJ hikes lend support - MUFG - tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVlITlVieU5XUFV4cUpNQUNKV3BXOElwXzZDUGFOSWlqVWkyNXlYOWZ0T0VzODVjN29FSUVaTnpPdFhNSWw3a2dCNkNsRXNUWlJJQTJISkVJbzhCWGp3ekhCMHYxQWJOSDMyV0duV0tIemNrb2xUM2VVVkRnMGkwZW84UHRRcDM2U1BfdUhQUmw5OTJ2YTNpdXpLSTFMZHNZbENBa2d0Y0p1alpNZXJOZW03bUstMVJRYXQyMGFaSjFEMi1WZkZZ?oc=5",
-   "pub": "Thu, 26 Nov 2026 12:47:06 GMT"
-  },
-  {
-   "t": "Iran - 74 Peitschenhiebe für Sängerin nach Auftritt ohne Hijab - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2lCZjRrWkpzblY5NXhEOGNDQW1iSy0wYjdMVVNTX2hnSXFuVDZvUmpqX0hjZHFtdVNkbGd3a181Njl1Q2xidEhQQjhRVk43YTk1X3oyXzBFc2drd01IWU1vZHp6cG9CeFJ3UXVTREhOWTgzRGpmdVl1Y01Sa1ZXcVRPZTVhc0NiQTMwOVhjbk1tcHhiSjZFR3lpZjNCbnM?oc=5",
-   "pub": "Tue, 24 Nov 2026 05:52:19 GMT"
+   "t": "Iran: Mindestens 20 Menschen durch gepanschten Alkohol gestorben - Spiegel",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWG9xdU9PVzVNMmRZNjJmaGxSUW1nZ3FDS1g0Y1g0NEhNOUdwODJMMnd0Ni1zYndod3JEY1g2SjRQdjIycllxeU5YSTg2bVFlQnFtTDJvMC0wZ1FtdGo0d1N3LVoweG1zWjI4czNuUUhIUFgwZ05TNDVmdDg3Ymdrc1NqYUxPYkVLTDBRc1o3Sk9FdW1LZnVsQkV3V0lsZ2pWVkUyd0JnU081OHJCZFo1WUw4OVd5RWZsQ20yVzRQdWZhQlg3MVNoZ0lRX0JUQVE?oc=5",
+   "pub": "Wed, 25 Nov 2026 05:56:00 GMT"
   }
  ]
 }
