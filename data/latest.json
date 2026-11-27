@@ -1,57 +1,77 @@
 {
- "collected_at": "2026-11-27T10:53:50Z",
+ "collected_at": "2026-11-27T19:58:24Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
-   "price": 0.8356,
-   "chg1d_pct": 0.53
+   "price": 0.8363,
+   "chg1d_pct": 0.61
   },
   "USDJPY": {
-   "price": 159.517,
-   "chg1d_pct": 0.19
+   "price": 159.562,
+   "chg1d_pct": 0.22
   },
   "GBPCAD": {
-   "price": 1.8691,
-   "chg1d_pct": 0.3
+   "price": 1.8657,
+   "chg1d_pct": 0.12
   },
   "AUDJPY": {
-   "price": 106.455,
-   "chg1d_pct": 0.89
+   "price": 106.078,
+   "chg1d_pct": 0.53
   },
   "EURUSD": {
-   "price": 1.0966,
-   "chg1d_pct": -0.04
+   "price": 1.0939,
+   "chg1d_pct": -0.28
   },
   "GBPCHF": {
-   "price": 1.0968,
-   "chg1d_pct": 0.65
+   "price": 1.0951,
+   "chg1d_pct": 0.49
   },
   "WTI": {
-   "price": 85.79,
-   "chg1d_pct": 2.52
+   "price": 83.08,
+   "chg1d_pct": -0.72
   },
   "BRENT": {
-   "price": 92.4,
-   "chg1d_pct": -2.34
+   "price": 90.84,
+   "chg1d_pct": -3.98
   },
   "GOLD": {
-   "price": 3704.4,
-   "chg1d_pct": 4.77
+   "price": 3668.5,
+   "chg1d_pct": 3.75
   },
   "SPX_FUT": {
-   "price": 7333.75,
-   "chg1d_pct": 1.92
+   "price": 7308.25,
+   "chg1d_pct": 1.56
   },
   "NAS_FUT": {
-   "price": 26781.5,
-   "chg1d_pct": 2.61
+   "price": 26765.0,
+   "chg1d_pct": 2.55
   }
  },
  "headlines": [
   {
-   "t": "Nur Schießen wäre Beteiligung: Trump spielt Hilfe Chinas und Russlands für Iran herunter - n-tv.de",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFFrVHRVSU9QeXhTbXNfdThMaEtHRkpzcmxtdUZtX2VzT2xvU3dmQkk4WTFabnVmc3NURWhucWRDVW44aGZDczhRM1RSRkNaT1FHNy1aNlFucWJRZE1Xa1ZWMmV5WVA0UHd0ZW9lajVlY3gtMjNSb0ZsYXZ3bUMzNEFuUXVkSW10VWF4VG9yNmhNcXRPeGxwQ0pEX0tzeFNNTml2Rg?oc=5",
-   "pub": "Fri, 27 Nov 2026 06:21:42 GMT"
+   "t": "Streit um Angriff gegen Iran: Mossad-Chef drängt auf israelischen Alleingang - Jüdische Allgemeine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzZJM0pUOUdMYl8ydUZXMDdnSkhCd0toN2tKdEhEVkdDQ2V3UU5WcTg0SUI2MUJaVkRxRmRhTWtnbVZlUTVDcFpRM3BSS05VbXlGQnpZd3lTNEpvbmRXX0tDcFlUcDdzT1hSS3kyT0FfNWx1NTdncmJZaDB3QmJfWm95SjRWMm02d2M0TUx4eE5NT0h6MnQ1UHB3TTFfSUh1cUx1c1l2ZVFQT191aTJYWnpJQjVjZ09OcEd6RA?oc=5",
+   "pub": "Fri, 27 Nov 2026 11:18:00 GMT"
+  },
+  {
+   "t": "Trump spielt Berichte über Hilfe Russlands und Chinas für den Iran herunter - STERN.de",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDl2WHVQeVNWNlN3QjVib2htandMWHBvaWh4cTlzenJ0aEZoaFNISEhzY1MwczFqeUw0b2VEdFN6dEJMbGY0MjEzbjlNcXhHTTFGNU82NVJLbktLN2ptOWYtazRfTnJoUjZUM3VHVmd0Yi0yMlcyZ0RNcW91UkFnVjZYSWkxUzE3a2tIazRocXVIeUgwOXgwS2dBUmQ4MWJqRlFSMXFQZE1uZHBLYkRpNDNjUTdrVWRf?oc=5",
+   "pub": "Fri, 27 Nov 2026 03:14:37 GMT"
+  },
+  {
+   "t": "Iran-Vermittler packt aus: So reden Washington und Teheran, wenn keiner zuhört - der Freitag",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmJjRlEteUZTWllELVI0N0w4MGVndGNwMzhQWmo4MWxhY1Vkck1IUjhQeEc2LXk4X2Zpa1FCVW0xOFlndnoxWFJPdW5lZUkwWW9RY3luMjZqT2I4c3J2OVVjUlFBanJhVE82ZU1JaWF1U0ZHR2M4b2pxUlA3VzVvTDNVOW85YThiaEFUN3hiU3FJYWlKVlcxN2hRY01odUlaSHlvZHFhLUFOak5JRVF3YTN2THdpNzNn?oc=5",
+   "pub": "Fri, 27 Nov 2026 13:12:00 GMT"
+  },
+  {
+   "t": "Nach Iran-Protesten: Mullahs wollen Zwillings-Schwester hinrichten - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVVCYWFfY01LVVBwTTE0SmlEeW9ibi01amY1U2hzSEVXY2ozNjhsVUUtWHdIX1NmQUZXX2F6N2lqWVZ2b1NmOE5jRmk3eHNzc19JX0d5TktEUlVzRmJKWm9vYmpFMjNTZktHdG5TQ25ac0ZpYnVfNzFVR0VVSHM1NDc1OVJPM0xBUnF0TU4ta0Y3eFRrcFVXTG01UFhsa2wwNEVCQWVwN0JLZmtyU3otWDFZdmdfdWtwV1VoY05iVXN2b0dseGdEUGluS3B1T1RqbmF5M1ZPbVBHQjFGM1FV?oc=5",
+   "pub": "Fri, 27 Nov 2026 11:44:22 GMT"
+  },
+  {
+   "t": "Arthur Hayes gibt Wochenend-Warnung zum Kryptomarkt aus, Beginn der Fed-Blackout-Periode - BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5STF9MSmpGdjhQUXNZSXp6dlhYQzVoUDc3LVloUTNQc1VDZVhPeFNybVNSaWgyRG5hY3FvbWxRUXotVERoVGJpRkpzTnNfLWlyTmkzelBKSThHVEJpaWptZHNkWFh4QThTb0VOZmpGa014UlR5QkE?oc=5",
+   "pub": "Fri, 27 Nov 2026 11:58:00 GMT"
   },
   {
    "t": "Russland und Iran könnten sich gegen Europa zusammentun, befürchten Terrorexperten - Spiegel",
@@ -59,54 +79,34 @@
    "pub": "Thu, 26 Nov 2026 16:48:00 GMT"
   },
   {
-   "t": "Iran weist Verantwortung für Angriff in Kuwait zurück - Vodafone live",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYnF1NE0yOWVTd3Z5V3JVaEF0TE1hVEk4cXV3T3o2d1BJVnBHa0RPRUlBdHEzdHNDVGNydVNKMmxSTUZETHpLY3A0N0t4X1FwbEE5YVI0Y3J2TWo1YkdNRDdQQk8xeS05Vno1WTVJQWNKWlM0ODZXaXJWTlBtY1haWGJiSTdubHpSdEphLWJrc0kzbzQyR3U3UkNjcmFEdWtadjdEMHRINUhrTXdQMnZCSF90NVY?oc=5",
-   "pub": "Thu, 26 Nov 2026 21:08:00 GMT"
-  },
-  {
-   "t": "Bitcoin-Prognose: Rutscht der Kurs vor der Fed-Sitzung im Dezember Richtung 50.000 US-Dollar? - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3E3YkFfOG56Yy1EdGxTUUxNM3VYOVB3bk9kWUV5WUpHRWhnVVJNUFpDR3dleXMtMmhLZXNGRXpwV3h1cjFhT0c1eUppUUpXOVpsSTdubU5uRlVYSGNBb2J3a29ISV9KMVdoTGg2SUNwWGZlOFlsTVNWMGJjdVBKMXN5YlBiZkxod05zd2RmY0xFTm5CcktwMGlKVEJlQW82TEIxbXR4RTRWSnUybkFUcDk4a1dpUXZoVHR3elQ0TEdoYlZ2bWRVZU9TQjUxUUdJSFYxRGxiRFExRDJlanljR2lMc2dUOURIeHl3cUxnN2REUQ?oc=5",
-   "pub": "Fri, 27 Nov 2026 10:40:00 GMT"
-  },
-  {
-   "t": "„Verdächtig“: Iran weist Verantwortung für Drohnenangriff in Kuwait zurück - Berliner Zeitung",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkZmakJ6WG1pR19lQmNYN2FUVVNVSkFycy1KTzc0VzdDRmM2TjZKcWxrTHh6MTdNXzVmRUdMY1NTMUhLOFVHLUhxOXJKU01PNkNtanpHSkJycnY1LXVNRHMyUHB4RFBWaXNRN3EwVXdfbXAxNFAzcFY4b0Y1aG1BVVlleVhEZXVyRmZxdnR5Z2hNUmV2aFdfOE9BSXduQXZ2T19xTy1Vemt3M1NCRmQ2VWNXd2c3T3FZRjM2NG5Sa1o?oc=5",
-   "pub": "Fri, 27 Nov 2026 09:25:52 GMT"
-  },
-  {
-   "t": "Iran: Diesem Regime ist vollkommen egal, wie es im Ausland wahrgenommen wird - Kultur - SZ.de - SZ.de",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFFESlF2MVM5RW5jMm1jNXhhTk5GV25lTjUtRkg1dURyWDktUkdPMmlTbTh5TEZRaWtrcjJEcnJmOHdhRWJXUm1qVE1rRXpRRDMyUnNwZHE5R3o5YXZuUWJfTVlMaVg2ZGczbjF3UWFuMm0ydGlwQy1aWXBXOC1kdFpTeXlCazliUzFjalJ0VHhIUWZucDVOOVZ3?oc=5",
-   "pub": "Thu, 26 Nov 2026 12:10:01 GMT"
-  },
-  {
    "t": "Frauen in Iran: Die Unbeugsame - taz.de",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XcjZyRG5mLWIwRmdpcGE0WGxWeEhNaWcwRU9QSE45UlFOQWUwQjEzdDhRZkZoUEFtQ18yY2VlTkhKLTdpSFhteGRFV1JNRHd3?oc=5",
    "pub": "Wed, 25 Nov 2026 19:07:18 GMT"
   },
   {
-   "t": "Strait of Hormuz: Iran Reports Explosions on Oil Tankers Again - Logistik Heute",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnlyM2hVZDYzN3hTT2hucGowdVAtWlRvWWdSYXlBWnU1czFadWhHeXItTFBTdTc1aWhTZlZUR1BGT0toWW14cDQyZml6WnQzLUg1QjdqbHo2Y2JPZWFmYlpTVm40OXNXZlQ5aG01NUU5UFRycFlzS0xxTUhSOTFBMXJiaGlYdGU0OXFUcnUwLUpCMll3QXNIUklZTzB0MnVKSFhV?oc=5",
-   "pub": "Thu, 26 Nov 2026 18:57:00 GMT"
+   "t": "Irans Volk zwischen Hoffen und Bangen - RND.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdzVBSlY3bHdrd1BIT1VMSVNsWWxlSTN0ekFXVkg2cVMwN0d1X2JjOEhuMTFoRElyYWxieWpqbHZMbjc1dG9CYUNOUGlLcnI1TW53YkswZzgwUVpRbXJVTGlnbjJnMzBQQUhkTTR4WXpkMWJac2VYZ1M0QXBxVTgtMkN4eV83Z3FhZ2t2a3hNTEVDanUyMlJfQ2cwbC15MVAz?oc=5",
+   "pub": "Fri, 27 Nov 2026 13:17:34 GMT"
   },
   {
-   "t": "Kronleuchter aus, Winterjacke an: Irans Präsident gesteht „Wir haben kein Geld“ – was hinter dem Kollaps steckt - Frankfurter Rundschau",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVhiYXNyNTg5MUdGTlZ3M2VZNXpwZkFtUTAxZlY0U2NONlI5NXVQMWxOMTRvQzJzMHZUN1Y2bk85QktOMlBDdnFFeDVOR2tUN0luWUYzRDF4YmcycnhyUjJSa0xxcVVXSmJ6S0xfQ0J3V3FCcDFHVUdQSVJLMjlsUmpyS0VZN2kzblFFLXRvX1NtaXhQLXBDYzJkaENBbk5iQkNKcUhMNA?oc=5",
-   "pub": "Thu, 26 Nov 2026 13:02:49 GMT"
+   "t": "Iran: Zivilisten an die Waffen! - DIE ZEIT",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tbjdxR0ZULU5TR2I5bkpKVWlkQXpfYnEwemdPbTJveVVVc3dfeEdHNWl3OER6Wms2X2RBdmRVSnpoMk1qZG1fM25penhVcVpPaDVtZUxJUTU3SVlQM0E4SXJ4c05QOXZOREFNLXZVQ1Y?oc=5",
+   "pub": "Fri, 27 Nov 2026 14:14:53 GMT"
   },
   {
-   "t": "Japanischer Yen: Interventionsrisiko und Aussichten auf eine Zinserhöhung der BoJ – OCBC - www.tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTEwdFpVQ3NlVnVhMUZvWGJjYmdva3VqaTV4d1RfUHdFQ3ZqS3JwNmtpeGxxekZGbVVJVWQ4Rl9UeFh1TUtBT2ZoNld1RWxtS0dPRVZxX2Vfc21Kc1J2Z3B2SG9hempkOTNsRVRfQktjYTNETVJWS1daSWhUMDl0WnFwU1c0aFVzWXk3eVBkQ2Vud3l5R01NQk1pV0p6Vm1YT01KZkhydUVnWW9vX0dRYVBHcVlCcktUWW1OdmdKY2VXQQ?oc=5",
-   "pub": "Fri, 27 Nov 2026 09:44:42 GMT"
+   "t": "EU-Bericht enthüllt: Iran-Krise spült Russland Milliarden in die Kasse - T-Online",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMjI0R05JZ05EUUxQSGNDWHBrT01UVW5idVhESHJjZjhza1JTNUpHN1IyRlE2d3pvVHpXYTVRT1hOV2J5UkdxMm44Nzh1ZDdWWDU1a1NWYl9pVGpISU5pZTVnMHN0STZLNl9hMkRTZldvWHlOdDA1b3dPbUlZd3FSQ2N1bEszVU12T0t2SmkwbnhpQUtZcjhvU1htS0Z1ZW5yVWhOeS1LS0lYZzRDRUxhUjV0ZUp0SjV2eHRZalRwZzhYdTRZaGNxQWluTG1UMGljRDMzaVN4dw?oc=5",
+   "pub": "Fri, 27 Nov 2026 15:40:10 GMT"
   },
   {
-   "t": "Iran-Krieg: Zwei Rheinmetall-Beschäftigte bei Angriff in Kuwait getötet - Table.Briefings",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS05kaU5Pc2xQbmFiNmJzUnhQdzRES25Ubk1FQ0VYUXJQMHdJYlJNazNRbjFYemd1SUpwSjM0TlhfbXJKSm9LWG9qaUQ1b19odHJqbUtpLUdQVzFjQnROeFlTNnd1VGd2R2lXVmJULVhzWUVBX1dqX2xQRVlSMXVKSHF1aG13eGlJUFE1dk93MVN0QUxfdkRvc0Rja0t1Ul9EazBLTDd0V0dhZw?oc=5",
-   "pub": "Fri, 27 Nov 2026 04:16:54 GMT"
+   "t": "Bitcoin-Prognose: Rutscht der Kurs vor der Fed-Sitzung im Dezember Richtung 50.000 US-Dollar? - Finanzen.net",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3E3YkFfOG56Yy1EdGxTUUxNM3VYOVB3bk9kWUV5WUpHRWhnVVJNUFpDR3dleXMtMmhLZXNGRXpwV3h1cjFhT0c1eUppUUpXOVpsSTdubU5uRlVYSGNBb2J3a29ISV9KMVdoTGg2SUNwWGZlOFlsTVNWMGJjdVBKMXN5YlBiZkxod05zd2RmY0xFTm5CcktwMGlKVEJlQW82TEIxbXR4RTRWSnUybkFUcDk4a1dpUXZoVHR3elQ0TEdoYlZ2bWRVZU9TQjUxUUdJSFYxRGxiRFExRDJlanljR2lMc2dUOURIeHl3cUxnN2REUQ?oc=5",
+   "pub": "Fri, 27 Nov 2026 16:40:00 GMT"
   },
   {
-   "t": "US-PCE: Fed wird getestet - e-fundresearch.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUjBHWTd0S2k0U1FxS1V4bzVEZHRITkxlV01aOHlEdmNIY01KNi1zd2dZeWpsY2pCUDNnclJzTHFBYTNVM3lDLXREVUcwS1FlMHp1LU1NdGFydU52ZWRaRldobjdnWXdoZ1dIOUJHSUlSUDJJdGNVenA2OTRxdEE5ZWhLVDBLaVEtS3B1MF9aMTZwZlJkQWk3QVc4Z2ZhX0xyaWF1TWdyMC0?oc=5",
-   "pub": "Thu, 26 Nov 2026 21:36:10 GMT"
+   "t": "Iran in Deutschland unter Terrorverdacht: Gegen eine Allianz der Schurken - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON1ZtQjFodmVfZWVBcTJfVjR1VkVTdU1UTXZKeWJHbDRNa2NhaWEzbmxWcUZsUG1ZdG9oR1FOVEJGRjJJaldxREhuRG5rYUkxX3p3VFJYc2dRTUN4em5zaUJMNU9HR1F1Z3RiaEsxZ1czbmVLcHBxOVV0Z2w0TTNNNWItZHlhNjVvNDNXNGttT3g4dXJFdjcxUHRkdGVBbzZ5akgtVkp4RlM2S3U2UWRscA?oc=5",
+   "pub": "Fri, 27 Nov 2026 13:20:00 GMT"
   }
  ]
 }
