@@ -1,14 +1,14 @@
 {
- "collected_at": "2026-11-28T02:42:24Z",
+ "collected_at": "2026-11-28T11:49:55Z",
  "source": "GitHub Actions Cloud (laeuft auch bei Mac aus)",
  "quotes": {
   "USDCHF": {
    "price": 0.8357,
-   "chg1d_pct": 0.54
+   "chg1d_pct": 0.14
   },
   "USDJPY": {
    "price": 159.515,
-   "chg1d_pct": 0.19
+   "chg1d_pct": 0.15
   },
   "GBPCAD": {
    "price": 1.8662,
@@ -16,7 +16,7 @@
   },
   "AUDJPY": {
    "price": 106.075,
-   "chg1d_pct": 0.53
+   "chg1d_pct": 0.36
   },
   "EURUSD": {
    "price": 1.0939,
@@ -24,7 +24,7 @@
   },
   "GBPCHF": {
    "price": 1.0947,
-   "chg1d_pct": 0.46
+   "chg1d_pct": 0.09
   },
   "WTI": {
    "price": 83.08,
@@ -49,24 +49,24 @@
  },
  "headlines": [
   {
+   "t": "Drohnen über RAF Lakenheath: Verdacht gegen den Iran - Berliner Zeitung",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlqRmpwOGFZcmlmRUdtV3Ryajl6eUhSMFBoZVJsRlNRQ0xPU1liUG54dVdfWjdjeGhyNkQyYlJqbkthTm1yamFCYVBTWmhRUTM3YzJ4bkZFMG1uWS1IWGFBRDdPN0I5WnhLVzJnak5IUkxfNUZiN1VHVXIyeWNkbDNNd3plOGZFZXRzOHA4aXNoU21UVUlZcnp0MmhtVU9Oekpn?oc=5",
+   "pub": "Sat, 28 Nov 2026 09:11:57 GMT"
+  },
+  {
+   "t": "Erschütterndes Schicksal aus dem Iran: Baby mit 14, dann prügelte sie ihr Ehemann tot - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ2NmVWRMWUJ6VTJJYzVLRzkzbVhCdlFJcEhkMVcyVS1sUnRQVUhMNnFjUlRwcFVoMmtPZkxqc0QwUEg0YVhVOEtWblV1UHlLWjE2STlJWDQyMXB4M2RjWi1zUzJNcjBxQWtaWlVyYTJUZTNCT3otbnFra0FETFhBWHJwa3Q5MEszSm1oeWozc0RvVXdDMWV2bDZYUkprVU43bWFhcU5DNXV3WTdVbmdmakZ2dEVfMW42QmlKYXVIZUduWVJvckFKV3pfcjZlUkJ1dlE?oc=5",
+   "pub": "Sat, 28 Nov 2026 10:03:00 GMT"
+  },
+  {
    "t": "Streit um Angriff gegen Iran: Mossad-Chef drängt auf israelischen Alleingang - Jüdische Allgemeine",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzZJM0pUOUdMYl8ydUZXMDdnSkhCd0toN2tKdEhEVkdDQ2V3UU5WcTg0SUI2MUJaVkRxRmRhTWtnbVZlUTVDcFpRM3BSS05VbXlGQnpZd3lTNEpvbmRXX0tDcFlUcDdzT1hSS3kyT0FfNWx1NTdncmJZaDB3QmJfWm95SjRWMm02d2M0TUx4eE5NT0h6MnQ1UHB3TTFfSUh1cUx1c1l2ZVFQT191aTJYWnpJQjVjZ09OcEd6RA?oc=5",
    "pub": "Fri, 27 Nov 2026 11:18:00 GMT"
   },
   {
-   "t": "Iran: Sängerin nach Konzert ausgepeitscht - ZDFheute",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVVRZEluMnNKbEpTX25SNTc1Z1MyRjd6T09nYVlzTC1rNXN6UXRiaFp3NE5CRFJzLWxpbzVfY2FUSW1yTmxHSEEwMmg5WHp0SmFVOVF4bXZIbTZMSjkzMU42aVNhLTRKWHMxYmg2VkJ3aFJrWUtram95Q0tDWlUtcDhTRTBPcGEw?oc=5",
-   "pub": "Fri, 27 Nov 2026 21:00:00 GMT"
-  },
-  {
-   "t": "Iran-Vermittler packt aus: So reden Washington und Teheran, wenn keiner zuhört - der Freitag",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmJjRlEteUZTWllELVI0N0w4MGVndGNwMzhQWmo4MWxhY1Vkck1IUjhQeEc2LXk4X2Zpa1FCVW0xOFlndnoxWFJPdW5lZUkwWW9RY3luMjZqT2I4c3J2OVVjUlFBanJhVE82ZU1JaWF1U0ZHR2M4b2pxUlA3VzVvTDNVOW85YThiaEFUN3hiU3FJYWlKVlcxN2hRY01odUlaSHlvZHFhLUFOak5JRVF3YTN2THdpNzNn?oc=5",
-   "pub": "Fri, 27 Nov 2026 13:12:00 GMT"
-  },
-  {
-   "t": "Nach Iran-Protesten: Mullahs wollen Zwillings-Schwester hinrichten - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVVCYWFfY01LVVBwTTE0SmlEeW9ibi01amY1U2hzSEVXY2ozNjhsVUUtWHdIX1NmQUZXX2F6N2lqWVZ2b1NmOE5jRmk3eHNzc19JX0d5TktEUlVzRmJKWm9vYmpFMjNTZktHdG5TQ25ac0ZpYnVfNzFVR0VVSHM1NDc1OVJPM0xBUnF0TU4ta0Y3eFRrcFVXTG01UFhsa2wwNEVCQWVwN0JLZmtyU3otWDFZdmdfdWtwV1VoY05iVXN2b0dseGdEUGluS3B1T1RqbmF5M1ZPbVBHQjFGM1FV?oc=5",
-   "pub": "Fri, 27 Nov 2026 11:44:22 GMT"
+   "t": "Neue Studie: Anschläge, Entführungen, Morde – Deutschland und Europa im Visier des Iran - WELT",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTkZ3VlFHWnpUUS1XWXY1SEdEa2IxNUNwb1FQOUM4b0NodGtNZ1RvOW9fOFI0SlFkbDBkaEpwU3FiNHJjdDE3ZHNINmZqN09QbXg5T2xBZWl2blR2RmltbWpucUVycWZCU3lGSUpGLXgwU1d5YTBuOWRTZUlncENuVFo1bjYtdF9KTk1STC12RWtMTGZER1gxbWhvcXNldUpOSzhyeE8xMVk1NEZEcXdUQzMxVmEwd21lS1ZYd2FNTm1qSTFiY3RZZV9CUTJUaThFbDJNdng4QzRDSGh0MFp5ZFVQY0dNai1IbUJ2ZWxB?oc=5",
+   "pub": "Sat, 28 Nov 2026 11:37:30 GMT"
   },
   {
    "t": "Trump spielt Berichte über Hilfe Russlands und Chinas für den Iran herunter - STERN.de",
@@ -79,11 +79,6 @@
    "pub": "Thu, 26 Nov 2026 16:48:00 GMT"
   },
   {
-   "t": "Arthur Hayes gibt Wochenend-Warnung zum Kryptomarkt aus, Beginn der Fed-Blackout-Periode - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5STF9MSmpGdjhQUXNZSXp6dlhYQzVoUDc3LVloUTNQc1VDZVhPeFNybVNSaWgyRG5hY3FvbWxRUXotVERoVGJpRkpzTnNfLWlyTmkzelBKSThHVEJpaWptZHNkWFh4QThTb0VOZmpGa014UlR5QkE?oc=5",
-   "pub": "Fri, 27 Nov 2026 11:58:00 GMT"
-  },
-  {
    "t": "Frauen in Iran: Die Unbeugsame - taz.de",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XcjZyRG5mLWIwRmdpcGE0WGxWeEhNaWcwRU9QSE45UlFOQWUwQjEzdDhRZkZoUEFtQ18yY2VlTkhKLTdpSFhteGRFV1JNRHd3?oc=5",
    "pub": "Wed, 25 Nov 2026 19:07:18 GMT"
@@ -94,19 +89,24 @@
    "pub": "Thu, 26 Nov 2026 12:10:01 GMT"
   },
   {
-   "t": "Bitcoin-Prognose: Rutscht der Kurs vor der Fed-Sitzung im Dezember Richtung 50.000 US-Dollar? - Finanzen.net",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa3E3YkFfOG56Yy1EdGxTUUxNM3VYOVB3bk9kWUV5WUpHRWhnVVJNUFpDR3dleXMtMmhLZXNGRXpwV3h1cjFhT0c1eUppUUpXOVpsSTdubU5uRlVYSGNBb2J3a29ISV9KMVdoTGg2SUNwWGZlOFlsTVNWMGJjdVBKMXN5YlBiZkxod05zd2RmY0xFTm5CcktwMGlKVEJlQW82TEIxbXR4RTRWSnUybkFUcDk4a1dpUXZoVHR3elQ0TEdoYlZ2bWRVZU9TQjUxUUdJSFYxRGxiRFExRDJlanljR2lMc2dUOURIeHl3cUxnN2REUQ?oc=5",
-   "pub": "Fri, 27 Nov 2026 20:39:00 GMT"
+   "t": "Iran-Vermittler packt aus: So reden Washington und Teheran, wenn keiner zuhört - der Freitag",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmJjRlEteUZTWllELVI0N0w4MGVndGNwMzhQWmo4MWxhY1Vkck1IUjhQeEc2LXk4X2Zpa1FCVW0xOFlndnoxWFJPdW5lZUkwWW9RY3luMjZqT2I4c3J2OVVjUlFBanJhVE82ZU1JaWF1U0ZHR2M4b2pxUlA3VzVvTDNVOW85YThiaEFUN3hiU3FJYWlKVlcxN2hRY01odUlaSHlvZHFhLUFOak5JRVF3YTN2THdpNzNn?oc=5",
+   "pub": "Fri, 27 Nov 2026 13:12:00 GMT"
   },
   {
-   "t": "Iran: Zivilisten an die Waffen! - DIE ZEIT",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tbjdxR0ZULU5TR2I5bkpKVWlkQXpfYnEwemdPbTJveVVVc3dfeEdHNWl3OER6Wms2X2RBdmRVSnpoMk1qZG1fM25penhVcVpPaDVtZUxJUTU3SVlQM0E4SXJ4c05QOXZOREFNLXZVQ1Y?oc=5",
-   "pub": "Fri, 27 Nov 2026 14:14:53 GMT"
+   "t": "Iran: Sängerin nach Konzert ausgepeitscht - ZDFheute",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVVRZEluMnNKbEpTX25SNTc1Z1MyRjd6T09nYVlzTC1rNXN6UXRiaFp3NE5CRFJzLWxpbzVfY2FUSW1yTmxHSEEwMmg5WHp0SmFVOVF4bXZIbTZMSjkzMU42aVNhLTRKWHMxYmg2VkJ3aFJrWUtram95Q0tDWlUtcDhTRTBPcGEw?oc=5",
+   "pub": "Fri, 27 Nov 2026 21:00:00 GMT"
   },
   {
-   "t": "Erschütterndes Schicksal aus dem Iran: Baby mit 14, dann prügelte sie ihr Ehemann tot - BILD",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ2NmVWRMWUJ6VTJJYzVLRzkzbVhCdlFJcEhkMVcyVS1sUnRQVUhMNnFjUlRwcFVoMmtPZkxqc0QwUEg0YVhVOEtWblV1UHlLWjE2STlJWDQyMXB4M2RjWi1zUzJNcjBxQWtaWlVyYTJUZTNCT3otbnFra0FETFhBWHJwa3Q5MEszSm1oeWozc0RvVXdDMWV2bDZYUkprVU43bWFhcU5DNXV3WTdVbmdmakZ2dEVfMW42QmlKYXVIZUduWVJvckFKV3pfcjZlUkJ1dlE?oc=5",
-   "pub": "Fri, 27 Nov 2026 22:00:31 GMT"
+   "t": "Trotz Iran-Krieg: Mittelstand blickt wieder optimistischer auf die Geschäfte - Tagesspiegel",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVml6dWVYSEo5WVQxd1lORHVRU3F2SDFZdG53bnUxTlVuejZGN1FUS3F2c3ZjTVRBeVk4LXVWeVM3My1adlEtc3Q0eHA3ajVHQ1o5ZkpFZVhoLXkzSW5tSVVKdFdOYjlMcEpXckEwaDRSYVluR1JJemVlSXBrRGlrbFpLbjFfV3pvVTFoajNic1hPWVZwc1daTUt3VVlZSXFjV3lpU2J2c21pYmpCWUJRaW5veEFzb19PakVyNVFiNFZlTFAwZVVYSnctd2Y?oc=5",
+   "pub": "Sat, 28 Nov 2026 04:01:24 GMT"
+  },
+  {
+   "t": "Nach Iran-Protesten: Mullahs wollen Zwillings-Schwester hinrichten - BILD",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQVVCYWFfY01LVVBwTTE0SmlEeW9ibi01amY1U2hzSEVXY2ozNjhsVUUtWHdIX1NmQUZXX2F6N2lqWVZ2b1NmOE5jRmk3eHNzc19JX0d5TktEUlVzRmJKWm9vYmpFMjNTZktHdG5TQ25ac0ZpYnVfNzFVR0VVSHM1NDc1OVJPM0xBUnF0TU4ta0Y3eFRrcFVXTG01UFhsa2wwNEVCQWVwN0JLZmtyU3otWDFZdmdfdWtwV1VoY05iVXN2b0dseGdEUGluS3B1T1RqbmF5M1ZPbVBHQjFGM1FV?oc=5",
+   "pub": "Fri, 27 Nov 2026 11:44:22 GMT"
   }
  ]
 }
